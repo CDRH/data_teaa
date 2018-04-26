@@ -1,0 +1,5532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Despatches from United States consuls in St. Paul de Loanda, 1854-1893--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- Despatches from United States consuls in St. Paul de Loanda, 1854-1893--></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<publisher>US Department of State</publisher>
+<title level="j"></title>
+<biblScope type="vol"><!-- --></biblScope>
+<biblScope type="roll"><!-- 1-5 --></biblScope>
+<date from="1854-01-12" to="1893-03-29"><!-- January 12, 1854 - March 29, 1893 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Consulate Activity</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Journal</term>
+</keywords>    
+
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="KS"><!-- Transcribed --></change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<!---Roll 1-->
+
+<p>Loana S.W. Coast of Africa
+January 12th 1854</p>
+
+<p>Hon. Wm. L Marcy <!--*ViewScan_0000-->
+Secretary of State
+U. S. America</p>
+
+<p>Sir.
+By the <unclear>Bark</unclear> "Seamerr"
+which vessel discovered at Ambriz on the 28th ult. I had
+the pleasure of receiving a Commision from your
+Department as U. S. Com. Agent to Loanda
+on the arrival of the <unclear>"Seamerr"</unclear> at this port I shall
+without doubt recieve the U.S. Flag, Seal of Office,
+&#38; several Books which I am informed are on board. </p>
+<p>On the 12th November 1853, Commodore Mayo
+commissioned me as Acting U. S. Consul, the Governor of
+this Province accepted me as such as far as his power
+so to do extended &#38; my name has been sent to the
+Queen of Portugal for confirmation.</p>
+<p>Taking into
+consideration these circumstances I now take the
+liberty of requesting the President to appoint me
+U. S. Consul instead of U. S. Com. Agent.</p>
+<p>The fees as Consul for this port will not amount
+to more than $70 or $80 a year.</p>
+<p>You will please inform me if a Commander
+of a U. S. Man of War has a right to put men taken
+from an alleged or real slaver on shore at this port &#38;
+if so &#38; these men are taken sick or need assistance is
+the Consul obliged to render such assistance. </p>
+<p>You will also please inform me if the Consignee 
+of an American vessel is obliged to hand the Invoices
+of the Cargo homeward to the Consul in order that the <!--*ViewScan_0001-->
+Consul may certify the correctness of the same and
+also the value of the Spanish dollar in this currency.</p>
+<p>As regards the Bond which you sent me I shall
+forward it to Salem for the Signatures by the first direct
+opportunity which however will probably not be till
+March or April.</p>
+<p>I shall send to your Department a list
+of American Vessels entering or clearing at this port
+&#38;c every six months.</p>
+<p>In answer to your request to
+inform the Department the name of the State in
+which I was born, I will say I was born in Salem,
+in the State of Massachusetts, &#38; I have always resided
+there with the exception a few months passed in
+Rio Grande, Brazil, till I came to Loanda, at which 
+place arrived in September 1853.</p>
+<p>I should have 
+wrote you previous to this in relation to my appointment
+by Com. Mayo but my friends had made the request
+at Washington I deemed it unnecessary till I received
+advices from your Department.</p>
+<p>Any Letters or Instructions
+that you may be pleased to send me you can
+direct to the care of R Brookhouse Esq. Salem,
+Mass. who will forward them by first opportunity.</p>
+<p>Very Respectfully,
+Your Obt. Servt
+John G. Willis</p>
+
+
+
+<!--*ViewScan_0002-->
+<p>The "Constitution" sailed from Loanda for St. Helena Nov 17, '53.</p>
+<p>The "Marion" is now in the neighborhood of the Congo River &#38; Ambriz. </p>
+<p>The "Perry" has not been here since February '53.</p>
+
+
+
+<p>Loanda May 11, 1854</p>
+<p>Hon. Wm. L. Marcy <!--*ViewScan_0003-->
+Secretary of State U. S. A.</p>
+
+<p>Sir
+I have this day drawn
+on you in favor of Eliza Willis of Salem Mass for
+twenty-eight &#38; 93/100 dollars, being the amount paid
+by me for Flagstaff &#38;c as to Bill which accompanies
+the draft. </p>
+<p>I have not yet sent the Bond owing to my
+request to be appointed Consul instead of Com Agent
+&#38; as to my Letter of Jany 12th via England for this Port,
+presuming if I received the appointment of Consul
+it might require a different Bond.</p>
+<p>Trusting the
+request previously alluded to will receive your kind
+attention.</p>
+
+<p>I remain
+Yours Very Respectfully
+John G. Willis</p>
+</div2>
+<div2 type="titles">
+
+
+
+<p>Salem Mass Sept 27 1854</p> <!--ViewScan_0004-->
+<p>Hon. Wm. L Marcy
+Secretary of State U.S.A.</p>
+
+<p>Sir
+Circumstances having
+caused me to leave Loanda previous to giving you notice thereof, I
+avail myself of the first opportunity since my arrival to inform
+you that I have left the office of Commercial Agent in charge
+of my Partner in Business at that place Mr Aug. A. Sebra.</p>
+<p>I am now about closing an engagement to return &#38; when
+completed intend visiting Washington with some Introductory
+Letters relating to my appointment as Consul at Loanda instead
+of Com Agent.</p>
+<p>Very Respectfully
+Your Obt Sevt
+John G. Willis</p>
+
+
+
+
+<p>Salem Mass Nov 16, 1854</p> <!--ViewScan_0005-->
+<p>Hon. Wm. L Marcy
+Secretary of State U.S.A.</p>
+
+<p>Sir
+Your circular of Octo 8th, 
+'53 March 15th - &#38; September 18 54 more received since
+my return from St. Paul de Loanda at which Port I
+have the honor of acting as U. S. Commercial Agent. </p>
+<p>On my arrival I addressed the department to
+that effect &#38; now advise you of my intended return 
+to that port which will probably take place about
+the 28th or 30 inst.</p>
+<p>As many of the Queries in the
+Circular of Oct. 8 53, &#38; Interrogatories of March 15th
+54 cannot be answered by me at the present time, I
+am compelled to postpone my answer until my
+return to Loanda. I much regret that I am
+unable to give the desired information previous to
+the close of the year 1854 but on my arrival at
+Loanda I will give it my earliest attention &#38;
+forward by first opportunity.</p>
+<p><sic>Accompaning</sic> this formed to your
+Department the Returns of the Com Agency at
+the Port St. Paul de Loanda ending June 30 '54. </p>
+<p>I am Sir, very Respectfully
+Your obedient Servant
+John G. Willis</p>
+
+
+
+<p>No. 5 <!-- ViewScan_0006-->
+Salem Mass, 27th Nov 1854</p>
+
+<p>Sir,
+Yours of the 20th inst. was duly
+received together with my Passport &#38; Navy Register.
+I have also received two packages containing the
+Statutes at Large &#38; an American flag but have
+not received the Circular of Octo 8th filled out
+nor the Army Register.</p>
+<p>I have this day drawn
+on you at three days after date in favor of Adams
+&#38; Co for Fifteen dollars being amount of Stationary
+for the Commercial Agency at St. Paul de Loanda.</p>
+<p>I am Sir, Very Respectfully
+Your Obedient Servant
+John G. Willis
+Com Agent U. S. A.</p>
+
+<p>Honorable Wm. L Marcy
+Secretary of State of the United States
+Washington D.C.</p>
+
+
+
+<p>Mr Appleton to Mr McKeon </p> <!--*ViewScan_0007-->
+
+<p>Department of State
+Washington, May 4th, 1857</p>
+
+<p>John McKeon Esq
+U. S. Attorney
+N. York</p>
+
+<p>Sir:
+I beg leave to apprise you of the
+arrival of Salem, Mass, of Mr John G
+Willis  the U. S. Commercial Agent at
+St. Paul de Loanda an extract from one
+of whose despatches was sent to you
+by this Department on the 27th ultimo.</p>
+<p>Should you desire any information
+touching the slave trade on that Coast
+he will if requested, visit New York,
+for the purpose of conferring with you on
+the subject.</p>
+<p>I am, Sir, your obedient servant
+John Appleton,
+Assistant Secretary</p>
+</div2>
+<div2 type="titles">
+
+
+
+<p>No 8 <!--ViewScan_0008-->
+US Commercial Agency
+St. Paul de Loanda
+30th September 1857</p>
+<p>Sir:
+I have the honor to
+enclose herewith the quarterly
+returns of Vessels arriving at and departing from this Port from the
+1st July to 30th September 1857</p>
+<p>I have the honor to be
+Your Obedient Servant
+Simon Stodder
+Vice Commercial Agent</p>
+
+<p>To
+Honble Lewis Cass
+Secretary of State
+U.S.A.</p>
+
+
+
+<p>New York Nov 9 1857</p>  <!--ViewScan_0009-->
+<p>Sir
+Some months since I had the
+money to receive from the State Department and a leave of
+absence from my post at St. Paul de Loanda West Coast
+of Africa.</p>
+<p>It was then my intention to resign on my arrival
+in the States but circumstances have since occurred by
+which I intend to return.  I now very respectfully
+request your Honor to allow that liberty to extend till
+next March for the reason that I do not wish to arrive
+on the Coast till after the months are considered the worst part of the year
+on the S W  Coast of Africa.</p>
+<p>I trust my past services &#38; attention to the duties
+previous to the time of a Salary being affixed have entitled
+me to retain the Office for another term &#38; that my request 
+may be granted.</p>
+<p>It is my intention to visit Washington
+previous to my departure as I have some important subjects
+to lay before the Department.</p>
+<p>Any communication you may have to call my
+attention, please address me at No 158 Pearl St. New York
+City.</p>
+
+<p>Very Respectfully
+Your Obt Servt
+John G. Willis
+US Com Agent At St Paul de Loanda</p>
+
+<p>Hon Lewis Cass
+US Secretary of State
+Washington DC</p>
+
+
+
+
+<p>Department of State, <!--ViewScan_10000-->
+Washington , November 16 1857</p>
+
+<p>Memorandum
+U.S. Commercial Agency,
+St. Paul de Loanda</p>
+
+<p>Mr. J G Willis, the present Commercial Agent 
+was appointed to this office August 23, 1853.
+He is now in the United States and asks an
+extension of his leave of absence for the reasons
+mentioned in his letter which is hereto annexed.</p>
+<p>The salary which was not affixed
+to the office till the 1st of January 1857 is only
+$1000.</p>
+<p>The fees in 1854 were $142.00
+            "       "    1855     "      132.35
+            "       "    1856     "      193.50
+Mr Willis appears to have discharged his duties
+quite efficiently in an unhealthy climate; he
+returned to the United States to recount his health,
+after an attack of the African fever.</p>
+<p>There is but a single applicant for the place,
+<unclear>Mr. Sebra</unclear>, whose papers are hereto annexed.</p>
+
+
+
+
+<p>Salem Mass February 12 1858</p> <!--ViewScan_10001-->
+<p>Sir
+I last had the honor of receiving
+from the State Department a despatch of Nov 21
+1857 extending my leaving of absence from the U. S.
+Com Agency at St. Paul de Loanda till March 58.</p>
+<p>I avail myself of this opportunity to inform 
+you that I now intend to leave this part for Loanda
+during the next month &#38; would very respectfully 
+request your notice of a few remarks in relation to
+the Commercial Agency at that port.</p>
+<p>By referring to my former despatches you
+will please perceive I have frequently alluded to
+the order of the Portuguese Government of depositing
+the Registers of American vessels with the Custom
+House authorities at Loanda instead of with the
+U. S. Com Agent. I have during my stay there
+used my best exertions in endeavoring to have the
+Registers in my possession while the vessel remained
+in port, but the Governor would not allow me to keep
+them. As I consider this "order" conflicts with the
+U. S. Law of Feby 28 1803, I would respectfully
+request some further instructions on this subject.</p>
+<p>There is also a very important subject which
+I wish to bring to the notice of the Department viz.
+the subject of a Burial place in Loanda for American
+Citizens. The English some years since had a
+small lot of Ground granted them by the Portguese
+Government for the purpose. In October 1856 I
+had occasion to request the Resident English Commissioner
+or Arbitrator {Mr E Gabriel}  for the privilege of
+burial in their cemetery of an American Ship master
+{Capt Wells of the Brig Charlotte of New York}  who
+died in the Congo River on the 13th Sept whose body
+was placed in a Cask of Rum &#38; and brought to Loanda
+in said Brig but through some misunderstanding Mr. <!--ViewScan_10002-->
+Gabriel finally declined to have the body placed there
+unless it was taken out of the Cask &#38; and placed in a Coffin.
+I requested the Government to give me liberty to employ the 
+Physico Mor to arrange it but on account of some fears
+they had in respect to contagion the Government declined
+the body was buried with the Cask in the vicinity.
+If your honor will direct the U. S. Minister at Loanda
+to apply the Portguese Government for a small lot of
+Ground for this purpose, I have no doubt but what they
+would comply with the request. I would add that it
+would not be necessary to go to any expense at present
+as regards fencing &#38;c The English have not as yet expended
+anything on their grounds but I understood there
+had been an application made to Government for an
+Iron fence as a Wood Fence would not last any length
+of time.</p>
+
+<p>I would request permission in case of sickness,
+to leave my post for a longer time than the two days if necessary.</p>
+<p>I notice in the List of Diplomatic Consular
+&#38; other Agents of the United States that I am the
+only Com Agent in the Portuguese Dominions &#38; if the
+Department would make this office a Consulate instead of 
+of Com Agency it would have a good effect in the Government
+at Loanda.</p>
+<p>I have also to to request the Department to attend
+me a flag also a small flag for a Bond &#38; if you think
+it advisable to change the Office to a Consulate, to
+send me at the same time a Seal of Arms.</p>
+<p>The Slave Trade has been of late carried on to
+a great extend on the S W Coast of Africa by vessels <!--ViewScan_10003-->
+sailing from Ports in the U States &#38; Havana some of
+which are armed by Portuguese living in New York 
+who through some Ship Brokers manage to elude the 
+vigilance of the U. S. authorities in that City.  
+This System interferes very much with those engaged
+in legal trade as they in order to maek a good appearance
+at the Custom House have a regular Cargo, which
+when the vessel arrived on the Coast is forced on the
+market at any price.</p>
+<p>The English Commander of Govenment vessels
+on the Coast have in many instances taken great liberties
+with American Vessels &#38; the presence of one or
+more U. S. Vessels is very important for legal &#38;
+illegal trade. The weather on the SW Coast is always
+good &#38; the harbour of Loanda is very fine, good
+water &#38; Provisions of all kinds can always be procured
+there at much cheaper sales than elsewhere on the Coast.</p>
+<p>Any communication you may have to forward 
+me please direct to Salem, Mass.</p>
+
+<p>Very Respectfully
+Your Obt Servt
+John G Willis
+U. S. Com Agent at St Paul de Loanda</p>
+
+<p>To the
+Hon. Lewis Cass
+Secretary of State U. S. A.
+Washington D.C.</p>
+
+
+
+
+<p>Huntsville, Alabama <!--ViewScan_10008-->
+December 6, 1858</p>
+<p>Sir,
+The President having some time since 
+tendered me the appointment of Consul
+of the United States at Loanda I have
+felt anxious to so arrange me private
+affairs as to be able to accede to his
+wishes and to proceed as soon as possible
+to the post assigned me. I regret
+now, however, to be compelled to advise
+you that imperious circumstances deny
+me the pleasure, at present, of obeying
+this call to the public service. I, therefore,
+most respectfully decline the acceptance
+of the tender made me; and in doing
+so, beg leave, through you Department,
+to offer to the President my sincere acknowledgements
+for this evidence of his
+favor and confidence.</p>
+<p>Please accept, Sir, for yourself, assurances
+of the high regard political and
+personal, with which I have the honor to be,</p>
+<p>Truly and faithfully
+Your Obt Servt
+W. D. Miller</p>
+
+<p>Lewis Cass
+&#38;c, &#38;, &#38;,
+Washington City</p>
+</div2>
+<div2 type="titles">
+
+
+<p>No 2. United States Commercial Agency <!--ViewScan_10010-2-->
+St. Paul Loanda January 26 1859</p>
+
+<p>Sir, 
+I last had this honor under date of
+October 11, '58, informing you that I had arrrived
+at this Port &#38; had entered upon the duties of this 
+office. I also informed you that the American Yacht
+Wanderer was then in the Congo River during the
+latter part of the month She left the River &#38; it is
+said, with a Cargo of Slaves. </p>
+<p>Since the capture &#38; burning of the Brig Rufus 
+Soulé off the Congo by H.B. M. Steamer Viper
+in October last, a statement of which was given
+to Capt. Totten of the U.S.S. Vincennes I have
+heard of four or five shipments being made, the last
+one a few days since in which the thousand Slave
+men placed on board one vessel. The Trade has now
+gone in part from the Congo River to the North of
+that river. Owing to the French Apprentice System,
+Slaves are rather scare &#38; the price has advanced.
+It is said there are a number of vessels off the
+Coast waiting for the Consigned to arrange a
+Congo.</p>
+<p>On the 8th December Sir Henry 
+Huntley, H. B. M. Consul for this Port arrived
+now. He came out as a Consul &#38; Clerks to the
+English Slave Commission presuming that Mr <!--10011-2-->
+Gabriel, H B M Arbitatior would return to England,
+&#38; then he would be acting Arbitatror &#38; Consul; but as
+Mr Gabriel does not intend leaving this at present, Sir
+Henry is officiating as Consul without accepting the
+post as Clerk to the Commission &#38; mailing for further
+instructions from his Government.</p>
+<p><sic>Accompaning</sic> this I enclose the Returns 
+from this Commercial Agency for the Quarter ending 
+December 31, 1858 &#38; have drawn in Your Honor for 
+Two Hundred forty-four &#38; 07/100 dollars being balance
+of my Salary for that Quarter. I am not able to 
+fill up the blanks with the exact value of the Inward
+&#38; Outward cargoes for the reason that a vessel entering
+to clearing at this Custom House is not obliged to place
+on her Manifest the value thereof. For a year estimate
+of the American Business done at this Port I should
+say that at the present time I will not exceed
+One hundred thousand dollars. Two or three years
+ago it would amount to one hundred &#38; fifty thousand
+dollars but since that time the Crop of Palm
+Oil has failed &#38; the Natives are obliged to eat the
+Palm Nut to keep from starvation.  Palm Oil it 
+is now thought will this year prove very fair &#38; if so
+it will enable the Portuguese Merchants to have to pay
+their Debts which in may instances have been standing
+very long-- their debts once settled will cause the two <!--10012-2-->
+American Houses here to order larger Invoices &#38; then of 
+course the Business will again increase.</p> 
+<p>It is the wish of the Governor General of the Province
+to take possession of the River Congo, but I understand the
+English Government will not allow them to go North of
+Ambriz. If Portugal should take that River there will
+be no more Slave Trade there &#38; perhaps England may in
+time change her views in this respect as it will save her
+considerable expense in taking of the African Squadron.</p>
+<p>The occupation of the Ambriz by the Portuguese has not
+yet resulted favorably. They have been at considerable expense
+&#38; there is now only one foreign House there &#38; that
+an American- The one English House that formerly done business
+at Ambriz, have now left on account of the
+high duties &#38; {which are more than Mr O'Sullivan the
+late U. S. Minister at Gabon was given to understand
+by the Portuguese Minister} &#38;  have gone to a place
+called "Kisembo" 7 miles north of Ambriz, together
+with a Branch of the American House &#38; a Dutch
+House where they got a clear of all Custom House charges
+&#38; at the same time do considerable Trade with the Natives.</p>
+<p>The Copper Mines at Ambriz have not proved
+so favorable as they were at first expected &#38; it is said
+will result in a great less to those concurred. </p>
+<p>Some time since, I wrote the Department in
+respect to a Burial Place in Loanda for deceased <!--10013-2-->
+Americans &#38; under date of February 15 1858 I am
+informed by the Department that the United States
+Minister at the court of Lisbon will be informed of
+my request. As yet nothing relating thereto has been
+received at this agency &#38; I now take the liberty of 
+again calling the attention of the Department to this
+subject.</p>
+<p>Very Respectfully
+Your Obt Servt
+John G Willis</p>
+
+<p>Hon Lewis Cass
+Secretary of State U S A
+Washington D C</p>
+</div2>
+
+<!--restart here-->
+
+<div2 type="titles">
+
+
+<p>United States Commercial Agency <!--ViewScan_20001-->
+St. Paul Loanda May 5 1859</p>
+
+<p>Sir 
+On the 26 January last I had
+the honor of addressing you, enclosing the Returns
+of the Commercial Agency for the Quarter ending
+Dec 31 1858 &#38; at same time drawing for
+$244.07 being balance of my Salary for that
+Quarter.</p>
+<p>In that Despatch I gave some particulars
+respecting this Coast the arrivals of Sir
+Henry V Huntley H B M Consul for this Port
+Slave Trade &#38;c which I trust has been received.</p>
+<p><sic>Accompaning</sic> this I enclose the Returns from
+this Commercial Agency for the Quarter ending
+March 31 59 &#38; have drawn on your Honor for
+$238.89 being balance of my Salary for that
+Quarter.</p>
+<p>In my last I gave an ultimate of the 
+American Trade at this Port which I trust
+will serve the same purpose as if I entered the
+amount of the Inward &#38; Outward cargoes in the
+Returns which estimate can be now placed at
+One hundred thousand dollars per annum</p>
+<p>It is reported now that the U. S. S. "Marion"
+has taken as Prizes in the Congo River a Bark
+called the Orion of New York &#38; another Bark
+name not reported. H B M Steamer "Triton" <!--ViewScan_20002--> 
+Com Burton had the Orion in tow one or two
+days previous to the arrivals there of the "Marion", while
+at the same time the "Orion" had the American Ensign
+flying. Capt Brent of the "Marion" will undoubtedly
+inform his Department of the particulars in
+this case.</p>
+<p>It is also reported that the U. S. Government
+have made a proposition to England, that they
+will place on this Coast Ten Steamers of two Guns each
+instead of the Eighty Guns in large vessels. If so, it
+will do much in stopping the Slave Trade on this Coast
+As a Depot for Coals or Provisions  Loanda has 
+not its equal on the Coast of Africa. For further 
+particular respecting the advantages of this place. I 
+respectfully refer you to my former despatches.</p>
+<p>I have the honor to acknowledge the receipt of
+a despatch from your Department under date of Dec
+13 1858 advising me of the resignation of Mr Miller
+&#38; requesting me to continue in the discharge of the
+duties of the office till the further pleasure of the
+President is ascertained which request I respectfully
+comply with.</p>
+<p>I have the honor to be
+Your Most Obdt Servant
+John G Willis</p>
+
+<p>Hon Lewis Cass
+Secretary of State</p>
+</div2>
+
+
+<div2 type="titles">
+<!--ViewScan_20003-->
+<p>May 6 
+A small topsail Schooner name not
+yet given was towed in here yesterday by H B M
+Steamer "Triton" which vessel was taken off Mazula
+about 40 Miles to the North of Loanda without flag
+or papers She was 3 months from Havana &#38; had
+Six hundred doubloons on board. I have not
+seen any person belonging to her but get my information
+from H B M acting Commissioner. The
+"Triton" after coaling here will leave with her Prize
+for St. Helena.</p>
+
+
+
+
+<!--ViewScan_20004-->
+<p>Loanda July 29th 1859</p> 
+
+<p>John G Willis Esq
+U. S. Commercial Agent</p>
+<p>Sir
+The <sic>inclosed</sic> abstract 
+from my ship's log will sufficiently
+explain itself.</p>
+<p>While on this coast last
+voyage in 1857 &#38; 8 we were chased,
+fired into with shot guns hove to
+and detained on our voyage on two
+different occasions by English
+Cruisers. Since then our government
+having conveyed to that of the
+English an assertion of a plain
+and explicit denial of the right
+of any foreign ships of war to stop or
+detain any merchant ship bearing
+the American flag upon the high
+seas under any circumstances or
+pretense whatever and the English
+Government having assented to it
+and disclaimed all such right
+we had not anticipated being
+again subjected to such <sic>shamefull</sic>
+<sic>disgracefull</sic>, troublesome and most <!--20005-->
+disagreeable delays involving loss
+of time to the ships and pecuniary
+loss to her owners which latter is especially
+the case on the occasion as our commission
+was urgent its success depending
+upon our reaching "Principi" in
+time to anticipate the advices for
+there <unclear></unclear> mail steamer "Estephania"
+to sail the day after us from Loanda
+for St Thomas with mails for "Principi"
+to be forwarded from there.</p>
+<p>You therefore realise in some measure
+how vexatious was the delay to
+which we were subjected and the
+pecuniary loss involved may be very
+considerable.</p>
+<p>With full assurance that
+we shall meet with welcome and
+prompt attention in protection of our
+rights our lives and our property
+I have the honor to be</p>
+<p>Sir
+Respectfully
+Yr Mo Obt Svt
+Signed John W. Goodridge
+Master of Barque Hazard
+</p>
+</div2>
+
+
+
+
+<div2 type="titles">
+
+<!--ViewScan_20006-->
+
+<p>Hon Lewis Cass
+Secretary of State
+U. S. A.</p>
+
+<p>United States Commercial Agency
+St Paul de Loanda Jany 24 1860</p>
+
+<p>Sir
+Herewith I enclose Returns
+from this Commercial Agency for the Quarter 
+ending December 31 1859. The A/C Current
+for same I have directed to the Fifth Auditor
+of the Treasury &#38; have drawn on the Hon.
+Secretary of the Treasury for the Balance due
+me as the Circular of your Department dated October
+1st 1859.</p>
+<p>My last despatch addressed to Your Honor
+was under date of November 19th enclosing the
+Register &#38;c of Bank E A Rawlins which
+vessel left St Thomas in June 1859 without a
+proper clearance from the Custom House also
+informing you the particulars of said case in
+connection with a person calling himself Wm.
+Ross Postell</p>
+<p>Having now been in this Port the past 17
+,months, &#38; as it will be 5 or 6 months more
+before I can receive an answer to this. I now very
+respectfully request Your Honor to grant me
+leave of absence to take effect as soon as 
+practicable after the receipt as it may be advisable
+for me to return to the States in the course
+of Six Months.</p>
+
+<p>Very Respectfully
+Your Obt Servt
+John G. Willis</p>
+
+<p>Lewis Cass
+Secretary of State
+U S A</p>
+
+<!--ViewScan_30001-->
+
+<p>No 9.
+United States Commercial Agency
+Loanda May 23 1860</p>
+
+<p>Sir,
+Herewith I enclose Returns from
+this Commercial Agency for the Quarter ending
+March 31, 1860. The several accounts &#38; certificates
+I have directed to the Treasury Department
+&#38; have drawn in the Hon. Secretary of Treasury
+for $227.11 &#38; being balance of my Salary for that
+Quarter.</p>
+<p>I last had the honor of addressing you
+under date of January 24th enclosing Returns
+for the Quarter ending December 31, 1859 at
+wich time I requested leave of absence to take
+effect as soon as practicable after the receipt of your
+answer which I trust has been granted.</p>
+<p>For then months past there has been considerable
+trouble at Ambriz &#38; Kisembo caused by the receipt
+of a Letter at Ambriz sent by H. B. M. Commissioner
+of this place, but said to have been written by the
+Brazilian Consul of this Port said Letter being
+directed to His Royal Highness Don Nicolau
+Prince of Congo &#38;c &#38;c said Nicolau a Black
+being at the time employed by the Portuguese 
+Govern- <!--30000-2--> ment at Ambriz in some moderate capacity.</p> 
+<p>The letter informed "Nicolau" that the Governor-
+General of this Province intended to imprison him
+for writing to the Libson Journals in respect to his
+Government &#38; advising him to leave immediately for
+Kisembo. On his arrival at Kisembo he entered
+an English house &#38; soon affirmed the Natives collected
+&#38; demanded him. After considerable delay
+Don Nicolas was given up &#38; immediately shot &#38; beheaded
+by the natives.</p>
+<p>As there is an American House at Kisembo
+owned by Messrs Brookhouse &#38; Co. of Salem Mass. I
+at once on hearing the proceedings of the Natives requested
+Capt Colhoun of the U S S Portsmouth to
+go there to which he immediately complied.
+On his arrival at Kisembo &#38; during his stay there of
+two or three days, every was quiet.  Some days
+afterwards the Gov. Genrl of this Province went with
+a force of 300 to 400 men to Ambriz &#38; Kisembo-
+At the latter place they burnt the native town &#38; then
+returned to Loanda.  While the Portguese troops
+were at Kisembo Capt Brent of the U S S "Marion"
+together with Capt Fitzroy of the H B M S Falcon were
+in here with a number of their men on the arrival
+of the Gov Genrl with his troops requesting permission
+to enter the Houses for replenishment &#38; Rest, he was <!--View Scan 30003_2-->
+refused, as it was the opinion of the Residents there
+that if the Portuguese entered: their lives &#38; property
+would not be as secure after the Portuguese
+Americans &#38; English left, as they would if they were
+not allowed to enter. Since then the Natives
+have made two unsuccessful attacks in Ambriz.
+Trade continues to be bought in by the Natives to
+Kisembo &#38; it is now quiet there.</p>
+
+<p>About the 1st of April some Portuguese Soldiers
+were coming from the Copper Mines to Ambriz &#38; 
+when within 15 miles of the latter place they were
+attacked by a large number of Natives &#38; obliged to
+retreat they jumped into the River
+"Logi" in order to cross to the other side. Their
+loss was near 100 including one Lady, the Wife of 
+the officer in command of the Party.</p>
+<p>The roads between Ambriz &#38; the Mines
+are filled with Natives &#38; the Portguese have
+collected a face of about 1000 men to march
+into the Interior. They left Ambriz on the 21st
+to punish the Natives &#38; also open the roads to
+the Mines.  This force is commanded by the
+best of the Portuguese officers attached to this Province,
+&#38; it is thought will be sufficient to drive
+the Natives from the vicinity.</p>
+<p>This interference of H. B. M. Commissioner <!--View Scan 30004-->
+&#38; the Brazilian Consul General has been the source
+of great anxiety to the Government of this Province,
+&#38; causing great expense. It will probably result
+in the Portuguese Government requesting the withdrawal
+of the above mentioned parties from their
+official functions.</p>
+
+<p>Very Respectfully
+Your Obt Servt
+John G Willis
+U S Com' Agent</p>
+
+<gap reason="hard to read"></gap>
+
+
+
+<!--30007-2-->
+
+<p>No 11 
+United States Commercial Agency
+Loanda Octo 23 1860</p>
+
+<p>Sir
+Herewith I enclose Returns
+from the Commercial Agency for the Quarter
+ending Sept 30 '60 The General accounts &#38;
+Certificates I have directed to the Treasury Deptartment
+I have drawn on the Hon Secretary
+of the Treasury for $189.12 &#162; being balance of
+my Salary for that Quarter.</p>
+<p>I last had the honor of addressing you
+under date of Sept 15th enclosing returns for
+the Quarter ending Sept 30th 60 Under this
+date I informed your Honor that a large number
+of Troops had arrived here from Libson I now
+have to add that a fever  resembling the Yellow
+Fever has broken out among them &#38; nearly one
+hundred have died within the past month.
+As yet it is mostly confined to the Hospital among
+the Soldiers, although there have been cases outside
+All who have as yet died with the disease have
+lately arrived here &#38;  it may possibly be Ship Fever
+I <sic>inclose</sic> the <sic>Bolletin</sic> in which you will perceive
+the Government are endeavoring by cleanliness
+&#38; to prevent the disease from spreading.</p>
+<p>Hon Lewis Cass
+Secretary of State
+Washington DC</p>
+
+<p>This Agency is very much in want of a
+new flag, also Forms Nos 14, 30, &#38; 44.  Will you
+be pleased to direct them to be sent. Vessels belonging
+to the House of Brookhouse &#38; co Salem,
+Mass, leave there every two months for the Port &#38;
+will forward anything the Department may desire.</p>
+<p>Very Respectfully,
+Your Obt Servt
+John G Willis
+U S Com Agent</p>
+
+
+
+
+<!--30009-2-->
+<p>No 12
+United States Commercial Agency
+Loanda January 22 1861</p>
+
+<p>Sir:
+Herewith I enclose Returns
+from this Commercial Agency for the Quarter
+ending Decmber 31 '60. The Journal Accounts
+&#38; Certificate I have directed to the Treasury
+Department &#38; have drawn on the Hon. Secretary
+of the Treasury for $219.12&#162; being Balance of
+my Salary for that Quarter.</p>
+<p>Under date of October 23rd I had
+the honor of addressing you &#38; enclosing Relations
+for the Quarter ending September 30 '60 The
+fever then prevailing here I am now pleased to
+say was of short duration &#38; did not affect the 
+old residents much being mostly confined to newcomers.</p>
+<p>I have now to inform Your Honor that
+your despatch of August 10th respecting the disposition
+made by the British Government of the
+Africans captured from Slavers by the British
+Navy, &#38; also as to the disposition made by that
+Government of the officers &#38; crews of these Slavers
+<p>Hon Lewis Cass
+Secretary of State</p>
+<!--View Scan 30010--> was not received of this Agency 'till November &#38;
+as I could not send an answer in season for the
+next session of Congress. I have delayed it till the
+present time.</p>
+<p>As regards the disposition of the 
+Africans, I cannot give you any reliable information,
+but presuming you have sent the same circular to the
+U S Consuls at St. Helena, Sierra Leone &#38; English
+West Indies., they will be able to give such information
+to the Department as is now required.</p>
+<p>Respecting the disposition of officers &#38; crews
+of Slavers I have to inform your Honor that when 
+a suspected vessel is boarded by the English, such inducments
+&#38; threats as given that the Master suspects
+more is known of him then in fact really is which
+generally leads to the giving up the vessel, when the
+officers have their choice of giving to St. Helena or
+Sierra Leone or being landed at some consement
+place in the Coast. The Crews nine times out
+of ten are put on shore immediately - If they are
+fortunate enough to be landed near the Congo River
+they can find friends among the Traders there who
+keep them till an opportunity offers of Shipping when
+they take this chance again- but many have been 
+left in desolate parts of the Coasts &#38; if they escaped 
+being killed or robbed by the passing tribes they have
+<!--30011-2--> generally died of African fever or hunger.
+Although it sometimes happens that one or two Americans 
+are found among the crews of vessels, yet
+generally they are comprised of Portuguese <add place="above">&#38;</add> Spaniards.</p>
+<p>Your despatch of November 1st informing me
+that some Consular forms &#38; a Boat flag have been
+sent to my address is received- the vessel being 
+the above is now in port &#38; on receipt of the package 
+I am in hopes to find that instead of a "Boat flag"
+I shall find one for the "Consulate flag staff" that
+being what I requested in my despatch No 10 under
+date Sept 15th.</p>
+<p>The Portuguese have again been
+fighting with the Natives North of this- burning
+several Towns &#38;c but as the Towns are built of Mud
+&#38; Straw, the damage done did not amount to much
+except helping clear rather largely on the Angola
+Treasury, which is &#38; has been for a long time in a 
+very <sic>undesireable</sic> condition.</p>
+
+<p>Very Respectfully
+Your Obt Servt
+John G. Willis</p>
+</div2>
+<div2 type="titles">
+
+
+<p>No 13 <!--30012-2-->
+United States Commercial Agency
+Loanda April 5 1861</p>
+
+<p>Sir,
+I last had the honor of addressing
+the State Department under date of January 22nd
+enclosing Returns from this Commercial Agency
+for the Quarter ending Dec 31 1861 also giving
+some information in respect to the disposition made
+by the British Government of the Africans captured
+from slavers by the British Army &#38; also as to the
+disposition made by that Government of the officers
+&#38; Crews of the slavers which I trust has ere
+this been received.</p>
+<p>I have now to inform your Honor that
+there is a prospect of a very serious affair occurring
+between this Government of Angola &#38; that of
+the United States owing to the imprisonment of
+Mr E A Birnie Naval Storekeeper for the U
+S Squadron on this Coast.  The facts as near 
+as I can accertain from Mr Birnie, his brother
+&#38; two Cabindas who were in the storehouse at the 
+time are that on the 9 March a Portuguese
+named Oliveira who had sold Mr. Birnie
+some wood, went into Mr B house to get the payment
+<!--30013-2--> of his account. Mr B told him he would 
+pay if Oliveira would deduct the price of 100
+sticks {value $125} which he had not received
+Oliveira said he could not deduct anything as he
+thought he had delivered the number according to
+his bill. Bernie told him he would not pay
+unless Oliveira made the deduction. Oliveira
+being ready to leave for Mossamedes in the Steamer
+then about to start &#38; not wishing to go before settling
+the Bill began talking very loud &#38; calling
+Birnie harsh names. Bernie then told him to
+leave the office which he refused to do till he
+received his money Birnie sent for the Police
+but they could not come without an order from
+the Chief who was not then to be found. Oliveira
+continued his insulting remarks when Birnie took
+hold of him to put him out when Oliveira struck
+Birnie with his Cane &#38; Birnie returned the blow-
+several blows passed between them &#38; Oliveira was
+considerably hurt in his head &#38; had his arm broke.
+Oliveira went to the Judge &#38; entered his complaint
+against Birnie &#38; his brother William {who says he
+did not strike Oliveira but only helped his Brother
+Edward put Oliveira out of the room}. Although
+the complaint was made on the 9th March the warrant
+for the arrest of E A and William Bernie was not
+<!--30014-2--> served till the 25th __ on which day Mr Birnie 
+went to the Judge in company with myself
+in order to get Bail. After an examination
+{part of which was forced &#38; without the aid
+or liberty of obtaining Counsel} Mr B was
+ordered to be taken to prison -which although
+may do to keep Portuguese is not fit for Americans
+in the situation of Mr Birnie in this country.-
+Mr B having been in the habit of corresponding
+with flag officer Inman wrote him that he
+had been ordered to prison &#38; requesting advice
+the flag officer requested me to obtain Counsel
+for Mr B which I did but as yet the Counsel
+has not been able to get Mr B out in bail although
+the Doctor has pronounced Oliveira in no
+danger of his life. Several Communications
+have passed between the Governor &#38; flag officer,
+&#38; I now understand flag officer Inman had
+<hi rend="underline">demanded</hi> the release of Mr Birnie by 12 N 
+this day.</p>
+<p>There is considerable excitement on
+board the "Constellation," Portsmouth, Mystic
+&#38; Sumpter" which vessels are now lying in
+this harbor. The San Jacinto left this on
+the 3rd inst to meet the "Mohican" which latter
+vessel has the Mails from the States via
+<!--30015--> England up to February 10th. The "San J"
+will probably return here by the 10th inst.</p>
+<p>Very Respectfully
+Your Obt Servt
+John G Willis
+U S Com Agency
+2 PM</p>
+
+<p>I now learn what I have stated 
+in respect to Mr Birnie being released at 12 N
+this day is without foundation &#38; that the flag
+ship goes to sea tomorrow.</p>
+
+<p>To the
+Hon Secretary of State
+Washington DC</p>
+
+
+
+<!--40000-2-->
+<p>No 14
+United States Commercial Agency
+Loanda April 29 1861</p>
+
+<p>Sir,
+Under date of April 5th I
+had the honor of addressing you under care
+of the U S Minister at Lisbon.</p>
+<p>I now enclose Returns from this
+Commercial Agency to the Quarter ending
+March 31 '61. The several accounts &#38;
+certificates I have directed to the Treasury
+Department I have drawn on the Honorable
+Secretary of the Treasury for $223.39
+being balance of my Salary for that Quarter.</p>
+<p>In my Letter of April 5 I informed
+you of the particulars respecting Mr E A 
+Bernie, U S Naval Shopkeeper &#38; have now
+to add that he still remains in Prison without
+as yet any evident signs of a quick
+despatch of his cases by the Judicial authorities
+of this place. <!--40001-2--></p>
+<p>I having received some time since
+Leave of Absence from the State Department
+it is my intention to take passage for Salem
+Mass in a few days &#38; have placed the Business
+relating to the Commercial Agency in charge
+of Mr Robert Cunningham who has been
+recognised as Acting U S Com Agent by
+the Govenor General of this Province.</p>
+<p>On my arrival at Salem I will
+inform the Department &#38; if required will
+visit Washington in order to give further
+particulars respecting Slave Trade. Imprisonment
+of Mr Bernie &#38; Removal of the
+U S Depot for the African Squadron.</p>
+<p>Very Respectfully
+Your Obt Servt
+John G Willis
+U S Com Agent</p>
+
+<p>To the 
+Honorable
+Secretary of State U S A </p>
+</div2>
+<div2 type="titles">
+
+
+
+<!--40002-2-->
+<p>No 17 United States Commercial Agency
+Loana June 30/61</p>
+
+<p>Sir
+Herewith I enclose
+Returns from this Commercial
+Agency for the Quarter ending
+30th June 1861. The several
+accounts and Certificates I have
+directed to the Treasury Department
+and have drawn on the Hon.
+Secretary of the Treasury for $228 36/100
+being Balance of my Salary for
+that Quarter.</p>
+<p>My Predecessor John
+G Willis last addressed you under
+date of 29th April informing you
+of his return to the United States
+on leave of absence he having appointed
+me acting commercial Agent
+at Loanda and being informed
+of his not returnign I beg to solicit
+the appointment as U S Commercial
+Agent.</p>
+<p>I beg to acknowledge
+the receipt of your Despatch
+under date of 22nd March last <!--40003-2-->
+accompanying one Tin Case
+Containing one Flag and
+Consular Forms.</p>
+
+<p>Very Respectfully
+Your Obet Servant
+Robert Cunningham
+Actg U. S. Com Agents</p>
+<p>Honble
+H Seward
+Sect of State</p>
+
+
+
+<!--40004-2-->
+<p>Salem Mass July 1, 1861</p>
+<p>Sir,
+I now have the honor to inform 
+you that I have arrived at this Port from St
+Paul Loanda.</p>
+<p>By refering to my No 14 enclosed Your
+Honor will perceive I am on Leave of Absence
+&#38; if it should be the desire of the State or Navy
+Departments that I should proceed to Washington,
+I will on receipt of Instructions to that
+effect at once avail myself of the opportunity
+to impart such information as it may be in my
+power so to do.</p>
+<p>Very Respectfully
+Your Obt Servt
+John G willis
+U S Com Agent</p>
+<p>Hon Wm H Seward
+Secretary of State
+Washington D.C.</p>
+
+</div2>
+<div2 type="titles">
+
+<!--40005-2-->
+<p>Salem Mass
+August 14 1861</p>
+<p>Sir
+Under Date of July 1, I
+informed Your Honor that I had returned from
+St Paul Loanda on Leave of Absence &#38; at same
+date sent my Returns for the Quarter ending MArch
+31st 1861.</p>
+<p>The Commercial Agency at Loanda
+is very much in want of a sign &#38; flag. 
+Will you please direct these to be sent to my care
+at Salem Mass &#38; I will see that they reach
+their proper destination.</p>
+
+<p>Very Respectfully
+Your Obt Servt
+John G Willis
+U S Com Agency</p>
+
+<p>Hon Wm H Seward
+Secretary of State
+Washington D.C.</p>
+
+
+
+
+<!--40006-2-->
+<p>Salem Mass
+Sept 9 1861</p>
+<p>Sir,
+I last wrote your Honor under date
+of August 14th informing you that the U S Commercial
+Agency at St Paul Loanda was very much
+in want of a flag &#38; Sign, &#38; requesting they might
+be sent to my care at Salem for me to foward.</p>
+<p>I now have to inform you that the Barks
+"Ann &#38; Mary" belonging to Brookhouse &#38; Co of this place
+will leave this for Loanda by the 16 or 17 inst.
+Any Letters or Packages that the Navy Department
+may wish to send the African Squadron will be forwarded
+free of freight by directing them to the care of
+R Brookhouse or Myself at Salem. Will you please
+notify the Navy Department of this opportunity &#38; will
+you cause the sign &#38; flag to be forwarded to me.</p>
+<p>Very Respectfully
+Your Obt Servt
+John G Willis
+U S Com Agent</p>
+
+<p>Hon Wm H Seward
+Secretary of State
+Washington DC</p>
+</div2>
+<!--Send Corrections before this point-->
+<div2 type="titles">
+<!--40007-2-->
+<p>United States Commercial Agency
+Loanda 30th September 1861</p>
+
+<p>Sir
+Herewith I enclose Returns
+from this Commercial Agency for the
+Quarter ending 30th September 1861.
+The several accounts and Certificates
+I have directed to the Treasury
+Department and have drawn on the
+Honorable Secretary of the Treasury for
+$205. 84/100 being balance of my Salary 
+for that Quarter.</p>
+<p>I have the honor to 
+acknowledge receipt of Despatches
+of 16 &#38; 17th July last addressed to
+J. G. Willis Esq having Reference to
+Salary and Consular fees.</p>
+<p>Very Respectfully
+Your Obdt Servant
+Robert Cunningham
+acting U S Com Agent</p>
+<p>To the Honble
+W H Seward
+Secretary of State</p>
+
+
+
+
+<!---40008-2-->
+
+<p>United States Commercial Agency
+Loanda 30th September 1861</p>
+
+<p>Sir
+I have the honor to acquaint
+you that the United States Commercial
+Agency at Loanda require the
+undermentioned viz
+forms Nos. 8 and 14 also Flag and
+Stationary</p>
+<p>Very Respectfully
+Your Obdt Servant
+Robert Cunningham
+Acting U S Com Agent</p>
+
+<p>To the
+Department of State
+Washington D.C.
+I certify to the Above
+George S. Essex</p>
+
+
+
+<!--40009-2-->
+
+<p>No 21
+United States Commercial Agency
+Loanda 31st December 1861</p>
+
+<p>Sir
+Herewith I enclose Returns from
+this Commercial Agency for the
+Quarter ending 31st December 1861
+The several accounts and Certificates
+I have directed to the Treasury
+Department and have drawn on the
+Honble Secty of the Treasury for $225. 29/100
+being balance of my Salary for that
+Quarter.</p>
+<p>Very Respectfully
+Your Obdt Servant
+Robert Cunningham
+Acting U S Com Agt</p>
+
+<p>The Honble
+W H Seward
+Secty of State
+D. C.</p>
+
+</div2>
+<div2 type="titles">
+
+<!--40010-2-->
+
+<p>United States Commercial Agency
+Loanda 9th January 1862</p>
+
+<p>Sir,
+I have had the honor to
+receive your Circular Despatch dated
+Washington 28th August, referring me to
+the Oath of Allegiance passed by an Act
+of Congress and approved the <sic>6st</sic> Inst. to
+each and every Officer, Clerk, or Employe
+now in their respective Departments:
+To the said act I have complied and
+enclose it herewith.</p>
+
+<p>Very Respectfully
+Your Obdt Servant
+Robert Cunningham
+Acting U.S. Com Agent</p>
+
+<p>The Honble
+W H Seward
+Secty of State
+D. C.</p>
+
+
+
+
+<!--40011-2-->
+<p>No 25
+United States Commercial Agency
+at Loanda 13t March 1862</p>
+
+<p>Sir,
+In compliance to Instructions
+Chap 19 &#167; 315 I have transmitted
+to the Department of State copies of
+an original correspondence I had
+the honor to forward to the United
+State Attorney of the Country of
+Suffolk Mass having reference to
+the murder recently took place
+on board the American Ship "Clara
+L. Preble"</p>
+
+<p>Very respectfully
+Your Obdt Servant
+Robert Cunningham
+Actg U S Com Agt</p>
+<p>To the Honble
+W H Seward
+Secretary of State
+&#38;c &#38;c &#38;c</p>
+
+<!--40012-2-->
+<p>Affadavit of Witnesses taken by
+Robert Cunningham Acting United
+States Commercial Agent at Loanda
+for the Murder of Lucius Fields by
+John <unclear>Borges</unclear> both Seamen on board the
+American Ship "Clara L. Preble" of Bath
+Mr William K Maxwell Master.</p>
+
+<p>1st Witness William K Maxwell
+<unclear>Master</unclear> of Ship "Clara L. Preble".</p>
+<p>On Sunday
+2 March 1862 John <unclear>Borges</unclear> American
+Citizen with Lucius Fields and three
+others was on shore, gave them liberty
+until 6 O'Clock P.M. a little over their
+time they came back to the Boat
+together being in liquor went on board
+the Ship "Clara L. Preble" and went to the
+forecastle about half an hour after I was
+called by the mate, saying there is a
+quarrel in the forecastle and having
+Knives out, I immediately went to
+the forecastle saw John <unclear>Borges</unclear> with a
+<unclear></unclear> knife in his hand also saw
+the deceased with a <unclear>Razor</unclear> in his
+hand being stabbed in the left breast <!--40013-2-->
+bleeding freely I asked John <unclear>Borges</unclear> for
+the Knife he immediately gave it to me
+I also asked the deceased to give me his
+<unclear>razor </unclear> he refused was obliged to take it
+from him by force, soon after I saw
+him lying on the deck, I gave orders for
+him to be taken up and carried to the
+forecastle I sent for the Doctor from the
+Portuguese Steamer <unclear>"Zaire"</unclear> then <unclear>Coaling</unclear>
+from my Ship and he was of the opinion that
+the Stab was mortal, I went off and
+then came forecastle in a few minutes,
+the man was still alive I went off again
+and shortly after was told that he was
+deal: during the voyage I have no reason
+to suppose any ill feeling existed 
+between the prisoner and deceased 
+previously that should lead him to
+commit the assault nor was he a 
+disorderly man nor was the deceased 
+after the deceased had been stabbed he
+threatened to cut the prisoner being very
+much intoxicated.</p>
+<p>(Signed) Wm K Maxwell of Brunswick
+Maine Master Ship "Clara L. Preble"</p>
+
+
+
+<!--40014-2-->
+<p><del></del>Witness Anthony <unclear>F Sampson</unclear> British
+Subject Chief Officer Ship "Clara L. Preble"</p>
+
+<p>Prisoner and deceased
+went on shore with Captain Maxwell and
+returned on board a little after Sun Set,
+the Carpenter <unclear>Benjamin Rees</unclear> reported to me
+that two of the men were quarrelling in the
+forecastle I went foreward and saw the
+brandishing and open Razor and swore that
+he would cut any person who interfered
+or came near near him using at the same
+time very abusive language: the prisoner
+asked me to take him away or he should
+hurt him I could not say whether the
+prisoner had or had not a Knife in his hand
+I went and reported to Captain Maxwell that,
+the men were quarreling the Captain then
+came foreward and went into the forecastle
+Witness and Carpenter <unclear>Benjamin Rees</unclear>
+followed the deceased had been stabbed but
+was still brandishing the Razor as before
+Captain and Witness endeavored to take the
+Razor from him and suppress the quarrel,
+the Carpenter <unclear>Benjamin Rees</unclear> then took
+the Razor from the deceased, we then laid <!--40015-2-->
+him down, the Captain sent for the Doctor
+of Steamer <unclear>"Zaire"</unclear> then <unclear>Coaling</unclear> from us, I
+asked the prisoner if he was sorry for what
+he did, he replied no and would do it again
+dam him let him die like a dog and I
+will hang like a man, Witness said you
+have done this under the influence of Liquor
+and tomorrow you will be sorry for it
+prisoner, replied and said I am perfectly
+sober. I have no reason to suppose any
+ill feeling existed between the deceased
+and prisoner previously.</p>
+<p>(Signed) Anthony Field Sampson of Bristol
+Resident of New York, Chief
+Officer Ship "Clara L. Preble".</p>
+
+
+
+<!--40016-2-->
+<p>3 Witness <unclear>Benjamin Rees</unclear> British
+Subject Carpenter Ship "Clara L. Preble"</p>
+
+<p>Prisoner Came off and
+asked the mate to take the decased from
+the forecastle I heard fthem quarreling
+in the forecastle. I told the prisoner to leave
+him alone as he was in liquor, seeing the
+Captain and mate urgent foreward, I also
+followed I then saw the deceased with a
+<unclear>Razor</unclear> in his hand, and also noticed that
+he had been stabbed I forced the <unclear>Razor</unclear>
+out of the decased hand, the Captain then
+sent for medical aid from the Steamer
+<unclear>"Zaire"</unclear> then Coaling from the Ship the
+Doctor announced the Stab mortal, and
+within half an hour the deceased received the 
+wound he died.  I do not know whether any
+ill feeling existed between the prisoner and
+deceased previous the latter was intoxicated</p>
+
+<p>(signed) <unclear>Benjamin Rees</unclear> of Bristol <unclear>Hot Wells</unclear>
+8 Victoria Place England
+Carpenter of Ship "Clara L. Preble".</p>
+
+
+
+<!--40017-2-->
+<p>4th Witness James H Hawkins
+American Citizen Seamen of Ship
+"Clara L. Preble"</p>
+
+<p>Lucius Fields who was
+in the Captain's Boat was on shore, when
+he came on board it was dusk, he went
+to the forecastle and took a <unclear>Razor</unclear> from
+his pocket, which he brandished about
+threatening the prisoner especially, and
+making use of abusive language, the
+prisoner told the deceased to leave him
+which he refused to do brandishing the
+<unclear>Razor</unclear> and made two cuts on prisoners 
+left thumb (on his examination was visible) 
+prisoner <unclear>reached</unclear> to a bunk and then with a
+knife in his hand stabbed the deceased in
+his left side, I then left the forecastle: I 
+saw the dungeon of the Steamer <unclear>"Zaire"</unclear>
+there; shortly after saw Lucius Fields
+dead. Knew of no ill feeling existing between
+the deceased and prisoner I am not aware
+if they were sober or not.</p>
+<p>(Signed) James H <add place="above">his</add>&#8224;<add place="below">mark</add> Hawkins of <unclear>Ball</unclear>
+Maryland Federal Hall <unclear>Shas</unclear> St U.S.A
+Seaman Ship "Clara L. Preble"</p>
+
+
+
+<!--40018-2-->
+<p>1 <unclear>Ques</unclear> by Prisoner</p>
+
+<p>2. Did you hear me ask the mate to
+take the deceased out of the forecastle?</p>
+
+<p>A. I heard you ask that Question as
+the prisoner wished to have nothing 
+to do with the deceased who was still 
+brandishing the <unclear>Razor</unclear></p>
+<p>(Signed) James H <add place="above">his</add>&#8224;<add place="below">mark</add> Hawkins of <unclear>Balt.</unclear>
+Maryland Federal Hall <unclear>Chas</unclear> St U.S.A</p>
+
+<p>5th Witness John <unclear>Symonons</unclear> Navigator
+Island Seaman Ship "Clara L.Preble".</p>
+
+<p>Witness spoke English extremely
+imperfectly but <sic>courborated</sic> all the main
+points of the previous evidence as far as
+could be possibly understood.</p>
+
+<p>(Signed) John <add place="above">his</add>&#8224;<add place="below">mark</add> native South Sea
+Island, Seamen Ship "Clara L. Preble"</p>
+
+
+<!--40019-2-->
+
+<p>6th Witness John <unclear>Thackskr</unclear> American
+Citizen Seamen of Ship "Clara L. Preble"</p>
+<p>I was sitting in the forecastle
+about Sun Set deceased came on board
+having been in attendance on the Captain
+on shore, the deceased was in liquor, he
+came into the forecastle with an opened
+Razor is positive that it was opened I
+left my seat when he was brandishing
+the Razor for fear of getting out, prisoner
+came in at the time, deceased addressing
+him saying, I will cut the  liver out of
+you, the prisoner said go away my man I
+dont want speak with you, you are in liquor
+to night tomorrow morning of you
+are a man I will speak with you the
+deceased cut the prisoner on the thumb
+he held out his hand to the deceased
+and said see how you have cut me, one
+of the Crew James Henry came into the
+forecastle and persuade the prisoner to
+leave him in hopes the deceased would
+go to sleep. Witness thinks the prisoner
+remained out about half an hour, he then
+came in leaning, over his bunk, the deceased
+still abusing him and laid <!--40020-2-->
+hold of him with the Razor still opened in 
+his hands prisoner said leave me alone I
+dont want to have anything to do with you
+we will settle it in the morning
+prisoner then went following the deceased the
+latter still holding the Razor open in his
+hand, they went out by the Starboard
+door and both entered the forecastle again
+by the Port door the deceased continued
+the same irritating abusive and threatening
+language, prisoner asked John
+<unclear>Symonons</unclear> to lend him his Knife to cut
+some meat the deceased continued in
+the same manner abusing and brandishing
+the Razor: when the prisoner stabbed the
+deceased in the left side with the Knife he
+staggered to his bunk and fell; medical
+assistance was immediately sent for
+he survived only about half an hour, I
+have no reason to suppose any ill feeling
+existed between the deceased and prisoner
+when the prisoner went out as before <unclear></unclear>
+he came back with his knife, the knife had
+tried to pacify the deceased but <!--40021-2-->
+quite unable to do so.</p>
+
+<p>(signed) John <unclear>Thackskr</unclear> of Boston Mass
+Seaman of Ship "Clara L. Preble"</p>
+
+<p>7th Witness William Boston American
+Citizen Seaman of Ship "Clara L. Preble".</p>
+
+<p>I was one of the Crew of the
+Captain's Boat having left the Ship after
+dinner and remains on there waiting
+on the Captain until Sun Set when we 
+went of to the Ship I was sober the others
+were in liquor more particularly the
+deceased who was very much intoxicated
+and getting out of the boat I helped him
+up the side of the Ship do not think he could
+get up without help, when I came out of the 
+boat after making her fast I saw the deceased
+in the <sic>Gally</sic> talking with the Cook I told
+him to go to the forecastle he went there
+deceased then took a Razor from his
+waistband and throwing both his hands
+up threaten "to cut the prisoners Guts out"
+prisoner told him frequently to go away
+from him, deceased continued in the <!--40022-2-->
+same threatening conduct for a quarter of 
+an hour repeating the same words, but 
+the <unclear>razor</unclear> not opened the prisoner left
+the forecastle for about five minutes and
+then returned <unclear>deceased repeated</unclear> the
+threats and language which he had
+before used. Prisoner asked John
+<unclear>Symonons</unclear> to lend him his Knife to cut
+a piece of meat <unclear>Symonons</unclear> lent it to him
+prisoner  stood with this knife in his hand
+telling the other to desist and go away
+deceased refused but rushed towards
+him with his arms extended but holding
+the Razor closed in his right hand still
+threatening the prisoner, he then stabbed the
+deceased in the left side who <unclear>reeled</unclear> back
+against a <unclear>bunk prisoner</unclear> withdrew the
+Knife the deceased continuing in the
+same manner using abusive language
+after he was stabbed. Prisoner said to
+the deceased you need not fret anymore
+as you have had it into you (meaning 
+the knife ) the prisoner then walks out of
+the forecastle said he had done it for himself 
+but could not keep it, I knew nothing <!--40023-->
+more as I was ordered on those by the
+make to the Consul and when I returned 
+found that he had died.</p>
+
+<p>(Signed)William <add place="above">his</add>&#8224;<add place="below">mark</add> Boston of <unclear>Balt.</unclear>
+Maryland <unclear></unclear> Alley, Seaman
+of Ship "Clara L. Preble"</p>
+
+
+<p>I the unassigned acting Commercial
+Agent as hereby Certify the foregoing
+is the true copy of genuine signatures of
+Witnesses taken by me at this Commercial
+Agency on the 8th March 1862</p>
+<p>Given under my hand
+and the Seal of this Commercial Agency in the year of our
+Lord One Thousand Eight
+Hundred and Sixty Two 
+Robert Cunningham
+Acting Com Agent</p>
+
+
+
+
+
+
+<!--500002-2-->
+<p>United States Commercial Agency
+at Loanda 13th March 1862</p>
+
+<p>Sir,
+I have the honor to enclose
+herewith in original an Affadavit of
+Witnesses taken by me at this Commercial
+Agency on the 8th Inst. For the Murder of
+Lucius Fields by John <unclear>Borges</unclear> on board the
+American Ship "Clara L. Preble" of Bath Me
+ which arrived at this port on the 17th
+Feby. last past Laden with Coals from Cardiff
+England: the Crew shipped at the said port
+all being colored excepting the Master, Mate
+and Carpenter, the prisoner and decreased
+were colored and Citizens of the U S
+Baltimore Maryland.</p>
+
+<p>Referring to Instruction
+Chap 19 &#167; 315 requires two of the principal
+witnesses to be sent home with the person
+accused, the Vessel being that of 
+would be an impossibility to comply <!--50001-2-->
+with the demands as the ship could not
+proceed on her Voyage the particulars
+relating to this Case is mentioned in the
+letter</p>
+
+<p>I Robert Cunningham acting
+U. S. Commercial Agent at Loanda send
+the prisoner home in the <unclear>"Ann &#38; Mary"</unclear> an
+American <unclear>Bark</unclear> of Salem Francis <unclear>Bathage</unclear>
+Master bound direct from here to the
+United States, the said Master beaming
+a certificate from this Commercial Agency</p>
+
+<p>With respect
+Sir
+Your Obet Servant
+Robert Cunningham
+Acting U.S. Com Agt</p>
+
+<p>To the
+United States Attorney
+Country of Suffolk
+Mass
+&#38;c &#38;c &#38;c</p>
+
+</div2>
+<div2 type="titles">
+
+
+
+<!--50002-2-->
+<p>Copy
+<unclear>Albion</unclear> March 17, 1862</p>
+
+<p>J G Willis
+Dear Sir-
+Yours is just at
+hand.
+Send me the $300- and I
+will resign.
+Truly yours.
+(Signed). S. A. Andrews</p>
+
+<p>March 19
+S. A. Andrews Esqr.
+Dear Sir, Yours of the 17th instant
+is received. You must have misunderstood
+my letter of the 14th instant wherein on second
+reading you will perceive I did not offer to
+pay you $300- in advance but $100- per
+year for three years provided I or an Agent
+of the House of Brookhouse held the office
+of U. S. Com Agent at Loanda for that
+spaced time. It certainly would not
+be right to pay you $300- in advance for an <!--50003-2-->
+uncertainty, as on your resignation the State
+Department might appoint someone else.
+I hold myself responsible to do exactly as
+I wrote you on the 14th, and will on those
+conditions send you on obligation for $100-
+payable at the end of each year for three
+years to any party you my authorise 
+to receive it.
+Very respy</p>
+
+<p>Department of State
+Washington Septr 19 1862</p>
+
+<p>I certify that the foregoing is a true copy
+of the original, brought to the notice of
+this Department by Mr J. P. Pengree
+of Salem Mass and restored to his
+hands after making the transcript.</p>
+<p>W S Shunk
+<unclear>Jenpy Clk.</unclear> Consul Bureau</p>
+
+
+<!--50004-2-->
+<p>No. United States Commercial Agency at
+Loanda 31st March 1862</p>
+
+<p>Sir,
+Herewith I enclose Returns
+from this Commercial Agency for the
+Quarter ending 31st March 1862.</p>
+<p>The several accounts and
+Certificates I have directed to the
+Treasury Department and have drawn
+on the Honble Secretary of the Trasury
+for $232 87/100 being balance of my Salary
+for that Quarter.</p>
+
+<p>Very Respectfully
+your Obdt Servant
+Robert Cunningham
+Actg U. S. Consul Agt</p>
+
+<p>The Honble
+W. H. Seward
+Secretary of State
+U. S. America</p>
+
+
+<!--50005-2-->
+<p>Salem Mass
+April 30 1862</p>
+
+<p>Sir
+I have the honor to acknowledge
+the receipt of yours of the 28 inst making the
+enquiry of Mr R Cunningham is authorised to draw
+Drafts on your Department to the compensation provided
+for the Agency &#38;c to which I have to reply
+in the affirmative.</p>
+<p>I have now to respectfully
+request you to inform me whether I have been superceded
+in the office of U S Com Agent at St Paul 
+Loanda. My reasons for which I trust you will
+excuse as during the month of January last I received
+a Letter from Mr S A Andrews of Albion. Orange
+Co New York stating he had been appointed U S
+Com Agent in my stead. After some correspondence
+he offered to resign the office on certain conditions to
+part of which I complied. I now learn from him that
+he misunderstood my purpose &#38; that he intended going 
+to Africa.</p>
+<p>Several months since I was in Washington 
+&#38; handed a Letter to Hon <unclear>Charles Summer</unclear> who informed
+me he would give it his attention which led me to presume <!--50006-2-->
+that as I had always to the best of my knowledge given satisfaction 
+to the several Administrations during the time I 
+held the office that as it was a place where I was well &#38; favorably
+known that I would still sustain it.</p>
+<p>As the only notice I have received of my Removal comes 
+from Mr Andrews will you please inform me if the same is 
+correct.</p>
+
+<p>I have the honor to be
+Your Obt Servt
+John G Willis</p>
+
+<p>W F Seward Esq
+Assistant Secretary State Department
+Washington DC</p>
+
+
+
+<!--50007-2-->
+
+<p>No 7. United States Commercial Agency
+Loanda 30th June 1862</p>
+
+<p>Sir
+Herewith I enclose Returns
+from this Commercial Agency for the 
+Quarter ending 30th June 1862.</p>
+<p>The several accounts and 
+Certificates I have directed to the
+Treasury Department and have
+drawn on the Honble SEcretary of
+the Treasury for $231. 46/100 being
+balance of my Salary for that Quarter</p>
+<p>very respectfully
+Your Obdt Servant
+Robert Cunningham
+Acting U.S. Com Agt</p>
+
+<p>The Honble
+<unclear>W H Seward</unclear>
+Secretary of State
+Washington .C.
+U. S. A.</p>
+
+
+
+<!--50008-2-->
+<p>No 8 United States Commercial Agency
+at Loanda 30th June 1863</p>
+<p>Sir
+I have the honor to inform 
+you that Silas Andrews Esq the
+newly appointed Commercial Agent 
+has not yet arrived. In 
+consequence of this Gentlemans 
+now arrival I beg to solicit the 
+appointment as Vice Commercial 
+Agent so as to enable me to be
+officially acknowledged by the 
+Govenment of the Most Faithful 
+Majesty, which I have not as
+yet been.</p>
+<p>By the now appearance here 
+of the Commercial Agent I still 
+hold the office as Acting, it 
+therefore would be very necessary to
+be informed, whether the above 
+named Gentleman has taken the 
+office to which he is appointed  <!--50009-2-->
+and of his intentions in coming </p>
+<p>Very respectfully
+Your Obdt Servant
+Robert Cunningham
+Actg U S Com Agt</p>
+
+
+
+
+<p>The Honble
+W H Seward
+Secretary of State
+Washington D. C.</p>
+
+
+
+
+<!--50010-2-->
+
+
+<p>Washington Sept 1, 1862</p>
+<p>Sir
+Several Months since I received
+a Note from Mr S A Andrews stating that he
+was appointed U S Commercial Agent for the 
+Port of St Paul Loanda.</p>
+<p>Withing the past week 
+I have received Letters from Mr Cunningham who 
+has been acting during my absence &#38; as he does not 
+mention anything about the arrival of Mr Andrews 
+I presume Mr C continued in charge of the Office 
+&#38; that Mr Andrews had not accepted the appointment.</p>
+<p>I propose to return within Fifteen or 
+Twenty days to my Post &#38; will thank you for
+the Requiste Passport.</p>
+<p>Should it be the pleasure of the Department
+I should be glad to continue to hold the
+office which I have held to several years past
+as I believe the satisfaction of the Department 
+&#38; also of the Navy Department with the Officers
+of which I have had frequent Official intercourse
+it having been the Naval Station of the African 
+Squadron.</p>
+<p>For the information of the Department
+in regard to myself in addition to what is found <!--50011-->
+in the Files &#38; Records of the Department I 
+beg leave to refer to <unclear>Hon Chas Summer Hon</unclear> 
+<unclear>John B Alley</unclear><unclear>Messrs Brookhouse</unclear> <unclear></unclear> of 
+Salem Mass &#38; John <unclear>Pingres</unclear> Esq of <unclear>Auburn NY</unclear>
+</p>
+
+<p>Very Respectfully
+Your Obt Servt
+John G Willis</p>
+<p><unclear>F W Seward</unclear>
+<unclear>Acting</unclear> Secretary of State</p>
+
+
+
+
+
+<!--50012-2-->
+<p>Salem Mass Sept 6 1862</p>
+<p>Sir
+Enclosed please find Draft for 
+Twenty one &#38; <unclear>11/100</unclear> being balance due me as
+per a/c of Treasury Department which I would
+respectfully request sent me in Draft on the Sub-
+Treasury in Boston payable to my order.</p>
+<p>I would also request sent me previous
+to the 18th inst that being the time I intend leaving
+the Port for St Paul Loanda to the use of the
+Commercial Agency the following vis.</p>
+<p>Forms No 8, 14, 15, 16, 17, 24, 25, 30, 31, 33,
+41, 44, 88, 94, 105, 109.</p>
+<p>Bills of Exchange or Drafts Exchange
+Vouchers Nos 1 &#38; 2 also one Large flag.</p>
+<p>Trusting that my communication addressed
+under date of Sept 1 to Hon F W Seward 
+assistant Secretary of State has received your Kind
+attention &#38; that I may expect a favorable reply 
+previous to my departure at above.</p>
+<p>I have the honor to be
+Your Obt Servt
+John G Willis</p>
+<p>Hon Wm H Seward
+Secretary of State
+Washington D.C.</p>
+
+
+
+<!--50013-2-->
+
+<p>No 11 United States Commercial Agency at
+Loanda 30th September 1862</p>
+<p>Sir
+Herewith I enclose Returns
+from this Commercial Agency for the
+Quarter ending 30th September 1862.</p>
+<p>The several accounts and
+Certificates I have directed to the
+Treasury Department and have drawn
+on The Honorable Secretary of the
+Treasury for $234. 52/100 Dollars being
+balance of my Salary for that quarter</p>
+<p>Very respectfully
+Your Obedient Servant
+Robert Cunningham
+actg U S Consl Agt</p>
+
+<p>To the Honble
+W H Seward
+Secretary of State
+Washington D C
+U S America</p>
+
+
+<!--50014-2-->
+
+<p>No 12 United States Commercial Agency at
+Loanda 30th September 1862</p>
+
+<p>Sir
+Herewith I have the honor to
+forward to the Department of State in
+conformity to Sections 153 and 154
+the General Instructions to Consular Officers
+the Annual General Report for the Years
+1861 and 1862.</p>
+<p>Commerce</p>
+<p>The Greater part of the commerce of this
+place is with Portgual, Untied States,
+and the Brazils.</p>
+<p>Imports from Portugal consisting
+principally in Wines <unclear>Liver</unclear> Oil, and 
+English Manufactured Goods. $250000:00
+Exports, Palm, Fish, and <unclear> Ground mix</unclear>
+Oil, Wax, Hides, Ivory, Copal, and Coffee $400000:00
+United States Imports Rum &#38; Provisions
+Lumber, Powder and Cotton manufactured <!--50015-2-->
+goods, the importation of the latter article
+having entirely fallen off these last nineteen
+months, owing to the Civil War in America
+causing the great advance in the price
+of Cotton. $150.000.00</p>
+<p>Exports Palm and Fish Oil, Coffee, Copal,
+Ivory, and Ground Nuts.
+Brazils, Imports Rum, Sugar, &#38; Tobacco $100,000:00
+Exports, Palm and Ground Nuts Oil, Wax
+and Hides.</p>
+<p>Great Britain. The principal Article
+imported has been coals abouts 5000 tons
+freighted in American bottoms at the
+low rate of 25 and <unclear>28</unclear> per ton valuation
+including freight laid down here is $55000</p>
+<p>The great draw back 
+to the Commerce of this place is the
+exorbitant high duties, which is levied 
+on all merchandise imported more 
+particularly on American which 
+according to Treaty had to pay two thirds 
+(2/3) and national vessels on third (1/3) on 
+an average I may safely estimate it at
+35 per cent ad valorem on all merchandise
+imported from the United States</p> <!--50016-2-->
+<p>The Currency of this Province of Angola
+was formerly Fourteen hundred vis to the 
+American or Spanish Dollar but in July 1861 
+on the arrival of the new Governor the Currency 
+was changed to the same rate as Lisbon which
+is nine hundred &#38; twenty vis to the American or 
+Spanish Dollar, one mil vis equal to one 
+Dollar nine Quarter Cents ($1. 9 1/4)</p>
+<p>The Sanitary condition of this place for
+the past eighteen months has been rather
+unfavorable, the yellow fever and black 
+vomit having made its apperance for the
+first time supposed to have been brought
+from the Brazils, case which has terminated 
+fatally has been principally newcomers.</p>
+<p>Before closing this I cannot let pass 
+without commenting on the late affair which 
+occurred in April 1861 the Imprisonment 
+o the U S Naval Store Keeper Mr E A Bernie
+for a trivial offence and the brutal treatment 
+he received at the hands of the Authorities 
+of this place.</p>
+<p>To think an official in the Employ of the
+U. S. Government in a foreign Port should be
+shut up in a filthy prison for Seventy <!--50017-2-->
+days is shameful and contrary to 
+the Treaty with Portugal, ratified in 
+1840 and 10 wherein it says (and it is 
+hereby declare in case of offence 
+against the laws such Consul, Vice
+Consul, Agent, or Commissary may 
+either be punished according to law, 
+or be sent back the offended Government 
+assigning to the other seasons for the Same. <!--this never closes--></p>
+<p>The American Squadron was on 
+the Coast at the time of this occurence 
+Flag Officer <unclear></unclear> demanded he
+said E A Bernie but was refused
+consequently E A Bernie was left to
+his fate and the result of the trial was 
+deportation for 2 years. I hope after 
+the termination of the rebellion in
+American the U S Government will
+demand satisfaction from Portugal 
+for so gross an insult.</p>
+<p>Very Respectfully
+Yur Obdt Servant
+Robert Cunningham
+Actg U. S. <sic>Conul</sic> Agt</p>
+
+<p>To the Honble
+W H Seward
+Secretary of State
+Washington D. C.</p>
+
+
+
+<!--50018-2-->
+<p>No 15 United States Commercial Agency
+at Loanda 31st December 1862</p>
+<p>Sir
+Herewith I enclose Returns from
+this Commercial Agency for the Quarter
+ending 31st December 1862.</p>
+<p>The several accounts and 
+Certificates I have directed to the Treasury 
+Department and have drawn on the 
+Honble Secty of the Treasury for 240 83/100
+Dollars being balance of my Salary for 
+that Quarter.</p>
+<p>Very respectfully
+Your Obdt Servant
+Vice Consul Agent</p>
+<p>To the Honble
+W H Seward
+Washington D C
+U S A</p>
+
+</div2>
+<div2 type="titles">
+
+<!--50019-2-->
+
+<p>No 16 United States Commercial Agency at
+Loanda 13th January 1863</p>
+
+<p>Sir
+As I am compelled to return 
+to the Untied States in consequence of ill 
+health, I beg to inform you that I leave 
+in charge of this United States Commercial 
+Agency Mr John G Willis as Acting Vice 
+Commercial Agent, contrary to your dispatch
+dated Washington 19th September last apst 
+acquainting me that his Services were
+dispenced with.</p>
+<p>With reference to this part of 
+your dispatch I beg to state that there is no 
+other American in whom I would be 
+willing to hold myself responsible for, the 
+said Mr Willis having hold the Office from 
+its first Appointment as United States 
+Commercial Agent and during that 
+period, to the best of my knowledge he
+has given satisfaction in the discharge of <!--50020-2-->
+his official duties.</p>
+<p>Mr Willis had some objections 
+to take charge of the office but by my urgent 
+request he will hold it until the Department 
+deem it necessary to appointment a Sucessor 
+if the appointment I have made does not meet
+your views.</p>
+<p>I take passage to the
+United States via England and on my 
+arrival in the United States will present 
+myself at Washington and they will be 
+better able to give further particulars 
+respecting the Agency.</p>
+<p>Very respectfully
+Your Obdt Servant
+Robert Cunningham
+Vice Consul Agt</p>
+
+
+<p>To the Honble
+W H Seward
+Secty of State
+Washington D C
+U S A</p>
+
+
+<!--50021-2-->
+<p>No 1 United States Commercial Agency
+St Paul Loanda January 15 1863</p>
+
+<p>Sir
+By request of Mr R Cunningham
+who returns to the States via England in account of 
+ill health. I have taken charge of this office which 
+I shall endeavor to hold to the satisfaction of your
+Department till the return of Mr Cunningham or
+to such time as it may please you to allow me to retain 
+the same.</p>
+<p>Mr Cunningham intends on his 
+arrival to visit Washington, there he will give you 
+such further particulars as you may desire in respect 
+to the duties of this Agency.</p>
+<p>Very Respectfully
+Your Obt Servt
+John G Willis
+Acting Vice Com Agent</p>
+
+<p>Hon Wm H Seward
+Secretary of State
+Washington D. C.</p>
+
+
+
+<!--50022-2-->
+<p>Washington D.C. March <unclear></unclear> 1863</p>
+
+<p>Sir,
+On the third day of March 1863.
+I had the Honor of receiving the notice of my
+appointment as Commercial Agent at 
+"St-Paul de Loanda Africa", said appointment
+Dated February 21st 1863, together with the 
+"Regulations of U S Consulate." and blanks 
+appertaining to said appointment.</p>
+<p>I now have the Honor to notify you 
+of my acceptance of that Office and of my 
+readiness to leave for Africa in the first 
+vessel that sails for the Port of St Paul
+and according to present advices will leave 
+Salem Mass about or before the first of 
+May next; Be kind enough to grant
+Me a Passport and Certificate as soon
+as practicable that I may be in a position 
+to leave at an earlier day than above
+indicated should an opportunity occur.</p>
+<p>I also have the Honor to communicate 
+to the Department that I was born in the
+city of New York, was
+appointed from the state of Maryland
+and have never Resided in Portugal or 
+any of its dependencies</p>
+<p>Enclosed please find the Oath marked
+No. 1 also the Official Bond marked No 2
+which I trust will receive your approbation.</p>
+<p>I am Sir Respectfully
+Your Obedient Servant
+<unclear>John L Bradberry</unclear>
+Commercial Agent
+St Paul de Loanda</p>
+
+<p>Hon
+W H Seward
+<unclear></unclear>
+U S</p>
+
+
+<!--50023-2-->
+
+<p>No 2
+Washington March 23rd 1863</p>
+
+<p>Sir
+This day I had the Honor to receive
+your Despatch dated March 20th 1863
+enclosing my Certificate of Appointment
+to the Commercial Agency of St Paul De
+Loanda, also my passport, for which
+those receive my acknowledgements.</p>
+<p>In my Despatch Marked No 1 Dated
+March 17th 1863 I had the Honor to inform
+you that I was Born in the City of New York
+and was appointed from the
+State of Maryland.</p>
+<p>Also that I expected to sail from
+Salem about or before the 14th of May
+next - I have received no advices 
+since that time that indicates an 
+earlier day of Departure.</p>
+<p>I shall leave for my station by the 
+inst opportunity and when that occurs 
+will acquaint you with the facts.</p>
+<p>I have the Honor to be
+Most Respectfully
+Your Obdt Servant
+<unclear>John L Bradberry</unclear></p>
+
+
+<gap reason ="pages unreadable"></gap>
+
+
+<!--60008-2-->
+<p>No 3 St Paul de Loanda
+6th August 1863</p>
+
+<p>Sir
+Under date of April 7th, I had the honor 
+to address you and enclosing Returns from this 
+Agency for the Quarter ending March 31st.</p>
+<p>I now enclose Returns for the Quarter
+ending 30th June also for the thirty days in
+July which I held the Office of United States
+acting Vice Commercial Agent, and have drawn 
+on the Honorable Secretary of the Treasury Two 
+Bills, One for $238.70 &#38; the other for $61.87 &#38; being
+balance of my Salary as per Accounts Current 
+forwarded to the Fifth Auditor of the Treasury.</p>
+<p>I also enclose memorandum of
+Articles delivered to <unclear>Mr Bradberry</unclear> as per Your
+Instructions of February 21st 1863 together with 
+the other half of the Register of the American Bank 
+<unclear>"J. J. Goff"</unclear> to which I confered to my No 2.</p>
+<p>I also enclose a map of the Population of
+the Province of Angola for the Year 1861 and a 
+map showing the Exports of Cotton from this 
+Province for the past 4 years.</p>
+<p>Very Respectfully
+Your Obdt Servant
+John G Willis</p>
+
+<p>The Honble
+Secretary of State
+Washington D.C.</p>
+
+
+<gap reason="list"></gap>
+</div2>
+<div2 type="titles">
+
+<!--Roll 2-->
+
+<!--Scan0000-->
+
+<p>Commercial Agency of the U. S. of America
+at St Paul De Loanda December 31st 1863</p>
+
+<p>Sir
+I have the Honor to enclose Custom House
+and Port Charges for the Port of St. Paul De Loanda.</p>
+<p>Also Arrivals and Depatures for the Quarter
+Ending, December 31st. 1863.</p>
+<p>Also Official Letters and Blanks Received 
+By this it will be perceived that the box with 
+flags and Blanks reached here on the 24th November,
+about 9 months after it left Washington.</p>
+<p>Mail facilities between this Place and the U.S. 
+are very slow and uncertain, By the English Mail it 
+is seldom less than three and often five months between 
+the mailing of a letter in New York and its receipt
+here, in fact there is no regular mail except as far as
+<unclear></unclear> where it lays until some English cruiser
+chooses to bring it up.</p>
+<p>I received the box from St Helena via Cape
+of Good Hope forwarded to me by Walter Graham
+Esq.</p>
+<p>The Draft and voucher for stationary I hope
+will prove satisfactory.</p>
+<p>I have also the Honor of enclosing a tabular
+Statement of export Duties and Other Charges 
+for this Port. Also Aggregate Amt of Fees</p>
+<p>I have the Honor to State that Clearing a
+Vessel from Port is a perplexing operation.
+<unclear>1st notice of eight things must be given,</unclear>
+<unclear>2nd a Bond with two sureities (merchants)</unclear> 
+in the sum of <unclear>Five</unclear> Thousand Mil <unclear>Reis</unclear>
+<unclear></unclear> $2675.59 must be entered into as 
+a guarantee that the vessel will not engage 
+in the Slave Trade. <!--0001-->
+This is well, when suspicious attacks to any vessel, but
+it is exacted indiscriminately, previous to granting a
+Clearance, not that there is any fear that a well known vessel
+will engage in the Slave Trade, but that the merchants who
+sign the bond may realize the Fee which is forty five
+pound or One hundred and twenty five Dollars for
+so doing;</p>
+<p>The Practice is continued (I am told) in accordance
+with an inference drawn from a Law of 1836 there
+being no positive law to justify it;</p>
+<p>The merchants established here sign the Bond for
+for each other, but an American Vessel arriving here
+for the first time, encounters much trouble and expense 
+in consequence of said Bond.</p>
+<p>She must also select a Consignee (if not previously 
+consigned) which obliges her to pay a further sum of One 
+hundred <unclear>Mil Ries</unclear> <unclear></unclear> or $66,66 2/3.</p>
+<p>In the case of the Whaling Schooner <unclear>Glindoover</unclear>
+His Excellency Gov General (Jose Baptista <unclear>Andrade</unclear>)
+over-ruled the Custom House authorities in regard 
+to both Bond and Consignee Thus saving her
+useless expense of $338.00. She Came here for
+supplies only.</p>
+<p>I have not succeeded in obtaining a copy of Duties 
+on Imports for this province; the present Duties are 
+based upon the Tariff Law of 1842 modified for
+Colonial Purposes, but I have the assurance that
+on the <unclear>1st of February</unclear> next a New Tariff will be 
+published, based on the Tariff on 1863, with 
+Colonial Modification, which will I understand 
+increase the Duties on both Imports and exports, 
+I will forward it as soon as possible.</p>
+<p>At <unclear>Benguela</unclear> <unclear></unclear> and Loanda Duties
+must be paid; All the Trading Station are free
+I feel it to be my duty mention the fact that the <!--0002-->
+<unclear></unclear> lighters here belonging to the Government are
+nearly <unclear>valueless</unclear> being rusted through in many Places,
+cargo that would sink (Coal for instance) cannot 
+be transported in them safety; in fact they are
+not well adapted to this navigation, either in model
+or material, Lighters for this harbor should be of 
+wood forty five to fifty feet long and Coppered, 
+the model such as are used at <unclear>Hauve de Graceon</unclear>
+very strong, Cheap, light draft of water, <unclear></unclear>
+easily managed, and will sail well, when sail is 
+put upon them; I have no doubt, such Lighters
+could be sent here all ports previously fitted and
+put together here, for one thousand Dollars each.
+Iam informed that freight alone on one of those
+Lighters now here amounted to twelve hundred Dollars
+and their term of service has been very short</p>
+<p>For two years last port, trade with the interior
+has much been obstructed in consequence of A War
+between the Portuguese and the King <unclear>(Yaga)</unclear> of 
+Cassange, one of the most powerful Potentates
+of the Interior of Africa, and whose dominions border
+upon the Portuguese possessions, On the 29th of August 
+last, a treaty of Peace was entered into between the 
+belligerents, the <unclear>yaga of Cassange</unclear> agreeing to pay
+the whole expense of the war, on the 26th of September,
+the Embassador of the yaga was received at the
+Palace of the Government General when the Treaty 
+was ratified; in consequence it is expected that 
+trade with the Interior will revive and Importations 
+increase.</p>
+<p>Our own unhappy civil war has a very 
+depressing effect upon American Trade here in
+consequence of the high price of Cotton heretofore
+the most profitable article of American manufacture <!--0003-->
+imported into this Country also an important auxiliary
+to all other article of sale or barter under present circumstances
+the English (who have only one house here)
+sell gotten goods for at least 30 per cent less than
+the same article can be bought in the U. States.</p>
+<p>With despatch No 5 I had the Honor to mention 
+the fact of the loss of my commission and Passport,
+I have not been able to recover them, and am under the
+necessity of renewing the request that others he
+sent to me, nor have I received the necessary exequetor
+requested in the house of the same Despatch.</p>
+<p>I also had the honor to mention the fact that
+the Salary of Agent at this station is inadequate
+to its proper support, one must live as do Representatives
+of other Countries or lower his own 
+Country in the estimation of the authorities, which
+I am not willing to do, luxury  is not requisite,
+but respectability is.</p>
+<p>I am aware that Congress must concur in
+whatever is done in the premises, but a recommendation
+from your Honor to the Proper authorities,
+together with the concurrence of the representative
+from my congressional district (the Hon. <unclear>E. H. Webster</unclear>)
+I feel Confident would procure an increase of 
+Salary, in default I would respectfully solicit 
+the appointment of Naval storekeeper here, or the appointment
+to some situation where the salary is
+adequate to support the station without engaging
+in Commercial pursuits.</p>
+<p>I have the Honor to be
+Your Most Obedient Servant
+John <unclear>L Bradberry</unclear>
+Government Agent</p>
+
+<p>W. H. Seward
+Sec of State</p>
+
+
+<gap reason="too hard to read"></gap>
+
+<!--start here-->
+
+<!--0005-->
+<p>St Paul de Loanda August 15th 1864</p>
+<p>Hon William H Seward
+Secretary of State
+Washington D.C.</p>
+
+<p>Sir,
+I have the 
+honor to acknowledge the reception 
+of your despatch No 1 informing 
+me that the President had appointed 
+me Commercial Agent 
+of the United States at St Paul 
+de Loanda.</p>
+<p>The Consular Bond 
+I forward by this opportunity to 
+Boston, Mass; from whence it will
+be forwarded to the Department 
+of State, fully executed.</p>
+<p>I enclose the Oath 
+of Allegiance sworn to before 
+John G Willis Esq the Acting 
+Commercial Agent.</p>
+<p>I was born in Brazil, 
+of American parentage, in 1830; 
+and arrived in the State of 
+Massachusetts at the age of <!--0006-->
+three years where I have resided
+ever since, excepting the time
+my business has called me to
+this coast.  My naturalization
+papers bear date of Salem Mass 
+November 5th 1851.</p>
+<p>I was appointed 
+from the State of Massachusetts.
+I never was in Portugal, but 
+I have resided in this Province 
+of Angola since 1852.</p>
+<p>A previous engagement 
+forces me to visit England in 
+a few weeks, my stay there 
+will be short. I hope to return 
+as soon or soon after this arrival 
+now of my Passport and
+Certificate of Appointment with
+the <unclear>necessary</unclear> Exequatur.</p>
+<p>The order from the Department for John G Willis Esq.
+to deliver over to me the Commercial
+Agency, was also received
+and will be presented on 
+the arrival hour of the Certificate <!--0007-->
+of Appointment when I shall 
+assume the duties of my office.</p>
+<p>Thanking the 
+Department for the confidence
+they have placed in me, I hope 
+my long residence here, familiarity
+of the language and people
+will enable me to give satisfaction.</p>
+<p>I have the honor
+to be
+Your Most Obdt Servant
+Augustus <unclear>Archer Silva</unclear></p>
+
+<!--0008-->
+
+<p>Recd Dec 20</p>
+<p>United States Com Agency
+St Paul Loanda August 23 1864</p>
+
+<p>Sir,
+I have the honor to acknowledge
+the receipt of Your despatches of May 13 &#38;14th 
+one requesting me to "continue to act as U. S. 
+Commercial Agent for this Post," the one informing
+me that the President had appointed
+Mr <unclear>A A Silva</unclear> as Com Agent.</p>
+<p>Mr Silva not having signed any
+Bonds, nor taken the oath &#38; also not having 
+yet received his Commission, the Portuguese 
+Authorities here could not recognise 
+him as U S C Agent. Neither do they <unclear>account</unclear>
+me as such but allow me to act as far as 
+may be necessary in respect to the wants of 
+American Vessels arriving at this port &#38; to 
+keep charge of the Archives, seal, flags &#38;c</p>
+<p>I now enclose the Returns from the 
+Agency from Jany 1st to June 30th 1864. My 
+reason for not doing so previous was that as 
+Mr. Bradberry had died without approving 
+one to act for him. I was uncertain whether 
+I had authority to make out the Returns but
+since the receipt of Your despatch of May 13th <!--0009-->
+I have given it my attention as per the enclosed.
+The several accounts &#38; certificates I have directed 
+to the Treasury Department &#38; have drawn on 
+the Hon Secretary of the Treasury two Bills-
+one for $84.16 &#162; the other for $247.00 being 
+balance of Salary for the Quarter ending March 
+31 &#38; June 30th 1864.</p>
+<p>At the time Mr Bradberry died he was 
+in debt to several persons here, but they do 
+not expect to receive anything from his Estate.
+I enclose to the 5th auditor an account current 
+with vouchers showing that my demands 
+amount to <unclear>RS 300$975</unclear> in this currency, or in U. S.
+Coin $201.32&#162; With the exception of my 
+private a/c <unclear>RS 127$625</unclear> the next is for Cash paid 
+by me for his Medical Attendance &#38; Burial Expenses.
+I have drawn on the Hon. Secretary of 
+the Treasury for the Balance due Mr Bradberry 
+at the time of his death $142.75 informing 
+the Hon. Secretary of these circumstances &#38; trust 
+that as this was for money expended in such 
+a manner that the Draft will be duly honored.</p>
+<p>Mr Bradberry in the Month of January 
+last received $29.92&#162; Balance Wages &#38; $31.91&#162; 
+Extra Wages on account of a Colored Seaman named  <!--0010-->
+George Frank who was shipped in England on 
+board the American Ship "Cumberland" &#38; was discharged 
+here on account of sickness- By the Relief 
+<unclear>Book</unclear> I notice he had paid on a/c $3.93&#162; &#38; I 
+was not authorised to pay the balance of this 
+amount to Geo. Frank who was a West Indian,
+the English Counsul took him in charge &#38; sent 
+him on board an English Vessel. I gave the 
+English Consul notes of the a/c &#38; presume Your 
+Honor has been notified of the same by the English 
+Government.</p>
+<p>In taking charge of Mr Bradberry effects 
+not one cent was found in money &#38; I presume 
+the money he received from Geo. Frank was 
+remitted to Mr Bradberry family by a vessel 
+that left this in January bound for Boston 
+Mass- Mr B calculating of course to make it 
+up from the sale of his draft for the Quarter
+ending March 31, 1864. </p>
+<p>Circular No 44 is received &#38; in reply
+will inform the Department that Commercial 
+agents as such, are not required to pay taxes
+in this port.  Circulars No 45 &#38; 46 are also recieved.
+No vessel hailing from the Insurgent 
+States has made their appearance in this <!--0011-->
+port, neither is there anything shipped 
+from here to those states.</p>
+<p>There has been only one American 
+Merchant vessel arrived at this Port 
+during the Quarter ending June 30th- the 
+cause of which is the high prices of 
+Cotton Gords Rum, Powder, &#38;c in the States- 
+these being the principal articles formerly 
+imported here. Two or three years since 
+<unclear>we used</unclear> to have 8 or 10 vessels engaged 
+in this Trade, but it has finally become 
+reduced to this deplorable <unclear>extent</unclear>. The 
+Merchants here &#38; on the Coast, who used 
+to be very prompt in payment are now 
+very backward, casued by Wars in the 
+interior, overshadowing &#38; undertaking more 
+than they can carry out- a few merchants 
+of old standing continue to keep their 
+credit good, but they do nothing near the 
+amount of Business now that they need 
+do.  Loanda &#38; all <sic>allong</sic> this Coast has 
+suffered severely from the Small Pox 
+which first made its appearance in 
+February last about 70 miles North of this 
+at a place called Kisembo. It is estimated <!--0012-->
+that 4000 natives have died from its effects 
+on Loanda alone. Very few Whites have 
+been attacked yet with it.  It is said to be 
+decreasing.</p>
+<p>Mr Brookhouse of Salem Mass, the 
+largest American Trader of this Coast has concluded 
+to close his Business here Messers <unclear>Robson</unclear>
+<unclear>Ridsent</unclear> &#38; Roberts of Boston are left, but
+from present appearances they will not send 
+another vessel till the prospect is more promising.</p>
+<p>The Mails from the States to this port 
+are very irregular- for a four years past there 
+has been a Line of Steamers from Lisbon to 
+this Coast, but they are now discontinued- 
+the Portuguese Government are endeavoring 
+to get up another Line. The Mails via 
+<unclear>"Fernando Po"</unclear> are brought here by the English 
+vessels of War but no certainty can be placed 
+on their arrival.</p>
+<p>It is my intention to leave this for the 
+States in the couse of two months. I understand 
+Mr. Silva intends leaving for England 
+about the same time, with the intention of 
+again returning here. On my departure 
+I shall place the Archives &#38;c in charge of 
+Mr. Silva if here is here, but should he leave 
+before me, or if we leave at same time time, I 
+shall then deliver the property of the United 
+States now under my charge to the care of 
+Mr. <unclear>F A Silva </unclear>, Brother of the appointed U. S. 
+Commercial Agent.</p>
+<p>John W Goodridge of Salem Mass, late
+Master of the Brig "Morning Light" died at 
+sea on board that Vessel on the 5th inst of 
+Small Pox &#38; was buried at Loanda on the 
+7th inst.</p>
+
+<p>Very Respectfully
+Your Obt Servt
+John G Willis
+Acting U S C Agent</p>
+
+<p>Form No 138 Mentioned 
+in your Circular No 49 has 
+not been received t this Agency</p>
+
+
+<p>Hon Wm H Seward
+Secretary of State
+Washington D. C.</p>
+
+
+
+<!--10000 is a repeat --> 
+
+<!--10005-2-->
+
+<p>United States Commercial Agency
+St Paul de Loanda October 1st 1864</p>
+
+<p>Sir,
+I had the honor on the 15th 
+of August last to acknowledge the 
+reception of your despatch No 1 informing
+me that the President 
+had appointed me Commercial Agent
+of the United States at this 
+city. In the same despatch I 
+replied to several questions requiring
+answers.</p>
+<p>On the 7th ultimo I received 
+a communication dated July 6th 1864 
+fom the Hon James E Harvey the 
+United States Minister resident at
+Lisbon, enclosing <unclear></unclear> my Certificate
+of Appointment with authority of the 
+Portuguese Majesty's government to act
+in that capacity.</p>
+<p>In consequence of a 
+temporary interruption of steam 
+communication between the Province 
+and Portugal the Governor
+General has not for the past five <!--10006-2-->
+months received any any official communication 
+from his government consequently a separate official notice 
+of my appointment has not arrived 
+yet without which he cannot formally 
+recognize me.- A mail 
+steamer is momentarily expected here.</p>
+<p>I have this day presented 
+to John G. Willis Esq the 
+Acting Commercial Agent, the 
+official order of the Department 
+dated May 14th 1864 for for him to 
+deliver to me the Records and, 
+Archives of the Commercial Agency 
+together with the Seal Press Flag
+arms statutes at large and other 
+property of the United States which 
+order was promptly complied with 
+and I herewith enclose a certificate 
+copy of the Inventory.  <unclear>Wharton's</unclear>
+<unclear>Digest</unclear> has never been received at 
+this commercial Agency.</p>
+
+<p>I mentioned to you 
+in my despatch No 1 my <unclear>intentions</unclear> <!--10007-2-->
+to visit Europe in 
+a few weeks, <unclear>in consequence</unclear> of a 
+previous mercantile engagement,
+entered into previous to my
+having any knowledge of my 
+appointment as Commercial 
+Agent. I regret to say the
+importances of this engagement 
+forces me to carry it out and 
+I hope the Department will 
+wish this involuntary departure 
+from my port of duty an exception 
+to Circular of Department
+of State no 46 on file at this 
+office.</p>
+<p>I shall leave for England
+early in December next 
+my absence will only be of four
+months duration during which 
+time the office will be represented
+as Acting Commercial Agent 
+by my brother Frederic A 
+Silva a native citizen of the 
+United States well qualified for 
+the duties that will devolve upon
+him. I notice that the 
+Agency requires an additional 
+supply of blank No 44, 14, <hi rend="underline">8</hi> 142
+143, 144, 130. Some of which are entirely
+out.</p>
+<p>I notice also there has 
+been great difficulty in forwarding 
+packages from the Department 
+to this Agency. The best may 
+would be to <unclear>adding</unclear> to the <unclear>care</unclear> 
+of <unclear>Messer Robert F Cannon</unclear> <unclear></unclear>
+<unclear></unclear><unclear>Vincent Stuart</unclear> Glasgow
+Scotland and they will <unclear>forward</unclear>
+to me by one of their 
+vessels.</p>
+<p>My Passport as Commerce 
+Agent has not been received 
+yet.</p>
+<p>I have the honor
+to be
+Your most Obdt Servant
+Augustus <unclear></unclear> Silva
+Commercial Agent</p>
+
+<p>Hon Wm H Seward 
+Secretary of State 
+Washington D. C.</p>
+
+
+<gap reason="list"></gap>
+
+<!--10010-2-->
+<p>United States Commercial Agency
+St Paul Loanda Octo 28 1864</p>
+
+<p>Sir
+I have the honor to enclose the Returns 
+from this Agency for the Quarter ending September 30 
+1864.</p>
+<p>Agreeably to your Instructions of May 14 
+I have delivered to Mr A A Silva the property 
+appertaining to the State Department as per the enclosed
+receipt.</p>
+<p>I also enclose Form No 3</p>
+<p>Very Respectfully 
+Your Obt Servant 
+John G WIllis 
+late Acting U S Com Agent</p>
+
+<p>To the 
+Hon Secretary of State 
+Washington</p>
+
+
+<!--10011-2-->
+<p>United States Commercial Agency
+St Paul Loanda Octo 5 1864</p>
+
+<p>We certify that the services of John
+G Willis late acting Com Agent ceased on the 
+30 day of September &#38; that he is entitled to his 
+Salary including said day: &#38; that the service 
+of Aug Archer Silva commenced the day following
+he having received the archives as specified 
+on the 79th Sec of the General Instructions.</p>
+
+<p>John G Willis.
+Augustus Archer Silva</p>
+
+
+<!--10012-2-->
+<p>United States Com Agency
+St Paul de Loanda Nov 21 1864</p>
+
+<p>Sir
+On the 20th ultimo the 
+Portuguese War Steamer <unclear>Mendello</unclear> 
+arrived here from Lisbon with 
+authority from Her Portuguese 
+Majestys Government to the 
+Governor General of this Province 
+to recognize me as Commercial 
+Agent of the United States, 
+Which authority has been 
+published on the official 
+<sic>Baletin</sic> of this city. </p>
+<p>The Commerce of this 
+Province is still prostrated from 
+the effects of the late epidemic 
+of Small Pox. Transportation 
+to and from this interior has 
+not as yet been resumed causing
+serious inconvenience to 
+business in general. The market 
+is overstocked with imported merchandise 
+particularly of Dry
+goods, creating serious apprehensions
+to holders of them fearing 
+a decline in the cotton market 
+by a sudden upturn of hostilities
+in the United States. </p>
+<p>Notwithstanding business 
+in this Province has been very 
+dull-- the Pea nut crop between 
+Ambriz and Congo River 
+has been very large amounting 
+to over Two thousand tons, double 
+the amount of last years yield
+should it continue to increase 
+in a like proportion from year 
+to year which I think will be 
+this case in a very short time 
+it will <unclear></unclear> the Pea Nut crop
+of Sierra Leone and Gambia 
+River. They are obtained here 
+shelled.</p>
+<p>Portuguese vessels who 
+trade here for the articles of 
+produce not obtainable now
+have been very fortunate to 
+find charters for their vessels
+to freight pea nuts to 
+Europe.</p>
+<p>Five years ago only 
+about four hundred tons now
+raised on this port of the
+coast and found purchases only 
+for the United States market </p>
+<p>I have the honor 
+to be
+Your Most Obedt Servant
+Augustus Archer Silva
+Commercial Agent</p>
+
+<p>Hon William H Seward 
+Secretary of State 
+Washington</p>
+
+
+
+<!--10016-2-->
+<p>United States Commercial Agency
+St Paul de Loanda Dec 13 1864</p>
+
+<p>Sir
+I have the honor to acknowledge 
+the reception of your 
+Despatch No 2 with enclosures, requesting
+information on a claim 
+preferred by a British Seaman 
+named George Frank, for the sum
+of <!--symbol--> 9.17.6</p>
+<p>To facilitate this information
+I enclose George Frank's 
+Account Current with the late 
+Commercial Agent taken from 
+the Relief Book which shows 
+a balance due him of $35.50 
+and not <!--symbol-->9.17.6 as represented 
+by the British Consul at this 
+city. </p>
+<p>The difference of amounts 
+arise from not deducting one 
+month's extra wages in accordance 
+with the laws of United States' 
+Consulates, and for not charging 
+George Frank with Vouch No 3 &#38; 4.</p>
+<p>I respectfully enclose 
+Voucher No 1 to 5. Number 5 being 
+only a copy the original having 
+been misplaced by my predecessor
+as every place in the 
+Agency has been searched for 
+it the past two days. As 
+the British Vice Consul took 
+a copy of the original as seen 
+by the enclosures forwarded 
+to this Agency by the Department 
+there cannot be any 
+doubt as to its correctness.</p>
+<p>I have the honor 
+to be
+Your Most Obdt Servt
+Augustus Archer Silva
+Commercial Agent</p>
+
+<p>Hon Wm H Seward
+Secretary of State 
+Washington</p>
+
+<gap reason="list"></gap>
+<gap reason="unreadable"></gap>
+
+
+<!--20010-2-->
+<p>United States Commercial Agency 
+St Paul de Loanda July 28th 1865</p>
+
+<p>Sir
+I have the honor to report 
+my return to this City and that 
+I reassumed the duties of my 
+Office on the 1st Inst</p>
+<p>Despatches No 3 4 and 5 have 
+been received at this Agency as also
+Circular No 56 and the orders of the 
+Department of April 17th to wear 
+mourning in honor of the memory of 
+our illustrious Chief Magistrate.</p>
+<p>Mr F A Silva has made up 
+the accounts of the two previous 
+Quarters and has drawn on 
+the Hon Secretary of 
+the Treasury for the balance of 
+Salary awarded by Government 
+to this Agency as if regularly 
+appointed by the Department.</p>
+<p>I observe however by Despatch 
+No 5 the Department expects his 
+compensation to be taken out of 
+the enrollment of this office 
+which only amounted during 
+the two Quarters to $36.66.</p>
+<p>This Province has completely 
+recovered from the effects of the 
+late Native War and epidemic
+of Small Pox Trade has revived and 
+very nearly approached the 
+prosperity of the few years previous 
+to 1860.</p>
+<p>It is expected now as our Civil 
+War is ended American Commerce
+will return to this part of the 
+Coast again which during the 
+period above mentioned was of 
+considerable importance and on 
+the increase.</p>
+<p>I have the honor 
+to be
+Your most Obed Servt
+Augustus Archer Silva
+Commercial Agent</p>
+
+<p>Hon WIlliam H Seward
+Secretary of State 
+Washington</p>
+
+<gap reason="unreadable"></gap>
+
+<!--20018-2-->
+
+<p>United States Commercial Agency
+St Paul de Loanda Sept 14th 1865</p>
+
+<p>Sir
+It devolves upon me the unpleasant 
+duty to inform your excellency of the 
+death of <unclear>Ramizo Luis de Santos</unclear> the 
+Acting Representative of the Brazilian 
+Native in this City which took place 
+on the 7th of the present month.</p>
+<p>In compliance with an 
+<unclear>invitation</unclear> received from Dr <unclear>Carlos Pachecs</unclear>
+<unclear>de Bettoncourt</unclear> <unclear>"Luiz de Derete"</unclear> (Chief Justice) of
+this District. I <unclear>resisted</unclear> the sealing of
+the Archive and accepted the invitation 
+to assume charge of the duties of the 
+Brazilian Consulate until it should please
+Your Excellency to appoint another to fill 
+the office: "The <unclear>Luiz de Derete</unclear>" fronted out
+to me, the Brazilian Consular Regulation, 
+previous to sealing the archives, wherein it 
+requested that in case of death of Brazilian 
+Consular Officer, the duties of the Consulate 
+by <unclear></unclear> should be given to a foreign 
+Consular Officer whose nation was on 
+friendly terms with Brazil: I had the 
+privilege to have this honor offered to me 
+and in accepting the responsibility, I am 
+moved with pride as the representative of 
+the United States in this City to have it 
+in my <unclear></unclear> to be of service to the friendly 
+Empire of Brazil.</p>
+<p>Considering myself, under
+the circumstances, fully empowered by the
+<unclear>"Luiz de Dente"</unclear> to act on behalf of Brazilian
+interest, in this Province; I have this day
+sent a note to His Excellency the Govenor 
+General of the Province, informing him of 
+the fact for his Government: I have the 
+honor to enclose a copy of this note and 
+His Excellency's reply, and also a Public 
+Instrument of the <unclear>Aide de Diliquencia</unclear>
+drawn into the <unclear>"Luiz de Derete"</unclear> soon after 
+<unclear>Mr Ramizo Luis de Santos</unclear> expired signed by 
+several Brazilian witnesses and others including 
+myself, wherein is also stated the 
+Authority which confer upon me the 
+honor to address Your Excellency.</p>
+<p>Not having in my possession
+the Archives of the Brazilian Consulate for 
+reference and information. I may not 
+carry out exactly the wishes of the 
+Brazilian Government, but nevertheless 
+will endeavour by the Consular 
+Regulations of the United States to protect 
+the interests of your nation and <unclear></unclear> of 
+its subjects requiring assistance.</p>
+<p>A copy of this Despatch 
+I have considered proper to send to His 
+Excellency the Brazilian Minister at 
+Lisbon, that he may inform <unclear>Sir Manuel</unclear>
+<unclear>Sebral Pinto</unclear> of the circumstances who I 
+understand still holds this Imperial 
+Majesty's Commission, as Consul for 
+the Empire of Brazil in this City.</p>
+<p>With the assurance of my 
+highest respect.</p>
+<p>I have the Honor to be 
+Your Most Obedt Servant 
+Augustus Archer Silva
+Commercial Agent</p>
+<p>His Excellency
+The Minister of Foreign Affairs
+Empire of Brazil</p>
+
+
+<!--2002202-->
+
+<p>United States Commercial Agency
+St Paul de Loanda Sept 14 1865</p>
+<p>Sir
+I was invited on the 7th inst by
+<unclear>Dr Carlos Pachecs de Bettoncourt</unclear>, 
+<unclear>Luiz de Derete</unclear> of this district to <unclear>meet him</unclear> 
+him at the house of the late <unclear>Ramizo</unclear>
+<unclear>Luiz de Santos</unclear> the acting representative
+of the Brazilian nation, who died
+on that day, to assist as <unclear></unclear>
+the <unclear>sealing</unclear> of the Archives of the 
+Brazilian Consulate and to assume 
+charge of the duties and interests of 
+the Brazilian Nation in this city 
+until his Imperial Majesty 
+should be pleased to appoint another.</p>
+<p>The illustrious <unclear>Luiz de </unclear>
+<unclear>Derete</unclear> acted upon the Brazilian 
+Consular Regulation, which he perused 
+before sealing the Archives, 
+wherein it was written, that in 
+cause of death of a Brazilian Consular 
+Officer, a Consular Agent of 
+a friendly nation should be invited 
+to take charge of the Brazilian 
+Consulate during the vacancy of 
+the said office. I had the pleasure 
+to have this honor conferred 
+on me, and so the representative 
+of the Untied States I am moved 
+with pride. I have it in my power
+to be of service to a nation so
+friendly to my country.</p>
+<p>I have the honor to 
+enclose a copy of the <unclear>Acto de</unclear>
+<unclear>Diliquencia</unclear> for your information 
+and trusting to mail the same attention
+and consideration in the discharge
+of my additional duties 
+as it has been my good fortune 
+to receive as Commercial Agent of 
+the United States.</p>
+<p>I have the Honor
+To Be
+Your Most Obedt Servant
+Augustus Archer Silva
+Commercial Agent</p>
+
+<p>His Excellency
+Jose Baptista de <unclear>Auchade</unclear>
+Governor General of the
+Province of Angola</p>
+
+</div2>
+<div2 type="titles">
+
+<!--30002-2-->
+<p>United States Commercial Agency 
+St Paul de Loanda October 19th 1865</p>
+
+<p>Sir
+On the 24th of September, one Edward Baxter 
+presented himself to this Commercial Agency and requested 
+protection as a destitute American Seaman. He reported 
+having deserted from the American Whaling Barque
+"Governor Carver" of Westport <unclear>R.I.</unclear> at Little Fish 
+Bay for the reason that said Barque took in 
+slaves at that port.</p>
+<p>I called the attention of this 
+Provincial Government to the case and requested the 
+favor of the Government to send this Seaman to 
+Little Fish Bay on board of the Portuguese 
+corvette "Infanto D. Soao" that the Commander
+might on the spot investigate the true merits of the 
+case that both the honor of Portugal and the United 
+States might be properly Vindicated. My request was 
+complied with <unclear></unclear> sailed in said <unclear>corvette</unclear> 
+on the 12th inst. </p>
+<p>Notwithstanding my apprehension of 
+the veracity of this statement, I took all the 
+necessary steps to sift out the truth and by the 
+following month's mail I will forward to the Department 
+copies of all correspondence <unclear>bearing</unclear> on this 
+<unclear>case</unclear> In the meantime the corvette will return 
+better qualifying me to place before you reliable 
+information.</p>
+<p>I have the honor 
+to be
+Your Most Obedt Servant
+Augustus Archer Silva 
+Commercial Agent</p>
+
+<p>Hon William H Seward 
+Secretary of State 
+Washington D.C.</p>
+
+
+
+<gap reason="hard to read 30004-2"></gap>
+<gap reason="unreadable"></gap>
+
+<!--30009-2-->
+<p>United States Commercial Agency
+St Paul de Loanda 25 November <unclear>1865</unclear></p>
+
+<p>Sir
+In my despatch No 43 I had the honor of informing the 
+Department that an American Seaman calling himself Edward
+Baxter handed himself to me, on the 24th of September, requesting
+protection as a destitute seaman he responded to me that he
+departed from the American Barque "Governor Carver" Captain
+Charles Mason of Westport, R.I. at <unclear></unclear> Little Fish Bay
+for <unclear></unclear> that said Barque had taken in at that place slaves
+and that he assisted taking on board the first <unclear>seventy five and</unclear>
+returning for more ran away and after the Barque had <unclear></unclear>
+<unclear></unclear> he came down to the town and made arrangements <unclear></unclear>
+Service of the British Mail Steamer "Lincolnshire" and came to
+this place and presented himself to me as stated I listened to 
+his story with apprehension and doubt, but not wishing to show, that <!--30010-2-->
+I entertained such a feeling, I<unclear></unclear> for a time with
+seeming indifference, and set Baxter to work, about my house
+with <unclear>some light jobs</unclear>. My anxiety to sift out the truth of this case
+increased from day to day and I questioned and <unclear>cross-questioned</unclear>
+him frequently on the subject with a view to <unclear>confirm said</unclear> statement
+with another and I was surprised to find them always <unclear>correspond</unclear>
+On one of those days, <unclear></unclear> at the house of a friend <unclear>Watson</unclear>
+<unclear>Gradenburg</unclear> Esquire, H B M Commissioner for the Slave Trade 
+No <unclear></unclear> promised to send Baxter to him
+that he might take his desposition, with an object to compare with
+the one that I should require of him when I should consider it 
+proper to take a formal one before me. I sent Baxter to <unclear>Mr</unclear>
+<unclear>Watson Gradenburg</unclear> and to my surprise two days after I learned  at
+a late hour that Baxter had been sent on board the British 
+<unclear>Brig "Elizabeth"</unclear> as a British subject and which vessel is on that
+day <unclear>depart</unclear> for England <unclear>I was still under excitement</unclear> <unclear></unclear>
+<unclear>of this extraordinary </unclear><unclear></unclear> Captain <unclear></unclear>
+of the Portuguese <unclear>Corvette "Infanto de Soao" </unclear>  <!--30011-2-->
+<unclear></unclear> and in a few words I explained to him the course of
+my <unclear>dissatisfaction</unclear> and said
+<unclear>he would not</unclear> imagine what motive could have <unclear>caused Mr </unclear><unclear>Gradenburg</unclear>
+to not <unclear></unclear> if Baxter had been properly 
+cleared by the Police Authorities, according to the local laws of 
+the Province. <unclear></unclear> that though 
+Commander de O's influence <unclear>Baxter was taken out of the </unclear> 
+vessel by order of the police authorities for not having been 
+cleared from that department and sent on board of the Portuguese
+ Corvette "Infanto de Soao" Two days afterwards Baxter 
+was sent to the British Consul Mr <unclear>Gradenburg</unclear> is also Consul 
+<unclear></unclear> also I addressed a note to Mr <unclear></unclear> who
+immediately sent Baxter to my office with a despatch and a 
+certified copy of the deposition of Baxter taken before him In
+the mean time, the Portuguese Government had heard of the report
+made by Baxter of an embarcation of slaves in a Portuguese 
+port and addressed me a note, requesting me the kindness to 
+inform them fully on the subject. The following morning I <!--30012-2-->
+invited three witnesses to my home and before them took the 
+deposition of Baxter and the same day sent a despatch 
+to the Colonial Secretary General <unclear></unclear> copies of both 
+depositions. I also addressed <unclear>Mr Gradenburg</unclear> again You will 
+<unclear></unclear> by inclosure No 6 that I requested of the Provincial Government
+to send Baxter to <unclear></unclear> as I thought that on the <unclear>way port</unclear>
+they would be better able to get at the truth of this <unclear></unclear> subject.
+I recieved a <unclear>reply</unclear> in the affirmative and on the 12th ult. I sent
+Baxter with a despatch on board of the Portuguese Corvette
+Infanto de Soao On the 14th ult. I recieved a despatch from 
+the British Consul On the 30th ult the Corvette  returned and 
+on that day I received a communication from Commander de <unclear>O</unclear>
+and on the 3rd inst a despatch from the acting Governor General 
+both informing me that the evidence obtained at Mossamedes found
+Baxter guilty of <unclear>basest</unclear> falsehood and that he had been committed
+to Prison by order of the Government to be tried on 
+the charge of the false <unclear></unclear> I replied on the 3 inst 
+requesting copies of the deposition taken at Mossamedes in <!--30013-2-->
+the meantime Baxter was brought up before the provincial 
+authorities for indictment when he confessed voluntarily that 
+everything he had said was false and a <unclear></unclear>
+I was officially informed of this fact on the 9th inst, enclosing 
+me a certified copy of the confession taken before the Chief 
+Justice of the City in open court. His Excellency in reply to my 
+despatch (enclosed No <unclear></unclear>) regretted that the original desposition 
+taken at Mossamedes had been sent to the Judicial Authorities
+to enable them to find a bill of indictment against Baxter 
+which prevented him sending me copies at present adding
+that they were very voluminous and not of much importance 
+after the declaration of falsehood made by him. I was satisfied 
+that the evidence was quite sufficient and on the 11th inst. I 
+addressed a note to the President of the Government Council 
+expressing my approval in complimentary terms on the favorable 
+termination of this case which at one time indicated serious
+alarm, on the probable revival of the slave trade in the American
+vessels and in Portuguese <unclear>water</unclear> on the 20th instant I addressed <!--30014-2-->
+a note of congratulations  and thanks to Commander <unclear></unclear>
+of the Portuguese Corvette<unclear>Infanto de Soao</unclear> and also to <unclear>Fernando</unclear>
+<unclear></unclear> Governor of Mossamedes I also wrote on the same 
+date to Charles Mason, Master of the Barque "Governor Carver"
+requesting him when he visited Mossamedes to call at this port
+Throughout the case a spirited correspondence had been carried on 
+between the British Consul and the President of the Government 
+Council, on account of the Authorities having taken Baxter 
+from on board the Brig "Elizabeth" and question their authority 
+to do so, alleging that they interfered with his Consular functions. 
+The Government has endeavoured to convince him that they acted in 
+accordance with the local laws of this Province. The President 
+of the Government Council told me he had <unclear></unclear> him for 
+not regarding <unclear></unclear> or more persons <unclear></unclear> the responsibility 
+which the accusation of Baxter inflcited upon the reputation of 
+Portugal and the United States and without entertaining the 
+least consideration would have sent Baxter to the Foreign 
+Office in England and thereby comprimise the Provincial <!--30015-2-->
+Government and the Commercial Agency of the United States 
+The Provincial Government has also been informed by the 
+British Consul that Baxter was a British subject and 
+prepared to have delivered him over to me as a <unclear>deserter</unclear> from an 
+American Barque. The Department <unclear>will above by the</unclear>
+<unclear>several</unclear>deportations that Baxter declared himself, my oath, 
+to be an American naturalized citizen.  In his confession 
+which can be taken as a "bona fide" evidence he <unclear>further</unclear> 
+declared that he as a naturalized citizen of the United States 
+He claimed protection at that Commercial Agency when he 
+could have applied to the British <unclear>Consulate</unclear> and being also 
+a deserter from the American Barque "Governor Carver" I felt 
+fully authorized with all these facts to send upon him my 
+Consular authority. By enclosure No <unclear>1</unclear> you will perceive that 
+I expressed my <unclear>surprise</unclear> to the British Consul at his attempting 
+to send Baxter to England when he had no <unclear></unclear> to
+suppose that I had done with him. Baxter was commanded 
+to himself to the Foreign Office on his arrival on  <!--30016-2-->
+England, to be there questioned on the subject and the 
+consequences of such a step without the possibility of contra-evidence 
+should have been extremely serious. He offered me 
+an apology for acting thus alleging that he supposed I 
+had done with him but which I had never thought a 
+justifiable excess; Nevertheless I considered it proper to 
+let the subject stop with him, after this apology.</p>
+
+<p>You will perceive by the <unclear></unclear> 
+that I have enclosed to do <unclear></unclear> upon me 
+and throughout the proceedings have been anxious to discover if
+the abominable traffic of slave trade had been revived in
+American vessels which since the capital punishment of 
+<unclear>Captain Gordon</unclear> by the United States Government I have 
+not heard of a single shipment of slaves, from this part of the 
+Coast and which previous to that event was almost <unclear></unclear>
+<unclear></unclear> most disgracefully under the American Flag. 
+I learn from the President of the Government <unclear></unclear> that 
+Baxter's trial will soon take place I was surprised to have <!--30017-2-->
+him say that the penalty applicable to him by the Criminal 
+laws of Portugal is very slight and very probably he will only 
+receive a reprimand and be put at liberty. Should this take place 
+I shall order him back to Prison, and keep him there four 
+months for desertion, unless claimed in the meantime by 
+the Master of the Barque "Governor Carver" I never met 
+in all my life a more <unclear>curt and consumate rouge</unclear> than the 
+said Edward Baxter <unclear></unclear> regardless of himself and 
+his Creator<unclear> as to make several false </unclear><unclear></unclear> only to <unclear></unclear>
+Captain Mason of the "Governor Carver" who he himself 
+has wronged by receiving advanced <unclear>money</unclear> at St Helena  
+and in a few days afterwards deserted at Mossamedes.</p>
+<p>I would do an act of injustice if I closed this 
+despatch without mentioning in an honorable manner, the 
+able, prompt and willing cooperation, I received from the 
+Government in assisting me to <unclear></unclear> the truth of Baxter's 
+representation and it is worthy of commendable honor to the 
+Authorities here to note the indignation which the story of 
+Baxter <unclear></unclear> when their national honor was <!--30018-2-->
+in danger of being stigmatized with the revival of the slave 
+trade in their waters.</p>
+<p>I have the Honor
+to be
+Your Most Obedt Servant
+Augustus Archer Silva
+Commercial Agent</p>
+
+<p>Hon WIlliam H Seward
+Secretary of State
+Washington
+D. C.
+</p>
+
+
+<!--30019-2-->
+<p>United States Commercial Agency
+St Paul de Loanda Octo <unclear></unclear></p>
+
+<p>Sir
+The Seaman who claimed the protection of 
+this Commercial Agency as a destitute American 
+Citizen, <unclear></unclear> ran away from the American Barque 
+"Governor Carver" at Mossamedes for the alleged 
+reason that said vessel was a slaver, &#38; who 
+afterwards was shipped by you as a British 
+Subject on board of the British <unclear>Brig</unclear> "Elizabeth" 
+had detained on account of some irregularity; You 
+will please send Seaman to this office, that 
+he may explain to me why he claimed &#38; received 
+protection as an American Citizen, when he was 
+not such &#38; likewise to prove the charge made 
+by him against the character of the American <!--30020-2--> 
+Barque "Governor Carver"</p>
+<p>I have the honor 
+to be 
+Your Most Obedt Servant 
+(Signed) Augustus Archer Silva
+Commercial Agent</p>
+
+<p>M <unclear>Vanderburg Esgn</unclear>
+British Consul
+St Paul de Loanda</p>
+
+
+
+
+<!--30021-2-->
+<p>British Consulate Loanda
+9th October 1865</p>
+<p>Sir;
+In accordance with the request contained 
+in your despatch of Today's date, I have the 
+honor to send to your Office the Seaman Edward
+Baxter, who left the American Barque "Governor 
+Carver" at Mossamedes on the ground, as he 
+alleges, that she was engaged in the slave trade.</p>
+<p>When Baxter by your desire presented 
+himself to me, a few days ago, I was under 
+the impression that you had satisfied yourself 
+that he was a British subject and intended to 
+place him at my disposal with a view to 
+my receiving his desposition. If I misunderstood 
+your intentions and object you will I 
+hope accept the above explanation, as an excuse.</p>
+<p>I enclose the declaration made 
+by Baxter before me to enable you to ascertain 
+whether the circumstances that he may relate to 
+you <unclear>coincide</unclear> with these that he told to me, 
+and you are at liberty if you think proper to 
+take and use a copy of this statement.</p>
+<p>I have the honor to be
+Sir,
+Your Most Obedient
+humble Servant
+(Signed) Mr <unclear></unclear>
+Consul</p>
+
+<p>A A Silva Esquire
+United States Commercial Agent
+&#38;c &#38;c &#38;c</p>
+
+
+<!--30023-2-->
+<p>I Edward Baxter, a native of Liverpool, 
+twenty-five years of age, do solemnly declare, and 
+state as follows-</p>
+<p>Towards the end of July, I shipped 
+at St Helena my board the Barque "Governor 
+Carver" belonging to Westport United States of 
+America, of which vessel, Charles Mason, a 
+native of Nantucket, is master. The first port
+at which the ship <unclear>reached</unclear> after leaving St Helena 
+was Little Fish Bay, the arrival there <unclear></unclear> 
+Friday afternoon about three weeks ago. At about 
+<unclear></unclear> OClock that night, four boats in one of 
+which I was employed, was sent ashore to the 
+North Point of the Bay and there embarked seventy 
+<unclear>five</unclear> Blacks, where they <unclear>conveyed</unclear> on board. The boats 
+were then sent a second time to the same place, 
+and as I was afraid of what they were doing, I 
+ran away in the dark, as I shipped to go 
+on a whaling voyage, and not to <unclear></unclear> slaves I <!--30024-2-->
+cannot say what number of Blacks, they took the 
+second time. The ship was fitted not like a 
+whale but when we were three days out from 
+St Helena  I saw Sperm whales all round the ship 
+and said to the second Mate "how is it we are not
+lowering after those whales." "Oh", said he, "we are 
+not after this kind of whales," I then asked him 
+what kind of whales we were after: he answered 
+"we are after two or three hundred Black birds if 
+we can catch them. Then the fourth day they lifted 
+out the bodies-- The Americans call them <unclear>"Tripods"</unclear>
+and there was a kind of Bulk head- They knocked 
+the bulkhead away and I saw an iron rod
+nailed down to the deck, with <unclear>footcuffs</unclear> a sort of
+handcuffs on the feet. Then the Captain
+said Boatswain do you know what these things 
+are for "then this is where we shall put the first 
+seventy niggers we get" and it was there they put <!--30025-2-->
+the seventy-five they brought on board that Friday
+night. After leaving the boat, I remained all 
+night in the mountains, the Barque went away 
+the following morning, steering towards the north.
+I then went down into the town, and saw the Captain 
+of the schooner "Lincolnshire" whom I asked to 
+give me a passage to Loanda; He told me to 
+help to get the Bullocks on board, and then 
+to go on board myself,  I did so, and arrived 
+at this port on the 24th of September.</p>
+
+<p>(Signed) Edward <add place="above">His</add><add place="below">Mark</add>X Baxter</p>
+<p>Thus solemnly declared and stated 
+before me at the British Consulate, Loanda 
+this 6th Day of October 1865.</p> 
+<p>(Signed) M. Vanderburg
+Consul</p>
+
+<p>This is to certify that the above <!--30026-2-->
+named Edward Baxter, being an illiterate
+person, the foregoing Statement was carefully 
+read over to him; he appeared perfectly to understand 
+the same and affixed his mark thereto 
+in my presence. </p>
+<p>(Signed) M. Underrburg
+Consul</p>
+
+<p>A True copy of the original of record in this 
+Consulate.</p>
+<p>British Consulate Loanda
+14th October 1865 
+M Underrburg 
+Consul</p>
+
+
+<!--30027-2-->
+<p><hi rend="underline">Translation</hi></p>
+<p>Sir;
+This Honorable Consul of Government 
+<unclear>desires</unclear> to request of you all the possible information 
+respecting a seaman named Edward
+Baxter, who was found on board the English Brig
+"Elizabeth" when about to sail from this port without 
+the the legal and indespensible documents to enable him 
+to leave this city. The said seaman states that 
+he deserted from an American Barque that had 
+taken in a cargo of slaves at Mossamedes and 
+that he <unclear>was willing to run such a risk</unclear> from
+away in that place and obtained a passage to
+this city on board the Steamer "Lincolnshire"</p>
+<p>The Honorable Council of Government 
+expects that you will kindly be pleased to furnish 
+as much information as possible regarding said 
+seaman and all particular learning on this subject <!--30028-2--></p>
+<p>God preserve you!
+Secretary General's office at Loanda October 9th 1865</p>
+<p>(Signed) <unclear>Autorous de Wells Paragão</unclear> <!--Check Portuguese spelling-->
+Government Secretary General</p>
+
+
+<p>To the 
+United States 
+Commercial Agency</p>
+
+
+<gap reason="pages unreadable May be able to photoshop"></gap>
+
+
+<!--40010-2-->
+<p>United States Commercial Agency
+St Paul de Loanda Oct 10<sic>rd</sic> 1865</p>
+
+<p>Sworn before me this tenth day of 
+October, in the year of Our Lord, One thousand, 
+eight hundred, and Sixty-five, and I further 
+certify that the above named Edward 
+Baxter does not know how to read or 
+write and that I have carefully read 
+this document over to him and he has 
+certified to the same by his mark in
+this my presence.</p>
+<p>Augustus Archer Silva
+Commercial Agent</p>
+
+<!--40011-2-->
+
+<p>United States Commercial Agency
+St Paul de Loanda Oct <unclear>10th</unclear> 1865</p>
+
+<p>Sir
+I have the honor to acknowledge the 
+receipt of your despatch of the 9th inst, requesting of 
+me information regarding a report made by Edward 
+Baxter, a run-away seaman of the American 
+Whaling Barque, "Governor Carver" at Mossamedes 
+to the effect <add place="above">said</add> Barque did take in slaves while 
+at anchor at Mossamedes, during the past 
+month &#38; for which reason said seaman 
+Edward Baxter gave as an excuse for deserting 
+said vessel. </p>
+<p>I have the honor to forward you 
+enclosed, for the information of the Honorable 
+<unclear>Consul de Governos</unclear> a copy of two depositions
+signed by him; One taken before 
+the British Consul &#38; the other before me 
+by which it will be seen that the honor of 
+Portugal as well as the United States is brought 
+into question.</p>
+<p>I most respectfully request of the 
+Provincial Government to use all endeavors 
+to search out the truth of the important 
+case, that not only the honor of Portugal but
+also that of the United States may be indicated
+I therefore propose that said 
+seaman be sent to Mossamedes as I think 
+on the spot the Provincial Government, will 
+have a better opportunity to judge the true merits 
+of the case I better <unclear>qualify me</unclear> to bring to 
+the notice of the United States Government a 
+<gap reason="missing pages"></gap>
+</p>
+
+<p><unclear></unclear>
+<unclear>Anton de Meth Vargãs</unclear> <!--Check Portuguese spelling--> 
+<unclear>Colonel Secretary for the</unclear>
+Province of Angola</p>
+
+
+<gap reason="unreadable"></gap>
+
+<!--40021-2-->
+<p>Sir;
+Having returned from Mossamedes where I 
+converged the United States Citizen Edward Baxter for the 
+purpose of ascertaining the truth of a statement made by 
+him of a shipment of slaves having been affected on the 
+Bay of Mossamedes I have to inform you that the 
+Governor of that district co-operating with me enclosed 
+with a minute inquiry in <unclear></unclear> of several persons and 
+of Edward Baxter himself without sharing any 
+effort that might tend to the discovery of the truth.</p>
+<p>From the results of there investigation which 
+were now submitted to the Hon Consul of Government 
+to become evident that the statement is a false one.</p>
+<p>Said Edward Baxter whereby contradicts 
+his statements in various instances and proves from his 
+own <unclear></unclear> the falsity of several points set forth in
+his statement. The fact that becomes evident is 
+that whether from not agreeing with the Captain
+of the Barque "Governor Carver" or because he may 
+have been punished for his misconduct and deserted 
+the vessel remaining some days in the neighborhood 
+of the town eating and sleeping in different houses 
+whose owners he afterwards pointed out as being 
+in conspiracy with the Captain of the vessel at the 
+time of shipping the slaves and to whom he had 
+said that it was <unclear>easier to cut his throat</unclear> than to return on board the ship he had deserted for the 
+reason that he was on very bad terms with the Captain,
+and it was only after the vessel had sailed that he 
+went to the town where he slept one night.</p>
+<p>Whether in revenge to the Captain or from 
+any other bad feeling, the said Edward Baxter 
+has made a fake statement involving not only 
+the authorities, but also several individuals some of 
+which have been determined and are now awaiting 
+their trial, that here to be instituted for having 
+been pointed out by him as having assisted the 
+Captain in shipping the slaves as he had 
+related.</p>
+<p>God preserve you!</p>
+<p><unclear></unclear> at anchor in the 
+Port of Loanda 30th October 1865.</p>
+<p>(Signed) Joaquin <unclear>Voagas</unclear><unclear></unclear>
+Commander</p>
+
+<p>United States Commercial Agent 
+St Paul de Loanda</p>
+
+
+<!--40024-2-->
+
+<p><hi rend="underline">Translation</hi></p>
+
+<p>Sir
+The Consul of Government acting as Governor 
+General of this Province has much pleasure in informing
+you that from this inquiries instituted at Mossamedes 
+by the Governor of that district, it has been most 
+authentically proud that the accusation of the 
+seaman Edward Baxter of the American Barque 
+"Governor Carver" alluded to in your despatch of 
+the 10th October, is a false one.</p>
+<p>The accusation is of the gravest 
+character, affirming that a shipment of slaves 
+had been affected close to that town. Said 
+seaman is therefore a Prisoner according to 
+our Criminal Code of Laws and will consequently 
+be tried and punished for which purpose he 
+is already in Jail.</p>
+<p>The Council of Government has to thank you <!--40025-2-->
+for your services is producing said seaman thus 
+facilitating this discovery of the truth, alike important 
+to the Portuguese Nation and the United States of 
+America; But now will yet render greater 
+service, if you should arrange in such a way 
+as to cause said Barque to come to this Port, at 
+an early date, by addressing through the Governor 
+of that place, an order to all American Whalers 
+calling them, in order that notice may be 
+conveyed to her, so as to identify the seaman.</p>
+<p>God preserve you!
+Palace of the Government at Loanda Novr 1st 1865</p>
+<p>(Signed) <unclear></unclear>
+President of Council of Government</p>
+<p>To the 
+Commercial Agent of the United States
+of America</p>
+
+<!-- restart here-->
+<!--40026-2-->
+<p>United States Commercial Agency
+St Paul de Loanda Nov 5 1865</p>
+
+<p>Sir
+I have the honor to acknowledge the receipt of your despatch
+of yesterday's date wherein I am informed that 
+the despositions of the American Seaman, Edward Baxter,
+taken at Mossamedes proved by authenticated evidence that 
+the accusation made by him against the people of that place 
+and the character of the American Barque "Governor 
+Carver" was false.</p>
+<p>Reserving my comments on this subject, for a 
+subsequent opportunity. I have only to remind your 
+Excellency, that I claim the right, to respectfully 
+request of you, the kindness to punish and at your 
+earliest convenience with copies of all the depositions 
+taken at Mossamedes by the Authorities of that place, <!--40027-2-->
+that I may to <unclear>enable not only to copies to you my views</unclear>
+on this subject but also to <unclear>possess</unclear> myself with information 
+that I may represent clearly the case to my Government.</p>
+<p>Your Excellency will have the goodness 
+to understand that this Agency does not approve of the 
+manner in which Edward Baxter has slandered 
+the honor of Portugal on Portuguese Territory but it 
+reserves for self the right to throughly investigate the 
+case on the part of the United States Government in 
+which light I have the honor to request the despositions 
+herein named.</p>
+<p>I have the honor 
+to be
+Your most Obedt Servant
+(Signed) Augustus Archer Silva
+Commercial Agent</p>
+<p>His Excellency 
+The President of the 
+<unclear>Consul de Governos</unclear></p>
+
+
+<!--40028-2-->
+<p>Sir, 
+I have the honor to acknowledge the receipt 
+of your despatch of the 3rd inst, in which you request 
+copies of the deportation taken at Mossamedes 
+to the supposed shipment of slaves in the proximity 
+of that town, as stated in this city by the seaman 
+Edward Baxter, a naturalized American.</p>
+<p>In answer I have to inform 
+you that <unclear>these docts</unclear> are four in number and very 
+voluminous that at the time you asked for them
+the originals had already been sent to the respective
+Judge, for him, within 8 days, to pronounce verdict 
+upon the charge brought against that seaman for 
+false statement- This has now been done and 
+intimated to the culprit in accordance with the 
+Commercial Treaty between the United States of 
+America and Portugal that in the mean time 
+said seaman has withdrawn his former statements, as
+false and in public audience as is shown from
+the enclosed desposition, which I have the honor 
+to hand you.</p>
+<p>I believe this document will dispense 
+with those requested in your said despatch, which
+clearly proves the falsity of the accusation. This is 
+more than proved by his spontaneous and voluntary 
+confession. </p>
+<p>Nevertheless if you still consider them 
+indespensible they will be sent to you, as soon 
+as copies can be taken by the Court.</p>
+
+<p>God preserve you!
+Palace of the Government at Loanda
+November 9th 1865</p>
+<p>(Signed) <unclear>Luiz Jose Mendez Afforno</unclear>
+President of the Council of Government</p>
+
+<p>United States Commercial Agent
+St Paul de Loanda</p>
+
+
+<!--40030-2-->
+<p><hi rend="underline">Translation</hi></p>
+<p>Certified Copy</p>
+<p><unclear>Johanna Gonzales de Esprito Santo Gorrha</unclear><unclear>clerk to</unclear>
+the judge of the Criminal Court in this district <unclear></unclear>
+I certify being the <unclear>clerk</unclear> in court during the proceedings 
+in <unclear></unclear> the truth of an accusation made by 
+the American Seaman Edward Baxter before the 
+judicial Authorities of this palace of a shipment of 
+slaves in the Bay of Mossamedes in which <unclear></unclear> 
+of page 45, an inquiry is seen as follows- Terms 
+of Inquiry- In the year of our Lord 1865, on the 
+4th day of November, in the City of Loanda and 
+in the Criminal Court of the district, present <unclear>Dr.</unclear> 
+<unclear>Carlos Pechero de Bettencourt judge</unclear> of the
+Criminal Court with exercise in both sectors 
+of this tribunal together with me <unclear>Geliciao Goncales</unclear> 
+de <unclear>Esperito</unclear><unclear></unclear> clerk and the Prisoner 
+Edward Baxter for the purpose of being to examine
+<unclear></unclear> This was performed in the following manner
+In the presence of the witnesses <unclear>Luis Pedro Tenina</unclear> <!--40031-2-->
+and <unclear>Jose Antonio de Santos</unclear> Public Officers of 
+the Court who gave oath before Judge to 
+verify the <gap></gap>, in writing the questions and 
+answers and through the interpreters <unclear>Francisco</unclear> 
+<unclear>da Potio Marquis Portez</unclear> a Merchant of this place <!--Same names as below-->
+whose oath was taken by the Judge to faithfully 
+translate and transmit to the prisoner, the questions 
+made by the Judge and to me the answers given by 
+him, which he promised to fulfill. Thus  
+through the said interpreter, the Judge inquired 
+of the prisoner his name, place of birth, age, 
+name of father, condition in life, profession,
+last situation, if he had ever before been in 
+prison, and if he enjoys the liberty of his occupation
+ to which, he replied then his name 
+was Edward Baxter- Native of Liverpool- age 
+23 years- a son of John and Mary Baxter- 
+married- a seaman and that he enjoys the <!--40032-2-->
+liberty of his profession- that his last residence 
+was at Mossamedes from where he came to this
+city having remained there only a short time- and
+that he had  never been in prison before- being
+further questioned by the judge as to his nationality 
+he answered that he was an American Citizen 
+having been naturalized as such about one year 
+ago; He, the said prisoner then addressing the 
+interpreter said that the accusation made by him 
+both to the American and British Consul and 
+to the Government of this Province, of a shipment 
+of slaves made in the Bay of Mossamedes on board 
+the American Barque "Governor Carver" was 
+false and that he declared <unclear></unclear>to be such to the 
+Judge; whereupon being asked by the Judge 
+for what purpose he had made such a statement , 
+He replied, that having deserted the said Barque, 
+and fearing future punishment he had invented 
+that <unclear>means</unclear> not only to avoid it but also in the 
+hopes of obtaining a passage gratis to England 
+and it was with those views that on his arrival 
+here he applied to his Consul Mr Silva. </p>
+<p>All the above's statements having to be 
+made known the Judge caused this record to 
+be drawn out and after being read and explained
+to the prisoner, by the interpreter was signed by 
+both together with the witnesses and myself the 
+clerk signing for the prisoner he not knowing how 
+to read or write- and- I, Feliciano Goncales de 
+Esperito Santo Gurrba- Bettencourt Francisco 
+de Silva Marquis Porto - Luis Pedro Tenina -
+Jose Antonio de Santos. <!--Same names as above--> </p>
+<p>No more was contained in said
+interrogation, of which I have caused a true 
+and faithful certified copy to be taken from 
+the original documents, in my possession which 
+has been compared and signed by me and filed 
+according to law. Loanda November 8th 1865- I, 
+<unclear>Feliciano Goncales de Esperito  Pento e Crushe </unclear> Clerk
+who have written and signed it, and confirmed 
+by us- <unclear>Jose Solomao de Lewis Perticoine Batathe</unclear>
+and <unclear>Fethcarrato Goncales de Esperito Santo e Crushe </unclear></p>
+<p>A true Copy
+(Signed) <unclear>Antonio de Mello Varagrao</unclear>
+Government Secretary</p>
+
+
+<!--50000-->
+
+<p>United States Commercial Agency
+St Paul de Loanda Nov 20 1865</p>
+
+<p>Sir,
+I have the honor to request of you the kindness 
+to deliver the enclosed letter to Captain Clark Mason 
+of the American Barque "Governor Carver", when
+his vessel enters your port and who I understand, 
+is <sic>cruizing</sic> off your Coast.</p>
+<p>This recent unfortunate circumstance
+connected with the false accusation made by Edward 
+Baxter against the <unclear></unclear> inhabitants of your 
+quiet village and the reputation of Barque 
+"Governor Carver", was received here with doubt by 
+everyone and his subsequent confession was no
+more than was generally anticipated.</p>
+<p>It must have been extremely unpleasant to the <!--50001-->
+inhabitants of Mossamedes and particularly to 
+yourself to have your character defamed by 
+the bare accusation of having the slave trade revived
+at your very door more especially at a 
+time when it had become a fixed fact that for so
+many years no instance of this nefarious nature 
+has been recorded but on the contrary, your 
+district has flourished by irreversed Commercial 
+and agricultural prosperity, to the great admiration 
+of all interested in the welfare of Angola.</p>
+<p>I have already exchanged congratulations 
+with the <unclear>Govt Consulho de Governo</unclear> for the 
+happy termination of this disagreeable case; I 
+also expressed to them my thanks for this cordial 
+cooperation and promptness of action which had 
+the final results to force from Edward Baxter 
+his voluntary confession; I am not <unclear></unclear>
+that a portion of this credit belongs to you and you will <!--50002-->
+please accept the acknowledgement of my <unclear>warmest</unclear> 
+sentiments.</p>
+<p>I have written my government a minute 
+description of the whole case and I am confident they 
+will appreciate the able manner in which the 
+authorities of this province defended the innocence of 
+the American Barque "Governor Carver"</p>
+<p>I have the Honor
+To be
+Your most obedt Servant
+(Sg) Augustus Archer Silva
+Commercial Agent</p>
+<p>To The 
+<unclear></unclear>
+<unclear>Fernando de Costa</unclear> Seal
+Governor General of Mossamedes</p>
+
+
+
+<!--50003-->
+<p>United States Commercial Agency 
+St Paul de Loanda Nov 20th 1865 </p>
+
+<p>Sir; 
+On the 24th of September, Edward Baxter, styling 
+himself as American Seaman, presented himself to this 
+Commercial Agency for protection, and on oath, before 
+witnesses declared that, he ran away from your vessel 
+at Little Fish Bay, for the reason that you had 
+shipped, at that place, a cargo of slaves. </p>
+<p>This report, very naturally created 
+much excitement and anxiety with the Local Portuguese 
+Authorities and myself, who proceeded at once to investigate 
+the truth. Baxter was examined by the 
+Authorities of this place and by the British Consul 
+also and at my request was sent to Little Fish Bay 
+on board of the Portuguese Corvette "Infanto de Soao"
+which vessel left here October 12th and reformed on the <!--50004-->
+30th of the same month, on which day , I received a 
+communication from the Commander, informing me 
+that Baxter failed to prove on the alleged <unclear>suit</unclear> the 
+accusation he had made against your vessel and the 
+inhabitants of that industrious village. Baxter was 
+then, by order of the Portuguese Government, imprisoned.
+A few days after he was brought before the Judicial 
+Tribunal of this City and indicted with the charge
+of having made false accusation and ordered again 
+to prison, to await his trial. Baxter, before the
+court, became alarmed and to a Portuguese gentleman 
+he confessed that everything he had said was false 
+and a pure invention of his own.  He was brought 
+again before the Judge and made a formal confession 
+of which I have the honor to enclose a copy. Baxter 
+is still in Prison waiting his trial. The acting 
+Governor General told me a few days ago that 
+the penalty of his crime, by the criminal laws of 
+Portgual was very light and that he would only be 
+reprimanded and set at Liberty. As soon as 
+this takes place, I shall order Baxter back to 
+Prison and there confine him four months, on the 
+charge of having deserted your vessel and I hope, 
+in the meantime, you will come to Loanda to 
+claim him. Your presence here will also do 
+much good. I have been requested by the Governor 
+General of this Province to invite you to 
+visit this Port.</p>
+<p>I have the honor 
+to be
+Your Most Obedt Servt
+(Sg) Augustus Archer Silva
+Commercial Agent</p>
+
+<p>Captain of the American Barque "Governor Carver" Charles Mason</p>
+
+<!--50006-->
+<p>Read March 23
+<unclear>Ackd</unclear> March 23</p>
+<p>No 18</p>
+
+<p>United States Com Agency
+St Paul de Loanda January 17 1865</p>
+
+<p>Sir
+I have the honor to 
+acknowledge the reception of 
+Your Despatch No 7 and also 
+Communication of October 24 ultimo</p>
+<p>I shall expect 
+to receive the flags &#38; forms 
+by the first vessel from Salem 
+which will be in about five 
+months.</p>
+<p>Trade is reviving again 
+The New Palm Oil Crop is already 
+commencing to yield.</p>
+<p>I have the honor 
+to be 
+Your Most Obedt Servt
+Augustus Archer Silva
+Commercial Agent</p>
+
+<p>To the 
+Hon Secretary of State 
+Washington</p>
+
+
+<!--50007-->
+<p>Reed June 12
+<unclear>Ackd &#38; 14</unclear></p>
+<p>No 20</p>
+<p>United States Com Agency 
+St Paul de Loanda March 28 1866</p>
+
+<p>Sir
+I had the honor in 
+my despatch No 15 to place before 
+the Department a full statement 
+regarding a case of an alleged 
+American Seaman by the name 
+of Edward Baxter who deserted 
+from the American Bark "Governor 
+Carver" of Mossamedes, and 
+accused the said <sic>vessl</sic> of 
+having embarked a cargo of 
+slaves at that port; for which 
+failing to prove the accusation
+was thrown into prison by the 
+Portuguese authorities to await 
+his trial, the trial being <!--50008-->
+delayed I requested several 
+times the judicial authorities 
+to have the case decided 
+which took place on the 26th 
+isn't the trial was a short 
+one his own confession proving 
+him guilty of the charge 
+against him. The judge applied 
+to his case the most
+lenient version of the law, deciding 
+that the imprisonment 
+he had already suffered was 
+the punishment they should 
+impose upon him. He was therefore 
+set out at liberty and 
+presented himself to me.</p>
+<p>I am concious 
+of its being my duty to inflict <!--50009-->
+upon him an additional 
+punishment for deserting the 
+American Bark "Governor Carver"; 
+isn't seeing him very much 
+reduced by bodily weakness from 
+the hardship of a Portuguese 
+prison in Africa which he 
+suffered for nearly five months, 
+when he had been seriously 
+sick with fever on two occasions 
+humanity directed me to allow 
+him to be at liberty to 
+recruit his health which being 
+accomplished I should cause
+him to suffer a moderate 
+imprisonment that he may 
+have impressed upon him the 
+consequences of deserting an <!--50010-->
+American vessel in a foreign 
+port without justifiable reason.</p>
+
+<p>I have the honor 
+to be 
+Your Most Obedt Servt
+Augustus Archer Silva
+Commercial Agent</p>
+
+<p>Hon Wm H Seward
+Secretary of State</p>
+
+<p>U S Com Agency
+St Paul de Loanda 
+March 28 1865 
+Augustus Archer Silva 
+No 20
+
+Relating to 
+Edward Baxter 
+a deserter from 
+the American Bark 
+Governor Carver</p>
+
+<!--Switch to Rescan folder-->
+<!--R50000-->
+<p>Read Aug 17
+Ackd Sept 21</p>
+
+<p>No 22</p>
+
+<p>United States Commercial Agency 
+St Paul de Loanda June 24 1866</p>
+<p>Sir
+I have the honor to 
+acknowledge reception of your 
+Despatches Nos 10 11 and 12 respectively-
+In reply to your Despatch 
+No 11 I was pleased to learn the 
+satisfaction of the Department 
+with my proceedings in the Case 
+of Baxter.</p>
+<p>I regret that I should 
+have drawn a wrong impression 
+by intimating that I should 
+cause Baxter to be rearrested 
+for deserting American Bark 
+"Governor Carver" I was acting <!--R50001--> 
+in conformity with the Eleventh 
+article of the Treaty between 
+Portugal and the United States 
+and with the supposition that 
+the said vessel would return to 
+Loanda to claim him.</p>
+<p>It fortunately happens 
+from the prolonged physical 
+weakness of Baxter I did not 
+carry-out the views expressed 
+to the Department. Baxter is 
+waiting for an opportunity to 
+leave the Country. He still 
+continues out of health.</p>
+<p>I have the honor
+to be
+Your Most Obt Sert
+Augustus Archer Silva
+Commercial Agent</p>
+
+<p>Hon William 
+H Seward
+Secretary of State
+Washington</p>
+
+
+<!--R50002-->
+<p>Reed Aug 17
+Acked Sept <unclear></unclear></p>
+<p>No 23</p>
+<p>United States Commercial Agency 
+St Paul de Loanda June 24, 1866</p>
+<p>Sir, 
+I have the honor to inform the 
+Department that on the 22nd ultimo 
+I visited the British Flag Ship
+"Bristol" to resent my respect to 
+Commodore Hornby who received 
+me with cordial attention and 
+saluted me with seven Guns on my 
+depature. In consequence of information 
+received from the British 
+Consul some time since that 
+the rank of Commercial Agent was
+not known in the British Navy. I 
+announced myself on board as United 
+States Consul. The Next day 
+Commodore Hornby returned my <!--R50003-->
+visit and referring to the subject 
+he confirmed the British Consul's
+statement and further added if 
+I had sent him my card as 
+Commercial Agent he would not 
+have known how to act and most 
+assuredly would not have saluted 
+me.  The Department will please 
+note that I am not in the habit of 
+seeking salutes as this was my first 
+nearly two years in office, I felt it
+my duty to make this visit especially 
+as this is the third British Commodore 
+who has visisted this port since 
+my appointment as Commercial Agent.
+The Commanders of British Vessels 
+of War have been very kind to
+American Merchants established along <!--R50004-->
+this coast and not long since 
+H M Steam Tender Pioneer, landed
+at Ambrizette, Forty Armed Men 
+and protected the Trading Factory 
+of Mr Harvy Wickes (of New York State) 
+for six days from destruction by 
+the natives the "palana" was subsequently 
+settled and Mr Wickes lives 
+peaceably among them.</p>
+<p>The object of this Despatch is to 
+show  the Department the unpleasant 
+situation of Commercial Agents when 
+they come in contact with foreign 
+vessels of War more especially the 
+Commercial Agency of St Paul de 
+Loanda, which from its Commercial
+importance, and locality frequently  <!--R50005-->
+visited by the squadrons of 
+England, France, and Portugal; 
+and together from the fact, England 
+and Brazil support full Consuls 
+here, I am in hope the Department 
+will consider the expedency of 
+creating the agency to a Consulate 
+and thus avert the possibility of 
+it's official character being 
+misunderstood. </p>
+
+<p>I have the Honor
+to be
+Your Most Obt Servt
+Augustus Archer Silva
+Commercial Agent</p>
+<p>Hon William H Seward
+Secretary of State
+Washington</p>
+
+
+<!--R50006-->
+<p>No 26</p>
+<p>United States Commercial Agency 
+St Paul de Loanda Octo 13th, 1866</p>
+
+<p>Sir
+I have the honor to inform the 
+Department that since my Despatch 
+No 25 the board ordered by 
+the Navy department composed 
+of three officers of the U. S. Store 
+Ship "Purveyor" has established 
+at this city a Naval Store house  
+for the use of the U. S. Vessels of 
+War. </p>
+<p>On their arrival here they 
+applied officially to me for 
+assistance which was cheerfully offered <!--R50007-->
+them, with I am pleased to say 
+favorable results.</p>
+<p>Being familiar with 
+the inconvenience which the former 
+United States Store Keeper had to 
+contend with I lost no time to 
+request His Excellency to allow me 
+the privilege to suggest a plan 
+more simple than the former and equally
+as sequre to the Portuguese Government. 
+His Excellency requested 
+an interview with me for explanation, 
+which resulted in his acquiescence 
+to all my views.</p>
+<p>I suggested the privilege 
+to allow the United States Naval 
+Store Keeper on the Arrival of every 
+Store Ship to deport at the Custom <!--R50008-->
+House a duplicate copy of her cargo, 
+and  to permit without Custom house 
+vigilance the Ship to discharge said 
+cargo with the stone house.</p>
+<p>The duplicate Invoice 
+would answer as a correct voucher for 
+all stores that entered the store house 
+and as voucher for delivery each vessel 
+of war should furnish the Store Keeper
+a duplicate receipt for what they received 
+one of which to he deposited at 
+the Custom house. The Custom house 
+authorities to the privilege whenever
+they showed deem it necessary to 
+verify the balance of Stores on hand. </p>
+<p>The immediate willingness 
+of His Excellency to concede to our 
+request and practically carrying it out, <!--R50009-->
+speak of itself the high esteem that 
+distinguished official entertain toward the 
+American character.</p>
+<p>Leuit Commander <unclear></unclear> 
+of the U. S. Store Ship "Purveyor" left 
+this port highly impressed with the 
+<unclear></unclear> attention he received from His Excellency 
+and before his departure in a letter expressed 
+his thanks to him, in very appropriate 
+words, which was enclosed 
+by me to him in another note joining 
+Capt <unclear>Doven</unclear> in his sentiments.</p>
+<p>The advantages gained
+by the present concession over that concede 
+to the former store house established 
+here by Flag Offifcer <unclear>Irman</unclear> in 1859 
+can only by appreciated by those familiar <!--R50010-->
+with the vexation the former Store 
+Keeper had to undergo, being as he always 
+was dependant in the slow motion 
+of a native Custom home guard, who 
+held a second key to all the Store houses,
+and even so the store house could only 
+be opened in the Custom house hours.</p>
+<p>His Excellency has 
+always manipulated his friendliness towards 
+the United States by special 
+cordiality to United States Naval 
+Officers when they visit him, and during 
+the visit of the U. S. Ship <unclear></unclear> 
+at this port, he visited, that ship 
+which was quite unexpected as I 
+never knew a Governor General to visit 
+any grade below a Commodore. <!--R50011--></p>
+<p>His Excellency has 
+been promoted to a near admiral 
+since he assumed charge of the 
+government.</p>
+<p>I have the honor 
+to be
+Your Most Obt Servt
+Augustus Archer Silva
+Commercial Agent</p>
+<p>Hon William H Seward 
+Secretary of State 
+Washington</p>
+
+
+<!--R50012-->
+<p>St Paul de Loanda April 9 1864</p>
+
+<p>Sir
+The Kroomen left here by 
+U. S. S. "Sacramento" have requested 
+me to address you on the subject of 
+their obtaining passage to their 
+home in the vessel under your Command-
+complying withthisdesire I would 
+beg first to day a few words in 
+correction of any misapprehension which 
+you may be under in consequence 
+of possible misrepresnetation on their 
+part.</p>
+<p>Those men were shipped by 
+Captain Collins Commanding U.S. 
+Ship "Sacramento" with the distinct 
+understanding that they were to be 
+discharged on arrival in this port, 
+of course neither Captain Collins nor 
+the Kroomen were aware of the 
+extreme difficulty of returning from this <!--R50013-->
+port to Monrovia, else the men in 
+question would never have been Shipped.
+They are now here in an almost 
+destitute condition, and without work
+should one of U. S. Ships arrive here 
+from the European Squadron, there would 
+be an opportunity of their returning to 
+Monrovia, but as there is no probability 
+of such arrival for some months
+to come it would be an act 
+of the greatest kindness and charity on 
+your part toward these men should 
+you feel disposed to grant them a 
+passage- I believe they have 
+sufficient money to supply such necessaries 
+as they would consume on the 
+passage; is that you would be at no 
+trouble concerning their maitenance. </p>
+<p>In conclusion I would beg 
+leave to say that in addressing you on 
+the point I have done so solely on behalf 
+of the Kroomen with whose unhappy 
+circumstances here I am too well 
+acquainted, and by no means in an 
+official capacity, nor as fulfilling a <!--R50014-->
+duty to-wards them for they know 
+perfectly well before being shipped 
+that they would be discharged in 
+this port.</p>
+
+<p>I have the honor 
+to be
+Yours Respectfully
+Signed, Augustus A. Silva</p>
+<p>To the Commander of H. M. S.
+"Dromedary"</p>
+
+
+<!--R50015-->
+<p>H. M. Ship "Dromedary"
+St. Paul de Loanda 10th April 1864</p>
+
+<p>Sir
+In reply to your letter of the 
+9th instant relative to giving passage 
+to certain Kroomen to Sierra Leone, 
+I beg to state although willing to 
+comply with your request as therein stated 
+I should not be able to do so without
+provision being for their sustenance 
+(regularly victualled from this ship)
+during the period they are on passage 
+which may probably occupy some six weeks 
+and for as long a period I do not think 
+I should be justified in trusting to the 
+Kroomen to ritual themselves as besides 
+the irregularity of so doing showed they 
+seem short of provisions it would oblige 
+me to supply them, and all stores on 
+board being Government property I should 
+have to account for them.</p> <!--R50016-->
+<p>It would be also necessary 
+that they showed have the means 
+of keeping their persons and clothing 
+clean.</p>
+<p>In conclusion I would beg to 
+be allowed to suggest that an official 
+application be made through the 
+usual channel, and as Captain <unclear></unclear>
+the senior officer on this coast is 
+here in H. M. S. "Eclair" I have 
+no doubt that arrangements may be 
+made for the passage required. </p>
+<p>I have the honor to be
+Sir,
+Your Obedient Servant
+Signed <unclear>J S Hillard</unclear></p>
+
+<p>Augustus Archer Silva Esquire 
+U. S. Commercial Agent
+<unclear>St </unclear>Paul de Loanda</p>
+
+
+
+<!--R50017-->
+<p>Copy</p>
+<p>Sir
+It becomes my duty to call your 
+attention to the fact that there is a great 
+number of Kroomen negroes about the streets 
+of this city, the who were left here by the 
+American Corvette "Sacramento" there men 
+give great annoyance to some of the inhabitants 
+principally there of the <unclear>Bungo</unclear> neighborhood 
+by reason of great noise they make having 
+no regard for the police reglation of the city.</p>
+<p>I beg therefore that you will take 
+such measures as you think proper to cause 
+a stop to be put to the annoyance given by
+these men. </p>
+<p>God preserve you
+Loanda 13th April 1864
+To the Commercial Agent 
+of the United States</p>
+
+<p>(Signed) Joaquin <unclear>Olvae Gamboa</unclear>
+Chief of the Police</p>
+
+<!--R50018-->
+<p>Copy
+United States Commercial Agency
+St. Paul de Loanda April 15th 1864</p>
+
+<p>Sir
+I had yesterday the honor to hold
+some conversation with you concerning 
+certain Kroomen left here by U. S. 
+Ship "Sacramento" and I then made a request 
+of you which I beg leave here to 
+repeat, viz to afford these Kroomen a 
+passage to their home in Monrovia or 
+vicinity by H. M. S. "Dromedary" if compliance 
+with this desire be not inconsistent 
+with the device which that read is now 
+engaged in- The peculiar circumstances 
+of this matter will I trust be a sufficient 
+apology for asking so great a favor at your 
+hands- These men, twenty-six  in number 
+were shipped by Captain Napoleon Collins 
+Commanding U. S. S. 'Sacramento' for service 
+on board that rebel during her passage <!--R50019-->
+down the coast to this port where as 
+was expressly understood at the time of 
+their shipment, they were to be discharged.
+Upon arriving here they were accordingly 
+discharged and sent on shore 
+with the prospect of obtaining a passage.
+home by the first U. S. Vessels which should 
+come here from the European Squadron.
+But no such vessel has arrived since that 
+time (2nd of March) and as far as I 
+can learn there is no reason for expecting 
+one soon. Meanwhile the Kroomen are 
+becoming nearly destitute they can find 
+no work or favor from the Portuguese inhabitants 
+of this city, and an official note
+has been addressed to me in complaint 
+of their presence in this city, and requesting 
+me to make some proper disposition of them,
+I am therefore compelled to appeal to you
+and request a passage for them to such 
+point nearest their home as may be most 
+convenient for H. M. S. "Dromedary" to land 
+them. </p>
+<p>I deeply regret the necessity which
+occasions this great demand upon you <!--R50020-->
+<unclear>induced</unclear> and trust you will find it 
+within your power and convenience to 
+comply with my request.</p>
+<p>I have the honor 
+to be
+Your Most Obt Servt
+Signed, Augustus Archer Silva
+Commercial Agent</p>
+<p>Commander <unclear></unclear> S. L. <unclear></unclear>
+Commander H. M. S. "Eclair"
+Senior Officer Southern Divn 
+H B M African Squadron</p>
+
+
+<!--Return to regular scans-->
+
+<!--60009-->
+<p>Copy</p>
+<p>H. M. S. "Eclair"
+Loanda 13th April 1864</p>
+
+<p>Sir
+I have the honor to acknowledge the
+receipt of your letter of this day's date 
+and to inform you that I shall give 
+directions to Staff Commander Hillard to 
+receive on board of his vessel the Kroomen 
+for whom you have requested a passage 
+and to land them as near their 
+homes as he may be able without departing 
+from the orders he may have 
+already received from the Commander in chief.</p>
+<p>2. Staff Commander Hillard
+will have directions to acquaint the 
+Account General of the Navy of his 
+having given there 26 Kroomen a passage, 
+in order that their victualling may be 
+arranged between the two Governments.</p> <!--60010-->
+
+<p>I have the honor to be
+Sir
+Your Obt Servant
+Signed, S. L. <unclear></unclear></p>
+
+<p>Augustus A Silva
+Commercial Agent 
+United States of America </p>
+
+<!--60011-->
+<p>No 33
+United States Commercial Agency
+St Paul de Loanda June 30th 1864</p>
+
+<p>Sir
+I have the honor to enclose herewith 
+Form No 74.</p>
+<p>I have made up the accounts of 
+this Commercial Agency for the 
+quarter ending this day, and forward 
+them by this opportunity to the Honorable 
+Secretary of the Treasury and 
+Fifth Auditor in accordance with 
+Consular Instructions.</p>
+<p>My account current forwarded 
+to the Fifth Auditor shows a balance 
+in my favor of $214.02 for 
+which amount I have drawn on 
+the Honorable Secretary of the Treasury.</p>
+<p>Form No 14 for quarter ending 
+this day, shows a slight increase 
+of American Trade, over recent quarters, 
+the former years previous to the 
+war, the importations from the <!--60012-->
+United States to this port, were very large 
+and continually on the increase 
+unfortuantely our domestic difficulties 
+prevented the importation 
+of Cotton goods from the United 
+States, on account of their high 
+cost Coast traders were obliged 
+to seek theirs in England, and 
+thus British commerce  has increased 
+to the disadvantage of American 
+Previous to the war, scarcely a British 
+Veseel visited this port, now there 
+are seldom less than from three 
+to five, in the harbour, the principal 
+cotton goods imported from England 
+are imitations of American fabrics 
+and many qualities of American 
+goods would now be preferred if 
+they could compete in price with 
+British Manufactures, America in 
+former years, found a large market 
+for produce in fact, for twenty years 
+they monopolised the entire trade now 
+the articles are imported in quantity <!--60013-->
+from England.</p>
+<p>The present trade between this 
+port and Boston and New York is 
+chiefly confined <unclear>to rum</unclear> which forms 
+at least three quarters of every vessels 
+cargo, American Rum has the preference 
+as this market over that of 
+any other contry. The consumption 
+is about 4000 pipes per annum
+About 1000 pipes are imported from the 
+United States which sells at about 
+40 to 50 cents a gallon in <unclear></unclear> in 
+exchange for Palm Oil, at about 40 
+cents a gallon, Shelled Pea Nuts 
+at 3 cents per pound. Angola <unclear>Gum</unclear> 
+Copal &#38; <unclear>Beuquela picked gum</unclear> 15 
+cents per pound, Hides 8 cents per 
+pound, Fish oil 40 cents a gallon
+Coffee 13 cents a pound, Vessels of 
+300 tons are actually about four months 
+in negociating a homeward cargo the 
+port charges for a vessel of this size 
+are about 80 dollars each time 
+Freights to England are about <!--60014-->
+<!--pound sign--> 3 per ton, and Exchange, three 
+months bills 2 1/2 % discount.</p>
+<p>I am collecting information to 
+enable me to make out an elaborate 
+report of the trade done on 
+this coast, in which report I 
+shall include the Congo River, an 
+Vicicinity which place has increased 
+very rapidly in commercial importance 
+since slaves ceased to be 
+shipped from there, so as to elicit 
+the admiration of all advocates of 
+Freedom.</p>
+<p>I have the honor to be
+Sir
+Your Most Obedt Servt
+Augustus Archer Silva
+Commercial Agent</p>
+<p>The Honorable Wm H Seward</p>
+
+<!--60015-->
+<p>No 35</p>
+<p>United States Commercial Agency
+St Paul de Loanda 22nd Oct 1864</p>
+
+<p>Sir
+I have the honor to enclose 
+for the information fo the Department 
+a copy of my official letter to Mr. 
+George E Miller master of the 
+American Ship "Wm Cummings" of 
+Philadelphia now at this port.</p>
+<p>Mr Miller does not as yet 
+feel dispsed to comply with my demand 
+I therefore hold his ship's 
+papers until he does.</p>
+<p>I am now preparing full 
+accounts of this case to forward to the 
+Department per "Sonic" now loading 
+for Boston, when the Department 
+will learn of the justifiable 
+causes which influenced my official 
+action.</p>
+<p>I have the honor
+to be
+Your Most Obt Sevt
+Augustus Archer Silva
+Commercial Agent</p>
+
+<p>William H Seward 
+Secretary of State 
+Washington 
+D.C.</p>
+
+
+<!--60017-->
+<p>Sir 
+Having throughly examined the 
+whole of your ship's company including 
+yourself and officers, on a charge of 
+ill treatment and cruelty, lodged against 
+yourself and chief officer by your crew. 
+I consider the evidence of sufficient 
+consequence to justify me in discharging 
+your entire crew of sailors, twelve 
+in number; I therefore request, in 
+conformity with consular regulations, 
+that you repair to this Commercial 
+Agency and deposit the balance of 
+their wages and also three months 
+extra pay to each man.</p>
+<p>I have the honor 
+to be
+Your Mo Obt Sert
+(Sg) Augustus Archer Silva
+Commercial Agent</p>
+
+<p>George E Miller
+Master of the American
+Ship "Wm Cummings"</p>
+
+<!--60018-->
+<p>No 36</p>
+<p>United States Commercial Agency
+St Paul de Loanda 18th Nov 1864</p>
+
+<p>Sir
+I have the honor to inform the 
+Department that on the 4th of September 
+the American Ship "Wm Cummings" of 
+Philadelphia, George E Miller, master; 
+arrived at this port with a cargo of 
+coal for the United States Naval Store 
+House. On the night previous I had gone 
+up the Cuanza River on a business connected
+with a line of steamers I have established 
+there. The water on the river having fallen 
+very much while I was up there I was 
+detained four days longer than I expected 
+to be absent I arrived at Loanda on 
+my return early on the 20th, September, when 
+I was informed that the entire crew, twelve 
+in number, of the said ship "Wm 
+Cummings" had refused duty and in consequence <!--60019-->
+now imprisoned by the Captain; 
+the crew preferring to go to jail until
+I would return, to lay their grievances before 
+me. I heard from different persons 
+that the treatment they had received on 
+board was horrible in the extreme I 
+at once visited them at the prison, when the
+representation they made to me excited my 
+empathy as well as to prompt me to 
+thoroughly examine the case. I commenced 
+to do so five days afterwards and the examination 
+lasted through ten days.</p>
+<p>The circumstances resulting 
+from the examination are as follows. It 
+seems the crew was shipped at Philadelphia 
+on the 8th day of June last 
+on the 10th of the same month proceeded 
+down river in tow of two tug 
+boats. The ship was six days getting 
+down the Delaware During the first 
+three days the crew reports that the 
+chief oficer, Mr Henry Miller, brother to 
+the master, struck and kicked several of 
+the crew. The harsh treatment very much <!-- R60000-3-->
+displeased them and they reserved 
+among themselves to refuse duty until 
+a promise of better treatment was given 
+them. The second officer reported this 
+revolution to the mate, who in turn 
+reported it to the captain, who went forward. 
+The evidence does not show 
+that Captain Miller returned in the 
+least to comply with the crew's just 
+request; but did by his actions defend 
+the mate by locking up the 
+twelve seamen in the forecastle for 
+thirty-six hours without food or water 
+I cannot detect the least sign of 
+mutinous conduct, on the part of the 
+crew, beyond the simple refusal of 
+duty, to receive a promise of better 
+treatment in the future; nor can I perceive 
+any justiable motive to oppress 
+these unfortunate seamen, whose only 
+object evidently was to defend their 
+personal safety, during the contemplated 
+long voyage before them. </p>
+<p>Thirty six hours these men <sic>where</sic> forced <!--R60000-4-->
+to suffer from hunger &#38; thirst and according 
+to their representation some were 
+forced to quench their parched throats 
+in a deplorable manner. At the end 
+of this period desperation caused them 
+to burst open the forecastle door when 
+the captain, mates, steward, cook and 
+boy all now forward  armed, threatening 
+to blow the first man's brains out that 
+moved. They implored for water which 
+was refused them. Without their making 
+any resistance, five of them now put
+in irons and the others had their 
+hands tied behind them, and some 
+again locked up in the forecastle. 
+They in irons and tired were distributed 
+some to the hatch house- cabin state 
+rooms &#38;c, four or five of them were 
+put into close confinement in a 
+narrow closet or passage about three (3)
+feet long, two and a half (2 1/2) wide and 
+seven (7) high. These closets are situated 
+in the house on deck at both
+sides inside of which there is a little 
+hatch, which when passed and the outside 
+door open ventilates the hold.  On 
+these occasions the hatch was closed and 
+<unclear></unclear> sailor forced in and the outside 
+door closed upon him. I went on board 
+and examined these places and found 
+them just as they had been represented 
+to me: places without the least 
+ventilation, Some of the crew were 
+kept in these places of confinement from 
+one to four hours, although the testimony 
+varies as to the length of time. The 
+sufferinsg of these poor creaturse msut have 
+been terrible as when taken out of 
+these places of confinement they would 
+fall down from exhaustion. Their inhuman
+persecutors even gagged one 
+while confined and another was dragged 
+out of his berth with a lame 
+shoulder and arm, and in this state 
+his arms were forced behind him and 
+tied.  His groans and cries did not 
+move the pity of his persecutors for an 
+hour and a half. Hunger, thirst, sweat boxes
+and threats forced them all to 
+submit even to the huminilation of begging 
+the Captain's pardon.</p>
+<p>The Department will please 
+observe that all these cruelties were inflicted 
+within a few hours sail of 
+Philadelphia and in sight of the Revenue
+Cutter, which the Captain refused to 
+call along side even at the joint request 
+of the men. The Captain pretends 
+he did not know the Revenue Cutter was 
+in the vicinity, but you will observe 
+by several depositions that she nevertheless 
+was.</p>
+<p>Captain Miller tries to represent 
+that his crew mutinies but, I cannot 
+see the least sign of anything 
+of the sort... It was a joint refusal of 
+duty, with the object to get a simple 
+promise of being better treated in the 
+future. The evidence of the manner in 
+which the seamen were used previous 
+to refusing duty, is not very clear beyond 
+their own complaints, but I have <!-- R60000-7-->
+a right to suppose that it was very serene 
+from the brutal manner they were subsequently 
+abused and on this supposition I 
+think the men had a right, if not justified, 
+in making a request which ought 
+to have been complied with instead of 
+torturing them into submission. Captain 
+Miller fails to explain to me, why he 
+did not return to Philadelphia- to return 
+his men would have been glad to weigh 
+anchor- and his refusal to seek assistance 
+from the Revenue Cutter, proves his preference 
+to his own way of settling such 
+difficulties.</p>
+<p>I have the honor to enclose 
+seventeen depositions properly authenticated 
+by me. The department is reading over 
+some of these will feel equally as indignant 
+as I did when taking the 
+depositions.  The brutality of the mate 
+was more excessive than the Captain , 
+althouhg the latter has several very serious  
+charges against him. Several of the 
+crew had their heads broken by iron <!--R60000-8-->
+or wooden belaying pins another with a 
+hatchet, another wounded severely in the 
+face, from a kick from the mate, while 
+at work on the ship's side, another 
+tossed overboard for 15 minutes for losing 
+a scraper another severely beaten 
+with a piece of wood for the slight 
+offence of contradiction, others severely 
+kicked in the side while at the 
+wheel and other horrible brutalities 
+all stated in the enclosed depositions.</p>
+<p>Notwithstandiing the denial 
+of the mate I am convinced of the 
+truth of crew's complaint, that nearly 
+the entire passage they only received 
+one bucket of water per day for the use 
+of twelve men, besides their tea &#38; coffee 
+and meals, which of itself was a torture 
+particularly as the vessel neared 
+this coast and also there appears no 
+cause to have justified them in 
+giving this short allowance of water 
+as there was plenty of water in the 
+ship's tanks and much rain was caught 
+during passage.</p>
+<p>Captain Miller professes not 
+to have his ship cleared 
+for Philadelphia as he wish to sail 
+on the 20th of the same month. I received 
+this information on the 14th ultimo, and 
+the same day Captain Miller told me that 
+he intended to go to sea under protest.
+I therefore lost no time in sending the 
+Governor General the enclosed despatch in 
+accordance with authority derived from the 
+closing clause of the 28th section of the 
+act of Congress approved August 18th 
+1856.</p>
+<p>Captain Miller complains that I 
+have disabled his ship with my decision 
+as he cannot proceed for want of a crew 
+I told him that the responsibility was his 
+not mine, for if he had respected the 
+laws of his country and humanity he 
+would not have placed his ship in difficulty.
+He has hinted to me several times 
+the certainty of judicial proceedings being 
+taken against me when the ship arrives home; 
+with a view to intimadate me, I nevertheless 
+persist in the performance of my duty 
+as I consider it aboslutely necessary that 
+these unfortunate seamen showed he 
+protected from further inhumanity more 
+especially now as since what has occurred <!---R60000-11-->
+it is reasonable to suppose that a greater 
+spite would he held against them, rather 
+than expect more moderate treatment. </p>
+<p>The chief native which caused 
+me to discharge the entire twelve men, was 
+the manner, they all were treated when 
+they combined to ask of the Captain a 
+promise of better treatment. Captain Willer 
+in his defence pretends to make out a 
+care of mutiny to justify his proceedings 
+notwithstanding it is clearly proved that 
+at the time the crew made no resistance.
+The depositions of the Captain and the Mate, 
+taken last, assert that the men drew 
+their knives, but from subsequent communication 
+with the men I learn, they did draw 
+their knives, one by one, and deliver them to 
+the Captain, who the blade of each 
+knife and returned the part with the 
+handle. The deposition of the Captain 
+and mate particularly the former have been 
+consider by me with due caution and from 
+whatever weak point they may with to 
+fabricate a different version to the case. The 
+case in general as it appears to me as 
+one of a serious nature and entitled to 
+special attention that a check may be put 
+on inhuman ship matters the trusting to 
+the aversion consuls generally have to assume 
+grave responsibilities and thus escape 
+without even a reprimand for their 
+brutality and inhuamnity to seamen.</p>
+<p>I deemed it proper to have 
+the wounds of the crew examined before the 
+Chief medical officer of this city who sent 
+me a certificate of an authenticated translation 
+of which I have the honor to enclose 
+I also have the honor to enclose an extract 
+from the ship's log book which 
+contains an observation made with different 
+Ink indicating its having been written 
+at this port.</p>
+<p>Captain Miller about a month 
+ago represented to me verbally that he 
+had no money to meet my demands, and 
+if he had he should not pay it as 
+such payment would deprive him of the 
+privilege of proceeding against the crew for <!--R60000-13-->
+mutiny. I reminded him that he would 
+be obliged to pay or otherwise I should 
+detain his ship. I pointed out and 
+read to him several consular regulations 
+and advised him to comply at 
+once and proceed on his voyage to 
+<unclear>Babia</unclear> for which port I could assist 
+him to get a few men sufficient to 
+navigate his vessel by asking them from 
+a Portuguese Corvette stationed at this province. 
+Captain Miller made a proposition which I at once refused to entertain, 
+that he showed appoint his second mate 
+matter, he and the mate go as passengers 
+and me to return the crew-on board. For 
+three meeks or more Captain Miller never 
+again mentioned the subject or made any 
+allusion to what he intended to do, notwithstanding
+he frequently visited my office.</p>
+<p>On the 13th inst. the British 
+Bark "Sonic" under the Command of Wm 
+E Woodbury, native of Gloucester, Mass;
+and Charles H. Powers of Salem, Mass; as 
+mate arrived here enroute for Boston  <!--R60000-14-->
+from which post said vessel had 
+originally sailed on this voyage.</p>
+<p>On the 14th inst. I met Capt.
+Woodbury and Miller under the Custom 
+House shed, Captain Millers' case was 
+again <sic>brough</sic> up when he suggested 
+that if I would said the man on board 
+he would appoint Mr Charles H Powers  
+mate of the "Sonic", as master of the 
+Ship "Wm Cummings". and his mate 
+M Henry Miller go mat&#233; in the 
+"Sonic" while he would go passenger 
+in the ship. I thought the matter 
+over and concluded to approve of the 
+proposition in defence of the interest of 
+said ship's <unclear></unclear> During the afternoon
+I met Mr Powers on shower who expressed 
+to me in the presence of my 
+brother and Bookkeeper Mr. Beaton that 
+he would like the chance very much to 
+take the ship home. I made known my 
+approval to Captain Miiller Woodbury 
+the consented to make the exchange 
+of mates. The consent of Mr Powers was then  <!--R60000-15-->
+said to be required and it was not until 
+the afternoon of the 16th received at 
+note from Mr Powers saying that he had thought 
+the matter over and concluded to remain by 
+the "Sonic". </p>
+<p>The sudden revulsion of consent 
+leads me to suppose that my willingness to 
+accede to his own proposition did not afterwards 
+appear to convenient It would have 
+been more gratifying to me to have this case 
+brought up for trial at home than have 
+Captain Miller publically defy the Consular  
+regulation of the United States by refusing 
+to comply with my demands. In vain have I 
+told him that if I acted contrary to his 
+view of the case he could pay the amount 
+I demanded under protest. He refuses every 
+advice and thus the ship remains in 
+port to the disadvantage of her owners in 
+whose interest I have been unsuccessful 
+with my advice.</p>
+<p>Captain Miller publicly declares 
+that he will wait here until the 
+arrival of an United States Vessel-of-War <!--R60000-16-->
+I have been unsuccessful in convincing him 
+that the presence of such a vessel would not
+await him further than provide him with 
+a crew as he will not be permitted to 
+leave this port until he has settled with 
+this Commercial Agency.</p>
+<p>The twelve men have been provided 
+with a boarding house on shore, and I 
+am anxious for their sake to have this 
+question settled that I may send them 
+away as thsi is the commencement of our 
+sickly season, whenever this takes place 
+they will be sent if necessary to to the 
+United States.</p>
+<p>Under this date I address 
+an official letter to Captain Miller a 
+copy of which I enclose for the information 
+of the Department.</p>
+<p>Captain Miller has also intimated 
+to me that he will remain here 
+if necessary until he receives orders from 
+Philadelphia before he will comply with 
+my demands I reminded him that the 
+responsibility of such step would rest <!--R60000-17-->
+on him individually, and expressed my 
+regret that his <unclear>orders</unclear> should be made 
+to suffer from his own imprudence.</p>
+<p>In closing this despatch 
+I wish to assure the Deaprtment of my 
+confidence of having performed my duty 
+in accordance with the trust confided 
+in me as a consular officer of the United 
+States. I have been guided by the 
+consular instructions in all my resolutions 
+and I anticipate the approval of the 
+Department and its support should 
+I be prosecuted.</p>
+<p>I have the honor
+to be
+Your Most Obt Sert
+Augustus Archer Silva
+Commercial Agent</p>
+    
+<p>Wm H Seward 
+Secretary of State 
+Washington 
+D.C.</p>
+<gap reason="check rescan folder"></gap>
+<gap reason="Probably Portuguese "></gap>
+
+<!--70004-->
+<p>Translation</p>
+<p>I attest that the Crew of the Ship William 
+Cummings <del></del> having been brought before 
+me by the respected Mr Augustus Archer 
+Silva Consular Agent of the United States 
+of America in order that only should be 
+examined as to wounds and ailings brought 
+on them during their voyage from Philadelphia 
+to the port, I examined <unclear>Henry</unclear> 
+<unclear>Beckwith James Caldera John Little</unclear>
+Edward Perez, Andrew <unclear></unclear>
+&#38; <unclear>Berard</unclear> White During the 
+proceedings on examining <unclear>Henry Beckwith</unclear> 
+he showed various scars on the right-<unclear></unclear> 
+which by their color indicated they were 
+the result of blows given by some bruising 
+weapon and producing <unclear>moreover</unclear> hypertrophy 
+of the nasal region which seemed 
+owing to a heavy blow from which it had 
+not yet received on examing James 
+Caldera, twenty years of age, he showed a 
+scar above the left eye brow of the size of a  
+thumb, somewhat more or less, </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div2>
+</div1>
+</body>
+</text>
+
+</TEI>
+
+

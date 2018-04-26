@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILE NAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="yyyy-mm"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Missionary Activity</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Journal</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+</div2>
+
+<div2 type="article">
+
+                          <fw>MISCELLANEOUS.</fw>	
+               <head>THE  RACE  QUESTION  IN  AFRICA.</head>
+   <p>No less a writer than Prank G. Carpenter is authority for the statement 
+that the race question in the English African Colonies is becoming 
+a matter of serious concern.</p>
+   <p>The Kaffirs are increasing in intelligence and are beginning to feel
+the injustices heaped upon them in the poor provisions made for their
+education; in the miserable wages paid them in some sections—about
+3 cents a day; in the enormous hut and other taxes laid upon them
+for which no benefits are returned; in being excluded from walking
+on the sidewalks. Says Mr. Carpenter, "At present the black man here
+has no opportunity to get a college education. He is not allowed to
+go into the universities of South Africa, and as a rule the people
+would rather keep him uneducated.</p>
+   <p>They look upon the natives as their God-created hewers of wood
+and drawers of water, and they want them to continue so. They
+would rather that they should not own real estate nor go into
+business. The mechanics and foreman, among the whites would rather
+not have the blacks learn trades, and they desire to keep the labor
+of the two races distinct.</p>
+   <p>In Kimberly and Johannesburg the natives are paid about $1 a
+day, but in Uganda, in British East Africa and German East Africa
+the pay is only 3 cents a day and the whites claim it is wrong to pay
+more, as the native will not work for better wages. One of these
+employers of labor in Nyassaland claimed that it is spoiling the
+native since the law no longer allows the white man to whip the
+native laborer! Think of that and then cease to wonder why the
+race problem in Africa is beginning to loom large.</p>
+   <p>But that's not all. Out of the pittance paid the natives, they are
+required to pay six shillings or $1.50 a year as a road tax, or else give
+one month work in lieu. One month out of a year to be given for the
+public benefit. There is a hut tax, a' dog tax and a wife tax in South
+Africa, none of the benefits of which go to the native.</p>
+   <p>When  Mr.  Carpenter asked the American  foreman of an  African
+                                                           (421)
+
+<fw>422                      THE REVIEW.</fw>
+mine whether he could punish his men when they did not please him
+the foreman replied with much naivete:</p>
+   <p>"There is no trouble about that. If you want to mash the face of
+a black down here all you have to do is to see that you get him
+alone in one part of the workings. You can then treat him as you
+will, and if he makes any complaint you can say he assaulted you.
+The word of a black man is never taken here as against that of the
+white man, and so we can run things about as we please."</p>
+   <p>What is the world coming to when men can so treat other men
+in the land of their birth and then appear surprised at the evidence
+of discontent that begins to arise. If England does not know of these
+highhanded abuses, it is high time that it should be informed by
+some of its statesmen in Parliament; if it does and does not act
+then it must not be surprised when the storm comes; for the spirit
+of the age is fighting for every man in bonds, whether he be white,
+black or brown; and no nation can win against the cause of civilization.</p>
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>

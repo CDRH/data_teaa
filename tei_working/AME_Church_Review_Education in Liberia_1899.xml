@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILE NAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="yyyy-mm"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Missionary Activity</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Journal</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+
+</div2>
+
+<div2 type="article">
+                       <head>EDUCATION IN LIBERIA.</head>
+   <p>In his inaugural address one year ago, President William D. Coleman 
+of Liberia, used the following language:</p>
+   <p>"It will be the unswerving policy of my administration to put forth
+every effort for the encouragement of higher education in this country, 
+and in this connection. I have to call attention to Liberia College of 
+this city [Monrovia]. The very unsatisfactory results of the
+change made two years ago in giving the presidency, of that institution 
+to a foreigner, who, it appears, cannot remain in this country,
+but is obliged to pass most of his time in a different climate, and
+who up to the present has done nothing toward opening and carrying
+or, the same impose upon me the duty of taking the control of the
+college, and placing it under such auspices as may be deemed necessary 
+for putting it again into active operation. In
+addition to the course of study formerly pursued in the college, I
+propose to have others introduced of a technical character, so that
+our youth may be trained at home in all the departments of knowledge 
+so necessary for the development of the resources and indus-
+tries of the country."</p>
+   <p>As we understand it, Prof. 0. F. Cook, the representative of the
+New York Colonization Society, and a learned man, is the foreigner
+alluded to by the president. The professor is not only white, but a
+White man, for there is a distinction to be drawn in American nomenclature. 
+A Negro may be a white man, but a White man can
+never be a Negro, in American parlance. Prof. Cook is of the upper case 
+variety. His inability to stand the climate; and not prejudice 
+against his race variety, is urged against his acceptability. The
+college is inoperative in consequence. The President is wise in tak-
+
+<fw>764                         CHURCH REVIEW,</fw>
+ing measures for re-opening the institution, into his own hands, for
+one of the most crying needs of Liberia is an effective system of education, 
+beginning with the primary school and running up to the
+college. We suspect that, aside from the present difficulty in keeping 
+the college open, the failure to begin an educational system from
+the beginning, accounts for the inanition that seems to mark the existence 
+and operation of the college. Higher institutions must stand
+upon lower schools, and must come in response to a demand constantly fed, 
+re enforced and recruited from the common schools.</p>
+   <p>This well ordered system Liberia does not have, and no man's personality 
+or presence as president of the college is going to create a
+flourishing institution till there is an unintermittent supply of lower
+class youth constantly coming up to feed it.</p>
+   <p>Of course, the president of the college ought to be at the college.
+Liberia should be his home; and President Coleman’s complaint is a
+good one More than that, the college head should be a Negro; but
+after that, there is much to be done before the Republic can hope to
+have a real college. It will be remembered that some years ago
+Profs. T. McCants Stewart and Hugh M. Brown went out to take
+charge of Liberia College. They returned in hopeless discouragement, 
+not so much because of the dilapidation and loneliness of deserted 
+college halls, as because they could see no source from which
+to repeople the classes and rehabilitate the dignity and usefulness of
+the institution, in the absence of a common school system.</p>
+
+   <p>The declaration in favor of courses in technical or industrial education 
+is also wisely made, for the great needs of Liberia as an undeveloped 
+country is skilled artisans and machinery. Here is a field
+for .the young mechanics and machinists being prepared in American
+schools, worthy of all attention. In all Liberia there is not a sawmill, 
+ice factory, ice cream saloon, soda-water fountain, foundry, railroad, 
+telephone or telegraph line. Unbounded wealth awaits the
+Negro who wakes up to the opportunities before him. One thouands 
+dollars cash put into any such business in Liberia will equal ten
+thousand put into business in America. Skill and machinery are
+what Liberia needs. The man or men who can supply them may
+count his wealth in six or seven figures in a few years.</p>
+   
+   <p>In connection with the educational question, it is interesting to
+note the vigorous and effective work being done by Bishop J, C.
+Hartzell, of the M. E. Church. He has proven to be tireless, clearheaded 
+and consecrated in his African work, and during the months
+he has been in America since his return from his field of labor, he
+has labored assiduously and with wonderful success to arouse friendly
+and helpful interest in African missions.</p>
+   <p>The General Missionary Committee, at its recent meeting, appropriated 
+$19,850 for Liberia alone, and $14,775 for the Congo mission
+
+                          <fw>EDITORIALS.                           765</fw>
+Conference, including all the territory south of the equator. The
+church has already established in Monrovia the College of West Af
+rica, under the presidency of Rev. A. P. Camphor, a graduate of
+Gammon Theological Seminary, who went out to Africa with Bishop
+Hartzell on his first trip. A cylinder press is now being sent to the
+industrial department of the college on which will be printed a newspaper. 
+The Bishop is now calling for type, a job press, twenty-five
+carpenters' outfits, twenty blacksmith shop outfits, ten tin-shop outfits, 
+etc , the outfits to cost on an average of $25 each. Apprentice
+schools are to be established in South Africa.</p>
+   <p>Thus it will be seen that mammoth preparations are going forward
+for occupying and developing this great field. Even as we write, six
+young workers, prepared for their mission at Philander Smith College, 
+Little Rock, Ark., are on their way to Africa under Bishop Hartzell.</p>
+   <p>Dr. I. B. Scott, editor of the Southwestern Advocate very tersely
+and properly sets forth the plans of the Bishop in his work of evangelization 
+in the following sentences: "He proposes to civilize and
+christianize the Africans by giving them the labor methods of civilization 
+as well as the religious methods. His purpose is to push the industries 
+side by side with the gospel and push the gospel through the
+industries."</p>
+   <p>It is a plan that will succeed. And while we of the A. M. E.
+Church cannot cope with the great Methodist Episcopal church in
+raising money to carry on our work in Africa, we shall do well to
+study their plans for the sound judgment displayed in them and, in
+so far as they suit the changed circumstances, adopt them.</p>
+  <p> We have the advantage of the natural sympathy which the Negro
+leadership in our church gives and this will accomplish much with
+little money; but wise plans are indisputable to successful operation
+in any case.</p>
+  <p> Bishop Turner and Dr. H. B. Parks are calling for a man. to establish 
+in South Africa an institution of higher learning. It is a
+greatly needed thing. Where is the man, well educated, trained in
+business habits, with great executive force and consecrated heart,
+willing to labor and to wait ? Where is he ? He is called for—where
+is he?</p>
+
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>
