@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="10014_001.jpg"/>
+
+<p> Kégation de Belgique
+604/284.</p>
+
+<p>Washington, le 28 Juillet 1910.</p>
+
+<p>Très confidentielle.</p>
+
+<p>(Copie.)</p>
+
+<p>Monsieur le Ministre,</p>
+
+<p>J'ai le honneur de me référer à mon rapport 486/236
+du 14 Juin dernier.</p>
+
+<p>Rentré avant-hier à Washington, au terme de mon
+inspection consulaire, j'ai appris que le fonctionnaire supèrieur
+avec qui j'avais eu des conversations au sujet du congo
+était absent et ne reviendrait qu'on Septembre. Il m'a fait
+conseiller d'aller voir M. Adee, l'un des assisstants Secrétaires
+d'Etat, à qui M. Knox m'a dit récemment avoir confié la direction
+des affaires relatives au Congo. </p>
+
+<p> Je viens de causer avec M. Adee. Dès les premiers
+mots, celui-ci m'a spontanément parlé de la symapathie et de la
+confiance très vives que notre Roi et son Gouvernement inspirent
+au Gouvernement des Etats Unis, notamment en ce qui
+concerne leur action dans la question du Congo.</p>
+
+<p> Il m'a fait la déclaration suivante, que je reproduis
+aussi littéralement que possible,- et a ajouré, en réponse à
+ma question, qu'il parlait au nom du Secrétaire d'Etat:</p>
+
+<p>"Nous avons examiné ce qu'il y avait à faire concernant
+la reconnaissance de l'annexion du Congo, et nous avons
+trouvé qu'une déclaration formelle de reconnaissance n'est généralement 
+pas considérée comme nécessaire, ni même comme généralement 
+usitée.- (J'ai dit à M. Adee que j'étais du même avis
+n'ayant jamais, conformément aux vues du Gouvernement du Roi,
+réclamé l'accomplissement formel de cet acte.)"</p>
+
+<p>"Nous considérons, - a dit alors l'assistant Secrétaire
+d'Etat- que nous avons déjà reconnu de facto l'annexion
+du Congo à la Belgique, -et par l'extension récente de 
+notre tarif minimum à cette colonie, - et par la forme des</p>
+
+<p> Monsieur Davignon
+Ministre des Affaires Etrangères
+Bruxelles.</p>
+
+<pb></pb>
+
+<p> relations de nos Consuls au Congo avec vos autorités."</p>
+
+<p> "Lorsque les Etats Unis ont annexé Alaska, et
+plus Hawaï ils n'ont pas jugé qu'ils sussent à attendre des
+Puissances une reconnaissance dans telle forme spéciale." Je
+le répète, nous avons reconnu de factor l'annexion du Congo" </p>
+
+<p>"J'ajoute que votre Roi et votre Gouvernement,
+grâce à leur volonté évidente d'établir ce que nous appelleron
+non des "réformes" (terme dont en a fait un usage excessif)
+mais des "modifications nécessaires", possèdent  le bon vouloir,
+la sympathie et la confiance entière du Gouvernement des
+Etats Unis. "Les sentiments que j'exprime sont partages par
+tous les membres du Departement d'Etat."</p>
+
+<p>"Vous êtes pleinement autorisé à répéter la déclaration
+que je viens de faire au Roi des Belges et à son
+Gouvernement."</p>
+
+<p> En remerciant M. Adee, je lui ai dit en confidence
+que nous étions restes jusqu'ici sur les derniers échanges
+de voues écrits qui avaient eu lieu entre nos deux Gouvernements,-
+documents qui n'étaient pas empreints du même caractére
+que la présente declaration; et pour cette raison,
+celle-ci était très bien venus.</p>
+
+<p> Il m'a répondu que lors du retour du Secrétaire
+d'Etat, il pourrait envisager avec lui la question de savoir
+si une ce <unclear></unclear> écrite pourrait ajouter quelque chose
+à la portée de ce qu'il venait de me dire.</p>
+
+<p>Veuilles agréer, Monsieur le Ministre, etc...
+(s.) de Buisseret</p>
+
+
+
+
+
+</div1>
+</body>
+</text>
+
+</TEI>

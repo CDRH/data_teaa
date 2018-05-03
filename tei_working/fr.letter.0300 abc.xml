@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="1018_001.jpg"/>
+
+<p>REPORT ON VISIT TO BOSTON AND NEW YORK.
+JANUARY 11-18, 1907.
+******</p>
+    
+<p>The Catholic movement seems to have produced the most
+excellent results upon the President and the Secretary of State as well
+as upon the Senate, and I am specifically glad to be able to report the
+success of my mission to Boston which is not only the centre of the anti-
+Congo agitation but is also the home of the electors of Senator Lodge
+who has brought in the Resolution against us.</p>
+    
+<p>Boston is the centre of the Baptist missionary societies and
+of many fantastic "reforms" movements but there is also a strong and 
+growing Catholic element there whose influence in politics is sought 
+even by Senator Lodge and other "puritans". During my visit to Boston
+I have been fortunate enough to interest the strong Catholic element
+in our cause and to around them to active work in our behalf.</p>
+    
+<p>His Grace, Monsignor O'Connell, Archbishop of Boston, received
+me most sympathetically and has promised me his support. The
+Catholic "Federation" of that district has already sent to the President
+and to the Senate a petition in our behalf.</p>
+    
+<p>Last Monday night in Boston I met the High Council of the
+Massachusetts Catholic Order of Foresters, which represents one hundred
+thousand of Senator Lodge's electors and as a result, chiefly through
+the sympathetic aid of the Rev/Father O'Neil, Spiritual Advisor of the
+Order, they took up the cause of the Congo and adopted resolutions in 
+our favor which were at once transmitted to the President of the United
+States, the Secretary of State, to the Senate, to Mr. Lodge, and other</p>
+    
+<pb></pb>
+    
+<p>Senators. The Order of Foresters also desire that a copy of their 
+resolution should be presented to His Majesty, and I have the honor
+to transmit a copy herewith, with the suggestion that some acknowledgment
+and response be sent the Order through us, as soon as possible.</p>
+    
+<p>The Boston "Alumni Sodality" also took a great interest in the
+matter. The question was presented to them throught the Rev. Father
+Dennis T. O'Sullivan who has spoken publicly in favor of the Congo 
+on several occasions. I understand that the "Alumni Sodality" is
+sending to the Government petitions in our favor as a society and 
+that the individual members are also working for us.</p>
+    
+<p> The Catholic Union which has among its members some of the
+most important Catholic citizens of Boston has also taken up our
+cause. They will have a lecture and discussion on the Congo as soon
+as possible and will then probably adopt resolutions similar to the
+resolutions adopted by other Catholic societies. The President of 
+the Catholic Union has taken a person interest and may be expected
+to aid us in every way possible. </p>
+    
+<p>The "Federation" of Boston is to hold a meeting tonight
+(January 20) to discuss the French Church question and also the
+Congo and still further action may be expected from them to promote
+our interests.</p>
+    
+<p>I also had several meetings with Mr. Matthew Cummings, the
+President of the Irish Society known as the "Ancient Order of Hibernians".
+He is an important politician in Boston and the Hibernians
+constitute a well-known and influential society of about two hundred
+thousand men. He manifests a deep interest in our case and promised
+me to bring the matter up before the High Counil of the Order last
+night, when they probably will have adopted resolutions in our favor
+to be sent to the President, Secretary of State and the Senate.</p>
+    
+<p>It seems thus that we have aroused a strong element in our
+favor in Boston and have, by my visit there, secured the active help
+of between three hundred thousand and four hundred thousand of Mr. 
+Lodge's own electors. This is sure to have a good effect on Lodge 
+as well as us on the other Senators. We have secured a strong support
+even in the midst of the enemy's camp.</p>
+    
+<p>In addition to this aid from the State of Massachusetts I 
+have been able, through the help of the Rev. Father Shanley, to secure 
+important assistance from the neighboring State of Connecticut.</p>
+    
+<p>Petitions to the President and to the Senate were sent, at my
+request, form several Catholic Association of that State, among others
+from the "St. Peters Corporate Society" numbering nearly five thousand
+members, and the matter is brought to the attention of other societies
+which may be expected to act soon.</p> 
+    
+<p>In addition to these societies I was enabled while on this
+trip to get into communication with the "Catholic Young Men's National
+Union" numbering fifty thousand, which without loss of time, sent
+an expression of its sentiments in our favor to Washington by telegram.</p>
+    
+<pb></pb>
+
+<p>-3-</p>
+
+<p>Father Shanley also requested the "Catholic Temperance
+Association Union of America" which has ninety thousand members
+to take similar action. I have not yet received offical notice but
+it is probably that they have taken the requested action by this
+time.</p>
+    
+<p>In New York i found that the agitation which we had started
+<choice> <sic> amont</sic> <corr>among</corr></choice> the Catholic societies is still continuing satistisfactorily and
+I am endeavoring to encourage the movement there as much as possible.</p>
+    
+<p>The Catholic movement has not only intimidated our enemies
+in the Senate and encouraged our friends in the same body, but it
+has also encouraged our friends everywhere and especially our friends
+in the new Concessionary companies who seem now disposed to work 
+harder for us politically than they were four years ago at the time
+of the Kowalski-Wack publications. I seized the opportunity while 
+in New York to urge them to greater endeavor. I think that the very
+fact of the existence of the American Concessionary Companies has been
+an influence in our favor and has had some effect in making the Government
+and the Senate more conservative but I hope now to get the
+people interested in the companies to work more actively. At my
+suggestion the American-Congo Company has employed as one of its agents
+Mr. S.P. Verner, who has been in the Congo several years and whose
+name is well known to the Chevalier de Cuvelier. As Verner is impartial
+and honest and knows about the true condition of the Congo
+I have urged upon the Company that they should allow Verner to go to
+Washington at once and see the President, the Secretary of State and
+various Senators in order to put the true state of affairs before them.</p>
+
+<p>I have found every where I have been in this country in the
+past four weeks that the defence of the King Sovereign's administration
+by Cardinal Gibbons has made a deep and lasting impression.</p>
+
+<p>I feel assured that it is the Catholic movement that has held
+the Senate in check for the past several weeks. The Resolutions of 
+Societies, and the petitions of individuals, as well as certain person
+influence and personal letter written by friends of Senators
+have undoubtedly produced a very favorable effect. If we can continue
+the movement with sufficient vigor we may be able to avert any action
+by Congress, but, in any event, the expression of opinion which we
+have placed before Congress and before the Government is sure to have
+a decided effect in modifying any hostile action which the Government
+may have momentarily comtemplated while under the pressure of the
+Baptist and other Protestant missionaries.</p>
+
+<p>While on this trip in the North I have still continued to
+keep in communication with the individuals and societies in the West 
+whom I visited two weeks ago, and I shall continue to encourage them
+to keep up the movement they have started in favor of the Congo.</p>
+
+<p>James Gustavus Whiteley
+Consul General.</p>
+</div1>
+</body>
+</text>
+
+</TEI>

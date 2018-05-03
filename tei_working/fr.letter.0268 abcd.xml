@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="10014_001.jpg"/>
+
+<p> Légation de Belgique
+à Washington,</p>
+    
+<p> Office of 
+The Battle Creek Sanatorium
+Battle Creek, Michigan,
+14 décembre 1910.</p>
+    
+<p>Traduction-COPIE.</p>
+    
+<p> Le Comte Conrad de Buisseret,
+Envoyé Extraordinaire et Ministre Plénipotentiaire
+de S.M. le Roi des Belges près les Etats-Unis d'Amerique.</p>
+
+<p>Excellence,</p>
+    
+<p>Avant mon embarquement d'Amerique pour l'Afrique Centrale,
+au printemps de cette année, vous m'avez demandé de vous faire savoir,
+si possible, s'il existait encore les mêmes motifs de plainte
+que j'avais, en ma qualité de missionnaire, allégués contre l'administration
+de l'Etat Indépendant du Congo sous feu Sa Majesté le
+Roi Léopold II.</p>
+    
+<p>J'ai maintenant grand plaisir à vous faire un bref
+rapport.</p>
+    
+ <p> Vous vous rappellerez que je devais voyager en compagnie
+ de quatre gentlemen américains qui devaient visiter, sur le
+ Congo, autant de stations de missions que possible pendant le court
+ laps de temps dont ils disposaient.</p>
+    
+ <p> Nous avons passé huit semains dans la Colonie belge
+ et visté 21 établissements de missionnaires, où nous avons rencontré
+ des hommes et des femmes de cinq nationalités et de sept sociétés 
+ religeuses protestantes différentes.</p>
+    
+ <p>Trois des missions représentées étaient américaines.
+ Nous avons parcouru 800 milles en remontant la rivière
+ du Congo, et visité certains districts où, sous l'ancien régime, les
+ plaintes contre le Gouvernement étaient des incidents quotidiens. 
+ Nous avons fait de courts voyages à pied et visité des villages</p>
+    
+<pb></pb>    
+    
+<p> indigènes insolés, et certains d'entre eux étaient dans la région qui
+était autrefois le théâtre de raids pour le caoutchouc, et d'où émanaient
+beaucoup des récits de cruautés que j'ai racontés dans le 
+passé.</p>
+
+<p> Dans tout ce voyage, et dans mes rencontres avec tant de
+missionnaires qui s'exprimaient franchment, et avec des containes
+d'indigènes dont je connais bien les idiomes, je n'ai pas vu une
+seule chose qui fît même penser à la continuation d'atrocités, d'agissements
+cruels ou injustes de la part des fonctionnaires actuels
+de l'Etat envers les indigènes.</p>
+
+<p>Je n'ai entendu de la part, ni de blancs, ni de noirs,
+aucune allusion à une continuation de l'ancien état de choses dans
+la colonie.</p>
+    
+<p> Mais ce que j'ai entendu, c'est que de grands changements
+avaient été apportés dans l'administration, et que ces changements
+avaient introduit des conditions favorables pour les missionnaires
+blancs et aussi pour le noir ignorant. (untutored).</p>
+
+<p>Je ne puis parler que pour les districts visités par nous;
+mais dans ceux-ci j'ai trouvé que la clameur contre le travail
+forcé avait cessé, grâce aux changements déjà apporés à l'administration.</p>
+    
+<p>Même à l'égard du missionnaire, il semblait que la façon
+d'agir et l'attitude des fonctionnaires se fussent modifiées. Je
+crois que le missionnaire protestant n'est plus regardé comme un
+ennemi et un espion, mais comme un ami honnête et franc.</p>
+    
+<p> En entrant dans des villages isolés, nous avons trouvé que 
+les indigènes ne s'enfuyaient plus et ne se cachaient plus, comme
+ils l'eussent fait il y a trois ans. La confiance dans le blanc</p>
+
+<pb></pb>
+    
+<p>dans ses lois est maintenant en train d' être rétablie. Nous avons
+trouvé l'indigène occupé près de sa maison. De nouvelles habitations
+étaient en construction. Des jardins plus grands et plus beaux étaient
+en culture. La paix règne maintenant, ainsi que la confiance, où la
+guerra et le trouble règnaient autrefois. Ces changements sons dûs, sans
+aucun doute, aux lois meilleures imposées au peuple par S.M. le Roi
+Alber et le Parlement belge.</p>
+    
+<p>Je suis certain également, que ces changements sons permanents
+et que les promesses d'une amélioration encore plus étendue
+seront accomplies aussitôt que le mécanisme de l'Etat" pourra entreprendre
+sa tâche terriblement difficile. Lorsqu'on songe aux grandes
+distances qui doivent être atteintes par l'administration, et à l'absence
+de facilités par télégraphe et par chemin de fer dans la plus
+grande partie de la colonie, on commence à comprendre comment il doit
+y avoir un certain délai. Un ordre édicté par le Gouverneur Général
+à Boma peut facilement prendre six semaines, et dans certaines saisons
+de l'année, au moins deux mois, pour atteindre beaucoup des postes
+isolés.</p>
+    
+<p> C'est avec très grand intérêt que nous avons visité l'établissement
+agricole d'experiences à Eala, sur le Haut Congo. Nous avons
+été enchantés de l'instruction donnée en jardinage pratique et scientifique
+aux jeunes indigenes de la region.</p>
+    
+<p> Nous avons vu quelque chose de l'<unclear></unclear> en epars, en ce qui
+concerne la bactériologie et l'étude générale de maladies tropicales
+à Léopoldville, où l'<unclear>amirable</unclear> et patient docteut Broeden a pendant de
+nombreuses années, rendu de splendides services à tous venants.</p>
+    
+ <p>Nous avons visité les écoles du Gouvernemet à Boma, et
+ avons trouvé que ce que nous avons vu <unclear></unclear> était un splendid</p>
+    
+<pb></pb>
+    
+<p>commencement, plein de promesses pour le dévelopment de l'indigene.</p>
+    
+<p> Nous avons passé quelque temps à examiner les stations
+de l'Etat à Banana, Boma, Matadi, Léopoldville, et Coquilhatville,
+et dans aucune nous n'avons rien vu qui pût choquer, en ce qui
+concerne le Gouvernement. Nous avons vu beaucoup de choses destinées
+à relever l'indigène, principalement l'éducation industrielle
+donnée dans ces centres à un grand nombre de jeunes gens.</p>
+    
+<p> Je viens d'apprendre cette semaine d'un de mes amis,
+missionnaires anglais, qu'un nouvel emplacement pour une station
+a été accordé à sa mission. Ceci détruit un des sujets de plainte 
+sérieux élevés jusqu'a présent par les missionnaires protestants.</p>
+    
+<p> J'ai le grand plaisir à ajouter que des entrevues
+très agréables nous ont été accordées par le Ministre des Colonies
+à Bruxelles et par le Gouverneur Général du Congo à Boma.</p>
+    
+<p>Espérant que ce court récit de notre voyage et de ce
+que nous avons vu et entendu intéressera Votre Excellence, je 
+reste,</p>
+    
+<p>Votre humble serviteur,
+(Signe/Joseph Clark.</p>
+
+
+
+</div1>
+</body>
+</text>
+
+</TEI>

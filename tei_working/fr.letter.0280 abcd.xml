@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="10016_001.jpg"/>
+
+<p> Daily Consular and Trade Reports.</p>
+<p> Kongo Commerical Opportunities.</p>
+    
+<p> Future of the Heart of Africa-how Americans may participate. </p>
+ 
+<p>In view of the fact that the status of the Kongo Free State is now
+more definitely arranged and that its development is commencing,
+Consul-General James A. Smith, of Boma, has preared the following
+review of the commercial aspects, and how Americans may best
+secure business in that vast region of mid-Africa with 900,000 square
+miles of undeveloped territory:</p>
+    
+<p>The Kongo may soon offer an opportunity for every independent
+trader to traffic freely with the natives in the rich commerical products 
+of the country, consisting mainly at present of rubber, ivory,
+gum copal, palm kernels, and palm oil, the two latter being principally
+products of the lower Kongo. Under such circumstances it 
+appears important that the American manufacturer should be informed,
+so far as is possible at present, of the opportunities which
+will be found here to dispose of his goods and the best manner in 
+which he can obtain a foothold, and to have clearly pointed out some 
+of the difficulties he must encounter and overcome if American trade
+in the Kongo is to increase.</p>
+
+<p>Classs of Goods At Present Imported.</p>
+    
+<p> Importations into the Kongo average at present, in round numbers,
+$4,000,000 annually. Of these principal items, comprising, as
+will be noted, about 88 per cent of the total, are as follows:</p>
+    
+<p> Arms and ammunition _____________ $178,000
+Clothing______________________________251,000
+Food products, mostly canned
+meats, vegetables, etc________________ 782,000
+Hardware, enameled iron ware,
+etc.___________________________________ 156,000
+Liquors, including beer ________________ 336,000
+Machinery________________________________208,000</p>
+    
+<p>Metals_________________________________ $212,000
+Steamers, boats, and material
+for ________________________________________278,000
+Tissues, mostly cotton piece
+goods________________________________________1,146,000
+
+Total__________________________________________3,547,000</p>
+    
+<p>So far as the natives are concerned, who are the most important
+to consider beacuse the bulk of the furniture trade will be carried on
+with them, the items of the greatest interest to the American manufacturer
+in the foregoing list are, in the order of their value, cotton
+piece goods, bleached and unbleached, prints and dyes; food products,
+consisting for the greater part of canned meats and vegetables,
+largely consumed, it is true, by the white population at present, but
+for which a demand can be created among the natives; clothing; the
+bulk of which is cheap underclothing, shirts, shoes, hats, and caps;
+hardware, of which an important part is enameled iron ware, plates,
+basins, various kitchen utensils, etc.</p>
+    
+<p> The remainder of the articles are for the larger part imported for
+use in building and opening up the country for the whites, construction 
+and maintenance of railways, steamer lines, etc. The sale of alcoholic
+liquors to natives in the upper Kongo is forbidden by law.</p>
+    
+<p> Practical Method to Secure Trade.</p>
+    
+<p>The question of methods to secure trade must be regarded from the
+standpoint of the interest of the American manufacturer and not of
+the individual small trader. There is but one practical way for the 
+American manufacturer to secure and retain a foothold in this market,</p>
+    
+<pb></pb>
+    
+<p> Daily Consular And Trade Reports</p>
+
+<p> On the other hand, the right is not extended to the United States,
+which is allowed to certain other countries on the basis of reciprocity,
+by which dutiable articles serving as samples of specimens are
+allowed free entry on the understanding that their identity is preserved
+and their reexport accomplished within a stipulated period of
+time. This disadvantage is due to the fact that no corresponding
+privilege is allolwed to Germany by the United States.</p>
+    
+<p>American commercial travelers do not enjoy advantages arising
+form those agreements with several other countries (France, Great
+Britain, Belgium, Switzerland, Sweden, and Austria-Hungary) by
+which offical marks for the preservation of the identity of samples or
+specimens brought in from and reexported to one of these countries
+are recognized.</p>
+    
+<p>Walnut Crop In France.</p>
+    
+<p>Good Growing Season-- Probable Yield of Different Qualities.</p>
+    
+<p>Vice-Consul T.W. Murton, of Grenoble, submits the following
+report, dated July 25, on the growing crop of walnuts in that
+consular district in the French valley of the Isére:</p>
+
+<p>The weather thus far having been variable and temperate, with
+frequent copious rainfalls and comparative freedom from excessive
+heat and the damaging hail and thunderstorms that usually follow,
+vegetation has prospered, and all standind fruit crops, grapes more
+especially, give promise of excellent yields. As to walnuts, while
+the fruit-bearing trees of the finer qualities, commercially known
+as Mayettes, Franquettes, and Parisiens, are luxuriantly foliaged and
+healthy in appearance, it is not expected that the production in nuts
+will much exceed half and average crop, or, say, from 15,000 to 20,000
+bales of 100 kilos each (1 kilo = 2.2 pounds). The fruit is well developed,
+being unusually large for the season, and promises to be of 
+excellent quality. The reason assigned for so small a crop is the prolonged
+drought of 1906, from the effecrs of which the trees have not
+yet entirely recovered.</p>
+
+<p>Of the smaller varieties, known as Chabertes and employed
+exclusively for confectionary purposes, a plentiful crop is expected-
+estimated at 45,000 to 50,000 cases of 25 kilos each. The quality also
+should be good, always provided weather conditions continue favorable
+for the growing crops until maturity. In such case harvesting
+time will be in advance of last year by about fifteen days.</p>
+
+<p>German Canal Liability Decision.</p>
+
+<p>A report from Consul-General Richard Guenther states that the
+Supreme Court of the Empire, the highest judicial body in Germany,
+has jut rendered an important decision. The lighter of a private
+shipping firm was injured in the Kaiser Wilhelm Canal by a steamer
+which got loose from its moorings. The Government declined paying
+damages and disclaimed liability as the regulations for the traffic
+through the canal contain the stipulation: "The German Empire
+assumes no responsibility whatsoever to recompense for any damages
+which vessels passing through the canal or lying on the roadsteads at
+either end may suffer, etc." The lower courts before which this case
+had been tried decided against the Government and, on appeal by
+the latter, the Supreme Court has now affirmed that decision.</p>
+
+<pb></pb>
+
+<p>Daily Consular And Trade Reports</p>
+
+<p>which promises results materially inccreasing American foreign trade
+here and which will eventually make the venture worth while. It is
+not likely that American goods will ever reach this market to any
+large extent except directly through an American company located
+here. Every trading house already established in the lower Kongo-
+English, French, German, Dutch, Portugese, or Belgian- is interested,
+primarily, in pushing the sale of the goods of its own nation.
+The large concessionary companies are all Belgian, they purchase the
+greater part of their supplies in Belgium, and their barter goods are
+mostly Belgian. As a Belgian colony, the future administration will
+be interested first of all in encouraging and broadening the market
+for Belgian manufactures.</p>
+
+<p>Geographical position and direct lines of steamers from almost all
+the countries named are other important factors favorable to their
+trade development here. For these reasons, I believe, there is but one
+practical and efficient way by which we can succeed in gaining a firm 
+foothold here-namely, through the organization of an American
+tradiing house composed prefereably of a combination of various 
+American manufacturers of or dealers in the different lines of merchandise
+it is found profitable to handle, and interested therefore
+before all in introducing and pushing exclusively American goods.
+A number of general stores should be established in favorable localities,
+with a central distributing warehouse and store at Leopoldville.</p>
+
+<p>Distribution of Supplies-Competent Salesmen</p>
+
+<p>The company should own and operate its own steamer of steamers
+on the upper river for the transport of its goods and distribution to
+the various stores established, as well as the carrying to Leopoldville
+of the merchandise received in exchange-rubber, ivory, etc. The
+network of navigable waterways furnishes the most convenient
+means of communication at present, but freight rates on the steamers
+belonging to the State are high and porterage "a dos d'homme" is
+slow and uncertain and must eventually be done away with entirely.</p>
+
+<p>A thoroughly efficient and practival business man should be sent
+out to study the general situation, the wants of the natives, manner 
+of packing goods for tropical countries, etc., and decide as to the 
+most favorable localities for the establishment of the stores. The
+preliminary work would doubtless require fully a year's time. Cotton 
+piece goods will form the principal article of commmerce at first, but
+it would be unwise for the company to confine itself to any one line.
+Through contact with the whites the material wants of the natives 
+will gradually increase, and the company must be prepared to supply
+these wants in every direction.</p>
+
+<p>Difficulties To Overcome</p>
+
+<p>In the absence of money as a circulation medium of trade, and the
+entire ignorance of the greater part of the natives in the upper
+Kongo as to its value of use, the trade in the beginning will be simply
+a question of barter. For this reason, perhaps, the greatest difficulty 
+which a trading house will meet with at first will be to persuade the
+native to bring in his produce in exchange for goods offered. Some
+time must necessarily elapse and a constantly humane, just, and gen-</p>
+
+<pb></pb>
+
+<p>Daily Consular And Trade Reports.</p>
+
+<p>erous treatment invariably accorded to the native before he will begin
+to realize the material advantages to be gained by himself in trading
+with the white man. Once he is certain of this the most difficult
+obstacle to trade will have been overcome.</p>
+
+<p>An American house without experience in Africa will have to compete
+with English, French, German, Dutch, Portugese, and Belgian
+companies and in the eastern districts with Indian and Arab traders,
+many of them long standing in the lower Kongo, familiar with 
+the country and the ways of the natices, speaking og the commercial
+language, etc. Many of these traders will doubtless enlarge the field
+of their operations in the upper Kongo. The Germans are already
+preparing for the opening up on the country to trade, as I learn that
+a German house at Matadi, backed by official encouragement, is to
+place a steamer at once on the upper river and commence operations
+by selling goods along the river direct fromj the steamer in exchange
+for ivory.</p>
+
+<p>Another difficulty is the absence of direct lines of transportation.
+American sailing ships already, I beleive, come to the Sierra Leone and 
+the West Coast with cotton good and petroleum, and their itinerary
+might, it would seem, be extended to the lower Kongo. </p>
+
+<p>General Observation.</p>
+
+<p>In the development of the country the native must necessarily play
+an important part. His labor is absolutely essential to the future
+welfare of the colony, and he will be the principal purchaser of 
+foreign goods. In a colony of at least 20,000,000 blacks, who will be
+brought, as the country is opened up, more and more into constant
+contact with white civilization, and whose material wants will in
+consequence continually increase, the future market will be one of 
+constant growth and practically unlimited extent. If the United
+States is to share in this market in any appreciable measure the
+present is the time to make a beginning. It is the man who is the 
+first on the ground who will have the advantage in an experience
+gained in dealing with the native, and who will consequently secure
+the larger and more profitable share in the trade. The difficulties
+do not appear by any means insurmountable. Enterprise directed
+intelligently, patience, and tenacity are required here as everywhere
+else to secure and hold a market against active competition.</p>
+
+<p> The opportunityis a grand one and should not be neglected. A
+consular officer can do no more than point this out. It remains for
+American manufacturers to take advantage of the situation and
+make a beginning here at the earliest possible moment. Details as
+to prices of cotton piece goods, etc., can not be given because, 
+dependent as they are upon the cost of transport, they vary widely in 
+different sections and have been, up to the present time,  more of less
+arbitrary.</p>
+
+<p>Mails for Tahiti.</p>
+
+<p> In relation to a report that corresponence destined for Tahiti is 
+frequently missent to Seattle, Wash., for dispatch, the Post-Office
+Department announces that mails for Tahiti are dispatched only by 
+steamers sailing fromo San Francisco, and that the mails referred
+to must therefore be forwarded to San Francisco.</p>
+</div1>
+</body>
+</text>
+
+</TEI>

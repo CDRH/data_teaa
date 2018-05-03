@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="1022_001.jpg"/>
+
+<p>Department of State,
+Washington, September 11, 1885.</p>
+    
+<p>Mr. Edmond van Ectvelde,
+Administrator General of the Department
+of Foreign Affairs of the Independent
+State of the Congo,
+Brussels.</p>
+    
+<p>Sir:
+I have the honor to acknowledge
+the receipt of your letter of the 1st
+ultimo, in which you are pleased to 
+proffer, throught me, to the Government
+of the United States of America, an 
+offical guarantee of the neutrality
+of the newly constituted Independent
+State of the Congvo, and whereby you
+acquaint me with the boundary demarkation
+of the new State.</p>
+    
+<p>I observe that this proffered</p>
+    
+<pb></pb>
+
+<p>guarantee of neutrality is made by
+you in conformity with Article 10
+of the General Act of the Conference
+of Berlin.</p>
+    
+<p>The Government of the United 
+States having been represented by
+Delegates in that Conference under
+the expressed reservations of the right,
+in its sovereign discretion thereafter
+to accede or withhold its accession,
+to the result of its deliberaitons, it
+will not be possible for me to determine
+the due and proper weight to be given 
+by this Government to the declaraion
+and territorial claims thus communicated
+by you on behald of the Independent
+State of the Congo, so far
+as such declaration and claim 
+rest on the provisions of that General
+Act, until the United States shall, 
+by subsequent accession, and ratification</p>
+    
+<pb></pb>    
+
+<p>of the said General Act of the
+Conference of Berlin, in the manner
+therein provided and according to their
+constitutional forms, become a party
+to the stipulation thereof.</p>
+    
+<p>The relationship of cordial recognition and earnest good will,
+heretofore initiated by the Government
+of the United States toward the International
+Association of the Congo,
+and now confirmed and, I trust,
+perpetuated in respect of the new
+Independent State which succeeds
+to that Association, is, however, complete
+of itself and apart from any
+conventional relationship flowing
+from or defined by the General
+Act of the Conference of Berlin; and
+the obligation to respect the precepts
+of neutrality and friendly intercourse
+is held by the Government of the</p>
+    
+<pb></pb>
+
+<p>United States to be as perfect toward
+the sovereign and Independent State 
+of the Congo as toward any and 
+all sovereignties with which the
+United States maintain friendship
+and intercourse.</p>
+    
+<p>Accept, Sir, the renewed
+assurance of my highest consideration.</p>
+    
+<p><unclear></unclear></p>
+</div1>
+</body>
+</text>
+
+</TEI>

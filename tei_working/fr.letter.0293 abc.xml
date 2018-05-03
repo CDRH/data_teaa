@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="1017_001.jpg"/>
+
+<p>424 W. Chelten Ave. Germantown, Philad Pa
+September 18 1906.</p>
+
+<p>James Gustavus Whiteley,</p>
+
+<p>Sir, Consul,</p>
+
+<p>Your communication of date Brussels, July 23. 1906
+mis-sent to the Congo Reform Association, finally reached
+me Aug. 17. while I was confined under a surgical
+operation in the Presbyterian Hospital of this city.
+I emerged only a few days go.</p>
+
+<p>You give me your address both in Paris and Baltimore.
+I choose the latter address. And, though your letter
+leaves somewhat to be desired in the matter of
+courtesy, I reply to it.</p>
+
+<p>When I landed in New York on the 7. of last June,
+I was, in half an hour, surrounded by half a dozen
+reporters. I did not, and do not know whom they represented,
+though tey doubtless told me. They asked me about
+the Kongo atrocities; and I answered freely, as I do
+every where. They got my statements somewhat disjointed,
+in intervals of the examination of my large lot of
+luggage by the Custom House officials. Naturally, they
+made some mistakes. I am not on a Lecture-Tour for the
+Congo Reform Association of the U.S. At that time, I 
+did not know even of that Association's existence.</p>
+
+<p>What I said to them wa that, in my missionary addresses
+among the Churches during my furlough, I should animal-
+vert on those atrocities.</p>
+
+<p>I have not been in the Kongo Free State. There are
+3 "Congos": the Kongo Free State, or Kongo Belge; the
+Kongo River; and the Kongo Français. What I said to them
+was that I had been 45 years in the Kongo-Français, a few
+hundred mils north of the Kongo river.</p>
+
+<pb></pb>
+
+<p>I am a missionary of the American Presbyterian
+Church (north) offices at 156 Fifth. Ave New York city
+One of my stations being Libreville, in the Gaboon river,
+exactly on the equator; Libreville being headquarter
+of the Colonial Government of the Kongo-Français until
+its authority was divided with Brazzaville on the Kongo.</p>
+
+<p>It is quite possible that I am <choice><sic>unkown</sic> <corr>unknown</corr></choice> to the Free
+State officials. But, they could have heart of me had
+they inquired of Rev. Mr. Grenfell and other Baptist
+missionaries; of Rev. Messrs. Verner and Phipps of the
+Am. Presb. (south); and of the American Missionaries at
+Boma. Your officials would argue themselves unknown
+if they could not hear of me through the Captains of
+any of Elder Dempster line of steamers running as
+far south as the Gaboon and Kongo rivers. Or, from my
+friend Consul Sir Alfred Jones.</p>
+
+<p>A few hours after I had told those reporters that
+story of the flogging to death of that young woman, one
+of them followe me to 156 Fifth. Ave, with his written
+version of it, and asked me to sign it as correct.</p>
+
+<p>I did not know who he was nor whom he represented. It 
+was substantially correct. A month later I was shown
+it in the "Journal-Exam". The preliminary and the final
+remarks are not mine, though they are true. The story
+itself is, excepting the two minor inaccuracies, viz
+that the white man did the flogging; and, that the flogging
+was continued on the second day. Indeed, I doubt
+whether these two points are inaccuracies. Practically
+the white man did do the flogging; it was done for him 
+at the point of his pistol: one of his native would not
+hesitate to do the flogging himself if it was convenient
+for him. And, as to the second day's flogging, I have
+no doubt it also was done. He did as bad with that honey.
+People familiar with African insects know their abundan-</p>
+
+<pb></pb>
+
+<p>ce, their universality and their torture.</p>
+
+<p>I heard this case talked of on the english steamers
+at the time. It was commonly known. That was 2 years
+ago. I can not recall the persons, captains and passengers,
+whom I overheard talking about it. Their version
+was one of the "portions" of the girl's body covered
+by the honey was her genitals. I have no doubt that it
+was so. For the <choice><sic>stamement</sic><corr>statement</corr></choice> was also made that the "service"
+in which she was engaged to this man was as his
+mistress. Of this also I have no doubt. In my long and
+intimate acquaintance with african conditions, I know
+that many of the white commercial foreign population
+have their native "Wives" more or less openly held.
+Some of them treat their young women kindly; some are
+cruel. I know of no service which young women render
+in the trading houses other than a sexual one.</p>
+
+<p>I wish to repeat that I am not, and have not been,
+in any way, connected with the American Congo Reform
+Association, except that I heartily approve of its object
+and its work; a work for which my sympathy was early
+extended to Mr. E.D. Morel of Liverpool.</p>
+    
+<p>Very truly yours,
+(s) Robert Hamill Nassau</p>    
+    
+<p>His Honor,
+J.G Whiteley, Consul General of the Congo Free
+State to the United States of America.</p>
+</div1>
+</body>
+</text>
+
+</TEI>
