@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160615_121518.jpg"/>
+
+<ab>
+M. Alby, Gérant du Vice-Consulat <!-- 'Vice-Consulat' is split across lines between 'Vice-' and 'Consulat' -->
+de France à Freetown (Sierra-Leone)
+à M. Develle, Ministre des Affaires
+Etrangères. Paris.
+</ab>
+
+<ab>
+Freetown (Sierra Leone), le 21 Juillet 1893
+</ab>
+
+<p>
+J'ai eu l'honneur de rendre
+compte à V.E. dans une lettre du
+12 Juillet, de l'existence sur le
+territoire de Sierra Leone d'une
+mission américaine qui projetait
+de pousser ses établissements
+jusque dans nos nouvelles possessions <!-- 'possessions' is hyphenated between 'posses-' and 'sions' -->
+du Soudan - Voici les renseignements <!-- 'renseignements' is hyphenated between 'ren-' and 'seignements' -->
+complementaires que
+j'ai pu obtenir à ce sujet.
+</p>
+
+<p>
+"L'Américan Soudan Mission"
+apré des tentations malheureuses. 
+</p>
+
+<pb facs="20160615_121541.jpg"/>
+
+<p>
+il y a quelques années, s'est
+fondue dans la "International
+Missionary Alliance" qui a son
+siège à New-York. Son Supérieur
+M. E. Sampson, Superintendent
+Général, vient de faire le tour
+du monde dans l'intérêt du
+développement de cette association.
+Il n'est pas encore de retour
+à New-York, mais il m'est assuré
+qu'il a passé pas le Tonking
+où il est question d'établir une
+mission
+</p>
+
+<p>
+La mission établie dans
+la Colonie de Sierra-Leone est
+en très bons termes avec l'Evêque
+anglican de Freetown et les autres
+sectes religieuses qui y pulullent.
+"L'American Soudan Mission,"
+</p>
+
+<pb facs="20160615_121550.jpg"/>
+
+<p>
+encore désignée sans ce nom
+pour la distinguer des autres
+branches de "l'internationa
+Missionary Alliance" compte
+vingt missionnaires pour cette
+Colonie; sur ce nombre, six sont
+en congé en Amérique, les
+quatorze autres, sont répartis,
+sans la direction de M. H.W.
+Hubby, dans les divers établissements <!-- 'établissements' is hyphenated between 'établis-' and 'sements' -->
+de Sierra Leone.
+</p>
+
+<p>
+Trois sont en convalescence à
+Freetown, les autres sont à
+Mahera, à Magbele et à Magbeu-Kete, <!-- 'Magbeu-Kete' is hyphenated between 'Magbeu-' and 'Kete' -->
+petites villes ou villages
+situés sur les bords de la
+Rokelle River. Magbele indiqué
+sur la carte sous le nom de
+Mabelin, et dans les documents
+</p>
+
+<pb facs="20160615_121601.jpg"/>
+
+<p>
+officiels sous le nom de Magbelli,
+(A map of Sierra Leone and
+neighbouring Territories For use
+in Schoola 1887 - 51 South Castle
+Street. Liverpool) compte, dit-on,
+6,000 habitants indîgènes, ce qui
+serait près de trois fois plus que ne
+compte aucun de nos villages de
+la Guinée. - Il y a un bureau
+de poste. - C'est la limite de la
+navigation à vapeur sur la
+rivière Rokell, qui en amont de
+Magbele prend le nom de Magbele. <!-- 'Magbele' is hyphenated between 'Mag-' and '-bele' -->
+</p>
+
+<p>
+Il y a enfin un de
+ces missionnaires à Rokonson,
+ou Kounson, village près duquel
+se trouve une très-importante
+ferme appartemant à un
+</p>
+
+<pb facs="20160615_121606.jpg"/>
+
+<p>
+missionnaire d'une autre secte,
+nommé M. Johnston, on y <unclear/>
+du café, du <unclear/>, du mil en assez
+grande quantité.
+</p>
+
+<p>
+La mission de Sierra
+Leone se propose de  <unclear/> à
+la prochaine saison  <unclear/> jusqu'aux
+ <unclear/> du Niger, puis de descendre <!-- 'descendre' is hyphenated between 'descen-' and '-dre' -->
+le fleuve jusqu'à  <unclear/>,
+et même plus  <unclear/>,
+en fondant des stations là où ce
+sera possible.
+</p>
+
+<p>
+Dans ses débuts, il y a
+cinq à six ans, la mission  <unclear/>
+perdu presque tons ses membres
+par défant d'expérience du pays
+où elle cherchair à s'installer;
+aujourd'hui elle est plus
+</p>
+
+<pb facs="20160615_121616.jpg"/>
+
+<p>
+satisfaite des résultats obtenus.
+Elle compte avoir l'année prochaine <!-- 'prochaine' is hyphenated between 'pro-' and '-chaine' -->
+un petit steamer qui
+sera chargé de l'approvisionner
+et de faciliter ses communications
+par la Rokell-la plus grande
+difficulté étant là, comme dans
+toutes les colonies de la côte occidentale <!-- 'occidentale' is hyphenated between 'occiden-' and '-tale' -->
+d'Afrique, de se procurer les
+vivres nécessaires à ceux qui ne
+peuvent se nourrir exclusivement
+de riz ou de mil; en autre, les
+parties malsaines de ce territoire
+étant celles qui avoisinent l'embouchure
+des rivières, aussitôt que
+l'on se trouve à des altitudes de
+cent à deux cents mètres, le climat
+y devient partfaitement supportable
+et aussi soin qu'ailleurs à moins
+</p>
+
+<pb facs="20160615_121621.jpg"/>
+
+<p>
+de circonstances exceptionelles. Ces
+considérations encouragent l' "American
+Mission" à poursuivre son œuvre de
+pénétration dans le Soudan. Ses
+membres sont des personnes d'une
+certaine instruction qui font des
+levés topographiques et possédent
+des renseignements dont j'espère
+obtenir la communication - il 
+parait que la carte précitée serait
+très-inexacte et l'ou m'a donné
+comme exemple la distance de
+route entre <unclear>Magbele et Magbeu Kète</unclear>
+qui est de 22 milles et celle de
+<unclear>RouKonson à Magbeukète</unclear> qui
+mesure environ 60 milles vers
+l'E.N-E - tandi que la carte
+donne cette dernière distance
+</p>
+
+<pb facs="20160615_121704.jpg"/>
+
+<p>
+comme sensiblement plus courte que
+la précédente.
+</p>
+
+<p>
+Pour en revenir à l'
+"International Missionary Alliance",
+cette société compterait envivron 170.
+missionnaires, dont 20 à la
+mission du Soudan; 30 à la
+mission du Congo, dans l'Etat
+Belge, mais presque à la limite
+française, a Bouma et a Veva;
+70 dans les Indes; 4 en Palestine;
+20/30 en Chinel quelques-uns
+en Amérique du Sud.
+</p>
+
+<p>
+L'action de ces missionnaires <!-- 'missionnaires' is hyphenated between 'mission-' and '-naires' -->
+consiste, disent-ils, dans l'exemple <!-- 'l'exemple' is split across lines between ' l' ' and 'exemple' -->
+du travail, l'austérité des
+mœurs, la bonne conduitel leurs
+moyens de progrès, en dehors de
+toute propagande politique, sont
+</p>
+
+<pb facs="20160615_121709.jpg"/>
+
+<p>
+des installations agricoles, fermes,
+cultures, fondation de familles, bons
+rapports avec les Indigènes, etc . . .
+A côte de cette "American Soudan
+Mission" il aurait existé jusqu'à
+l'année dernière, sur le bas Niger,
+l' "English Soudan Mission" qui a
+essayé de remonter le Niger eu
+partant de Lagos. Mais cette mission
+conduite par Rév. Wilmot Brook,
+sans la haute direction de l'Evêgue
+Anglican de Sierra Leone, a été
+abandonnée en 1892, à la suite de
+la mort du Rév. W. Brook et
+de la plupart de ses compagnons.
+L'un d'eux cependant, serait
+retourné en Angleterre et aurait
+décidé une autre Association
+</p>
+
+<pb facs="20160615_121727.jpg"/>
+
+<p>
+Evangélique à prendre la suite
+de cette entreprise.
+</p>
+
+<p>
+C'est ce qui amène l'
+"American Mission" à penser que
+bientôt elle se rencontrera sur
+le Niger avec l' "English Mission."
+</p>
+
+<p>
+Ces diférentes tentatives
+de pénétration du Soudan par
+des étrangers, à quel titre que
+ce soit, m'ont paru de nature à
+intéresser Votre Excellence et
+peut-être jugerez-vous M. le
+Ministre, qu'à défant d'agents
+français en état d'initier les
+indigènes de ces régions lointaines <!-- 'lointaines' is hyphenated between 'loin-' and '-taines' -->
+à notre civilisation, il
+pourrait y avoir lieu d'intérésser <!-- 'd'intéresser' is hyphenated between 'd'inté-' and '-résser' -->
+à notre cause ou simplement <!-- 'simplement' is hyphenated between 'sim-' and '-plement' -->
+de favoriser ceux de
+</p>
+
+<pb facs="20160615_121738.jpg"/>
+
+<p>
+ces Missionnaires qui semblent
+par leur origine et le caractère
+neutre de leur entreprise, les
+plus capables de nous rendre
+service, ou tout au moins de
+ne pas nous nuire./.
+</p>
+
+<note>
+Cette garantie ne
+me <unclear/> pas. En <unclear/>
+l'<unclear/> étrangères
+me parait touours <unclear/>.
+</note>
+
+<note>
+Il <unclear/> savoir d'abord
+si cette <unclear/> <unclear/>
+Mission n'es pas <unclear/>
+<unclear/> <unclear/> <unclear/> <unclear/>
+l'English Soudan Mission
+</note>
+
+<note>
+4
+</note>
+
+</div1>
+</body>
+</text>
+
+</TEI>

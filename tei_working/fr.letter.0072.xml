@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160614_144635.jpg"/>
+
+<ab>
+Bureau du <unclear>Régime</unclear> <unclear/> que
+et de <unclear/>
+</ab>
+
+<ab>
+Au sujet des droits applicable
+dans <unclear>les ports de</unclear> l'union aux
+<unclear/> français <unclear/> de <unclear/>
+et <unclear>de</unclear> Gorée
+</ab>
+
+<ab>
+Paris le 27 Décembre 1839.
+</ab>
+
+<ab>
+Le Ministre
+à M. Le Président du <unclear/>, Ministre
+des Affaires Etrangères
+</ab>
+
+<p>
+Monsieur Le <unclear>Maréchal</unclear> et Cher Collègue, <unclear/>
+m'avez fait l'honneur de me communiquer, le
+<unclear>2</unclear> Juillet dernier, la <unclear>réfront </unclear> <del><unclear>fait par</unclear></del> <unclear>du</unclear>
+gouvernemen des Etats-Unis aux <del>proposition</del>
+observation que lui avait <del><unclear/></del> <add><unclear>addressé</unclear></add> M Le
+Ministre de france, dans le but <unclear>d'observer</unclear>
+l'affirmation du pavillon français au pavillon
+américain, a légend du navire <unclear>expédiés</unclear> de
+<unclear/> et de Gorée pour <unclear/> ports de
+l'union
+</p>
+
+<p>
+L'engagement puis <del><unclear/></del> <unclear>par</unclear>
+le secrétaire d'Etat eu ce qui <unclear/> le
+batiment français <unclear>provenance</unclear> de <unclear/>
+<del><unclear/> <unclear/> <unclear>de</unclear></del> a <unclear/> dont <unclear>affermé</unclear>
+depuis <unclear>lors l'application</unclear> du principe de
+réciprocité à notre pavillon dans ce cas
+spécial de navigation Je prie <unclear>J. E.</unclear> de
+<unclear/> <unclear/> ne pas me <unclear/> ignorer la
+<unclear>décision</unclear> qui <del><unclear/></del> a été on doit <unclear>été prie</unclear> à
+le sujet <unclear>par</unclear> le gouvernement américain <del>de</del>
+<unclear><unclear/></unclear> avec le <add><unclear/></add> <unclear/>.
+</p>
+
+<p>
+<unclear>Quant</unclear> <del><unclear>aux</unclear></del> navire provenance de
+Gorée, Mr forsyth a objecté que si <del><unclear/></del>
+<del><unclear/> <unclear/></del> le pavillon américain <unclear>n'est</unclear>
+<unclear>donné dans</unclear> <unclear/> <unclear>par</unclear> <unclear/> a des droits de
+navigation <unclear/> à <unclear/> qui <unclear>affectivement</unclear>
+<unclear/> <unclear>navire</unclear> français <unclear>venant</unclear> des ports de
+l'union, <add><del><unclear/></del></add> <unclear/> provenance americain <add><unclear/> <unclear/></add> sont
+<del><unclear/> <unclear/></del> pas <unclear>prohibée</unclear> <unclear/> <unclear>sont</unclear> <unclear/>
+de droit quadripler de <unclear>ceux</unclear> qui <unclear/>
+les <del><unclear/></del> français. <unclear>20</unclear> que <unclear/>
+</p>
+
+<ab>
+<unclear>l'affirmation</unclear> demandée
+pour les
+</ab>
+
+<ab>
+<unclear/> importations par <unclear/>
+</ab>
+
+<note>
+<unclear>f</unclear>
+<unclear>R</unclear>
+</note>
+
+<note>
+<unclear/> <unclear/> <unclear/>
+<unclear/> <unclear/> <unclear/>
+fr.
+</note>
+
+<pb facs="20160614_144645.jpg"/>
+
+<ab>
+<unclear/> gorée
+</ab>
+
+<ab>
+<del><unclear/> <unclear/></del>
+</ab>
+
+<ab>
+<unclear>de notre pavillon</unclear>
+</ab>
+
+<ab>
+<del><unclear/> <unclear/></del> <add><unclear>le tour de</unclear></add>
+<del><unclear/></del>
+</ab>
+
+<p>
+du principal <unclear/> du Sénégal (le <unclear>par</unclear> de
+<unclear/>) en <unclear>entièrement</unclear> fermée <del><unclear/> <unclear/></del>
+<del><unclear/> <unclear/> <unclear/> <unclear/> la <unclear>navigation étrangeres</unclear></del>
+<unclear>avec navires américains comme a ton autre</unclear>
+batiment étrangers. <del><unclear/></del>
+</p>
+
+<p>
+<del><unclear>M</unclear> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear>qui</unclear> <unclear/></del>
+<del><unclear/> <unclear>de la</unclear> <unclear/> <unclear/> <unclear/></del>
+<del><unclear/> <unclear>que</unclear> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del>
+<del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del>
+<del><unclear/> état de <unclear/> <unclear>de</unclear> <unclear/> <unclear/> <unclear/> <unclear/></del>
+<del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del>
+<del><unclear/> <unclear/> à cette <unclear/></del>
+<del>prohibition <unclear/> <unclear/> <unclear/> <unclear/></del>
+<del><unclear/> qu'à <unclear/> d'une modification <unclear/> le</del>
+<del><unclear/> <unclear/> <unclear/> le <unclear/></del>
+</p>
+
+<p>
+Mon prédécesseur avait <unclear/> que la
+<unclear/> des droits différentes <unclear/> le
+<unclear>marchandise</unclear> <del><unclear/></del> <unclear>admission</unclear> à <unclear/> <unclear>en</unclear>
+a la communication, pouvair du proposé <del><unclear/></del>
+<del>que la <unclear/> <unclear/> la <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del>
+<del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear>des Etats ports</unclear> <unclear/> <unclear/></del>
+<del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del>
+<del><unclear/> <unclear/></del> pour compléter a <unclear/> du pavillon
+américain l'analogie de régime entre ce port
+<unclear/> <unclear/> <unclear/> <unclear/> <unclear/>. <del>Je</del> C'était <unclear/>
+<unclear>dans un</unclear> <unclear/> de <unclear/> que dans <del><unclear/></del> <unclear/>
+<unclear/> que cette proposition était <unclear/>; <unclear/>
+le <unclear>nombre du navire</unclear> américain qui <unclear>viennant</unclear>
+<add><unclear>quant</unclear> à présent</add> des Etats-Unis a Gorée <unclear/> <unclear/> , est
+<unclear/> <unclear/> <unclear/> que <unclear/> lui <unclear>de</unclear>
+<unclear>batiment</unclear> français qui <unclear/> la <unclear/> navigation
+</p>
+
+<p>
+<del><unclear/> <unclear/> <add><unclear/></add> que le gouvernement <unclear/></del>
+l'<unclear/> que le gouverneur américain
+<del><unclear/></del> <unclear>voudrais donner</unclear> à cette <unclear/> la
+<unclear/> <unclear/> a fait <unclear/> cette <del><unclear/> <unclear/></del>
+<unclear/> de notre <unclear>commerce</unclear> avec le Sénégal et
+<unclear/> <unclear/> qu'il n'y a pas <unclear/> de <unclear/> <unclear/> <unclear/>
+<unclear/> <unclear>cette affaire.</unclear>
+</p>
+
+<p>
+<unclear>Je</unclear> <unclear/> <unclear/> <unclear/> <unclear>attendu</unclear>
+que <del><unclear/></del> <unclear>droits</unclear> de navigation <add><unclear/> <unclear/></add> <unclear>sur les navires</unclear> américains
+<unclear/> <unclear/> étranger dans le <unclear>port</unclear> de Gorée
+<del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del>
+<del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/><unclear/></del>
+<add>pourrais</add>
+</p>
+
+<note>
+2
+</note>
+
+<pb facs="20160614_144652.jpg"/>
+
+<p>
+<unclear>pourrait être</unclear> <del>modifié</del> <add>augmenté</add> <del><unclear>à la</unclear> 1839, December 27 1839, December 27</del>
+si la <unclear/> du <unclear>commerce local</unclear> <unclear/>
+<unclear/> que le gouvernement <del><unclear/></del> des
+Etats Unis <unclear/> à ces <unclear/> de réclamation
+<unclear>a former,</unclear> tout qui <unclear/> <add><unclear/></add> <unclear/> <unclear/> au
+<unclear/> <unclear/> auquel il <unclear/>
+être <unclear/> <unclear/> <unclear/> les droits de
+navigation <unclear>sur les batiment</unclear> français
+qui <unclear/> de Gorée <unclear>dans les</unclear>
+ports de la <unclear>république</unclear>
+
+Agréez <unclear/>.
+</p>
+
+<note>
+3
+</note>
+
+</div1>
+</body>
+</text>
+
+</TEI>

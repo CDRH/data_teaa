@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_162857.jpg"/>
+
+<ab>
+Ministère
+des
+Affaires Etrangères
+</ab>
+
+<ab>
+DIRECTION POLITIQUE
+</ab>
+
+<ab>
+Paris le 22 févriér      1859
+</ab>
+
+<p>
+Monseigneur,
+
+J'ai reçu les deux lettres que Votre
+Allesse Impériale m'a fait l'honneur de
+m'adresser, aux dates des 29 janvier et 19
+de ce mois, au sujet de la visite à main
+année opérée sur la côte occidentale d'afrique
+par le croiseur anglais l'alecto sur le
+navère le Phenix, affecté à une opération
+de recrutement de moins pour nos colonies.
+Au moment où la première de ces lettres
+</p>
+
+<ab>
+<supplied>Alèsse</supplied> Impérial le Prince chargé du Département de
+<unclear>évée</unclear> et des Colonies.
+</ab>
+
+<note>
+<unclear/>
+<unclear/>
+<unclear>et</unclear>
+<unclear/>
+</note>
+
+<note>
+<unclear/>
+149
+</note>
+
+<note>
+<unclear/>              
+<unclear/>
+<unclear/>
+</note>
+
+<note>
+f
+</note>
+
+<note>
+<unclear/>
+</note>
+
+<note>
+<unclear/>
+<unclear/>
+<unclear/>
+</note>
+
+<pb facs="20160613_162907.jpg"/>
+
+<p>
+une parvenait, je venais d'en recevoir
+également une de Mr. le Ministre de la
+Marine sur le même objet,  Mr. l'Amiral
+Hamelin, en m'annonçant la communication
+ultérieure des renseignemens qui lui étaient
+parvenus sur cette affaire, me demandait
+de le fixer auparavant, pour qu'il pût porter
+un jugement sur la conduite du délégué
+et du capitaine du Phénix, sur l'étendue de
+côtes soumise à la jurisdiction de la
+République de Liberia. Je supposais que
+ma réponse à Mr. le Ministre de la Marine
+serait suivie de la communication qu'il
+m'avait fait pressentir; je l'attendais
+donc pour être à même de répondre aussi à la
+lettre de votre Allesse Impériale, je n'ai
+cependant rien reçu encore. Je m'empresse,
+</p>
+
+<pb facs="20160613_162912.jpg"/>
+
+<p>
+dès lors, de transmettre à votre allesse
+Impériale copie de ce que j'avais écrit
+à Mr. l'Amiral Hamelin au sujet de la question
+de Liberia, il n'est comme Elle le verra, que par
+les informations reçues, soit au ministère de
+l'Algérie et des Colonies, soit à celui de la Marine
+que mon Département pourrait être fixé lui même
+sur l'étendue vielle de ces limites. Quant à
+l'acte de visite effectué par l'Alecto je vais en
+faire examiner les circonstances et j'aurai soin
+dès que le résultat de cet examen m'aura
+été soumis, d'instruire votre allesse
+Impériale des suites dont cette affaire
+une paraîtra susceptible.
+</p>
+
+<p>
+J'ai l'honneur d'être avec une
+respectueuse considération,
+Monseigneur,
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

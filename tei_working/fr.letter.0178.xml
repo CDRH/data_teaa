@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160615_122107.jpg"/>
+
+<ab>
+gouvernement
+du
+Soudan Français.
+</ab>
+
+<ab>
+No 842
+</ab>
+
+<ab>
+Kayes, le 9 Octobre 1894
+</ab>
+
+<ab>
+Le gouverneur du Soudan
+Français à Monsieur le Ministre des
+Colonies.
+</ab>
+
+<ab>
+Direction des Affaires Politiques et Commerciales
+Bureau de l'Afrique
+</ab>
+
+<p>
+Monsieur le Ministre,
+
+J'ai l'honneur de
+vous transmettre ci-après copie d'une
+dépêche du Commandant de la Région
+du sud en date du 1er Octobre.
+</p>
+
+<p>
+"Trois blancs se donnant
+pour des missionnaires américains de
+l'Internationale Missionary alliance viennent
+d'arriver à Faranah. Ils feraient partie
+d'une station de leur ordre établie
+dans le Timené province de Sierra Leone
+et auraient reçu comme mission de
+leur supérieur de venir rechercher sur
+notre territoire des points favorables
+à l'établissement de nouvelles station.
+Ces individus n'ont aucun papier
+établissant leur identité. Ils prétendent
+que le Consul de France à Free-Town
+a declaré à leur supérieur que leur
+établissement sur notre territoire ne"
+</p>
+
+<ab>
+<supplied>Arrivée</supplied> dans la région sud
+trois blanc se donnant
+<supplied>sur</supplied> des Missionnaires américains.
+</ab>
+
+<pb facs="20160615_122130.jpg"/>
+
+<p>
+"présentait aucune difficulté et l'a
+engagé à écrire au Président de
+la société à New-York afin qu'il
+demande au gouvernement Français
+l'autorisation nécessaire. Cette autorisation
+n'était par arrivée quand les trois
+missionnaires ont quitté leur station
+pour venir sur notre territoire. Ils
+attendent à Franah votre décision
+au sujet de la possibilité de fonder
+une station dans le pays. Je vous
+prie M. le Gouverneur de vouloir bien
+m'adresser vos instructions à ce sujet."
+</p>
+
+<p>
+N'ayant reçu aucune
+communication du département, j'ai
+prié par télégramme du 6 courant
+le Commandant de la Région sud
+d'informer les missionnaires américains
+qu'ils avaient toute liberté de circuler
+au Soudan, mais que je ne pouvais
+les laisser y établir une station religieuse.
+</p>
+
+<p>
+En effet, la Colonie est
+régie par l'ordannance du 7 septembre
+1840 dont l'article 26 est ainsi conçu:
+"Le Gouverneur tient la main à ce
+qu'aucune congrégation ou communauté
+religieuse ne s'établise dans la Colonie
+et n'y reçoive des novices sans notre
+autorisaion spéciale."
+</p>
+
+<p>
+Cet article, s'appliquant
+aux congrégation françaises, est a fortiere
+</p>
+
+<pb facs="20160615_122135.jpg"/>
+
+<p>
+applicable aux missions étrangères.
+</p>
+
+<p>
+Je ne vois, <unclear/>,
+aucune avantage à l'établissement d'une
+station de missionnaires américaine au
+Soudan. La présence de ces étrangers
+ne peut présenter que des inconvénients
+à bien des points de <unclear/> <unclear/> <unclear/> en
+conséquence un avis défavorable à la
+demande dont vous pourriez être <unclear/>,
+pour le Soudan, par la "Internationale
+Missionary Alliance."
+</p>
+
+<p>
+Je suis avec un profond respect,
+Monsier le Ministre,
+Votre très-obéissant serviteur
+<unclear/> <!-- Signature -->
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

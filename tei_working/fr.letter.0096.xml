@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_164534.jpgg"/>
+
+<ab>
+<unclear/> <unclear/>
+</ab>
+
+<ab>
+<del>Communication d'une correspondance relative</del>
+<unclear/> fait par la <del>commdare</del> <add>commandant du navire</add> americain <del><unclear/></del>
+<unclear/> le pavillon <add><unclear/></add> placé sur le fort d'ammale
+<supplied>au</supplied> gabon.
+</ab>
+
+<ab>
+Paris, le 13 Novembre 1846
+</ab>
+
+<ab>
+Le ministre
+à Mr. le Ministre des affaires étrangères
+</ab>
+
+<p>
+Monsieur le Ministre et cher Collègue,
+Par une lettre du <unclear>4</unclear> août 1846 <unclear/>
+<del>l'honneur de <unclear/> <unclear/> adressé</del> <add>si joint ici</add> <unclear>extrait</unclear>
+ver le Contre-amiral commandant les
+<del><unclear/></del> <unclear>division</unclear> navales <del><unclear/> <unclear/></del> des côtes occidentales
+d'Afrique m'a rendu <unclear/> <del><unclear/></del> <add><unclear>de la considération</unclear></add>
+<del><unclear/> <unclear/></del> <add>temps en mai 1846</add> dans la <unclear/> <unclear/> du
+gabon, par <add><unclear/> <unclear/></add> <del>le</del> commandant du <unclear/> de
+guerre américain le Boxer, <del>commandant</del> <add><del><unclear/></del></add>
+<add><del>nommé <unclear/></del> qui</add> a refusé le salut <unclear/> à notre pavillon placé
+sur le fort d'<unclear>aumale</unclear>, et <add>qui</add> <unclear/> <add><unclear/></add> <del><unclear/></del> <add><unclear/></add> à
+l'égard des <del>affaires qui <unclear/> <unclear/> <unclear/> <unclear/></del>
+commandant du Fort et de la <del><unclear/></del> <add><unclear/></add> <unclear/>
+<add><unclear/></add> avec une impolitesse <unclear/>. <del><unclear/> <unclear/></del>
+Cette manifestation, de la part d'un <unclear/>
+américain, <del><unclear/></del> était d'autant plus <del><unclear/></del> <unclear/>
+que les <unclear/> <del><unclear/> <unclear/> <unclear/></del>
+de la même nation, <unclear/> au gabon
+</p>
+
+<note>
+84
+</note>
+
+<note>
+<unclear/> p y
+</note>
+
+<note>
+fr
+</note>
+
+<pb facs="20160613_164541.jpg"/>
+
+<p>
+<del><unclear/></del> <add><unclear/></add> toujours montrés <add><unclear/></add> opposés à l'établissement
+de la <unclear/> française au <del>gabon</del>, et
+qu'ils <del><unclear/></del> <unclear/> considérer la conduite du
+commandant du Boxer comme un <unclear>encouragment</unclear>
+à <del><unclear/></del> <unclear/> dont des menées <del>qui</del>
+ayant pour but d'empêcher le développement
+de notre influence et de <del><unclear/></del> nous <unclear/>
+<del><unclear/></del> <add>de grand</add> <unclear/>.
+</p>
+
+<p>
+Conformément à mes instructions <add>antérieur</add> Mr.
+le Lieutenant d'infanterie de Marine, <unclear/>
+commandant du fort d'aumale, et Mr. <supplied>le</supplied>
+lieutenant de <unclear/> Méguet, <supplied>commandant</supplied>
+<del>de la <unclear/> du gabon</del> <add>de la <unclear/></add> <unclear/> font formés à <del><unclear/></del> <add><unclear/></add>
+<add>la <unclear/> <add><unclear/></add></add> <del><unclear/></del> à <unclear/> le refus <del>de</del> <unclear/>
+<del><unclear/> <unclear/> <unclear/></del> et à déclarer que
+ce refus serait l'objet d'un rapport adressé
+à leurs <unclear>affet</unclear> respectifs. <del>Je leur fais <unclear/></del> <add>J'ai l'honneur de vous</add>
+<del>que <unclear/> leur <unclear/></del> <add><unclear/> qui <unclear/> <unclear/> qu'il ont</add>
+<del>que <unclear/> leur conduite.</del>
+<unclear/> à <unclear/> <unclear/> avec <del><unclear/> <unclear/></del> <supplied>l'affet</supplied>
+</p>
+
+<p>
+Mr <unclear/> de lar rogue <add><unclear/></add> <del><unclear/></del>
+dont la lettre <del>qu'il <unclear/> il par <unclear/> <unclear/></del> <add><del><unclear/></del> qui <unclear/> ce qui</add>
+<del><unclear/> Mr. <unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del> <add>lui a été <unclear/> le chef de</add>
+<del><unclear/></del> la mission américaine au Gabon <add><unclear/></add> a <unclear>declaré</unclear>
+que la commision américain a enjoint au
+</p>
+
+<ab>
+<supplied>Américain <add><unclear/></add> <unclear/> aux laquelle la</supplied>
+<add><unclear/> <unclear/></add> <unclear/> fait preuve, l'<unclear/>
+<unclear/> <unclear/> la plus
+<unclear/> modération <unclear/>
+<del><unclear/> <unclear/> <unclear/></del>
+<del><unclear/> <unclear/> <unclear/></del>
+<del><unclear/></del>
+<del><unclear/></del> <unclear/>
+<unclear/> à lui <unclear/>
+<unclear/> <unclear/>.
+</ab>
+
+<pb facs="20160613_164547.jpg"/>
+
+<p>
+croiseur de la division de ne le méler en rien
+des questions de droit, au sujet de l'occupation
+de plusieurs points de la côte d'afrique par
+la France, de n'y voir que des occupations
+de fait et de les respecter comme teller. "<del><unclear/></del>
+si ce fait <del><unclear/> dans cette déclaration</del>
+est <unclear/>, il est impossible que le gouverneur
+de Washington, après avoir donné de <unclear/>
+ordrer, ne soit pas disposé à blâmer <unclear/>
+<unclear/> par Mr. <unclear/>, et <unclear/> <unclear/>
+pas <add><unclear/></add> à vous prier de vouloir bien appeler <unclear/>
+attention sur ce point.
+</p>
+
+<p>
+<del>En conséquence j'ai l'honneur de vous adresser ce prie</del>
+<del>de la correspondance échangée par <unclear/></del>
+<del><unclear/> et <unclear/> avec le commandant</del>
+<del>du brick le Boxer.</del>
+
+<del>A.</del> A. h. C.
+</p>
+
+<note>
+<unclear>afh</unclear>
+</note>
+
+</div1>
+</body>
+</text>
+
+</TEI>

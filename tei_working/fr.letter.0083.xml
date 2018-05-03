@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160614_145453.jpg"/>
+
+<ab>
+Gouvernement
+du
+Sénégal et Dépendances.
+</ab>
+
+<ab>
+No 226.
+</ab>
+
+<ab>
+Direction
+des Colonies
+</ab>
+
+<ab>
+Bureau
+du régime politique
+et du Commerce
+</ab>
+
+<ab>
+Saint-Louis, le 1er Juillet 1842.
+</ab>
+
+<p>
+Monsieur le Ministre,
+
+Votre Excellence, par sa dépêche du 17 Août
+1841, No 253, a fait connaître à l'administation
+du Sénégal qu'il y avait lieu d'ajourner
+toute modification au tarif de navigation
+en ce qui concerne le droit de tonnage des
+batimens américains qui fréquentent le port
+de Gorée, jusqu'à ce que l'issue des
+délibérations du congès Américain à l'égard
+du tarif fut connue. X
+</p>
+
+<p>
+Aujourd'hui que le résultat de ces
+discussions est un fait accompli, je crois devoir
+reproduire à Votre Excellence les propositions
+de l'administration coloniale et demander
+à ce qu'il soit fait application aux batimens
+américains du droit d'ancrage de 5.f 25.e
+par tonneua que paient les navires francais
+venant du Sénégal dans les ports des
+Etats Unis. J'attendrai avec intérêt
+les communications ultérieures qu'il plaira
+à Votre Excellence de me faire sur ce
+sujet.
+
+Veuillez, Monsieur le Ministre,
+</p>
+
+<ab>
+Nouvelle proposition
+d'appliquer aux
+<unclear/> américains
+le droit d'ancrage
+de 5.f 25.e par tonneau
+que paient les navires
+francais venant du
+Sénégal dans les ports
+des Etats-Unis.
+</ab>
+
+<ab>
+1o
+</ab>
+
+<ab>
+<unclear/> M. le Ministre Secrétaire d'Etat de la Marine
+et des Colonies.
+</ab>
+
+<note>
+226
+26 aout 1842
+<unclear>20</unclear> <unclear/> <unclear/>
+</note>
+
+<note>
+62<unclear/>
+</note>
+
+<note>
+<unclear/> <unclear/> aux aff. <unclear/>
+par lettre du 148 1842
+</note>
+
+<note>
+<unclear/>
+M.22<unclear/>
+</note>
+
+<note>
+<unclear/> <unclear/> par <unclear/> <unclear/>
+<unclear/> <unclear/> <unclear/>
+<unclear/> et <unclear/> <unclear/>
+<unclear/>, ou il y a <unclear/>, <unclear/>
+<unclear/> <unclear/> aux aff.
+<unclear/>
+</note>
+
+<pb facs="20160614_145509.jpg"/>
+
+<p>
+agréez l'hommage de mon respect.
+Le Commissaire de marine
+Governeur P.S.
+<unclear/> <unclear/> <unclear/> <unclear/>. <!-- Signature -->
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

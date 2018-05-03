@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_162519.jpg"/>
+
+<ab>
+<unclear/> à indépendance
+<supplied>Liberia</supplied>
+</ab>
+
+<p>
+<del>Dans le courant au mois d'août 1849</del> Le
+colonie de Monrovia, tondée, à la côte occidentale
+d'afrique par une piété de l'Union américaine,
+pour servir de seconde patrie aux africains pris sur
+les négriers par les croiseurs américains et, en général
+à tous, les hommes de couleur des Etats-Unis, s'été
+déclaré indépendante de cette société et <unclear>s'été</unclear> <unclear/>
+au Etat <unclear/>, sous le nom de république de
+Liberia.
+</p>
+
+<p>
+<del>En même temps</del> Une constitution, notée, le 29 Juillet
+précédant, <unclear>pour</unclear> les représentants de la colones, a été
+<unclear/> au rigueur. <unclear>Une</unclear> vertu de cet côte fondamenal,
+la pouvoir exécutif de la nouvelle république doit
+être composé d'un Président et d'un Vice-président,
+<unclear/>, au suffrage universel, pour <unclear>deux ans</unclear>. Le pouvoir
+<unclear>législatif reside dans</unclear> deux <del><unclear/></del> <unclear>assemblées</unclear>, e sénat
+et la chambre des réprésentants.
+</p>
+
+<p>
+Dans une <unclear>premiére</unclear> <unclear/>, tenue à Monrovia
+<del><unclear>de</unclear></del> pendant les mois de Janvier et février 1848,
+la <unclear/> et les représentants ont <unclear>renduit</unclear> un certain
+nombre de <unclear>décrets. </unclear> <del><unclear>dont il qui laquelle</unclear> <unclear/> <unclear/></del> nous en <del><unclear>être</unclear></del> mention nous
+<del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del> <unclear>d'empre</unclear><del><unclear/></del>
+<del><unclear/></del>
+</p>
+
+<p>
+<unclear>Le 24 Juillet 1848</unclear> <unclear/> <unclear/> <unclear/>
+</p>
+
+<pb facs="20160613_162525.jpg"/>
+
+<p>
+<del><unclear>La</unclear> <unclear/></del> L'un, qui porte la date du <unclear>28 Janvier 1848</unclear>,
+décide que le commerce de toutes les nations <unclear/>
+traité <unclear>pour</unclear>le pid de la plus complète égalité, et
+jouira des mêmes privilèges et de la <unclear/> protection
+dans toute l'étendue du territoire de la république.
+néanmoins la république le réserve de modifier plus
+tard. <unclear>J'il y a</unclear> lieu, cette <unclear>disposition,</unclear> en <unclear/> des
+traités de commerce.
+</p>
+
+<p>
+L'autre décret, rendu à la date du 1er février. <unclear>contient</unclear>
+la description des limites du nouvel Etat. <unclear>Il y a</unclear>
+dit que le territoire de la république l'étend <unclear>sur toute</unclear>
+la ligne de la côte <unclear>comprise</unclear> entre le grand <unclear>Cap</unclear>
+monte, au nord ouest, et le <unclear>gránd lettre</unclear> au
+sud-est, en expectant toutefois quelquel point <unclear/>
+de peu d'importance.
+</p>
+
+<p>
+Le 2 Septembre 1847 le gouvernement de Liberia
+a notifié officiellment à M. <unclear>Chaigneau,</unclear> commandant
+la corvette de guerre française <unclear>bougainville,</unclear> en 
+station <unclear>fur</unclear> ce point, la déclaration d'indépendance
+<supplied>colonie</supplied>, <del> <unclear>de</unclear> <unclear/> </del> et <del>il</del> a adressé, <del><unclear>au</unclear></del> à cet officier, un exemplaire de
+la constitution  et une cartedu territoire de la
+république.
+</p>
+
+<p>
+En transmettant <del> <unclear/> <unclear/> </del>ces pièces au ministre
+de la marine et des colonies, Mr. <unclear>Montag</unclear> niés de la
+<unclear>Boque,</unclear> <unclear/> commandant de la division naval
+<unclear/> employée à la répression de la traite <unclear>des</unclear>
+<unclear/>, a fait connaître que , déjâ, le commodore
+</p>
+
+
+<pb facs="20160613_162533.jpg"/>
+
+<p>
+Hoham, chef de la station anglaise sur les
+côtes occidentales d'afrique, avait donné l'ordre
+à l'un <del><unclear/></del> des croiseurs britanniques de
+reconnaître la république de Liberia, et d'en
+saluer le pavillon. Le commodore <del> qui <unclear/></del>
+placé à la tête de la station des Etats-Unis, avait
+fait la même manifestation.
+</p>
+
+<p>
+Quant au commandant de la division française
+il <unclear>s'est tenu sur</unclear> la réserve et il a demandé les
+instructions du gouvernement.
+</p>
+
+<p>
+Il pourrait y avoir une difficulté à lever avant
+tout. Voci en quoi elle <unclear>conliste:</unclear> sur la carte <del><unclear/></del>
+<del>au <unclear>capitain</unclear> <unclear/> <unclear/></del> du territoire de la
+république qui a été <unclear/> au capitaine chaigneau,
+il y a trois points <unclear>parles</unclear> quels la France a des droits
+à faire voloir: Ce font: l'<unclear/> <unclear>des pêcheurs, fituée</unclear>
+<unclear>pèr</unclear> de grand <unclear>Baffa</unclear>; le grand Boutul et
+<unclear/>. Ces <unclear/> dernières en clares ne peuvent
+faire le sujet d'une contestation attendu que la
+gouvernement de Liberia reconnait qu'elles <supplied>appartiennent</supplied>
+à la France.# Mais la position de l'<unclear/> des <unclear><supplied>Pécheurs</supplied></unclear>
+<unclear>est</unclear> différente. Ce petit territoire <unclear>est sous</unclear> la domination
+du Chef Grand Eau, avec qui nous avons fait une
+traité, <del><unclear>et</unclear></del> qui le <unclear>considére</unclear> comme <unclear>soumis</unclear>  à la France,
+qui déclare ne pas vouloir accepter la <unclear>gouveraineté</unclear> <supplied>de</supplied>
+la république de Libreria. De son côté le <supplied>gouvernement</supplied>
+de cet Etat prétend que le territoire, occupé par <unclear>Grand</unclear>
+</p>
+
+<ab>
+marquera d'ailleurs que, parle décret du
+<unclear><supplied>prier</supplied></unclear>, cité plus haut, lequel <unclear>en</unclear> postérieur
+<unclear/> de la carte <unclear>remise</unclear> à Mr.
+<unclear><supplied>Chaigneau</supplied></unclear>, la frontière sud <unclear>Est</unclear> de Liberia
+<unclear/> placée au grande <unclear/>, et que
+<unclear/> <unclear/> eu <unclear/> de cette limite.
+</ab>
+
+<note>
+quand? où est-il?
+</note>
+
+<note>
+est entre les mains de Mr.
+</note>
+
+<note>
+en 1842
+</note>
+
+<pb facs="20160613_162546.jpg"/>
+
+<p>
+a été acheté en 1834 par la colonie de Monrovia, et m'a été perdu depuis <del><unclear/></del> en
+1836 que par la force des armes.
+</p>
+
+<p>
+La question <unclear>est de savoir</unclear> <unclear/> <unclear>est</unclear> de notre intérêt
+de maintenir nos droits sur <unclear>l'angle</unclear> des <unclear>Pecheurs.</unclear>
+Mr. Montagniès de la <unclear>Hoque</unclear> <unclear/> que ce point <unclear>est</unclear>
+avantageux, foit pour y former un dépôt de <unclear>charbon</unclear>
+<unclear>soit</unclear> pour y fonder une <unclear/> <unclear>Il a jointe que non</unclear>
+ne devons pas abandonner les points qui nous
+<unclear>appartienment</unclear> avant que les étrangers aient <unclear/>
+mêmes rénoncér aux établissements qu'ils <unclear/>
+<del><unclear/> <unclear/> <unclear/></del> sur le territoire de la
+république, enfin il croit qu'il <unclear/> important de <del><unclear/></del>
+<del><unclear/> <unclear/></del> garder ces <unclear>enclores</unclear> comme
+moyens d'engager le gouvernement de Liberia à
+traiter favorablement notre commerce.
+</p>
+
+<p>
+Mr le <unclear>Cape de vailleou Bouet Willamez, aux lumières</unclear>
+<unclear>spéciales</unclear> de qui le département de la marine a fait
+appel, <unclear>pense</unclear> que nos droits de <unclear>propriété</unclear> et de <unclear/>
+sur les trois points dés ignés plus haut, <unclear>tout</unclear> cetains
+<unclear>mois,</unclear> dans <unclear>son </unclear> opinion, au lieu de faire voloir
+rigoureusenebt nos droits auprès du gouvernement de
+Monrovia, peut-être <unclear>serait-il préférable</unclear> de
+ne pas le troubler dans l'action <unclear>civilisatrice qu'il</unclear>
+<unclear/> <unclear>sur</unclear> le littoral <unclear/> à <unclear>son autorité</unclear>.
+</p>
+
+<note>
+Je <unclear>suis</unclear> <unclear/> de
+<unclear/> à le <unclear/>
+<unclear>pour faire de</unclear> <unclear/> <unclear>en</unclear>
+ce qui <unclear/> <unclear/>
+de <unclear/>
+</note>
+
+<note>
+<unclear/> <unclear>nom le haité</unclear> <unclear/> <unclear/>
+<unclear/> <unclear>pour</unclear> <unclear/> <unclear>le doit d'occupation 2</unclear>
+Mr. Bouet <unclear>a promis</unclear> de le chercher et de nous le <unclear>remettre.</unclear>
+</note>
+
+<pb facs="20160613_162603.jpg"/>
+
+<ab>
+<unclear>Beau</unclear> <unclear/> <unclear/> <unclear>26</unclear>
+</ab>
+
+<ab>
+Au sujet de la déclaration d'indépendance
+de la république de Liberia.
+</ab>
+
+<ab>
+R.
+du citoyen
+</ab>
+
+<ab>
+Paris, le 13 <del>Juillet</del> Septembre 1848
+</ab>
+
+<ab>
+<del><unclear/></del> ministre des affaires étrangères
+</ab>
+
+<p>
+Citoyen ministre et cher Collègue,
+
+La colonie de Monrovia, fonée en Juin
+<unclear>1822</unclear>, à la côte occidentale d'Afrique, pas une
+<unclear>société</unclear> américain, pour servir d'<unclear/> aux
+les <unclear/> de couleur affranchis aux Etats-Unis,
+<unclear>d'été</unclear> déclarée indépendante de cette société, en
+août 1847, et <unclear>s'est</unclear> constituée en Etat souverain,
+sous le nom de république de Libéria.
+</p>
+
+<p>
+Le 2 Septembre suivant, le gouvernement
+de Libéria a notifié officiellement à M.Chaigne,
+commandant de la corvette de guerre française,
+<unclear>Bougainville,</unclear> en station <unclear>sur ce point,</unclear> l
+déclaration d'indépendance de la colonies; et
+il a <unclear>adressa au même</unclear> <unclear/> à cet officier un <unclear/> de la
+constitution votée, le 29 Juillet précédent, et une
+carte du territoire de la république.
+</p>
+
+<p>
+En transmettant, le 29 février 1848, ces <unclear>documents</unclear>
+au ministre de la marine et des colonies, le
+commandant <unclear>des</unclear> forces navales francaises <unclear>sur</unclear>
+</p>
+
+<note>
+fr.
+</note>
+
+<pb facs="20160613_162610.jpg"/>
+
+<p>
+la côte occidental d'Afrique à fait savoir que
+le commodore Hotham, au nom du gouvernement
+britannique, et l'officier <del>anglais</del> américain, placé
+à la tête de la station des Etats-Unis ont reconnu
+la république de Libéria et qu'ils ont donné
+l'ordre de'n saluer le pavillon.
+</p>
+
+<p>
+Mr. Montagniés de la Roque s'est abstenu
+de faire la même manifestation jusqu'à ce qu'il
+eût reçu les instructions du gouvernement.
+</p>
+
+<p>
+Mon avis est qu'il y a lieu de prescrire à son
+<unclear/> Mr. le cape. de vaisseau Boudin de
+procéder immédiatement à la reconnaissance de
+la nouvelle république. Mr. Montagniés de la
+Boque n'y a vu qu'une seule difficulté. Elle confliste
+en ce que le chef d'un village africain, enclavé
+dans les limites du territoire de la république, a
+conclu, en 1848, avec l'officier qui commandait
+la station française, un traité en vertu duquel
+ce chef se considére comme sujet de la France et
+déclare ne pas vouloir <del>se <unclear/></del> accepter les
+lois du gouvernement de Libéria.
+</p>
+
+<p>
+Je ne crois pas quel y ait <del><unclear/></del> des <unclear/> <del><unclear/></del>
+à faire au sujet de cet incident. Le gouvernement de Libéria
+remplit, à la côte d'afrique, une <unclear/> de
+civilisation qu'il est digne de la république française
+</p>
+
+<pb facs="20160613_162617.jpg"/>
+
+<p>
+d'encourager. En outre <del><unclear/></del> l'intérêt <del><unclear>sous commande</unclear></del> de notre commerce
+d'entrer, sans retard, en relations officielles avec
+cet état afin que les gouvernement d'angleterre
+et d'amérique <unclear>ne le fassant</unclear> point accorder, en
+notre absence, des privilèges commerciaux <unclear>que ne</unclear>
+<unclear>nous froient pas</unclear> également accordés. Enfin le souvenir des commerciau <del>qu</del> que <unclear/> ont <unclear/> <del>à la politique</del> a la côte
+<del>française</del> d'afrique les enclaves telles <del><unclear>que</unclear></del> qu'Albréda,
+<unclear>en Porterdick</unclear> <del><unclear>et</unclear></del>, doit, il me semble, nous éloigner
+de rien faire <del><unclear>puis pas</unclear> <unclear/></del> qui <unclear>puisse</unclear> nous attirer,
+<del><unclear>gratuitement</unclear></del> des difficultés du même guere.
+</p>
+
+<p>
+Je vous prie, citoyen ministre et cher collègue
+<del><unclear>des</unclear> <unclear/> <unclear/></del> de me faire <unclear/> votre avis sur
+la question. <unclear/> <unclear>penser,</unclear> comme moi, qu'il <del><unclear>est</unclear></del><unclear>y</unclear>
+<del>argent</del> ais lieu <del><unclear/> <unclear/></del> de faire reconnaitre la
+république de Libéria, <del><unclear/></del> <unclear>je</unclear> vous ferai obligé
+de vouloir bien <del><unclear/> <unclear/> <unclear/></del> <del><unclear>mal écrire</unclear></del> <unclear>m'<unclear/></unclear> le <unclear/> que vous
+<del>afin que je puisse donner, faut retard, les ordres</del> <unclear>generation-devoir prendre à ces mots le commandant</unclear>
+<del><unclear/></del> <unclear/> <unclear/> <unclear/> navale.
+
+Salut et fraternité
+<unclear/> <!-- Signature -->
+(ministre)
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_162343.jpg"/>
+
+<ab>
+<unclear>et M le</unclear> <unclear/>
+<del> <unclear/> </del> a fait connaître à la
+<unclear>regulation</unclear> les <unclear>bonnes dispositions</unclear>
+<del> <supplied>qu'il</supplied> <unclear/> autorisé à </del> que les
+,<unclear>fonctions</unclear> lui commandant de
+<unclear/> a la <unclear>République naissante</unclear>.
+</ab>
+
+<ab>
+note
+pour le Moniteur.
+(partie non aff.)
+</ab>
+
+<p>
+<unclear>Me</unclear> Lettre ou M. Le Capitaine de
+vaisseau <unclear>Boüet-Willaumer</unclear>, Commandant
+la <del>di</del>division navale du côte occidentale d'afrique
+adressée a M. Le Ministre de la
+Marine et <unclear>des</unclear> Colonies, rend compte du
+la mission que cette officier a <unclear/>
+au Cap Mesurade avec <unclear>deux</unclear> de
+<unclear/> <unclear/> <unclear>Sous ses evaser</unclear>,
+pour reconnaitre officiellement au
+nom <unclear>de</unclear> la France La République
+du Liberia. Ce nouvel état avait
+déjâ été reconnu <unclear>par</unclear> L'<unclear/>
+<unclear>et les</unclear> Etats-Unis, et <unclear>dans</unclear> un récent
+<unclear/> qu'il avat fait au Europe
+Son <unclear>Président</unclear> avait demandé <unclear>qu'il</unclear>
+fût également <del> <unclear>reconnu</unclear> </del> <unclear/> <unclear>par la France</unclear> au
+<del>Le pavillon</del> <unclear/> <unclear/> <unclear/> de Liberia a été
+Salué <unclear>de</unclear> 21 <unclear/> de <unclear>canon</unclear> <unclear>par</unclear>
+la frigate la <unclear>Pénélafoe sous</unclear> l'état-major <!-- 'l'etat-major' is hyphenated and broken up between l'etat-' and 'major' -->
+ainsi que celui du <unclear>Caïman</unclear>
+<unclear>ont</unclear> été <unclear/> <del>à une <unclear/> que</del>
+par le Président <unclear>Roberts</unclear> à <unclear>mon</unclear>
+bouquet auquel <unclear>aux pris part le</unclear>
+officier de la <unclear>milieu libérienne</unclear>
+les <unclear/> <unclear/> <unclear/> y <unclear>autorité</unclear> <unclear/>
+<del><unclear/></del> <supplied>l'honneur</supplied> de la <unclear/> <unclear/> <unclear/> <!-- This part of the page is in really bad shape and tattered -->
+</p>
+
+<note>
+<unclear>fr.</unclear>
+</note>
+
+<note>
+<unclear>v</unclear>
+</note>
+
+<pb facs="20160613_162352.jpg"/>
+
+<ab>
+Rég. p. L <unclear>Comm.</unclear>
+</ab>
+
+<ab>
+Reconnaissance de la République
+Liberia au nom de la
+France
+</ab>
+
+<ab>
+Paris, Le 27    Juin <unclear>1849</unclear>
+</ab>
+
+<ab>
+Le Mini. à M. Le Min. des aff. Etrang.
+</ab>
+
+<ab>
+Mons. Le <unclear>Min.</unclear> <unclear/> Coll.
+</ab>
+
+<p>
+J'ai l'honneur de <unclear>me</unclear> <unclear/>
+copée d'une lettre du 26 av. <unclear/>
+par laquelle le Commandant de Notre
+division navale des Côtes Occid. d'Afrique
+me rend Compte de la <unclear>mission</unclear>
+qu'il a <unclear>rempolée</unclear> au <unclear>Cap</unclear> <unclear/>
+pour <unclear/> a la reconnaissance
+officielle de la Rép. de Liberia
+conformément à<del> <unclear/> </del> <unclear/>
+<unclear>concertéz</unclear> autre <unclear/> <unclear/> <unclear>Dépots</unclear>.
+</p>
+
+<p>
+<unclear>Me verrez</unclear> que cet acte <del><unclear>cet</unclear></del>
+<unclear>f'ut accompli dans</unclear> <unclear/> <unclear/> qui ne <unclear>laissiez</unclear>
+rien à <unclear>de</unclear>  <unclear/>, et que M. <unclear>Bouet</unclear>
+<unclear>Willaumer</unclear> <del> <unclear>rend</unclear> <unclear/></del>  au <unclear/> <unclear/>
+les <unclear/> <unclear/> d'une <unclear>expédition</unclear>
+que les <unclear>Libériens aux autreprise de</unclear>
+<unclear/> avec <unclear>les marines</unclear> pour la
+<unclear/> des <unclear/> des <unclear>tracite</unclear>
+<unclear>etablié par les territoré</unclear> de <del>la</del> la <unclear/> Républi.
+cette <unclear>expedition</unclear> avait été <unclear/>
+<unclear/> <unclear/> le <unclear/> des aff.
+etrang. et celui de la Marine.
+
+<unclear/> <!-- Signature -->
+</p> 
+
+<note>
+<unclear>Br</unclear>
+<unclear>fr.</unclear>
+</note>
+
+</div1>
+</body>
+</text>
+
+</TEI>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_120807.jpg"/>
+
+<ab>
+Ile de la Réunion
+</ab>
+
+<ab>
+Gouvernement
+</ab>
+
+<ab>
+CABINET
+DU
+GOUVERNEUR
+</ab>
+
+<ab>
+Ministère
+DE LA
+MARINE ET DES COLONIES
+</ab>
+
+<ab>
+4ème - Direction
+Colonies.
+</ab>
+
+<ab>
+1er Bureau
+</ab>
+
+<ab>
+Au sujet de Mr. May
+proposé par le Consul
+des Etats-Unis à Marine
+pour remplir à la Réunion
+les fonctions d'agent
+Consulaire.
+</ab>
+
+<ab>
+Saint Denis, le 20 Avril 1876
+</ab>
+
+<p>
+Monsieur le Ministre,
+
+J'ai l'honneur d'accuser
+réception à Votre Excellence de sa dépêche
+du 21 Juin dernier confirmant la
+décision par laquelle j'avais refusé à
+Mr. Georges Jenkins May, l'autorisation <!-- 'autorisation' is hyphenated between 'autorisa-' and 'tion' -->
+provisoire d'exercer les fonctions
+d'Agent Consulaire des Etats-Unis
+à la Réunion.
+</p>
+
+<p>
+Votre Excellence me fait l'honneur
+de me demander en même temps
+des renseignements sur M. May,
+pour le cas où son Gouvernement
+désirerait
+</p>
+
+<ab>
+A Son Excellence le Ministre de la Marine et des Colonies.
+</ab>
+
+<pb facs="20160613_120816.jpg"/>
+
+<p>
+désirerait l'accréditer. J'ai eu
+déjà occasion de transmettre ci
+Votre Excellence, par ma lettre
+confidentielle du 1er Avril, ceux
+qui m'étaient parvenus et qui
+étaient loin d'être favorables. Mr.
+le Consul de France à Maurice
+m'en a confirmé, depuis la substance,
+mais sans me donner de détails.
+Il serait certainement plus explicite
+envers le Département des Affaires
+étrangères, s'il lui en était écrit
+par ce Département.
+</p>
+
+<p>
+Quoiqu'il en soit, je puis
+signaler à Votre Excellence des faits
+qui se sont passés à St. Denis et
+qui prouvent combien peu Mr. May
+mérite
+</p>
+
+<pb facs="20160613_120821.jpg"/>
+
+<p>
+mérite la considération de l'autorité
+tout d'abord, il a mis une certaine
+ostentation à braver le refus d'autorisation <!-- 'autorisation' is hyphenated between 'au-' and 'torisation' -->
+que je lui avais notifié
+et j'ai du le lui rappeler officiellement
+avec la confiance que cette fois, il en
+tiendrait compte. Je m'abusais car,
+malgré ces refus référés, il a fait
+deux fois acte publie de Consul,
+en requérant la force publique
+pour arrêter et faire emprisonner
+un matelot d'origine Anglaise
+embarqué sur un navire Américain,
+et qui était à l'état de désertion-
+Mis immédiatement en liberté par
+mes ordres, ce maselot, arrêté de
+nouveau, a été sur la réquisition
+de Mr. May affirmant à la Gendarmerie
+Son
+</p>
+
+<pb facs="20160613_120833.jpg"/>
+
+<p>
+son titre de Consul Américain,
+reconduit de vive force à son bord.
+</p>
+
+<p>
+Le Consul de Sa Majeste
+Britannique, informé de ce fait, doit
+en saisir son Gouvernement.
+</p>
+
+<p>
+Quant à l'administration
+locale, elle a déféré, sans délai, M. May
+à la justice. Une instruction judiciare
+a été commencée et il en sera rendu
+compte au Département par un rapport
+spécial. Dès à présent, je n'hésite pas à
+dire que, par ces faits même, M.
+May ne saurait être accrédité comme
+agent Consulaire à la Réunion.
+</p>
+
+<p>
+Je suis avec le plus profond respect,
+Monsieur le Ministre,
+de Votre Excellence
+Le très-ob´íssant Serviteur.
+Le Gouverneur.
+S De <unclear/> <!-- Signature -->
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

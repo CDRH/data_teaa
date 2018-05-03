@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160614_144736.jpg"/>
+
+<ab>
+Gouvernement
+du Sénégal
+et Dépéndances
+</ab>
+
+<ab>
+ No 155
+</ab>
+
+<ab>
+Direction
+des Colonies
+</ab>
+
+<ab>
+Bureau
+<supplied>du</supplied> régime politique
+du commerce.
+</ab>
+
+<ab>
+<supplied>relativement</supplied> aux droits
+<supplied>de</supplied> tonnage à imposer
+<supplied>aux</supplied> navires Américains,
+<supplied>et</supplied> Gorée.
+</ab>
+
+<ab>
+Cependan il faudrait
+<unclear/> <unclear>si</unclear> <unclear/> <unclear>saurait</unclear>
+<unclear/> <unclear/> <unclear/>
+<unclear>droit du S.f.</unclear>
+<unclear/> <unclear/> 1840.
+</ab>
+
+<ab>
+C'en ce que <unclear/>
+<unclear>pour</unclear> déjà <unclear>desaccordé</unclear>,
+le gouvernement
+<unclear/> <unclear/> <unclear/> pour
+<unclear/> <unclear>l'admission</unclear>
+<unclear>navire américain</unclear>
+<unclear/> ce qui
+<unclear/> <unclear/> à <unclear/>.
+</ab>
+
+<ab>
+Saint Louis, le 20 Mai 1840
+</ab>
+
+<p>
+Monsieur le Ministère,
+
+Après <unclear>avais</unclear> pris l'opinion des comités de commerce
+de <unclear/> <unclear/> et de Gorée, j'ai soumis au conseil la question <unclear>posée</unclear>
+pas votre dépêche du 11 <unclear>x</unclear> 1838 <unclear>110</unclear> 231. Les comités, <unclear>et la</unclear>
+majorité du conseil ont été de l'avis d'<unclear/> de réciprocité envers
+les Américains, et de porter à un <unclear>dollar</unclear> par tonneau le droit
+d'average à percevoir sur leurs navires. Cette opinion n'est pas
+la mienne, et voici les motifs sur les quels elle se case.
+</p>
+
+<p>
+Ce n'est pas dans l'intérêt du <unclear>trésor</unclear> que le Gouvernement
+Américain a frappé du droit d'un dollar par tonneau les navires
+français venant du Sénégal. Il en reçoivent si peu de cette
+provenance, que cette augmentation de recette ne peut être sensible.
+Les Américains contrariés de ce que nous les repoussons de la
+Sénégambie, <unclear>ont</unclear> voulu <unclear>user</unclear> de repressailles autant qu'ils le
+pouvaientl ils ont pensé que pour nous soustraire à un droit
+onéreux, nous leur ferions quelques concession. Le gouvernement
+Américain ne <unclear>réduira</unclear> pas son droit d'ancrage, qui on ne s'y
+attende pas. Les mesures injustes froissent trop la raison pour
+qu'elles ne soient pas d'abord mûrement refléchies.
+</p>
+
+<p>
+Si nous portons de un franc, à un dollar le droit d'ancrage
+à Gorée, n'est il pas à crandre que les Américains n'augmentent
+encore celui dont ils ont frappé nos navires: <unclear>en autre</unclear>, les navires de
+l'Union qui ne relâchent à Gorée que <unclear>pour y</unclear> laisser une faible
+partie
+</p>
+
+<ab>
+A Son Excellence le Ministre Secrétaire d'Etat
+de la Marine et des Colonies
+</ab>
+
+<note>
+Colonies
+<unclear/>
+<unclear/> <unclear>1840</unclear>
+</note>
+
+<note>
+<unclear>N. 155</unclear>
+<unclear>écrit au </unclear> <unclear/> <unclear/> des
+affaires Etrangères <unclear/> <unclear/>
+<unclear/> <unclear/> le <unclear/> 1840
+<unclear/> <unclear/> le 2 Juillet 1841
+</note>
+
+<pb facs="20160614_144805.jpg"/>
+
+<p>
+partie de <unclear>leur</unclear> cargaison, assurance <unclear>vraisemblablement</unclear> <unclear/> <unclear>soumis si</unclear>
+nous <unclear>restons</unclear> fidèles au principe de la réciprocité <unclear>aussi</unclear> la population
+<unclear>aura</unclear> une nouvelle porte à ajouter à toutes cette qu'elle a déjà
+faites.
+</p>
+
+<p>
+Je suis avec <unclear>respect</unclear>
+
+Monsieur le Ministre
+
+<unclear>Au</unclear> Votre Excellence
+
+le très <unclear/> <unclear/> <unclear/> <unclear/> <unclear/>.
+Le <unclear/> <unclear/> <unclear/>
+<unclear>Gouverneur</unclear>
+<unclear/>
+</p>
+
+<note>
+<unclear>Communication de</unclear>
+<unclear/> <unclear>aurait faire</unclear>
+<unclear>alors ces</unclear>
+<supplied><unclear>Considérations</unclear></supplied> si
+<unclear/> <unclear>avait le point</unclear>
+qui leur en <unclear>dormi</unclear> ici
+</note>
+
+</div1>
+</body>
+</text>
+
+</TEI>

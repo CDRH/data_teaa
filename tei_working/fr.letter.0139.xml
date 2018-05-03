@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_112457.jpg"/>
+
+<ab>
+<unclear/>
+<unclear/> <unclear/> <unclear/>
+<unclear/> <unclear/>
+<unclear/>
+</ab>
+
+<ab>
+<unclear/>
+<unclear/> <unclear/>
+<unclear/>
+</ab>
+
+<ab>
+<unclear/>
+<unclear/> <unclear/> <unclear/>
+<unclear/> <unclear/>
+<unclear/>
+</ab>
+
+<ab>
+<unclear/> <unclear/>
+<unclear/> <unclear/> <unclear/> <unclear/>
+<unclear/> <unclear/> <unclear/> <unclear/>
+<unclear/> <unclear/>
+<unclear/>
+</ab>
+
+<ab>
+<unclear/> En <unclear/> le 12 Novembre 1853
+</ab>
+
+<p>
+Monsieur le Ministre,
+
+<unclear>Containement</unclear> à la dépêche <unclear/> 23 du 21 Juillet que
+Votre Excellence un fact l'<unclear>heurreur</unclear> de n'adresser à <unclear>lettres</unclear> derechercher les
+<unclear>relatives que</unclear> <unclear/> <unclear/> M le Capitaine Lynch du John-Adam's de
+la Marine Américaine <unclear>charges</unclear> d'une exploration dans le Sudde Libéria,
+j'ai <unclear/> <unclear/> mission a <unclear/> Capitaine du brig le Messager de
+<unclear/> des <unclear>informations</unclear> sur les recherches du Capitaine Lynch que
+<unclear/> eu location de <unclear/> déjà plusieurs <unclear/> à la côte, <unclear/> <unclear/>
+<unclear/> <unclear/> le <unclear/> <unclear/> possible.
+</p>
+
+<p>
+J'ai <unclear/> il y a quelques <unclear/>, à Sierra Leone, de m. <unclear>Tailor</unclear>
+<unclear>de la Américain</unclear>, que cet affaires <unclear>Américains</unclear> <unclear/> en Amérique aprés
+<unclear/> était <unclear/> prochainement, <unclear/> un bâtiment à
+<unclear/> <unclear/> <unclear/> qu'il n'était <unclear/> encore fixé sur le <unclear/>
+<unclear/> pour <unclear/> <unclear/> qu'il semblaît pencher pouvent
+<unclear/> <unclear/> la Sud <unclear/> <unclear/>, le Niger ou le <unclear/> Calebar.
+</p>
+
+<p>
+<unclear/> <unclear/> certain que le véritable <unclear/> qui pousse le Gouvernement <!-- 'Gouvernement' is hyphenated between 'Gouver-' and '-nement' -->
+et les Sociétés Religieuses d'Amérique <unclear/> une nouvelle
+et <unclear/>, est <unclear/> <unclear/> de progrés que <unclear/> la République
+<unclear/> <unclear/> <unclear/> <unclear/> <unclear/> un peu plus, <unclear/> saurait protéger
+d'une <unclear/> <unclear/> le commerce étranger sur l'<unclear/> étendue decôtes
+<unclear/> <unclear/> <unclear/> et en <unclear/> gêne le commerce <unclear/> les
+<unclear/> <unclear/> des difficultés <unclear/> <unclear/> Le Gouvernement Américain
+<unclear/> <unclear/> <unclear/> <unclear/> à l'<unclear/> <unclear/> à Libéria; il les
+enverrais
+</p>
+
+<ab>
+<unclear/> <unclear/> Monsieur le Ministre Secrétaire d'Etat
+<unclear/> de la Marine et des Colonies.    Paris.
+</ab>
+
+<note>
+<unclear/> <unclear/> <unclear/>
+</note>
+
+<note>
+<unclear/> <unclear/>   <unclear/>
+</note>
+
+<note>
+Rép: <unclear/> 1854.
+</note>
+
+<note>
+<unclear/> <unclear/>
+<unclear/> <unclear/> <unclear/>
+<unclear/> <unclear/> <unclear/> <unclear/>
+<unclear/> <unclear/> <unclear/>
+<unclear/> <unclear/> <unclear/>
+<unclear/> <unclear/> <unclear/>
+<unclear/> le
+<unclear/> <unclear/>
+</note>
+
+<note>
+<unclear/>
+<unclear/> <unclear/> <unclear/>
+<unclear/> <unclear/> <unclear/>
+<unclear/>
+</note>
+
+<pb facs="20160613_112515.jpg"/>
+
+<p>
+enverrais dans le nouvel établissement qui renderant complètement
+placé sous la protection Américaine.
+</p>
+
+<p>
+J'aurai l'honneur de detenir Votre Excellence aucourant
+de tout ce qui pourra parvenir à ma connaissance sur anoncer
+projet de colonisation dans l'exécution une Semble assez difficile.
+</p>
+
+<p>
+Veuillez bien agréer, Monsieur le Ministre, l'assurance
+de mon profond respect etde mon entier dévouement.
+</p>
+
+<p>
+Le Chef de Division Commandant la Station
+des Côtes Occidentales d'Afrique.
+A Baudrin. <!-- Signature -->
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note>
+American quotation marks used in place of angle quotation marks
+</note>
+</notesStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160614_144053.jpg"/>
+
+<ab>
+Traduction
+</ab>
+
+<ab>
+Département d'Etat
+<unclear/> <unclear/> <unclear/> <unclear>1838</unclear>
+</ab>
+
+<p>
+<unclear>Monsieur,</unclear>
+
+J'ai l'honneur d'accuser la reception de la
+note de M <unclear/> date du <unclear/> de ce <unclear/> lettre
+note était <unclear>accompagnée</unclear> de document qui <unclear>mentrait</unclear> que
+les bâtiments américaines <unclear>sont</unclear> <unclear/> <unclear/> la <unclear>autrefois de</unclear>
+<unclear/> sur un pied qui <unclear>devrait accuser</unclear>, en <unclear/> de
+principe de réciprocité, aux <unclear/> français,
+venant de cette colonie les privilèges accordé <unclear>par</unclear>
+l'acte du <unclear>Congrès</unclear>, du 9 mai <unclear>1838</unclear>, aux <unclear>excercises</unclear> français
+venant de la Martinique et de la Guadeloupe. Mr
+<unclear>Fontain demandait, on</unclear> conséquence,<unclear>l'adaption des</unclear>
+mesures nécessaires pour établier, dans les portes
+américans, l'égalité de traitement au faveur des
+bâtiments français, venant de cette Colonies, et pour
+restituer au <unclear>brick Charles</unclear> les <unclear>droite</unclear> <unclear/>
+prélevér sur ce navire par le <unclear>collection du</unclear> <unclear/>
+de <unclear/>.
+</p>
+
+<p>
+Le Présudent à qui j'ai communiqué la lettre de
+Mr. <unclear>Fontain est</unclear> disposé maintenant, <unclear>connue il l'était</unclear>
+</p>
+
+<ab>
+Monsieur <unclear>Alphonse Sageat,</unclear> chargé d'affaire de France.
+</ab>
+
+<note>
+<unclear/> pour <unclear/>
+fr.
+</note>
+
+<note>
+Etat. Unis <unclear>Relation de</unclear> <unclear/>
+<unclear/> <unclear/> <unclear/>
+</note>
+
+<pb facs="20160614_144108.jpg"/>
+
+<p>
+à l'époque de notre première correspondance à ce
+sujet, dappliquer, dans la plus grande extension,
+le principe de réciprocité qui forme une des bases
+de la politique commericale des Etats-Unisl mois,
+comme l'application de ce principe, au de la des limites
+prescriter par la Convention de 1822 et l'acte du
+Congrès auquel Mr. Pontoir se réfère, ne se trouve
+par comprise dans les attrivutions que lui confère
+la législation existante il m'a chargé de vous dire
+qu'il s'empressera de profiter de la première occasion,
+après la réunion du Congrès, pour présenter à cette
+assemblée la note de Mr. Fontoir, et pour lui demander
+de la mettre en mesure par l'adoption de toute disposition
+législative qui sera nécessaire à cet effet, de satisfaire
+au desir de votre gouvernement.
+</p>
+
+<p>
+En ce qui concerne le remboursement des droits
+différentiels prélevér sur le brik Charles, comme il
+résulte de la décision de la Trésorerie, qui a, déjà, été
+communiquée à votre légation, que cet impôt a été
+perçu en vertu de la loi, le Président ne se croirait
+par autorisé à demander au Congrès les fonds nécessaires <!-- 'nécesessaires' is hyphenated and split between 'néces-' and '-saires'. -->
+pour opérer ce remboursement.
+</p>
+
+<p>
+Dans une autre partie de sa lettre, Mr. Pontoir
+</p>
+
+<note>
+<supplied>Lequel</supplied>
+</note>
+
+<pb facs="20160614_144115.jpg"/>
+
+<p>
+réclame, au nom de son gouvernement et un vertu du principe
+de réciprocité, la jouissance son faveur des bâtiments français,
+venant du Sénégal, des avantages assurés par l'acte de 1828,
+à ceux venant de la Martinique et de la Guadeloupe, et fonde
+sa réclamation sur le fait que les bâtiments américains
+qui entrent dans le Port de Gorée sont assimilée par le
+paiement d'un franc par tonneau aux bâtiments français,
+venant des pays étrangers; et il m'annonce <unclear/> <unclear/> d'obtenir
+cet avantage, votre gouvernement serait disposé à abolir les 
+droits différentiels prélevér sur les <unclear/> <unclear>importées</unclear>
+par <unclear>bâtimens</unclear> américains, et <unclear>déposérs</unclear> dans <unclear/> de Goree.
+</p>
+
+<p>
+À cette proposition, plusieurs objection de <unclear>présenteraient</unclear>,
+après même la révocation des droits ci-dessus D'abord,
+l'admission des navires américains serait limitée <unclear>en port</unclear>
+de Gorée, tandis que les <unclear>bâtimens</unclear> français venant de ce
+<unclear>Port,</unclear> ou de tout autre point de la Colonie seraient indistinctement <!-- 'indistinctement' is hyphenated and split between 'indis-' and '-tinctement'. -->
+<unclear>admis</unclear> aux Etats-Unis. Ensuite, en examinant
+le résumé imprimé qui accompagne la lettre de Mr.
+<unclear>Pontoir,</unclear> il parait, par les numeros 8 et 9 des "dispositions <!-- American quotation marks (" ") are used in place of French angle quotation marks -->
+générales" que l'importation de certaine produite des
+Etats-Unis, et l'exportation de certains autres, par
+bâtiment américains, sont <unclear/>, et, par la table
+d'impôte, que des marchandises importées <unclear>sous pavillon</unclear>
+</p>
+
+<note>
+<unclear/>
+<unclear/>
+</note>
+
+<pb facs="20160614_144126.jpg"/>
+
+<p>
+américain sont sujettes à des droits, quadrupler de
+de ceux prélevér sur les mêmes marchandiser importées
+par des Bâtimens français. Si cette interpretation du
+tarif est exacte, je ne vois pas comment Mr. Pontoin
+peut invoquer le principe de réciprocité pour appuyer
+la demande de votre Gouvernement. Le Président ne
+se sent pas autorisé dès lors, à la soumettre à la
+considération du Congrès. Mais il m'a donné ordre
+de vous assurer que lorsque votre Gouvernement jugera
+convenable de mettre le commerce entre les Etats Unis
+et les Ports du Sénégal sur un pied de parfaite
+réciprocité, il se fera un plaisir de recommander au
+Congrès l'adoption de mesures correspondantes, de
+la part des Etats-Unis.
+</p>
+
+<p>
+Je saisis cette occasion.
+Signé John Forsyth
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

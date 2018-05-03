@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_105442.jpg"/>
+
+<ab>
+MINISTÉRE
+DES
+AFFAIRES ÉTRANGÉRES
+</ab>
+
+<ab>
+DIRECTION POLITIQUE
+</ab>
+
+<ab>
+Protectorats
+</ab>
+
+<ab>
+Mission de M. le D.
+Bayol à la Côte
+occidentale d'afrique
+</ab>
+
+<ab>
+RÈPUBLIQUE FRANÇAISE
+</ab>
+
+<ab>
+Paris, le 14 Août 1889
+</ab>
+
+<p>
+Monsieur le Sous Secrétaire
+d'Etat et Cher Collègue,
+
+Pas votre lettre du 31 Juillet dernier,
+vous avez bien voulu me faire savoir
+que vous étiez complètement d'accord avec
+moi pour reconnaître que les frais de la
+nouvelle mission dont vous vous proposez
+de charger M. le D. Bayol à la Côte 
+occidentale d'Afrique, devaient, eu
+principe, incomber à votre <supplied>Administration</supplied>
+mais que vous vous trouviez malheureusement <!-- 'malheureusement was originally hyphenated and split between 'malheureu' and 'sement' -->
+dans l'impossibilité de faire face
+</p>
+
+<ab>
+Monsieur Etienne,
+Sous Secrétaire d'Etat pour les Colonies
+</ab>
+
+<note>
+<unclear/> <!-- There is writing across the page in what appears to be pencil that is illegible. I'm assuming this writing is from an archivist. -->
+<unclear/>
+<unclear/>
+<unclear/>
+</note>
+
+<pb facs="20160613_105457.jpg"/>
+
+<p>
+à cette dépense au moyen des cuélili
+dont vous disposez. En conséquence,
+vous exprimiez de nouveau l'espoir
+qu'il me serait possible de prélave
+sur les fonds spéciaux du Ministère
+des Affaires Etrangéres, la donne
+de 20,000 frs nécesaire au succès de
+la mission dont il s'agit, eu ajoutant
+que vous deviez, dans ce cas, désposé
+à prendu l'engagement de rembourser
+ultérieurement cette avance à mon
+Département.
+</p>
+
+<p>
+Je m'impress de vous informer que
+je ne puis, à mon vif regret, que
+maintenir les conclusions de la lettre
+que j'ai eu l'honneur de vous adresser,
+à ce sujet, le 28 Juillet dernier. Les
+fonds spéciaux dont je dispose font
+</p>
+
+<pb facs="20160613_105501.jpg"/>
+
+<p>
+à peine suffix au pour les objets
+aux quels ils dont affectés et je ne
+pourrais eu distraire me somme
+aussi importante faces courir le
+risque de compromettre des intérêts
+que je suis plus particulièrement
+tenu de sauvegarder ./.
+
+Agréez, Monsieur le Sous Secrétaire
+d'Etat et Cher Collègue, les assurances
+de ma haut Considération
+<unclear>Eaf????</unclear> <!-- Signature-->
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

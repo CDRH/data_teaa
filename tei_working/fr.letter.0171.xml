@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160615_121319.jpg"/>
+
+<ab>
+<supplied>1er</supplied> bureau
+</ab>
+
+<ab>
+Le Sous Secret. d'État
+à M. le Ministre
+des Affaires Etrangères.
+</ab>
+
+<ab>
+Paris, le 9 8bre 1893.
+Af. Et. 290.
+</ab>
+
+<ab>
+<supplied>Des affaires</supplied> de Sierra Leone
+<supplied>Mission</supplied> américaine protestante
+<supplied>au</supplied> Soudan
+</ab>
+
+<p>
+Monsieur le Ministre,
+à la date du 14 septembre
+courant, vous avez bien voulez
+me donner connaissance d'un
+rapport de M. May, gérant
+du vice consulat de France et
+Sierra-Leone, vous signalant,
+comme pouvant <unclear/> votre
+influence dans ces régions,
+l'établissement d'une mission
+américaine qui se proposerant
+d'étendre le champ de <unclear/>
+action jusque vers vos
+possessions du Soudan.
+</p>
+
+<p>
+J'ai lu avec intérêt
+les penseignements que M. May
+vous donnait dans son rapport sur
+l'organisation et le but de
+cette mission. Mais je ne
+saurais <del>donc</del> partager les
+espérances que ce fonctionnaire
+me semble se bâter un peu
+trop de fonder sur la présence
+dans le Soudan des missionaire
+américains. Il ne faut pas
+oublier que, dans nos colonies
+surtout, les représentants étrangers
+de sectes religieuses ont <unclear/>
+sous couleur d'apostolat <unclear>évangelique</unclear>,
+travaillé au développement d'<unclear/>
+</p>
+
+<ab>
+<unclear/> COLONIES
+1er BUREAU
+30 SEP.93
+</ab>
+
+<note>
+<unclear/>
+</note>
+
+<pb facs="20160615_121333.jpg"/>
+
+<p>
+influence purement politique. Je
+reconnais que, dans la
+circonstance, il s'agit d'une
+mission dont les membres sont
+citoyens des Etats-Unis d'Amérique
+et que le gouvernement de
+Washington ne paraît poursuivre
+en Afrique aucun projet d'annexion.
+Nous nous trouvons néanmoins en
+présence de missionnaires protestants,
+qui seront amenés à chercher un
+appui, de préférence aux
+fonctionnaires français, près des
+représenants d'une notion dont
+la population en grande majorité
+appartient elle-même à le
+religion réformée, c'est-à-dire
+auprès des autorités britannique.
+C'est là pour l'American
+"Soudan Mission" une
+tendance, sans doute assez
+naturelle, que nous
+aurons, je le crains, l'occasion
+de voir bientôt s'affirme.
+</p>
+
+<p>
+Aussi ne parait-il
+prendent, avant de favoriser
+<del>comme le propse M. Alby</del> dans
+le territoire <del>bienui</del> français la
+missionnaire américains, ainsi
+que le propose M. Alby, d'attendre
+qu'il ait été possible d'apprécier
+</p>
+
+<pb facs="20160615_121354.jpg"/>
+
+<p>
+la direction qu'ils reçoivent, l'espoir
+qui <unclear>la navire</unclear>. Jusque-là, le
+plus <unclear/> pour nous ne
+paraît <unclear/> de conserver vis-à-vis
+d'aux une stricte neutralité,
+nous <unclear/> de <unclear/> assurer
+notre <unclear/> le <unclear/> où nous
+serons certains qu'il ne
+songent nullement à
+former contre notre domination
+l'assistance et la faveur des
+fonctionnaires <unclear>français</unclear>.
+</p>
+
+<p>
+Je ne puis que vous
+<unclear/> le <unclear/>, Monsieur
+le Ministre, si vous partagez
+mon sentiment, de faire
+port de ces observations à
+M. Alby.
+A R C
+</p>
+
+<note>
+<unclear/>
+</note>
+
+</div1>
+</body>
+</text>
+
+</TEI>

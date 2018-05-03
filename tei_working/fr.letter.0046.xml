@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160614_112251.jpg"/>
+
+<ab>
+copie
+</ab>
+
+<ab>
+Legation of the United States
+Paris May 22nd 1878.
+</ab>
+
+<p>
+On the 15th November 1876
+M. Washburne notified the Duke
+Decazes that the Commercial Agency
+of the United States at Gaboon, Africa
+had been abolished, Congress having <!-- 'having' is hyphenated and split across two lines between 'hav-' and 'ing' -->
+made no appropriation for
+the salary of the Agent. Subsquently
+the Agency was reestablished,
+the former incumbent, M Albert
+Bushnell, having asked to be
+appointed without salary. Jobe
+advises me that March 4th 1877,
+he received a depatch so
+informing him, and that his
+Commission would be duy
+forwarded; that he communicated <!-- 'communicated' is hyphenated and splot between 'commu-' and 'cated'  -->
+</p>
+
+<pb facs="20160614_112304.jpg"/>
+
+<p>
+this despatch at the
+French Commandant at Gabon
+and with his permission resumed
+the duties of Commercial Agent;
+that sometime afterward, he
+received his Commission, directly
+from the Department of State.
+With a despatch stating that as, as
+he had already been recognized
+and had an exequatur from
+the French Government, it was
+deemed unnecessary to ask for
+another. By a communication
+now received from the
+Commercial Agency at Gaboon.
+I learn that the Admiral
+Commandant has notified the
+Vice-Commercial Agent. M.
+Murphy that the Ministry
+of Foreign Affairs at Paris having
+received no notice from the
+Legation of the United States
+</p>
+
+<pb facs="20160614_112314.jpg"/>
+
+<p>
+of the re-establisment of that
+Agency, the French Authorities
+would until further orders,
+consider the suppression of
+the Agency as definitive.
+</p>
+
+<p>
+The Official Register of the
+Department of State, issued
+December 1877, gives the appointment of Albert Bushnell
+as Commercial Agent at
+Gaboon, Jan. 12, 1877. Confirming
+the statement of M. Bushnell
+himself above given.
+</p>
+
+<p>
+In view of these facts, I have
+the honor to ask your Excellency
+if no inconsistent with the
+rules of your Department,
+to waive the presentation of
+the Commission of M.
+Bushnell, and cause the
+necessary exequatur to be
+issued for his recognition in his
+</p>
+
+<pb facs="20160614_112321.jpg"/>
+
+<p>
+official capacity as Commercia
+Agent of the United States at
+Gaboon.
+</p>
+
+<p>
+I avail myself of this occasion
+to renew to you Excellency the
+assurances of the distinguished
+consideration with which I have the
+honor to be.
+
+signé: Noyes 
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

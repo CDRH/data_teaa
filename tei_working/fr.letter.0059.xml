@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_162740.jpg"/>
+
+<ab>
+S.E. le Cr Walewski a P.E. l'Amiral
+Hamelin.
+</ab>
+
+<ab>
+21 Janvier 1859
+</ab>
+
+<p>
+M. l'A.er C.C. vous m'avez par
+votre lettre du 18 de ce mois
+exprimé le dèsir d'être fixé sur
+l'étendue de côte soumise à la
+jurisdiction de la République de
+Liberia et sur les limites précises
+que dans l'état actuel des traités
+le gouv de l'Empereur reconnaissait
+à cet état. Je m'empresse de
+vous faire savoir que mon Dept
+ne possède à ce sujet aucune
+information que je puisse vous
+transmettre. Il n'a eu jusqu'ici,
+en effet, en ce qui le concernait
+directement, aucun motif de le
+préoccuper de cette question de
+limite. Le gouv de l'Empereur
+a conclu, sans doute un traité avec
+la République de Liberia; mais
+cette convention a eu seulement
+pour objet de régler nos rapports
+de commerce et de navigation
+avec cet état et aucune circonstance
+</p>
+
+<pb facs="20160613_162748.jpg"/>
+
+<p>
+ne nous a portés à rechercher à
+cette occasion quelles étaient les
+limites qu'il convenait d'assigner
+à la République de Liberia.
+S'il en était autrement, d'ailleurs,
+votre Dept. en aurait eu
+connaissance comme le mien,
+puis que c'est par l'intermediare
+du Gommdr en chef de notre
+station des Côtés occidentales
+d'Afrique, M. le Capitaine de
+vaisseau Baudin qu'a été négociée
+le traité signé à Monrovia
+le 20 Avril 1852 sur ma
+proposition par l'Empereur
+et ratifié le 18 8bre 1856. Le
+seul document que le Ministère
+des Aff. Etrangères ait relativement
+à cette question de limites est
+une lettre que vous m'avez fait
+l'honneur de m'écrire vous même
+le 11 Juillet 1857, sans le timbre
+de la Direction des Colonies
+</p>
+
+<pb facs="20160613_162754.jpg"/>
+
+<p>
+pour me signaler l'exterieur
+que paraissait vouloir prendre
+la République de Liberia et
+les inconvéniens que vous y
+voyiez pour nous comme
+pour las grande Bretagne.
+J'avais cru devoir à ce propos,
+et d'après ce que vous m'écriviez,
+provoquer sur cette question
+l'avis du Gouv Anglais, mais
+il s'est abstenu de formuler
+aucune opinion. Vous
+indiquiez vous même, au suplis,
+dans la lettre que je viens de
+rappeler quelles vous paraissaient
+être les limites véritables de
+la République de Liberia.
+Je ne saurais que m'en référer
+à ces indications que votre
+Dept est assurément par les
+rapports qui lui parviennent
+plus à même de fournit
+que celui des Affaires
+Etrangères.
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

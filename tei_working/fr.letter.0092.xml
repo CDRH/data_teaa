@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_164345.jpg"/>
+
+<ab>
+Staunton, (V.A.) 3 Septembre 1846.
+</ab>
+
+<ab>
+<add>Traduction</add>
+</ab>
+
+<p>
+Monsieur,
+
+Par une lettre datée de Washingon, le
+20 du mois dernier, je vous ai fait connaitre
+qu'aussitôt que les documents nécessaires (que l'on
+m'envoyait <del>en ce temps même</del> <add>alors</add> de Boston) me seraient
+parvenant, Je vous fournirais les explications que vous
+me demandiez par votre lettre du 19 du mois
+dernier, au sujet du refus fait par la corvette
+de l'Union l'Yorktown, de saluer le fort
+d'Aumale appartenant aux Français. Ces papiers
+sont maintenant entre mes marins, et je puis, d'après
+le rapport du Commandant Bell et la correspondance
+à la quelle son refus de salut a donné
+lieu, vous transmettre les détails suivants.
+Il paraît que, le 14 novembre 1845, cet officier
+est entré dans la rivière de gabon (Afrique) avec
+la corvette de l'Union, l'yorktown, sous ses
+ordres. En remontant la rivière, il passa devant
+un petit blockhaus élevé sur le bord par les
+Français à 3<del>7</del> heures <add>1/2 de</add> l'après-midi, il jeta
+l'ancre près de la ville du roi Glass, à 4 milles
+environ du sus-dit blockhaus. Le lendemain à
+8 heures du matin, un officier du brick de guerre
+français "la Malouisse," vint à bord lui présenter
+</p>
+
+<note>
+<unclear>Envoy</unclear> <unclear/> à <unclear/>
+<unclear/> <unclear/> <unclear/>
+le 22 <unclear/> <unclear>1849</unclear> <unclear/>
+</note>
+
+<note>
+faut
+</note>
+
+<pb facs="20160613_164354.jpg"/>
+
+<p>
+<unclear/> compliments du commandant <unclear/> en
+<unclear/> temps une note du commandant <unclear/>
+quand les officiers <unclear>se furent</unclear> retirés, ce dernier
+<unclear/> c'était une lettre de l'officier connaisant
+le blockhaus, cependant sa <unclear/> de ce que
+<unclear/> commandant Bell avait passé devant le
+<unclear/> sans sa <unclear/>, <unclear/> où, alors, il demandait officiel
+lement le <unclear/> pour le pavillon français.
+Le commandant Bell ne tint aucun <unclear/>
+de cette demande <unclear/> <unclear/> un
+officier à bord de la Malouine pour rendre les
+<unclear/> d'usage et pour prier en même temps le
+commandant de ce brick de vouloir bien se changer
+d'une lettre adressée à l'officier commandant les
+forces françaises de la station, demande à laquelle
+on <unclear/> à l'instant. Le lendemain, le commandant <!-- 'commandant' is hyphenated between 'comman' and 'dant' -->
+Bell envoya sa lettre à bord le commandant <!-- 'commandant' is hyphenated between 'comman-' and 'dant' -->
+dont de la Malouïne refusa de la <supplied>recevoir</supplied>
+à moins que le commandant Bel ne <supplied>saluer</supplied>
+ou ne 'commandant' is hyphenated between 'comman' and 'dant' des explications convenables
+<unclear/> <unclear/> connaitre par écrit au commandant <supplied>Bell</supplied>
+cette détérmination de sa part. les deux <supplied>propositions</supplied>
+<unclear/> rejetées après avoir pris des provisions <supplied>l'yorktown</supplied> <!-- 'yorktown' is hyphenated between 'york' and 'town' -->
+continue sa croisière.
+</p>
+
+<p>
+Si le commandant Bell est repréhensible <!-- 'repréhensible' is hyphenated between 'repré-' and 'hensible' -->
+pour n'avoir pas envoyé au fort une
+proposition d'échange de saluts, le jour même de <supplied>son</supplied>
+arrivée, l'officier français commandant a commis <!-- 'commis' is hyphenated between 'com' and 'mis' -->
+une erreur plus grande en demandant
+comme un droit ce qui est considéré com
+</p>
+
+<pb facs="20160613_164455.jpg"/>
+
+<p>
+un acte de courtoisie, et accoré par l'usage aux
+pavillons des puissances amies, <add>en entrant sur leurs territoires</add> apres d'être préalablement <!-- 'préalablement' is hyphenated between 'préa-' and 'lablement' -->
+entendu avec les autorités pour qu'en
+rendit coup de canon pour coup de canon.
+Les Français avaient droit à cet acte de courtoisie
+dans le gabon. Je regrette ce qui est arrivé, surtout
+parce que les Français sont très susceptibles à ce
+sujet et spécialement dans le gabon. là en effet,
+après la cession du pays, les indigènes se sont
+efforcés de <del>rejeter</del> <add><unclear/></add> leur autorité, et les Français
+croyent qu'ils ont été soutenus dans ce <supplied>mouvement</supplied>
+par les mission navires américains. un fait
+semblable s'est déjà produit avec le <unclear/>. <supplied>J'ai</supplied>
+<unclear/> de mon devoir, en cette circonstance, de <supplied>blâmer</supplied>
+la conduite du commandant américain. J'ai
+tansmis dans le temps un rapport sur cette
+affaire au ministère
+J'ai ete. . . .
+signé: char. W.<unclear/> Skinner.
+</p>
+
+<ab>
+à l'Honble George Bancroft.
+Secrétaire de la marine, à Washington.
+</ab>
+
+
+</div1>
+</body>
+</text>
+
+</TEI>

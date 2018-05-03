@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160614_144425.jpg"/>
+
+<ab>
+Ministère
+des Affaires Etrangères
+</ab>
+
+<ab>
+Direction Commerciale
+et du Contentieux
+</ab>
+
+<ab>
+Paris, le 2 juillet 1839
+</ab>
+
+<p>
+Monsieur l'Amiral et Cher Collègue,
+d'après les considérations exposées dans les lettres
+que M. le vice amiral de Rosamel a
+adressées au Département des Affaires Etrangères,
+les 18 mai et 11 novembre 1838, M le <del>Ae</del> Molé
+avait invité la Légation de S. M. à Washington
+à faire des démarches auprès du gouvernement
+Fédéral pour que les avantages accordés par
+l'acte du 9 mai 1828 aux provenances de
+nos Antilles fussent étendus aux marines
+français venant de Cayenne et du Sénégal
+en retour du traitement que le pavillon de
+l'Union reçoit dans ces possessions et par
+suite duquel il s'y trouve assimilé au
+pavillon français, en ce qui concerne les <supplied>droits</supplied>
+de navigation sur les importations de <supplied>l'étrangère.</supplied>
+</p>
+
+<p>
+Le chargé d'affaires du Roi aux
+Etats Unis m'annonce, sous la date du 1er
+mai, que le Cabinet de Washington est
+</p>
+
+<ab>
+M. le Ministre de la Marine et des Colonies
+</ab>
+
+<note>
+Colonies
+1851
+Le Juillet 1839
+Mr
+</note>
+
+<note>
+répondu le 27
+Décembre 1839
+</note>
+
+<pb facs="20160614_144437.jpg"/>
+
+<p>
+dans l'intention de proposer au prochain
+Congrès l'abolition des droits différentiels sur
+les <unclear/> français venant de Cayenne, mais
+qu'il <unclear>se</unclear> <unclear/> à faire une proposition
+<unclear>semblable</unclear> en <unclear/> des provenances du Sénégal,
+<unclear/> le commerce des Etats Unis ne lui
+<unclear>pourrait par jouir dans</unclear> les ports de cette
+dernière colonie, d'un traitement basé sur
+le principe de la réciprocité.
+</p>
+
+<p>
+C'est à <unclear>vous</unclear>, Monsieur l'Amiral
+et Cher Collègue, qu'il appartient d'examiner
+et les <unclear/> que le gouvernement Fédéral
+<unclear>offre</unclear> aux <unclear>expéditions</unclear> du Sénégal pour les
+Etats Unis ne seraient pas plus que <unclear>compensés</unclear>
+par <unclear>aux</unclear> qu'il deviendrait nécessaire
+d'accorder dans cette colonie, au commerce
+américain. Je me <unclear/> donc à vous
+donner communication de la note adressée
+au chargé d'affaires du Roi par M.
+<unclear>Forsythe</unclear> et à vous prier de me faire
+connaître la détermination à la quelle
+</p>
+
+<pb facs="20160614_144501.jpg"/>
+
+<p>
+<unclear>vous vous</unclear> <unclear/> <unclear>arrêté./.</unclear>
+</p>
+
+<p>
+Agréez, Monsieur l'Amiral et
+Cher Collègue, les assurances de ma haute
+considération.
+
+Mr. <unclear/> <unclear/> <unclear/>
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

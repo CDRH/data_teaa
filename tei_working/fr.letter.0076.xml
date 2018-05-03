@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160614_145014.jpg"/>
+
+<ab>
+Sénégal y Dépendances
+</ab>
+
+<ab>
+Port de Gorée.
+</ab>
+
+<p>
+Aujourd'hui onze mars mil huit cent quarante,
+la commission commerciale de Gorée, s'est réunie, sur
+la convocation de son Président, pour entendre la
+lecture d'une dépêche ministérielle du 2% Décembre 1839,
+relative à la question d'établir l'égalité respective des
+taxes affectant le pavillon, à l'égard des navires français
+et américains pesant la navigation entre les états-unis
+et Gorée et réciproquement.
+</p>
+
+<p>
+Etaient présents.
+</p>
+
+<p>
+M. M. Guibert, Chef du servir aonif, Président.
+ferroliet, négociant
+huchard} Marchand
+f. Dupuy.} Marchand
+Jh Ware} habitant
+Jn Dupuy} habitant
+</p>
+
+<p>
+La Commission ignore quels sont les droits que
+l'on paye aux Etats-Unis sur les marchandises qui y
+sont admises, mais il faudrait qu'ils fûssent bien
+faibles pour qu'il fûssent moindres que ceux perçus
+à Gorée sur les produits de l'Union qui sont admises
+dans les droits et trouvent portés ci contre
+</p>
+
+<!-- This page is continued on a different picture file, "20160614_145014.jpg" -->
+
+<pb facs="20160614_145027.jpg"/>
+
+<!-- This is the same page as "20160614_145014.jpg," but on a different picture file -->
+
+<ab>
+<table>
+<row><cell></cell><cell>Droits.</cell></row>
+<row><cell></cell><cell>d'Entrepot</cell><cell>de Consom.</cell><cell></cell></row>
+<row><cell>Sucres et cafés</cell><cell>0. 70</cell><cell>1. 40.</cell><cell>les 100.K</cell></row>
+<row><cell>Tabac et feuille</cell><cell>1. 30</cell><cell>2. 60.</cell><cell>_ig_</cell></row>
+<row><cell>Rois</cell><cell>0. 30.</cell><cell>0. 60.</cell><cell>le Stere</cell></row>
+<row><cell>Ché</cell><cell>0. 70.</cell><cell>1. 40.</cell><cell>les 100. K.</cell></row>
+</table>
+</ab>
+
+<p>
+à Gorée sur les produits de l'Union qui sont admis et
+dont les droits se trouvent portés ci-contre.
+</p>
+
+<p>
+Il est bien avéré que les droits perçus à Gorée sont
+excessivement faibles, comparativement à aux perçus
+en France.
+</p>
+
+<p>
+La Martinique et la Guadeloupe expédient
+des navires aux Etats-Unis; ces navires lorsqu'ils sont sur
+lest ne payent qu'un droit de 0.50, tandis que ceux
+expédiés de St Louis vu de Gorée bien que n'étant égalemt.
+qu'en lest, sont soumis à un droit de tonnage d'un
+Dollar, et cependant lorsque les navires américains
+sont admis à introduire aux colonies de l'Ouest des lois,
+Cabaes et provisions ils payent sur ces produits 61%
+ce qui est bien plus élevé que les droits perçus a Gorée
+sur pareils articles, et sur les farines un droit qui est
+de 20. f. au moins par baril.
+</p>
+
+<p>
+Quant à ce qui est dit relativement à l'exclusion
+des navires américains à St Louis, ce n'est pas pour
+les <del>su</del> Pays <del>se</del> de L'Union seuls que cette non admission
+à lieu, elle s'étend à tous les pavillons et cependant
+les autres nations ne se prévalent pas de cela pour
+nous faire payer à un taux plus élevé le droit de
+tonnage des navires qui sont expédiés du Sénégal, nous
+pouvons citer à l'appui de ce que nous avançons, que
+les navires français expédiés du port de St Louis, Sénégal,
+ne
+</p>
+
+<pb facs="20160614_145055.jpg"/>
+
+<p>
+ne payant en Angleterre que ce que payent les navires
+français partant de but autre <unclear/>; nous <unclear/> <unclear/>
+<unclear/> que les produits <unclear/> <unclear/> de la côte
+d'Afrique ne <unclear>payant en  Angleterre</unclear> que le <unclear/> droit
+auquel <unclear>sont</unclear> imposés le <unclear/>.
+</p>
+
+<p>
+En <unclear>Gambie</unclear>, à <unclear>Rathard,</unclear> nous ne payons que le
+même tonnage et ancrage que les <unclear>nationnaux, nous payons</unclear>
+également le même <unclear>droit</unclear> que les anglais qui viennant
+directement l'Angleterre, et cependant les Anglais ne
+sont pas <unclear/> à St Louis.
+</p>
+
+<p>
+La <unclear/> décide à la majorité de quatre
+voix sur ses:
+</p>
+
+<p>
+Puisque les américains ne payent dans notre <unclear/>
+que le faible droit de <unclear/> par tonneau, et encore <unclear>somms</unclear>
+nous dans l'obligation de prendre des <unclear/> en <unclear/>
+pour les <unclear>places a cord</unclear> leurs bâtiments sans en retirer
+aucune rétribution; que leur nation par réciprocité ne
+perçoive pas d'avantage quand nos navires vont visiter
+les ports d'Amérique.
+</p>
+
+<p>
+Ou bien, que l'on fasse payer aux américains un
+Dollar comme ils nous imposant, soit 5. 25; il en
+résulterait un grand bien pour le commerce français
+les Américains ne viendraient pas en aussi grand nombre
+</p>
+
+<!-- This page is continued on a different picture file, "20160614_145114.jpg" -->
+
+<pb facs="20160614_145114.jpg"/>
+
+<!-- This is the same page as "20160614_145055.jpg," but on a different picture file -->
+
+<p>
+les Américains ne viendraient pas en <supplied>aussi grand nombre</supplied>
+et les proprietaires de navires français étant certaines de
+n'avoir pas de concurence, ou d'en avoir une presque
+nulle, expédieraient un très grand nombre de navires
+ce qui serait avantageux pour notre commerce qui fort
+souvent ne trouvant pas de frêt au Sénégal pour France
+ferait des opérations liées en portant des boeufs aux Antilles
+et relevant ensuite pour un des ports de l'Union pour
+revenir à Gorée vu à St Louis.
+</p>
+
+<p>
+Dans l'un ou l'autre de ces deux cas, il en résulterait
+un grand bénéfice pour le fise et dans le dernier un
+plus grand bien encore pour la navigationet le commerce
+français.
+</p>
+
+<p>
+Il est une autre observation qui doit surtout être
+prise on considération, c'est que les américains ne veulent
+le plus souvent recevoir en paiement de leurs marches
+que des espèces qui sortent de la Colonie pour ne plus
+y rentrer.
+</p>
+
+<p>
+Il est à remarquer en entre, que les américains
+payent sur les peaux, gommes, bois de cail-cedra enfin
+sur tous les produits qu'ils sont autorisés à exportes,
+le même droit que celui auquel les français sont
+assujetties
+</p>
+
+<pb facs="20160614_145140.jpg"/>
+
+<p>
+assujettis à la sortie, même lorsque ces produits sont
+dirigés sur les ports français.
+</p>
+
+<p>
+Le but de la réunion étant rempli, la séance
+est levée et le présent Procés-verbal signé les <unclear>jous</unclear> mois
+<unclear/> que <unclear>dessus</unclear>
+</p>
+
+<p>
+<unclear/>
+<unclear/> <unclear/>
+<unclear/> <!-- These appear to be a series of signatures -->
+
+Le Chef du Serice administratif
+Président de la Commission du Commerce.
+
+M. <unclear/> <!-- Signature -->
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

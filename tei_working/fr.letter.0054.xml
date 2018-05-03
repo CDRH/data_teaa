@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_162411.jpg"/>
+
+<ab>
+MINISTÈRE
+des Affaires Etrangères
+</ab>
+
+<ab>
+Direction Politique
+</ab>
+
+<ab>
+Paris le 26 Sept 1848
+</ab>
+
+<p>
+Monsieur et cher Collègue, Vous
+m'avez fait l'honneur été m'écrire, le 13
+er., <unclear/> me demander mon avis relativement <!-- 'relativement' is split and hyphenated between 'relati-' and '-vement'. -->
+à la reconnaisance de la République
+de Liberia, qui a <unclear/> son indépendance
+en Août 1847 et qui a déjà été reconnue
+par la <unclear/> <unclear>Bretagne</unclear> et les Etats Unis
+d'Amérique. Vous me demandez en même 
+temps si je <unclear>penne</unclear> qu'il <unclear/> <unclear>ait</unclear> des réserves à
+faire pour le village africain enclavé
+dans la territoire de la nouvelle République
+et dans le chef d'etait <unclear>soumis</unclear> à la France.
+</p>
+
+<p>
+J'apprécie comme vous le motifs
+qui doivent <unclear>vous déterminer</unclear> à suivre l'exemple <!-- 'l'exemple' is split and hyphenated between l'ex-' and '-emple'. -->
+<unclear>ete</unclear>l'Angleterre et des Etats Unis
+en reconnaissant officiellement l'indépendance <!-- 'l'indépen-' and '-dance' is split and hyphenated between 'l'indépen-' and '-dance' -->
+d'un nouvel Etat qui peut devenir
+à la fois un <unclear>autre</unclear> de civilisation pour
+cette portion de l'Afrique et un point
+<unclear>intévant</unclear> pour notre commerce. Je ne
+</p>
+
+<ab>
+Monsieur le Ministre et  la Marine
+</ab>
+
+<note>
+Colonies
+</note>
+
+<note>
+<unclear>Col</unclear>
+<unclear>4879</unclear>
+</note>
+
+<pb facs="20160613_162402.jpg"/>
+
+<p>
+vois <unclear>d'une</unclear> aucune objection à ce que vous prescriviez <!-- 'prescriviez' is hyphenated and split between 'pres-' and '-criviez'. -->
+au commandant <unclear>de</unclear> votre Nation
+dans ces parages de procéder à eu acte, en se
+conformant <unclear>aux</unclear> mêmes formalités qui ont
+été observées parler commandantan anglais et américain. <!-- 'américain' is split and hyphenated between 'amé-' and '-ricain'. -->
+</p>
+
+<p>
+Je ne pense pas non plus que le <unclear>fait</unclear> de
+l'opposition du chef de village qui refuse de se
+soumettre au gouvernement de Liberia <unclear/>
+<unclear>notre</unclear> protection mérite d'apporter un obstacle
+sérieux de <unclear>notre par </unclear> à la reconnaissance en
+question. Cependant, s'il donnait matière à
+quelque difficulté, nous ne pourrions <unclear>guère</unclear>
+refuser d'intervenir, au moins comme médiateurs,
+et d'empêcher qu'il n'<unclear>amenât</unclear> un conflit fâcheux.
+</p>
+
+<p>
+Agrèez, Monsieur et cher Collègue, l'assurance <!-- 'l'assurance' is split and hyphenated between 'l'as-' and '-surance'. -->
+de ma haute cconsidération
+
+<unclear/> <!-- Signature -->
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>
