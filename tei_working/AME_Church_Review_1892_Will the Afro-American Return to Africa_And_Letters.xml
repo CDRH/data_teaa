@@ -1,0 +1,3061 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Missionary Activity</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Journal</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="KS"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+        <fw>WILL THE AFRO-AMERICAN RETURN TO AFRICA?          387</fw>
+                        <head> III.</head>
+        <head>WILL THE AFRO-AMERICAN RETURN TO AFRICA ?</head>
+               <byline>BY T.  THOMAS  FORTUNE.</byline>
+
+</div2>
+
+<div2 type="article">
+
+
+   <p>There are some questions absurd to ask and ridiculous to
+answer; but as most questions propounded are of this kind,
+sensible men treat them with generous toleration, upon the
+theory that error cannot long prosper if reason will take the
+trouble to combat it. People of superficial intelligence would
+have no occupation if they could not ask questions, which busy
+and thoughtful people must answer, or witness the triumph of
+error and humbug and the multitude's worship of them.</p>
+  <p>Will the Afro-American return to <placeName>Africa</placeName>? This question has
+been asked regularly for more than half a century by people of
+one sort and another; but, since the war of the rebellion, in the
+thoughts of some people, especially those engaged in foreign
+mission work, it has been stereotyped, like the " Jobject! " of
+Congressman <rs type="person">William Steele Holman</rs>, for emergent use.</p>
+   <p>The story is told of three London tailors, who once got off in
+a corner by themselves and solemnly resolved that they were the
+people of <country>Great Britain</country>. It was a glorious moment in their lives.
+That action, silly from every view point, made them famous; and
+most that we do is an appeal to posterity. Since they lived,
+resolved and died (even tailors die!), a great many people have
+laughed at their silliness, but imitated their example.</p>
+   <p>A handful of people, who imagine that they control the matter
+entirely, insist that the Afro-American must, will, shall return to
+<placeName>Africa</placeName>. They will not listen to any argument. They will not
+be moved by any appeal to reason, to facts as stubborn as fate, to
+barriers as insurmountable as the <geogName>Alps</geogName> over which <rs type="person">Napoleon</rs>
+climbed into the camp of the astonished Austrians. What is the
+use, these good people contend, of reaching a decision, if you are
+not going to die by it? Even so must have reasoned the three
+tailors of Tooley Street. If the Afro-American was not such a
+stubborn creature, entirely devoted to worship of the flesh-pots
+of the <country>United States</country>, bent upon questioning the disposition to
+be made of him by philanthropists and other kindly disposed
+people, he would act upon the decision that he must go and
+begin the pilgrimage immediately, regardless of his best interests.
+The people who insist that we shall go back to <placeName>Africa</placeName> are really
+good people. They mean well, most intermeddlers do, but they
+are both imprudent and impudent. They have never been to
+<placeName>Africa</placeName>; they do not know anything about the country or its
+people. They look at the situation from one point of view, and
+we look at it from another. They will not understand that
+
+<fw>388                  CHURCH REVIEW.</fw>
+dreams are dreams, and that facts are facts. They would not be
+philanthropists if they did. As they spend most of their time
+thinking for others, often at a comfortable salary, they will not
+understand why others should bother to think for themselves.
+And in all sorts of quarters just now, the greatest surprise is
+manifested because the Afro-American is demonstrating that he
+has any mind whatever and can use it for thinking purposes. It
+nearly takes their breath (and occupation, too) away.</p>
+   <p>Ever since the American Colonization Society was organized,
+more than a half century ago, for the purpose of accommodating
+those Afro-Americans who wanted to return to <placeName>Africa</placeName>, the question
+of Afro-American colonization has occupied more or less of
+the public attention. It was a dream of <rs type="person">Henry Clay</rs>, who was
+opposed to slavery, and of <rs type="person">Abraham Lincoln</rs>, who did not believe
+that the Afro-American could live here as a freeman, that colonization 
+would solve the problem. Perhaps it would have done so,
+if the Afro-American, before and since the war, had not set his
+face against it, as the devil is said to set his against holy water.
+He would not have it; he will not have it; and all the philanthropists 
+and other good people who want to have it, having
+decided that he must have it, are simply horrified, cast down, at
+their wits' end, because of it They have spent millions of money
+and years of honest toil, in attempting to put their decision into
+something they could <q>"point to with pride,"</q> and of which they
+could exultantly exclaim, <q>" I told you so!"</q> but Liberia is all that
+they have brought forth. I do not wish to be understood as in
+any way underrating Liberia as a government There is not
+enough of it, perhaps. I simply emphasize the fact here, that if
+the dreams of those who are responsible for its existence had
+been such as they anticipated and predicted, the country would
+to-day contain a million or more Afro-Americans, instead of the
+handful that it does contain. Instead of being an infant in population, 
+it would be a giant. The Afro-American has simply
+refused to go to <country>Liberia</country> as a race; and when he has gone as an
+individual, he has, in many instances, returned by the next
+steamer, as my good friend Bishop <rs type="person">Turner</rs> is said to have done,
+although he has been anxious for twenty years for an opportunity
+to die there.</p>
+   <p>The Afro-American has reasoned, that if fifteen millions of
+Europeans have, since 1820, deemed it wise and advantageous to
+come to the United States, it would be wise and advantageous
+for him to remain here. What was good enough for the oppressed 
+and starving peasants of Europe and the peons of China,
+was good enough for him, despite the arguments of those who had
+decided, that he must go. This is one view of the matter, and,
+perhaps, an important one, to a thorough understanding of the
+colonization failure. Men do not usually run away from opportunities 
+which the rest of mankind are rushing forward to enjoy.
+The Afro-American is just like other people in this respect. Is
+he unlike other people in any respect?</p>
+
+         <fw>WILL THE AFRO-AMERICAN RETURN TO AFRICA?          389</fw>
+  <p>Now, what are some of the reasons why Afro-Americans have
+refused to go to Africa in the past, and have no intention of going
+in the future? Affecting to believe that there are no reasons
+against going, the philanthropists and other good people who
+insist that we must go, will hardly be able to contain themselves
+when they discover that they have been slumbering in the day-
+light.</p>
+   <p>(1)  Afro-Americans are not Africans. The slave trade be-
+tween the United States and Africa ceased in 1808. Since that
+time a few stragglers have come here, but, in the main, the accessions 
+have been too inconsiderable to enter into the calculation
+at all. In consequence of this, Afro-Americans know, practically,
+nothing about Africa, and take only a sentimental interest in it
+and its people. They have forgotten the language of the country
+and abandoned the religion of its people. They have thrown off
+all heathenish practices.</p>
+   <p>(2)  Africa is a country without an organized government, an
+accepted religion, and a uniform language. In a different article
+from this, I have said that habitat, language and religion prescribe
+a man's nationality and fix his citizenship. If Africa had a regular
+government, a great many of us might seek its protection.
+Civilized men don't abandon organized government for chaos.
+The population of Africa is supposed to be 100,000,000; the in-
+habitants speak as many languages as there are tribes. Now, if
+every one of the 8,000,000 Afro-Americans should go to Africa,
+would they swallow up the 100,000,000 natives, or would they
+be swallowed up? Jonah could not swallow the whale, and,
+therefore, the whale swallowed Jonah.</p>
+   <p>(3)  What assurance have Afro-Americans that they would not
+starve to death in a country without organized industries, or be
+slaughtered by hostile natives, or die from the ravages of climatic
+diseases? Some who have spied out the land relate that each
+one of these hoodoos has a tooth as sharp as a serpent's, and
+about as deadly. People go to a new country to better their
+condition; not to starve or be slaughtered by accommodating
+natives or an inhospitable climate. Many of these disadvantages
+will be overcome in time; but they will be overcome by Euro-
+peans, with home governments and fabulous wealth behind them.
+European rule in Africa is no more advantageous than the rule
+of descendants of Europeans in the United States; and wherever
+the European goes in Africa, he subjects or exterminates the
+natives. In the organized European governments in Africa, they
+are barred out.</p>
+  <p>(4)  Afro-Americans feel that the United States is their country,
+and that they have as much right to enjoy its advantages as have
+others of their fellow-citizens. They have labored to build up
+its grandeur; they have fought and died to defend its honor and
+to perpetuate its integrity; they own a vast volume of real and
+personal wealth here, which they have acquired by infinite in-
+
+<fw>390                   CHURCH REVIEW.</fw>
+dustry and economy; they have a heritage in the government
+and in the soil, consecrated by the bones of their dead, which
+have no price and can be purchased with no money; and they
+find that, in the condition of freedom, their position is growing
+better and more secure every year, due, mainly, to the development 
+of a more self-reliant and self-supporting manhood and
+womanhood. While the surplus population of all the civilized
+governments are given a cordial and pressing invitation to come
+here and enjoy the wealth of our soil and the liberality of our
+institutions, Afro-Americans cannot understand why they should
+have a cordial and pressing invitation given to them to betake
+themselves out of the country. Instead of accepting the invitation 
+as a compliment, they regard it as an insult. If they do not
+always proclaim it from the housetops, it is because they consider
+silence to be the most sarcastic form of contempt. That they
+should be asked, seriously, to leave a country they had enriched
+with their toil and defended with their lives, and that grave Senators 
+in the Congress should propose that public money should
+be placed at their disposal to expedite their self-expatriation,
+seems to them insult so glaring as to relieve them of the necessity
+of organized protest. Such baseness carries upon its face a
+sufficient condemnation and rebuke. It is like asking a coequal
+heir to abandon his portion of the estate, in order that there may
+be absolute harmony in the division of the benefaction.</p>
+   <p>I think these reasons are sufficient to show why Afro-Americans 
+do not, should not, and will not return to Africa.</p>
+   <p>The sentiment that the Afro-American should return to Africa
+is by no means general. Far from it. The great mass of our
+fellow-citizens would oppose any proposition intended to coerce
+us into leaving the country, if any such was contemplated or
+proposed. They rightly believe we are old enough to decide the
+question of residence for ourselves; but a few people, bent upon
+doing the same thing, can make a great noise. A small spark,
+dropped in a cow-shed, started a fire that destroyed the greater
+part of Chicago. And as the three tailors of Tooley Street were
+convinced that they were the people of England, so a few people
+in the United States have always presumed to speak for all the
+people upon questions affecting Afro-Americans. So persistent
+and ululative have they been that many have accepted the false
+prophets to be the Simon-pure articles; but the whole race-
+question in the United States has reached a stage where the
+Afro-American resents the assumption that he has no tongue, no
+voice, and no brains in his head. The good people who persist,
+annually, in getting off in a corner by themselves and resolving
+for Afro-Americans may delude and impose upon themselves,
+but the rest of mankind laugh at them.</p>
+   <p>Over and above the reasons already given to show that Afro-
+Americans will not return to Africa, as a whole, stands the further
+reason that it would be a physical impossibility to do anything
+
+         <fw>THE EDUCATIONAL WORK OF THE A. M. E. CHURCH.        391</fw>
+of the sort. Enough ships could not be put into commission,
+without demoralizing the commerce of the world, to transport,
+annually, the natural increase of the Afro-American population.
+A statistician has been at the pains of demonstrating this fact.</p>
+ <p>  When the question of expatriating Afro-Americans was being
+discussed in the Congress, a remarkable feature was made prominent. 
+Most of the leading newspapers in the Southern States
+opposed the proposition and characterized it as being unwise, the
+consummation of which would disorganize and demoralize the
+entire industrial system of the South. A great many people, who
+cannot sleep because of the presence of the Afro-American
+among them, will not take the trouble to ascertain that the Afro-
+American is the backbone of the labor force of the South, and
+that if he should fold his hands and sit down for a week the
+wheels of Southern industry would cease to turn for that length
+of time, and that millions of wealth would, in consequence, stand
+idle throughout the Republic. But what do such people care
+about facts? Humbug is their stock-in-trade.
+   Will the Afro-American return to Africa?
+   He will not
+   I will not here enter into a discussion of the missionary
+question. In the years to come, when we shall not need every
+decent missionary that we manufacture for home consumption,
+we will contribute our proper share of noble men and noble
+women, and of our abundance, to the evangelization of Africa.
+ New York.</p>   
+</div2>
+   
+<div2>
+                       <head>XII.</head>
+                  <head>Miscellancous.</head>
+        <head>LETTERS OF BISHOP HENRY M. TURNER.</head>
+      <head>WRITTEN DURING HIS VISIT TO AFRICA.</head>
+               <p>Steamship "City of Paris," October 15, 1891.
+Mr. Editor:
+   I am out on the ocean sailing—or rather steaming to all
+human appearances—to the unknown—where?
+   I left the great city, New York, yesterday about two o'clock,
+with peculiar sensations.
+   I had long contemplated a trip to Africa, the world's future
+paradise, but had never realized what it was to start. I never
+dreamed that it would take the starch out of a fellow as it did
+me.</p>
+   <p>The hurly-burly of preparation and the desire to leave absorbed 
+every faculty of my soul, but when I mounted this
+mighty sea craft and looked down upon the faces of Rev. Theodore 
+Gould, Dr. Derrick, the presiding elders Morgan and Israel
+Derricks, and several other ministers who stood with upturned
+faces; also Mrs. Dr. Derrick, Mrs. Bolden and a number of
+ladies, all of whom waved handkerchiefs at me as the ship
+steamed out, I began to realize that this was more than an ordinary 
+trip to some portion of our common territory.</p>
+  <p> Mrs. Dr. Derrick touched me when she threw her handkerchief 
+to her eyes; but the thought rushed to me—that is
+womanish, and I tried to dismiss it, but in a moment my eyes fell
+upon my son, David M. Turner, who had come from Washington 
+city to see me off—despite the fact that I had told both sons
+to attend to their business, and not spend money to bother after
+me. David, however, ignored my order and came any how, and
+as I espied him looking up wistfully and then dropping his head,
+my emotions reached their culmination, all my manhood succumbed 
+and tears suffused my face; I loved David as I never
+dreamed of before. The other children appeared before me in
+detail, and the thought rushed upon me, " Mother is gone, wife
+is gone, and now possibly children are gone." My mind flashed
+through the Church, and an inkling of dislike here and there, I
+had indulged, owing possibly to misunderstanding in most instances, 
+all fled, and I found myself loving everybody I had left
+behind. I never loved in all my life as I did then, and do now,
+and expect to while I live.</p>
+
+            <fw>Photograph of BISHOP HENRY M. TURNER.</fw>
+   
+                     <fw>MISCELLANEOUS.                 447</fw>
+   <p>Some four hours after we left New York, one of the ship's
+officers appeared in my state-room and told me to follow him,
+and he led me to a saloon state-room, which he told me was to
+be mine, single and alone. It possessed every comfort the mind
+of man could conceive.</p>
+   <p>Its furniture and conveniences looked to me to be too superb
+to be risked upon the water, but the thought struck me, it's no
+more valuable than the thousand or more persons on board—not
+the one millionth part so valuable.</p>
+   <p>The ship rocked and rolled a little last night, but not from the
+effects of any wind that blew; the sea-swells were the result of a
+gale, which soon subsided. Many persons, however, cascaded a
+little, but it only sharpened my appetite.</p>
+   <p>This morning at the breakfast table, a gentleman in my front
+called my name in a clear voice and said, " Good morning! " I
+looked up and it was H. J. Kimball, the man who built the great
+Kimball House, of Atlanta, Ga. Mutual congratulations were
+passed at meeting at the same table at sea, if not on land. Much
+of the day has been spent in conversation with this great financier. 
+He paid many compliments to Bishop Gaines, Alexander
+Hamilton, the famous house-builder, William Finch, tailor, and a
+host of colored men of Atlanta.</p>
+   <p>About two o'clock to-day our ship overtook the steamship
+" Germanic," which left New York four hours ahead of us yesterday. 
+We ran side-by-side for some time, but the " Germanic"
+had to yield to the great speed of this large ocean greyhound.</p>
+  <p> Elder Geda, who is with me, and is in another cabin not quite
+so well furnished, has made more acquaintances than I could
+make in a week. He disregards introductions, knows everybody 
+because they are human, and everybody knows him.</p>
+   <p>The ocean, which has behaved so well ever since we left the
+city, is being lashed into fury by a rising wind, but the ship runs
+steadily, and before the big waves come I will go to bed.</p>
+                                                  <p>October 16.
+   The breeze calmed down last night, and I slept like a log. This
+morning the sun is shining in his splendor, and while the ocean
+surface was throbbing with the pulsations of life, the mammoth
+ship strode its way like a thing of life also. Two steamers
+bound for New York appeared in the distance, one in the fore-
+noon and the other in the afternoon.</p>
+   <p>Yesterday, up to twelve o'clock, we had come 312 miles, and
+to-day up to the same hour, 427 miles. Some of the officers are
+mad because we did not make 500 miles.</p>
+  <p>I had a long talk with Col. Jas. D. Patterson, of Richmond,
+Va., to-day. He is a rich tobacco merchant. He paid Dr. Derrick 
+a marvelous compliment, and poohed'at the idea of any one
+attempting to criticise him while at Richmond, Va.</p>
+  <p>About one o'clock a school of porpoises or cetaceous sea-hogs
+
+<fw>448                     CHURCH REVIEW.</fw>
+appeared near the ship, and leaped and frollicked for an hour.
+All eyes were fastened upon them till they disappeared in the
+distance. Shortly after a flock of what is called Mother Carey's
+chickens, flew along just above the water surface, and many predicted 
+a storm, but no storm has arrived up to ten o'clock to-night.</p>
+   <p>A gentleman from New York, said to be worth one hundred
+and fifty thousand dollars, is a steerage passenger, and has
+dressed himself quite coarsely to keep from attracting attention;
+but some of the saloon passengers know him and such a cursing
+as he gets is non-repeatable. A gentlemen said, he loved money
+too, and was almost a miser, but such miserliness as that was a
+shame to humanity.</p>
+   <p>It has been very warm, but it grows chilly as we approach the
+Newfoundland coast.</p>
+                                                   <p>October 17.
+   This morning was chilly and misty, and the sea a little roll-
+ing, but everything is pleasant and inspiring. Congratulations
+upon such a fine trip so far are abundant. The ship is so long
+and reaches over so many of these short waves that no one
+realizes that the sea is not smooth when inside.
+A whale was seen in the distance this morning, rising up and
+spouting water, but soon disappeared.
+At twelve o'clock to-day we had come 437 miles since yesterday 
+at the same hour.
+A little before midday four small boats were passed, floating
+around in ocean, said to be fishing crafts, yet hundreds of miles
+from the banks of Newfoundland. I would be afraid of those
+little boats on the Potomac River, much less on the great ocean.
+Rev. T. R. Geda has made an ocean of acquaintances, and an
+Englishman offers him a position in the salvation army in Lon-
+don ; he leaves it with me as to whether he shall accept it or not.
+I told him I would not release him from accompanying me to
+Africa, unless they wanted him to beat the drum for the army.
+We have had a delightful trip up to the present, but the wind
+is rising and to-morrow is predicted a bad day.</p>
+                                                  <p>October 18.
+   The wind is blowing stiffly and the ship rocks lively. The
+white-capped waves chase each other grandly. Divine service
+was called at 10.30 o'clock, but nothing was done or said, save
+the captain reading the English prayer service ; as the writer did
+not think he could stand to speak intelligently while the ship
+was rocking; the other ministers thought the same. " O, ye of
+little faith!" At 12 o'clock we had come 436 miles.</p>
+                                                  <p>October 19.
+   The wind increased yesterday afternoon and last night. A
+mighty wave dashed over the lower pass-way of the ship at 3
+o'clock in the afternoon, and knocked down a dozen men and five
+ladies, and drenched them from head to foot.   Some time after,
+
+                      <fw>MISCELLANEOUS.                      449</fw>
+   I went strolling back to the uppter deck of the second cabin, 
+to view the sea from the rear of the ship, when a giant wave swept
+over with a vengeance and I escaped by jumping behind the
+kitchen house. Some of the officers of the ship made me hustle
+back to the saloon ; as I came within ah inch of being washed over
+in mid-ocean. A terrific sea struck the ship about 7 o'clock and
+she rocked as though every moment would be the last. I leaped
+to my feet frightened. The passengers laughed by the scores
+and tried to comfort me by telling what sights they had seen and
+passed through safely. I tried to make out like I was not
+frightened much, but I believe I was. I sat about with my heart
+in my mouth, and finally went to my state-room and committed
+my all to God. I told the Lord if my trip to Africa was in
+keeping with his will, to remove this fear and put me to sleep.
+I had hardly arisen from my knees when all fear was gone, and,
+notwithstanding the gale that blew and the screeching of the
+ship's timbers, I was scarcely in bed before I was asleep.</p>
+   <p>This morning, when I arose at 9 o'clock, I knew the ocean
+was rough, for the ship seemed to be laboring for life. I dressed
+and went out, and, oh, heavens, what a sight! As far as the eye
+could scan, mountain waves were rolling in matchless grandeur,
+between which great valleys lay, more or less undulating, till
+another surging billow rolled across the plain and sent its spray
+skyward. Old " Neptune," the ocean's god, had been using
+wind withes to lash the blue waters, and they were churning out
+foam jewels as ornaments to his brow, and throwing misty vessicles 
+to weave rainbows to crown it; for they were abundant in
+the northeast. But the scale turns to-day. Yesterday, when
+I got frightened, several passengers laughed, but nearly every
+one of them is scared or sick. I am neither, thank God. Some
+are saying the ship can't stand it; others say nothing, but are
+fearfully alarmed. I feel to be in God's hands and am cool,
+cheerful and happy. Indeed, there is no time to be frightened
+when such superb grandeur meets the eye in all directions. Up
+to 12 o'clock to-day we had come 421 miles—marvelous running
+for such a gale; fortunately, however, the wind and mighty waves
+were mostly in our rear. But this mighty ship being 580 feet
+long, 62$ feet wide, 2,000 horse-power, 10,500 tons burden, has
+on board 1,225 persons. A ship passes on the left, going to New
+York, but she is small, light, and rides the mountainous billows
+like a duck. The captain of our ship comes into the smoking
+saloon and sits down ; a number gather around him and inquire
+about possibilities of the storm allaying: he tells them it will 
+increase for some hours yet, but he laughs at any one apprehending
+danger. He says this little shake-up is mere child's play, that
+the ship is built with twelve compartments and any one or even
+two might fill up and the ship could not sink. The ladies of the
+saloon cabin go to their state-rooms, the ladies of the second
+cabin sing, the ladies of the steerage sing; the men of the steer-
+
+<fw>450                   CHURCH REVIEW.</fw>
+age play cards and sing some of the sweetest hymns I ever heard.
+I never knew before that men could gamble and sing so solemnly.   
+Everybody nearly is inclined, more or less, to some kind
+of game on ship.</p>
+                                                     <p>October 20.
+   Last night, as the captain said, the wind got worse and worse,
+till about n o'clock, when it blew terrifically. I think it must
+have blown 70 miles an hour. I looked out upon the fearful face
+of the great deep, and the scene beggared description, but our
+herculean vessel was riding like a master. Some said they had
+crossed the ocean dozens of times, but had never seen anything
+like this. Elder Geda, who had been to Spain and had seen such
+mighty seas, had to give it up. A gentleman who had gone with
+General Grant around the world, had never seen the sea worse.
+But the more it blew and raged the more contented I felt. I
+tried to get up a scare once to make me pray more earnestly, but
+could not for my life. I went to bed quietly, slept like a log,
+awoke this morning, the sun was shining, the winds had stopped,
+the ocean was calming down and the fuss all over. Everybody
+was out for breakfast and congratulations upon our safety were
+mutual.</p>
+   <p>I have had no sea-sickness whatever, have always been ready
+to eat, yet many have cascaded fearfully.</p>
+   <p>The Negro question has been discussed in all forms since we
+left New York. The mark of Cain, the curse of Noah, the color
+of the devil, the Negro in history, his place in science and 
+philosophy, the unity of the human race, his future in the South, 
+his status in the nation, and all such subjects have been dissected
+God has helped me to make some of our learned American wise-
+acres laughing-stocks in the eyes of Englishmen. It is astonish-
+ing to see how little some of our would-be great and wise white
+men know about the Negro, his ability, his progress, his books,
+newspapers, churches, home tastes, etc. Mr. Kimball makes the
+Negro of the South a mighty man. He puts it on thicker than
+I can; when he starts, I hold up: he needs no help.</p>
+  <p>We are fast approaching Queenstown, where I may mail this
+letter. Old ocean is as quiet as a lamb. All the decks and
+walks on the ship are crowded with gentlemen and ladies, pacing
+backward and forward, resembling a picnic festival. Bishop
+Tanner and the late Bishop Campbell are the most frequently
+inquired for.</p>
+  <p>The rise and progress of the A. M. E. Church, as given by the
+writer from time to time, is an item for much comment and high
+congratulations. Our bishops, general officers and ministers
+would be gratified to hear what is said complimentary to our
+ecclesiastical independency, even by members of the M. E.
+church.</p>
+  <p> Bishop Arnett's great speech at Washington was the subject
+of many compliments, also.</p>
+
+                      <fw> MISCELLANEOUS.                      451</fw>
+                      <fw> SECOND LETTER.</fw>
+		 <p>Steamship " City of Paris," October 21, 1891.
+   Last night, after closing my other letter, a Chicago gentleman,
+who had watched the meteorological changes with cautious
+interest, came and sat down by my side and said," We are all to
+go down to night." I asked him—go down where ? He said to
+the bottom of the ocean ; that he had just looked at the barometer 
+and it was very low. He was terribly excited and tried to
+excite everybody else, but the passengers laughed at him and
+called him a crank. Supper being over, the saloon was cleared
+for a concert, and was soon packed to witness the display of
+talent. The actors were improvised, however, for the occasion,
+yet several were professional singers, readers, speakers, etc. The
+programme ran as follows: 1st, piano duet; 2d, recitation, by
+Dr. J. Bradford Slack, B.A.; 3d, violin solo, by Miss Dixon; 4th,
+song, by Payne Clark; 5th, recitation, by Mrs. A. L. Stewart;
+6th, " Emperor William's Visit to the Vatican," by Very Rev. P.
+M. Baumgarten, LL.D.; 7th, song, by Miss Lincoln; 8th, read-
+ing from " A Dream," by Rev. A. T. Pierson, D.D.; 9th, " My
+country, 'tis of thee," by Miss Lincoln; 10th, " God, save the
+Queen," by Mr. Clark. The whole affair was of a very high
+order. As for Mrs. Stewart's recitation, which was novel, from
+the fact it was historical, one cannot tell half of its superbness.
+She simply beat anything I ever heard. When she began, I said,
+" O, you go along, Hallie Q. can beat that;" but, as she waxed
+warm with her subject, I had to say, " Well, Hallie, I fear she
+has got you."</p>
+  <p> But about 9 o'clock, as our Chicago weathercock had predicted, 
+a gale struck the ship, blowing seventy-five miles an hour.
+She careened from side to side for awhile. Several looked un-
+usually white, but they sat still. One of the gentlemen cried out,
+"All's right, we have one of the best ships on the ocean and one
+of the best captains to manage her." I soon left, however, went
+in my stare-room and held a private interview with Captain God.
+The wind howled for a short time, then subsided. I went to
+sleep and was awakened this morning to look at Queenstown,
+Ireland. We were safely in the harbor and nothing hurt. Our
+Chicago man, however, left the ship, and said he would take the
+cars through Ireland for Liverpool, as he knew another gale
+would strike us while running down the Irish Sea. He was mis-
+taken, however, as we found the Irish Sea as calm as a lamb.
+The passengers were all glad when the Chicago man left, and
+thought if they had thrown him overboard in mid-ocean we
+would have had a finer trip.</p>
+   <p>With my large marine glasses I had a fine view of Queenstown,
+and, during the day, of over two hundred miles of the Irish
+coast. Queenstown did not nearly meet my expectations in size
+and grandeur. Standing upon a declivitous elevation not over a
+mile in length, with one large Cathedral, some smaller churches,
+
+<fw>452                     CHURCH REVIEW.</fw>
+school-houses and several blocks of antiquely built houses,
+covered with tiles, etc. But the Irish coast, minus trees, presented 
+a most magnificent spectacle. My glasses brought distant
+fields and far-off houses and sceneries to view so vividly that it
+was a charm for me, and I did not wonder that no snake could
+live there, yet some few snaky Irish have come to America I am
+compelled to admit.</p>
+   <p>Our ship has reached the Liverpool bar, but must wait here till
+12 o'clock to-night before she can enter, as the tide is too low to
+cross. The passengers are sitting out, talking, singing, looking
+at the lights, viewing tug-boats pass and congratulating each
+other upon our safe arrival. I am bored with invitations to visit
+gentlemen and ladies in London, Yorkshire, Cork, Paris and
+other points. It turns out now, as we are across the ocean, that
+we had some mighty men on board, but they kept so quiet that
+no one but the clerk knew it, and he was ordered not to tell. I
+must go to bed; sleepy.</p>
+                                                       <p>October 22.
+   The ship was in the docks of Liverpool when I awoke this
+morning. The gong rings, and we are all glad that breakfast will
+be tendered; we feared that we would get none. We eat like
+hungry wolves and are arranging to leave the ship. Mr. Kimball
+passes me and says, " See here, Bishop, you cannot afford to be
+small over here; you must give your state-room steward ten
+shillings, your dining-room steward ten shillings and the porter
+ten shillings. I asked him how much ten shillings were. He
+said two dollars and a half. I frowned, but he said, " No use to
+frown: it counts up, but you must stand it or be set down as
+small." I came to time.</p>
+   <p>Disembarkation soon followed, and we were ushered into the
+custom-house, where the examination of our trunks took place,
+and such a scene beggars description. Some laughable things
+transpired. My trunks were passed by. One man started to
+investigate them, but another said, " Let him alone; didn't he tell
+you he was going to Africa? Let him take anything to Africa
+he wants; they need it there."</p>
+   <p>Elder Geda and myself took a carriage for the Session Hotel,
+right in the heart of Liverpool. In front stood the towering
+monument of Wellington, a little further the great building
+known as St. George's Hall, just to the right the mighty art
+building, and to the left the Technological building, etc. A
+surging mass of humanity was moving in every direction. The
+tunic-uniformed and helmet-headed police were plentiful, it is
+true, but unlike our American police, not one had a club or a
+billy or a pistol about him. All the use they had for hands
+were to put them in their pockets. They say the American
+police are a set of brutes, and I about agree with them.
+   An English lady, at the dinner-table, became greatly smitten
+with my hair to-day, stroked it back and said she almost be-
+
+                     <fw>MISCELLANEOUS.                     453</fw>
+grudged it to me. I told her thousands of our people in America
+called my hair bad.    She said, tell them they are foolish.
+   They have the largest horses in Liverpool my eyes ever beheld;
+they can pull the heaviest burdens I ever saw. Some of their
+feet look like bushel tubs.</p>
+   <p>The general intelligence of the people is far ahead of our
+people, and no wonder; every night there are lectures upon
+every subject the mind of man can contemplate—astronomy,
+geology, botany, natural history, conchology, water, smoke, 
+continents, mountains, valleys, clouds, anatomy, physiology, lice,
+spiders, whiskey, eatables, shipping, trees and everything. Elder
+Geda and I heard a Roman Catholic Priest lecture on botany
+with masterly ability this evening, yet not a cent was charged at
+the door; all these lectures are free to the public. I have told
+our young ministers for years, to learn to lecture; that our race
+will never be anything till they do so. I am now satisfied, as
+never before, that I was right. These lectures are attended, too,
+not by the finely attired only, but by the laboring people. But,
+to cap the climax; after the lectures, theaters and churches close,
+the people by thousands upon thousands gather in all the large
+city squares, and, unless too cold or rainy, sing some of the
+sweetest hymns ever heard on earth. Men, women, children,
+strangers, all join in, till the melody of the song literally 
+reverberates through the city! They bring organs into the streets 
+and somebody plays while the people sing for about an hour, then
+all go home to bed. I never dreamed that such procedure
+existed this side of heaven. I have been preaching for years
+that the mission of the Gospel is the heavenization of earth, and
+now I am sure my position is correct, if I ever had any doubt
+before.</p>
+   <p>Elder Geda and myself went down this afternoon and looked
+at an African ship which will leave Saturday, 24th inst., for the
+places of our destination. The ship is called the " Roquelle."
+We met several native Africans from Sierre Leone, of the Crew
+or Kroo tribe, who know Brother Frederick, and when they
+were told by Elder Geda that I was going there, they laughed
+and shook my hand for joy. They said, " We been look for ze
+long time." The Crew tribe seems to be .a superior class of men.
+Their heads are round, symmetrical and frontly high; only one
+cephalic cranium of the six, and not a receder in the number.
+The ship " Roquelle " is rather small, but they say she rides old
+ocean like a duck. At all events we shall try her Saturday
+morning at ten o'clock. Several white African merchants are
+here, and I find them a little tainted with color-phobia, as Bishop
+Tanner calls it These Africans say: " He not act so in our
+country."</p>
+   <p>I am urged to remain over and speak on Sabbath, and to visit
+London and other points of interest, but I prefer to proceed to
+Africa.
+</p>
+<fw>454                      CHURCH REVIEW.</fw>
+                                                     <p>October 23.
+   Last night several gentlemen called into the hotel parlors, and
+we talked till 12 o'clock. We discussed the McKinley bill at
+great length. They told me how it affected England, and how
+many manufacturing places it had closed. I gave them to
+understand that somebody had to be affected, and that free tariff
+or no tariff would close up our manufactories by the scores, and
+Great Britain could endure it as well as we. I never let on to
+them that I did not care three cents about it, one way or the
+other, but I do not; as it is all white man any way, yet as they
+thought I was a big factor in the matter, I let it go so.</p>
+   <p>I have traveled through the city to-day considerably, but to
+attempt a detailed account of my observations would be an effort
+of folly; I might as well try to describe creation as to describe
+my observations to-day, on the docks, the ships, historic halls,
+monuments, art scenes, relics, books, manuscripts, mementoes,
+furniture, paintings, vehicles, etc.</p>
+   <p>I looked and reasoned about my race, noted how far we are
+behind, and the possibilities of continuing there, and got sick,
+went to my hotel and fell over in bed and dreamed of earthquakes, 
+till my dead wife appeared and said, " Wait, God will
+wake our people up from their slumbers by-and-by."
+   A gentleman from Ireland wishes Elder Geda and myself to
+visit him. He said, "We have some colored Negroes over
+there, who are very nice people." Geda laughed, I winked at
+him to stop; the man meant all right I never thought of the
+term, " colored Negroes," before, but it fits in correctly in many
+instances, I confess.</p>
+   <p>Before closing this letter—as we shall leave for Africa in the
+morning, for I had rather see Africa than London and Paris put
+together. I wish to express my gratitude to Mr. William Henry
+Whittingham and his cultured wife, of Skipton, Yorkshire, England, 
+for kind attention and valuable information since we have
+been in the Session Hotel. They are stopping here only, true,
+but they know all about the country.</p>
+
+                       <fw>THIRD LETTER.</fw>
+                          <p>Steamship  “Roquelle,” October 24, 1891.
+Mr. Editor :
+   When I last night wrote to you, I was in the Session Hotel in
+Liverpool; now I am crossing the Irish Sea, inclining southward,
+bent upon Africa as my point of destination.
+   The ocean is quite calm and the hope is we may have a quiet
+sail, notwithstanding the rage which ships have encountered for
+the last three weeks. One African ship which left Liverpool
+some days ago, had to return, owing to the unusual winds and
+heavy billows.</p>
+   <p>I had some long interviews with the leading merchants of
+Liverpool, and with men who manage iron ships by the scores,
+
+                      <fw>  MISCELLANEOUS.                    455</fw>
+and the Lord Bishop, as the writer was called, was heard with
+great eagerness. What may follow I dare not indicate at present, 
+but the writer is offered more than he would think of accepting.
+I am cabined with a regular African, and without doubt he is
+one of the most learned men I ever met. His name is Matthew
+Thomas, of Lagas, West Coast; black as ink, reads and talks
+English, French, German, Italian and Spanish; reads Greek,
+Latin, Hebrew, Syriac and Arabic, and virtually talks Latin. He
+took up the New Testament this afternoon, and found out I had
+been reading some Latin, and he read it awhile and quoted so
+much Scripture in Latin and Greek that I had to go to nodding
+to get him to stop. Talk about the African being ignorant; here
+is one who has no superior for book learning in our country, yet
+he is only 37 years of age. Everything involving book learning
+he seems to be the master of. If it was not for my knowledge
+of science and transcendentalisms, I would be afraid of him, but
+while he runs away from me in books, I can hold him a little in
+theories. But for the fact he takes his toddy when he feels like
+it, I should urge that he be invited to a chair of languages
+in some of our colleges. He however holds a commission in
+his pocket which might prevent him from accepting.
+I am surprised at the number of African ships running out of
+Liverpool, yet they cannot accommodate the trade and passengers.    
+This ship is crowded to density with passengers.
+They are building a number of other larger ships for the trade.
+The African Steamship Navigation Company, of which the Roquelle, 
+(this ship) is one, has fifty-three steamships in the African
+trade, besides what Germany, France, etc., have running there.
+Europe has   about  eighty steamships hugging the African
+coast the year round, yet our country cannot find employment
+for one.    But  English  merchants soon will  if contemplated
+measures are not foiled.</p>
+                                                    <p>October 25.
+   This is Sabbath again and I am out on the deep blue waters.
+Divine service was held to-day at 10.30 o'clock. Elder Geda
+and myself took part. The sun shines with splendor and the
+ocean is quiet. We are verging the Bay of Biscay; some fears
+are entertained of a little rough weather, but the captain says
+not. Elder Geda sang a number of old-time hymns this evening to 
+the pleasure of all who heard them. Rev. John Edmond
+Sedgewick, D.D., of the English Church, is "a passenger to one
+of the islands; he is a man of rare learning in theology, yet he
+is high church to kill. Edwin Bergstrester, M. D., of Abilene,
+Kan., United States, is also a passenger on the ship and is en
+route for the Madeira Islands.</p>
+                                                     <p>October 26.
+The wind rose last night and the sea was quite ugly this morning
+We were almost to the Bay of Biscay and considerable uneasiness
+
+<fw>456                    CHURCH REVIEW.</fw>
+existed as to the possibilities of encountering a gale while 
+crossing that rough arm of the ocean, for the Bay of Biscay is 
+always disorderly at best. About 12 o'clock we entered the bay. 
+Elder Geda suggested that we go and pray for God to quiet the 
+winds. We went. Shortly the wind quieted down. Whether God
+heard his or my prayer I cannot tell. The captain said that
+after 12 o'clock the winds would calm any way. The ocean is
+somewhat undulating, but this is said to be indigenous to the
+bay.</p>
+   <p>Dr. Sedgewick, after scanning cursorily " Methodist Polity,"
+thinks the A. M. E. Church has the best machinery for the
+African mission work of any church in Christendom. He is
+amazed at such a church among the people of African descent.
+He is also surprised that the author of the work on the " Relation 
+of Baptized Children to the Church," by Dr. L. J. Coppin,
+should be a black man.</p>
+  <p> I am becoming accustomed to ocean life. At first the rocking
+of the ship was rather annoying, but it is now pleasant; one can
+sleep so comfortably in the rolling cradle of the sea. They all
+say I am a fine sailor, but had they known my fright for two or
+three times at first, they might not have been so complimentary.
+I was quiet, but looking heavenward in earnest.</p>
+                                                       <p>October 27.
+   We had a grand time last night. Right in the Bay of Biscay
+everything was as calm as any one could wish; all day we have
+had the same. There was a considerable sensation about 3
+o'clock, when the engine stopped and smoke was seen rushing
+out of the engine room. But it turned out to be a hot shaft
+only, which was soon cooled off.</p>
+  <p> A small boat passed us to-day with two little sails, skipping
+nicely over the water a thousand miles from land. Several birds
+came last night and took up their abode upon the ship and have
+remained with us all day, flying off and on again. A pet goat
+is on the ship, which is the playmate of every one; his instinct
+about gales and storms is better than the captain's barometer.
+Dr. Stephenson ought to be here to direct his morals. When I
+reached Liverpool I found that Philadelphia time was five hours
+behind; as I move southwestward I see another change is
+taking place.</p>
+                                                      <p>October 28.
+   The ocean is smooth as glass. Our ship glides along like a
+creature of life. The passengers sit on deck, read, sing, play the
+piano and organ, talk, walk and sleep.</p>
+  <p> We are gradually approaching the Madeira Islands, which is
+a great health resort; there are people on the ship from various
+parts of the world, bound for these islands, for the benefit of
+their health. As we approach the south the sun becomes more
+vertical in the heavens, and new stars appear which I never saw
+
+                       <fw>MISCELLANEOUS.                        457</fw>
+before. I have not seen the Southern Cross yet, a sight I have
+desired to see for many years; it cannot be seen from the United
+States.</p>
+  <p> To-day at 12 o'clock we were in latitude 39 degrees, 44
+seconds north, and in longitude 13 degrees west; so you see we
+are a long way from home.
+   I have not had the least sea-sickness yet; they say my
+stomach is iron-clad.
+   I had a hearty laugh at an African to-day, who bought a new
+pair of pants and tried to put them on while lying down.
+   Elder Geda has opened a school for the seven illiterate Africans 
+on the ship.</p>
+                                                     <p> October 29.
+   The ocean is still quiet; scarcely a ripple can be seen upon
+the great expanse of the deep waters, except what is made by
+our ship as she curls the waters behind her.</p>
+   <p>About 10 o'clock to-day an American steamship from New
+York passed us, going to somewhere, but no one knows where.
+I was glad to see our flag, while I knew that there was not a star
+in the galaxy that recognized the manhood of her black inhabitants.</p>
+   <p>I overheard a conversation to-day going on between a number
+of whites, English, Welsh, Portuguese, etc., and they all decided
+that Africa was forever doomed ; that white men could not well
+live there and the black man, whether in Africa or elsewhere, was
+a failure. They could not understand why God should give the
+Negro the richest spot on earth, and that her people should be
+the poorest specimens of humanity in the world. They reasoned
+the Negro out as fit for nothing but to play, idle, drink whiskey
+and steal from the white race. After they had concluded I
+stepped out and met every argument advanced, and told them
+what I had seen black men do, and while they might steal from
+white men, they did not steal from each other in Africa, as the
+whites who lived among them in Africa had to admit.</p>
+   <p>Mr. Matthew Thomas holds that all races started black, and
+presents a powerful argument in the maintenance of his position.
+I told him that the learned Professor Winchell had been dis-
+missed from Vanderbilt University, Tenn., for advancing that
+doctrine. Mr. Thomas sprang to his feet, and with many gesticulations 
+and, indeed, with some genuflection, exclaimed,
+" Winchell is right; right, I say; yes, he is a scientist and a 
+philosopher of the first type." Mr. Thomas reasons so masterly
+upon this ethnological postulate that I am almost a convert</p>
+   <p>One of the native Africans employed on the ship and the
+chief cook (white) had a big row to-day; the cook struck at the
+African twice, but the African did not dodge worth a cent, stood
+cool and awaited the blow of his assailant, which was not given.
+The African said, " Tu lu shu sa moot boo." I asked one who
+could speak English what he had said; he replied, he said " If
+that man struck him he would throw him in the ocean."</p>
+
+<fw>458                    CHURCH REVIEW.</fw>
+   <p>The days and nights are almost equal in length here; one or
+two more days' sail and they will be equal. We are overtaking
+the sun, it seems.</p>
+  <p> We are now one hundred miles from the Island of Madeira,
+where I shall mail this letter, so I close, and will let you know
+about the island in my next.</p>
+                       <fw>FOURTH LETTER.</fw>
+                         <p>Funchal, Madeira Island, October 30, 1891.
+Mr. Editor :
+   I closed my third letter last night when within a hundred
+miles of the Madeira Island, where I mailed it this morning.
+   Early this morning Elder Geda called me and said, " Get up
+and see a sight." I feared it was something of a distressing nature,
+as the tail end of a heavy squall had struck the ship at four
+o'clock, but reposing in the consciousness that I was in God's
+hands, I had fallen asleep again. I got up, however, and walked
+out upon the deck ; and such a scene as met my eye no pen can
+picture ! Thirty miles in front stood the Island of Madeira, with
+its sunlit brow reaching 6,000 feet into the heavens; all around
+the ship was still dark, the god of day had not thrown his fiery
+beams upon the waters about us, but had passed over our heads
+and was penciling the summits of Madeira with hues of liquid
+gold. The peaks and splits on the top, and the clouds which
+floated around the caps of the lofty elevations, all gilded with the
+varied tints of the sun, imparted a novelization to the sight in mid-
+ocean,.that ecstasized every fiber of my being.</p>
+   <p>Several days had passed since anything had saluted our eyes,
+but other vessels bound for the ports of their own choice; but
+here is terra firma again. But it looks like the harbor of heaven
+itself.</p>
+   <p>This island, 38 miles long and 15 miles broad, with a population 
+of 140,000 inhabitants, belongs to Portugal.</p>
+   <p>As I drew near to this odd projection, towering out of mid-
+ocean, dotted with houses on its craggy sides, with vineyards and
+trees all a-bloom with beautiful and fragrant flowers, I naturally
+asked the infinite past how long or under what circumstances?
+this babe of nature had been born.  I involuntarily exclaimed,
+  
+                Great granite monster, whence thy birth;
+                  What power upheaved thy giant form,
+                Why has the rent and laboring earth
+                  Disgorged thee bare to sun and storm?</p>
+
+   <p>However, while it presented the appearance of gray granite at
+a distance, a closer inspection revealed the fact that it was a dark
+basaltic stone with several precipitous elevations resembling the
+palisades on the Hudson River. I do not remember of ever seeing 
+anything answering to it, except between Sherman and Ogden 
+on the Northern Pacific Railroad. As I realized that it was
+a product of volcanic action, I asked Dr. Sedgewick, how old he
+
+                    <fw>MISCELLANEOUS.                     459</fw>
+supposed it was? He said twenty million years. I told him I
+was about to hypothecate five million. He thought that would
+call for aqueous deposits, which did not exist there. But learned
+as this English prelate is, I think his reasoning faulty. But as
+your readers may be more concerned about the other phases of
+the island than its scientific side, let us proceed.</p>
+   <p>About a mile before we reached Funchal, the principal city,
+where the ships stop to discharge their cargo, several small
+boats met us with two boys in each; one with a shirt off and
+the other doing the rowing, and such a jabber in Portuguese
+you never heard, begging the passengers to throw money over
+into the ocean, where the water is five hundred feet deep. Several 
+did so, and they would leap out of their boats and under
+the water they would go. But in a few moments they would
+come up with the money in hand. Dozens of persons threw
+money in the ocean, but the boys caught it all, and such a
+babble when they would rise with it. When the ship anchored,
+for there are no wharfs, then came another bedlam—custom-
+house officers, quarantine doctors and boat-rowers to carry you
+ashore for a shilling. The captain said, the ship would remain
+here twenty-four hours.</p>
+  <p> A missionary stationed here from England, Rev. William G.
+Smart, came aboard and took Dr. Sedge wick and wife, Elder
+Geda and myself ashore, and treated us with marked consideration. 
+He showed us his mission buildings, gave us a fine dinner,
+had his school to sing for us, etc.</p>
+   <p>The knives here are sharp on both sides, and as keen as a razor.
+I cut my mouth with them twice, and for once had to eat with a
+fork. Fruits of all kind were upon the table, but the passion fruit
+beat anything I ever saw.</p>
+   <p>The Roman Catholics have the island in their clutches. They
+have here one Bishop and 155 priests. They call a Methodist,
+Baptist, Presbyterian,—or any other Protestant,—" the imps of
+hell." Priests walk the streets in their robes in all directions, and
+everybody pays them homage.</p>
+   <p>You see nothing on wheels; everything is on sleighs pulled
+by oxen—not horses, mules or asses—yet these oxen, unlike ours, 
+move as fast as our horses. The sleighs glide over the smooth
+stones as easily as over ice. I saw only one horse on the island,
+and he was being rode. It is a mark of distinction to have a
+horse.</p>
+  <p> Rev. Emanuel Melin, formerly of Jacksonville, 111., near Springfield, 
+called upon me, and when I told him I had visited Jacksonville 
+in July, he almost went frantic with delight.</p>
+   <p>The representative of our government, whom President Harrison 
+has sent here, is an ass, and ought to be moved from here at
+once. He has not the respect of the rabble, much less the better
+class. He is an Irish Catholic bigot of the baser sort, and a regular 
+rough besides.
+   30</p>
+
+<fw>46o                     CHURCH REVIEW.</fw>
+   <p>Here is where the celebrated Madeira wines are made, and I
+find all nations are grabbing for them.</p>
+   <p>I did not see a colored man on the island; but the Portuguese 
+themselves are yellow people; some have hair quite curly.</p>
+   <p>Another island juts up out of the ocean some 23 miles north-
+east of Madeira, and is called the Porto Sante Island. Here
+is where Columbus studied out the route to America. It is
+now inhabited by only 1,850 persons; the highest point reaches
+1,666 feet toward heaven. It, too, is the result of volcanic
+action. About 11 miles southeast, Desertas Island also lifts a
+rugged head above the waters 1,610 feet. It is six miles long
+and one mile broad. The only inhabitants living upon it are
+goats and rabbits. The eagles repair there at times to build their
+nests. There are no snakes upon any of these islands. A legend
+relates that a man once upon a time started there with some
+snakes, but a storm sunk the ship and all on board were lost, and
+no one has tried the experiment since. How the goats and rabbits 
+got upon the barren island no one can surmise. They were
+said to have been there when first discovered at least 2,700
+years ago.</p>
+   <p>The Madeira Island has a variety of mineral, springs, which
+draw health-seekers from England, France, America, Spain,
+Italy, etc. But enough for this island, as the half could not be
+told of its grandeur, beauty, fertility, etc.</p>
+                                                     <p>October 31.
+   After resting at anchor all night and discharging the remaining 
+cargo this morning, our ship steamed away for the island of
+Teneriffe this forenoon at 10 o'clock. The wind was a bit brisk
+and the sea a little undulating; but in a short time all was still
+and the ocean seemed to get too lazy to move. The day was
+rather monotonous as some of our passengers had left us at Madeira.   
+We have 255 miles to go before we reach Teneriffe.</p>
+                                                      <p>November 1.
+   Early this morning I arose, dressed and came out to take 
+observations.</p>
+   <p>The sun while not up, was throwing his illuminated plumes
+upon the upper atmosphere and floating sheet clouds were
+fulgent with the glory of his radiant beams, and grey dawn was
+succumbing to the majesty of his revolving approach, and all the
+east seemed to be aglow with the imperious hippodrome of concentrated 
+splendor. A short while passed and a crescent oriole
+oscillated above the ocean's pulsation, a fiery wheel rises from the
+depths, and the scene becomes a halo of indescribable grandeur.
+And then, as if conscious of his matchless majesty, he seemed to
+look down upon the face of the sleeping ocean, and threw his
+vermilion tinge with such force that the blue waters themselves
+vesicated, and to my eye were check colored for several minutes.
+But this did not obscure the surface of the seemingly sluggish
+
+                       <fw>MISCELLANEOUS.                         461</fw>
+waters, which were as still as death, for they reflected the prismoid 
+tints of old Sol, till the ocean appeared to be aflame itself.
+As far as the eye could skirt the blue waters, they appeared to be
+on fire. I said to Elder Geda," Great heavens, the ocean is burning!" 
+He laughed and I resumed my balance. I never saw such
+earthly splendor in my life. I can never see a sight more soul-ravishing, 
+if I live a thousand years, yet, they tell me sun-rising
+in Africa can beat that; but I cannot believe it, as in fact we are
+now within seventy-five miles of Morocco, Africa; while it will
+take us some days yet to reach Sierra Leone.</p>
+   <p>When I had gotten through with sun-rising and its supernal-ness, 
+Mrs. Dr. Sedgewick called my attention to the other side of
+the ship, as she had been watching for the peak of the Island of
+Teneriffe. There another scene of huge and rugged majesty met
+my eye. Teneriffe is' about 6,000 feet above the ocean surface,
+with a massive circular cone extending heavenward 14,000 feet,
+from the summit of which steam and smoke issue. I had never
+seen a live volcano before, and as you may judge, it was a novel
+sight. Geda and I looked on with amazement. As we neared
+the island you could see sheet clouds mantling it about midway.
+But, oh, such a sight! It was worth all the travel itself. Teneriffe
+Island is 61 miles long and 37 miles wide with a population of
+106,000 persons. It is principally composed of volcanic Scoria
+and slag petrescence, with a large number of small cones, slits,
+gulches and gorges and the mighty peak which can be seen two
+hundred miles at sea. The early Spanish settlers, for Teneriffe
+belongs to Spain, called this peak the " mouth of hell." The
+ancients, you remember, called it the " abode of Hesperides " and
+14,000 years before Christ the peak was called " the throne of
+Jupiter." If I was at my library in Atlanta, I could give you the
+history of the island, but I have no books here on the subject.
+I think that Hercules had something to do with this place. But
+I am afraid to quote doubtful history. But I am sure that it was
+called " the island of the blessed " while it contained the mouth
+of hell. And it is a grand spot. This being Sabbath, and the
+ship having to remain twenty-four hours or more here, I said
+to Elder Geda, "Let us go ashore and visit some church." We
+did so and fell into a Roman Catholic Cathedral. We witnessed 
+a baptism, a funeral, and heard and saw much and
+understood nothing we heard, for it was all in Spanish. But
+the dress, looks of the people, beautiful streets, horses, carriages,
+fine houses, and all told us we were in the midst of an excellent
+people.</p>
+   <p>This Spanish island has a superior class of people upon it to
+those in Madeira. I have not seen a black face upon either island, 
+however. The weather is similar to our June here at present.
+It is quite warm. This morning another fight was on the
+ship. Three white sailors got in a fight with an African deck
+hand. They fought till I went after the captain to stop them.
+
+<fw>462                       CHURCH REVIEW.</fw>
+The African faced the three as bravely as a lion, and every time
+he struck either of them the blood flowed like water. But the
+three white sailors never drew a drop of blood from him. The
+captain parted them and took sides with the African. The African 
+said : " Has sa kee foo buer se de hoo," which means, " I
+can whip a dozen of such dogs."</p>
+   <p>I must close this letter without beginning to describe the many
+things of interest about Teneriffe. As in fact we are at the island
+of the blessed. Outside of that smoking mountain I have never
+seen any place that looks more inviting. Yet the mountain has
+not erupted in ioo years. We will leave here some time to-mor-
+row for the grand Canary Islands—sixty-five miles southeast. I
+shall mail this letter there.</p>
+                                                     <p>November 2.
+   To-day at one o'clock our ship weighed anchor and we started
+for the grand Canary Island.
+   The ocean looked like a great basin of oil or molasses; not a
+ripple upon the surface. No wonder the people are said to be
+lazy in this region of the world, for the waters of the sea are too
+lazy to move; they scarcely want to move when the ship passes
+through them. The ocean seems to be a huge pond with no life
+in it. They say it takes a regular tornado to move it. As we
+steamed out from Teneriffe, and looked back, the volcanic cone
+lifted its cloudless brow skyward in awful majesty. All eyes
+were riveted upon the mighty peak, but no steam issued from its
+summit as we saw yesterday morning.</p>
+   <p>In front stood the grand Canary, with peaks 7,000 feet high,
+apparently ten miles off instead of sixty miles, and a placid ocean
+to pass us safely on.</p>
+   <p>A gentleman tried to show me a portion of the Saharian Desert
+in Africa, but I could not see it, nor do I believe he did, though
+we are on the African coast. They tell me I will see the canary
+birds flying around wild, for here is the place of their origin.</p>
+   <p>These islands look grand beyond estimate, and while our ship
+wastes a sight of time at them, passengers have an opportunity to
+go ashore and take in marvelous sights.</p>
+   <p>The days are two hours longer here than they are at Liver-
+pool, and the weather is quite warm. Nature is all in bloom
+and flowers are fragrant and sweet</p>
+  <p> We reached grand Canary at 6.30 o'clock this evening, and
+will remain here at least 24 hours.</p>
+   <p>Geda and I will go out sight-seeing in the morning. Geda
+says it is the garden of Eden or paradise won.</p>
+                       <fw>FIFTH LETTER.</fw>
+                         <p>Las Palm as, Grand Canary, November 3, 1891.
+   After spending 26 hours at this magnificent island the ship
+raised anchor at 7 p.m., and we are just starting again for the
+
+                    <fw>MISCELLANEOUS.                       463</fw>
+remainder of our trip. Early this morning I arose, and, after eating 
+breakfast, Elder Geda and myself went ashore and rode
+around a crescent-shaped peninsula which joins the larger and
+smaller islands together, and began to take observations. I soon
+discovered that the Grand Canary Island was by far the most
+thrifty place we had visited. There were more ships in the harbor, 
+more evidences of business, and a higher taste for the beau-
+tiful and ornamental, but an attempt to describe the museum,
+concrete pavements, squares of flowers and many other things
+would be useless.</p>
+   <p>Extinct volcano craters took up a large share of my attention.
+With their slag twisted into a thousand singular and unique
+forms, stalactic in appearance, quite often, and frequently univalvular 
+in shape.</p>
+  <p>But the most imposing sight, so far as human art extends,
+was the great Roman Catholic cathedral, a giant building itself,
+and possessing valuables incalculable. Hearing so much on the
+way about it, we resolved to see it. About ten o'clock a boy
+became our conductor, and proffered to show us in and outside
+of the object of our desire. He led and we followed; as we
+stepped into the great auditorium the sweetest music conceivable 
+saluted our ears. We sauntered around for awhile and
+stepped into a small room where there was an open door, and
+where, the boy told us, we could go without violating any rule.
+In a few moments a priest came in and seized the boy by the
+ears and knocked him about fearfully, for being in that sacred
+place. But he said to us, "You are all right; look on, look on."
+We were too glad to escape like punishment. The priest then
+became our conductor, and in broken English began to explain
+the wonders in view. He had at least a dozen keys, and after
+showing us the silver altar, which cost thirty thousand dollars
+alone, and other golden utensils, diamonds and gems, which must
+have cost enormous sums, he showed us several old books written 
+upon parchment long before the art of printing was discovered. 
+He showed us a religious work in Latin, written in the
+year of our Lord 261, making the book 1630 years old. The
+backs of the books were made of boards, an inch thick, and they
+were bound with rawhide. Other books were 1300, 1200 and
+900 years old, yet the letters were large, well made and displayed 
+a care, a neatness, a patience, a particularity that did
+credit to the scribes of the olden times. Some of these old
+books were about a yard long, and 20 inches wide, and from 6
+to 8 inches thick. I could scarcely lift one of them.</p>
+   <p>The sight of these old volumes, and the struggles and
+revolutions which they had witnessed, and the nations they
+had existed through the rise and fall of, the men they had
+seen (metaphorically) born and disappear as vapors before
+the gale, gave me such a respect and admiration for them,
+that I went before the altar of the  Cathedral, fell upon my
+
+<fw>464                  CHURCH REVIEW.</fw>
+knees and thanked God for the honor of touching these
+old religious volumes, much less seeing them. One of these
+volumes contains the Gospel by St. John, alone, in Latin,
+and another the Acts of the Apostles. It is thought that during
+the wars and revolutions in Europe and Africa, hundreds of
+years ago, that these old manuscripts were sent over to these
+islands in the ocean, to be protected by these sea-girt asylums.
+Who knows but what God had the sibilant and irritating fires
+coursing through subterraneous vaults millions of years ago to
+hurl these islands up to preserve certain records from the ruthless 
+hands of wicked men ? Records, too, that would have made
+his Church a virtual nonentity if they were wanting. For, while
+the Grand Canary, and indeed all these islands, are upon the
+African coast, they are nevertheless in accessible proximity to
+Europe. So there is more to be seen here than scoria, slag, 
+cinderated basalt and igneously constructed valves. Let us return,
+however, to our priest conductor.</p>
+   <p>After concluding our observations here, he led us into the
+rear and down-stairs rooms of the Cathedral; each door he
+would come to had to be unlocked and then locked again behind us. 
+As we descended into the basement compartments,
+with massive iron doors and heavy stone walls, Elder Geda, for
+once turned white, for he knew no cry of alarm would ever be
+heard from those cryptic cells. I felt a bit weak in the knees,
+but neither of us let on. The priest showed us strange sights,
+but we were too scared to remember much. We were anxious
+to get out; we did not like those doors being locked behind
+us.</p>
+   <p>In process of time, however, he retraced his route, and door
+after door was unlocked and relocked, till we were in the main
+auditorium. O, what a relief it was! I gave him eight shillings,
+or two dollars. Elder Geda gave him one shilling, and the
+priest bowed good day. He was the most obliging priest I ever
+met.</p>
+   <p>A novel feet about Grand Canary Island, which is thirty-eight
+miles long, thirty-six miles wide and some four or six thousand
+feet high, is the fact that at a certain point, covering several acres,
+a mysterious quantity of sand is accumulating and thickening
+all the time. It has killed out or submerged all the vegetation
+which grew there, and the surface is being raised and arid, but
+where it comes from no one can tell. They say it does not rise
+out of the ocean, nor could it be conveyed from any other portion 
+of the island. The conclusion, therefore, is, that it is blown
+from the Saharian Desert in Africa, some sixty miles away. Yet
+no one can assert that as a fact Its increase, however, is creating 
+some concern. Strange to say, no one thinks about Elder
+Gedi and I being colored men on any of the islands. I mean at
+Madeira, Teneriffe or here at Grand Canary. Anybody not
+purely black is no African with them. I told some I was a Ne-
+
+                    <fw>MISCELLANEOUS.                             465</fw>
+gro; they said " No, no!" Yet they do not care about color, for
+there is no prejudice. Messrs. Thomas and Sams, both dark as
+men can be, meet no repulsiveness. I have looked in vain for a
+sight to establish an A. M. E. Church Mission on any of these
+islands. I would like to see a church of ours upon one or more.
+But these people, I fear, would not join, owing to Catholicism.
+The Peak at Teneriffe is so plain here that it scarcely looks ten
+miles off. We will now stop with the islands; the ship has
+started for Sierra Leone again.</p>
+                                                        <p>November 4.
+   We had a pleasant sail last night and to-day. The ocean is
+quite calm and respectful. All the ladies left the ship at Grand
+Canary, and our companions are now men, bulls, and cows,
+sheep, goats, chickens, ducks, geese, cats, dogs and a few rats;
+all except the rats, run around on the ship at liberty. The sand mounds 
+of Sahara, on the African coast, can be seen occasionally. 
+Flying-fish every once and awhile spring up and fly for
+a hundred or two yards and plunge under water. The constellations, 
+Orion, Andromeda, Hercules and the Dipper, seem
+located in the heavens a little differently from the way 
+they appear in America.</p>
+                                                  <p>November 5 and 6.
+   We have reached the trade-wind region, but they, too, are
+quiet. So everything is dull and calm. The men sing and walk
+around, play games of various kinds nod and read and talk
+about everything in creation. I went after the captain to run the
+ship faster; ten miles an hour being too slow, when he could
+make several more. He said, "The colored people 6f the United
+States throw enough money away, yearly, for whiskey, to build
+fifty ships that could run twenty miles an hour, and I had better
+get them to save their money and build a faster ship." "Englishmen, 
+"he said," were slow but sure."He also said," The
+United States had no African steamers at all—neither fast or
+slow." I had no more to say.</p>
+   <p>Mr. Matthew Thomas, the great scholar, read the prize essay
+of Miss Elizabeth Jackson, of Wilberforce, on Africa, to-day,
+and became so infatuated with her, that he said," She must be
+my wife." He asked me what I would charge to court her for
+him. I told him a thousand dollars, as she was worth a hundred
+thousand.</p>
+   <p>Mr. William Roberts, the second officer of the ship, at my
+request, measured with his instruments to-day the distance from
+New York to Liberia, Africa. The distance is 3,720 miles.
+From New York to Liverpool is 3,115 miles, and from Liverpool 
+to Liberia, Africa, is 3,250 miles; so coming to Liberia,
+Africa, by way of Liverpool, makes the distance 6,365 miles.
+Had we a steamer from New York to Africa we could save 2,645
+miles travel, and save 300 more from Charleston or Savannah.
+
+<fw>466                     CHURCH REVIEW.</fw>
+This ship skirts the coast of Africa about 3,000 miles and
+returns.</p>
+   <p>The captain took his map and showed me, a few moments
+ago, 39 mission points where, to his knowledge, a missionary-
+is now needed, and 15a other points where he is almost certain
+missionaries would be permitted to live. Gracious! the work
+here is so enormous that its ponderosity frightens me. Bishop
+Taylor's self-supporting scheme is severely criticised by all the
+shipmen, traders and merchants now on the ship.</p>
+                                                    <p>November 7.
+   We passed a vast African promontory to-day, and the forest
+upon land, as revealed through my large eye-glasses, was simply
+massive.</p>
+   <p>The ship put on a new dress yesterday; vast stores of everything 
+that can be thought of were opened and arranged for the
+natives to purchase when they began to land along the coast
+where the people are most numerous. Not less than six magnificent 
+stores are now in full blast; all kinds of dry goods, musical 
+instruments, trinkets, and everything except books and
+papers; yes, and a few Bibles and hymn-books. They sell these
+goods to the natives for three, four, and five times their value in
+Liverpool; but, after all, it is doing good, for several natives are
+now going to Liverpool and London and learning to speculate
+themselves. Mr. Thomas says, "If our brethren will not come
+from America and make themselves immensely rich by traffic, as
+they might do in a few years, we natives will do it ourselves;
+white men shall not always be getting rich off us."</p>
+                                                   <p>November 8.
+   We are anchored in front of lies De Los, sixty miles from
+Sierra Leone; but I have seen the high mountains of Sierra
+Leone through my large glasses, which appear awfully sublime.
+I had no idea that such a mighty range of mountains ran along
+the coast here as I see lifting their mighty summits skyward. I
+have been ashore and trod the African soil at last, and nature
+here is lavish with her stores. True, the weather is quite warm,
+the thermometer at seventy-six degrees, but I have felt it twenty
+odd degrees warmer in America. The ocean has been marvelously 
+quiet ever since we left the Bay of Biscay; but they tell
+me they never have storms here to last over two hours. The
+ocean is nearly always calm, and fish sporting in the waters.
+I had heard so much since I left Liverpool about the laziness,
+stupidness and worthlessness of the native African, that I had
+almost become disheartened, and was about to think my expectations 
+would be a myth; so to-day as we steamed up here to
+this French port (as it belongs to France). I saw two pilot-boats
+pulling to meet us, with -dressed men in the rear, and four seemingly 
+naked Africans bending to the oars. One had a black
+
+                     <fw>  MISCELLANEOUS.                            467</fw>
+pilot, the other a white one. The black pilot beat, and took our
+ship in charge. He was dressed, but barefooted ; the white pilot
+had on shoes ; the rowers, or oarsmen, were all naked, except
+about the waist. I said to Geda,"Things are gloomy here."
+Geda shook his head and dropped it. Finally the cannon was
+fired, the anchor let down, and the ship stopped.</p>
+   <p>Then from the shore came the oar-boats in large numbers, for
+all the freight had to be boated from the ship to the shore, there
+being no wharves here. But the scene changed. Here came
+native Africans by the score, nearly all decently dressed, some
+finely attired, others with only shirts on, some with only pants,
+only a few with waist napkin*. They literally thronged the
+ship from end to end, and began to unload the ship and carry
+the freight ashore as actively, as aptly and as intelligently as I
+had seen anywhere since I left New York. Their head men understood 
+running the steam machines, gave intelligent orders,
+and beat the Portuguese at Madeira all hollow in managing
+affairs. These Africans are men, naked or clothed. Some are
+members of Frederick's Church, at Sierra Leone, and were enraptured 
+when told we were Parson Frederick's missionaries.
+Some said, "Daddy Frederick been look for ye long time; you
+be welcome, welcome a heap."</p>
+   <p>I was amused to see a half nude African and the ship-clerk
+get into a dispute in running up some figures about the freight
+he took in his boat. The African told him," You no understand
+arithmetic." The clerk insisted he was right. The African
+snatched the clerk's book from his hand, ran over the figures,
+pointed out the mistake and told him to go to school again.
+Several African ladies are on the ship, and I never saw hair fixed
+up as finely as two of theirs was. It is rolled like watch-chains.
+But as I am so near Sierra Leone, I will close this letter. Geda
+is pleased all over with the African, and I am crazy with delight
+so far. I do not know what is ahead yet.</p>
+
+                        <fw>SIXTH LETTER.</fw>
+                     <p>Freetown, Sierra Leone, Africa, November 12,1891.
+Mr. Editor :
+   I arrived here a few days ago, after a rather tedious jaunt from
+Liverpool. The ship could run fast enough, but the captain would
+not let it.
+   My reception here was indescribable. The ship came into port
+late at night, but I awoke early in the morning and looked out
+upon the city and saw a place much resembling Vicksburg,
+Miss., except that the mountains rose in the rear of the city much
+higher than the lofty bluffs of Vicksburg; upon the inclinations
+or declivities of the receding elevations a city of 30,000 population
+stood in surprising majesty—surprising by reason of the wide
+streets and stately two-, three- and four-story buildings which
+stretched along the streets for a mile or two. I had looked for
+
+<fw>468                     CHURCH REVIEW.</fw>
+no such place. I thought it was a low, swampy, lagoony town.
+with narrow, muddy streets, as filthy as a cess-pool; but cleanliness, 
+pavements, sidewalks, rock-sewers and decency everywhere
+met my eye. But when I pointed this and that fine building out,
+and was told that they all belonged to black men, I was surprised
+more than ever. Again, when I inquired about the great cathedral, 
+with tower and clock, and other large churches, with spires,
+domes and steeples, and was told they were all black people's
+churches, I had to say, thank God for this sight!</p>
+   <p>Shortly boats came to the ship in scores, and the ship was
+crowded with black men. All had clothes on and some were
+finely clad. Every officer was black, and some were haughty and
+dictatorial as lords; a few a little too much so, I thought; but
+when I discovered the downright villainy of some of these
+English officers, I saw the point.</p>
+   <p>However, while standing upon the ship, noting things as they
+transpired, a gentleman from the wharf walked up and said, "Are
+you the Bishop of Mr. Frederick?" I replied," I am Bishop Turner." 
+He said, "Give me your card for him, as he has been
+looking for you several days." I gave him my card and he dis-
+appeared. In a short time Elder Frederick and Mr. Bowser, the
+representative of the United States Government, a noble-looking,
+brown-skinned gentleman, formerly from Ohio, came on board,
+accompanied by some more prominent gentlemen. The salutations were 
+cordial; Frederick and Geda hugged each other, etc.</p>
+   <p>In a few moments more we were en route for the wharf, where
+I expected to kiss the ground of my first proper disembarkation;
+but as I set my foot on shore, a waiting multitude of men and
+women rushed upon me and shook my hands and exclaimed,
+"Glory to God, hallelujah!" etc., till I was melted with tears. I
+never witnessed such emotions of thankfulness in all my life; but
+the scene beggars description.</p>
+   <p>Elder Geda, myself and trunks were conducted to the Custom
+House. Every Custom House official was black; the collector-
+in-chief was intensely black. All trunks were examined except
+mine and Geda's. The collector told his officers not to touch
+our trunks, but he asked me a few questions as to their contents,
+and ordered them passed through the Custom House. Frederick
+thanked him and marched them off to the Lady Huntington A.
+M. E. Church.</p>
+   <p>As we filed along the street for some four squares great crowds
+stood out and looked on with much eagerness.
+   The church was ultimately reached—an edifice, corresponding
+to our church in Richmond, Va., except that it has only one aisle,
+in the centre. As we entered, the packed house, up and down
+stairs, arose and sang," Praise God, from whom all blessings
+flow," in a most solemn and pathetic manner. Geda and I were
+conducted to the altar, and Elder Frederick gave out page 252,
+"We bid thee welcome in the Name," which was forcibly sung,
+
+                    <fw>    MISCELLANEOUS.                        469</fw>
+and prayer offered to heaven for us. I was then presented to the
+people in an able speech by Elder Frederick, but I could not
+speak, I was completely broken down. When I saw the emotions
+of gratitude, not to me, but to the Church I represented, I cried
+like a child; I would have given my life could all the Bishops
+have been present. While it is impossible to picture the scenes
+in words, let me say, the joy of those people—I mean our people
+—at the presence of a Bishop was simply overwhelming. They
+had been told so often that no Bishop would ever come from our
+Church, that the American colored Bishops did not care if they
+all were lost, etc.; and, strange to say, too, they were told this by
+white missionaries, so that when one did come their joy knew no
+bounds. Gracious alive! how white people have misrepresented
+the A. M. E. Church and her Bishops in Africa. I hate to say
+some of them were white Bishops, too, but it will have to be said
+ultimately.</p>
+  <p> This morning at 10 o'clock we opened the First Annual Conference 
+of the A. M. E. Church in Africa, in the Zion A. M. E.
+Church, formerly known as the Lady Huntington Church.
+   As Elder Geda is so well pleased with the possibilities of
+Africa that he is going to remain here, I have transferred him
+from New England to the Sierra Leone Annual Conference, which
+gives us at present five members of our Annual Conference, but
+as two learned Wesleyan preachers may join the Church to-night,
+it is likely we will soon have seven members. Our session to-day
+was watched with much interest; the term "African" to our
+Church is a magic word.</p>
+   <p>There is no Church on earth can grow like ours if we will half
+work. The heathen kings will drive out other denominations, so
+I am told, and declare our Church the Church of their kingdom.</p>
+   <p>But as I must close this letter, as the mail will soon leave—in
+one hour from now—I beg to say, the three days I have spent
+here have been fine. I am no more alarmed about sickness than
+I would be anywhere else. I may get sick and die, but I feel fine
+now. Geda says he is not scared worth a cent.</p>
+  <p> Sierra Leone is about like Memphis, Tenn.; Helena, Ark.;
+Vicksburg, Miss., or Baton Rouge, La.</p>
+  <p> I saw a white girl who came here from Ohio three weeks ago
+to marry a fellow; she is fourteen years old. She looks well
+enough.</p>
+  <p> I believe much of these European and American white
+people's deaths here at Sierra Leone is due to their liquor drink-
+ing ; most of them who come here are whiskey sots.</p>
+   <p>I may be sick here, but I shall not believe it till I feel it.
+Geda declares he feels better, yet from nine till one it is quite
+hot; but I have felt it much hotter in America.
+   I will write much more in my next letter.</p>
+
+<fw>470                    CHURCH REVIEW.</fw>
+                       <fw>SEVENTH LETTER.</fw>
+                    <p>Freetown, Sierra Leone, Africa, November 16, 1891.
+Mr. Editor :
+   In my last letter I stated the impressions and circumstances
+of my arrival at Sierra Leone. Before proceeding further
+on that line, permit me to state a fact that some of our learned
+men may philosophize upon in some of their leisure moments: 
+I find that the waters of the ocean here are more salty,
+dense and heavy, than the waters of the same ocean about New
+York and Liverpool and in the Northern Hemisphere. They are
+harder to raise into waves and billows and hence are far more
+pacific than our section of the same ocean. The quantity of
+water that will weigh two pounds at Liverpool or New York will
+weigh two pounds and a quarter here, and sometimes a half ounce
+more. I confess it is a puzzle to me; and all I have asked—sea-
+captains, doctors, engineers and mineralogists—have failed to explain 
+this secret of nature. Will some of our learned professors
+at Wilberforce, Paul Quinn, Allen, Morris Brown, Kittrell or
+some of our other centers of learning tell us the reason?</p>
+  <p> But let us return to Sierra Leone. I find the mountains, which
+rise up in the rear of this city, are all of volcanic origin, a blue
+granite, which is the youngest of the granite series, if the learned
+theories are correct, form the substratum and glide into the ocean,
+but over that is a thick layer of porous rock (we will call them),
+tinged heavily with iron, which is compounded with a basaltic
+feldspar; the old geologists would call it "Titanic iron base."
+This condition runs, subject to undulations and horizontals, from
+the ocean beach to the top of those 3,700 feet mountains. The
+English government has a fort that overlooks the city, and a hospital 
+upon the mountain-top, only for soldiers, however. All the
+troops here are colored—West Indians—except the officers, who
+are all white.</p>
+  <p> Freetown is at the mouth of the Roquelle River, which higher
+up appears to be the recipient of two or three others; this makes
+the city of Freetown quite accessible to large regions of the interior 
+by the agency of small boats and canoes.</p>
+   <p>But why waste time and space with the topography of the
+country? Your readers will be more concerned about the people,
+their habits, customs, manners, etc. I find about everything here
+common to other cities. House builders, rock blasters, lime
+burners, stone chiselers and polishers, blacksmiths, wheelwrights,
+painters, whitewashers, tailors, watchmakers, jewelers, finest kind
+of bootmakers, dressmakers, glass polishers, boat caulkers, en-
+gineers, grand storekeepers, doctors, lawyers, judges, druggists,
+postmasters, custom house officers, schools, seminaries, colleges,
+cathedrals, publishers, editors, bookbinders, medicine makers,
+chemists, scholars and everything except horses and mules. Yes,
+I hear there are a few jackasses about—four-legged I mean. We
+can find two-legged asses anywhere. But what is grander to me
+
+                      <fw>   MISCELLANEOUS.                         471</fw>
+than anything else, is the fact that all these are black men and
+women. Mixed bloods are not excluded, however. They have
+a share in everything. Several white men from England and
+some from France, Germany, Italy and America have come here
+and married black women and raised up families of mixed blood.
+Some have lived with colored wives awhile and left them several
+children to look after, and disappeared, so mulattoes are not
+absent at all, but other white men have lived with their colored
+wives right along and died with them. A few black men have
+also gone to England and elsewhere, and married white ladies,
+and they have children, etc.</p>
+  <p> All the ministers here, except the Baptists, wear robes. The
+Catholics, Mahomedans, English Church, Wesleyan Methodists,
+Free Methodists, Presbyterians, Lutherans and African Methodist 
+Episcopal. Elder Geda looks grandly in a robe, and the
+people here thought he was used to it. I smiled but said nothing.
+Of course, I was at home in my robe. The Catholic and Mahomedan 
+priests wear robes all over the city.</p>
+   <p>The dress of the people is not uniform at all. Some are
+dressed in fine broadcloth, some in silks, bonnets, jewelry, and in
+the fashions ; others in cheaper style; others in shirts, gowns,
+wraps ; others almost as God made them. The old settlers are
+the bloods or dignitaries, then comes in the tribal part, according
+to grade. Tribal prejudice runs high in many cases. The bush
+crowd are the servants and domestics.</p>
+   <p>The bush or native heathen Africans do all the drudgery work,
+such as "pulling and pushing the carts, wheel chairs, sedan chairs,
+hammocks, hearses; carry all boxes, barrels, stones, mortar,
+bricks; oar all the boats on the river, etc. The people are peaceable; 
+I see or hear of no fighting; shooting is never heard of.
+Sometimes an African king may come from the bush, or country,
+and kill some runaway wife, then he is arrested and banished to
+some island, if caught, and made to work the balance of his life;
+but if a king comes to the city and kills a decent wife, he will
+likely kill himself before he will be arrested.</p>
+  <p> Elder J. R. Frederick is a great and good man; he has done
+a noble work here. While I have found fault with Bishop
+Payne for ignoring the missionary channels and sending his
+missionary money directly to Brother Frederick, I am prepared
+now to say, Bishop Payne deserves the gratitude of our Church;
+the reasons why I hope to give in the future. The ladies of the
+Mite Missionary Society also have done more good than they
+have any idea of. God bless every one of them!</p>
+   <p>I have received two able ministers from the Wesleyan Church
+and have entered them into our itinerant work; one is very
+learned. I have preached or exhorted every night since I have
+been here, and most of the time presided over the Sierra Leone
+Annual Conference of the A. M. E. Church, four hours each day,
+and feel as well as ever I felt. Sierra Leone is far healthier than
+
+<fw>472                     CHURCH REVIEW.</fw>
+Memphis, Tenn., Pine Bluff, or Helena, Ark.; no one coming from
+Memphis would ever notice anything but a favorable change.</p>
+   <p>We will have two or three churches here soon—possibly before
+I leave—besides what we have up the rivers. The A. M. E.
+Church can be the Continental Church of Africa if it will hear
+me when I reach home.</p>
+   <p>I learn that Bishop Crowther, of the Niger, has not been
+treated right somehow by the Church of England, and he and
+his ministers are about to set up an independent Apostolic denomination. 
+I am urged to go and confer with him, but the
+object might be misconstrued, therefore I shall not go. I do
+not blame the Bishop for kicking, if what some of his ministers
+tell me be true.</p>
+   <p>White men and their wives are coming here from New York
+State, Ohio, Indiana and Iowa and going one hundred miles in the
+country and settling among the heathen, preaching, teaching
+school and training the black children.</p>
+   <p>Rev. I. M. Johnson, of Iowa, came in this morning from over
+a hundred miles and related his labors, and his wife's labors, and
+told me of others out there, etc., while we are evading Africa as
+a deadly viper.</p>
+   <p>These whites say the interior is cooler than Texas and far
+healthier than Houston, while iron ore stands in mountain heaps
+and the finest wood on earth is boundless.</p>
+   <p>A singular fact is, that anybody, white or colored, from America 
+is welcomed out here in Africa, either on the coast or back
+in the interior. While Englishmen, French and Germans are
+mostly hated. The kings hate them, especially about robbing
+them of their lands. The French are hated as the devil. Americans 
+are looked upon as the guardians of Liberia and the friends of
+her blacks, and it modifies the prejudice somehow. I do not
+understand it yet. France is more intolerant in her claimed possessions 
+than England it seems, and far less compromising,
+while the Mohamedans abominate Germany about the shiploads of
+rot-gut whiskey they land along the coast to ruin the more
+heathen African. The English ships despise the German ships
+about the same; nearly every time they see a German ship at
+sea the entire crew will curse it about shipping poisoned liquor to
+Africa. The English ships carry a good deal, too, but they ease
+their conscience by saying, " Our whiskey is all first-class. It is
+inspected before we leave Liverpool and London."</p>
+   <p>The "Galaxy," containing the bishops and their wives, is a great
+treat to our members here and the people in general. I wish I
+had IO,COO of them instead of 40 copies. The preachers and
+people want them for the interior by thousands, for kings and
+their judges and big men.</p>
+  <fw> The African ladies who come in the city from the bush, for
+hundreds of miles, have to buy white doll-babies for their children. 
+They want black, brown and yellow dolls. If some of
+
+                      <fw>MISCELLANEOUS.                               473</fw>
+our people will engage in their manufacture they can sell millions
+of colored dolls. England, France, etc., only send out white dolls.
+The black merchants out here (and they are plentiful) are crazy for
+a line of steamships to America, like England, France and Germany 
+have, so they can deal in American goods, medicines, etc.,
+so the merchants can come over in ten or fifteen days and return
+in haste—the sail vessels are too slow.</fw>
+   <p>I find people here 75, 80, 90, 100 and a few 112 and 117 years
+old, about as old as some of the people who are afraid to
+visit Africa. I do not think Rev. J. W. Randolph, D.D., is
+much over 117 years old.</p>
+   <p>I took some observations this afternoon in the rear of this
+city. I find millions of dollars of iron awaiting the hands of
+industry. I am told silver mines abound not far from here. I
+was surprised to hear them singing Gospel hymns in the
+Roman Catholic Church. I see white Sisters of Charity here,
+moving around as in other cities. Yesterday they marched at
+least a hundred young ladies up the street, of all colors and
+shades, neatly dressed, and the young ladies did look grand.
+The priest in charge has been here forty years, and says he would
+not exchange Africa for the world—white as he is. He is assisted 
+by three other priests.</p>
+   <p>This morning I had a grand treat. Two of the great granddaughters 
+of Rev. Daniel Coker, of Baltimore, one of the chief
+organizers of the A. M. E. Church, called upon me to inquire
+about any of their relatives in Baltimore. It appears when Rev.
+Daniel Coker came here, sixty odd years ago, that he brought
+a son with him, a young man; Rev. Daniel Coker died about
+1846, his son (Henry) died some years ago, but Henry had a
+son, whose name was Hillery T. Coker, who died in his fifty-sixth
+year in February last, and was buried by Elder Frederick, as
+he was his member. He leaves a wife and two daughters, Jane
+Coker, twenty years of age, and Susan Coker, near eleven years,
+two beautiful ginger-cake-colored children, and very smart and
+bright.</p>
+  <p> Miss Jane Coker is the interpreter for the United Brethren of
+America out among the Sherbro tribe. They preach and talk
+to this tribe through her. She is proud of her ancestry and feels
+she is of no common blood; she is pretty, modest and thoughtful; 
+she wishes to visit Baltimore, but money is wanting. I told
+her if she dared to visit Baltimore, Philadelphia, or anywhere the
+A. M. E. Church existed, she would never get back; that the
+people would feast and honor her to death, because she had the
+blood of Daniel Coker in her. Little Susan Coker is anxious to
+come back with me, and her mother is willing. She wishes the
+child highly educated; she has a bright intellect and a fine head
+phrenologically, and could be made a great woman. I may or
+may not bring her. It appears that Rev. Daniel Coker and
+his son had a number of the Akoo tribe placed under them for
+
+<fw>474                     CHURCH REVIEW.</fw>
+training and they all took his name, so that the Cokers are
+very numerous. One of the preachers I have admitted on trial
+in the traveling work is a Coker. He says Daniel Coker was
+his grandfather's master—a term here which means boss.</p>
+   <p>These black Mahomedan priests, learned to kill, walking
+around here in their robes with so much dignity, majesty and
+consciousness of their worth, are driving me into respect for
+them. Some come for hundreds of miles from the country—out
+of the bush—better scholars than any in America. What fools
+we are to suppose these Africans are fools!</p>
+
+                      <fw>EIGHTH LETTER.</fw>
+                <p>Freetown, Sierra Leone, Africa, November 18, 1891.
+Mr. Editor :
+   The Sierra Leone Annual Conference is over. Thursday, November 10,
+the following ministers met in our church here:
+H. M. Turner, J. R. Frederick, T. R. Geda, H. M. Steady, David B. Roach, 
+Matthew Newland, and we organized and went to
+work. The same evening I took into the church, among twenty one others, 
+George D. Decker and Isaiah Coker, two preachers
+from the Wesleyan Church; one very learned and popular, the
+other very strong, and posted in the Timnee language, the
+greatest tribe in the vicinity.</p>
+   <p>The boundaries of the Conference include all the territory of
+the leading tribes for three hundred miles, viz., the Timnee, Cosso,
+Akoo, Ebo, Sherbo, Mendi, Mandingo, Fullah, Limba and Yennie tribes. 
+The king of each has welcomed our church, and the
+king of the Timnees has declared our church the church of his
+nation.</p>
+   <p>The Conference remained in session from Thursday, the 10th,
+until Monday night, the 14th. We were busy all the time. Our
+property here amounts to about #10,000, and membership, including 
+the probationers, to 495; our prospects to millions of
+members and property. By taking up two local preachers we had
+ten ministers to whom I gave appointments. We ordained three
+deacons,—I was willing to ordain more, but we did not think it
+wise to be too merciful at first,—those we did ordain stood a fine
+examination.</p>
+  <p> A long discussion arose over the name of the Conference, some
+fearing if we called it- the Sierra Leone Conference, the country
+kings would rule our church out, as some hate Sierra Leone, because 
+it is an English colony, and that England is a usurper to claim
+territory in Africa. The African kings are willing and are glad
+for their black and yellow kinfolks to come home from America,
+and teach, preach, work and marry their women; but they want
+nothing to do with England, France or Germany. But we named
+the Conference the Sierra Leone Conference nevertheless, hoping
+to explain away all grounds of fear or apprehension to those
+ 
+                       <fw>MISCELLANEOUS.                        475</fw>
+royal heads of the millions of our people. For every ten thousand 
+dollars the A. M. E. Church could send here, from seventy five 
+to a hundred thousand dollars could be procured to our church.</p>
+   <p>Elder, now Presiding Elder Frederick, has some of the most
+awful church deeds I ever saw; what I mean by awful, is size and
+weight; some are four pages of parchment, two feet by twenty
+inches ; strange to say, too, some of the African kings have
+signed their own names. On one of the deeds I see the name of
+Scipio H. Robertson. That must be the Scip of Georgia. When
+did he slip off and come over here?</p>
+   <p>Last Sabbath was without doubt the grandest day I ever beheld. 
+There must have been three thousand people in and around
+the church; hundreds went away for want of out-door room;
+many of the colored dignitaries of other churches were present,
+civil and military, as well as the heathen themselves. Love-feast
+at 6 o'clock in the morning,—the church was crowded by 5 o'clock.
+The experiences given were familiar and unfamiliar. Some expressed 
+themselves in good English, some in broken English,
+others in this and that language. Some twenty languages were
+used in giving the experience. But a large number would understand 
+everybody and responses would come from all over the
+church, and tears would be shed. Never were more languages
+used in one love-feast since time began; never were more terms
+used to express approval. Great heavens, how white people
+on the one hand and scullion Negroes upon the other, have
+misrepresented Africa! Some who got up in that love-feast to
+talk were what they called heathens, right from the bush, with
+a mere cloth over them, and while I could not understand a
+word, you could see they were full of the Holy Ghost. I tried
+to preach at 10.30 o'clock, Elder Geda at 3 o'clock, and I again
+at night I ordained three ministers, took twenty-seven into full
+membership. Put my hands on their heads, too. Confirmed
+them, if you choose to so call it, and took some forty in on probation. 
+We gave the Lord's Supper to 560 persons. Every minister was robed 
+and that alone was glory enough for me.
+But I cannot picture the day and the scenes. I never expect to
+see the like on earth again.</p>
+  <p> Alpha Mahomed San u Si, one of the Mahomedan bishops,
+called upon me at Presiding Elder Frederick's house, to pay his
+respects; he speaks English, Arabic, Timnee, Akoo, Su Su, Mandingo 
+and the Fullah languages. He came in his splendid robes
+and looked grandly. He is a man of rare learning and his bearing 
+was kingly. I tried to look big, but felt small, in his presence.
+He resembles Bishop Gaines in color, stature, beard, features and
+walk—may-be a bit taller; but he is another Gaines; he is about
+as proud as Bishop Gaines.</p>
+   <p>Yesterday afternoon, to my surprise, Dr. I. H. Cold called
+upon me (with horse and buggy). I did not know there was a
+    31 
+
+<fw>476                       CHURCH REVIEW.</fw>
+horse in the city; he drove me away out in the country. It was
+a regular African horse, too, fat as a butter-ball. Such sights as
+I saw I will never forget. I went among some country natives
+and looked at their thatch-covered huts, and to my surprise, in
+some I found looking-glasses, chairs, clocks, furniture, etc. I
+saw some nearly naked men and women out on the road,
+but in the town they live nicely at home; but another sight which
+I had to admire was the erectness with which these men and
+women stand.</p>
+   <p>The native African has no fear, no cowardice, no dread, but
+feels himself the equal of any man on earth. The land, as far as
+I went, is rich, water streams in abundance, fruits of every kind,
+flowers of every beauty, and while I saw many doing nothing at
+all, I saw many hundreds at work, and hard at work, too. They
+need skilled labor however, skilled farmers. Since I have found
+out more, I find horses will live here and be fat. Dogs are like
+ours in every particular. The dogs, roosters, goats and sheep all
+talk like ours. I told the doctor they were all I could understand. 
+I could not understand the people, but he could.</p>
+   <p>I have just had the honor of my life. King Kobbena Eljen, of
+the Kromantie tribe, a powerful tribe on the Gold Coast, who was
+captured in the late war with England, and who is here as a
+prisoner-of-war, called to pay his respects, through me, to his
+race, as he says, " over the sea." He means in America. I
+kissed his hands a dozen times, and would have kissed his feet,
+had he not said " No, no." The king is 64 years old. He is tall,
+erect and majestic, and is deeply concerned about the colored
+people in America. He wanted to know when we were coming
+home.</p>
+   <p>During the great Ashantee war he was captured by the English
+army, and England tried to get him to sign away his territory
+and his people's land. He refused to do it, and they brought
+him here to Sierre Leone, as a prisoner, to be held until he
+signs away his kingdom. The king says he will die first. If
+he would sign the documents, England would send him back at
+once in a man-of-war. The African kings and nobility will make
+me hate England, grand as old England is in many respects.
+The king walks about town, but cannot leave. He is loyal to
+his race and to his people. He will give his kingdom to his
+children in the United States, but not to England.</p>
+  <p> Well, the ship has arrived which is to carry me to Liberia, and
+having completed my work here, I must close this letter and
+begin to pack up. I have not written half, but all I could find
+time to write.</p>
+   <p>Neither Geda nor I have been the least sick yet, after eleven days
+hard work, but I have a little headache to-day, for coming home
+last night out of a hot church and sitting in a draft, when I was
+begged not to do it. The weather is fine and pleasant for summer. Off for Liberia.
+</p>
+                        <fw>MISCELLANEOUS.                                 477</fw>
+   <p>I neglected to say, the ministers of the Church of England
+have called upon us as other ministers, regardless of all sacerdotal
+considerations.</p>
+                        <p>NINTH LETTER.</p>
+                                       <fw> Steamship " Mandingo,"</fw>
+                               <p> West African Coast, November 21, 1891
+Mr. Editor :
+   After I closed my last letter at Sierra Leone, I called upon his
+excellency, Governor James H. Hay. I was kindly received, and
+introduced by Presiding Elder Frederick, who has the respect of
+his excellency. He gave me much information about the colony
+and showed me the falsity of the deathly and sickly reports current 
+about Sierra Leone, in presenting his own fine-looking,
+healthy and corpulent person, which several years' residence here
+had not intercepted. He told me of a vast deal which I have no
+time nor space to write at present; but the whole was full of information, 
+and shows progress all along the line. His mansion
+is magnificent, overlooks the city, flowers of every variety, shades,
+walks, fountains, etc.</p>
+   <p>The Governor is down upon African slanderers, white or black.
+He says, if we had skilled labor and civilization here, Africa
+would be the mistress of Continents.</p>
+   <p>In speaking about black men representing the native African,
+as so low and ignoble in other countries, because they had
+acquired some intelligence from being brought in contact with the
+whites, the Governor said, " How foolish they are. Don't they
+know if the black men are nothing here they are nothing everywhere; 
+that nothing must proceed from nothing; that if the original 
+stalk or trunk is nothing, the offspring or branches will be
+nothing too ? " He says, " Every black man who berates African
+or Africa, berates himself."</p>
+   <p>The funniest thing that has come under my attention was the
+criticism of Dr. Randolph's " Criticism of Bishop Turner,"
+published in the Christian Recorder of October 15, by a native-born 
+and raised African. He read it and commented most severely,
+yet in the most courteous language, which showed his high
+literary culture and refinement, until I told him that Dr. J. W.
+Randolph was a great linguist, scholar and a D.D. Then he
+opened the vials of his literary wrath. He took up his sentences,
+analyzed them, denied that he understood the English language,
+pronounced his argument coarse and illogical, and pitied the college 
+that would confer D.D. upon such a poor scholar. The use
+Dr. Randolph had made of the term " nonsense " seemed to fire
+every fiber of his soul, the house roared with peals of laughter, so
+I need never reply to the doctor. Africa has replied in full.
+Several white American missionaries called upon me before I left
+Sierra Leone, and gave me some missionary items I did not know.
+Those who called upon me consisted of men and women from
+
+<fw>478                       CHURCH REVIEW.</fw>
+Wisconsin and Nebraska; one was from Ohio—a young, beautiful white lady.</p>
+   <p>I find the following to be the result: from Nebraska there are
+five missionaries here; twenty-seven more coming. From Kansas there are 
+nine here, and fifteen coming. From Minnesota there are ten here, 
+and eighteen coming. From Ohio there are twelve here. 
+From Illinois there are four here. A majority of
+these missionaries are white ladies But what beats all is, they
+tell me 128 are now being trained, mostly in Chicago, to follow
+these. Most every steamer is bringing more missionaries, teachers, 
+preachers, dressmakers and tool users. I had been told by
+the ship captains of this, coming out from America, but did not
+know the extent until now. The singularity of this movement
+is, that all of these missionaries should come from the West.
+Outside of middle New York State, I find no Eastern, Northern
+or Southern whites out here as missionaries. The present programme 
+of the missionaries from the West is to establish a line
+of mission centers back into the interior for 400 miles, with mission 
+houses and schools erected every fifty miles along that line,
+so that native runners can carry letters from one camp to the
+other.. To extend 400 miles from the sea interiorward will require
+eight mission camps or centers. Travelers then can find resting
+places for this 400 miles, every fifty miles on their route. They
+say the African kings bid them welcome when they are satisfied
+they are not Germans, French or English. They think Americans 
+will not bother with their territory or slaves. While the
+Germans and French do not meddle with their slaves at all, they
+wish to gobble up their lands and mines. The English, on the
+other hand, are more reasonable in regard to territorial possessions, 
+but will free every slave and wife they can. I find that
+wherever England holds possessions in Africa there is another
+Canadian asylum for the slaves and oppressed—the same as our
+American Canada used to be when slavery existed in the United
+States. But the Germans and French often return slaves and
+wives to their claimants; but England, never. When a slave or
+a wife gets into her possessions the whole military and navy protect 
+their liberty. And another thing England does that Germany and France 
+do not, if England captures a king and holds
+him as prisoner of war she treats him royally; she allows him to
+walk about, gives him from five to ten dollars a day and provides
+a place for him in keeping with his status; if he is an imperial
+king, ten dollars a day is allowed; if a large tribal king, five
+dollars ; if a petty king, three dollars. But all do nothing but
+sit and walk about; no shackles, handcuffs or prison cells. God
+save old. England, is my prayer!</p>
+  <p>I am told that the Liberians do about the same in regard to
+slaves and wives. But as I will be in Liberia in a few hours, I
+will learn more about it.   </p>                                                            
+   <p>It is marvelous how white men bow, bend, lift hats and smile
+
+                       <fw>MISCELLANEOUS.                           479</fw>
+around colored ladies out here. mean the dressed, civilized
+and cultured ladies. Walk with them, sit and talk with them,
+and do all the honors they do to white ladies, and seem to be as
+natural about it as if they were raised at it. I believe several of
+these African ladies rather prefer the white fellows, too. Don't
+matter, however, the colored gentry have a nice time with the
+white ladies also, when they are about.</p>
+  <p> I have seen the beauties of nature in its varied tints, colors
+and shades. I have looked on and admired the artificial, as well
+as the permanent formations, but I have never seen anything to
+compare with the ocean here along the African coast after night.
+The waves produced by the ship, which roll off on either side,
+appear to be studded with millions of glittering gems; the waters
+at times would seem to be on fire, yet the fire does not seem to
+resemble the fires of earth. I am told if one bathes in the waters
+and stands in the dark he will glitter from head to foot. The
+waters are full of a phosphoric animalculae called "Medusae,"
+and their beauty and splendor in the ocean is literally indescribable.</p>
+   <p>Rev. Herbert H. Richmond, L.L.D., the District Superintendent 
+of the English Wesleyan Methodist Church, has been read-
+ing "Methodist Polity" for two days and congratulates the author
+in high terms. He is going to try to have it made a text-book
+in their theological seminaries. The doctor is on his way to
+Lagos, where he has not been in twenty years. He does not
+want the A. M. E. Church to go where the Wesleyan Church is,
+and he says: "Two churches of the same order and faith confuse 
+the African kings and they will get mad and drive both out
+of their kingdoms if our preachers should get to disputing over
+the respective churches."He thinks the A. M. E. Church and
+the A. M. E. Zion Church should unite before we come to Africa.</p>
+   <p>Before I reached Africa proper some English sailors were telling 
+me about the limited ability of the native African, stating
+that they could not learn this or that, viz., they could not learn
+to be engineers, not even firemen, and such stuff. I told them
+black men could do anything that white men could do, in the
+Southern States. But since I have reached here, I see native
+Africans running engines, manning oar and steamboats, and what
+is more, here on this steamship, the Mandingo, are two black
+ocean pilots and another black man measuring the depth of the
+Ocean and guiding the ship amid the dangerous points.</p>
+   <p>Poor black man, how the world tells lies about you! Well, we
+are at Liberia at last. I will close this letter.
+</p>
+                 <fw>    TENTH LETTER.</fw>
+                               <p> Muhlenberg, Liberia, November 29,1891.
+Mr. Editor:
+   I am here in Liberia, and have been for over a week, and have
+had a grand time of it. I landed at Monrovia, where I was met
+
+<fw>480                     CHURCH REVIEW.</fw>
+by Rev. S. J. Campbell and Clemmons Irons, of Charleston, S. C,
+and conducted to the splendid residence of Gen. R. A. Sherman,
+the General-in-Chief of the Liberian government, where a grand
+welcome was accorded me. But as the little steamboat was
+awaiting me, I soon left the city and proceeded up the St. Paul
+River, a river that corresponds exactly with the Ohio River
+between Louisville, Ky., and Cincinnati, O.; if anything a bit
+wider, and, in the main, much deeper, for the St. Paul River at
+places is ninety feet deep. But, unfortunately, the rapids set in
+about twenty-five miles above Monrovia and stop all decent
+navigation ; only canoes can be pushed and pulled beyond the
+rapids, and that at great labor. Yet, when the rapids are passed,
+the river is navigable by small boats to a long distance. The
+sceneries along this river are prodigious; the trees of every kind
+for miles are so interwoven that they constitute a matted texture,
+with an occasional intermediary elevation or hill, just high and
+frequent enough to break the monotony and afford beautiful
+building sites, where exuberant farms can be cultivated and the
+horticulturist can spread himself. All along the river sides, after
+leaving the inundated portion, beautiful two- and three-story
+brick houses, covered with zinc roofs, with dormer windows often
+projecting from the top, and a number of small adjacent houses
+meet the eye. I was certainly surprised to see the comfortable
+and excellently constructed homesteads which dot the river
+banks in all directions.</p>
+   <p>As you ascend the St. Paul varied settlements can be seen,
+bearing principally American names, where houses, streets and
+town clusters are visible. The towns and settlements between
+Monrovia and the rapids are called by the following names:
+New Georgia, Caldwell, Upper Caldwell, Virginia, Brewersville,
+Clay, Ashland, Louisiana, New York, White Plains, Millsburg,
+Harrisburg, Muhlenberg and Arthington. Indeed, Arthington
+is above the rapids, and is the principal seat of the Azor emigrants,
+who came out here twelve or thirteen years ago. The conveniences 
+for settlement along the St. Paul are far better than
+along the Savannah, Chattahoochee, Alabama, Tennessee or Gun powder 
+rivers of America. The Delaware River itself has
+nothing to boast over the St. Paul; minus the palisades, the
+Hudson River has but few advantages over the St. Paul.</p>
+   <p>I had the pleasure of meeting and riding for several miles with
+Mr. Jesse Sharp, of Columbia, S. C. I used to board with his
+mother and smile at his beautiful sisters. Mr. Sharp is about
+the richest man in the country. His brother James, from whose
+house I married, has been dead, he says, many years.</p>
+   <p>The steamer went ashore at Mrs. Johnson's fine residence, to
+allow me to shake the hand of Dr. Edward W. Blyden, who will
+soon be Secretary of State, if reports are true. The doctor looks
+well and is growing corpulent.</p>
+   <p>When I disembarked I was met by Mrs. M. L. Bibbs, recently
+
+                <fw>      MISCELLANEOUS.                   481</fw>
+of St Paul, Minn.; Wm. Patterson, James Slocum and Stephen
+Ficklin, recently of Morrilton, Ark. Mr. Ficklin has a brother,
+Samuel Ficklin, a deacon in Beal Street Baptist Church, Memphis, 
+Tenn.; also by G. S. Daniels, Abram Tyler and M. S.
+Stephens, recently of Barnsville, S. C, and others.</p>
+   <p>I spent the night at the well-furnished home of Clemmons
+Irons. Elder Geda went to Rev. S. J. Campbell's. Next morning, 
+quite early, it was announced to me that Brother Campbell
+had a conveyance at the door for me. When I came down-stairs,
+lo and behold! four men stood with a fine hammock to trot me
+over to breakfast at the residence of Brother Campbell. It is
+marvelous what strength these native Africans have. But they
+will not have it long unless the Mohamedans come to their
+rescue. Christian France, Germany, England and Boston are
+distributing too much liquor or rot-gut whiskey among them. I
+had no idea that Boston, the citadel of freedom, was sending so
+many hundred thousand gallons of poison rot-gut to this country.</p>
+   <p>The son of the late Rev. A. L. Stanford, once a famous preacher
+in our Church, but who died out here some five years ago, as one
+of the Judges of the Liberian Courts, has grown up to be an industrious 
+and bright young man. His name is Willie Francis
+Stanford. But it is useless to mention names, as I find bushels
+of Americans here. Therefore, let us talk about this beautiful
+country.</p>
+   <p>Liberia is one of the most paradisical portions of earth my
+eyes ever beheld. Any person who cannot live here with reasonable 
+health cannot exist anywhere. True, there is an acclimating
+change most people have to pass through; some do not; if they
+do, they are unconscious of it But nature is lavish here with
+her stores. I have noticed the following things growing here in
+great abundance: coffee, sugar, ginger, ground-nuts, palm oil,
+cocoa, rice, cotton, indigo, pepper, corn, ochre, turnips, beans,
+cabbage, tomatoes, lettuce, sweet potatoes, oranges, grapes,
+lemons, citrons, squashes and heaven knows what else. Also,
+cows, tremendous oxen, hogs, sheep, goats, deer, horses, chickens,
+turkeys, ducks, geese, rabbits, dogs, raccoons, opossums, honey
+bees, fish without end, eagles, parrots in groves, hawks, but no
+buzzards and but few snakes. The native heathen and an ant
+called the " driver," leave nothing for the buzzards; so they, like
+many human buzzards, have all left and given Africa a bad name.
+How under heaven some Negroes can come here and after remaining awhile, 
+go back to America and give this place a bad
+name I cannot understand, unless it be for the reason that they
+do not find scullion employment or some white man to curse and
+kick them around. Lazy sloths, they could hibernate six
+months annually and then live, so far as the bounties of nature
+need operate as a factor. I grant, however, that persons coming
+here ought to have a little money to start with and a good deal
+of self-reliance, a decent amount of race pride and considerable
+
+<fw>482                         CHURCH REVIEW</fw>.
+common sense. This is no place for the mere kitchen pimp nor
+for the Congo Negro. Those who are here from the Congo are
+ignored by the native heathen, much more by the regular
+Liberians. They sustain the same relation to the higher African
+tribes that they do to us in the United States. I find that they
+are the lowest of the African races. I mean all that that word
+implies, for there are distinct races here. The Mandingo, Vey,
+Pessa and Golahs are far above the Congo, Boozie and others I
+might name. The Pessa ladies are the most beautifully-built of
+any I ever saw—full limbs, round and large chest, plump all over,
+indeed; small feet, neat fingers, as though made for the piano,
+and are the most industrious possibly of any on the coast and the
+most easily civilized.</p>
+   <p>Natives do all kinds of work and do it for twenty-five cents
+per day or five dollars per month. Show them once or twice
+anything you want done and they can do it as well as you. I
+believe most of them could learn to set type in a day and the
+next day print a newspaper.</p>
+   <p>The man who buys the African heathen for a fool is a bigger
+fool than he is.</p>
+   <p>I dare also to utter another thing, at the risk of being branded
+as the victim of superstition. While the white man deals with
+the visible sciences, the African here deals with the invisible sciences; 
+while the white man manipulates and utilizes forces, the
+black man knows nothing of, the black man controls forces that
+the white man is ignorant of. I believe that the black man is acquainted 
+with secret agents in the realm of nature that the white
+man has never dreamed of, and will offset any telegraph, telephone 
+or phonograph ever invented by white men.</p>
+   <p>This is the only country I have ever seen where everybody
+could have a stream of water running through his yard. It is
+the most perfectly watered region I have ever witnessed. The
+water, too, is clear as a crystal, and rapidly flows wherever seen.
+The water-power is inestimable—enough to run the machinery
+of the world! O, that my race here had the skill to practicalize
+it But that time will come in God's own good time—for come
+it will, if revelation be true.</p>
+   <p>I thought when I came to Africa I would see snakes without
+end, but I have seen none yet. People who have been through
+the woods in all directions tell me that they have not seen a
+snake in ten years, some say fifteen years, others say five years.
+I have traveled by water and land for miles upon miles, and have
+not seen one yet. People from South Carolina, North Carolina,
+Georgia, Alabama, and Tennessee say they could see fifty snakes
+there, to one here. People here, fifty years old, never saw a boa
+constrictor ; yet, that there are some, all concede j nor have I
+seen or heard a mosquito, though I expected to be almost eaten
+up by them.</p>
+   <p>If some of our rich colored men in the States would come
+
+                    <fw>  MISCELLANEOUS.                              483</fw>
+here and open up the coal mines at Carrysburg, they would be
+worth millions in a few years. The steamships would buy the
+coal by millions of tons. The coaling stations at Grand Canary
+and Sierra Leone, now supplied with coal shipped from England,
+would be transferred to Liberia, and wealth untold would be the
+result. They have coal, marble, silver, gold, tin and diamonds,
+all in Liberia. I never had over much admiration for Liberia
+until since my arrival here. I thought it was a second-class portion 
+of Africa, but it is the richest region of the globe I ever
+saw. There is no place in the United States that will begin to
+compare with it. Any man who will run down Liberia, so far as
+its natural resources are concerned, is a fool and an ass; I am
+not talking about what I have heard, either, I am speaking of
+what I have seen with my own eyes, and handled with my own
+hands. I have seen three armies of the little ants called "drivers,"
+which travel through the country and destroy every insect, snake
+or animal they catch. I unsuspectedly walked into their ranks,
+while prowling around in the woods, inspecting things in general. 
+But gracious, did I not run, jump, dance and get out of
+my clothes in a hurry! I was soon as clotheless as a native African, 
+and indeed more so. But the drivers are the friends of the
+country, and I admire them for many reasons.</p>
+   <p>The Annual Conference of the A. M. E. Church, known as the
+Liberia Conference, has been organized and has been in session
+three days. The prospects for our church are grand. The joy
+of the ministers and members is too ecstatic for description;
+ministers of other churches have called and made mighty
+speeches of welcome.</p>
+                       <fw>  ELEVENTH LETTER.</fw>
+                                 <p>Muhlenberg, Liberia, December 4,1891.
+Mr. Editor:
+   I have just strolled as far out in the direction of Boporo—the
+Eden of West-Africa—as my strength and convenience would permit. 
+I have seen the African in his native town and hut, rather
+dwellings, and I have just had a long weep or cry at the grand
+field for missionary operation here, and that I am too old now to
+engage in it. But if there were roads cut through the country
+and bridges for horses and wagons, I would try it as old as I am.
+I am sure I could not stand the hills and valleys of this rolling
+country traveling on foot, at my age, and then the hammock
+system of travel is too cumbersome for regular locomotion. But
+Africa is the grandest field on earth for the labor of civilization
+and the Christian Church. There is no reason under heaven why
+this Continent should not or cannot be redeemed and brought to
+God in twenty-five years—say thirty at most  Note the reasons:</p>
+   <p>First—The African can beat the world in learning to speak the
+English language, in which all religious terms are found to convey
+Christian ideas.</p>
+
+<fw>484                      CHURCH REVIEW.</fw>
+   <p>Second.—The young African can come out of the bush, and in
+a few months at most, sing and play upon the organ any Gospel
+song in print, even before he learns to wear clothes.</p>
+   <p>Third.—The Africans are the most honest people on earth.
+Where I am stopping at present, at the Training School of Rev.
+David Hay, scores of wild and partly civilized Africans gather
+and sleep all about the yards as well as in the piazzas; not a door
+or window is shut all night, unless it is raining or windy.</p>
+   <p>Fourth.—The African is not a pagan, but a child of superstition;
+he worships no wooden or brass god, but believes more strongly
+in the invisible forces than we do; so it is an easy matter to have
+him transfer his faith from superstition to Christ Jesus the Lord.</p>
+   <p>Fifth.—And here is the crowning phase of this question: The
+Africans will give the God-man or God-woman millions of children 
+to be instructed and trained to read, write, work, sing, pray,
+farm or do anything that will make them useful. When you
+approach the older ones, and begin to tell about the benefits of a
+civilized life and the virtues of Christianity, they say: "You no
+change me now; take all my pickaninnies (children) and teach
+them, make them wise and great; not me, I be too old." And
+they will give you all their children, and frequently come once a
+week and bring food for them to eat. It makes one feel singular
+to see the almost naked native African fathers come out of the
+bush, and sit around the Training School, and watch their sons as
+they walk the yards in decent dress, and read, write, sing, march,
+use tools etc.; they are so fond of their children, finally they will
+walk off home, possibly having not uttered a word to their child
+or anyone else. The African father seems to be soliloquizing
+thus;—"Well, I suppose that will be the order of things in the
+future; my day will soon be gone, and another dispensation will
+be ushered in."</p>
+  <p> One thing stands to the everlasting credit of the African; he
+is anxious to learn; a seeker after knowledge ; to-day he is the
+most susceptible heathen upon the face of the globe. He is
+ready to lay down any habit, custom or sentiment for a better, or
+have his children do it, which is the same thing. It is said, that
+often those who have been trained at schools, will return to the:
+bush and strip off their clothes and go around like the others.
+That seems to be true from what I have seen in some, cases. But
+what is the result? These very young men become the leaders
+and general instructors of their people; they do not forget their
+training by any means. They often become the diplomats of
+their tribes and negotiate with other tribes and civilized nations.
+Their education is not lost, if they go as naked as a skinned
+coon.</p>
+   <p>The Conference has been organized and named the "Liberia:
+Annual Conference of the African M. E. Church." Our session!
+has been grand in every particular. Rev. S. J. Campbell, our!
+chief representative here, is all that constitutes goodness and 
+
+                      <fw>MISCELLANEOUS.                        485</fw>
+greatness. He brought nine preachers to the Conference and, in
+the main, very decent-looking men. They have some stereotyped
+modes of expression and ways of doing things, but we believe
+that will soon be overcome. The reception tendered Elder Geda
+and myself was superb. Elder Campbell and Rev. June Moore,
+of the Baptist Church, made the speeches, and Campbell felt himself 
+upon his own ground, and he literally roared. I had no
+dream when he was in America that he was so eloquent and
+masterly. He has the respect and confidence of the whole community 
+and lives in a three-story brick house, with plenty around
+him. His wife is a perfect lady and fills her sphere with all
+the grace that her position demands. God save Campbell and
+Frederick and their wives!</p>
+   <p>Rev. June Moore is an able and powerful speaker and a noble
+representative of the race.
+Rev. David Hay (white), of the Lutheran Church, with whom
+Geda and I are stopping, is one of God's noblest men. He
+and wife have been here eighteen years ; he has built five large
+houses and teaches a large number of native children. One
+house is his residence, containing many compartments; then
+a church and school-house together, then a work- and machine-
+shop, then a sleeping house for the students, etc. He has
+trained a host of heathen children, who are doing much for
+the enlightenment of their tribes. He has immense coffee farms,
+and the school is self-supporting. He has solved many problems 
+and has the confidence of the heathen for a hundred or
+more miles back in the country.</p>
+   <p>Mr. Hay would have Elder Campbell use his church and
+buildings for Conference purposes; so that the Bishop would
+have every convenience in meeting the Conference without
+much walking, and the Conference would have all necessary
+committee rooms. People came in from the country every
+night to the Conference by crowds and droves. Some were
+dressed in fine order and others almost clotheless, but they sang
+with a vim and listened with great attention. It certainly looks
+peculiar to see people praising God with a bare cloth around
+their waists. It only shows that the soul is in the body, and
+not in the garments.</p>
+   <p>Rev. S. J. Campbell was elected a delegate from the Liberia
+Conference to the General Conference, about like Elder Frederick 
+was at Sierra Leone—got every vote except one, and
+that was cast by themselves for another.</p>
+   <p>I never saw such rejoicing over the presence of a Bishop as
+there is in Liberia. The preachers seem to have forgotten God
+and gone to Bishop worship. I have reproved them repeatedly,
+but it does no good. The ministers of other churches have
+shown us marvelous respect. I have ordained six deacons.
+Brother Campbell is hard at work on his hundred-acre coffee
+farm; has several thousand coffee trees set out; and, if we will
+
+<fw>486                     CHURCH REVIEW.</fw>
+stand by Africa a few years, the coffee-farm will support the
+whole business. I wish our Church in the United States could
+but see the coffee-farm Brother Campbell has now growing for
+our Church. If Campbell had $5,000, after five years he would
+send our missionary treasurer $50,000 yearly.</p>
+   <p>Oh! how the people of Liberia want a steamship directly
+to America. England, France, Spain and Germany all have
+scores of steamships laden with goods and whiskey at fabulous
+prices ; and Yates &#38; Porterfield send only one or two sailships
+from New York, and they will ship nothing for the people unless
+they themselves are the purchasers. Elder Campbell wanted to
+ship a thousand pounds of coffee to Mr. W. H. Amos, of Philadelphia, 
+but could not. If the moneyed colored men of America
+would band together and go to England and purchase a secondhand 
+steamship at one-third its price and start a trade between
+here and the United States, they would be worth millions in a
+few years. It is a shame before high heaven that we are such
+consummate fools. The national government of Liberia is also
+unwise for not doing it. The Custom House revenues of the
+Liberian government amount, at least, to #300,000 a year, and
+she might do it easily enough. But she is so American in her
+ideas ; she thinks it beneath her national dignity to engage in
+commercial enterprise, and here we all are fools together, while
+England, France, Spain and Germany are reaping untold millions
+that the black man ought to have. I get mad and sick when I
+look at the possibilities God has placed within our reach, and to
+think we are such big blockheads we cannot see and utilize
+them. I have long said that the salvation of the black man was
+in connection with this country; I see the wisdom of my position 
+now as I never dreamed of before. If the black man ever
+rises to wealth, he will either do it in Africa, or as he operates in
+connection with Africa. He will never do it trying to be white,
+or by snubbing his native country.</p>
+  <p> Mrs. Phcebe Corzan, formerly Mrs. Phoebe Brown Deputie,
+late of Philadelphia, a lady of marked intelligence, tells me that
+a few miles beyond where I am at present, in the Gibby mountains, 
+about sixty miles from Monrovia, the water is so cool
+that it chills one's hands to put them in it, and if people coming
+here would leave the coast and go back there, they would never
+have any acclimating change at all. Even where I am now I do
+not believe I would be sick in forty years, although I may be
+mistaken.</p>
+   <p>The Conference here has ten mission points, and three to be
+supplied—making thirteen in all. One point is named after
+Bishop Campbell, another after Bishop Shorter and another after
+Bishop Cain. Elder S. J. Campbell fought till he got one point
+named Eliza Ann Turner Mission; I objected, but the Conference 
+overruled me. Our membership here is a little less than
+three hundred and fifty.</p>
+
+                       <fw>MISCELLANEOUS.                 487</fw>
+   <p>Rev. S. J. Campbell is appointed Superintendent of Missions
+and chief of the coffee farm and industrial department of the
+Liberian Conference, and Rev. T. R. Geda is appointed Presiding
+Elder.</p>
+   <p>Had Geda not come with me I do not know what I would
+have done; he has been of incalculable use to me. On committees, 
+especially, has he been a great guide. He has demonstrated superior 
+business tact and a fine judgment.</p>
+   <p>Our Conference lasted seven days; indeed, it virtually included
+two Sabbaths, and we have certainly had a big time. All kinds
+of resolutions of thanks have been passed to the Bishops and the
+Mother Church for sending me here.</p>
+   <p>Quite a settled African lady came out of the bush, with portly
+limbs, massive head, all bare except a cloth around the waist,
+hair done up in the most ornamental style, pure silver cuffs,
+leopard teeth tied and dangling to the elbows, fetish balls fastened
+to the rear part of the head, beads strung around the body,
+dressed to death after the fashion of the Gollah tribe. She was
+introduced to Geda and me, having learned that we had come
+from big America. She was a mistress of the Greggree Bush
+and counsellor of the big chiefs of her people. The woman
+looked frightful and pretty too. She sat with me on the piazza
+for some time, then came and walked into my room some time
+after without invitation and sat for a time and talked with me
+through her interpreter. She never complimented Geda a bit,
+but she said I was " a good man and nice heap much, and pretty
+all over." Of course, I was glad to hear it, for I had not heard
+it before. Her name is Blarbubber, and she is known as the
+queen of the Greggree Bush. But I must close till I visit Monrovia, 
+which I will do next week, when you will hear from me
+again, God willing. Elder S. J. Campbell disapproves of the
+way I knock around and the little care I take of myself. He
+thinks if I should get sick from any cause it would be charged
+to Liberia.</p>
+   <p>Brother Campbell and wife tendered Elder Geda and myself a
+superb dinner a few days ago. Several of his most prominent
+neighbors were present—ladies and gentlemen—and the time
+passed off grandly. I never saw so much to eat for the same
+number of guests.</p>
+                    <fw>TWELFTH LETTER.</fw>
+                             <p>Monrovia, Liberia, December 5, 1891.
+Mr. Editor:
+   I have descended the St Paul River and am now in Monrovia,
+stopping in the beautiful three-story brick residence of General
+R. A. Sherman, general-in-chief of the Liberian armies. Every
+thing is superb in and outside of this spacious and finely-furnished
+palace.   I would wager anything, that General W. T. Sherman
+
+<fw>488                   CHURCH REVIEW.</fw>
+never lived in more style, and I am sure he never possessed anything 
+like the social graces of the Liberian General Sherman.
+The general somewhat resembles ex-Senator B. K. Bruce in
+stature, color, hair and demeanor. He was born in Savannah, Ga.,
+is about fifty years of age, and has been here some thirty-seven
+years. He has fought many battles, has been wounded repeatedly
+and his name is a terror to the native heathen for hundreds of
+miles in the interior.</p>
+   <p>I have seen many sights of interest in the city. Dr. Blyden
+carried me through the Kroo Town, introduced me to the king,
+with whom I had a long talk. I was surprised at his intelligence
+and general information. He was dressed as a gentleman and
+very polite. His subjects, or people, treat him with great respect.
+The city is laid off" in streets and squares, but not equal in extent,
+sometimes the streets curve and, in other cases, they so intersect
+one another as to form a triangle.</p>
+   <p>The houses are built of plaited sheets of bamboo, which they
+plait upon the ground with taste and skill, and in some instances
+with peculiar art. Then they are set up and fastened to timbers,
+and rooms, kitchens, palaver halls, sitting-rooms and such like
+are made in the same building.</p>
+   <p>It is useless to talk about the African having no taste and
+pride.</p>
+   <p>I have found out another thing since I have come to Africa,
+gone scores of miles through the interior and noted the tact, taste,
+genius and manly bearing of the higher grade of the natives; I
+have found out that we poor American Negroes were the tail-end
+of the African races. We were slaves over here, and had been
+for a thousand years or more before we were sold to America.
+Those who think the receding forehead, the flat nose, the proboscidated 
+mouth and the big flat-bottom foot are natural to the
+African are mistaken. There are heads here by the millions, as
+vertical or perpendicular as any white man's head God ever made.
+A straight rule laid upon the face of three-fourths of us in America
+will touch the nose and mouth only; here are native Africans,
+without number, whose nose and chin the rule would touch with-
+out touching the mouth, which is always indicative of the highest
+type of intellectuality. Some of the most neat and concave feet
+are found upon thousands of these Africans. I have seen specimens 
+of 19 tribes, and I have not seen over 100 of them constructed 
+on as low scale as I have seen in America. An African
+said to be 108 years old, said: "We no used to sell' big blood'
+African to white man, except we capture him in war." I believe
+this old man tells the truth; that during the times of the slave
+trade there were no "big blood " first-class Africans sold to the
+white man, unless they were war prisoners.</p>
+  <p> Monrovia far exceeds my expectations. Instead of being low,
+swampy and alluvial, it is on an elevated cape, three sides laved
+by the ocean and tanned by her breezes, will average about 150
+
+                       <fw>MISCELLANEOUS.                       489</fw>
+feet above the sea-level, I think. In the main, the houses are
+excellent, two-, three- and a few four-stories high, with sidewalks
+very good, but the streets proper are grassy and not kept in regular 
+order. As they use no horses and wagons, so the streets are
+not needed ; but they are far superior to hundreds of streets I
+have seen where horses and mules are used.</p>
+   <p>In the rear of Monrovia, however, where a branch of the St.
+Paul River, called the Stockton Creek, and the Mesurado River
+form a confluence, there are some large Mangrove swamps, alluvial, 
+soft and lagoonish, which evidently emit a great deal of malaria 
+and are highly productive of fever germs when the wind is
+blowing from the land side, just as we have in thousands of
+places in the United States. There is no remedy for this, for God
+is making these two rivers cart dirt from the high lands to fill up
+the low; the debris is gradually doing its work, and the people
+must await His time.</p>
+   <p>The Liberia College is situated on the side of Mount Mesurado; 
+the curriculum is high and the teachers are well informed;
+two more learned professors are being looked for daily. The college 
+is a credit to the government of Liberia, for it is a national
+institution.</p>
+   <p>I have had the honor of visiting the executive mansion of the
+Liberian government, was received with marked consideration,
+and the President, who is a polished scholar, paid me special
+attention. I had seen nine Presidents in the United States, but
+a real black President was to me a delightful sight. This administration 
+is praised and blamed by friends and foes, just as
+is the case with our presidents. The Liberian government is
+in the hands of the following, who form the executive department: 
+His Excellency H. R. W. Johnson, President, born in Liberia; 
+Secretary of State, Hon. E.J. Barclay, born in Barbadoes,
+West Indies; Secretary of Treasury, Hon. H. W. Travis, born in
+Liberia; Postmaster-General, Hon. H. J. Moore, born in Liberia;
+Attorney-General, Hon. W. M. Davis, born in Philadelphia, Pa.;
+Secretary of the Interior, not filled. The Secretary of the Treasury, 
+for the present, does the duties of the War and Naval
+Departments. Chief Justice Hon. C. L. Parsons, born in Charleston, S. C.</p>
+   <p>The President-elect, who will take his seat early in January,
+1892, is Hon. J. J. Cheeseman, of Grand Bassa, born in Liberia;
+Vice-President-elect, Hon. W. D. Coleman, born in Kentucky.
+Mr. Cheeseman is represented as an able man with progressive
+views.</p>
+   <p>I visited the Monrovia cemetery a few days ago, and was
+pleased with the tombstones, slabs and shafts I saw commemorating 
+the dead. I counted nearly a hundred, some of
+which cost over a thousand dollars. I saw the grave of my aunt,
+"Hannah Greer," who died about the same time my mother did,
+some three years ago. She was about ninety years old; she
+
+<fw>490                     CHURCH REVIEW.</fw>
+was my oldest aunt of five, and the people here say she was
+a grand woman. I hope to send or bring her a marble head
+and foot slab from America. I visited also the graves of Hon.
+M. A. Hopkins, Hon. and Dr. Henry Highland Garnett, Hon.
+Alexander Clark, and Mrs. Mary Garnett Barboza, the distinguished 
+daughter of Dr. Garnett. Hopkins, Garnett and Clark
+were the three American Ministers of State, who have died
+here. There is not a stone, or a shingle, at the foot or head
+of the grave of Dr. Garnet,—a shame, a shame, upon us
+American Negroes!</p>
+   <p>For forty years before Mr. Lincoln issued his proclamation of
+freedom, Dr. Garnett fought for his race as no other man could,
+except Douglass, when the lips of the southern Negro were sealed
+and he was gored by the slave-masters to the verge of death. Dr.
+Garnett periled life and everything for his freedom; now for us
+American Negroes to allow his remains to lie here, as though he
+was a dog, is enough to make God blast the whole of us. As I
+looked at his grave I wept, and asked God if there was any hope
+for such an ungrateful people. If we do not send a tombstone
+here to mark this grave, the whole Negro race in America deserves 
+the contempt of perdition, to say nothing of heaven.</p>
+   <p>Hon. C. T. O. King is the agent of the Colonization Society
+here. He is a man of excellent parts and evidently understands
+himself. Mr. King thinks that some improvements could be made
+in the reception of emigrants from America, and I think so too.
+But as I will speak about them at the proper place if I live, I will
+only say at present, that any persons coming out here should not
+come as paupers. While Liberia is the easiest place to make a
+living on earth and is the most paradisiacal spot in the world,
+all things considered, yet, there is a climatic change which most
+people must pass through (many do not), and while they are
+passing through it, they need rest and fresh food, which the 
+Colonization Society does not provide, nor can it without steamships, 
+hence they need money to purchase the necessary food
+and often some medicine. Persons should not come here and
+expect to be hirelings; for the native stands ready to do all
+kinds of work much cheaper and better than we can, except to
+do skilled labor. They till the ground and raise all the produce
+for twenty-five cents per day, or five dollars per month. A man
+coming here with two or three hundred dollars and good sense
+may be rich in four or five years. But this is no place for fools
+and paupers. The oldest man in Liberia at present is only 
+one-hundred-and-twenty-seven years; the oldest woman is one-
+hundred-and-twenty. A young man twenty-seven years old has
+a wife seventy-two years old, and he is jealous of her and another
+fellow twenty-four years old.</p>
+   <p>The ministers of Monrovia are as follows:—Rev. Garrison W.
+Gibson, of the Episcopal Church; Rev. Henry Cooper, M. E.
+Church; Rev. Robert J. Clark, Baptist Church; Rev. J. B. Perry
+
+                     <fw>MISCELLANEOUS.                           491</fw>
+Presbyterian Church. All these ministers treat Geda and me
+with great courtesy. The Episcopal minister could not offer me
+his church to preach in, owing to the canons of his connection,
+but he urged me to lecture in it, but the M. E. Church pastor
+appropriated our service. He is a Christian and a gentleman
+of the highest type. Everybody seems to be overjoyed at the
+presence of the A. M. E. Church in Liberia, the welcome
+appears to be universal. Many desire that it shall be the
+National Church, others declare it will be the Continental
+Church. They have come after me to organize in Monrovia
+at once, but for reasons that I shall tell the bishops, I will not.</p>
+   <p>A minister of the A. M. E. Zion Church, who had united
+with us and claimed to be ordained by one—Elder Cartright-
+maintained that his orders were valid, as Brother Cartright was
+Superintendent of the Church here and had been authorized by
+Bishop Hood to ordain. I denied the right of Bishop Hood
+to confer any such authority upon an Elder and rejected his
+ordination. I ordained him a Deacon, however, after due examination.    
+I am sure Bishop Hood never did it.</p>
+   <p>The people here think I am a "rough," because I will sit
+in the draught, eat all kinds of African food, sleep with the
+windows open, walk around barefooted, etc., preach or speak
+every night. But I believe some people die here because of particularity. 
+I never felt better in my life; but I cannot say how
+long this will continue.</p>
+   <p>They say Hon. Alexander Clarke, who died here, had passed
+through the acclimating fever and would have lived easily enough
+had he not refused to eat food that would strengthen him; he
+confined himself to American hog soup, when the doctor and all
+begged him to eat other things. The people here say stinginess
+killed him. The report, however, that strong drink killed him
+is pronounced a base falsehood. People here say he was purely
+temperate.</p>
+   <p>The night and morning here are as cool as in Washington city
+in November. This morning a drink of water chilled my teeth.
+But from 11 o'clock to 1 it is certainly hot. I have met no hotter
+weather here, however, than I have in the United States.</p>
+   
+                      <fw>THIRTEENTH LETTER.</fw>
+                                <p>Monrovia, Liberia, December 7, 1891.
+Mr. Editor :
+   The hospitality of the Liberians has no limit; the social forms
+here, however, partake largely of those in vogue among the English. 
+I infer this from what I have read and heard of English customs more 
+than from any personal knowledge. Politeness, style
+and dignity are by no means wanting, yet the cast of the American order 
+is not prominent. But we Americans have no social
+standard. In Liberia breakfast receptions at ten o'clock in the
+morning are the rule for distinguished guests.
+   32</p> 
+
+<fw>492                     CHURCH REVIEW.</fw>
+   <p>It would seem, from all I can learn, that Rev. Daniel Coker
+played a prominent part in the early settlement of Liberia. The
+first Methodist Church established here was the African M. E.
+Church ; but by whom established I cannot say. Tradition says
+it was afterward sold out to the M. E. Church. Besides the
+probability of Rev. Daniel Coker's having established our Church
+here, he also played a mighty part among the early settlers of
+Sierra Leone. His children and grand-children are found there
+to-day.</p>
+   <p>President-elect Hon. J. J. Cheseman will take his seat early in
+January, under very encouraging circumstances. The Kroo
+tribe, the most important along the African coast, by virtue of its
+maritime character and without whom the ships could do nothing
+in commerce, has sent him an address expressing its loyalty to
+the Liberian Republic and its desire to co-operate in the maintenance 
+of his administration. This tribe will be a mighty support to the 
+new president; the more so as it is beginning to
+realize the treachery of some of the European nations toward
+Africa. The Mandingo, the chief Mohamedan tribe, has also
+sent the new president an elaborate communication of congratulation, 
+assuring him of its support. This is one of the most
+mighty and progressive tribes in Africa and extends back for
+hundreds of miles into the interior. Mr. Cheseman has everything 
+to hope for, provided he fills the bill of public expectation,
+as everybody believes that his administration will inaugurate a
+new deal.</p>
+   <p>The eight years administration of President Johnson, while not
+marked, as I am informed, by many brilliant exploits, has, nevertheless, 
+held things in such a statu quo that the new administration 
+can enlarge, if so disposed.</p>
+  <p> One of the chief deficits of the Liberian Republic is the absence
+of a bank. Sierra Leone has at least two banks, and from the
+income of Liberia she could have a bank easily enough, if I have
+been properly informed, but it is presumed that they understand
+their business better than I can. Things may drag along somewhat, 
+but Liberia is destined to play a grand part in the future.
+Her natural resources are too infinite to remain stagnant forever;
+if there has been any lack of foresight in the past, the remedy
+will come in God's own time.</p>
+   <p>Rev. James H. Deputie, of the M. E. Church, a most polished
+and Christian gentleman, welcomes the A. M. E. Church to
+Liberia as heartily as any of our own ministers. His kindness
+to me personally and his congratulations in general to our
+Church, secure our gratitude.</p>
+   <p>Bishop William Taylor, D.D., is not just as popular as I expected 
+to find him, among the members and ministers of his own
+Church. They say he realizes himself as white, and does not
+fail to let them know it, and often gives out utterances from the
+pulpit not appreciated by any means. When, in one of the M. E.
+
+                      <fw>MISCELLANEOUS.                      493</fw>
+Churches, I spoke of the Bishop as being one of the grandest
+divines on earth, I noticed that many frowned at the expression, 
+and some took me to task about it, after services were over.
+I did not recant, however.</p>
+   <p>Yesterday I received an invitation, through Dr. Blyden, from
+Mrs Jennie Sharp, to visit the female department of Liberia
+College, established in 1883. Mrs. Sharp, formerly Miss Jennie
+Davis, teacher at Webster Grove, Mo., responded to the call of
+Dr. Blyden in 1882 for teachers for the college. She went to
+work, not even waiting to be acclimated, and using the material
+she had, organized the school, and has continued teaching ever
+since, with marvelous success. Many a young wife, now an
+ornament of Liberian society, has passed through her hands.
+She has nearly fifty girls, both children of the colonists and of
+the natives from the interior. There are about ten interior girls,
+one a Mandingo and the others from far beyond the Mandingo
+districts. These, Mrs. Sharp thinks, belong to the Wahoma
+Tribe in East Africa. While these interior girls are pure
+African, they show to a demonstration, that all Africans are not
+black; some of them are as light as mulattoes, with silky hair.
+Astonishing sights will some day be revealed from interior
+Africa. Mrs. Sharp deserves great credit for her zeal and enterprise 
+in securing and keeping these children. She supports a
+number of her pupils at her own expense. I would commend
+this institution to the generosity of all friends of female education
+in Africa. Any books, clothing or money sent to Mrs. Sharp
+will be worthily bestowed. She and her children attend the
+Presbyterian Church at Monrovia. Mrs. Sharp came to Africa,
+I believe, at the same time Professors T. McCants Stewart and
+H. Brown did. She is now the wife of that great business man,
+Mr. Jesse Sharp, referred to in a former letter as having come
+from Columbia, S. C, forty years ago.
+   (Since Bishop Turner left Africa he has learned of the death
+of Mr. Sharp.)</p>
+                     <fw>A CHANGE  OF  BASE.</fw>
+   <p>Since writing the above I have left Monrovia and am now in
+Sierra Leone again. Dr. Blyden and myself took a German ship,
+which carried us eighty miles up the Sherbro River; so I have
+been eighty miles in the interior in another direction, up to a
+place called York Island. What an immense river this Sherbro
+is 1 The inlets to African cities and towns are innumerable. But
+of all the places I have seen in Africa, this is the most unhealthy
+region. Eatables are incalculable in variety; provisions of every
+kind are abundant; yet, I would not advise any new-comer to
+settle up the Sherbro River. White men and ladies, however, are
+here apparently reasonably healthy, acting as ship agents and
+school teachers.</p>
+   <p>Dr. Edward W. Blyden, who traveled with me for six days, is
+
+<fw>494                    CHURCH REVIEW.</fw>
+a marvelous scholar; when he meets an African of whatever
+tribe, or a German, Frenchman, Italian, Spaniard or Portuguese,
+he talks right along in their native tongue, as though he were
+speaking English.</p>
+   <p>Since I left Monrovia, I have learned that certain African
+kings from the Pan Pedro River—the southeastern boundary of
+Liberia—have visited Sierra Leone to protest to the British government 
+against the occupation by the French of their territory
+contrary to their will and without their consent. They claim to
+be part of the Republic of Liberia, and decidedly prefer Liberian
+rule to French.</p>
+   <p>One of the most outrageous things of modern times is the way
+the French, because they possess the might, have seized upon
+over a hundred miles of bona fide Liberian territory, under the
+iniquitous regulations by which the European nations have agreed
+to partition out Africa, and under which atrocious arrangement
+the French are threatening the " Hinterland" of Liberia. The
+following notice appeared in the Sierra Leone Weekly News, December 5, 1891:</p>
+
+   <p>"The British Commissioners for the delimitation of the English and French 
+frontiers arrived here on the evening of December 2, 1891, by the steamship 
+Kinsembo, Capt. A. H. Kenny, R. N., and a detachment of Royal Engineers, 
+Surgeon Major J. J. Lamprey, Aimy Medical Staff, and Mr. Scott Elliott, 
+attached as botanist to the Commission, from the Royal Gardens, Kew.
+   "The French officers who form the French Commission are M. Lamadon, Principal
+Administrator of the ' Rivieres du sud,' Lieutenant Bransoulie, 15th de Ligne, and
+Docteur Bonnefoy, French Navy; they arrived in Freetown from Marseilles on
+Saturday morning, per steamship Tiflet.
+   "The object of the Commission is to define the limits of the French and English
+territory to the North of the colony of Sierra Leone, and to establish with 
+geographical precision the delimitation already agreed upon by the two governments."</p>
+
+   <p>The Commissioners have been to Sierra Leone and arranged
+for an exploring journey, by which they will parcel out other
+people's country; tribes unwilling to receive them and with whom
+they have no quarrel, but whose territory they covet. Will not
+the God of Naboth visit these powerful European nations for
+these things? Will not the United States government interfere
+to prevent Liberian territory from being gobbled up by the
+French? Has not the American government the right to help
+a feeble nation, founded partly under her patronage; and when
+she has in her domain millions of the descendants of Africa, many
+of whom are looking to the same Liberia as their future home or
+the home of their posterity?</p>
+   <p>I believe the Judge of all the earth will do right. He will over rule 
+the cupidity of man, in the interest of the Negro, in this instance, as 
+He overruled the slave trade. Europe thought she
+was serving herself by enslaving Africa and her people. Twelve
+millions of us in the Western Hemisphere have been brought in
+contact with civilization and Christianity, and are being prepared
+to take intelligent possession of our fatherland.</p>
+   <p>Upon my return from Liberia I found Rev. J. R. Frederick,
+
+                       <fw>MISCELLANEOUS.                         495</fw>
+Presiding Elder of the Sierra Leone Conference, quite sick with
+fever. He is in bed at present, but better, and will be out in a
+few days.</p>
+  <p> Our American representative here, Hon Bolding Bowser, is
+a grand man and fills his station with consummate ability. His
+wife, Mrs. G. E Bowser, is a lady of fine attainments and uncommon 
+sense. Mr. Bowser lets no interest of his government
+suffer. He proves beyond all question the ability of the colored
+man to look after the interests of our great nation, even though
+the nation cares but little for him.</p>
+   
+                    <fw>FOURTEENTH LETTER.</fw>
+                   <p>York Island, Sherbro River, Africa, December 9, 1891.
+Mr. Editor:
+   I have left Monrovia and am now some seventy-five miles up
+the Sherbro River, interior-ward from the ocean. The native
+towns and vast population of our people living on each side of
+this river, and all through the Bush, is simply wonderful. As
+you ascend the Sherbro, every now and then, small inlets can be
+seen flowing in from the land, while trees lock their branches
+across them, and flower-bearing vines festoon them with garlands 
+of fragrant drapery. But, reverberating through and under
+these over-arched inlets, you can hear the voices of scores of
+natives, as they chant their rowing songs; for the native Africans
+sing as they work, especially as they row their boats, till they
+burst from under the green sceneries with small canoes laden
+with all kinds of fruits ; often a Mohamedan priest sits in front,
+gorgeously robed, as though he was on watch for whiskey; as
+the sixty millions of Mohamedans in Africa hate whiskey as
+they do the devil himself. Say what you please about the Mohamedans 
+and their plurality of wives (which of course no
+Christian can endorse) I verily believe that God is holding these
+Mohamedans intact, and that they will serve as the forerunners
+of evangelical Christianity ; in short, that the Mohamedan religion 
+is the morning-star to the sun of pure Christianity. I have
+not spoken on any occasion against liquor-drinking in Africa,
+but some Mohamedan has come and shook my hand after service, and 
+thanked me for fighting whiskey. One thanked me
+"for cursing liquor," and, said he, "Our church and religion all
+curse it, too; it be our greatest foe." God save the Mohamedans, 
+is my prayer, till the Christian Church is ready to do her
+whole duty. Beyond the fact that the Mohamedans allow more
+than one wife, they are as upright in conduct and civil behavior
+as any people in the land.</p>
+   <p>I regret to say what I am now going to write, but I promised
+to do it, and I suppose I had better keep my word:</p>
+   <p>The leading men, or a large number of them in Liberia, are
+disgusted with a majority of the representatives that our govern-
+
+<fw>496                    CHURCH REVIEW.</fw>
+ment sends over here. They say if our government cannot find
+sober, cool-headed, dignified and intelligent representatives of
+our own color to send here, ask the President to send white
+men. Dr. Henry Highland Garnett is the only man sent here,
+whom all join in complimenting, for many years. They say Dr.
+Garnett was a gentleman and a diplomat of high order. They
+also speak kindly of Hon. Alexander Clark, so far as his sobriety
+and morality are concerned, but say that he had no knowledge
+of diplomacy. Some of our representatives have so far ignored
+the rules of diplomatic dignity or decorum, that they have tried
+to force themselves into the President's Cabinet-meetings. But
+I will tell no more, as I dislike gossip in any form; yet they
+prefer a white man to some of our colored men whom the Presidents 
+have sent here.</p>
+   <p>It appears that the American minister is the Dean of the
+Diplomatic Corps at Monrovia, and in any formal meeting or
+reception he is the presiding officer, as he ranks the representatives 
+of all other nations; therefore he should be a model man
+in every respect.</p>
+  <p> Liberia, as I have said before, is a most beautiful country, and
+nature has supplied it with all that heart could wish. I never
+wanted to be a young man so badly in my life. I would come
+here, and, if I had half as much sense as I have now, I would
+be worth a fortune in ten years. Nevertheless, as I have said
+before, I would advise no one to come here without a hundred
+or two dollars. This is not the place for anyone to come with
+no money. Well, if he is a mechanic, viz., carpenter, blacksmith,
+painter, tailor, watchmaker, or professional, as a doctor or a
+lawyer, he might do well enough; but a mere laborer should
+bring some money,, for the native African stands ready, ten thousand 
+strong, to snatch up all the mere common labor to be done,
+at twenty-five cents per day, or five dollars a month; and two
+native Africans can do more hard work in one day than five of
+our ordinary men, such is their strength and vigor.</p>
+   <p>As for the acclimating process, nearly everybody must pass
+through it, yet all do not have the fever; men, and women too,
+who have been here ten and fifteen years, tell me they have
+never had anything like fever. But if a person comes here,
+young or old, with any chronic disease lurking in his system,
+Africa is apt to purge it out, or kill the person in the process
+of purgation. At all events, the party will get better or worse.
+But if a person comes here healthy, sound and sober, there is no
+more danger than in any other change of climate.</p>
+  <p> One thing the black man has here—that is, manhood, freedom,
+and the fullest liberty; he feels as a lord, and walks and talks
+the same way.</p>
+   <p>I notice when the English, or even the cultured Africans,
+speak of the colored people coming here from America, or else-
+where, returning here, they do not use the terms "emigrate," or
+
+                       <fw>MISCELLANEOUS.                     497</fw>
+"African emigration," as we do in America; but they invariably
+say, "repatriate," or use the term, the "repatriation of the black 
+man,"or, as some say, the " Negro;" nor are the terms "emigrate " or 
+"immigrate" used, even among the common people,
+as they say, "coming home," or "When are you all coming
+home?" The native African, from the kings down, cannot realize 
+that the black man in America is at home across the sea.</p>
+   <p>Out of the many receptions given in my honor, or the honor
+of the church, and the eloquent addresses delivered upon the
+occasions, I will send the two following: they being the only
+ones which have fallen into my hands in manuscript. I failed to
+   et the others by reason of having to leave so soon. The first
+was delivered by Rev. June Moore, of the Baptist Church, the
+great friend and comrade of Rev. S. J. Campbell, at the opening
+of the Liberian Conference; the other at the ten o'clock breakfast 
+tendered to Elder Geda and myself at Monrovia, which was
+read by Hon. H. W. Grimes.</p>
+
+</div2>
+<div2>
+       <head>ADDRESS OF REV. JUNE MOORE TO BISHOP TURNER, AT THE 
+        OPENING OF THE LIBERIA CONFERENCE, A. M. E. CHURCH </head>
+<p>Rt. Rev. and Dear Sir :
+   It becomes my duty, in behalf of the ministry and members of the A. M. E. Church,
+whose invitation to visit Liberia you have so kindly accepted, to extend you a hearty
+welcome to our shores. I have often heard and read with much interest, pleasure and
+thankfulness of your devoted labors and zeal for our common race, as well as of your
+desire and untiring efforts to impress the Negro of America with a strong and clear
+sense of his obligation to God and his race.</p>
+  <p> I am thankful, too, to our common Father, that your labors have met with so much
+success, and I hope that your visit to Liberia may be of much interest to you, and that
+your short stay here may encourage us in the great and grand work which lies before
+us; believing that on your return to our brethren in America, you will be better prepared 
+to lay before them the true condition of Africa—the Old Homestead of our
+Fathers, as you now see it.</p>
+   <p>We are again thankful to our Gracious Father for the gifts and graces with which
+He has endowed you. He has evidently set you forth as one of the leaders of our
+race, to mark to us a line upon which we are to work.</p>
+   <p>It affords me much pleasure to say that it is coming clearer and clearer to the minds
+of the leading men of our race that we have a distinct work to do for God and the
+race, which no one can do but ourselves. May your life be spared for the great work
+in which you are engaged!
+It is not until we have gotten these grand principles of self-respect implanted in
+our hearts, then, and not until then we shall demand respect from all nations. Again
+I welcome you to the shores of Africa. Look to the North, South, East and West,
+or as far as Africa extends, foreign nations boast in their scramble for Africa, that they
+have divided it among themselves. Yet we believe that when we shall have gotten
+right with God and with ourselves, all these powers will give way for the peaceful
+possession by the sons of Ham.</p>
+   <p>May the blessings of God rest upon you and the dear brethren in your present work
+and may the standard of Emmanuel which you are planting here, rise higher and
+higher, until the millions that are now sitting in darkness catch the bright rising of the
+Sun of righteousness.</p>
+</div2>
+
+<div2>
+                                       <head>ADDRESS.</head>
+                                             <p>Monrovia, Liberia, December 5, 1891.
+   To the Right Rev. Henry M. Turner, D.D., LL.D., Bishop of the A. M. E. Church.
+Right Reverend and Dear Sir:                                  
+   We feel that it would not be fitting for you to leave our shores without our putting
+on record the feeling of gratification with which we have seen you among us.</p>
+
+<fw>498                              CHURCH REVIEW.</fw>
+  <p> Some of those who are allied to us by ties of blood, but who are divided from us by
+the misfortunes which have crushed out of them race pride and self-respect, have
+from time to time come among us and left among us sad impressions of the condition
+and feelings of our brethren in the United States, and taken back to them evil tidings
+of this little Republic, like the ten spies, filling the hearts of the people with fear and
+dismal foreboding, and making wider the chasm which divides the scattered children
+of Africa from their Fatherland.</p>
+   <p>In you, however, we rejoice to meet a man of another stamp, and great as is our
+pleasure to greet you as an eminent theologian, a profound scholar, a true Christian
+and the honored representative of a church which has peculiar claims upon our interests 
+and sympathy, we are yet more pleased to greet you as one whose race instincts are 
+unimpaired, and who, seeing the weaknesses and shortcomings of your
+people, can look beyond them and perceive the elements of greatness which exist in
+them, and believe that God, in his wise providence, is fitting them for great things.</p>
+   <p>To many of us you are personally a stranger, but to none of us are you unknown.
+We have heard of your battles for Africa, and the noble efforts which you have put
+forth to open the eyes of the descendants of Ham in the United States to their duties,
+responsibilities and privileges as such as to induce them to lend a helping hand to us
+in Liberia, who are, as we believe, the pioneers of that mighty host of Africa's sons
+whose blessed privilege it will be to break the chains of sin and ignorance, with which
+Africa's millions have been bound, and win this grand Continent and its magnificent
+sons for Christ.</p>
+   <p>We bid you God-speed as a Bishop and trust that the seed sown by you during
+your visit may spring up, bear abundant fruit for Christ and for Africa, and that the
+small beginning which you have made, may, under the fostering care of the Almighty,
+grow into a powerful African Church.
+We bid you God speed as a man who loves his race and trust that you may be spared
+to return to your people, encouraged and fortified and bearing to them glad tidings of
+great joy, and that you may live to see some of the fruits of your labors in Africa and
+for Africa.</p>
+   <p>We trust that it may be our privilege to see you among us again; but should this
+privilege be denied us, we assure you that our hearts go with you and our prayers shall
+ascend for you, as for all with whom—although separated from them by leagues of sea
+and land—we are co-workers, striving to attain a common goal.</p>
+   <p>To those of our brethren in the United States who are, like you, lovers of Africa
+and their race, we beg you to convey our greetings and assure them that there is room
+and work for them here and that should they come among us they will find a hearty
+welcome and a home.</p>
+   <p>We beg Rt. Rev. and Dear Sir to subscribe ourselves your friends and servants.</p>
+
+                                      <p>Signed by</p>
+<p>His Excellency H. R. W. JOHNSON, President of Liberia.
+Hon. H. W. TRAVIS, Secretary of the Treasury.
+Hon. H. A WILLIAMS, Mayor of Monrovia.
+Rev. G. W. GIBSON, Rector of Trinity Episcopal Church, Monrovia,
+EDWARD W. BLYDEN, D.D., LL.D.
+Hon. W. M. DAVIS, Attorney-General.
+Hon. GEORGE W. DIXON, Superintendent of the Montserrado Co.
+Hon. C. C. O. KING, Agent of the American Colonization Society and late Mayor
+   of Monrovia.
+Gen. R. A. SHERMAN, Brigadier-General of Liberian Army.
+Rev. F. B. PERRY, Pastor of Presbyterian Church, Monrovia.
+Hon. H. W. GRIMES, Ex-Attorney-General.
+Mr. J. B. DENNIS, Merchant, and Chief Mechanic.
+Rev. HENRY COOPER, Pastor of the Methodist Episcopal Church, Monrovia.
+J. R. COOPER, Esq., Merchant at Monrovia.
+J. C. DICKINSON, Esq., Merchant at Monrovia.
+Rev. D. WARE, Methodist Episcopal Missionary, Cape Mont.   </p>
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>
