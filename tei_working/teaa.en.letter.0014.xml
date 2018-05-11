@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0014">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from John W. Goodridge to John G. Willis, July 29, 1859</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0014</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Letter from John W. Goodridge to John G. Willis</title>
+<date when="1859-07-29">July 29, 1859</date>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">1</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+
+<classCode scheme="original">
+<ref type="analysis">Analysis</ref>
+</classCode>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Goodridge, John W.</persName>
+<placeName>Luanda, Angola</placeName>
+<date when="1859-07-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Willis, John G.</persName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
+<change when="2017" who="ks">Transcription and initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<pb facs="teaa.en.letter.20004"/>
+
+<div1 type="letter">
+
+
+<opener><dateline>Loanda July 29th 1859</dateline> 
+
+<salute>John G Willis Esq<lb/>
+U. S. Commercial Agent</salute></opener>
+
+<p>Sir<lb/>
+The <sic>inclosed</sic> abstract 
+from my ship's log will sufficiently
+explain itself.</p>
+
+<p>While on this coast last
+voyage in 1857 &#38; 8 we were chased,
+fired into with shot guns hove to
+and detained on our voyage on two
+different occasions by English
+Cruisers. Since then our government
+having conveyed to that of the
+English an assertion of a plain
+and explicit denial of the right
+of any foreign ships of war to stop or
+detain any merchant ship bearing
+the American flag upon the high
+seas under any circumstances or
+pretense whatever and the English
+Government having assented to it
+and disclaimed all such right
+we had not anticipated being
+again subjected to such <sic>shamefull</sic>
+
+<pb facs="teaa.en.letter.20005"/>
+
+<sic>disgracefull</sic>, troublesome and most 
+disagreeable delays involving loss
+of time to the ships and pecuniary
+loss to her owners which latter is especially
+the case on the occasion as our commission
+was urgent its success depending
+upon our reaching "Principi" in
+time to anticipate the advices for
+there <unclear>per</unclear> mail steamer "Estephania"
+to sail the day after us from Loanda
+for St Thomas with mails for "Principi"
+to be forwarded from there.</p>
+
+<p>You therefore realise in some measure
+how vexatious was the delay to
+which we were subjected and the
+pecuniary loss involved may be very
+considerable.</p>
+
+<p>With full assurance that
+we shall meet with welcome and
+prompt attention in protection of our
+rights our lives and our property
+I have the honor to be</p>
+
+<closer><salute>Sir<lb/>
+Respectfully<lb/>
+Yr Mo Obt Svt</salute>
+<signed>Signed John W. Goodridge<lb/>
+Master of Barque Hazard</signed></closer>
+
+</div1>
+</body>
+</text>
+
+</TEI>
