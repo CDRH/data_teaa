@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0038">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from John G. Willis to William H. Seward, September 6, 1862</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0038</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Letter from John G. Willis to William H. Seward</title>
+<date when="1862-09-06">September 6, 1862</date>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">1</biblScope>
+<date from="1854-01-12" to="1893-03-29">January 12, 1854 - March 29, 1893</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+
+<classCode scheme="original">
+<ref type="analysis">Analysis</ref>
+</classCode>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Willis, John G.</persName>
+<placeName>Salem, Massachusetts</placeName>
+<date when="1862-09-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<placeName>Washington, D. C.</placeName>
+<date when="1862-09-09"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
+<change when="2017" who="ks">Transcription and initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<pb facs="teaa.en.letter.0038.001"/>
+
+<div1 type="letter">
+
+<note>Recd Sept 9.</note>
+<note>Ans " 19</note>
+<note>+ Mr Abbot &#x2713; </note>
+
+
+<p>Salem Mass Sept 6 1862</p>
+<note><unclear/> is agent</note>
+<p>Sir<lb/>
+Enclosed please find Draft for 
+Twenty one &#38; <unclear>11/100</unclear> dollars being balance due me as
+per a/c of Treasury Department which I would
+respectfully request sent me in Draft on the Sub-
+Treasury in Boston payable to my order.</p>
+
+<p>I would also request sent me previous
+to the 18th inst that being the time I intend leaving
+this Port for St Paul de Loanda for the use of the
+Commercial Agency the following vis.</p>
+
+<p>Forms No 8. 14. 15. 16. 17. 24. 25. 30. 31. 33.
+41. 44. 88. 94. 105. 109.</p>
+
+<p>Bills of Exchange or Drafts_ Exchange
+Vouchers Nos 1 &#38; 2 also one Large flag.</p>
+
+<p>Trusting that my communication addressed
+under date of Sept 1 to Hon F W Seward 
+assistant Secretary of State has received your Kind
+attention &#38; that I may expect a favorable reply 
+previous to my departure at above.</p>
+
+<p>I have the honor to be<lb/>
+Your Obt Servt<lb/>
+John G Willis</p>
+
+<fw>Hon Wm H Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
+</div1>
+
+</body>
+</text>
+
+</TEI>

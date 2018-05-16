@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0043">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from John G. Willis to William H. Seward, January 15, 1863</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0043</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Letter from John G. Willis to William H. Seward</title>
+<date when="1863-01-15">January 15, 1863</date>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">1</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+
+<classCode scheme="original">
+<ref type="analysis">Analysis</ref>
+</classCode>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Willis, John G.</persName>
+<placeName>Luanda, Angola</placeName>
+<date when="1863-01-15"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<placeName>Washington, D. C.</placeName>
+<date when="1863-04-06"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
+<change when="2017" who="ks">Transcription and initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<pb facs="teaa.en.letter.0043.001"/>
+
+<div1 type="letter">
+
+<note>Recd Ap 6 + Mr. Abbot</note>
+
+<opener><dateline>No 1 United States Commercial Agency<lb/>
+St Paul de Loanda January 15 1863</dateline></opener>
+
+<p>Sir<lb/>
+By request of Mr R Cunningham
+who returns to the States via England in account of 
+ill health. I have taken charge of this office which 
+I shall endeavor to hold to the satisfaction of your
+Department till the return of Mr Cunningham or
+to such time as it may please you to allow me to retain 
+the same.</p>
+
+<p>Mr Cunningham intends on his 
+arrival to visit Washington, there he will give you 
+such further particulars as you may desire in respect 
+to the duties of this Agency.</p>
+
+<closer><salute>Very Respectfully<lb/>
+Your Obt Servt</salute>
+<signed>John G Willis<lb/>
+Acting Vice Com Agent</signed>
+
+<address><addrLine>Hon Wm H Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington D. C.</addrLine></address>
+</closer>
+</div1>
+</body>
+</text>
+
+</TEI>
