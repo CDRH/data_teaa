@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0339">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Dispatch from Hilary R. W. Johnson to Leopold II, November 20, 1886</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<name n="Dawson, Kendall C." xml:id="kcd"></name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0339</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,20 +41,21 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="a">Dispatch from Hilary R. W. Johnson to Leopold II</title>
+<date when="1886-11-20">November 20, 1886</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
 <profileDesc>
 <langUsage>
-<language ident="fr">French</language>
+<language ident="en">English</language>
 </langUsage>
 
 <textClass>
@@ -95,18 +94,23 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 <keywords scheme="original" n="religion">
 <term></term>
 </keywords>
-
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
-
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Johnson, Hilary R. W.</persName>
+<placeName>Monrovia, Liberia</placeName>
+<date when="1886-11-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</persName>
+</correspAction>
+</correspDesc>
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2018-05-21" who="jej">Metadata encoding and review.</change>
+<change when="2018" who="kcd">Transcription and initial encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,33 +128,33 @@ Very Dear and Great Friend,</p>
 <p>The letter which you did me the kindness to 
 address to me, announcing your assumption by authority
 of the Legislative Chamber of Belgium, of the title of
-personal Sovereign of the Independent State of the COngo,
-not only awakeened a lively feeling of pleasure, but it
-<unclear></unclear> a <unclear></unclear> anticipated by the judgement of the entire
-world, considering the lolng, ardent and <unclear></unclear> devotion
+personal Sovereign of the <sic>Independant</sic> State of the Congo,
+not only awakened a lively feeling of pleasure, but it
+announced a step anticipated by the judgement of the entire
+world, considering the long, ardent and unselfish devotion
 of Your Majesty to the regeneration of Africa.-</p>
 
-<p>In order that <unclear></unclear> in some way assist in facilitating
-<unclear></unclear> <unclear></unclear> which Your Majesty has set before You, I shall
-as siib as practicable, a credit near Your Majesty's Government
-of the Free State of the Congo, a representation who
+<p>in order that I may in some way assist in facilitating
+the task which Your Majesty has set before You, I shall
+as soon as practicable, accredit near Your Majesty's Government
+of the Free State of the Congo, a representative who
 shall on all occasions, assure Your Majesty of my deep
-sympathy and ardent desire for the prospertiy of Your
+sympathy and ardent desire for the prosperity of Your
 Government.</p>
     
 <p>I beg to renew to Your Majesty the assurance 
-of my highest esteem and of the <unclear></unclear> friendship
+of my highest esteem and of the inviolable friendship
 with which I am,</p>
     
 <p>Very dear and great Friend,
 Your sincere Friend,
-(s) Johnson.</p>
+H. Johnson.</p>
     
 <p>By the President
-H. J. Barclay.-
+E. J. Barclay.-
 Secretary of State.-</p>
     
-<p>Executice Mansion,
+<p>Executive Mansion,
 Monrovia, Nov. 20, 1886</p>
 
 </div1>
