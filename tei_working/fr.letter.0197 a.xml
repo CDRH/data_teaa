@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0197">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
-<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<title>Letter from the General Commissioner to Théophile Wahis, October 5, 1911</title>
+<principal n="Jones, Jeannette Eileen, 1970-" xml:id="jej">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<name n="Dawson, Kendall C." xml:id="kcd"></name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0197</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,13 +41,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="a" >Letter from General Commissioner to Théophile Wahis</title>
+<date when="1911-10-05">October 5, 1911</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -73,14 +66,12 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<term>Broy, Charles C.</term><term>Benza, Pauly</term>
 
 </keywords>
     
 <keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<term></term>
 
 </keywords>
     
@@ -96,17 +87,23 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 <term></term>
 </keywords>
 
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
-
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName></persName>
+<placeName>Boma,Democratic Republic of the Congo</placeName>
+<date when="1911-10-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Théophile Wahis</persName>
+</correspAction>
+</correspDesc>
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2018-05-22" who="jej">Metadata encoding and review.</change>
+<change when="2018" who="kcd">Transcription and initial encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -140,6 +137,10 @@ est plaignant.</p>
     
 <p>Le Commissaire Général,
 (Se) Leuster.</p>
+
+<p>Monsieur le Gouverneur Général, BOMA</p>
+
+
 
 </div1>
 </body>
