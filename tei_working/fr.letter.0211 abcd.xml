@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0211">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
-<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<principal n="Jones, Jeannette Eileen, 1970-" xml:id="jej">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0211</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -44,13 +42,14 @@
 <sourceDesc>
 <bibl>
 <title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<date when="1906-06-25">June 25, 1906</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<idno></idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
@@ -72,16 +71,12 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
-
+<keywords scheme="viaf" n="people">
+<term>Chevalier de Cuvelier</term><term>Nerincx, Alfred, 1872-1943</term><term>Slocum, Clarence R.</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
-
+<keywords scheme="original" n="places">
+<term>Boma, Democratic Republic of the Congo</term><term>Boston, Massachusetts</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -96,17 +91,12 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 <term></term>
 </keywords>
 
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
-
 </textClass>
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2018-05-21" who="jej">Metadata encoding and review.</change>
+<change when="2018" who="kcd">Transcription and initial encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -120,25 +110,72 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <p>Légation de Belgique</p>
     
-<p>hamilton, Mass.
+<p>Hamilton, Mass.
 le 25 juin 1906</p>
     
 <p>Monsieur le Chevalier,</p>
     
 <p>Conformément aux
-instructions que je jui avas laissées,
-M. <unclear></unclear> vous a télégraphie
-immédiatement de Washington la <unclear></unclear>
+instructions que je lui avais laissées,
+M. Nerincx vous a télégraphie
+immédiatement de Washington la nomination
 du Consul Général des Etats
 Unis à Boma, au moment oú 
-le Département d'Etat la publiciait
+le Département d'Etat la publiait
 en un communiqué aux journaux,
 dont vous trouverez un exemplaire
 joint à cette dépêche.</p>
 
 <p>Le candidat désignée pour
-ce poste nouveau esr M. Clarence R.
-Slocum, de New York, il est actuel</p>
+ce poste nouveau est M. Clarence R.
+Slocum, de New York, il est actuellement
+encore Consul <unclear></unclear>
+à Weimar. Sa promotion de Consul
+Général à Boma ne sera définitive
+qu'après confirmation par le Sénat;
+mais cette ratification ne me paraît 
+aucunement douteuse.</p>
+
+<p>Le choix de Mr. Slocumm est annocé
+par la Département d'Etat en 
+des termes qui permettent de penser
+que cette nomination est une désignation
+personnelle de M. Root (qui m'annonçait
+récemment encore l'intention de
+choiser un candidat sérieux) et qu'
+elle constitue plutôt un nouvel éspec.
+pour nos adversaires de Boston.</p>
+
+<p>Le communiqué rapporte en
+effet qu'en dépit des objurgaations de
+la Congo Reform Association, le Secrétaire
+d'État ne s'est décidé à la création
+de ce poste de Boma qu'après d'etre
+assuré du bon vouloir de l'Etat
+Indépendant,&#8212; qu'il a décidé alors
+de nommer à ce poste un candidat
+dégagé des influences de cette association
+antagoniste, &#8212; et au'aujourd'hui
+encore, malgré les démarches et
+les instances dont la Congo Reform
+Association l'obsède, le Secrétaire d'
+Etat a déclaré à ces réformateurs
+qu'il s'en tenait à sa maniére de
+voir sur la question Congolaise comme
+il l'avait fait connaître
+antérieurement.</p>
+
+<p>Le même communiqué ajoute
+que l'accuiel fait aux candidatures
+proposées par le Secrétaire de la Congo
+Reform Association, M. Daniels, n'a
+pas été le moins du monde encourageant.</p>
+
+<p>Veuillez, Monsieur Le
+Chevalier, agréer les assurances
+de ma trés haute considéra.</p>
+
+<p><unclear></unclear></p>
 </div1>
 </body>
 </text>
