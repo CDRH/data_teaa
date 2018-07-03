@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0059">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Augustus Archer Silva to William H. Seward, January 1, 1865</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0059</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Augustus Archer Silva to William H. Seward</title>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">2</biblScope>
+<date when="1865-01-01">January 1, 1865</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+
+<classCode scheme="original">
+<ref type="analysis">Analysis</ref>
+</classCode>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Silva, Augustus Archer</persName>
+<placeName>Luanda, Africa</placeName>
+<date when="1865-01-01"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seward, William H. (William Henry), 1801-1872</persName>
+<placeName>Washington, D. C.</placeName>
+<date when="1865-01-01"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
+<change when="2017" who="ks">Transcription and initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="dispatch">
+
+<pb facs="teaa.en.letter.0059.001"/>
+
+<note>Red Apr 10</note>
+<note>Ack " 12</note>
+
+<note>No 6</note>
+
+<opener><dateline>United States Commercial Agency<lb/>
+St. Paul de Loanda January 1st 1865</dateline>
+<address>
+<addrLine>Hon Wm H Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington</addrLine>
+</address>
+
+</opener>
+
+<p>Sir<lb/>
+Agreeably to my Despatch
+No 1 and 2 wherein I informed
+your Excellency of my intended
+departure for England, I am
+now about to carry it into effect
+I shall take passage on the
+Dutch mail steamer "Earlde Grey"
+for Lisbon in a few days from
+where I shall procees to Enland.
+My detention in England
+will be about thirty
+or forty days when I shall
+ return to my post of duty.</p>
+
+<p>As heretofore adressed
+this involuntary absence 
+<catchwords>from</catchwords>
+
+<pb facs="teaa.en.letter.0059.002"/>
+
+from my post of duty was an
+engagement of a commercial nature
+entered into before I was aware
+of my appointment as Commercial
+Agent, on which my commercial
+properity depends. I would therefore
+request that indulgence of the
+Department to my case as one
+of exception to Circular No 48 on
+file in this Agency.</p>
+
+<p>As also advised I
+have appointed this date Mr
+Frederick A Silva a native citizen
+of the United States to represent
+this office as Acting Commercial
+Agent during my absence, which
+appointment has been recognized
+by His Excellency the Governor
+<catchwords>General</catchwords>
+
+<pb facs="teaa.en.letter.0059.003"/>
+
+General. In accordance with
+Circular Regulations I enclose
+Oath of Allegiance (Form 131) Inventory
+of Agency and Form No 134.</p>
+
+<p>Trusting these proceedings
+on my part will be satisfactory
+to the Department.</p>
+
+<closer>
+
+<salute>
+I have the honor<lb/>
+to be<lb/>
+You most Obd't Serv't</salute>
+<signed>Augustus Archer Silva<lb/>
+Commercial Agent</signed>
+</closer>
+
+</div1>
+
+<div1 type="attachment">
+<pb facs="teaa.en.letter.0059.004"/>
+
+<opener><dateline>United States Coml Agency<lb/>
+St Paul de Loanda Dec 31 1864</dateline></opener>
+
+<p>We certify on this the 31st day
+of December 1864, the services of
+Augustus Archer Silva ceased
+and he is entitled to his salary
+including said day; and that
+the services of Frederick A Silva
+commenced the day following he
+having received the Archives
+as required by the Counsular
+Regulations, as Acting Commercial
+Agent during the temporary
+absence of Augustus Archer Silva
+the Commcercial Agent.</p>
+
+<closer><signed>Frederick A. Silva</signed>
+<signed>Augustus Archer Silva</signed></closer>
+</div1>
+
+<div1 type="attachment">
+<pb facs="teaa.en.letter.0059.005"/>
+
+<p>Inventory of property belonging to
+the United States of America at
+the Commercial Agency of the United
+States at St-Paul de Loanda delivered
+to Frederick A. Silva during the temporary
+absence of Augustus Archer
+Silva viz</p>
+
+<ab>One Flag staff</ab>
+<ab>Five large and one Boat Flag</ab>
+<ab>One seal, one Press</ab>
+<ab>One Coat-of Arms</ab>
+<ab>Five volumes of Commercial Relatives</ab>
+<ab>Four Volumens of Statutes at large (bound)</ab>
+<ab>Six Pamplets do do</ab>
+<ab>Archives of the Agency</ab>
+<ab>One U.S. Consular Manual</ab>
+<ab>One Regulation of U.S. Consulates</ab>
+<ab>Two In stands and Two Cases containing
+stationary in use of the Commercial Agency</ab>
+
+<p>Done in duplicate</p>
+
+<closer>
+<dateline>St. Paul de Loanda December 31 1864</dateline>
+<signed>Augustus Archer Silva</signed>
+<signed>Frederick A. Silva</signed>
+</closer>
+</div1>
+
+</body>
+</text>
+
+</TEI>

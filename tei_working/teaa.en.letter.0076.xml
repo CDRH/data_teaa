@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0076">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from J. H. Allard to Augustus Archer Silva, April 10, 1867</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0076</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from T. S. Helard to Augustus Archer Silva</title>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">2</biblScope>
+<date when="1867-04-10">April 10, 1867</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+
+<classCode scheme="original">
+<ref type="analysis">Analysis</ref>
+</classCode>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Allard, J. H.</persName>
+<placeName>Luanda, Angola</placeName>
+<date when="1867-04-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Silva, Augustus Archer</persName>
+<placeName>Luanda, Angola</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
+<change when="2017" who="ks">Transcription and initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="dispatch">
+
+<pb facs="teaa.en.letter.0076.001"/>
+<note>Copy</note>
+
+<opener><dateline>H. M. Ship "Dromedary"<lb/>
+St. Paul de Loanda 10th April 1864</dateline>
+<address>
+<addrLine>Augustus Archer Silva Esquire</addrLine>
+<addrLine>U. S. Commercial Agent</addrLine>
+<addrLine>St Paul de Loanda</addrLine>
+</address>
+
+</opener>
+
+<p>Sir<lb/>
+In reply to your letter of the 
+9th instant relative to giving passage 
+to certain Kroomen to Sierra Leone, 
+I beg to state although willing to 
+comply with your request as therein stated 
+I should not be able to do so without
+provision being for their sustenance 
+(regularly victualled from this ship)
+during the period they are on passage 
+which may probably occupy some six weeks 
+and for as long a period I do not think 
+I should be justified in trusting to the 
+Kroomen to victual themselves as besides 
+the irregularity of so doing showed they 
+seem short of provisions it would oblige 
+me to supply them, and all stores on 
+board being Government property I should 
+<catchwords>have</catchwords>
+
+<pb facs="teaa.en.letter.0076.002"/>
+have to account for them.</p> 
+
+<p>It would be also necessary 
+that they should have the means 
+of keeping their persons and clothing 
+clean.</p>
+
+<p>In conclusion I would beg to 
+be allowed to suggest that an official 
+application be made through the 
+usual channel, and as Captain <unclear>Peile</unclear>
+the senior officer on this coast is 
+here in H. M. S. "Espoir" I have 
+no doubt that arrangements may be 
+made for the passage required. </p>
+
+<closer><salute>I have the honor to be<lb/>
+Sir,<lb/>
+Your Obedient Servant</salute>
+<signed>Signed <unclear> J. H. Allard</unclear></signed></closer>
+
+</div1>
+</body>
+</text>
+
+</TEI>
