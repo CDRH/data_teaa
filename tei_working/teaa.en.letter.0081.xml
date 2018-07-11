@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0081">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Augustus Archer Silva to William H. Seward, October 22, 1867</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0081</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Augustus Archer Silva to William H. Seward</title>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">2</biblScope>
+<date when="1867-10-22">October 22, 1867</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+
+<classCode scheme="original">
+<ref type="analysis">Analysis</ref>
+</classCode>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Silva, Augustus Archer</persName>
+<placeName>Luanda, Angola</placeName>
+<date when="1867-10-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seward, William H. (William Henry), 1801-1872</persName>
+<placeName>Washington, D. C.</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
+<change when="2017" who="ks">Transcription and initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="dispatch">
+
+<pb facs="teaa.en.letter.0081.001"/>
+
+<note>ack Jany 4</note>
+<note><unclear/></note>
+
+<opener>No 35
+<dateline>United States Commercial Agency<lb/>
+St Paul de Loanda 22nd Oct 1867</dateline>
+<address><addrLine>William H Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington </addrLine>
+<addrLine>D.C.</addrLine></address>
+
+</opener>
+
+<p>Sir<lb/>
+I have the honor to enclose 
+for the information fo the Department 
+a copy of my official letter to Mr. 
+George E Miller master of the 
+American Ship "Wm Cummings" of 
+Philadelphia now at this port.</p>
+
+<p>Mr Miller does not as yet 
+feel disposed to comply with my demand 
+I therefore hold his ship's 
+papers until he does.</p>
+
+<p>I am now preparing full 
+accounts of this case to forward to the 
+Department per "Ionic" now loading 
+for Boston, when the Department 
+will learn of the justifiable 
+causes which influenced my official 
+<catchwords>action</catchwords>
+
+<pb facs="teaa.en.letter.0081.002"/>
+action.</p>
+
+<closer><salute>I have the honor<lb/>
+to be<lb/>
+Your Most Obt Sevt</salute>
+<signed>Augustus Archer Silva<lb/>
+Commercial Agent</signed></closer>
+
+
+</div1>
+
+<div1 type="enclosure">
+<pb facs="teaa.en.letter.0081.003"/>
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda 4th Oct. 1867</dateline></opener>
+
+<p>Sir<lb/>
+Having throughly examined the 
+whole of your ship's company including 
+yourself and officers, on a charge of 
+ill treatment and cruelty, lodged against 
+yourself and chief officer by your crew. 
+I consider the evidence of sufficient 
+consequence to justify me in discharging 
+your entire crew of sailors, twelve 
+in number; I therefore request, in 
+conformity with consular regulations, 
+that you repair to this Commercial 
+Agency and deposit the balance of 
+their wages and also three months 
+extra pay to each man.</p>
+
+<closer><salute>I have the honor 
+to be
+Your Mo Obt Sert</salute>
+<signed>(Sg) Augustus Archer Silva
+Commercial Agent</signed>
+
+<address><addrLine>George E Miller</addrLine>
+<addrLine>Master of the American</addrLine>
+<addrLine>Ship "Wm Cummings"</addrLine>
+</address>
+</closer>
+</div1>
+</body>
+</text>
+
+</TEI>
