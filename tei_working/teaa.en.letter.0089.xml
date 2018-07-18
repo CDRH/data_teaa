@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0089">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from D. L. Marsins to Hamilton Fish, July 29, 1869</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0089</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from D. L. Marsins to Hamilton Fish</title>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">2</biblScope>
+<date when="1869-07-29">July 29, 1869</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+
+<classCode scheme="original">
+<ref type="analysis">Analysis</ref>
+</classCode>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Marsins, D. L.</persName>
+<placeName>São Tomé and Príncipe</placeName>
+<date when="1869-07-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Fish, Hamilton, 1808-1893</persName>
+<placeName>Washington, D. C.</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
+<change when="2017" who="ls">Transcription and initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="dispatch">
+
+<pb facs="teaa.en.letter.0089.001"/>
+
+<note>A Nov. 17 69</note>
+<note><unclear/> Oct 6</note>
+
+<opener>No. 3<lb/>
+<dateline>United States Consulate at St Thome e Principe<lb/>
+West Africa<lb/>
+St  Thomé July 29th 1869</dateline></opener>
+
+<p>Honbl  Sir<lb/>
+As I have had the honor
+to inform you, I have been recognized by
+the Provincial Government, and begun the
+discharge of my official duties.</p>
+
+<p>On making application to the former
+Consular Officer, for whatever United States
+property he might have in his hand, I was
+told he was absent, and that nothing existed
+but some blanks, that he should shortly
+return, and that the blanks should be then
+delivered to me. In the mean time I have
+to make a requisition for a Flag, Coat
+of Arms, seal, press, stationary, United 
+States Treaty and everything else that
+is necessary and that is generally forwarded
+to every consulate. I have just 
+received via Fernando Po several books
+as shown by enclosed list.</p>
+
+<p>I should like to be informed, if
+packages adressed to this consulate coming
+through the consulate are subject to duties,
+I mean only what bonafied belongs
+to the consulate.</p>
+
+<p>I should also like to know, how
+
+<pb facs="teaa.en.letter.0089.002"/>
+I am going to charge for Post Office Expenses,
+as there are generally some charges on all packages.</p>
+
+<p>I am getting up a Map of
+the Commercial business of last year
+as shown by the imports and exports. As 
+soon as ready, I shall forward it to the
+Department of State.</p>
+
+<p>Hoping that you will give kind attention
+to my requisition, I have the honor
+to remain with great respect.</p>
+
+<closer><salute>Your Most Obedt. Servant</salute>
+<signed>D. L - Martin</signed>
+
+<address><addrLine>To the</addrLine>
+<addrLine>Honorble Hamilton Fish.</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington</addrLine>
+<addrLine>D.C.</addrLine></address></closer>
+
+</div1>
+</body>
+</text>
+
+</TEI>
