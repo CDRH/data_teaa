@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0117">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Robert S. Newton to Frederick W. Seward, February 21, 1879</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0117</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Robert S. Newton to Frederick W. Seward</title>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">3</biblScope>
+<date when="1879-02-21">February 21, 1879</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+
+<classCode scheme="original">
+<ref type="analysis">Analysis</ref>
+</classCode>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Newton, Robert S.</persName>
+<placeName>Luanda, Angola</placeName>
+<date when="1879-02-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seward, Frederick William, 1830-1915</persName>
+<placeName>Washington, D. C.</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
+<change when="2018" who="ls">Transcription and initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="teaa.en.letter.0117.001"/>
+
+<opener>No 33.<lb/>
+
+<dateline>United States Consulate<lb/>
+at St Paul de Loanda, 21st Feby. 1879</dateline>
+
+<address><addrLine>To the</addrLine>
+<addrLine>Assistant Secretary of State</addrLine>
+<addrLine>Washington, D.C.</addrLine></address>
+
+</opener>
+
+<p>Sir<lb/>
+I have the honor to acknowledge
+receipt of your despatch No 71 in reference
+to my request for leave of absence. I 
+thank the department for the leave granted
+for 6 month &amp; will advise the same
+on any departure from this Post.</p>
+
+<p>Mr Thomas the newly appointed
+Consul has not yet arrived and 
+should he fail to reach this Port before
+my departure I shall hand the Archives
+over to the charge of Mr A.G. Colville
+during my absence. </p>
+
+<p>I make due note that
+Mr Thomas has been furnished with
+the new seal press requested in my
+despatch No 27.</p>
+
+<p>The mail steamer "La
+Plata from Lisbon due here in the beginning 
+of January last has not yet arrived
+and although two steamers with later
+<catchwords>dates</catchwords>
+
+
+<!--30000(9/40)-->
+dates have since come into Port, they 
+give no news of her so there is little
+doubt but in what she is lost or that 
+something serious has happend 
+to her. It is to be hoped that Consul 
+Thomas was not on board of her.</p>
+
+<closer><salute>I have the honor to to be<lb/>
+Sir<lb/>
+Your most obedient Servt.</salute>
+<signed>Robt S Newton<lb/>
+Vice Consul</signed></closer>
+
+</div1>
+</body>
+</text>
+
+</TEI>

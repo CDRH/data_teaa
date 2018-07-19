@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0100">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Robert S. Newton to John L. Cadwalader, November 25, 1875</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0100</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Robert S. Newton to John L. Cadwalader</title>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">3</biblScope>
+<date when="1875-11-25">November 25, 1875</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+
+<classCode scheme="original">
+<ref type="analysis">Analysis</ref>
+</classCode>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Newton, Robert S.</persName>
+<placeName>Luanda, Angola</placeName>
+<date when="1875-11-25"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Cadwalader, John L. (John Lambert), 1836-1914</persName>
+<placeName>Washington, D. C.</placeName>
+<date when="1876-02-16"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
+<change when="2018" who="ls">Transcription and initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="cover">
+
+<pb facs="teaa.en.letter.0100.001"/>
+
+<note>Ack Mch 17 76</note>
+<note>Ack Feb 16</note>
+<note>Mr Wood</note>
+<note>Department Of State Received Feb 16 1876</note>
+<note><unclear>Con E</unclear></note>
+
+<opener>No 107
+<dateline>United States Consulate<lb/>
+at St. Paul de Loanda<lb/>
+25th November 1875</dateline>
+</opener>
+<p>Mr. Robert Scott Newton
+to the Department of State</p>
+
+<p>Subject.__Arrival of Lieut. Cameron.</p>
+
+<p>Abstract of contents
+Arrival at Loanda, on the 19th Novbr.
+1875, of Lieut. Cameron and the East
+Coast Livingstone Expedition. The
+expedition a complete success. Cameron
+trying to purchase a vessel to convey
+his 57 men to Zanzibar.</p>
+</div1>
+
+<div1 type="dispatch">
+<pb facs="teaa.en.letter.0100.002"/>
+<opener><dateline>United States Consulate Loanda<lb/>
+25th November 1875</dateline>
+
+<address><addrLine>The Assistant Secretary of State</addrLine>
+<addrLine>Washington D.C.:</addrLine></address>
+</opener>
+
+<p>Sir, I have the honor to report the
+arrival here on the 19th inst. of Lieut.
+Cameron, leader of the East Coast
+Livingstone Expedition, who has successfully
+crossed the African Continent
+from Zanzibar. He reached the West
+Coast on the 7th. inst arriving  at Benguella.
+He is accompanied by 57 
+natives of Zanzibar, all that are left
+of over 300 with whom he originally
+commenced the journey. I understand
+that the Expedition has been a complete
+success, and that he has made some
+
+<pb facs="teaa.en.letter.0100.003"/>
+most important Geographical discoveries.
+I believe that he is in course
+of treaty for the purchase of a vessel
+to transport his followers to their native
+country; and as soon as possible after
+their departure he, himself will proceed
+to Europe</p>
+
+<closer><salute>I am, Sir<lb/>
+Your obedient Servant</salute>
+<signed>Rob S. Newton<lb/>
+Vice Commercial Agent</signed></closer>
+
+
+
+</div1>
+</body>
+</text>
+
+</TEI>

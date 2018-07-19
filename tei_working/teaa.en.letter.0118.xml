@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0118">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from William H. Thomas to Frederick W. Seward, March 21, 1879</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0118</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from William H. Thomas to Frederick W. Seward</title>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">3</biblScope>
+<date from="1879-03-21">March 21, 1879</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+
+<classCode scheme="original">
+<ref type="analysis">Analysis</ref>
+</classCode>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Thomas, William H.</persName>
+<placeName>Philadelphia, Pennsylvania</placeName>
+<date from="1879-03-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seward, Frederick William, 1830-1915</persName>
+<placeName>Washington, D. C.</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
+<change when="2018" who="ls">Transcription and initial encoding</change>
+
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="teaa.en.letter.0118.001"/>
+
+<opener><note>St Paul de Loanda</note>
+<note>Mr Wood</note>
+
+<dateline>Philadelphia, Pa.<lb/>
+March 21st 1879.</dateline>
+
+<address><addrLine>Hon. F. W. Seward</addrLine>
+<addrLine>Asst Secty of State</addrLine>
+<addrLine>Washington D.C.</addrLine></address>
+</opener>
+
+<p>Sir, your letter dated the 18th inst, received.
+In reply. I beg to state that I am now enroute
+via Liverpool England, to St Paul De Loanda, my
+next letter to you will be dated from that Port,
+though I must inform you that the passage money
+alone, will execed one fourth of the consular salary
+for the current year.</p>
+
+<p>My departure, hitherto has been delayed
+by an illness of some duration&#8212;, and
+<unclear>I </unclear> await confirmation by the senate, though I 
+have not been idle, I have secured the cooperation
+of a number of merchants in Boston and New York
+in the African Trade and as a direct result
+three vessels with free cargoes have been
+sent to St Paul de Loanda with orders to bring
+back African goods from the Port. More 
+vessels will follow, and the indication
+
+<pb facs="teaa.en.letter.0118.002"/>
+<unclear>is</unclear> that a number of vessels, heretofore
+engaged in the Cape, and South East African
+Trade will find their way up the west
+coast, and that  St Paul De Loanda will be
+the leading Port of Trade with the United States
+on the south west coast, over one hundred 
+thousand dollars have been received for commercial
+purposes  at and around this Port.
+I will write at length of the result of their
+enterprise, in the consular disphatches, and
+I trust it may be satisfactorly shown
+that my presence in this country has 
+not been unproductive of good, to both countries
+especially in satisfactory trade with the Port
+to <unclear/> I was assigned.</p>
+
+<p>Leave here Tomorrow, and will spend a
+week in England before taking the Liverpool
+steamer for South Africa.</p>
+
+<p>With thanks for your kindness, and 
+with the highest consideration of respect.</p>
+
+<closer><salute>I am very truly your obedient Servent</salute>
+
+<signed>William H Thomas<lb/>
+United States consul<lb/>
+St Paul de Loanda Africa</signed></closer>
+
+</div1>
+</body>
+</text>
+
+</TEI>
