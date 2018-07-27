@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0123.">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from </title>
+<title>Enclosure from Robert Scott Newton for the Assistant Secretary of State, July 23, 1880</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.</idno>
+<idno type="project">teaa.en.letter.0123.</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Enclosure from Robert Scott Newton for the Assistant Secretary of State, July 23, 1880</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
-<date from="1854-01-12" to="1893-03-29">January 12, 1854 - March 29, 1893</date>
+<date from="1880-07-23">July 23, 1880</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -99,13 +99,13 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Newton, Robert Scott</persName>
+<placeName>Luanda, Angola</placeName>
+<date when="1880"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
-<placeName></placeName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
@@ -122,11 +122,79 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="letter">
 
-<pb facs="x"/>
+<pb facs="teaa.en.letter.0123.001"/>
 
+<note>Ackgd Mch. 31</note>
+<p>No. 41 United States Consulate
+St. Paul de Loanda</p>
 
+<p>To the 
+Department of State</p>
+
+<p>Mr. Andrew Galbraith Colville</p>
+
+<p>Subject. Accounts</p>
+
+<p>Abstract of Contents
+Enclosing Form No 120 and
+advising Draft for $142.08 or
+the Secretary of the Treasury</p>
+
+<pb facs="teaa.en.letter.0123.002"/>
+
+<note>No. 55</note>
+
+<p>United States Consulate
+St. Paul de Loanda
+23rd July 1880</p>
+
+<p>Sir,
+I have the honor to inform
+the Department that despatch
+No. 75, and circular No. 18,
+and circulars dated Feby 18th 
+and 24th, and March 19th marked
+separate, have been duly received
+at this consulate and will have
+due attention.</p>
+
+<p>Circular of Feby 24th referring
+to my not-having such
+in the weekly report required by
+the National Board of Health.
+The reason of my not-having
+done so it that it is difficult
+to get correct information, and
+that since my return to my post
+I have not been able to attend
+to it owing to illness, but will
+see to it in the future.</p> 
+
+<p>Circular 19th March, referring
+ to Cotton farms. No farms
+<catchwords>of</catchwords>
+
+<pb facs="teaa.en.letter.0123.003"/>
+of the quality mentioned are
+used in this market, but I will
+get samples of Cotton goods
+used here and as requested send
+there with all information as
+soon as possible.</p>
+
+<p>I have the honor
+to be Sir
+Your most Obedient
+Servant
+Rob S Newton
+Vice Consul
+<del>Acting Consul</del></p>
+
+<p>To the 
+Assistant Secretary of State
+Washington D.C.</p>
 
 </div1>
 </body>
