@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert S. Newton to  J.C. Bancroft Davis, May 16, 1882 </title>
+<title>Dispatch from Robert Scott Newton to  J. C. Bancroft Davis, May 16, 1882 </title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert S. Newton to  J.C. Bancroft Davis</title>
+<title level="a">Dispatch from Robert Scott Newton to J. C. Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -99,13 +99,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Newton, Robert S.</persName>
+<persName>Newton, Robert Scott</persName>
 <placeName>Luanda, Angola</placeName>
 <date when="1882-05-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J.C. Bancroft</persName>
+<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
 <placeName>Washington D.C.</placeName>
+<date when="1882-07-01"/>
 </correspAction>
 </correspDesc>
 
@@ -122,13 +123,15 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="cover">
 
 <pb facs="teaa.en.letter.0142.001"/>
-<note>Approved
-Received July 1 1882 
-Ackd July 5/82
-No 96</note>
+<note>Approved</note>
+
+<note>Department of State Received July 1 1882</note>
+<note>Ackd July 5/82</note>
+<note>Dr. St. Clair</note>
+<note>No 96</note>
 
 <p>United States Consulate 
 St Paul de Loanda</p>
@@ -139,27 +142,29 @@ To the
 Department of State</p>
 
 <p>Subject 
-Destitute Steamer
+Destitute Seamen
 </p>
+</div1>
 
+<div1 type="dispatch">
 <pb facs="teaa.en.letter.0142.002"/>
 <note>No 96</note>
 
-<p>United States Consulate
-St Paul de Loanda
-16th May  1882</p>
+<opener><dateline>United States Consulate<lb/>
+St Paul de Loanda<lb/>
+16th May 1882</dateline></opener>
 
-<p>Sir,
+<p>Sir,<lb/>
 I have to report the arrival here of three
 American sailors on the 13th inst. In the Mail St.
-“Angola”. The Captain of the “Angola states that 
+“Angola”. The Captain of the “Angola" states that 
 he was requested to bring them from Benguella to 
 this port, where they would find a Consular officer
  to understand and look after them.</p>
 
 <p>The men themselves state that they deserted 
 from the American Whaling Barque “Matta
-Poisette” - Captain Steglingh- of New Bedford, 
+Poisette” - Captain Stegburgh- of New Bedford, 
 at the Port of Equimina and walked about
 <gap/></p>
 
@@ -179,14 +184,14 @@ for each</p>
 <p>Their names are Andrew Schmitt,
 Louis Umlandt, and Niels Hansen.</p>
 
-<p>I have the honor to be, Sir,
-Rob S Newton
-U.S. Vice-Consul</p>
+<closer><salute>I have the honor to be, Sir,</salute>
+<signed>Robt S Newton<lb/>
+U.S. Vice-Consul</signed>
 
-<p>To the
-Assistant Secretary of State
-Washington D.C.</p>
-
+<address><addrLine>To the</addrLine>
+<addrLine>Assistant Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine></address>
+</closer>
 </div1>
 </body>
 </text>
