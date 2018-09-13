@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert S. Newton to J.C. Bancroft Davis, March 16, 1882</title>
+<title>Dispatch from Robert Scott Newton to J. C. Bancroft Davis, March 16, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert S. Newton to J.C. Bancroft Davis</title>
+<title level="a">Dispatch from Robert Scott Newton to J. C. Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -99,13 +99,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Newton, Robert S.</persName>
+<persName>Newton, Robert Scott</persName>
 <placeName>Luanda, Angola</placeName>
 <date when="1882-03-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J.C. Bancroft</persName>
+<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
 <placeName>Washington D.C.</placeName>
+<date when="1882-05-03"/>
 </correspAction>
 </correspDesc>
 
@@ -122,12 +123,14 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="cover">
 
 <pb facs="teaa.en.letter.0140.001"/>
 <note>Give to Press?</note>
 
-<note>May 3 1882 Received</note>
+<note>Department of State Received May 3 1882</note>
+
+<note>Dr. St. Clair</note>
 
 <note>No 93</note>
 
@@ -137,18 +140,20 @@ St Paul de Loanda</opener>
 <p>Mr. Robert Scott Newton
 to the Department of State</p>
 
-<p>Suvject-- Advising death of Mr W. W. 
+<p>Subject-- Advising death of Mr W. W. 
 Bagster Chief of the Boston
-Missionaary Expedition</p>
+Missionary Expedition</p>
+</div1>
 
+<div1 type="dispatch">
 <pb facs="teaa.en.letter.0140.002"/>
 <note>No 95</note>
 
-<p>United States Consulate
-St Paul de Loanda
-16th March 1882</p>
+<opener><dateline>United States Consulate<lb/>
+St Paul de Loanda<lb/>
+16th March 1882</dateline></opener>
 
-<p>Sir,
+<p>Sir,<lb/>
 For the information of the
 Department I have the honor to
 advise you of the death of Mr. W.
@@ -160,14 +165,15 @@ Interior in November 1880.</p>
 the 22nd February ulto of Fever and
 congestion of the Brain</p>
 
-<p>I have the honor to be,
-Your obedient servant
-Robert S Newton
-US Vice Consul</p>
+<closer><salute>I have the honor to be,<lb/>
+Your obedient servant</salute>
+<signed>Robt S Newton<lb/>
+US Vice Consul</signed>
 
-<p>To the 
-Assistant Secretary of State 
-Washington D.C.</p>
+<address><addrLine>To the </addrLine>
+<addrLine>Assistant Secretary of State</addrLine> 
+<addrLine>Washington D.C.</addrLine></address>
+</closer>
 </div1>
 </body>
 </text>
