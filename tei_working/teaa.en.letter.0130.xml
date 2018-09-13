@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.130">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0130">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert S. Newton to the Assitant Secretary of State, March 31, 1881</title>
+<title>Dispatch from Robert Scott Newton to the Assitant Secretary of State, March 31, 1881</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert S. Newton to the Assitant Secretary of State</title>
+<title level="a">Dispatch from Robert Scott Newton to the Assitant Secretary of State</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
-<date from="1881-03-31">March 31,1881</date>
+<date from="1881-03-31">March 31, 1881</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -99,13 +99,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Newton, Robert S.</persName>
+<persName>Newton, Robert Scott</persName>
 <placeName>Luanda, Angola</placeName>
 <date when="1881-03-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
 <placeName>Washington, D.C.</placeName>
+<date when="1881-06-16"/>
 </correspAction>
 </correspDesc>
 
@@ -125,42 +126,48 @@
 <div1 type="document">
 
 <pb facs="teaa.en.letter.0130.001"/>
+<note>Mr. Wood</note>
+<note>Department of State Received June 16 1881</note>
+<note>Ackd June 30</note>
+
 <note>No 72</note>
 
-<opener>United States Consulate
-at St Paul de Loanda
+<opener>United States Consulate<lb/>
+at St Paul de Loanda<lb/>
 to the Department of State</opener>
 
 <p>Mr Robert S. Newton</p>
 
-<p>Abstract of Contents
+<p>Abstract of Contents<lb/>
 Requesting two new House Flags</p>
 
 <pb facs="teaa.en.letter.0130.002"/>
 <note>No 72</note>
 
-<p>United States Consulate 
-St Paul de Loanda
+<p>United States Consulate<lb/>
+St Paul de Loanda<lb/>
 31 March 1881</p>
 
-<p>Sir,
+<p>Sir,<lb/>
 I have the honor to 
-requst of the Department the
+request of the Department the
 favor to send to this Consulate
-Two full-sized Flag's, as their
+Two full-sized Flag's, as these
 at present in use are quite
 wore out and cannot be repaired
 further--</p>
 
-<p>I have the honor
-to be
-Your most Obedt Servant
-Rob S Newton
-Vice Consul</p>
+<closer><salute>I have the honor<lb/>
+to be<lb/>
+Your most Obedt Servant</salute>
+<signed>Robt S Newton<lb/>
+Vice Consul</signed>
 
-<p>To the 
-Assistant Secretary of State
-Washington D.C.</p>
+<address>
+<addrLine>To the</addrLine> 
+<addrLine>Assistant Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine></address>
+</closer>
 
 </div1>
 </body>
