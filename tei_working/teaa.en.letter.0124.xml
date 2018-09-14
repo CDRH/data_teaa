@@ -106,6 +106,7 @@
 <correspAction type="deliveredTo">
 <persName></persName>
 <placeName>Washington, D.C</placeName>
+<date when="1880-11-29"/>
 </correspAction>
 </correspDesc>
 
@@ -122,7 +123,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="cover">
 
 <pb facs="teaa.en.letter.0124.001"/>
 
@@ -147,13 +148,15 @@ samples sent per Book Post</p>
 
 <note>(Copied for the Review of Statistics, Dec. 1880)
 Commpared with proof. Oct. 3/81</note>
+</div1>
 
+<div1 type="dispatch">
 <pb facs="teaa.en.letter.0124.002"/>
 <note>No 57</note>
 
-<p>United States Consulate<lb/>
+<opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-14 September 1880</p>
+14 September 1880</dateline></opener>
 
 <p>Sir<lb/>
 With reference to circular of March
