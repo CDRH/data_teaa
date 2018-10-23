@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_162952.jpg"/>
+
+<ab>
+MINISTER
+OF ALGERIA AND THE COLONIES.
+</ab>
+
+<ab>
+Dor des finances
+</ab>
+
+<ab>
+3rd Bureau
+</ab>
+
+<ab>
+SECTION
+</ab>
+
+<ab>
+ANALYZE.
+On the subject of the
+limits of the
+Republic of
+Liberia (west
+coast of
+Africa)
+</ab>
+
+<ab>
+OFFICIAL RECORD OF THE LETTER WRITTEN
+by the Minister
+to mr minster of Foreign Affairs
+</ab>
+
+<ab>
+March 30th         1859
+</ab>
+
+<p>
+Mister count and dear colleague
+In my letter from February 22nd addressed to
+S. et. J. the Service <unclear>Napoléon</unclear> and relative to the
+visite a <unclear/> <unclear/> <unclear/> par le <unclear/>
+anglais l'<unclear/> sur le <unclear/> le <unclear/>,
+employé à une opération de recrutement de
+<unclear>noirs</unclear> <unclear/> nos <unclear/> vous annoncee que
+<del>le</del> <add>votre</add> département ne possède <unclear>aucun renseignement</unclear>
+sur les limites de la République de Liberia
+<unclear/> de laquelle la visite du croiseur
+anglais a été opèrée.
+</p>
+
+<p>
+Divers <unclear/> <del><unclear/> <unclear>par</unclear></del> <add><unclear/> au</add> <del>le</del>
+Département de l'Algèrie et des colonies
+établissent ces limites d'<unclear>eau</unclear> <unclear/> précise.
+<unclear>Au trouve</unclear>, en effet dans <unclear/> recueil des lais et
+<unclear>aetes</unclear> rendus par les autorités de Liberia, <del><unclear>pendant</unclear></del>
+une <unclear>loi</unclear> du 1er février <unclear>1848</unclear> dont je vous
+envoie ce joint copie et par laquelle <del>les</del>
+<del><unclear>Rep</unclear></del> <unclear/> <unclear/> de la république
+arrête ses limites du grand <unclear>cap monte</unclear>
+</p>
+
+<ab>
+fait
+</ab>
+
+<note>
+<unclear/>
+<unclear/> alors
+<unclear/>
+</note>
+
+<note>
+à <unclear/>
+</note>
+
+<note>
+M <unclear/>
+</note>
+
+<note>
+<unclear>H</unclear>
+<unclear>16</unclear>
+</note>
+
+<pb facs="20160613_163001.jpg"/>
+
+<p>
+du Nord-Ouest au grand cap <unclear>titre</unclear>
+au Sud-Est. Une lettre en date
+du 21 février 1848 de Mr le capitaine
+de vaisseau <unclear>Boudin</unclear> alors commandant de la
+Station des cotes d'afrique <unclear/> ces limites
+en transmettant une carte <del>du</del> officielle du
+territoire de <del>la</del> Liberia dressée d'apres les
+traiter <unclear>originaux</unclear> présentés par le gouverneur
+Roberts, et vérifiée en présence du <unclear/> <unclear/>
+Murray, <unclear/> croiseur anglais la favorite.
+</p>
+
+<p>
+C'est <del><unclear>au</unclear></del> <unclear>dans</unclear> les limites <unclear/> <unclear/>
+énoncées qui la république de Liberia a été
+reconnu, au nom de la france <del><unclear>au</unclear></del> <add>eu</add> <del><unclear>vais</unclear></del>
+<unclear/> <unclear>1869</unclear>, par <unclear/> le capitaine de <unclear/>vaisseau
+<unclear>Bauet-Willaume</unclear>, qui avait remplacé <unclear>me</unclear>
+<unclear>Baudud</unclear> dans le commandement de la station.
+</p>
+
+<p>
+L'attention du gouvernement
+n'avait plus été appelée sur cette question
+lorsqu'un Rapport eu date du <unclear>24</unclear> Avril <unclear>1889</unclear>
+<del><unclear>de u</unclear></del> <add>adressé à un le ministre de la marine par</add> le <unclear>lieutenant</unclear> de vaisseau <unclear>la parterre</unclear>
+commandant <unclear/> a vapeur l'<unclear/>, et
+<unclear>champe d'</unclear> <unclear/> un le Capitaine chevalier
+<unclear>dans un</unclear> <unclear/> opération de <unclear/>
+sur la côte d'afrique est venu dénoncer
+les prétentions des autorités de Liberia à étendre les limites du territoire de la
+République au nord et au Sud.
+</p>
+
+<pb facs="20160613_163008.jpg"/>
+
+<p>
+Ce rapport vous a été <unclear>connue que eu</unclear>
+<unclear>ce trait</unclear> par <unclear>M</unclear> l'amiral <unclear/> le
+M. <unclear>Juillet 1887. Jusqu'à</unclear> <unclear/> <unclear>y ait</unclear>
+<unclear/>  les <unclear>Libériens seraient</unclear> <unclear/> à
+<unclear/> l'exercice de leur <unclear>serviteur sur</unclear>
+les 220 <unclear>willes</unclear> de littoral qui <unclear>existent des</unclear>
+grand <unclear>sesters</unclear> à <unclear>un priant</unclear> <unclear/> <del><unclear/></del> <unclear/> <unclear/>
+au nord du cap <unclear/>, <unclear/> <unclear/>, <unclear>un</unclear>
+cap monte.
+</p>
+
+<p>
+Mais ajout <unclear>ce</unclear> <unclear/>
+<unclear>il</unclear> n'y a qu'a se reportes <unclear>des lettres</unclear>
+que vous <unclear/> adressées le <unclear/> <unclear>et du</unclear>
+ministre pour <unclear>se</unclear> <unclear/> <unclear>qui vous</unclear> <unclear/>
+au <unclear>mauvais</unclear> de voir ces limites <unclear/> <unclear>l'étudies</unclear>
+<unclear/> au nord et du sud,<unclear>le perduer</unclear>
+<unclear>n'y met obstacle.</unclear> Le <unclear/> <unclear/> <unclear>êtes</unclear>
+<unclear>venu</unclear> au la <unclear>je</unclear> de monte (au nord) pour
+organiser un nouvel Etat <unclear>et que</unclear>
+très prochainement <unclear>aux lui l'autorité</unclear>
+a la République, du New-Maryland (au
+Sud) qui <unclear>s'est</unclear> taille <unclear>en pluie cote</unclear> de
+<unclear>Kron cuvirau 24 livres</unclear> de possession
+<unclear>allais</unclear> du grand sestre à <unclear>Gabon en le</unclear>
+mettant à cheval sur le cap des <unclear/>
+</p>
+
+<p>
+<unclear>Aussi</unclear> c'est <unclear>en 1889,</unclear> et par les
+<unclear>singuliers</unclear> procédés <del>que</del> <unclear>autorisation</unclear> par <unclear>un</unclear>
+</p>
+
+<pb facs="20160613_163018.jpg"/>
+
+<ab>
+X <unclear/> que pour <unclear>suites</unclear> de
+<unclear>nouvelle</unclear> <unclear/> <unclear/> <del><unclear/></del>
+<del><unclear/> <unclear/> <unclear/></del> <add><unclear/> <unclear/> <unclear/></add> <unclear/>
+<unclear/> <unclear>intérieur</unclear> <unclear/> <unclear>la</unclear> <unclear/>
+<del><unclear/> <unclear/> <unclear/></del>
+<del><unclear/> <unclear>rentrer</unclear></del> <add><unclear>engagement<unclear/></unclear></add> <unclear>sur les parties</unclear>
+<unclear><supplied>intérêts du territoire de</supplied></unclear>
+<supplied>Liberia</supplied>, <unclear>je crois</unclear> que <unclear>nos</unclear>
+<unclear><supplied>intérêts</supplied></unclear> <unclear/>
+</ab>
+
+<p>
+La <unclear>parterre dans</unclear> la suite <del><unclear>de la</unclear></del> <add><unclear>lumes des</unclear></add> Rapport <unclear/> <unclear/>
+que la <del><unclear/> reguglation</del> <add><unclear/> <unclear/></add>des limites de
+la République <del><unclear/></del> <add><del><unclear/></del> <unclear/></add> <del><unclear>nous</unclear> <unclear/></del> <add><unclear/></add>
+<unclear>pas une lettre du capitaine de </unclear> <unclear/>
+<unclear/> <unclear>dans</unclear> le rapport de <unclear/> <unclear/>
+<unclear>Boute délégué des le</unclear> <unclear/> que, <del><unclear>aux</unclear> limites</del>
+<unclear>dans l'esprit</unclear> des <unclear>autorities</unclear> de Liberia ces limites
+de Liberia ces limities aujourd'hui de la rivière de Liberia ces limities
+a la rivière <unclear/> <unclear/>, <unclear/> dire à
+<unclear>21 au</unclear> <del><unclear>le</unclear></del> <unclear>30</unclear> <unclear/> au nord et au sud
+des limites <unclear/> établier.
+</p>
+
+<p>
+<unclear>Aussi que</unclear> <unclear/> le ministre de
+la marine vous <unclear/> exprimait <add><unclear/></add> sous sa
+lettre <unclear>précitée du</unclear> 11 Juillet je ne <unclear>peute</unclear>
+pas monsieur le comte et cher collegue
+qui nous devions reconnaître cette extension
+de territoire. X <del>nos commerciaux</del>
+de <unclear>grand-nassau</unclear> <unclear/> la conduite <unclear>peu</unclear>
+<unclear/> <unclear>que</unclear> les autorités de Liberia <unclear>viennent</unclear>
+de <unclear>tenir cuver</unclear> nous, <del>me paraissent</del> <add>nous</add> <supplied>commandent</supplied>
+<del>au contraire</del> <add><unclear>du</unclear> <unclear/></add> de <unclear>moniteur</unclear> cette petite République
+<unclear>dans</unclear> les limites <unclear>primitives.</unclear> En droit elle
+<unclear>ne</unclear> <unclear/> <del>alleger</del> <add>produire</add>aucun titre à l'<unclear/>
+qu'elle <unclear/>. Non seulement elle
+n'<unclear/> pas <del><unclear/> <unclear>marine</unclear></del> <add>par une <unclear>farce</unclear></add> permanente,
+les <unclear>nouveaux</unclear> Etats qu'elle a prétendu
+<unclear>s'ajoindre</unclear> mais nous voyons par les <supplied>Rapports</supplied>
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>
+
