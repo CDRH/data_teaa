@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160614_145336.jpg"/>
+
+<ab>
+<unclear>Brau du</unclear> <unclear/> <unclear/> <unclear/>
+<unclear/> du <unclear/>
+</ab>
+
+<ab>
+N. 2<unclear/>3
+</ab>
+
+<ab>
+Paris, le 17 Août 1841
+</ab>
+
+<ab>
+Le Ministre,
+A Mr le Gouverneur
+du Sénégal.
+</ab>
+
+<p>
+Monsieur le gouverneur par
+suite à une dépêche en eu ce qui <unclear/> du
+27. décembre 1839, <unclear>un</unclear> votre
+<unclear>Prédécesseur</unclear> a <del><unclear/></del> <add><unclear>consulté</unclear></add> le <unclear/>
+commerce de <unclear/> à la
+<unclear>commission</unclear> commerciale de
+Gorée <del>de</del> <add>sur</add> la question de savoir
+<unclear>se</unclear> <del><unclear/></del> <add>à raison du</add> résultat infructueux
+du <unclear/> démander faits
+auprés du gouvernement <add><unclear/></add> des Etats Unis
+pour <del><unclear/></del> obtenir l'<unclear>abaissement</unclear> des droits d'ancrage
+<add>de <unclear/> <unclear/> <unclear/></add> que <unclear>frappent dans</unclear> les ports de
+<add>l'union</add> les navires français <unclear/> du
+Sénégal, <del><unclear/> <unclear/> <unclear/> <unclear/>, <unclear/></del> <add><unclear>il y a</unclear> <unclear/> pas <unclear/> <del><unclear/></del></add>
+<del><unclear/> <unclear/> <unclear/></del> <add><unclear/> <unclear/></add> <unclear/> <del>à <unclear/></del>
+au <unclear/> <unclear/> le droit <add>de <unclear/> <unclear/></add> <unclear/> <del><unclear/></del>
+<unclear/> les navires Américains
+sont <unclear/> dans le post de gorée
+</p>
+
+<p>
+<del>Les <unclear/> <unclear/> <unclear/></del> <add>Le Commerce de <unclear/> et de Gorée, à</add> <unclear>exprimé</unclear>
+un avis affirmatif, <del><unclear/></del> <unclear/>
+l'opinion contraire de M
+<unclear/>, le Conseil <unclear/>
+et le <unclear/> <unclear/> de la Colonie
+ont <unclear/> partage
+<unclear/>.
+</p>
+
+<p>
+<del><unclear/></del> <unclear>Il m'a</unclear> <unclear/> <unclear/>
+de <unclear>m'informer</unclear> auprés du
+département des affaires Etrangèrs
+si une telle <unclear/> <del><unclear/></del>
+</p>
+
+<ab>
+Il y a lieu d'<unclear/>, <del><unclear/> <unclear/></del> <add><unclear/> modifer</add>
+<del><unclear/></del> au tarif de <unclear/>
+de Gorée <del><unclear/> <unclear/></del> <add>eu ce qui <unclear/></add> <unclear>des</unclear> navires
+des Etats Unis.
+</ab>
+
+<pb facs="20160614_145354.jpg"/>
+
+<p>
+pourrait <unclear>avoir</unclear> du <unclear/>
+du ce qui <unclear>commerce</unclear> les Rapports
+<unclear/> de la <unclear>france avec</unclear>
+les Etats-Unis
+</p>
+
+<p>
+Je reçois, <unclear/> la date du 13.
+juillet, une lettre par la quelle
+M <unclear/> oppose seulement
+a la <unclear/> portion dont il s'agit,
+une objection d'<unclear>appontement</unclear>,
+fondé sur <del><unclear/> <unclear/> <unclear/> <unclear/></del> <add><unclear/></add> 
+<unclear/> <unclear/> <unclear/> <unclear/> <add><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> de <unclear>délibération</unclear> aux <unclear/> dois <unclear/> se <unclear/> le</add> <unclear>Congrès</unclear>
+Américain <add>au sujet</add> question du
+tarif d'un haut intérêt
+pour notre commercial.
+</p>
+
+<p>
+<del><unclear/> <unclear/> <unclear/> de</del>
+<del><unclear/> <unclear/> <unclear/> <unclear/> du <unclear/> il</del>
+<del><unclear/> <unclear/> lieu, de la <unclear>solution</unclear></del>
+<del>de la question, <unclear/> <unclear/></del>
+<del><unclear/> <unclear/> <unclear/> <unclear/> suite</del>
+</p>
+
+<p>
+Il <del><unclear/> <unclear/> entre <unclear/></del> <add>d'<unclear/> eu <unclear/></add>
+<del>que <unclear/> <unclear/> <unclear/></del> <add>de <unclear/></add> a <unclear/>
+<del><unclear/> <unclear/> <unclear/> les <unclear/></del> <add><unclear>motivation dans cette</unclear> <unclear/> <unclear/></add>
+il <del><unclear>Sénégal</unclear>, <unclear/> qui a <unclear/> solution</del> <add>de navigaton du Sénégal.</add>
+<del>du question générals <unclear/></del>
+<del><unclear/> <unclear/> de <unclear>parler</unclear>. <unclear/></del>
+<del><unclear/> informé de cette <unclear/> <unclear/></del>
+<del><unclear/> <unclear/> il <unclear/> <unclear/> lieu</del>
+</p>
+
+<p>
+<del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del> <add><unclear/></add>
+<del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del> <add><unclear/> <unclear/> à été</add> ./.
+<del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del>
+<del>du Gorée</del>. R.C.D. <!-- Signature -->
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>
+
