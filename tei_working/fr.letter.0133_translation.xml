@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
@@ -116,45 +116,54 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <div1 type="document">
 
-<pb facs="20160615_103236.jpg"/>
+<pb facs="20160615_103024.jpg"/>
 
 <ab>
-MINISTÈRE
-DES
-COLONIES
+A.S. of the situation of the negroes in the United States.
 </ab>
 
 <ab>
-Paris, le <!-- 'Paris, le' is followed by an underline meant to be filled in by a date -->
-</ab>
-
-<ab>
-1er Bau <!-- short for 'Premier Bureau' -->
+Paris DEC. 10th 1899 <!-- '10 DEC. 1899' is stamped in blue (?) ink -->
+Mister Governor of
+Martinique
+Guadeloupe
 </ab>
 
 <p>
-Envoyer copie du rapport de Mr
-Cambou aux grs de la Guadeloupe
-et de la Martinique.
+I have the honor to address
+to you enclosed <add>copy</add> of a report addressed by
+the ambassador of France in Washington to
+Mr. Minister of Foreign Affairs on the subject of the
+situation of the negroes in the United States.
 </p>
 
 <p>
-Prendre que ce rapport est confidentiel
-mais qu'ils pourrant faire état des
-rensengnements qu'il connait peu <unclear/>
-officeuse si des tendances d'<unclear/>
-vus les Etats Unis venant de se manifester
-dans la population de conclus
-
-<unclear>E7</unclear>
+Although this report is in conclusion
+confidential, <del>I offer <unclear/> of</del> <add><unclear/></add> <unclear/> to the
+<unclear/> to mention the information
+that it contains, by view <unclear/>
+if the <unclear/> of attention towards the
+United States would come to manifest itself
+in the population of <unclear>coulor</unclear> of the colony
+that you <unclear>administer</unclear>.
+<unclear>R.c.l.p.l.</unclear> <!-- Signature of Initials -->
 </p>
 
 <ab>
-3/12.99.
+Confidentielle
 </ab>
+
+<note>
+<unclear/> dont <unclear>après</unclear>
+</note>
+
+<note>
+l
+</note>
 
 </div1>
 </body>
 </text>
 
 </TEI>
+
