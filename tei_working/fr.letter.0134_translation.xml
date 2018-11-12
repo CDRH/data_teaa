@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160615_103045.jpg"/>
+
+<ab>
+The Ambassador of France in Washington,
+to Mister Minister of Foreign Affairs.
+</ab>
+
+<ab>
+Washington, May 30th 1899.
+</ab>
+
+<p>
+The negro people of the United States have just
+launched a call to foreign nations to ask them
+for protection.
+</p>
+
+<p>
+This document is the expression of the terror <!-- 'terreur' is hyphenated between 'ter-' and 'reur' -->
+that weighs on a part of the population of
+this country.
+</p>
+
+<p>
+Following the war of Secession, the
+negroes were declared citizens and the Government
+in the Southern States passed between their hands. They
+kept it until 1877, time in which the
+whites removed power from them, sometimes with
+lively force and either by fraud or by intimidation, <!-- 'intimidation' is hyphenated between 'inti-' and 'midation -->
+hindering them from voting. Ever since then,
+this situation lasted: the negroes in fact did not vote <!-- 'votent' is hyphenated 'vo-' and 'tent' -->
+at all.The State of Mississippi has just
+adjusted this situation in submitting the exercise <!-- 'exercice' is hyphenated between 'exer-' and 'cice' -->
+of the right to vote to exams on the knowledge <!-- 'connaissance is hyphenated between 'connais-' and 'sance' -->
+of the Federal Constitution, that has
+no worth for the whites and that will suffer to
+</p>
+
+<pb facs="20160615_103059.jpg"/>
+
+<p>
+remove the rights of the blacks. The Supreme Court decided
+that this clause of the Constitution of Mississipi, <!-- 'Mississipi' is hyphenated between 'Mis-' and 'sissipi' -->
+not applying to the negro race in the
+capacity of race, was constitutional. One can
+thus predict that it will be generalized.
+</p>
+
+<p>
+In reality, all juridic guarantee is
+refused to the negroes. There is not need of another
+example that that of the Jury of Charleston does not condemn <!-- 'condamnant' is hyphenated between condam-' and 'nant' -->
+the individuals that, in Lake City last
+year, assassinated the Director of the Post
+and his family because he was negro, and it is
+remarkable that Judge Brawley who presided the
+seats all in severely blaming the authors of the
+crime declared that the authorities who had named
+this Director of the Post were equally responsable. <!-- 'responsables' is hyphenated between 'respon-' and 'sables' -->
+</p>
+
+<p>
+Last April 23rd, a certain Samuel
+Hose assassinated a cultivator and violated his wife.
+The whites took possession of him, burned him alive,
+cut up his body and sold the pices
+to the bids in the middle of 2000 people. He was
+found by journalists to excuse the popular
+violence and the same day two other negroes of which
+a pastor, were hung in the same region, without
+committing any crime.
+</p>
+
+<p>
+Since then, there has not been one
+day without us having learned that one or more
+negroes were assassinated. I will give to you
+</p>
+
+<pb facs="20160615_103109.jpg"/>
+
+<p>
+an example of the death of the negro Pevug and his
+wife in Atlanta, the assassinators committed at the end
+of March in Arkansas in Texarkana: the number is
+unknown, the triple lynchage in Texas in
+Houston that just took place in these last few days,
+the murders committed in Griffin (Georgia): there, there
+was formed an association to oblige the facotries <!-- 'industriels' is hyphenated between 'in-' and 'dustriels' -->
+to refuse to employ blacks without defense are drowned. Finally these past few days, in Fayetteville <!-- 'Fayetteville' is hyphenated between 'Fay-' and 'etteville' -->
+(Gc) an inoffensive negro was taken from his own <!-- The 'c' in '(Gc)' is in superscript -->
+house and killed without reason.
+</p>
+
+<p>
+It is not surprising the the negroes
+are arming themselves and dream of vengeance. It is just as one
+saw pastor Rausom of the Methodist Church dare
+to speak in the pulpit about using dynamite against the
+whites. But this excess of speech can only bring <!-- 'amener' is hyphenated between 'a-' and 'mener' -->
+new crimes. Other remedies are put
+in advance to conjure this situation. The first
+and the most natural was the political influence <!-- 'politique' is hyphenated between 'politi-' and 'que' -->
+of the blacks always being brought to the side of the
+Republicans, maybe it would be good to bring it <!-- 'porter' is hyphenated between 'por-' and 'ter' -->
+to the side of the democrats, the Southern States belonging <!-- 'appartenant' is hyphenated between 'ap-' and 'partenant' -->
+to this party.
+</p>
+
+<p>
+Others like the Bishop H.M.Turner 
+proclaimed that the unique remedy was the complete
+separation of whites and blacks and that those who
+would have to emigrate to Africa and found a Republic there, <!-- 'République' is hyphenated between 'Ré-' and 'publique' -->
+Africa to the Africans.
+</p>
+
+<pb facs="20160615_103120.jpg"/>
+
+<p>
+Others finally proposed to construct
+industrial villages in the North where one would not employ <!-- 'emploierait' is hyphenated between 'em-' and 'ploierait' -->
+any white worker. I have fear that this
+humanitarian project only hides a means for certain
+factories to procure the workforce to
+work well.
+</p>
+
+<p>
+Whatever it be, numerous negro
+families in the South leave the country and as there
+8 to 10 million blacks in the United States,
+that the natality in this race is considerable
+one can predict that from here in a few years a redoubtable <!-- 'problème' is hyphenated between 'pro-' and 'blème' -->
+problem will be posed to the country, that
+may see a new servile war./.
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>
+

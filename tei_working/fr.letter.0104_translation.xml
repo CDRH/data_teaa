@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160614_100309.jpg"/>
+
+<ab>
+Minister
+of
+Foreign Affairs
+</ab>
+
+<ab>
+POLITCAL DIRECTION
+</ab>
+
+<ab>
+Paris, April 13th      1867
+</ab>
+
+<p>
+Mister Admiral and dear colleague,
+following the reports addressed to the Government <!-- 'Gouvernement' is hyphenated between 'Gou-' and '-vernement' -->
+of Washington by Mr. Nassou,
+american missionary in Coriseo and by
+Mr. Perrot, commercial agent in Gabon,
+Mr Minister of the United States in Paris
+was charged with bringing to my knowledge
+different facts that would be produced
+in this area. I have the honor of
+sending to you enclosed, a translation of the
+dispatch that Mr. General Ten 
+addressed to me on this subject. There is question
+in the first place, as Your Excellence
+will see, of slave trade that
+will be carried out on the dependent territories <!-- 'dépendant' is hyphenated between 'dépen' and '-dant' -->
+</p>
+
+<ab>
+His Excellence
+Mister Admiral Rigault de Genouilly
+Minister of the Navy and the Colonies
+</ab>
+
+<note>
+Rép. April 2nd 1867.
+</note>
+
+<note>
+N. 221
+</note>
+
+<note>
+Col
+98
+V
+</note>
+
+<pb facs="20160614_100319.jpg"/>
+
+<p>
+of our establishment of Gabon.
+The representative of Cabinet of Washington <!-- 'Washington' is hyphenated between 'Was-' and '-hington' -->
+signals, furthermore, the acts
+of pillage that the american citizens
+would have had to suffer, just as a
+recent attempt of murder, and it insists <!-- 'insiste' is hyphenated between 'in-' and 'siste' -->
+on this fact, that the complaints that
+these crimes motivated would not have
+been welcomed, as they merited,
+by our local authorities.
+</p>
+
+<p>
+There is place to suppose that the
+slave trade that are denounced to us <!-- 'dénoncées' is hyphenated between 'dé-' and '-noncées' -->
+are precisely those that
+Your Excellence discussed with me
+by its letter from the 19th of last month and
+on the subject of which I had to address
+the observations to the Portugese Government. <!-- 'Portugais' is hyphenated between 'Port-' and '-gais' -->
+It would thus be easy for me in ths
+</p>
+
+<pb facs="20160614_100327.jpg"/>
+
+<p>
+regard to remove the responsibility of our
+authorities of Gabon, since it is 
+despite their efforts, that the trading of
+slaves still subsists in this area
+and that, far from being indifferent, they
+are not ceasing, contrarily, to concern themselves <!-- 'préoccuper' is hyphenated between 'préoccu-' and '-per' -->
+with the necessary measures to put
+an end to it.
+</p>
+
+<p>
+As for the other griefs articulated
+by Mr. Minister of the United States, they
+are remarkable for their gravity itself, <!-- 'même' is hyphenated between 'mê-' and '-me' -->
+to our most serious axamination, and
+I will be obliged to Your Excellence to <!-- 'vouloir' is hyphenated between 'vou-' and '-loir' -->
+make me part of the result
+of the investigation that she will assess, without doubt,
+concerning to prescribe in this regard, in order
+to put me in measure of responding
+to the communication of Mr. Genreal
+Ten./.
+Accept,
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>
+

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<pb facs="20160613_153716.jpg"/>
+
+<ab>
+Côte d'Ivoire
+</ab>
+
+<ab>
+Cabinet
+of the
+Governor
+</ab>
+
+<ab>
+No. 121.
+</ab>
+
+<ab>
+Object
+</ab>
+
+<ab>
+Report on
+the General Act
+of Brussels
+</ab>
+
+<ab>
+French Republic
+Liberty, Equality, Fraternity
+</ab>
+
+<ab>
+Grand Bassam, January 29th 1894
+</ab>
+
+<ab>
+The Governor to Mister
+Under Secretary of State of the Colonies.
+</ab>
+
+<p>
+Mister Under Secretary of State,
+
+I have the honor to address to you hereinafter
+the information that you
+demanded from me on the application in the
+Colony of the Act of the Conference of
+Brussels, in execution of the act. 82 of
+the precited act
+</p>
+
+<p>
+The application of the dispositions of the Act
+of Brussels in that which concerns the treatment
+of slaves is equally better obeserved,
+than in the territories of the Côte d'Ivoire
+slavery
+</p>
+
+<pb facs="20160613_153724.jpg"/>
+
+<p>
+slavery does not exist. The administration
+only intervened over the course of the year<!-- 'l'année' is split across lines between ' l' ' and 'année' -->
+1893 against the isolated acts that
+only consisted in excess of protection that
+some indigenous pretended to exercise towards
+the domestics or isolated peoples that
+wanted to distance themselves against the convenience of their masters.
+</p>
+
+<p>
+On the interior, the Colony established posts
+of Administrators on the Lahou and the Comsè,
+and none of these people had the occasion
+to signal to me throughout the year of 1893
+the reports of the selling of slaves.
+</p>
+
+<p>
+The Government of the Côte d'Ivoire
+equally established throughout the year
+posts of administrators and of customs officers
+on all of the coastline between Fresco and the Republic
+of Liberia. In view of predicting the illegal
+engagement of negroes on the part of the Côte said of
+Virou, the local government assured the
+regulation; and the depart of the workers of this
+coast is put under control of the Administration
+No
+</p>
+
+<pb facs="20160613_153731.jpg"/>
+
+<p>
+No engagement illicits a little thus occurs.
+</p>
+
+<p>
+The establishment of these diverse posts was equally
+for effect of submitting <unclear/> the <unclear/> to Jeu
+to a control on this part of the coast like that which already existed of the <unclear/> <unclear/> in Fresco on all
+the arms apart from the <unclear/> in <unclear/> my <unclear/>,
+and the ammmunitions apart from the <unclear/> of treatment
+are banned in the Colonie.
+</p>
+
+<p>
+It only made <unclear>exceptions</unclear>in favor of
+some notable persons who were authorized
+to <unclear/> hunting weapons <unclear/>
+<unclear/> <unclear/>. The number of these authorizations
+did not <unclear/> 20.
+</p>
+
+<p>
+In that which concerns the alcohol in the <unclear/> <unclear/> H9o
+the only one who could <unclear/>, the rights rose
+to 0.60 per liter. They were sufficiently
+risen to prevent that this commerce did not
+take a more <unclear/> <unclear/>.
+</p>
+
+<p>
+I am with a profound Respect,
+Mister Under Secretary of State,
+Your very obedient server
+<unclear/> <!-- Signature -->
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>
+
