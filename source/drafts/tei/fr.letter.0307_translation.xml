@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
@@ -11,7 +11,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
 <!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
 </respStmt>
 </titleStmt>
@@ -105,7 +105,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
 <!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
 </revisionDesc>
 </teiHeader>
@@ -116,101 +116,47 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <div1 type="document">
 
-<pb facs="20160615_122549.jpg"/>
+<pb facs="1018_001.jpg"/>
 
-<ab>
-MINISTÈRE
-DES
-COLONIES
-</ab>
-
-<ab>
-1ère DIRECTION
-</ab>
-
-<ab>
-2ème BUREAU
-</ab>
-
-<ab>
-Missions protestantes
-au Soudan
-</ab>
-
-<ab>
-RÉPUBLIQUE FRANÇAISE
-LIBERTÉ - EGALITÉ - FRATERNITÉ
-</ab>
-
-<ab>
-Paris, le 2/122 <del>Avril</del> <add>Mai</add> 1896
-</ab>
-
-<p>
-Monsieur le Président
-du Conseil,
-
-A la date du 14 avril
-courant, vous m'avez transmis
-une lettre dans laquelle <unclear/>
-Consul Général à New York
-vous rend compte d'une démarche
-faite auprès de lui par le
-Président de l'"International
-Missionary Alliance," qui se
-proposerait d'établire une mission
-protestante dans le Soudan
-Français.
-</p>
-
-<p>
-Vous m'avez demandé, en
-<unclear>outre</unclear>
-</p>
-
-<ab>
-8 Monsieur le Président du Conseil
-Ministre des Affaires Etrangères.
-</ab>
-
-<note>
-Rome ministre
-</note>
-
-<pb facs="20160615_122557.jpg"/>
-
-<p>
-autre de vous mettre en mesure
-de répondre à cette communication.
-</p>
-
-<p>
-Je ne puis que me référer à ce
-sujet aux termes de ma lettre du
-6 décembre dernier, No 229, relative
-à une demande de même nature
-formulée par la société "World's
-Gospel Union." J'avais l'honneur
-à cette occasion de faire connaître
-à votre prédécesseur qu'il <del>ferra fait</del>
-<del>impossible,</del>
-<del>il</del> serait pour le moins 
-imprudent <add>surtout après l'expérience fâcheuse que nous avions faite au Congo,</add> de laisser des missions
-religieuses étrangères fonder des
-établissements au Soudan où la
-domination française est encore loin
-d'être affermie.
-</p>
-
-<p>
-Agréez, Monsieur le Président du Conseil,
-les assurances de ma haute considérations.
-Le Ministre des Colonies,
-André Lebon
-</p>
+<p>INDEPENDANT STATE
+OF THE 
+CONGO
+LOCAL GOVERNMENT
+DIRECTION
+No 2267
+Recall in the response the date and the number
+Response to the no
+of the
+1 Annex
+OBJEcT:
+Voyage of the General Consul of the
+United States of America.</p>
+    
+<p>Boma, November 23rd 1907.
+Mister Secretary of State,</p>
+    
+<p>Following my dispatch no 2132, from the 4th of this month,
+I have the honor to send to you, under
+this letter, in copy, the letter no 14/f, from the 8th of this
+month, that the Commissioner of the district of the Bangala
+addressed to me, in response to a telegram that
+I had sent to him and in which I prayed him to
+send to me with urgencey all information
+on the subject of the voyage of the General Consul
+of the United States of America.</p>
+    
+<p>This letter is to get on, for
+certain points,another correspondance
+of this messenger under the rubric "Situation in
+the Mongala, Voyage of the General Consul of the United
+States of America."</p>
+    
+<p>-The Vice General Governor, 
+<unclear></unclear></p>
 
 </div1>
 </body>
 </text>
 
 </TEI>
+
