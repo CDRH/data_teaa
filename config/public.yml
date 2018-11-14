@@ -1,12 +1,7 @@
 default:
-  shortname: teaa
+  collection: teaa
   collection_desc: To Enter Africa From America
-  es_type: teaa
-  solr_core: there_is_no_solr_core
 
-  variables_html:
-    image_large: 800
-    image_thumb: 150
 # development:
   # development overrides here
 # production:
