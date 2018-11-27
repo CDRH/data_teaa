@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.002.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>The Free State of the Congo</title>
+<author n="Morgan, E. Delmar (Edward Delmar), 1840-1909">E. Delmar Morgan</author>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.002.01</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<author n="Morgan, E. Delmar (Edward Delmar), 1840-1909">E. Delmar Morgan</author>
+<title level="a" type="main">The Free State of the Congo</title>
+<title level="j">Proceedings of the Royal Geographical Society and Monthly Record of Geography</title>
+<date when="1885-04">April 1884</date>
+<biblScope type="vol">7</biblScope>
+<biblScope type="issue">4</biblScope>
+<biblScope type="pages">223-230</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+<language ident="fr">French</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Journal</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<!--<term>Isangila (Congo)</term>--> <!-- this is not in the document -->
+<term>Kouilou River</term>
+<!--<term>Leopoldville (Congo)</term>--> <!-- this is not in the document -->
+<!--<term>Manyanga</term>--> <!-- not encoded, cannot locate -->
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="analysis" target="llg.con.002.02">Analysis</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-07-31" who="#kln">Initial transcription and encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<head type="main">The Free State of the Congo.</head>
+
+<head type="sub">By E. Delmar Morgan, F.R.G.S.</head>
+
+<gap reason="sampling" extent="about six pages">
+<desc>irrelevant to author's discussion</desc>
+</gap>
+
+<p>The frontiers of the three Powers will be best studied on the map illustrating the present paper; but I may mention that by the convention with Portugal this Power gets the south or left bank of the Congo, from its mouth to Nokki, a distance of 90 miles, where there is a Portuguese and a French factory, the Association retaining the right bank with 23 miles of coast extending from Banana to a point south of Kabinda Bay. Here Portuguese territory again begins, so as to inclose the district round Kabinda, Molembo, Landana, and Massabe where the Association has long been established. This Portuguese enclave, as it is called, extends inland for 30 or 40 miles, as far east as the Lucullu, a left tributary of the Chiloango. From Nokki the Portuguese frontier runs east to the Kwango, a left tributary of the Congo, and then turns south. By the convention with France the Association yields up to this Power the whole of the valley of the <placeName key="riv.kou" n="mapped"><geogName type="river">Kwilu</geogName></placeName>, called on its upper reaches the Niadi, where it was in possession of large tracts of country, and had established no less than eighteen stations. In exchange for this concession it retains the left bank of Stanley Pool which France had claimed through an act of annexation of De Brazza's lieutenant, Serjeant Malamine. Above Manyanga and up the Congo to a point beyond the river Likona, this river forms the boundary between African France and the Free State. Beyond this again the territory of the latter widens considerably, comprising a wide unexplored belt on either side of the river to Lakes Tanganyika and Bangweolo.</p>
+
+<gap reason="sampling" extent="about three pages"/>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI>

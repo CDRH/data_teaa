@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.032.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>New York Times, "Premier Combes's Hit"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.032.01</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<title level="a" type="main">Premier Combes's Hit</title>
+<title level="j">New York Times</title>
+<pubPlace>New York</pubPlace>
+<biblScope type="page">4</biblScope>
+<date when="1903-08-23">August 23, 1903</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+<term>French Congo</term> <!-- not encoded for mapping at this time -->
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="analysis" target="llg.con.032.02">Analysis</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-09-16" who="#kln">Initial transcription and encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>Premier Combes's Hit</p>
+
+<p>His Marseilles Speech Increased His Popularity.</p>
+
+<p>Congo Question Attracting Attention in France -- Suggested Solution of American Negro Problem -- Colony of Cave Men.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>Special Correspondence The New York Times</p>
+
+<p>Paris, Aug. 11. -- Monsieur Combes has made a hit in his speech at marseilles. In it he threw down, with a vigor which no member of the Government has hitherto displayed, the gauntlet to the Clerical party, and dissipated any idea which some tender-hearted people may have cherished that the Cabinet, and least of all  M. Combes, feels any remorse for the radical measures applied to the religious congregations. M. Combes was both witty and brilliant, and his speech met with applause which was certainly well deserved, though as all his hearers were of the same way of thinking as himself, it would have been accorded to him in any case.</p>
+
+<p>The chief point which M. Combes made was that the religious question, while it calls forth noisy demonstrations in various parts of the country, does not really interest the mass of the electorate sufficiently to make it one upon which the Government must either stand or fall. He also made it quite clear that the attacks made against him in the conservative and clerical press had not affected him unduly, and certainly have not inspired the Cabinet with the least intention of resigning.</p>
+
+<p>He contended, with some justice, that the accusation of breaking the law cannot lie against a Government which rigorously applies a law voted by the majority of the Chamber, but against those who seek every possible means of evading it, and appeal to the public for a sentimental acquiescence in their conduct. He assured his hearers, who applauded him with such loudness that the rest of his remarks were difficult  to hear, that he would carry on the work he had begun to the very end, undeterred by the threats of those whose real policy was to overthrow the Republic. He ridiculed the attacks which had been made against him personally and raised great laughter by quoting the appellation "Robespierrot," which M. de Cassaignae has addressed to him, on the ground that he was unworthy of being compared to even such a scoundrel as Robespierre, except with the addition of the diminutive affix.</p>
+
+<p>M. Combes's speech, by its direct outspokenness and willfulness, has caused some little consternation among Conservatives. They have practically nothing to set against it except a few spectral threats of hostility on the part of the new Pope and a general waving of religious and monastic banners. The weakness of their offensive organization shows itself more clearly every day to such an extent that I am tempted to predict, in spite of the obvious danger of prophesying about French politics, that the Combes Government will remain in power for some time to come yet. There are really very few parliamentary rocks ahead at present. M. Rouvier has threatened, it is said, to resign, but he has often done this before, and nothing has come of it. So long as the finances of France are in his hands, the country will feel confident that they are being as well managed as may be.</p>
+
+<p>In the sphere of foreign politics the horizon in sun usually clear. There seems little probability that Pius X will turn out to be a Tartar, or what might be even more amusing, a kind of Catholic Don Quixote, who would charge the French Republican windmills. Even M. Pelletan, the Minister of Marine, has done nothing recently to attract the adverse comment of naval enthusiasts. Only an Anglo-French incident of a disputative kind would be likely to upset the Ministerial apple cart. If this should arise, it probably may be in connection with the Belgian Congo. English disapproval is being gradually aroused to a very high pitch against the attitude of the Belgians which respect to the <placeName key="con" n="mapped"><country type="colony">Belgian Free State</country></placeName>, and as the French are imitating them, it is just possible that some friction may arise on the subject before long. In this respect, it is well to bear in mind that the majority of French commercial enterprises in the French Congo are controlled by Belgians. But while the French may argue with some sense of logic that in their own Congo territory they have proprietary rights which place the question of free commerce with the natives on a special basis which they alone have the right to regulate, this does not apply to the Belgian Congo which is an Independent Free State where freedom of commerce was guaranteed by the Act of Berlin.</p>
+
+<p>The Belgians are bringing forward a lot of quibbling arguments to prove that the Congo Free State was a sovereign State before the Act of Berlin, and was recognized as such by Prince Bismarck, and that consequently it can claim proprietary rights over its territory, with the monopoly of trade concessions. But it is quite obvious that neither England nor Germany agreed to guarantee the independence of the Congo State for the sake of seeing their commerce barred out of it by the Belgians. The guarantee was given for the equal benefit of all the powers concerned and to prevent them squabbling over their respective rights to the danger of European peace. The King of the Belgians was appointed the sovereign of the State on the same pan that a petty monarch is selected to act as arbitrator between great powers. In this case the King of the Belgians has managed to play the role of an arbitrator who, after having heard both sides, solemnly awards the bone of contention to himself.</p>
+
+<p>M. Jean Hess, the well-known African explorer, and the former secretary of the Senator Schoelcher, the great champion of the negro in France, and the friend of Thiers  and Jules Ferry, has an interesting plan for solving the problem of the Congo Free State. He suggests that it should be made into a kind of black republic for the reception of the surplus negro population of the United States. He points out that the united States were not among the signatories to the Act of Berlin, and are consequently not bound by any of its clauses. Nothing would be easier or more regular than for a number of the black citizens of America who are of Congolese origin to return to the land of their fathers and either to resume their former nationality or to claim Congolese citizenship. As a matter of fact, the only citizen so far of the Congo Free State is its sovereign, the King of the Belgians. The natives are not allowed civic rights, and the only white inhabitants are European and chiefly Belgian officials, who retain their European nationality. M. Hess thinks that the appearance of an American warship at the mouth of the Congo would promptly settle the question as to whether the King of the Belgians had the right to force Congolese citizens from America to labor by means of flog gins and mutilations. Certainly some means must be adopted, he thinks, before long, for alleviating the color rivalries in the United States, and if, as many Americans believe, the only solution is for the less educated blacks to return to Africa, there is certainly an excellent means ready to hand for finding them a facile livelihood in a rich and productive country, where modern civilization is not entirely unknown, and which has already been opened up to European commerce. But in whatever light M. Jean Hess's idea may strike the American mind, it is certain to receive no approval whatever from King Leopold.</p>
+
+<gap extent="one paragraph" reason="sampling">
+<desc>irrelevant to author's argument</desc>
+</gap>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI>

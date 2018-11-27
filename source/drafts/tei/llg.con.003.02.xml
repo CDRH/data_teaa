@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.003.02">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>An Account of the Congo Independent State. Analysis</title>
+<author n="Jones, Jeannette Eileen" xml:id="jj">Jeannette Eileen Jones</author>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.003.02</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Analysis</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="document" target="llg.con.003.01">Document</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-07-31" who="#kln">Initial encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+ 
+<body>
+<div1 type="analysis">
+
+<div2 type="bibliography">
+<bibl>
+<author n="Phillips, Henry, 1838-1895">Henry Phillips</author>
+<title level="a" type="main">An Account of the Congo Independent State</title>
+<title level="j">Proceedings of the American Philosophical Society</title>
+<date when="1889-12">December 1889</date>
+<biblScope type="vol">26</biblScope>
+<biblScope type="issue">130</biblScope>
+<biblScope type="pages">459-476</biblScope>
+</bibl>
+</div2>
+
+<div2 type="summary">
+
+<head type="main">Summary</head>
+
+<p></p>
+
+</div2>
+
+<div2 type="analysis">
+
+<head type="main">Analysis</head>
+
+<p></p>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI>

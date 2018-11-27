@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.047.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>New York Times, "Deprives Belgium of Congo"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.047.01</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<title level="a" type="main">Deprives Belgium of Congo</title>
+<title level="j">New York Times</title>
+<pubPlace>New York</pubPlace>
+<biblScope type="page">4</biblScope>
+<date when="1907-09-09">August 9, 1907</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="analysis" target="llg.con.047.02">Analysis</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-09-30" who="#kln">Initial encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>Deprives Belgium of Congo.</p>
+
+<p>King Leopold Turns the Best Portion of it Over to a Company.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>Brussels, Sept. 8. -- King Leopold made another momentous move in the Congo question to-day by turning over the "Domain of the Crown" in the <placeName key="con" n="mapped"><country type="colony">Congo Independent State</country></placeName> to a joint stock company in which he is said to be interested.</p> 
+
+<p>This is the most important section of the Congo, ten times larger than Belgium, and was to revert to Belgium with annexation. Its transfer deprives Belgium of the most profitable part of the Independent State.</p>
+
+<p>The decree announcing the transfer, which appeared in the official bulletin to-day, caused a sensation, it being generally accepted as endangering the success of the commission appointed recently by King Leopold to negotiate a treaty annexing the Congo Independent State to Belgium.</p>
+
+<p>For more than a year there have been reports of a number of wealthy Americans interesting themselves in a company to take over by concession a large territory in the Congo Free State. American capitalists have long been awake to the possibilities in that territory, and Thomas F. Ryan and others have large interests there. A year ago it was reported that King Leopold had given Mr. Ryan a concession of 2,500,000 acres in the heart of the rubber country. John D. Rockefeller, Jr., is another wealthy American who is said to have large investments in the Congo Free State.</p>
+
+<p>In the course of his visit to Paris last July J. Pierpont Morgan was reported to have had a long conference with King Leopold, and it was presumed at the time that the subject under discussion was the American concession in the African territory.</p>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI>

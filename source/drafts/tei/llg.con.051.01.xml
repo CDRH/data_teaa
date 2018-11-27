@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.051.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Atlantic Monthly, "Stanley's Africa Then and Now"</title>
+<author n="Hubbard, James M.">James M. Hubbard</author>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.051.01</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<author n="Hubbard, James M.">James M. Hubbard</author>
+<title level="a" type="main">Stanley's Africa Then and Now</title>
+<title level="j">Atlantic Monthly</title>
+<date when="1910-03">March 1910</date>
+<biblScope type="vol">105</biblScope>
+<biblScope type="issue">3</biblScope>
+<biblScope type="pages">333-340</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Magazine</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<term>Congo River</term>
+<!--<term>Lake Tanganyika</term>--> <!-- not in document! -->
+<!--<term>Nile River</term>--> <!-- not in document! -->
+<term>Sudan</term>
+<term>Uganda</term>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="analysis" target="llg.con.051.02">Analysis</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-10-02" who="#kln">Initial transcription and encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<head type="main">Stanley's Africa Then and Now</head>
+
+<head type="sub">By James M. Hubbard</head>
+
+<p>The tenth of November, 1871, is the
+most notable day in the history of Equatorial
+Africa. For on that day took
+place the meeting between two men,
+Livingstone and Stanley, on which depended
+the future of that vast region:
+whether it should remain, as it ever
+had been, "Darkest Africa," or whether
+the light of civilization should dawn
+upon its night. To have seen the two,
+one would never have dreamed that the
+fate of millions hung upon their meeting.
+Livingstone was a prematurely
+old man, so nearly worn out by the
+hardships of a most strenuous life that
+in a few months his faithful followers
+would find" the great master," as they
+called him, kneeling at the side of his
+bed, dead. Stanley was a young man
+of thirty, whose sole aim in the meeting
+was to get material for the newspapers
+of which he was the correspondent.
+But his previous career was such as to
+render him capable of any task which
+required simply resourcefulness, energy,
+and faithfulness to duty.</p>
+
+<gap reason="sampling" extent="about ten paragraphs"/>
+
+<p>After leaving <placeName key="uga" n="mapped"><country type="nation">Uganda</country></placeName>, Stanley went
+to the headwaters of the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName> and
+followed the river in its downward
+course, until, three years after leaving
+the Indian Ocean, he gazed upon the
+Atlantic. His work of exploration was
+done; now for the harder task, civilization.
+"That was henceforth the main
+purpose and passion of his life," writes
+Lady Stanley. "For him, the quest
+of wider knowledge meant a stage
+toward the betterment of mankind.
+He had laid open a tract comparable in
+extent and resources to the basin of the
+Amazon, or the Mississippi. What his
+vision saw, what his supreme effort was
+given to, was the transformation of its
+millions of people from barbarism, oppressed
+by all the ills of ignorance, superstition,
+and cruelty, into happy and
+virtuous men and women. His aim was
+as pure and high as Livingstone's. But
+as a means, he looked not alone to the
+efforts of isolated missionaries, but to
+the influx of great tides of beneficent
+activities."</p>
+
+<p>At first he had hoped that the
+English people would seize the grand
+opportunity which had come within
+their grasp. He spoke in all the great
+commercial centres of the kingdom,
+setting forth the immense advantages
+to trade in the opening of this magnificent
+country with its well-watered
+soil, now neglected, but richer than any
+in the Mississippi Valley. But the government
+and the people turned a deaf
+ear to his appeals, and he was obliged
+to accept the offers of King Leopold of
+Belgium, who had become deeply interested
+in African possibilities. Stanley's
+work as founder of the Congo State,
+the greatest single enterprise of his life,
+occupied five and a half years, January,
+1879, to June, 1884. Twelve months
+alone were spent in building a road over
+mountains and along precipices around
+the succession of cataracts and rapids
+which separate the navigable part of
+the river from the sea. Hammer and
+drill in his hand, he showed his men
+how to use their tools, and they called
+him Bula Matari, "breaker of rocks";
+a name which has been graven on his
+tomb as most fitly characterizing "his
+central quality - concentrated energy
+victoriously battling with the hardest
+that earth could offer, all to make earth
+goodly and accessible to man." During
+a year and a half he negotiated treaties
+with over four hundred chiefs, established
+stations for a thousand miles
+along the Upper Congo, and did his
+best to abolish the slave-trade and put
+an end to the intertribal wars, two evils
+which cost Africa annually a million
+lives. In this work he was promised
+the aid of "Gordon Pasha," who had
+arranged to take the governorship of
+the Lower Congo, under Stanley, who
+was to govern the Upper Congo; and,
+together, they were to destroy the slave trade
+at its roots. General Gordon
+wrote a letter to him in which he said
+that he should be happy to serve under
+him and work according to his ideas.
+But the call of the <placeName key="uga" n="mapped"><country type="nation">Sudan</country></placeName> came just at
+this time, and the new state was deprived
+of the services of one who might
+possibly have changed for the better
+the whole course of its history.</p>
+
+<p>What is the present condition of that
+part of Africa which Stanley, more than
+anyone man, has opened to the outside
+world? The most graphic idea of
+the marvelous change is to be obtained
+by comparing a map of this region published
+thirty years ago with one of the
+present day. In the old one, except on
+the coasts, there is little except a great
+blank. In the new one the natural features,
+mountains, rivers, lakes, are delineated
+with greater minuteness and
+accuracy than on maps of some parts
+of South America, and the blank space
+is dotted over with towns and stations.
+The political relations of the country
+are shown by the coloration, for the
+whole of the two million square miles
+has been appropriated by the great
+powers of Europe, - England, Germany,
+France, and Belgium.</p>
+
+<gap reason="sampling" extent="about four pages"/>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI>
