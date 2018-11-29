@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0004">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from Jean Bayol to the Under Secretary of State, April 4, 1890</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0004</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,14 +42,16 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from Jean Bayol, to the Under Secretary of State</title>
+<date when="1889-08-14">August 14, 1889</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR ANOM</repository>
+<collection>Guinee V 1 VI 1-6</collection>
+<idno>1506 COL 2</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
@@ -72,15 +73,16 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Bayol, Jean</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Port Novo</term>
+<term>Africa</term>
+<term>Senegal</term>
+<term>South Rivers</term>
 
 </keywords>
     
@@ -102,6 +104,21 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Etienne</persName>
+<placeName>Paris, France</placeName>
+<date when="1889-08-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<placeName/>
+</correspAction>
+</correspDesc>
+
+
 </profileDesc>
 
 <revisionDesc>
@@ -114,7 +131,8 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
+
 <pb facs="20160613_105556.jpg"/>
 
 <ab>
@@ -155,7 +173,7 @@ V <!-- There is a large blue 'V' scrawled in blue crayon on the page and underli
 </note>
 
 <ab>
-Porto, novo le 4 avril 1890
+Porto. novo le 4 avril 1890
 </ab>
 
 <ab>
@@ -196,6 +214,89 @@ Ministère du Commerce, de Industrie et des Colonies.
 </note>
 
 </div1>
+
+<div1 xml:lang="en" type="document">
+                <pb facs="20160613_105556.jpg"/>
+                
+                <ab>
+                    SENEGAL
+                </ab>
+                
+                <ab>
+                    SOUTH RIVERS
+                    AND
+                    DEPENDENTS
+                </ab>
+                
+                <ab>
+                    CABINET
+                    OF THE
+                    Lieutenant - Governor
+                </ab>
+                
+                <ab>
+                    No 31
+                </ab>
+                
+                <ab>
+                    Object
+                    
+                    Returned from the relative
+                    loggia of affairs of
+                    Liberia
+                </ab>
+                
+                <ab>
+                    FRENCH REPUBLIC
+                    LIBERTY, EUQUALITY, BROTHERHOOD
+                </ab>
+                
+                <note>
+                    V <!-- There is a large blue 'V' scrawled in blue crayon on the page and underlined in both red and blue -->
+                </note>
+                
+                <ab>
+                    Port novo April 4th 1890
+                </ab>
+                
+                <ab>
+                    Lieutenant - Governor of South Rivers, to Mister 
+                    Under Secretary of State of the colonies,
+                </ab>
+                
+                <p>
+                    Mister Under Secretary of State,
+                    
+                    I have the honor of sending you
+                    under recommended letter the relative file of the
+                    affairs of Liberia that I had had the fault
+                    of taking with my particular documents 
+                    in the haste of my departure for the
+                    coast of Africa.
+                </p>
+                
+                <p>
+                    This file is absolutely intact. I
+                    verified with much care that it did not
+                    lack any document.
+                    
+                    I have a profound respect,
+                    Mister Under Secretary of State,
+                    Your obedient servant,
+                    Jean Bayol.
+                </p>
+                
+                <p>
+                    <unclear/> Mister
+                    Under Secretary of State of the
+                    Ministry of Commerce, the Industry and the Colonies. 
+                </p>
+                
+                <note>
+                    <unclear>2/8/Col</unclear> <!-- Line is written in different ink with '2/8' on top divided by what looks to be 'Col' -->
+                </note>
+                
+            </div1>
 </body>
 </text>
 

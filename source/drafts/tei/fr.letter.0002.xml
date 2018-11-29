@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from ___ to Lieutenant Governor, December 7, 1889</title>
 <principal n="Jones, Jeannette Eileen, 1970-" xml:id="jej">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="Dawson, Kendall C." xml:id="kcd"></name>
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0002</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,14 +42,16 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from ___ to Mr. Lieutenant Governor</title>
+<date when="1889-12-07">December 7, 1889</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR ANOM</repository>
+<collection>Guinee V 1 VI 1-6</collection>
+<idno>1506 COL 2</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
@@ -71,15 +73,15 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term></term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Paris, France</term>
+<term>Africa</term>
+<term>Soudan</term>
 
 </keywords>
     
@@ -101,11 +103,25 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<placeName>Paris, France</placeName>
+<date when="1889-12-07"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Mr. Lieutenant Governor</persName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn"> Transcribed and ecoded.</change>
+<change when="2018-11-29" who="sab">Encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -113,7 +129,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160613_105513.jpg"/>
 
@@ -158,6 +174,52 @@ Liberia
 </note>
 
 </div1>
+
+    <div1 xml:lang="en" type="document">
+                
+                <pb facs="20160613_105513.jpg"/>
+                
+                <ab>
+                    Paris, December 7th 89
+                </ab>
+                
+                <ab>
+                    Undersecretary of State
+                    and Mr. Lieutenant Governor
+                    of South Rivers
+                    in compliance with Porto - Novo
+                </ab>
+                
+                <p>
+                    Mister Lieutenant Governor,
+                    I have the honor to relay to you
+                    enclosed the letters of <unclear>ver</unclear> the President
+                    of the Republic <unclear>demand</unclear> you
+                    <unclear>plecias pouvoirs</unclear> close to the governor
+                    of Liberia, in view of the delimitations
+                    on the border between the territory of
+                    this Republic and a territory
+                    of the Ivory Coast and Sudan,
+                </p>
+                
+                <p>
+                    I urge you to 
+                    charge me for the reception of this document.
+                    Later on you will follow the relative instructions his/her
+                    <!-- at this point the writing goes off to the side and the down past the signature -->
+                    negotiations that <supplied>you</supplied> <!-- picture is cutoff here, would guess 'vous' -->
+                    have to <unclear>pursue</unclear> <!-- picture is cutoff here -->
+                    with the Republic <supplied>of</supplied><!-- picture is cutoff here, likely would say 'de' -->
+                    Liberia
+                    <!-- The following salutation is technically positioned on the same line as line 146 ('négouation qui...') of this file -->
+                    <unclear>Rouag</unclear> — <unclear>C. l. p. ol.</unclear> <!-- Signature -->
+                </p> 
+                
+                <note>
+                    <unclear>A</unclear> <!-- There is a large red marking in the middle of the page that resembles a capital 'A' -->
+                </note>
+                
+            </div1>
 </body>
 </text>
 
