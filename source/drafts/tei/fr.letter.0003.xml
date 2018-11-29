@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0003">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<title>Letter from Jean Bayol to <!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
 <!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
-<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<principal n="Jones, Jeannette Eileen, 1970-" xml:id="jej">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<name n="Niendorf, Nichola" xml:id="nn">"</name>
 </respStmt>
 </titleStmt>
 
@@ -155,7 +154,7 @@ Kotonou le 4 Janvier 1890,
 </ab>
 
 <ab>
-Le lieutenant Gouverneur des Rivières
+Le Lieutenant Gouverneur des Rivières
 du Sud, à Monsieur le Sous Secrétaire
 d'Etat au Ministère du Commerce, de 
 l'Industrie et des Colonies.
@@ -167,8 +166,8 @@ Monsieur le Sous Secrétaire d'Etat,
 J'ai l'honneur de vous accuser réception des lettres
 de M. le Président de la République me donnant
 pleins pouvoirs auprès du Gouvernement de Liberia
-en rue de la délimitation des frontières entre le
-territorie de cette République et nos Etablissements <!-- 'Etablissements was originally hyphenated and split after the second e -->
+en vue de la délimitation des frontières entre le
+territoire de cette République et nos Etablissements <!-- 'Etablissements was originally hyphenated and split after the second e -->
 de la Côte d'Ivoire et du Soudan.
 </p>
 
@@ -176,7 +175,7 @@ de la Côte d'Ivoire et du Soudan.
 Je tiens, Monsieur le Sous Secrétaire d'Etat, à
 vous exprimer toute ma gratitude et à vous prier
 d'être mon interprète auprès du Gouvernement
-pour la nouvelle preuve de confiance qu'il a bien
+pour la nouvelle preure de confiance qu'il a bien
 voulu m'accorder.
 </p>
 
