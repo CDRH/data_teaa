@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.025.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Evening Bulletin, "Called at the White House"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.025.01</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<title level="a" type="main">Called at the White House</title>
+<title level="j">Evening Bulletin</title>
+<pubPlace>Maysville, Kentucky</pubPlace>
+<biblScope type="page">1</biblScope>
+<date when="1904-10-18">October 18, 1904</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term>Congo Free State</term>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="analysis" target="llg.con.025.02">Analysis</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-09-05" who="#kln">Initial transcription and encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>Called at the White House.</p>
+
+<p>A Representative of the King of Belgium Meets the President.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>Washington, Oct. 18. -- At the request of the king of Belgium, Col. Henry L. Kowalsky, of the San Francisco bar, and a personal friend of King Leopold, called at the white house Monday by appointment and presented the reply of the federation for the benefit of Belgian interests abroad to attacks made on the government of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>. Col. Kowalsky presented to the president an autograph picture of King Leopold framed in silver. In the course of an extended audience with the president Col. Kowalsky said:</p>
+
+<p>"Interested Britishers are endeavoring, under the guise of benefactors of the Congo natives, to open the question of sovereignty over these regions by calling a conference of the powers at which, it is hoped by the Britishers, England may establish the contention that Belgium is impotent to maintain an effective government in the Congo."</p>
+
+</div2>
+
+</div1>
+
+</body>
+
+
+</text>
+
+</TEI>

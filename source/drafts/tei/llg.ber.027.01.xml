@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.027.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Evening Bulletin, "Portugal's Congo Claims"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.ber.027.01</idno>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">Portugal's Congo Claims.</title>
+<title level="j">Evening Bulletin</title>
+<pubPlace>Maysville, Kentucky</pubPlace>
+<date when="1885-02-04">February 4, 1885</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Berlin Conference</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="places">
+<term>Congo River</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<classCode scheme="original">
+<ref type="analysis" target="llg.ber.027.02">Analysis</ref>
+</classCode>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-07-14" who="#kln">encoded transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>Portugal's Congo Claims.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>Berlin, Feb. 3 -- The Portugese government has formally taken possession of both banks of the lower <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName>, and the action confirms the opinion that Portugal will not deviate in the slightest degree from her position concerning her rights in Africa, and announced at the beginning of the Congo conference. </p>
+
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.038.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>New York Times, "Debate on Congo Question"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.038.01</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<title level="a" type="main">Leopold to Roosevelt</title>
+<title level="j">New York Times</title>
+<pubPlace>New York</pubPlace>
+<biblScope type="page">6</biblScope>
+<date when="1904-10-21">October 21, 1904</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="analysis" target="llg.con.038.02">Analysis</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-09-30" who="#kln">Initial encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>Debate on Congo Question.</p>
+
+<p>Challenge from Boston for King Leopold's Personal Agent.</p>
+
+<p>Special to The New York Times.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>Washington, Oct. 20. -- The Congo question, which is being thrust on President Roosevelt's attention, may become the subject of public debate. Thomas S. Barbour of Boston, Chairman of the Philanthropic Conference striving for the relief of natives of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName> from alleged atrocities at the hands of Belgian officers, has challenged Col. Henry Kowalsky, King Leopold's personal representative to the President, to a debate in Washington on the subject.</p>
+
+<p>At the Belgian Legation it was said that it was likely that Col. Kowalsky would consent to the debate. Col. Kowalsky is thoroughly cosmopolitan, has a great following on the Pacific Coast, and is a personal friend of King Leopold.</p>
+
+<p>The President has before him the petitions of the Congo Reform Association, the Aboriginals' Protective Association, and the British and Foreign Anti-Slave Society, as well as King Leopold's letter of defense. The President has thus far taken no action in the matter.</p>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI>

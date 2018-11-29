@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.039.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>New York Times, "West African Projects"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.ber.039.01</idno>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">West African Projects</title>
+<title level="j">New York Times</title>
+<pubPlace>New York</pubPlace>
+<biblScope type="page">2</biblScope>
+<date when="1885-01-17">January 17, 1885</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Berlin Conference</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="places">
+<term>Adulis Bay</term>
+<term>Stanley Pool</term>
+<term>Vivi (Congo)</term>
+<term>Zeila (Ottoman Empire)</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<classCode scheme="original">
+<ref type="analysis" target="llg.ber.039.02">Analysis</ref>
+</classCode>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015-06-30" who="#kln">added places</change>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-07-21" who="#kln">encoded transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>West African Projects</p>
+
+<p>The Discussion of the Berlin Conference.</p>
+
+<p>Why the United States is Participating in the Negotiations -- The Railway Scheme Likely to Succeed.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>Berlin, Jan. 16. -- The committee of the West African conference continued today the discussion of the conditions necessary to make future annexations on the coasts of Africa effective. The English and Italian delegates presented amendments. England demanded that the conditions be extended to include annexation of inland territory. The English delegates closely examined the points of international law involved in the German project, and the result was that Sir Edward Malet objected to the wording of several portions of the original project. The powers have shown
+a desire to treat the subject amicably. England's objections arise from fears that if she hastily agrees to the new proposals it may lead to complications in view of her extensive colonial interests. The subject was referred to a special committee, under the Presidency of M. Lambermont, which will meet on Saturday to prepare a formula, which it is hoped will be presented to the conference on Monday. The proposal to construct a railway from <placeName key="con.viv" n="mapped"><settlement type="city">Vivi</settlement></placeName> to <placeName key="lak.sta" n="mapped"><geogName type="lake">Stanley Pool</geogName></placeName> was again actively discussed. The prospect is that it will eventually be adopted. The opinion gains ground that unless means of transportation to the interior of Africa are
+provided the labors of the conference will be very limited in practical results. Henry M. Stanley conclusively proved to the committee that the railway, in addition to the enormous commercial advantages it would afford, would be the means of insuring the safe arrival of new colonists in the interior, whereas 50 per cent. of persons now going into the central part of the country are rendered invalids during the journey.</p>
+
+<p>The decided opinion is expressed in diplomatic circles that the recent resolution submitted to the American Congress in regard to the American representation in the Congo Conference is founded on a misconception of the principles forming the basis of the conference. The American delegates have not engaged in any polemic discussion whatever, but have merely watched American commercial interests. Three prominent reasons are given for the participation of America in the deliberations of the conference. First, because America was the first power to recognize the African International Association; secondly, because the population of America comprises 6,000,000 negroes, whose parent country is Africa, and thirdly, because Americans mainly have explored the country.</p>
+
+<p>The title of High Protector of the African Association is now given to the King of he Belgians. There is every prospect that the conference will continue to the end of January.</p>
+
+<p>Advices from Paris state that the negotiations of the African International Association remain in status quo, and that France and the association have scarcely any points in dispute.</p>
+
+<p>The delegates from Portugal daily raise fresh objections to the proposals, and it is probable that the negotiations will be continued another week.</p>
+
+<p>Prince Bismarck will give a grand dinner Monday, to which all the delegates to the conference are invited.</p>
+
+<p>London, Jan. 16. -- Earl Granville, Secretary of State for Foreign Affairs, has written a letter to the Oldham Chamber of
+Commerce, in which he says: "England understands the Congo declaration to mean that imports shall be admitted into the Congo country free of taxation for an indefinite period, unless after 20 years the powers shall give their unanimous sanction to a revision of this arrangement."</p> 
+
+<p>Paris, Jan. 16. -- The Temps to-day says: "France has convinced Italy that the French have a right to occupy the <placeName key="bay.adu" n="mapped"><geogName type="bay">Adulis Bay</geogName></placeName> country in Eastern Africa, and Italy has renounced her occupation of <placeName key="ott.zei" n="mapped"><settlement type="city">Zeyla</settlement></placeName>."</p>
+
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.037.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>New York Times, "Leopold to Roosevelt"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.037.01</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<title level="a" type="main">Leopold to Roosevelt</title>
+<title level="j">New York Times</title>
+<pubPlace>New York</pubPlace>
+<biblScope type="page">9</biblScope>
+<date when="1904-10-18">October 18, 1904</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="analysis" target="llg.con.037.02">Analysis</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-09-30" who="#kln">Initial encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>Leopold to Roosevelt. </p>
+
+<p>Through a Special Agent He Defends the Congo Government.</p>
+
+<p>Special to The New York Times.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>Washington, Oct. 17. -- President Roosevelt has had the moot question of Congo civilization under Belgian auspices brought to his attention in a unique manner. Col. Henry I. Kowalsky, a lawyer of San Francisco, called on the President today at the request of King Leopold of Belgium to present the reply of the Federation of the Defense of Belgian Interests Abroad to the attacks made by certain British interests upon the Government of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>.</p>
+
+<p>Col. Kowalsky told the President that the purpose of the British "humanitarians" was to entangle the American Government in African affairs, not  for the amelioration of the condition of the natives, but to open the question of sovereignty over those regions by calling a conference of the powers, at which it is hoped England may establish the contention that Belgium is unable to maintain an effective government on the Congo.</p>
+
+<p>Col. Kowalsky recalled the fact that a proposal for such a conference made officially by the British Government failed entirely through the non-acceptance of the powers.</p>
+
+<p>"I called to the President's attention the fact," said Col. Kowalsky subsequently, "that all this uproar over the fearful atrocities in the Congo Free State is fathered by missionaries whose applications for big concessions were turned down by Belgian authorities. Not a single charge of cruelty and atrocity has been made except by those who have been seeking material advantage in that region and have not been permitted to exploit it at the expense of others.</p>
+
+<p>"This fact, and the fact that Great Britain has failed in her effort to open up the Congo question, accounts for the attempt now being made to work upon the sympathies of the American people by trumped-up stories of cruelty to the Congo natives."</p>
+
+<p>King Leopold in his letter to Col. Kowalsky, after a statement of the purpose of the Federation for the Defense of Belgian Interests, says:</p>
+
+<p>"You will, in delivering this communication to President Roosevelt, reiterate to him, on my behalf, the feeling of high esteem I have for him and the unshaken confidence I place in his spirit of justice and impartiality.</p>
+
+<p>"I have to express the desire that Mr. Roosevelt will kindly take cognizance of this address in your presence, so that you may be afforded an opportunity to give him any further information he might wish to obtain from you.</p>
+
+<p>"The foundation and fairness of the case which you have been good enough to undertake to defend will supply you with such numerous and concussive arguments as to confound the enemies of the Congo Free State."</p>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI>

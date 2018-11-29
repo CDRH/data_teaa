@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.003.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>The Conference at Berlin on the West-African Question</title>
+<author n="De Leon, Daniel, 1852-1914">Daniel De Leon</author>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.ber.003.01</idno>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">The Conference at Berlin on the West-African Question</title>
+<author n="De Leon, Daniel, 1852-1914">Daniel De Leon</author>
+<title level="j">Political Science Quarterly</title>
+<date when="1886-03">March 1886</date>
+<biblScope type="pages">103-139</biblScope>
+<note type="source">http://www.jstor.org/stable/2139304</note>
+<biblScope type="part">portions of the pamphlet relating to the Berlin Conference</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Berlin Conference</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Journal</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term>de Bernard de Marigny, Charles</term>
+</keywords>
+
+<keywords scheme="original" n="places">
+<term>Ambriz (Angola)</term>
+<term>Cabinda (Portuguese Congo)</term>
+<term>Cape Padron</term>
+<term>Fernando Po (Spanish Guinea)</term>
+<term>Nokki (Portuguese Congo)</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<classCode scheme="original">
+<ref type="analysis" target="llg.ber.003.02">Analysis</ref>
+</classCode>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-08-05" who="#kln">encoded transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<head type="main">The Conference at Berlin on the West-African Question.</head>
+
+<head type="sub">Daniel De Leon</head>
+
+<gap reason="sampling" extent="about three pages">
+<desc>irrelevant to author's discussion</desc>
+</gap>
+
+<div2 xml:id="llg.ber.003.01.e001">
+
+<p>The discussion on the subject of freedom of commerce on the coast of Angola, thus raised by M. de Marigny in Africa, and transferred to Europe by the timidity of the Portuguese Commander at <placeName n="mapped"><settlement type="town" key="ang.cab">Cabinda</settlement></placeName>, gave rise to a protracted discussion between the cabinets of Lisbon and Versailles. The Portuguese court claimed right of sovereignty at Cabinda, and all accessory rights; and in aggrieved tones it demanded reparation for the insult done to the honor of its flag. The French court, on the other hand, without entering on the question of Portuguese rights of sovereignty, refused all reparation; and it stood firm on the right of its subjects to the freedom of commerce with the whole of West Africa, claiming that that right had been acquired by them by long and uninterrupted exercise.</p>
+
+</div2>                                                                                                                                                                       
+<gap reason="sampling" extent="about one page">
+<desc>irrelevant to author's discussion</desc>
+</gap>
+
+<div2 xml:id="llg.ber.003.01.e002">
+
+<p>The recognition by France of Portuguese sovereignty over
+the coast of Cabinda, and the indirect recognition of that sovereignty
+over the rest of Angola, did not, however, quite fill the
+measure of the wishes of the cabinet of Lisbon; and it was found
+necessary to subjoin a protocol to the above convention and
+declarations. In this protocol the plenipotentiary of Portugal
+set forth that, it being the desire and the object of his master
+to define the limits of French commerce on the whole coast of
+Angola, he therefore proposed, with the view of avoiding fresh
+disputes in the future, that it be agreed that the said commerce
+should never extend to the southward beyond the Zarre and
+Cape Padron. The plenipotentiary of France observed that
+the commerce of the French in those regions should not be
+limited more than was that of the English and the Hollanders,
+who extended theirs as far south as the rivers <placeName n="mapped"><settlement type="town" key="ang.amb">Ambriz</settlement></placeName> and
+Mossula.</p>
+
+</div2>
+
+<gap reason="sampling" extent="one sentence">
+<desc>irrelevant to author's discussion</desc>
+</gap>
+
+<div2 xml:id="llg.ber.003.01.e003">
+
+<p>Portugal could not consent to recognize in any other nation a right to traffic on said coast, unless it be on that portion which lay north of Zaire; to the south of that river and of <placeName n="mapped"><geogName type="cape" key="cap.pad">Cape Padron</geogName></placeName> only Portuguese subjects were allowed to trade; and Portugal looked upon all other commerce or navigation, which the subjects of any nation whatever might have tried to establish in those regions, as furtive, clandestine and illicit, such traffic and navigation never having been authorized by Portugal, and that country never having lent its assent to such traffic.</p>
+
+</div2>
+
+<gap reason="sampling" extent="about eight pages">
+<desc>irrelevant to author's discussion</desc>
+</gap>
+
+<div2 xml:id="llg.ber.003.01.e004">
+
+<p>In order to settle the disputes about sovereignty at the mouth of the Congo, to provide for the complete extinction of the slave trade and to promote civilization and commerce in Africa&#8212;so runs the preamble of this treaty&#8212;it was stipulated that Great Britain recognized the sovereignty of Portugal over the western coast of Africa, between the fifth degree, twelfth minute, and the eighth degree south latitude, and inland on the Congo as far as <placeName n="mapped"><settlement type="town" key="ang.nok">Nokki</settlement></placeName>.</p>
+
+</div2>
+
+<gap reason="sampling" extent="about six pages">
+<desc>irrelevant to author's discussion</desc>
+</gap>
+
+<div2 xml:id="llg.ber.003.01.e005">
+
+<p>Nothing daunted by the resistance he was encountering at home, Bismarck had continued to pursue his policy abroad. His quick eye perceived that the state of the Congo controversy, after the treaty of Feb. 26, 1884, and the claims that had been set up by the International Association, offered him a rare opportunity to turn to profit the location of the island of <placeName n="mapped"><geogName type="island" key="gui.fer">Fernando Po</geogName></placeName>, and to secure free access to the interior of Africa for German industry.</p>
+
+</div2>
+
+<gap reason="sampling" extent="about fifteen pages">
+<desc>irrelevant to author's discussion</desc>
+</gap>
+
+</div1>
+</body>
+</text>
+
+</TEI>

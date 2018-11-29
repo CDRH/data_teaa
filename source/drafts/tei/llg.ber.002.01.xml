@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.002.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>The Congo Treaty</title>
+<author n="Bright, Jacob, 1821-1899">Jacob Bright</author>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.ber.002.01</idno>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">The Congo Treaty</title>
+<author n="Bright, Jacob, 1821-1899">Jacob Bright</author>
+<title level="j">Bristol Selected Pamphlets</title>
+<date when="1884">1884</date>
+<note type="source">http://www.jstor.org/stable/60243738</note>
+<biblScope type="part">portions of the pamphlet relating to the Berlin Conference</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Berlin Conference</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Pamphlet</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="places">
+<term>Ambriz (Angola)</term>
+<term>Kinsembo (Congo)</term>
+<term>Luanda (Angola)</term>
+<term>Portugal</term>
+<term>Saint Thomas Island</term>
+<term>Stanley Pool</term>
+<term>Zanzibar</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<classCode scheme="original">
+<ref type="analysis" target="llg.ber.002.02">Analysis</ref>
+</classCode>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-08-05" who="#kln">modified encoding and document structure</change>
+<change when="2014-07-02" who="#kln">modified encoding and document structure</change>
+<change when="2014-05-05" who="#kln">Edited for new TEI and file naming structures.</change>
+<change when="2014-03" who="#kln">Revised earlier version of transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<head type="main">The Congo Treaty.</head>
+
+<head type="sub">Jacob Bright, M.P.</head>
+
+<div2 xml:id="llg.ber.002.01.e001">
+
+<p>The region with which this treaty with Portugal deals lies between 5 deg. 12 min. and 8 deg. South latitude on the South-West Coast of Africa. It embraces both banks of the Congo, and has become of extreme importance owing to the knowledge we now possess of this greatest of African rivers, whose flood is said to freshen the surface of the ocean for seventy miles. Cargo-carrying vessels can, according to the statement of Liverpool merchants, ascend the Congo as far as Bull Island, 12 miles from the mouth and here goods have to be transhipped for trade beyond. In <placeName key="con.viv" n="mapped"><settlement type="city">Vivi</settlement></placeName>, 115 miles, navigation is closed by rocks and cataracts. From Vivi to <placeName key="lak.sta" n="mapped"><geogName type="lake">Stanley Pool</geogName></placeName>, a distance of 200 miles, there is difficult communication, partly by land and partly by water, and then commences free navigation for nearly 1,000 miles. The river has large tributaries, also navigable, and the productive character of the country is said to be great.</p>
+
+</div2>
+
+<gap reason="sampling" extent="about two paragraphs">
+<desc>irrelevant to Berlin Conference argument</desc>
+</gap>
+
+<div2 xml:id="llg.ber.002.01.e002">
+
+<p>Again, in 1860, when Portugal tried to seize <placeName key="con.kin" n="mapped"><settlement type="city">Kinsembo</settlement></placeName>, a village on the north of her present frontier, Lord John Russell wrote to the Portuguese Minister threatening war, and added, "the interests of Portugal would be far better consulted by developing the resources of the vast territories which she already possesses in Africa than by seeking to extend a barren sovereignty over further tracts of country on that continent, which can only be acquired by violence and bloodshed." Lord Derby in 1876 wrote that "the orders which were issued in 1856 to the commanders of her Majesty's cruisers to oppose any attempt on the part of the Portuguese authorities to extend the dominions of Portugal north of <placeName key="ang.amb" n="mapped"><settlement type="city">Ambriz</settlement></placeName> remain still in force."</p>
+
+</div2>
+
+<gap reason="sampling" extent="about half a paragraph">
+<desc>irrelevant to Berlin Conference argument</desc>
+</gap>
+
+<div2 xml:id="llg.ber.002.01.e003">
+
+<p>Lord Mayo last year described to me his journey in the steamship Angola, from Benguela to Lisbon, in company of a cargo of slaves. He said that between Angola and the <placeName key="sti" n="mapped"><geogName type="island">Island of St. Thomas</geogName></placeName> there is a regular traffic in slaves, and that official forms are made use of in order to conceal its character, and to enable the officers of the Government to reap some portion of the reward. Slaves are brought from the interior to Catumbella&#8212;they are called "Colonials." The price here is &#163;7 a head. They are then sent in lighters to the Portuguese steamship at Benguela, thence to <placeName key="ang.lua" n="mapped"><settlement type="city">Loanda</settlement></placeName>, where official forms are gone through.</p>
+
+</div2>
+
+<gap reason="sampling" extent="about a paragraph">
+<desc>irrelevant to Berlin Conference argument</desc>
+</gap>
+
+<div2 xml:id="llg.ber.002.01.e004">
+
+<p>A similar case of the enormous advantage of the absence of the Portuguese is to be found on the East Coast of Africa. Some 100 years ago the Arabs took away much territory, including <placeName key="tan.zan" n="mapped"><country type="kingdom">Zanzibar</country></placeName>, from Portugal, and now the trade of Zanzibar, under native rule, is eight or ten times that of Mozambique, which has the advantage of civilized Portuguese rule.</p>
+
+</div2>
+
+<gap reason="sampling" extent="about 3 paragraphs">
+<desc>irrelevant to Berlin Conference argument</desc>
+</gap>
+
+<div2 xml:id="llg.ber.002.01.e005">
+
+<p>At <placeName key="ang.amb" n="mapped"><settlement type="city">Ambriz</settlement></placeName>&#8212;a port on the northern boundary of Angola&#8212;they boast of a tariff of 6 per cent., but they have recently added the following taxes&#8212;a public works tax, no fixed amount, but arbitrary, as required; a 10 per cent. income-tax on such amount of income as the Portuguese official thinks the trader ought to pay; a 10 per cent. property tax; a 3 per cent. house duty; a tax of 6 per cent. on the transfer of property and a licence tax of 20 dollars on every trading firm and on every shop or store. The Customs duty is levied on the valuation of property delivered in Ambriz and the valuation is often arbitrary. Goods of British Traders are constantly seized and detained for weeks and moths until too late for the season. The English Consul is frequently sent for, but goes up very seldom. He cannot speak Portuguese, which greatly impairs his usefulness. Every English house, except one, has abandoned Ambriz. They have gone to <placeName key="con.kin" n="mapped"><settlement type="city">Kinsembo</settlement></placeName>, seven miles north, where Portuguese civilization does not exist, but where it is about to be established by her Majesty's Government.</p>
+
+</div2>
+
+<gap reason="sampling" extent="remaining three paragraphs">
+<desc>irrelevant to Berlin Conference argument</desc>
+</gap>
+
+</div1>
+</body>
+</text>
+
+</TEI>

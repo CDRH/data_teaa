@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.023.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Chicago Daily Tribune, "Leopold and the Congo"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.023.01</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<title level="a" type="main">Leopold and the Congo</title>
+<title level="j">Chicago Daily Tribune</title>
+<pubPlace>Chicago</pubPlace>
+<biblScope type="page">8</biblScope>
+<date when="1908-02-28">February 28, 1908</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="analysis" target="llg.con.023.02">Analysis</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-09-05" who="#kln">Initial transcription and encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>Leopold and the Congo.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>No long ago it was broadly hinted that the British government would be much pleased if the United States were to take the initiative to the Congo matter. It was stated that Great Britain might be accused of being actuated by <gap extent="one or two words" reason="illegible"/> if it assumed the leading part, <unclear reason="illegible">which</unclear> nobody would question the motives of this country. It has no territorial interests in Africa and desires none, while it has been intimated that Great Britain would be quite willing to take over a part of the Congo territory. </p>
+
+<p>The American government did not seem inclined to take the lead in a matter in which it probably thinks the European powers should take a more lively interest, and the British government has finally determined to take steps to settle the Congo question. It will urge the transfer of the control of the <placeName key="con" n="mapped"><country type="colony">Congo Independent state</country></placeName> to Belgium on equitable terms, and if that cannot be done within a reasonable time it will, either alone or in conjunction with the powers that signed the Berlin act, take measures to insure the effective carrying out of its provisions.</p>
+
+<p>This is a warning to King Leopold that the day of grace is nearly over. He has been declaring his readiness to turn over the control of the Congo Independent state of Belgium, but not on fair terms -- terms which either Belgium or the powers that signed the Berlin act could properly accept. He has insisted on retaining for himself the crown domain out of which, it is estimated, he already has made $4,000,000. If he were to retain it the protection of the natives, which is guaranteed by the Berlin act, would be about as tragically inadequate in the future as it has been in the past. </p>
+
+<p>Recently King Leopold intimated that if Belgium did not close with his terms speedily he would withdraw his offer. Belgium should reject terms which it cannot decently accept and leave it to the powers which took part in the congress of Berlin to determine the future of the people and the country that have been so shamefully misgoverned by Leopold. They ought  to be able to come to a disinterested agreement, even though there may be some of them that would like to share in the partition of the Congo state.</p>
+
+<p>There is no objection to Belgium having the supreme and complete control, but King Leopold ought to be ousted. He has made money enough out of the Congo and inflicted far too much suffering on its inhabitants. The other powers should be willing to unite with Great Britain in the human work of getting rid of him. It may be that they have been privately consulted and that the British government already is assured of their support.</p>
+
+</div2>
+
+</div1>
+
+</body>
+
+
+</text>
+
+</TEI>

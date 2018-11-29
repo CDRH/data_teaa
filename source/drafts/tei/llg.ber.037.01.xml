@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.037.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>New York Times, "The Question of West Africa"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.ber.037.01</idno>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">The Question of West Africa.</title>
+<title level="j">New York Times</title>
+<pubPlace>New York</pubPlace>
+<date when="1884-12-11">December 11, 1884</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Berlin Conference</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="places">
+<term>Cape Colony</term>
+<term>Cape of Good Hope</term>
+<term>Cape Lopez</term>
+<term>Cape Verde</term>
+<term>Congo River</term>
+<term>Gulf of Guinea</term>
+<term>Mozambique</term>
+<term>Niger River</term>
+<!--<term>South Africa</term>--> <!-- same as Cape Colony? refers to British holdings in Southern Africa -->
+<term>Stanley Pool</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<classCode scheme="original">
+<ref type="analysis" target="llg.ber.037.02">Analysis</ref>
+</classCode>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015-06-08" who="#kln">added places</change>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-07-21" who="#kln">encoded transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>The Question of West Africa.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>The practical agreement by the members of the Berlin Conference to the propositions of England with regard to the <placeName key="riv.nig"><geogName type="river">Niger River</geogName></placeName>, and to the application of the principle of entire liberty of commerce both on the waters of the Congo and on those of the Nigre, leaves only the question of the territorial claims of the various powers to be settled, with one or two minor questions. The territorial claims are, as we have already remarked, complex, and to some extent conflicting, but the chief difficulty in adjusting them is removed by the acceptance of the principle of free commerce. The various claims -- and certainly they are sufficiently varied and sufficiently scattered -- have arisen for the most part in nearly accidental fashion. Wherever merchants of any nation -- English, French, German, Spanish, and, to a less degree, Portuguese -- have seen a chance for trade they have established trading houses or "factories." When, in extending their enterprises, they have got into trouble with neighboring natives or with merchants of another nationality, they have appealed to their home Governments for aid and protection, and where this has been granted the national flag has been unfurled, Consuls or Commercial Agents have been appointed, and a claim to jurisdiction has arisen. When these claims have conflicted as between two Governments the principle of priority of discovery or occupation has been appealed to, and this has been sometimes complicated by the relations of the home Governments.</p>
+
+<p>In this way it now happens that the various European nations lay claim to widely separated areas of territory of different size and character on the westcoast of Africa, from north of <placeName key="cve" n="mapped"><geogName type="archipelago"><country type="colony">Cape Verd</country></geogName></placeName> to the extremity of the continent at the <placeName key="cap.hop" n="mapped"><geogName type="cape">Cape of Good Hope</geogName></placeName>. Of these the most important are the English possessions in South Africa and on the north coast of the <placeName key="gul.gui" n="mapped"><geogName type="gulf">Gulf of Guinea</geogName></placeName>; the Portuguese possessions south of the <placeName key="riv.con" n="mapped"><geogName type="river">River Congo</geogName></placeName>, which Portugal also claims to extend north of that river and embracing its delta; the French possessions in Senegambia, extending west to the upper waters of the Niger; the possessions of the same nation north and south of <placeName key="cap.lop" n="mapped"><geogName type="cape">Cape Lopez</geogName></placeName> and bending southwest to the right bank of the Congo at <placeName key="lak.sta" n="mapped"><geogName type="lake">Stanley's Pool</geogName></placeName> the newly acquired or claimed German possessions lying along the coast north of <placeName key="saf.col" n="mapped"><settlement type="colony">Cape Colony</settlement></placeName>; the possessions of the International African Association, somewhat vaguely defined along the Congo from its mouth to the left bank of Stanley's Pool, and embracing a series of stations stretching a little south of east across the continent to <placeName key="moz" n="mapped"><country type="colony">Mozambique</country></placeName>. Besides these there are small stations and islands belonging to or claimed by the various nations all along the coast and most numerous from Cape Verd to the mouth of the Congo.</p>
+
+<p>It is a curious and unprecedented fact in the history of the relations of the Western nations to the uncivilized or slightly civilized peoples that the former are now engaged in determining, by common consent after discussion, the fortunes of millions of human beings who have hardly a knowledge of the existence of Europe. But arbitrary as such a proceeding must be confessed to be, it is far less so than that by which India was disposed of first by the French and English at war with each other, and then by the successful Government, or, to take an example nearer home, than the process by which the Indian populations of America were made to accept the fate decreed to them by the settlers from England, France, Spain, and Holland. Certainly the native Africans are not likely to suffer, and their descendants must gain greatly by the definite application to their future intercourse with Europeans of the principle that all alike shall share in whatever trade may be established, and no one nation shall practice in Africa the grasping monopoly and the unchecked exactions known on this continent and in Asia. The competition of the various European nations must tend to secure a greater degree of justice to the Africans as well as a more rapid development of trade.</p>
+
+<p>Meanwhile there is a singular revival of the old American spirit indicated by the proposal to the conference by Americans, through Mr. Sanford, of a plan for a railway around the great falls of the River Congo. These falls are an impassable barrier to navigation, and it is only on land that communication can be completed between the broad waters of the Lower Congo and those which open up a navigable way beyond for more than a thousand miles into a region described as being of great fertility, of varied natural resources, and already offering considerable trade.</p>
+
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>

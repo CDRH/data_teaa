@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.038.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>New York Times, "The Freedom of Congo Trade"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.ber.038.01</idno>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">The Freedom of Congo Trade.</title>
+<title level="j">New York Times</title>
+<pubPlace>New York</pubPlace>
+<biblScope type="page">2</biblScope>
+<date when="1885-01-16">January 16, 1885</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Berlin Conference</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<classCode scheme="original">
+<ref type="analysis" target="llg.ber.038.02">Analysis</ref>
+</classCode>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-07-21" who="#kln">encoded transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>The Freedom of Congo Trade.</p>
+
+<p>Excitement Caused by England's Acceptance of France's Proposal.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>London, Jan. 15. -- The announcement that Sir Edward Malet, the British representative at the Berlin Conference, had been instructed to accept the French proposal regarding freedom of trade in the Congo country, has caused great excitement in mercantile circles and provoked an unexpected amount of opposition. France proposes that the freedom of the Congo shall be limited to a period of 20 years. African traders here say that the object of this is to attract capital to that country during the next 20 years, although at the end of that time, after the country has been developed and made valuable by the enterprise of merchants of all nations, it is to be closed to all except King Leopold's International African Association or to France, which is looked upon us tho future legatee of that association. The proposition is denounced as a trap, and Earl Granville is blamed for having fallen into it. A hot agitation in favor of the withdrawal of the English consent is in progress in most of the large cities under the leadership of the local Chambers of Commerce. Memorials from these bodies urging the reconsideration of the subject are pouring into the Foreign Office from all sections of England.</p>
+
+<p>Berlin, Jan. 15. -- The Congo Conference Committee had only a short sitting to-day, many of the delegates being invited to dine with the Emperor William. The committee discussed formalities relating to future annexations in the Congo country, and more especially the Portuguese proposals. An adjournment was then taken until to-morrow, when final decisions relative to the course to be pursued are expected.</p>
+
+<p>Paris, Jan. 15. -- A son of the Portuguese Minister to France has arrived in this city. He is on a mission concerning Portuguese proposals on the Congo question.</p>
+
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.008.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>The Story of the Congo Free State</title>
+<author n="Wack, Henry Wellington, 1869-1954">Henry Wellington Wack</author>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.008.01</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<title level="m" type="main">The Story of the Congo Free State: Social, Political, and Economic Aspects of the Belgian System of Government in Central Africa</title>
+<author n="Wack, Henry Wellington, 1869-1954">Henry Wellington Wack</author>
+<date when="1905">1905</date>
+<publisher>G. P. Putnam's Sons</publisher>
+<publisher>The Knickerbocker Press</publisher>
+<pubPlace>New York</pubPlace>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Book</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<term>Banana (Congo)</term>
+<term>Boma (Congo)</term>
+<term>Chari Basin</term>
+<term>Congo Basin</term>
+<term>Congo River</term>
+<term>Kouilou River</term>
+<term>Kwenge River</term>
+<term>Lake Tanganyika</term>
+<!--<term>Leopoldville</term>--> <!-- cannot find in document -->
+<term>Loge Basin</term>
+<!--<term>Lualaba-Kassai</term>--> <!-- cannot find in document -->
+<!--<term>Lusambo</term>--> <!-- cannot find in document -->
+<term>Niari Basin</term>
+<term>Niger River</term>
+<term>Nile Basin</term>
+<term>Noki (Congo)</term>
+<term>Ogowe Basin</term>
+<term>Stanley Pool</term>
+<term>Zambesi Basin</term>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="analysis" target="llg.con.008.02">Analysis</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-08-12" who="#kln">Initial transcription and encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<head type="main">The Story of the Congo Free State</head>
+
+<head type="sub">Social, Political, and Economic Aspects of the Belgian System of Government in Central Africa</head>
+
+<head type="sub">By Henry Wellington Wack</head>
+
+<div2 type="chapter">
+
+<head type="main">Preface</head>
+
+<p>As a student of Mid-African affairs for the past seven years, and a close observer of the rapid progress toward complete civilisation now being made in that part of the world, I have felt it my duty to lay before my countrymen the true and complete story of the conception, formation, and development of the Congo Free State.</p>
+
+<p>At a period of such bitter controversy concerning the government of the Congo Free State as the present, it is necessary that I should explain the circumstances under which I add this volume to the literature on that subject.</p>
+
+<p>During a residence of several years in the United Kingdom, I could not fail to observe the growth there of an organised campaign against the Congo Free State. That a small section of the British public, interested in the rubber trade, should by subtle means seek to delude or should even succeed in deluding, the great British nation so completely as to obtain general credence for its stories of cruelty and oppression alleged against King Leopold's government failed to move me. It was not my concern, while enjoying the hospitality of England, to criticise the way in which her religious organisations were being used to further the selfish aims of a small clique of Liverpool merchants. But when, within the past year, I perceived that the campaign of calumny against the Congo Free State was being extended to the United States, I could not longer regard the phenomenon with a merely passive interest. It occurred to me that my knowledge of Mid-African affairs might enable me to place before the American people a complete statement of the actual facts of the Congo Free State, and that my self-imposed task could not fail to be of value at a time when interested partisans were endeavouring to deceive them.</p>
+
+<p>Having obtained an introduction to the King of Belgians, I informed his Majesty that I believed the American people would much esteem the true history of the affairs of the Congo written by an American, and that if his Majesty would grant me access to the archives of the Administration of the Congo Free State in Brussels, and leave me free to write the story of his enterprise in my own way, absolutely without interference or suggestion from any of his ministers or himself, I would undertake the task on my own account.</p>
+
+<p>His Majesty, having considered my credentials and the nature of my introduction, in due course informed me that all the documents in the Congo Administration Office were open to my inspection. His Majesty added that he had no fear but that the American people, when informed of the truth about the Congo, would appreciate, as he did, that the Congolese civilisation movement is the greatest colonising success in the history of the world. I was admitted into the offices of the Congo Administration and spent many weeks there searching for, translating, and copying documents. Those which had already been translated into English, I adopted in the form in which I found them. When I left Brussels, I again indicated to his Majesty's ministers, and to his Majesty himself, that I should write the story in my own way. I brought away many boxes of memoranda and documents and at once began to work upon The Story of the Congo Free State. I have not submitted the manuscript or proofs to any person connected, either directly or indirectly, with his Majesty, with the Congo Free State, or with the Belgian Government, neither have I in any way communicated with his Majesty in reference to what I have written. For all I know, his Majesty may entirely disapprove of this history. I should, of course, regret exceedingly to learn that I had displeased the royal host who had extended to me the hospitality of his country during a long and interesting visit. But as I am under no obligation whatever to the Congo officials, nor to his Majesty, and as my original intention of writing an independent history of the Congo was made quite clear to both, I regard myself as absolved from blame should the King of the Belgians disapprove of the straight-forward story here presented.</p>
+
+<p>That this story is true, I have satisfied myself in every particular. It is the story of a great colonising undertaking founded upon modern social science. It can hardly fail to interest the reader who admires the courage and daring which small countries sometimes display in extending their borders and establishing new markets.</p>
+
+<p>Should this book in any way assist my countrymen in thinking about the underlying motives in the campaign against the Congo, and bring them to a knowledge of the real issues at stake, my labour will be sufficiently rewarded.</p>
+
+<p>I take this opportunity to acknowledge my obligation to the works of Messrs. Stanley, Descamps, Boulger, Johnston, Cattier, and Wauters, and to all who have kindly assisted me with information.</p>
+
+<p>H. W. W., New York, January 2, 1905.</p>
+
+</div2>
+
+<gap reason="sampling" extent="about twenty pages"/>
+
+<div2 type="chapter">
+
+<head type="main">Chapter III</head>
+
+<head type="sub">Founding of the Congo Free State</head>
+
+<p>On the 15th day of November, 1884, the International Conference, convened by Prince Bismarck to regulate what that statesman termed "the African question," held its first meeting. It took place in Berlin, Prince Bismarck presiding. In briefly outlining the object of the Conference, the distinguished president exhibited in no small degree that condensation and lucidity for which his utterances were remarkable.</p>
+
+<q>The Imperial Government [said Prince Bismarck] has been guided by the conviction that all the Governments invited here share the desire to associate the natives of Africa with civilisation, by opening up the interior of that continent to commerce, by furnishing the natives with the means of instruction, by encouraging missions and enterprises so that useful knowledge may be disseminated, and by paving the way to the suppression of slavery, and especially of the slave trade among the blacks, the gradual abolition of which was declared to be, as far back as the Vienna Congress in 1814, the sacred duty of all the Powers. The interest which all the civilised nations take in the material development of Africa assures their co-operation in the task of regulating the commercial relations with that part of the world. The course followed for a number of years in the relations of the Western Powers with the countries of Eastern Asia having up to this moment given the best results by restraining commercial rivalry within the limits of legitimate competition, the Government of His Majesty the German Emperor has considered it possible to recommend to the Powers to apply to Africa, in the form appropriate to that continent, the same regimen, founded on the equality of the rights and the solidarity of the interests of all the commercial nations."</q>
+
+<p>Proceeding, Prince Bismarck declared that the main object of the Conference was the opening up to all the world of Central Africa. He rejoiced that France was in perfect accord with Germany in this matter. The first thing to be considered in this matter was, he thought, how best to establish freedom of trade at the mouth and in the basin of the Congo. On that subject the German Government had formulated a plan, drawn as a declaration, de signed to assure freedom of trade in that region, with equal rights for all nations,&#8212;monopolies and preferential duties for none.</p>
+
+<p>Prince Bismarck was followed by the British representative, Sir Edward Malet. No other Power in the world, said Sir Edward, had done so much on behalf of the objects that the German Government affected to have at heart as Great Britain; and he went on to point out that the warm support of his country and Government might be relied upon for proposals which had always formed part of their policy. He hoped that the attention of the Conference would not be devoted entirely to commerce, and that the welfare of native races would receive attention. Freedom of trade should be restricted to legitimate articles of trade, or the natives would lose more than they gained. He apprehended that the chief difficulty of the Conference would be, not to secure its unanimous adherence to general principles, but to provide means for carrying those principles into effect. It was certainly desirable to establish the validity of effective new occupations on the coasts of Africa.</p>
+
+<p>The Portuguese representative claimed for his country the honour of having introduced the elements of civilisation into Africa, and saw in an increase of commerce in that part of the world the assurance of peace and respect for the rights of humanity. The American representative contented himself by calling attention to the part his country had taken in the opening of Central Africa, and referred with pride to the achievements of Stanley, congratulating his countrymen on being first to recognise the good work accomplished by that great philanthropist, the King of the Belgians. The practical business, however, of the sitting, was the question, "What territories constitute the basin of the Congo and its affluents?" This being a matter less easily disposed of, it was referred to a Commission of eight experts selected by the eight Powers chiefly interested in its solution.</p>
+
+<p>The Commission of eight reported to the Conference at its third sitting as follows:</p>
+
+<q>The Basin of the Congo is delimited by the crests of the contiguous basins, to wit, the basins in particular of the <placeName key="bas.nia" n="mapped"><geogName type="basin">Niari</geogName></placeName>, the <placeName key="bas.ogo" n="mapped"><geogName type="basin">Ogowe</geogName></placeName>, the <placeName key="bas.cha" n="mapped"><geogName type="basin">Schari</geogName></placeName>, and the <placeName key="bas.nil" n="mapped"><geogName type="basin">Nile</geogName></placeName>, on the north; by the Lake Tanganyika, on the east; by the crests of the basins of the <placeName key="bas.zam" n="mapped"><geogName type="basin">Zambesi</geogName></placeName> and the <placeName key="bas.con" n="mapped"><geogName type="basin">Loge</geogName></placeName>, on the south. It comprises consequently all the territories drained by the Congo and its affh1ents, including <placeName key="lak.tan" n="mapped"><geogName type="lake">Lake Tanganyika</geogName></placeName> and its eastern tributaries.</q>
+
+<p>This report seems as explicit as it well could be, and after much discussion and some slight modifications it was adopted. Baron Lambermont (Belgium) presented a report upon the best means of safeguarding the welfare of the native races, treating with remarkable ability of slavery, the importation of alcohol into the Congo country, and other dangers that threaten uncivilised races at their first contact with civilisation. Count Van der Straeten Ponthoz (Belgium) spoke even more vigorously to the same effect, and between them these two Belgian subjects of King Leopold showed themselves more solicitous for the welfare of the Congo native than the representative of any other nationality present.</p>
+
+<p>The International Conference held its tenth and last sitting on the 26th of February, 1885. As on the occasion of its first sitting, Prince Bismarck pre sided. The drafting of the final act of the Conference was ably performed by Baron Lambermont. The representatives of the Powers assembled at Berlin signed conventions with the International Association, acknowledging it as a friendly and sovereign State whose flag&#8212;a golden five-pointed star on a blue banner—they agreed henceforth to recognise.</p>
+
+<q>I am sure I am the interpreter [said the President in announcing the existence of these treaties to the Conference] of the unanimous sentiment of the Conference in saluting as a happy event the communication made to us on the subject of the almost completely unanimous recognition of the International Association of the Congo. All of us here render justice to the lofty object of the work to which His Majesty the King of the Belgians has attached his name; we all know the efforts and the sacrifices by means of which he has brought it to the point where it is to-day; we all entertain the wish that the most complete success may crown an enterprise that must so usefully promote the views which have directed the Conference."</q>
+
+<p>Thus the great Bismarck. Sir Edward Malet (Great Britain) said:</p>
+
+<q>The part which Queen Victoria's Government has taken in the recognition of the flag of the Association as that of a friendly Government warrants me in expressing the satisfaction with which we regard the constitution of this new State, due to the initiative of His Majesty the King of the Belgians. During long years the King, dominated by a purely philanthropic idea, has spared nothing, neither personal effort nor pecuniary sacrifice, which could contribute to the realisation of his object. Yet the world at large regarded these efforts with an eye of almost complete indifference. Here and there his Majesty attracted some sympathy, but it was somehow rather the sympathy of condolence than that of encouragement. People said that the enterprise was beyond his re sources, that it was too great for him to achieve success. We now see that the King was right, and that the idea he pursued was not Utopian. He has brought it to a happy conclusion, not without difficulties, but the very difficulties have made the success all the more striking. While rendering to his Majesty this homage by recognising all the difficulties that he has surmounted, we salute the new-born State with the greatest cordiality, and we express the sincere desire to see it flourish and grow under his aegis.</q>
+
+<p>Baron de Courcel (France) said: "The new State owes its origin to the generous aspirations and the enlightened initiation of a prince surrounded by the respect of Europe." Other members of the Conference were as warm as the representatives of Great Britain and France in their eulogy of the great work achieved by King Leopold, and their opinions of his Majesty's life-work were admirably summed up by Prince Bismarck in his speech closing the Conference, in the course of which he referred to the consolidation of the Congo Free State as a "precious service to the cause of humanity."</p>
+
+<p>Central Africa had now become in all essential respects a State. It had been recognised as such by the United States on April 22, 1884, seven months before the opening, and ten months before the close, of the Berlin Conference, but now its geographical limits were defined, its political status fixed, its neutrality assured. The large part played by Leopold, King of the Belgians, in its creation had received full and complete acknowledgment from the foremost geographers and statesmen of the world, who had united in lauding the King, not only for his wonderful achievement, but for the high humanitarian motive stimulating his Majesty through all the years of its difficult accomplishment.</p>
+
+<p>But let no one suppose that it followed, as a necessary consequence of all this, that the future government of Central Africa was to be as plain sailing in smooth water. A new State had been created, it is true, and it had had as its sponsors the great Powers of the world, who
+had recognised Leopold II., King of the Belgians, as its Sovereign ruler. But it is beyond the ability of States, just as it is beyond the ability of individuals, to exist without money, and to be entrusted with the government of a territory nearly a million square miles in extent&#8212;about a fifth the size of Europe, or a third of the United States&#8212;inhabited by twenty millions or so of semi-barbarous tribes, was no light task. The "African Exploration Fund" of the Geographical Society of London contributed £250, and the Belgian Committee collected among their countrymen 500,000 francs&#8212;a generous gift, but utterly inadequate for such a colossal task as the civilisation of Central Africa. Belgians, as a people, were in no degree liable for the expense of the philanthropic colonial enterprise entered upon by Leopold, their King, as an individual. The magnitude of that expense will be apparent to anybody who gives the subject a moment's thought. The payment of explorers,&#8212;men of the first rank in intellectual attainment, such as Stanley,&#8212;the cost of their equipment (stores, carriers, lake steamers, etc.), the carving out of routes, establishment of stations, purchases of land from native chiefs, conciliatory gifts, and so forth, had seriously depleted the large private fortune of King Leopold.</p>
+
+<p>Though all civilised countries were more or less interested in the opening up of Central Africa, less than twenty thousand dollars was subscribed out side Belgium for that object. It had, therefore, some years before the Berlin Conference, become necessary to raise money for the continuation of the work. On November 25, 1878, the Comity d'Etudes du Haut-Congo was formed in Brussels, with King Leopold as honorary president and Colonel Strauch as president. The Comite was really a company, and it had a capital of a million francs. Thanks no less to its wise direction than to its sufficient capital, the operations of the Comite were attended with so much success that it soon usurped the place of the International African Association as principal agent of the civilising crusade undertaken by King Leopold. The work of the Comite was consolidated and greatly accelerated by the General Act of the Berlin Conference, assuring the Sovereignty of the Congo State to King Leopold, it being no more than natural that Belgians should have increased confidence in a State secure under the rule of their own King, and be dis posed to invest their money therein more freely than when the form of its government was matter of doubt. Though much still remained to be done, the Congo Free State had now been founded, and that fact of itself was sufficient to inspire confidence everywhere, but particularly among the Belgian people, whose King was its founder.</p>
+
+</div2>
+
+<gap reason="sampling" extent="about seventy pages"/>
+
+<div2 type="chapter">
+
+<head type="main">Chapter VIII</head>
+
+<head type="sub">The Berlin Conference</head>
+
+<p>A clear view of the position of the State previous to the adoption of the resolutions known as the General Act of the Berlin Conference may be had from a summary of the signal events which had marked its formative period.</p>
+
+<p>The Congo Free State was born of the Congo International Association founded by his Majesty, Leopold II. in 1883, while Stanley was in his service. Prior to the legal foundation of the State, the Association had obtained recognition of its sovereignty as hereinbefore indicated. By treaties concluded in 1884 and 1885 with the United States and with many of the European Powers, it adhered, on the 25th of
+February, 1885, to the resolutions of the Berlin Conference, which, embodied in a General Act, established, amongst other things, freedom of trade throughout the <placeName key="bas.con" n="mapped"><geogName type="basin">Congo Basin</geogName></placeName>, and declared free navigation on the <placeName key="riv.con" n="mapped"><geogName type="river">Congo River</geogName></placeName>, its tributaries, and the lakes and canals connected therewith. The text of the General Act of Berlin, so far as it relates to the Congo, is fully set forth in an appendix. The principal subjects contained in the Act which may concern the reader are briefly stated:</p>
+
+<q>1. A Declaration relative to freedom of trade in the Basin of the Congo, its embouchures and circumjacent regions, with other provisions connected therewith.</q>
+
+<q>2. A Declaration relative to the Slave Trade, and the operations by sea or land which furnish slaves to that trade.</q>
+
+<q>3. A Declaration relative to the neutrality of the territories comprised in the Conventional Basin of the Congo.</q>
+
+<q>4. An Act of Navigation for the Congo, which, while having regard to local circumstances, extends to this river, its affluents, and the waters in its system (eaux qui leur sont assimilees), the general principles enunciated in Articles CVIII. and CXVI. of the Final Act of the Congress of Vienna, and intended to regulate, as between the Signatory Powers of that Act, the free navigation of the waterways separating or traversing several States—these said principles having since then been applied by agreement to certain rivers of Europe and America, but especially to the Danube, with the modifications stipulated by the Treaties of Paris (1856), of Berlin (1878), and of London (of 1871 and 1883).</q>
+
+<q>5. An Act of Navigation for the <placeName key="riv.nig" n="mapped"><geogName type="river">Niger</geogName></placeName>, which, while likewise having regard to local circumstances, extends to this river and its affluents the same principles as set forth in Articles CVIII. and CXVI. of the Final Act of the Congress of Vienna.</q>
+
+<q>6. A Declaration introducing into international relations certain uniform rules with reference to future occupations on the coasts of the African Continent.</q>
+
+<p>The treaties<ref type="footnote" target="n01">1</ref> which, before the adoption of these resolutions on February 26, 1885, the Congo Free State had concluded with various Powers, were those with the United States of America, dated April 22, 1886; Germany, 8th November; Great Britain, 16th December; Italy, 19th December; Spain, 7th January, 1885; France, 5th February; Russia on the same day; Sweden and Norway, 10th February; Portugal, 14th February; Denmark and Belgium, 23rd February. These treaties 1 were notified to the Conference on the 23rd February, and the neutrality of the State was declared and published on the 1st August in the same year.</p>
+
+<p>At the close of the Berlin Conference on 26th February, 1885, Prince Bismarck offered his tribute of appreciation for the work which, deriving its inspiration from the King of the Belgians, had, by the Powers represented, been formulated into an economic code for the guidance of the four nations, which, besides the Congo Free State, occupied the great Congo Basin. Prince Bismarck's address has the effect of oracular utterance in the light of events since the day when he wisely said that the work of the Conference would be, like every human undertaking, susceptible of improvement. The following is the full text of Prince Bismarck's closing speech:</p>
+
+<q>Gentlemen:&#8212;Our Conference, after long and laborious de liberations, has reached the end of its work, and I am happy to state that, thanks to your efforts, and to the spirit of conciliation which has presided at our negotiations, a complete agreement has been established on all the points of the pro gramme which was submitted to us.</q>
+
+<q>The resolutions which we are on the point of sanctioning assure to the commerce of all nations free access to the centre of the African Continent. The guarantees with which commercial liberty in the Basin of the Congo will be surrounded, and all the arrangements made in the Acts of Navigation for the Congo and the Niger, are of a nature to offer to the commerce and the industry of all nations the most favourable conditions for their development and security.</q>
+
+<q>By another series of provisions you have shown your solicitude for the moral and material well-being of the native populations, and there is room to hope that those principles, dictated by a spirit of practical wisdom, will bear fruit and will contribute to bestow on those populations the benefits of civilisation.</q>
+
+<q>The practical conditions under which are placed the vast regions that you have just opened to commercial enterprise have seemed to exact special guarantees for the maintenance of peace and public order. As a matter of fact, the evils of war would assume a particularly disastrous character if the natives were led to take part in the conflicts of civilised Powers. Justly preoccupied with the dangers that such an eventuality would entail in the interests of commerce and of civilisation, you have sought the means of withdrawing a great part of the African Continent from the vicissitudes of general politics, by restraining these national rivalries to the pacific competition of commerce and industry.</q>
+
+<q>In the same category you have aimed at preventing the misunderstanding and contests to which new seizures of territory on the coasts of Africa might give rise. The declaration as to the formalities to be complied with in order to make acquisitions of territory effective has introduced into public right a new regulation, which will contribute in its degree to remove from international relations causes of dissension and conflict.</q>
+
+<q>The spirit of mutual good understanding which has distinguished your deliberations has equally presided over the negotiations which have taken place outside the Conference, with the object of regulating difficult questions of delimitation between the parties which exercise sovereign rights in the basin of the Congo, and which by the nature of their position are called upon to become the chief guardians of the work which we are about to sanction.</q>
+
+<q>I cannot touch on this subject without rendering my homage to the noble efforts of His Majesty the King of the Belgians, the founder of a work which is to-day recognised by almost all the Powers, and which by its consolidation may render precious services to the cause of humanity.</q>
+
+<q>Gentlemen, I am charged by His Majesty the Emperor and King, my august master, to express to you his warmest thanks for the part that each of you has taken in the happy accomplishment of the task of the Conference.</q>
+
+<q>I fulfil a final duty in making myself the mouthpiece of the gratitude that the Conference owes those of its members who have discharged the difficult labours of the Commission, notably the Baron de Courcel and the Baron Lambermont. I also thank the delegates for the valuable assistance they have afforded us, and I associate with the expression of that gratitude the Secretaries of the Conference, who by the precision of their work have facilitated our task.</q>
+
+<q>Gentlemen, the work of the Conference will be, like every human undertaking, susceptible of improvement and perfection; but it will mark, I hope, a step forward in the development of international relations, and will form a new link of solidarity between civilised nations.</q>
+
+<p>The brilliant, cordial, and edifying final session of the Berlin Conference presaged no such campaign of calumny as that which has proceeded since Sir Charles Dilke, on gross misinformation purveyed by interested persons, and on what appears to have been his wilful misreading of a book entitled The Fall of the Congo Arabs, attacked the Congo State by moving in the British Parliament on April 2, 1897, a measure calling for a new Conference to consider charges which no one had presented, but which, for some inscrutable reason, this eminent parliamentarian seemed anxious to dignify by sensational legislation.</p>
+
+<p>When the Berlin Conference concluded its labours, it was with manifest sympathy for the King of the Belgians and his voluntary pledge to an African task which practically all the participating Powers regarded as impossible of achievement, such were its glaring difficulties. Now, after twenty years of Belgian sacrifice, there are those who, jealous of the achievements in a task they were so anxious to avoid in 1885, must destroy where they cannot reap in 1905. To men of purpose and brave outlook, this is merely one of the many incivilities of civilisation. Success begets envy in one's neighbour; failure often confirms him in his secret contempt.</p>
+
+<p>In Belgium the completion of the General Act of the Berlin Conference evoked a patriotic feeling of satisfaction which, in its address to the King, the Chamber of Representatives voiced in the following language: "To your Majesty belongs the honour of having conceived the African work, of having pursued and developed it by persevering efforts. . . . We felicitate your Majesty on these important results, and, as Belgians, we are proud of the solemn homage rendered by the Powers to the generous and progressive ideas of our Sovereign." The Belgian nation, for a long time uncertain of the result of the philanthropic work of its King in Central Africa, and having observed that other nations had shrunk from this costly task of civilisation, now uttered its sentiments of approval in many forms. In his speech before the Chamber on March 10, 1885, M. Beernaert, then Minister of Finance, said, amongst other expressions of hope for the new State, that the merit of the work accomplished "belongs especially to the initiation, to the persistent energy, and to the sacrifices of our King." Then, expressing the hope of extended industries a hope that was largely, if not entirely, the incentive which actuated the Powers Signatory to the Berlin Act&#8212;the Minister concluded his address with the belief that the Congo would offer "to our superabundant activity, to our industries more and more confined, outlets by which we shall know how to profit. May the enterprising spirit of our King encourage our countrymen to seek, even at a distance, new sources of greatness and prosperity for our dear country. The Belgian Chamber and Senate ratified the nation's participation in the <ref type="internal" target="llg.ber.001.01">General Act of the Berlin Conference</ref> without a dissentient voice.</p>
+
+<p>To the loyal address of his Parliament, the King of the Belgians made reply, graciously acknowledging the support his subjects had given him in his great African work.</p>
+
+<p>There remained now the making of a Sovereign for the new State, and, having regard to the universal tribute of praise rendered to its founder at the Berlin Conference, it was clear enough, in its opinion, who should continue to direct the destinies of a wild territory in which so much had been accomplished in so short a time. Belgium, however, was not pre pared, in 1885, to take over the Congo State as her colony. There were, at that time, many considerations in Belgium and in the Congo to suggest caution to a naturally conservative Government. The creation of the Congo State had involved many risks and great difficulties. It had required a huge expenditure of money, nearly all of which the King had personally contributed without the slightest assurance that his country or his estate would ever recover it, except in so far as his marvellous fore sight assured him in this respect. If there were many difficulties at the beginning of his Majesty's African enterprise, there were still greater obstacles to be surmounted. To the ultra-conservative section of the Belgian Parliament the whole project was still enshrouded in doubt. But the King, having so far borne the risks and the cost of civilising the savage African black man, had also given his country the written assurance that the result of his labours&#8212;whatever they were when realised&#8212;should be at the disposal, by appropriation or otherwise, of the Belgian nation "without costing her anything." As the theory of a purely personal union between Belgium and the Congo State had found much favour, it was proposed that the King of the Belgians should be empowered to become the Sovereign of the Congo Free State without in any respect involving the Belgian nation.</p>
+
+<p>In this eminently practical proposal the King had taken the initiative in the following letter to his Council of Ministers:</p>
+
+<q>Gentlemen:&#8212;The work created in Africa by the Inter national African Association has greatly developed. A new State has been founded, its limits are fixed, and its flag is recognised by almost all the Powers.</q>
+
+<q>There remains to organise a Government and an Administration on the banks of the Congo.</q>
+
+<q>The plenipotentiaries of the nations represented at the Berlin Conference have shown themselves favourable to the work undertaken, and since then the two Legislative Chambers, the principal towns of the country, and a great number of important bodies and associations have expressed to me on this subject the most sympathetic sentiments.</q>
+
+<q>With such encouragement I could not recoil from the prose cution and achievement of a task in which I had, as a matter of fact, taken an important part; and since, gentlemen, you consider, as I do, that it may be useful to the country, I beg of you to demand from the Legislative Chambers the assent which is necessary to me.</q>
+
+<q>The terms of Article 62 of the Constitution describe by themselves the situation which has to be established.</q>
+
+<q>King of the Belgians, I should at the same time be the Sovereign of another State.</q>
+
+<q>That State would be independent, like Belgium, and it would enjoy, like her, the benefits of neutrality.</q>
+
+<q>It would have to provide for its own needs; and experience based on the example of the neighbouring colonies justifies me in affirming that it would dispose of the necessary resources.</q>
+
+<q>For its defence and its police it would rely on African forces commanded by European volunteers.</q>
+
+<q>There would then be between Belgium and the new State only a personal bond. I am convinced that this union would be advantageous for the country, without there being the possibility of imposing any burdens on it in any case.</q>
+
+<q>If my hopes are realised, I shall find myself sufficiently rewarded for my efforts. The welfare of Belgium, as you
+know, gentlemen, is the object of my whole life.</q>
+
+<q>Leopold.</q>
+
+<p>There were a few obstructionists in the Belgian Parliament who, impelled by an habitual attitude of opposition to all that the dominant political party proposed, offered considerable criticism. They dis regarded the similar expedients adopted by Prussia, Holland, and Great Britain in reference respectively to Neuchatel, Luxembourg, and Hanover. But the spirit of the Belgian people favoured the King's suggestion, and his Majesty's Ministers stood firmly by him. When the vote was called on April 28, 1885, the Chamber passed the following resolution with but one dissentient:</p>
+
+<q>His Majesty, Leopold II., King of the Belgians, is authorised to be the chief of the State founded in Africa by the International Association of the Congo. The union between Belgium and the new State of the Congo shall be exclusively personal.</q>
+
+<p>The Senate two days later having passed a similar resolution, the King addressed the following acknowledgment to his Ministers:</p>
+
+<q>Gentlemen:&#8212;The Chambers, by voting almost unanimously the resolution that you submitted to them, have shown themselves convinced that at the same time that I was pursuing, in the general interest, the international African work, I had it at heart to serve the country, to contribute to the augmentation of its wealth, and to increase its reputation in the world. I have asked you to thank, in my name, the Chambers for the mark of high confidence which they have given me. I also beg of you to accept for yourselves the expression of my very sincere gratitude. Believe me, gentlemen, your very affectionate</q>
+
+<q>Leopold.</q>
+
+<p>Leopold II., King of the Belgians, had now be come Sovereign of the Congo Free State, a territory with a population estimated as five times larger than the Belgium which he had ruled since 1865. Many foreign bodies, philanthropic, scientific, and commercial, sent their congratulations; the Lord Mayor of London visited the King in state, and offered him the felicitations of the British metropolis, and all the Powers concerned in the Conventional Basin of the Congo expressed their satisfaction with this happy consummation of his Majesty's en lightened undertaking in Mid-Africa.</p>
+
+<p>What, by the Berlin Conference had been sanctioned, now assumed permanent form, organisation, and well-defined onward movement. There were still difficulties ahead, some of them with the State's neighbours, France and Portugal. Their early exactions may be regarded as symptomatic of that febrific goading which has now become the mania of lesser bodies elsewhere. Subsequent conventions with France and Portugal somewhat assured the Congo State that its onward march would not be obstructed by these Powers. On the other hand, the exalted views and edifying principles so generally prevalent at the Berlin Conference soon became stale and innocuous in the official mind of the other Powers who had subscribed to precepts which, from subsequent indifference or self-interest, were dis regarded. Not the least among the pledges of the Powers of the Berlin Conference was that designed to regulate the importation of alcohol. Consistent with the Christianising aims of its Sovereign, the Congo Free State has fulfilled this pledge in a manner to put its neighbours to shame for the large percentage of revenue they derive from a debasing liquor traffic.</p>
+
+<p>So if the young State started upon its progressive course in 1885-87, having paid a heavy price to France and to Portugal for freedom to develop under the government of the strong personality of its magnanimous Sovereign, it was perhaps because such a course would secure the Congo State to the Belgian nation in accordance with the preconceived purpose of its King. By the Congo-French Convention the basin of the <placeName key="riv.kou" n="mapped"><geogName type="basin">Kwilu</geogName></placeName> and the left bank of the Congo, from <placeName key="lak.sta" n="mapped"><geogName type="lake">Stanley Pool</geogName></placeName> as far north-eastward as its explorations had attained, were assigned to France. On the other hand, it insured to the Congo Free State what constitutes its outlet to the sea, the possession of the district of the Cataracts, and the towns of <placeName key="con.bom" n="mapped"><settlement type="city">Boma</settlement></placeName> and <placeName key="con.ban" n="mapped"><settlement type="city">Banana</settlement></placeName> at the mouth of the Congo. The Congo-Portuguese Convention assigned to Portugal territory south of the Congo as far as <placeName key="con.nok" n="mapped"><settlement type="city">Noki</settlement></placeName>, and along the parallel of Noki to its intersection by the river <placeName key="riv.kwe" n="mapped"><geogName type="river">Kwango</geogName></placeName>, which from that point was designated as the boundary in a southerly direction. The territorial assignments of these conventions were subsequently modified, and Germany and Great Britain have since acquired the large areas of the Congo Basin lying east of Lake Tanganyika and its parallel north and south.</p>
+
+</div2>
+
+<gap reason="sampling"/>
+
+</div1>
+
+</body>
+
+<back>
+<div1 type="notes">
+<note xml:id="n01">1. For full text of the treaties with Germany, Great Britain, France, and Portugal, and the Declaration exchanged with Belgium, see Appendix.</note>
+</div1>
+</back>
+
+</text>
+
+</TEI>

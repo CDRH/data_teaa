@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.033.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>New York Times, "In Foreign Lands"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+ 
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.con.033.01</idno>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<title level="a" type="main">In Foreign Lands</title>
+<title level="j">New York Times</title>
+<pubPlace>New York</pubPlace>
+<biblScope type="page">5</biblScope>
+<date when="1903-08-23">August 23, 1903</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="labels">
+<term/>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+ 
+<classCode scheme="original">
+<ref type="analysis" target="llg.con.033.02">Analysis</ref>
+</classCode>
+ 
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-09-16" who="#kln">Initial transcription and encoding.</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>In Foreign Lands</p>
+
+<p>Belgian Side of the Congo Controversy -- Union of Radical Factions of Germany in Sight -- Spain on the Eve of Political Regeneration.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>Defense of the Congo Free State.</p>
+
+<p>The reply to the note addressed by Great Britain to the signatory powers of the Berlin Act apropos of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName> is fully set forth in the latest number of "Le Bulletin Officiel de l'Etat Independent du Congo," certain passages of which have already been published. In the meantime the papers of Brussels state that the current attack upon the Congo administration is due to the fact that there is a conspiracy in England to prevent the Belgian Government fro acquiring for itself the Congo lands, which it can now do at any time according to an agreement made with King Leopold. The conspiracy, it is said, is bent upon frightening the Belgian legislators so that they will decline to saddle the State with new territory, the title to which would be so unsavory.</p>
+
+<p>Le Bulletin Officiel takes up three main lines: that the Congo State is independent of the Berlin Conference, that it has respected the Acts of Berlin and Brussels, and that any acts of cruelty have been unofficial and have been officially punished. Under the first head it says:</p>
+
+<p>"The Congo State is, by right and by fact, anterior to the Berlin Conference. It was founded before 1885 by the King of the Belgians by right of the priority of his occupations in the Congo basin, and that outside of the intervention, pecuniary or otherwise, of the powers. Under the name of the International Association of the Congo it concluded with the powers conventions on an equal footing before adhering to the Act of the Berlin Conference, and that adhesion itself, which it gave of its own sovereign initiative, constituted a new affirmation of its pre-existence as a State in the terms of Article 37 of the General Act of the Conference."</p>
+
+<p>Under the second head, dealing with freedom of commerce, it remarks: "These international obligations such as they result especially from the Acts of Berlin and of Brussels it has faithfully observed * * * The field of action in trade open to individuals in the Congo has never been and is not restricted; throughout the whole territory commerce can be carried on in what is legitimate, and in certain regions the State has even announced the exercise of its rights of proprietorship, far as it has been from organizing any excessive exploitation of the domain. To cite only one example, the Dutch Society, whose exportations in 1887 reached a total of nearly £30,000, exported in 1901 to the value of more than £120,000.</p>
+
+<p>While, finally, as to acts of cruelty: "Acts of violence have unhappily been committed on the natives in the Congo, as generally throughout Africa; the Congo State has never denied nor concealed them. The parti-pris of the detractors of the State is revealed by their representing these facts as the inevitable consequence of a bad system of administration, or by their declaring that the Government has tolerated them. Those Europeans who have been found guilty of these acts have been punished by the tribunals, and a certain number of them are actually paying in the prisons of the State for their breaches of the penal laws that protect the lives and persons of the natives. These cases have been exceptional, if allowance be made for the extent of the territory, and the proof is shown in the recent publications against the Congo State, which have been obliged, in order to prop up their accusation, to take up facts going back almost ten years, and even to have recourse to, among other testimonies, that of a commercial agent who was himself condemned for ill-treating the blacks."</p>
+
+<gap extent="eleven paragraphs" reason="sampling">
+<desc>remaining text not on the Congo Free State</desc>
+</gap>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.044.01">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>New York Times, "The Congo Free State"</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>Locating Lord Greystoke</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">llg.ber.044.01</idno>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">The Congo Free State</title>
+<title level="j">New York Times</title>
+<pubPlace>New York</pubPlace>
+<biblScope type="page">5</biblScope>
+<date when="1885-05-26">May 26, 1885</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Berlin Conference</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Newspaper</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Kasson, John A. 1822-1910</term>
+<term>Sanford, Henry Shelton, 1823-1891</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Congo Basin</term>
+<term>Congo River</term>
+<term>Lake Tanganyika</term>
+<term>Madagascar</term>
+<term>Zanzibar</term>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<classCode scheme="original">
+<ref type="analysis" target="llg.ber.044.02">Analysis</ref>
+</classCode>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2015-06-30" who="#kln">added places</change>
+<change when="2014-11-13" who="#kln">added subtype</change>
+<change when="2014-07-22" who="#kln">encoded transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document">
+
+<div2 type="titles">
+
+<p>The Congo Free State</p>
+
+<p>The Advantages Offered To This Country.</p>
+
+<p>The Work of the Conference and Good Results of This Government's Interference Told By Gen. Sanford.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>Gen. H. S. Sanford, of Florida, who with Minister Kasson represented the United States at the Congo conference, arrived from Europe on Sunday. He expressed himself yesterday as much gratified with the work of the conference and the part this Government had in the creation of the Free State of the Congo.</p>
+
+<p>"The result of the conference," he said, "will yet be acknowledged everywhere as one of the great works of the century. In Europe it is already recognized as its importance deserves. The same sentiment will doubtless prevail in this country when the proceeding is fully understood. It is especially gratifying that the conference may be said to be a result of the recognition by the United States of the flag of the International Association of the Congo. Without such recognition there was nothing in sight to prevent the consummation of the purpose of Great Britain and Portugal to close the mouth of the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName> to the free trade of the world, with the vast and fertile basin of which the Congo is the outlet. But recognition by this Government of the more liberal undertaking of the association led up to the concert between France and Germany of which the Berlin conference was the result."</p>
+
+<p>"Had you noticed the criticisms upon the course of this Government," the reporter asked, "in what was termed our interference in European affairs?"</p>
+
+<p>"Oh, yes; I have heard every objection, I believe," Gen. Sanford replied, "and I can only repeat that but for the recognition of the association by the United States the conference might not have been held. It may be called a consequence of that recognition. The association up to that time had only a private character. It was suggested and promoted by the King of the Belgians as far back as 1876. The relations I had formed when I was Minister to Belgium several years before led me to take an active interest in this philanthropic undertaking from its inception, when I was a delegate from the United States to the first conference,
+at Brussels in 1876. The first fruit of our effort toward opening equatorial Africa to civilization was the establishment of hospitable stations across Africa from the east coast at <placeName key="tan.zan" n="mapped"><geogName type="island"><country type="kingdom">Zanzibar</country></geogName></placeName> to <placeName key="lak.tan" n="mapped"><geogName type="lake">Lake Tanganyika</geogName></placeName>. When Stanley discovered the course of the Congo this new field was occupied by the King of the Belgians as an individual work for the association, and Stanley was employed to return up the river and carry out the work of the association under its flag. This work was enormous. It has cost the lives of many men and an expenditure of many millions, and the unparalleled result has been the opening up to tree trade and Civilizing Influences this vast basin of the African Mississippi. To fully complete this work required the protection of a recognized, legitimate flag for the hundreds
+of employes. Americans as well as Europeans, engaged in the work. When Gordon was offered the place of Governor there his reply was: "I must first have a flag, for I must kill people, for slave traders will die hard. My mission is the extinguishment of the traffic." It was indeed evident that without a duly recognized flag our countrymen. Stanley and others, in the event even of defending villages under the protective association from the raids of the slave traders, might become involved in serious difficulties.</p>
+
+<p>"It is a matter of pride that the United States Government was the first to lend its moral support to this great work of philanthrophy by the recognition of its flag. This example has now been followed by every power in Europe. This region had been discovered by one American citizen, Stanley. Another had been engaged in the work of organizing and developing it. Theoretically the United States, therefore, might be assumed to have some claims upon it, never, to be sure, asserted. It was but natural, therefore, that the United States should be invited to participate in a conference which was to complete the work of opening up this territory to civilization and commerce. And it appears to me eminently proper that it should be represented on such an occasion, and, moreover, that we should seek to secure thereby for our citizens equal rights and privileges with Europeans in equatorial Africa. And especially would it seem incumbent upon us not to be indifferent to this opportunity to secure in their fatherland, for our people of African descent, a full share of all those advantages which Europe was proposing to appropriate. There are here some 7,000,000 descendants of the slaves, mostly wrested from this region of the Congo and forced by British policy upon her unwilling American colonies. The contact of this race during the past three generations with American civilization has admirably fitted them for doing missionary work of civilization in Africa, where they would be leaders among those pagan and barbarous people."</p>
+
+<p>"What has the Conference secured?"</p>
+
+<p>"Under the general act of the Conference we have secured in common with other States entire freedom of trade and transit, and unrestricted access for our flag on the waters of the Congo and its affluents. We have helped secure the extinction of the slave trade in those regions, where until now hundreds of villages have been yearly burned and many thousands of people murdered to provide slaves for Eastern markets. Look at the matter in a commercial light. We are suffering from overproduction, and are seeking new markets. This region produces what we need and will take much that we can supply. The country contains 1,500,000 square miles and a negro population of from 50,000,000 to 60,000,000. They can furnish us ivory, gums, palm oil, oleaginous seeds of various kinds, and india rubber, which is failing in South America, and as their wants and industry increase, with other tropical products, such as coffee and sugar. Their wants now are few and simple. Experience shows, however, notably in South and East Africa and <placeName key="mad" n="mapped"><country type="colony">Madagascar</country></placeName>, where we have a virtual monopoly of the supply of cotton cloths, that the negro can be educated to a higher class of wants and therefore stimulated to labor as a means of supplying those wants.</p>
+
+<p>"A new State has thus been formed of the <placeName key="bas.con" n="mapped"><geogName type="basin">basin of the Congo</geogName></placeName>. Its territory is neutralized, an African Belgium, in fact; its boundaries are fixed, and the limits of the possessions of Portugal and France on either side as well. The Belgian Parliament has given the necessary provision to King Leopold II, to be the sovereign of the Free State of the Congo. And now commences a political existence for the International Association of the Congo, whose ruler's only object still continues to be to introduce freedom and civilization and equal privileges for all within its boundaries, endowing it for that purpose, as he continues to do, with a princely revenue. We have, under the general act of the conference, adhered to by the association, which has become a party thereto, all the advantages of a colonial possession in equatorial Africa without its incumbrances and charges. It remains for American capital and enterprise to secure a full share thereof for our commerce and manufactures."</p>
+
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>
