@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0006.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from Minister of Foreign Affairs to Under Secretary of State, February 6, 1890</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">fr.letter.0006</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from Minister of Foreign Affairs to Under Secretary of State</title>
+<date when="1890-02-06">February 6, 1890</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR ANOM</repository>
+<collection>Afrique VI</collection>
+<idno>193a St. Louis</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -72,15 +74,13 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Lawton, Francis</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>St. Louis, Senegal</term>
 
 </keywords>
     
@@ -102,11 +102,26 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Minister of Foreign Affairs</roleName>
+<placeName>Paris</placeName>
+<date when="1890-02-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Under Secretary of State</roleName>
+<placeName>St. Louis, Senegal</placeName>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +129,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160614_113734.jpg"/>
 
@@ -174,6 +189,66 @@ Sous. Secrétaire d'Etat aux Colonies.
 </ab>
 
 </div1>
+<div1 xml:lang="en" type="document">
+                
+                <pb facs="20160614_113734.jpg"/>
+                
+                <ab>
+                    MINISTRY
+                    of
+                    FOREIGN AFFAIRS
+                </ab>
+                
+                <ab>
+                    PROTOCOL
+                </ab>
+                
+                <ab>
+                    FRENCH REPUBLIC
+                </ab>
+                
+                <ab>
+                    Paris, February 6th         1890.
+                </ab>
+                
+                <p>
+                    Mister Under Secretary of State and dear colleague, I have
+                    the honor of informing you that Mr. Francis
+                    Lawton, has just been named Official Consulat
+                    of the United States in St. Louis (Senegal).
+                </p>
+                
+                <p>
+                    I hasten to transmit to you the Exequatur
+                    who confered to Mr. Lawton, and, I will be
+                    very obliged to you to send it to him
+                    by the intermediary of Mr. Governor of 
+                    Senegal, at least, nevertheless, that this last one only had <!-- not sure if translation is "only had" or "did not have"-->
+                    some objection to raise against this nomination.
+                </p>
+                
+                <p>
+                    Accept, Mister Under Secretary of State <!-- The end of this sentence is slightly cut off. Could be missing a comma. -->
+                    dear colleague, the new assurances of
+                    my highest consideration.
+                    
+                    <unclear/> <!-- Signature -->
+                </p>
+                
+                <note>
+                    <unclear/> <!-- There is writing in orange crayon from what I assume is an archivist -->
+                </note>
+                
+                <ab>
+                    M. 41
+                </ab>
+                
+                <ab>
+                    Mister Etienne,
+                    Under Secretary of State in the Colonies.
+                </ab>
+                
+            </div1>
 </body>
 </text>
 
