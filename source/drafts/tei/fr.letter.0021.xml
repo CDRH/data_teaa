@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0021.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from ___ to ____, January 24, 1862</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">fr.letter.0021</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from ___ to ____</title>
+<date when="1862-01-24">January 24, 1862</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR ANOM</repository>
+<collection>Afrique VI</collection>
+<idno>195a Gabon Congo </idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -72,14 +74,12 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<keywords scheme="viaf" n="people">
 <term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<keywords scheme="original" n="places">
 <term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
 
 </keywords>
@@ -102,11 +102,27 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName/>
+<placeName>Paris, France</placeName>
+<date when="1886-01-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName/>
+<placeName/>
+</correspAction>
+</correspDesc>
+
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed</change>
+<change when="2018" who="pr">Translated and encoded header information</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +130,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160614_110735.jpg"/>
 
@@ -195,6 +211,87 @@ Je nomme ci <unclear/> <unclear>Politique</unclear> le <unclear>peuple qui</uncl
 </p>
 
 </div1>
+<div1 xml:lang="en" type="document">
+                
+                <pb facs="20160614_110735.jpg"/>
+                
+                <ab>
+                    1st Office
+                </ab>
+                
+                <ab>
+                    on the subject of french
+                    <unclear>in Gabon</unclear> of a commercial
+                    agency of <unclear>three</unclear>
+                    <unclear>mur</unclear>
+                </ab>
+                
+                <ab>
+                    Paris January 24th 1862
+                </ab>
+                
+                <ab>
+                    <unclear>Voir</unclear>
+                    for the Direction of the Movements
+                    <unclear/> <unclear>Mitrané</unclear>
+                </ab>
+                
+                <p>
+                    I am preventing myself from responding to the <unclear>more de 21</unclear>
+                    of this <unclear/> by which <unclear/> Chief of <unclear>state Major</unclear>
+                    <unclear>of the Minister Mangé of the 5th Direction</unclear>, a <del><unclear>consulate on</unclear></del> <unclear/>
+                    <unclear>ay puisque sa</unclear> <del><unclear>of which</unclear></del> <add><unclear>letter</unclear> <unclear/> <unclear/></add> <unclear/> <unclear>prepare </unclear> <unclear/>and <del><unclear>for your nomination</unclear></del>
+                    <del><unclear>Donne lettre de</unclear> <unclear/> <unclear/> <unclear>Didelot</unclear></del> <unclear>connu-ans</unclear> l'arrive au
+                    Gabon <unclear>sur du</unclear> Francis May, <del><unclear>envoyer quelque</unclear></del> <add><unclear>envoyer complétement</unclear></add> <unclear/> commercial
+                    de <unclear>hats</unclear> <unclear/> <unclear>d'an ceu</unclear> <unclear/>.
+                </p>
+                
+                <p>
+                    Mon Collègue, <unclear>eu</unclear> <del><unclear>mission aux</unclear></del> <add><unclear>missionary dans ce peuple</unclear></add> <unclear>sur la</unclear> <unclear/>?
+                    <unclear>début ultimately diplomatique régulière  pour la récompense</unclear>
+                    de <unclear>cet agence dans</unclear> le <unclear>Vive qui lui </unclear> a été <unclear>attribué par le</unclear>
+                    <unclear>Mission des Affaires Etrangers</unclear> de Washington, appelle
+                    l'<unclear>attention</unclear> de M. <unclear/>  <unclear>des temps sur la</unclear> <unclear/> que
+                    <unclear>pourvue</unclear> M le Chef <unclear>de la marche du Côte</unclear> <unclear/>
+                    d'Afrique à <unclear>désirer</unclear> que la <unclear/> <unclear>quoi foundation</unclear> <unclear/> <unclear>pour</unclear> M. May
+                    <unclear>besoin peu accueille</unclear> la <unclear>fort français</unclear>.
+                </p>
+                
+                <p>
+                    Je <unclear>me</unclear> <unclear/>, <unclear>et</unclear> ce qui une <unclear/>
+                    <unclear/>les<unclear/> <unclear/> à <unclear>cet quoi,</unclear> <unclear/> <unclear/> de <unclear/> <unclear>24 Didelot</unclear>
+                    <unclear>et accueillir par Monsieur le</unclear> <unclear/> <unclear>de la</unclear><unclear/>. Je me
+                    <unclear/> <unclear>elle que</unclear> <del><unclear/> le <unclear/> du monde <unclear>du</unclear></del>
+                    <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <del>le faire de la</del> <add><unclear/> <unclear/></add>
+                    <unclear/> d<del><unclear/></del> au Gabon <unclear/> <unclear>agent occidental pour</unclear> Gabon
+                </p>
+                
+                <pb facs="20160614_110757.jpg"/>
+                
+                <p>
+                    Manquer, et je <unclear>considerait comme vient</unclear> <unclear/> <unclear>de</unclear> <unclear/> <unclear/>
+                    à une <unclear/> <unclear>amie le</unclear> <unclear/> <unclear>du </unclear> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/>
+                    <unclear>qu'elle</unclear> <unclear/> <unclear/> <unclear/> <unclear/> à <unclear/>
+                    <unclear/> <unclear/> <unclear/> <unclear/> <unclear>la</unclear> <unclear/>. <unclear>Je serai donc</unclear>
+                    <unclear>du Boni</unclear> <unclear/> <unclear/> <unclear/> <unclear/>
+                    <del><unclear>dans decembre le objection</unclear></del> <unclear>précéder du Didelot</unclear>
+                    de <unclear/> <del><unclear/> <unclear>à M le Ministre qui faire manger le</unclear></del>
+                    <unclear>soit de donner au l'agent</unclear> <unclear/> <unclear/> <unclear/>
+                    <unclear>regularité d'Afrique</unclear> <del><unclear>quelque chose</unclear></del> <unclear>justesse la</unclear> <unclear/> <del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del>
+                    <del><unclear/></del> <unclear>le monde nagée en penal cas.</unclear>
+                </p>
+                
+                <p>
+                    Je nomme ci <unclear/> <unclear>Politique</unclear> le <unclear>peuple qui</unclear> <unclear/> <del><unclear>objet</unclear></del>
+                    <del><unclear/></del> <unclear>nommé</unclear> <unclear/>
+                    <unclear>et la </unclear> <unclear/> <unclear>de valoir la </unclear> <unclear/> <unclear>décor qu'il</unclear>
+                    <unclear/> <unclear>de la</unclear> <unclear/> <unclear>l'inhibition de la</unclear> <unclear/>
+                    <unclear/> <unclear>consul</unclear> <unclear/> <unclear>dans aux</unclear> colonies français.
+                    
+                    <unclear/> <!-- Signature -->
+                </p>
+                
+            </div1>
 </body>
 </text>
 
