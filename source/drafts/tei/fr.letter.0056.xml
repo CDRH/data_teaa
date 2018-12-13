@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0056">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<title>Letter from the Minister to ________, Undated</title>
 <!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,14 +44,16 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from the Minister to ________</title>
+<date/>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR ANOM</repository>
+<collection>Afrique VI</collection>
+<idno>8 Liberia</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
@@ -72,15 +75,25 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Mr. Bouet Willamez</term>
+<term>Hoham</term>
+<term>Hotham</term>
+<term>Mr. ChaigneaU</term>
+<term>Mr. le Cape de Visseau Boudin</term>
+<term>Mr. Montag</term>
+<term>Mr. Montagniès de la Roque</term>
+<term>President</term>
+<term>Vice President</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Albréda</term>
+<term>France</term>
+<term>Liberia</term>
+<term>Monrovia Colony</term>
+<term>United States</term>
 
 </keywords>
     
@@ -102,11 +115,27 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Minister</roleName>
+<placeName>Liberia</placeName>
+<date/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName/>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2018" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +143,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160613_162519.jpg"/>
 
@@ -433,6 +462,329 @@ de vouloir bien <del><unclear/> <unclear/> <unclear/></del> <del><unclear>mal é
 Salut et fraternité
 <unclear/> <!-- Signature -->
 (ministre)
+</p>
+
+</div1>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160613_162519.jpg"/>
+
+<ab>
+<unclear/> to independence
+<supplied>Liberia</supplied>
+</ab>
+
+<p>
+<del>Over the course of the month of August 1849</del> The
+colony of Monrovia, founded, on the west coast
+of Africa by a piety of the American Union,
+to serve as a second homeland for the africans taken by
+the slave traders by American cruisers and, in general
+for all, colored men from the United States, declared
+itself independent of this society and <unclear>s'été</unclear> <unclear/>
+the State <unclear/>, under the name of Republic of
+Liberia.
+</p>
+
+<p>
+<del>At the same time</del> A constitution, noted, the preceding 
+July 29th, <unclear>for</unclear> for the representatives of the colonies, was
+<unclear/> with precision. <unclear>A</unclear> virtue of this fundamental coast,
+the executive power of the new republic must
+be composed of a President and a Vice President,
+<unclear/>, in a unanimous vote, for two years. The legislative
+power resides in two <del><unclear/></del> assemblies, the senate
+and the chamber of representatives.
+</p>
+
+<p>
+In a first <unclear/>, held in Monrovia
+<del>de</del> during the months of January and February 1848,
+the Senate and the Representatives  <unclear>renduit</unclear> a certain
+number of decrees. <del><unclear>dont il qui laquelle</unclear> <unclear/> <unclear/></del> nous en <del><unclear>être</unclear></del> mention nous
+<del><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/></del> <unclear>d'empre</unclear><del><unclear/></del>
+<del><unclear/></del>
+</p>
+
+<p>
+<unclear>July 24th 1848</unclear> <unclear/> <unclear/> <unclear/>
+</p>
+
+<pb facs="20160613_162525.jpg"/>
+
+<p>
+<del><unclear>La</unclear> <unclear/></del>The one, qui brings the date of <unclear>January 28th 1848</unclear>,
+decides that the commerce of all the nations <unclear>will make<unclear/>
+a treaty with the most complete equality, and
+be un full possession of the same privileges and of the same protection
+in the whole extent of the territory of the republic.
+However the republic reserves it to be modified later
+on. If there is place, this disposition, </unclear> the
+treaties of commerce.
+</p>
+
+<p>
+The other decree, returned on the date of February 1st, contains
+the description of the limits of the new State. <unclear>There is</unclear>
+said that the territory of the republic spreads over the entire
+line of the coast included between the big <unclear>Cape</unclear>
+monte,in the north west, and the <unclear>big letter</unclear> in the
+south east, in expectance however of some points <unclear/>
+of little importance.
+</p>
+
+<p>
+On September 2nd 1847 the government of Liberia
+officially notified Mr. Chaigneau, french lieutenant
+cammander of war bougainville, in 
+station at this point, the declaration of independence
+<supplied>colony</supplied>, <del>de <unclear/></del> and <del>it</del> addressed, <del><unclear>to the</unclear></del> to this officer, a counterpart of
+the constitution and a map of the territory of the
+republic.
+</p>
+
+<p>
+In transmitting <del> <unclear/> <unclear/> </del>these documents to the minister
+of the navy and the colonies, Mr. Montag niés of the
+Rogue, <unclear/> commander of the french naval
+division employed at the repression of the treaty of the
+<unclear/>, informed that , already, the commodore
+</p>
+
+
+<pb facs="20160613_162533.jpg"/>
+
+<p>
+Hoham, chief of the english station on the
+west coast of Africa, gave the order
+to the one <del><unclear/></del> of the british cruisers to
+recognize the republic of Liberia, and to
+recognize the flag. The commodore <del> who <unclear/></del>
+placed at the head of the station of the United States, had
+made the same manifestation.
+</p>
+
+<p>
+As for the commander of the french division
+he<unclear>remained on</unclear> the reserve and he demanded the
+instructions of the gouvernement.
+</p>
+
+<p>
+There could be a difficulty to raise before
+all. Here is what it consists of: on the map <del><unclear/></del>
+<del>au <unclear>capitain</unclear> <unclear/> <unclear/></del> of the territory of the
+republic that was <unclear/> to captain chaigneau,
+there are three points on which France has the rights
+à faire voloir: The includes: l'<unclear/> <unclear>of the fishermen, situated</unclear>
+near the big <unclear>Baffa</unclear>; the big Boutul and
+<unclear/>. These last two <unclear>en clares</unclear> can not
+make the subject of an expected contestation that the
+government of Liberia recognizes that it <supplied>belongs</supplied>
+to France.# But the position of the <unclear/> of the <supplied>Fishermen</supplied>
+<unclear>is</unclear> different. This little territory is under the domination
+of the Chief Big Water, with whom we made a 
+treaty, <del><unclear>and</unclear></del> who <unclear>considers</unclear> it as submitting to France,
+who declares to not want to accept the sovereignty <supplied>of</supplied>
+the republic of Libreria.  On its side the <supplied>government</supplied>
+of this State pretends that the territory, occupied by <unclear>Big</unclear>
+</p>
+
+<ab>
+marking elsewhere that, speaking the decree of the
+<unclear><supplied>to pray</supplied></unclear>, cited above, that which <unclear>en</unclear> posterior
+<unclear/> of the map <unclear>returned</unclear> to Mr.
+<unclear><supplied>Chaigneau</supplied></unclear>, the South <unclear>Eastern</unclear> border of Liberia
+<unclear/> place in the big <unclear/>, and that
+<unclear/> <unclear/> eu <unclear/> of this limit.
+</ab>
+
+<note>
+when? where is it?
+</note>
+
+<note>
+is in the hands of Mr.
+</note>
+
+<note>
+in 1842
+</note>
+
+<pb facs="20160613_162546.jpg"/>
+
+<p>
+was purchased in 1834 by the colony of Monrovia, and was lost to me since <del><unclear/></del> in
+1836 by the force of arms.
+</p>
+
+<p>
+The question is to know if it is in our interest
+to maintain our rights on the angle of the Fishermen
+Mr. Montagniès of the Rogue <unclear/> that this point is
+advantageuous, either for forming there a deposit of coal
+or for founding there a <unclear>factory</unclear> <unclear>Il a jointe that we</unclear>
+must not abandon the points that belong
+to us before the strangers <unclear/>
+themselves renounce to the trading posts that they <unclear/>
+<del><unclear/> <unclear/> <unclear/></del> on the territory of the
+republic, last he believes that it is important to <del><unclear/></del>
+<del><unclear/> <unclear/></del> keep these <unclear>divisions</unclear> as
+means of engaging the government of Liberia to
+favorably treat our commerce.
+</p>
+
+<p>
+Mr <unclear>Captain of vailleou Bouet Willamez</unclear>, in the special
+light of who the department of the navy 
+appealed, thinks that our rights of property and of <unclear/>
+on the three points designed above, are certain
+but, in his opinion, rather than contrasting
+rigorously our rights with the government of
+Monrovia, maybe it would be preferable to
+not trouble it in the action <unclear>civilisatrice</unclear> that it
+is exercising on the coastline under its authority.
+</p>
+
+<note>
+Je <unclear>suis</unclear> <unclear/> de
+<unclear/> à le <unclear/>
+<unclear>pour faire de</unclear> <unclear/> <unclear>en</unclear>
+ce qui <unclear/> <unclear/>
+de <unclear/>
+</note>
+
+<note>
+<unclear/> <unclear>nom le haité</unclear> <unclear/> <unclear/>
+<unclear/> <unclear>pour</unclear> <unclear/> <unclear>le doit d'occupation 2</unclear>
+Mr. Bouet <unclear>a promis</unclear> de le chercher et de nous le <unclear>remettre.</unclear>
+</note>
+
+<pb facs="20160613_162603.jpg"/>
+
+<ab>
+<unclear>Beau</unclear> <unclear/> <unclear/> <unclear>26</unclear>
+</ab>
+
+<ab>
+On the subject of the declaration of independence
+of the republic of Liberia.
+</ab>
+
+<ab>
+R.
+of the citizen
+</ab>
+
+<ab>
+Paris, <del>July</del> September 13th 1848
+</ab>
+
+<ab>
+<del><unclear/></del> minister of foreign affairs
+</ab>
+
+<p>
+Citizen minister and dear colleague,
+
+The colony of Monrovia, founded in June
+1822, on the west coast of Africa, by an
+american society, to serve d'<unclear/> the
+men of color liberated in the United States,
+declared itself independent of this society, in
+august 1847, and constituated itself as a sovereign state,
+under the name of Republic of Liberia.
+</p>
+
+<p>
+The following September 2nd, the government
+of Liberia officially notified Mr.Chaigne,
+commander of the french war ship,
+Bougainville, in station at this point, the
+declaration of independance of the colonies; and
+he <unclear>addressa</unclear> at the same time to this officer a counterpart of the
+voted constitution, the preceding July 29th, and a
+map of the territory of the republic.
+</p>
+
+<p>
+In transmitting, on February 29th 1848, these documents
+to the minister of the navy and the colonies, the
+commander of the french naval forces on
+</p>
+
+<note>
+fr.
+</note>
+
+<pb facs="20160613_162610.jpg"/>
+
+<p>
+the west coast of Africa informed that
+the commodore Hotham, in the name of the British
+government, and the american <del>english</del> officer, placed
+at the head of the station of the United States recognized
+the republic of Liberia and that they gave
+the order to recognize its flag.
+</p>
+
+<p>
+Mr. Montagniés de la Roque abstained
+from making the same manifestation until he
+had received the instructions of the government.
+</p>
+
+<p>
+My opinion is that there is place to prescribe à son
+<unclear>successor</unclear> Mr. le cape. de vaisseau Boudin to
+proceed immediately with the recognition of
+the new republic. Mr. Montagniés de la
+Roque only saw one difficulty with that. It consists
+in what the chief of an African village, isolated
+in the limits of the territory of the republic, 
+concluded, in 1848, with the officer who cammanded
+the french station, a treaty in vitue of which
+this chief considered as the subject of France and
+declared to not want to <del><unclear/></del> accept the
+laws of the government of Liberia.
+</p>
+
+<p>
+I do not believe that there are <del><unclear/></del>  reservations <del><unclear/></del>
+to make on the subject of this incident. The government of Liberia
+fills, on the African coast, a <unclear/> of
+civilization that it is dignified of the french republic
+</p>
+
+<pb facs="20160613_162617.jpg"/>
+
+<p>
+to encourage. Furthermore <del><unclear/></del> the interest <del><unclear>under command</unclear></del> of our commerce
+to enter, without delay, in official relations with
+this state so that the governments of England 
+and America do not make the accord at all, in
+our absence, of the commerical privileges that will not
+be equally accorded to us. Last the reminder of the predicament <del>qu</del> that we aroused <del>à la politique</del> on the coast
+<del>french</del> of africa the enclaves such <del><unclear>que</unclear></del> as Albréda,
+<unclear>en Porterdick</unclear> <del><unclear>et</unclear></del>, must, it seems to me, move away from us
+to do nothing <del><unclear>puis pas</unclear> <unclear/></del> that could appeal to us,
+<del><unclear>gratuitement</unclear></del> the difficulties of the same war.
+</p>
+
+<p>
+I urge you, citizen minister and dear colleague
+<del><unclear>des</unclear> <unclear/> <unclear/></del> to inform me of your opinion on
+the question. If you think, like me, that there <del><unclear>est</unclear></del><unclear>y</unclear>
+<del>argent</del> is place <del><unclear/> <unclear/></del> to recognize the
+republic of Liberia, <del><unclear/></del> I would be obliged to you
+to <del><unclear/> <unclear/> <unclear/></del> <del><unclear>mal écrire</unclear></del> <unclear/> me the <unclear/> that you
+<del>so that I can give, without delay, the orders</del> <unclear>generation-must take with these words the commander</unclear>
+<del><unclear/></del> <unclear/> <unclear/> <unclear/> naval.
+
+Salvation and Fraternity
+<unclear/> <!-- Signature -->
+(minister)
 </p>
 
 </div1>
