@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 <name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
@@ -111,7 +112,8 @@
 <date when="1889-12-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Mr. Lieutenant Governor</persName>
+<persName/>
+<roleName>Mr. Lieutenant Governor</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
@@ -120,7 +122,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn"> Transcribed and ecoded.</change>
+<change when="2017" who="nn"> Transcribed.</change>
+<change when="2018" who="pr"> Translated.</change>
 <change when="2018-11-29" who="sab">Encoded header information.</change>
 </revisionDesc>
 </teiHeader>
@@ -175,7 +178,7 @@ Liberia
 
 </div1>
 
-    <div1 xml:lang="en" type="document">
+    <div1 xml:lang="en" type="translation">
                 
                 <pb facs="20160613_105513.jpg"/>
                 
@@ -212,7 +215,7 @@ Liberia
                     with the Republic <supplied>of</supplied><!-- picture is cutoff here, likely would say 'de' -->
                     Liberia
                     <!-- The following salutation is technically positioned on the same line as line 146 ('négouation qui...') of this file -->
-                    <unclear>Rouag</unclear> — <unclear>C. l. p. ol.</unclear> <!-- Signature -->
+                    <unclear>Reuny</unclear> — <unclear>C. l. p. ol.</unclear> <!-- Signature -->
                 </p> 
                 
                 <note>

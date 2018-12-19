@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 <name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
@@ -49,7 +50,7 @@
 <msIdentifier>
 <repository>FR ANOM</repository>
 <collection>Guinee V 1 VI 1-6</collection>
-<idno>1506 COL 2</idno>
+<idno> 1506 COL 2</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -105,10 +106,25 @@
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName/> 
+<placeName>Paris, France</placeName>
+<date when="1890-01-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Mr. Lieutenant Governor</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed and encoded.</change>
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="pr">Translated.</change>
 <change when="2018-11-29" who="sab">Encoded header information.</change>
 </revisionDesc>
 </teiHeader>
@@ -197,7 +213,8 @@ Col/131
 
 </div1>
 
-<div1 xml:lang="en" type="document">
+<div1 xml:lang="en" type="translation">
+
                 <pb facs="20160613_105538.jpg"/>
                 
                 <ab>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0014">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from the Governor to the Minister, December 6, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0014</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,14 +43,16 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from the Governor to the Minister</title>
+<date when="1883-12-06">December 6, 1883</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR ANOM</repository>
+<collection>Afrique VI</collection>
+<idno>193a St Louis</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
@@ -72,15 +74,15 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Governor</term>
+<term>Minister</term>
+<term>Strickland, Pierre</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Saint-Louis</term>
 
 </keywords>
     
@@ -102,11 +104,26 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<roleName>The Governor</roleName>
+<placeName>Saint-Louis</placeName>
+<date when="1883-12-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<roleName>The Minister</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2018" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +131,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160614_114444.jpg"/>
 
@@ -203,6 +220,97 @@ Cl <!-- Written in what appears to be pencil near the top center margin. -->
 </note>
 
 </div1>
+
+ <div1 xml:lang="en" type="translation">
+
+                
+                <pb facs="20160614_114444.jpg"/>
+                
+                <ab>
+                    GOVERNMENT
+                    of Senegal
+                    AND
+                    Dependents
+                </ab>
+                
+                <ab>
+                    SECRETARIAT
+                </ab>
+                
+                <ab>
+                    Colonies
+                    1st Division
+                </ab>
+                
+                <ab>
+                    1st Office
+                </ab>
+                
+                <ab>
+                    <unclear>N.</unclear>1718
+                </ab>
+                
+                <ab>
+                    ANALYZE:
+                    <supplied>Charged</supplied> with reception of <!-- Image is cut off before the 's' in 'sé'. -->
+                    <supplied>Exequatur</supplied> accorded to Mr. <!-- Image is cut off before the 'u' in 'uatur'. -->
+                    <supplied>Strickland</supplied>. <!-- Image is cut off before the 't' in 'trickland'. Likely says 'Strickland'. -->
+                </ab>
+                
+                <ab>
+                    Saint - Louis, December 6th 1883.
+                </ab>
+                
+                <p>
+                    Mister Minister,
+                    
+                    By dispath of November 20th of last,
+                    Number 1475, you sent to me the exequatur
+                    accorded to Mr. Pierre Strickland, named
+                    Consul of the United States of America in Gorée.
+                </p>
+                
+                <p>
+                    I have the honor of charging you with reception of
+                    this unit that was sent to Gorée to
+                    be returned to those concerned.
+                </p>
+                
+                <p>
+                    I am, with the most profound respect,
+                    Mister Minister,
+                    your very obedient servant
+                    
+                    The Governor,
+                    <unclear/> <!-- Signature -->
+                </p>
+                
+                <ab>
+                    To Mister Minister of the Navy and the Colonies
+                </ab>
+                
+                <note>
+                    f.293/29-<unclear>alie</unclear> <!-- Written in ink near the top center margin. -->
+                </note>
+                
+                <note>
+                    Col.
+                    234 4 3 <!-- Written in red ink near the top center margin. -->
+                </note>
+                
+                <note>
+                    Cl <!-- Written in what appears to be pencil near the top center margin. -->
+                </note>
+                
+                <note>
+                    <unclear/> <!-- There is what appears to be a scribble in the top center margin -->
+                </note>
+                
+                <note>
+                    <unclear/> <!-- What appears to be a scribble is written near the upper left margins. Possibly written by an archivist. -->
+                </note>
+                
+            </div1>
 </body>
 </text>
 

@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 <name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
@@ -43,7 +44,7 @@
 <sourceDesc>
 <bibl>
 <title level="m">Letter from Jean Bayol, to the Under Secretary of State</title>
-<date when="1889-08-14">August 14, 1889</date>
+<date when="1890-04-04">August 14, 1889</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -79,8 +80,8 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Port Novo</term>
 <term>Africa</term>
+<term>Port Novo</term>
 <term>Senegal</term>
 <term>South Rivers</term>
 
@@ -108,9 +109,9 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Etienne</persName>
-<placeName>Paris, France</placeName>
-<date when="1889-08-14"/>
+<persName>Jean Bayol</persName>
+<placeName>Senegal</placeName>
+<date when="1890-04-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName/>
@@ -122,8 +123,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2018-11-29" who="sab">Encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -216,6 +218,7 @@ Ministère du Commerce, de Industrie et des Colonies.
 </div1>
 
 <div1 xml:lang="en" type="document">
+
                 <pb facs="20160613_105556.jpg"/>
                 
                 <ab>
