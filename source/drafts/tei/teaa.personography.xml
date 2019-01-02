@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.personography">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">TEAA Personography</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>encoding</resp>
+<name n="Jones, Jeannette Eileen, 1970-" xml:id="jej">Jeannette Eileen Jones</name>
+</respStmt>
+<sponsor>National Endowment for the Humanities</sponsor>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+</titleStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.personography</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+</fileDesc>
+
+<revisionDesc>
+<change when="2019">Initial encoding</change>
+</revisionDesc>
+</teiHeader>
+<text>
+
+<body>
+
+<div1 type="list">
+
+<listPerson>
+
+<person xml:id="per.000000">
+<persName type="display">Unknown Individual</persName>
+</person>
+
+
+<!--
+
+HERE ARE ALL THE ELEMENTS YOU MAY WANT TO USE TO DESCRIBE A PERSON. NOT ALL OF THEM HAVE TO BE USED; DELETE THE ONES YOU DO NOT WANT. 
+
+NOTES:
+ - change full="yes" to full="init" if a person only has initials in their name.
+ - keep source short. we may want to create abbreviations for often cited sources. let me know.
+
+<person xml:id="per.000001">
+<persName type="display"></persName>
+<persName type="full"><surname></surname>, <forename type="first" full="yes"></forename> <forename type="middle" full="init"></forename> <addName type="honorific"></addName></persName>
+<birth when="yyyy-mm-dd" source=""><placeName></placeName></birth>
+<death when="yyyy-mm-dd" source=""><placeName></placeName></death>
+<residence source="" from="yyyy-mm" to="yyyy-mm"><placeName></placeName></residence>
+<occupation source="" from="yyyy-mm" to="yyyy-mm"></occupation>
+<trait type="race" source=""><ab></ab></trait>
+<sex source=""></sex>
+<nationality source="" notAfter="" notBefore=""></nationality>
+<faith source=""></faith>
+<affiliation source="" from="yyyy-mm" to="yyyy-mm"></affiliation>
+<idno type="viaf"></idno>
+<note></note>
+</person>
+
+-->
+
+
+
+
+</listPerson>
+
+</div1>
+
+</body>
+</text>
+</TEI>
