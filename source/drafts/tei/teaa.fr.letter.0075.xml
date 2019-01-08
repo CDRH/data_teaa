@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0075.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from Vessel Captain to Secretary of State of the Navy and Colonies, May 20, 1840</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">fr.letter.0075</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from Vessel Captain to Secretary of State of the Navy and Colonies</title>
+<date when="1840-05-20">May 20, 1840</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR ANOM</repository>
+<collection>Senegal VI</collection>
+<idno>6b Etats Unis</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -72,15 +74,15 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term/>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Goree</term>
+<term>Saint Louis</term>
+<term>Senegal</term>
 
 </keywords>
     
@@ -102,11 +104,25 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Vessel Captain</roleName>
+<placeName>Saint Louis</placeName>
+<date when="1840-05-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Secretary of State of the Navy and Colonies</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +130,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160614_144903.jpg"/>
 
@@ -225,6 +241,122 @@ obèissant serviteur
 
 Le Capitaine de Vaisseau
 Gouverneur.
+
+<unclear>Charmesem</unclear> <!-- Signature -->
+</p>
+
+</div1>
+<div1 xml:lang="en" type="document">
+
+<pb facs="20160614_144903.jpg"/>
+
+<ab>
+Government
+of Senegal
+and Dependants
+</ab>
+
+<ab>
+No 155.
+</ab>
+
+<ab>
+Direction
+of the Colonies.
+</ab>
+
+<ab>
+Office
+of the Political regime
+and commerce.
+</ab>
+
+<ab>
+relatively on the rights
+of tonnage to impose
+on the american vessels
+in Gorée.
+</ab>
+
+<ab>
+Saint Louis, May 20th 1840
+</ab>
+
+<p>
+Mister Minister
+
+After having taken the opinion of the committees of commerce of
+Saint Louis and Gorée, I submitted to the council the question
+posed by your dispatch from October 11th. 1838. 110. 231. The committees and the
+majority of the council were of the opinion to use reciprocity with
+the Americans, and to ask for a dollar per barrel the right
+of anchorage to perceive on theirs vessels. This opinion is not
+my own, and here are the motives on which it is based.
+</p>
+
+<p>
+It is not in the interest of the treasury that the American
+Government struck the right of a dollar per barrel from the French
+vessels coming from Senegal. They receive so little from this
+origin; that this augmentation of revenue can not be sensible
+The americans, displeased with what we reject them from
+Sénégambie, wanted to use reprisals as much as they
+could; they thought that to protect us from a costly
+right, we would make to them some concessions. The American
+Government will not reduce its right of anchorage, which is not
+expected. The injust measures strain too much the reason for
+which they are not firstly long and hard reflected upon.
+</p>
+
+<p>
+If we wear from one franc, per dollar the right
+of anchorage in Gorée, is it not to be feared that the americans
+will again augment that which they striked from our vessles: in
+addition, the vessels of the union that only rest in Gorée 
+to leave there a weak part of their cargo, will stop
+in all probability going there if we rest true to the 
+principle.
+</p>
+
+<ab>
+To His Excellence the Minister Secretary of State
+of the Navy and the Colonies.
+</ab>
+
+<note>
+Saint Louis
+</note>
+
+<note>
+Sre arrived
+June 11th 1840
+</note>
+
+<note>
+Written to Mr
+P.C. Governor of Senegal
+N. 155 August 17th 1841 No 25
+</note>
+
+<pb facs="20160614_144929.jpg"/>
+
+<p>
+Principle of reciprocity; thus the population will have a new
+port to add to all to go that it already made.
+</p>
+
+<p>
+I am with respect
+
+Mister Minister
+
+of Your Excellence
+
+The very humble and very
+obediant servant
+
+The Captain of Vaisseau
+Governor.
 
 <unclear>Charmesem</unclear> <!-- Signature -->
 </p>
