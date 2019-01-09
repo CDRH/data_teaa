@@ -71,6 +71,7 @@ NOTES:
 <birth when="yyyy-mm-dd" source=""><placeName></placeName></birth>
 <death when="yyyy-mm-dd" source=""><placeName></placeName></death>
 <residence source="" from="yyyy-mm" to="yyyy-mm"><placeName></placeName></residence>
+<socecStatus source="" from="yyyy-mm" to="yyyy-mm">enslaved</socecStatus>
 <occupation source="" from="yyyy-mm" to="yyyy-mm"></occupation>
 <trait type="race" source=""><ab></ab></trait>
 <sex source=""></sex>
@@ -109,6 +110,30 @@ NOTES:
 <note></note>
 </person>
 
+<person xml:id="per.000002">
+<persName type="display">Henry Highland Garnet</persName>
+<persName type="full"><surname>Garnet</surname>, <forename type="first" full="yes"></forename>Henry<forename type="middle" full="yes">Highland</forename> <addName type="honorific">Dr.</addName></persName>
+<birth when="1815-12-23" source="https://blackpast.org/aah/garnet-henry-highland-1815-1881"><placeName>Maryland</placeName></birth>
+<death when="1882-02-13" source="https://www.britannica.com/biography/Henry-Highland-Garnet"><placeName>Monrovia, Liberia</placeName></death>
+<residence source="https://blackpast.org/aah/garnet-henry-highland-1815-1881" from="1815-12" to="1824"><placeName>Maryland</placeName></residence>
+<residence source="https://blackpast.org/aah/garnet-henry-highland-1815-1881" notAfter="1881" notBefore="1824"><placeName>New York City, New York</placeName></residence>
+<residence source="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/bios/Garnet__Henry_Highland" from="1868" to="1870"><placeName>Pittsburgh, Pennsylvania</placeName></residence>
+<residence source="https://blackpast.org/aah/garnet-henry-highland-1815-1881" from="1881" to="1882"><placeName>Monrovia, Liberia</placeName></residence>
+<socecStatus source="https://blackpast.org/aah/garnet-henry-highland-1815-1881" from="1815-12" to="1824">enslaved</socecStatus>
+<occupation source="https://blackpast.org/aah/garnet-henry-highland-1815-1881" from="1841" to="1881">clergyman</occupation>
+<occupation source="https://blackpast.org/aah/garnet-henry-highland-1815-1881" from="1841" to="1864">abolitionist</occupation>
+<occupation source="https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/bios/Garnet__Henry_Highland" from="1868" to="1870">President of Avery College</occupation>
+<occupation source="https://history.state.gov/departmenthistory/people/garnet-henry-highland" from="1881-06-30" to="1882-02-13">U.S. Minister Resident/Consul General of Liberia</occupation>
+<trait type="race" source="https://blackpast.org/aah/garnet-henry-highland-1815-1881"><ab>Black</ab></trait>
+<sex source="https://blackpast.org/aah/garnet-henry-highland-1815-1881">male</sex>
+<nationality source="https://blackpast.org/aah/garnet-henry-highland-1815-1881" notAfter="1882" notBefore="1815">United States</nationality>
+<faith source="https://blackpast.org/aah/garnet-henry-highland-1815-1881">Presbyterian</faith>
+<affiliation source="https://blackpast.org/aah/garnet-henry-highland-1815-1881" from="1832" to="1841">First Colored Presbyterian Church, New York</affiliation>
+<affiliation source="https://blackpast.org/aah/garnet-henry-highland-1815-1881" from="1843" to="1843">National Negro Convention</affiliation>
+<affiliation source="https://www.britannica.com/biography/Henry-Highland-Garnet" notAfter="1849" notBefore="1839">American Anti-Slavery Society</affiliation>
+<idno type="viaf">https://viaf.org/viaf/818337/</idno>
+<note></note>
+</person>
 
 </listPerson>
 
