@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0255">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription, translation, and encoding</resp>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0255</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 217, Liasse 120</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-01-16" who="kln">renamed file, inserted correct header template, organized file</change>
+<change when="2017" who="KCD">Corrections, marked up. </change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="teaa.fr.letter.0255.001.jpg"/>
+
+<ab><unclear></unclear> annexe<lb/>
+Copie de la lettre de
+M. Billington <unclear>au</unclear>
+Lt. Liebrechts.</ab>
+    
+<p>Bruxelles, le 31 Nobre 1887</p>
+    
+<p>Monsieur le Ministre,</p>
+ 
+<p>Vous avez bien voulu,
+dans votre lettre du 23 de
+ce mois, m'entretenir d'une
+plainte dont votre Gouvernement
+avait été saisi par des missionnaires
+de la "American
+Baptist Missionary Union"
+concernant la Détention
+dans les <unclear></unclear> du Congo
+de leur bateau de "Harry Reed"</p>
+
+<p>J'espére par quelques
+explications, être en <unclear>mesure</unclear>
+de montrer, Monsieur le
+Ministre, que les faits sur
+lesquels vous appelez mon
+attention, sauraient d'autant
+moins constituer un grief-
+fondé centre mon Gouvernement
+    
+<fw type="footer">Monsieur Lambert Tree,
+Ministre Résident</fw>
+    
+<pb facs="teaa.fr.letter.0255.002.jpg"/>
+    
+qu'ils se sont produits
+dans des circonstances tout
+exceptionnelles, et que de
+préjudice auquel ils ont pu
+donner lieu, a déja été
+réparé a la satisfaction des
+plaignants.</p>
+
+<p>Il ne sera pas
+inutile de rappeler tout
+d'abord que M. Stanley
+entreprit son dernier voyage
+en Afrique non comme 
+représentant de l'Etat du
+Congo, mais comme <unclear></unclear>
+d'une expédition organisée
+par un comité anglais
+en vue de porter secours
+à Ennin Paeba dout la position dans le
+Soudan avait 
+éveillé les sympathies
+du monde civilisé.</p>
+    
+<p>En raison du 
+caractére philanthropique et <unclear>unique</unclear>
+de sa mission, l'explorateur
+était en droit de compter
+    
+<pb facs="teaa.fr.letter.0255.003.jpg"/>
+    
+sur les concours actif de
+nos autorités aussi vous
+ne serez pas surpis,
+Monsieur le Ministre,
+que lorsqu'a son arriver
+au Stanley-Pool, l'expédition
+se trouver aux prises avec
+des difficultés, le commissaire
+du District M. Liebrechts,
+se <unclear></unclear> obligé de lui
+préter ses tous offices.
+Et ces difficultés etaient
+graves: une disette
+régnait dans le district,
+les vivres y suffisaient a
+peine aux besoins ordinaires
+de la population, et le 
+seul moyen d'épargner
+un désastre: à la caravane 
+était de la mettre a même
+de continuer au plus tôt
+son voyage. Eu présence
+de cette situation. M. 
+Stanley devais <unclear></unclear>
+tous les moyens de 
+transport alors disposables
+    
+<pb facs="teaa.fr.letter.0255.004.jpg"/>
+    
+au Pool la Baptist
+mission seul n'accorder
+l'usage de son bateau
+bien que <unclear></unclear> refus était de
+nature a compromettre le
+sort de l'entreprise peut etre
+cette considération permet
+elle de juger avec moins de
+rigueur les procédés arbitraires
+auxquels votre compatriote
+eut en instant recours pour
+arriver à ses fins. Mon
+Gouvernement ne saurait
+toutefois les approuver, ni
+<unclear></unclear> partager
+la responsabilité; son agent,
+loin de les avoir favorisés ou
+tolérés, y a mis fui aussitôt
+qu'ils eurent été portés a
+sa connaissance. Sur ce
+point, nous avons de <unclear></unclear>
+satisfaisant des plaignants
+eux-mêmes.</p>
+    
+<p>Un conrat finit
+par être signé, a l'intervention
+de l'autorité accordant
+lui <unclear></unclear> infusé;
+
+<pb facs="teaa.fr.letter.0255.005.jpg"/>
+
+l'usage du bateau pour 
+un terme de 41 jours.
+M. Billington prétend
+il est vrai mainteneant
+n'avoir souserit à cet acte
+qu'à cause de l'attitude
+ambigué du commissaire
+du district et pour éviter
+de plus graves désagreiments.
+Mon Gouvernement se
+croit fonde à repousser
+l'imputation dont on ebarge
+ce fonctionnaire. Sa
+<unclear></unclear> elle devait être a été
+<unclear></unclear> mon sens: <unclear></unclear>, bienveillante
+et dictée par la 
+seul désir de <unclear>concitier</unclear>
+les convenances individuelles
+avec les nécessités d'une
+situation difficle; qu'elle
+n'a pas eu d'outre caractére
+ressort de la lettre même,
+dont je joins ici copi, par
+laquelle M. Billington
+fit pour à l'autorité de
+    
+<pb facs="teaa.fr.letter.0255.006.jpg"/>
+    
+sa détermination de céder
+le "Henry Reed". <unclear></unclear>
+d'ailleurs serait il permis
+de supposer un seul instant
+que des missionnaires auraient
+pris de mauvaise grâce, et
+á leur corps défendant, 
+une résolution <unclear></unclear>
+<unclear></unclear> le succès d'une
+enterprise qui par son but
+humanitaire, répond si
+bien à leurs propres
+aspirations <unclear></unclear> Mon Gouvernement
+ne le pense pas.</p>
+ 
+<p><unclear></unclear> ou second
+fait que vous avez bien 
+voulu me signaler la
+détention du même bateau
+par les ordres de M. le
+Capitaine Van Gèle-,
+il est le résultat d'un
+malentendu que mon
+Gouvernement regrette
+et dont il s'est bâté de 
+réparer les suites Le
+"Henry Reed" avait été
+précédemment <unclear></unclear> á l'Etat;
+ 
+<pb facs="teaa.fr.letter.0255.007.jpg"/>
+ 
+M. Van Géle s'en était <unclear></unclear>
+pour accomplir plusieurs 
+voyages d'exploration, il
+ignorait les conditions nouvelles
+auxquelles le bateau avait
+été mis a la disposition de
+l'Etat et le voyant de passage
+á Equateur Station, sous
+le commandement d'un <unclear>officier</unclear>
+de notre marine, il se <unclear>crut</unclear>
+á tout encore autorisé á en
+faire usage. Sa Gouverneur
+Général, aussitôt qu'il fut
+instruit de la chose ordonna
+la restitution du bâtiment;
+c'est ce qui fut fait, le 10
+août derniere, ainsi que
+l'atteste le procés- verbal
+de remise qui fut signé le
+même jour.</p>
+ 
+<p>J'ajouterai, Monsieur 
+le Ministre, que les plaignants
+ont été indemnisés du prejudic
+qui aurait pu leur être
+occasionné, les <unclear></unclear> de
+location ayant été diguisés
+aux conditions liberales</p>
+ 
+<pb facs="teaa.fr.letter.0255.008.jpg"/>
+ 
+<p><unclear>contrat</unclear>, pour toute la durée
+de l'abesence du bateau
+jusqu'au jour de sa remise
+finale.</p>
+ 
+<p>Ses explications dans les
+quelles je viens d'entrer, indiquent,
+Monsieur le Minsitre, que
+l'Etat du Congo est conseient
+des devoirs qui lui incombent á
+l'egard de toutes les enterprises
+civilisatrices. Je puis donner
+d'assurance qu'il ne faillira
+pas á du tâche, <unclear></unclear>
+et qu'il 
+continuera, comme par le
+passé, d'entourner de sa sollicitude
+les traveux des missionnaires. 
+Ceux-ci, de leur
+<unclear></unclear> ne doivent pas oublier
+qu'ils ne sauraient plus efficacement
+servir leur noble cause qu'en donnant á l'Etat
+un concours loyal et en coopérant
+á toutes des oeuvres qui tendent
+au progrès de la civilisation</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="teaa.fr.letter.0255.009.jpg"/>
+
+<p>Copy</p>
+
+<p>A. B. M. U.
+Stanley Pool, April 24th 1887</p>
+    
+<p><unclear>Mr</unclear> Lieut Liebrechts,<lb/>
+Chief of the Congo Free State
+at Léopoldville</p>
+    
+<p>Dear Sir,</p>
+
+<p>Judging from our
+conversation of last evening
+it is evident that there was
+a misunderstanding in our 
+letters of yesterday.</p>
+    
+<p>I now write to say 
+that owing to the present very
+peculiar circumstances I have
+decided to assume responsibilities
+and powers I do not
+really possess, and hand over
+to the "Congo Free State" the 
+steamer "Henry Reed" in 
+accordance with a mutual
+agreement to be drawn up
+and signed on the morrow.</p>
+
+<pb facs="teaa.fr.letter.0255.010.jpg"/>
+
+<p>It appears to me only 
+just and right that our
+society would be in some
+way protected in case of the 
+loss of the steamer and I
+ask you again to do your
+best to obtain the guarantee
+mentioned yesterday.</p>
+
+<p>Should you still fail in 
+this matter the arrangement
+afore mentioned will of 
+course still go forward.</p>
+    
+<p>If you will appoint a
+time on the morrow I will
+call on you or you <gap extent="one or two words"/>
+prefer to call here.</p>
+    
+<p>Believe me,<lb/>
+Yours very truly,<lb/>
+(s) A. Billington</p>
+
+</div1>
+
+<div1 xml:lang="en" type="translation">
+        
+<pb facs="teaa.fr.letter.0255.001.jpg"/>
+        
+<p>Copy of Mr. Billington's
+Letter <unclear></unclear>
+Lt. Liebrechts</p>
+        
+<p>Brussels the 21st of <unclear></unclear> 1887</p>
+        
+<p>Mr. Minister,</p>
+        
+<p>You have wanted,
+in your letter from the 23 of 
+this month, maintained one 
+complaint in which your Government 
+had been grasped by the missionaries 
+of the "American
+Baptist Missionary Union"
+regarding the possession 
+in the<unclear></unclear> from the Congo
+of their boat "Harry Reed".</p>
+        
+<p>I hope that by some 
+explanation, to be in <unclear> measure</unclear>
+of showing, Mr. 
+Minister, that the facts on 
+which you call to my 
+attention, would know even  
+less established grievance
+based in the middle of my Government</p>
+        
+<p>Mr. <unclear> Lambert</unclear> Tree,
+Resident Minister</p>
+        
+<pb facs="teaa.fr.letter.0255.002.jpg"/>
+        
+<p>that they are products 
+in the circumstances all
+exceptional and that of 
+prejudice in which they could 
+given rise to, was alreay
+atoned fro to the satisfaction of the 
+plaintiffs.</p>
+        
+<p>It will not be 
+useless to recall everything
+first that Mr. Stanley
+begins his last voyage 
+in Africa not as a  
+representative of the State of the
+Congo, but as <unclear></unclear>
+an organized expedition 
+by an English committee 
+for the purpose of carrying help 
+to Ennin Paeba doubts the position in the 
+Soudan had 
+awakened the sympathies 
+of the civilized world.</p>
+        
+<p>Due to the 
+philanthropic character and <unclear> unique </unclear>
+of his mission, the explorer 
+was within his rights to expect</p>
+        
+<pb facs="teaa.fr.letter.0255.003.jpg"/>
+        
+<p>on the active support of 
+our authorities you 
+will also not be surprised,
+Mr. Minister,
+that during your arrival at 
+Stanley-Pool, the expedition 
+finds itself dealing with
+some difficulties, the commissioner 
+District M. Liebrechts,
+<unclear></unclear> obliged to lend
+him all of his services.
+And these difficulties were 
+serious: us food shortage 
+reigning in the district, 
+the supplies barely sufficient  
+there for the ordinary needs 
+of the population, and the 
+only way to save
+a disaster: at the procession 
+was to put it even 
+de continuer au plus tôt
+his voyage. Had presence
+of this  problem. Mr. 
+Stanley had to <unclear></unclear>
+all of the tous les moyons de 
+transport alors disposables</p>
+        
+<pb facs="teaa.fr.letter.0255.004.jpg"/>
+        
+<p>in the Pool <unclear></unclear> <unclear></unclear> the Baptist
+missionary granted only 
+the use of his boat 
+although <unclear></unclear> refusal was of the 
+nature to jeapardize the 
+fate of the business may be 
+this consideration allows 
+her to judge the arbitrary process 
+with less rigor 
+of which your compatriot 
+had instantly appealed to in order to 
+achieve his goals. My 
+Government doesn't ne sourait
+however approve of them, neither
+<unclear></unclear> sharing
+the responsibility; his agent, 
+far from having them favored or 
+tolerated, fled there as soon as 
+they had been carrying had
+his knowledge. On this 
+point, we have <unclear></unclear>
+satisfy the complaints 
+themselves.</p>
+        
+<p>A contract finished
+by being signed, by the intervention 
+of the granted authority
+him <unclear></unclear> infused;</p>
+
+<!-- CONTINUE TRANSLATION -->
+
+<pb facs="teaa.fr.letter.0255.005.jpg"/>
+
+<pb facs="teaa.fr.letter.0255.006.jpg"/>
+
+<pb facs="teaa.fr.letter.0255.007.jpg"/>
+
+<pb facs="teaa.fr.letter.0255.008.jpg"/>
+        
+</div1>
+</body>
+</text>
+    
+</TEI>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0239">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription, translation, and encoding</resp>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0239</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 217, Liasse 119</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>English</term>
+<term>French</term>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-01-11" who="kln">renamed file, inserted correct header template, transcribed second page</change>
+<change when="2017" who="KCD">Corrections, marked up.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="teaa.fr.letter.0239.001.jpg"/>
+
+<p>American Consular Service<lb/>
+Bruxelles, le 20, janvier 1908</p>
+
+<p>Monsieur le Secretaire d'Etat
+de l'Etat Independant du Congo<lb/>
+30, rue de Namur,
+Bruxelles.</p>
+    
+<p>Monsieur,</p>
+    
+<p>J'ai l'honneur de vous transmettre ci-joint la copie
+d'une lettre que nous avons recu de Monsieur Fred. B. Pitney,
+d'Austin, Nevada, Etats Unis d'Amerique et de vous prier
+d'avoir l'obligeance de nous donner, si c'est possible,
+les renseignments demandes.</p>
+ 
+<p>En vous remerciant d'avance, veuillez agreer, Monsieur,
+l'assurance de ma parfaite consideration.</p>
+    
+<p>Gregory Chelan<lb/>
+Vice Consul-General</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<p>American Consular Service<lb/>
+Brussels, the 29th of January 1908</p>
+
+<p>Mr. Secretary of State of 
+the Independent State of the Congo<lb/>
+30, Namur Street,
+Brussels.</p>
+    
+<p>Sir,</p>
+    
+<p>I have the honor to convey this copy
+of a letter that we received from Mr. Fred. B. Pitney,
+of Austin, Nevada, United States of America and pray for you
+to have the kindness to give to us, if it is possible,
+these detailed requests.</p>
+ 
+<p>By thanking you in advance, please accept, Sir,
+the assurance of my perfect consideration.</p>
+    
+<p>Gregory Chelan<lb/>
+Vice Consul-General</p>
+
+</div1>
+
+<pb facs="teaa.fr.letter.0239.002.jpg"/>
+
+<div1 xml:lang="en" type="document">
+
+<p>Gold Park Mining Company.<lb/>
+<gap extent="one word"/> Mines Gold Park, Nevada.</p>
+
+<p>Austin, Nevada,<lb/>
+December 4, 1907.</p>
+
+<p>The American Consul<lb/>
+Brussels, Belgium,</p>
+
+<p>Dear Sir;</p>
+
+<p>Captain S. M. Dodd and I have become much interested in the Congo Free State and are contemplating closing up our affairs in Nevada and going to that country, provided it appears that the inducements are sufficient. We would appreciate it very much if you would send us such information as you have concerning the opportunities in the Congo, the advantages the country offers, the business that may be engaged in with profit, such as <sic>minig</sic> ranching, stock farming, cotton or other planting, etc. We would also, appreciate it, if you would give us any information you may have on the laws governing homestead, timber land, mineral location and other land occupation in the Congo. </p>
+
+<p>If you have not the time or the information at your command, we would be very much obliged to you, if you would refer this letter to some one who would furnish us the information we desire.</p>
+
+<p>Thanking you for the trouble, I am,<lb/>
+Yours very truly,<lb/>
+(signed) Fred. B. Pitney<lb/>
+V.P. and Gen. Mgr. Gold Park Mining Co.</p>
+
+<p>Austin, Lander County, Nevada, U.S.A.</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
