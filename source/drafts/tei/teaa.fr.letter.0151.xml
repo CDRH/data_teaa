@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0151.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from Minister of Navy and Colonies to Admiral, May 27, 1879</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">fr.letter.0151</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from Minister of Navy and Colonies to Admiral</title>
+<date when="1879-05-27">May 27, 1879</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR CAOM</repository>
+<collection>Réunion</collection>
+<idno>450</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -72,15 +74,17 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Lormel</term>
+<term>May</term>
+<term>Washburne</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Maurice</term>
+<term>Paris</term>
+<term>Réunion</term>
 
 </keywords>
     
@@ -102,11 +106,25 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Minister of Navy and Colonies</roleName>
+<placeName>Paris</placeName>
+<date when="1879-05-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Admiral</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +132,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160613_120558.jpg"/>
 
@@ -229,6 +247,125 @@ Agent./.
 Agréez, Monsieur l'Amiral et Cher
 Collègue, les assurances de ma haute
 considération.
+<unclear/> <!-- Signature -->
+</p>
+
+</div1>
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160613_120558.jpg"/>
+
+<ab>
+Minister
+of
+Foreign Affairs
+</ab>
+
+<ab>
+DIRECTION OF THE CONSULATS
+and
+Commercial Affairs
+</ab>
+
+<ab>
+Paris, May 27th 1879
+</ab>
+
+<p>
+Mister Admiral and dear colleague, you
+did me the honor of communicating to me,
+the 19th of this month, the letter that Mr Governor
+of the Reunion wrote to you on the subject of the
+nomination of Mr May, in quality of Consular
+Agent of the United States in this colony.
+It results that Mr de Lormel sees some
+inconveniences in that which this Agent be
+subject to the Consul of the same power
+in the Island of Maurice, who delivered to him his certificate,
+and that, in this situation, he believed to have to
+abstain from admitting Mr May to the provisory
+exercise of his functions, in waiting for
+the decision of my Department.
+</p>
+
+<p>
+I can only, Mister Admiral and
+</p>
+
+<ab>
+<supplied>Mister Minister of the Navy and the Colonies.</supplied>
+</ab>
+
+<note>
+C
+</note>
+
+<note>
+M. <unclear/>
+<unclear/> <unclear/> <unclear/>
+<unclear/>
+</note>
+
+<note>
+View of the Reunion the 21st of <unclear/> 1874
+</note>
+
+<note>
+747
+</note>
+
+<note>
+the letter of the
+union was not
+revoked.
+</note>
+
+<pb facs="20160613_120608.jpg"/>
+
+<p>
+dear colleague, approve the observed
+reserve, in this circumstance, by
+Mr Governor of the Reunion. It
+would be, in effect contrary to the principles
+on the matter that the conferred mandate to
+a Consular Agent on the french territory
+coming from a resident Consul in a foreign
+country. In the case in point, the certificate of
+the Consular Agent of the United States in the
+Reunion could not be delivered to him
+regularly unless by the Federal
+Government itself or by the Legation
+or the General Consulate of the United States in
+Paris. I will not miss, if there is place,
+to make the observation to Mr Washburne,
+when the exequator of my Department
+will have been demanded in favor of Mr May.
+I will add, incidentally, Mister Admiral
+</p>
+
+<ab>
+<unclear/> <unclear>if there is place</unclear>
+<unclear/> <unclear/>
+<unclear/> <unclear/>
+</ab>
+
+<pb facs="20160613_120615.jpg"/>
+
+<p>
+and dear colleague, that no demand of
+this nature was addressed to me until
+the present, and that I would desire, in order to
+to be able to make a decision, the due
+case, that Mr Governor of the
+Reunion transmits to you the precise
+information on the personal account of this
+Agent./.
+</p>
+
+<p>
+Accept, Mister Admiral and dear
+colleague, the assurances of my highest
+consideration.
 <unclear/> <!-- Signature -->
 </p>
 
