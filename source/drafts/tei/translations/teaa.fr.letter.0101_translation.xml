@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160614_100135.jpg"/>
+
+<ab>
+1st Office
+</ab>
+
+<ab>
+Paris, July 29th 1867
+</ab>
+
+<ab>
+The Minister
+to S L. Mr Marquis of Mister
+Minister of Foreign Affairs
+in Paris
+</ab>
+
+<p>
+Mister Marquis and dear colleague,
+
+Mr le Comm. <unclear/> des <unclear/> <unclear/> de la côte
+d'or du Gabon vien de répondu à la communication <!-- 'communication' is hyphenated between 'communi-' and 'cation' -->
+que je <unclear/> <unclear/> lui avoir adressée
+le 20 avril <unclear/>; au sujet de <unclear/> <del><unclear/></del> <unclear/>
+<unclear/> <unclear/> <unclear/> de <unclear/> <add><unclear/></add> <unclear/> <unclear/> du
+le Ministre des Etats-Unis à Paris.
+</p>
+
+<p>
+J'ai <del><unclear/></del> <add><unclear/></add> de <unclear/> <unclear/> ci-joint
+copie de la réponse <unclear/> par M le <unclear/>
+<unclear/> <unclear/> avec des <unclear/> <del><unclear/></del> <add><unclear/></add> <del><unclear/></del>
+relavées par M le <unclear/> <unclear/>. Vous <unclear/>
+cette lettre <unclear/>, <unclear/> dans les <unclear/> qui
+<unclear/> <unclear/> des explications qui <unclear/> <unclear/>
+<unclear/> <unclear/> à moi, de marine à <unclear/>
+<unclear/> la responsabilité du <unclear/>
+du Gabon <del>de</del> <unclear/> du <unclear/> de <del><unclear/></del> <add>quels</add> <unclear/>
+<unclear/> nombre, dont <del><unclear/></del> <add><unclear/></add> la pu être vérifiée
+</p>
+
+<p>
+Il reponde cette corresponance <del>du <unclear/></del> <add><unclear/> la</add>
+<add><unclear/> de</add> <unclear/> <unclear/> au <unclear/> une <unclear/> <unclear/> que de
+<unclear/> des <unclear/> de Washington a été
+<unclear/> un <unclear/> <unclear/> <unclear/> sur <del><add><unclear/> du</add></del> les fait
+</p>
+
+<ab>
+Réponse à <unclear/> du Ministre
+du <unclear/> à Paris
+</ab>
+
+<note>
+é
+</note>
+
+<note>
+<unclear/>
+<unclear/>
+<unclear/> <unclear/>
+</note>
+
+<pb facs="20160614_100143.jpg"/>
+
+<p>
+qui <unclear/> <unclear/> dans la <unclear/> <unclear/> côte
+<unclear/> à notre <unclear/>. L'agence <unclear/>
+<unclear/> <unclear/> <add>au gabon</add> et les <unclear/> <add>americain</add> qui <del><unclear/></del> <add>our</add>
+<unclear/> <add><unclear>d'information</unclear></add> les, <unclear/> <unclear>ce</unclear> <del>que <unclear/> <unclear/></del> <add><unclear/> <unclear/></add> n'<unclear/>
+jamais demandé l'<unclear/> du <unclear>autorité</unclear> locales
+<unclear/> <unclear/>, <unclear/> aujourdhui <unclear/>
+l'impossibilité de [récoser aucune accusation.
+</p>
+
+<p>
+En ce qui concerne les <unclear/> qui ont eu
+<unclear/> <unclear/> <unclear/> <unclear/> l'<unclear/> <unclear>de vous</unclear>
+<unclear>autre</unclear> <unclear/> <unclear/> de notre <unclear/>, V.E.
+<add><unclear/> <unclear/> <unclear/></add><del><unclear/></del> <add><unclear/></add> que <del><unclear/> <unclear/> <unclear/></del> <add><unclear/> <unclear/> <unclear/></add>, <del>de ce chef</del> <add>etre</add>, <del>ces <unclear/></del> <add><unclear/></add>
+<del><unclear/> <unclear/></del> <add><unclear>causé à ce</unclear></add>qu'ilne nom <unclear/> pas <unclear/>
+M le <unclear/>de <unclear/> a <unclear/> <unclear/> ce <unclear/>,
+<unclear/> ce qui <unclear/> <unclear/> <unclear/> et il <unclear/>n'a pas <unclear/>
+cette <unclear/> <unclear/> <unclear/> <unclear/> lui
+au <unclear/> de l'Empereur des <del>faut de <unclear/></del> <unclear/> <unclear/> <unclear/>
+les <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> temp
+<del>le <unclear/></del> le <unclear/>.
+</p>
+
+<p>
+Je ne doute pas que <del><unclear/></del> le <unclear/> <del><unclear/></del> de Washington
+ne <unclear/> la <unclear/> <add><unclear/></add> de ce explication.
+<del>Les <unclear/></del> <add><unclear/> <unclear/></add> <del><unclear/> <unclear/><unclear/></del> les <unclear/> de
+bienavaillance <unclear/> que <del><unclear/></del> <add>nous <unclear/> <unclear/></add> les autorisés du
+Gabon, <del><unclear>ces</unclear></del> <add>à</add> <unclear/> de occidente chargé <add><unclear/> à <unclear/></add>. <unclear/>
+de <unclear/> <unclear/> <add>dans <unclear/> <unclear/></add> eu le <unclear/> du <unclear/> dont il
+<unclear/> <add><unclear/></add> <unclear/> à <unclear/>
+<unclear>Ca He</unclear> <!-- Signature of sorts -->
+</p>
+
+<note>
+(ministre)
+</note>
+
+</div1>
+</body>
+</text>
+
+</TEI>
+

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
+<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main"><!-- ARTICLE TITLE --></title>
+<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
+<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
+EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+<!-- IGNORE THIS FOR NOW
+<classCode scheme="original">
+<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
+</classCode>-->
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
+<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="20160613_162422.jpg"/>
+
+<ab>
+Minister
+of the Navy
+and the Colonies
+</ab>
+
+<ab>
+Direction of the Colonies
+</ab>
+
+<ab>
+Office of the Political Regime
+and
+Commerce.
+</ab>
+
+<ab>
+on the subject of the declaration
+of independence of the
+Republic of Liberia.
+</ab>
+
+<ab>
+Paris, <del>Sepember</del> <add>September</add> 11th 1848.
+</ab>
+
+<p>
+Citizen Minister and dear colleague,
+
+The colony of Monrovia founded in June
+1822, on the west coast of Africa, by an
+American society, to serve as assistance for the 
+emancipated slaves, in the United States, declared itself
+independent of this society in August 1849, and constituated
+itself as a Sovereign State, under the name of Republic <!-- 'République' is split and hyphenated between 'Répu-' and 'blique'. -->
+of Liberia.
+</p>
+
+<p>
+The following September 2nd, the government
+of Liberia officially notified Mr. Chaigneau
+french lieutenant commander of war,
+Bougainville in station at this point, the declaration
+of independence of the colony. It addressed at the
+same time to this officer a counterpart of the
+constitution voted the preceding July 29th, and a
+map of the territory of the Republic.
+</p>
+
+<ab>
+En
+</ab>
+
+<ab>
+to Citizen Minister of Foreign Affairs.
+</ab>
+
+<pb facs="20160613_162438.jpg"/>
+
+<p>
+In transmitting February 21st 1848,
+these documents to the Minister of the Navy and the 
+Colonies, the commander of the french naval
+forces on the west coast of Africa, 
+informed that the commodore Hotham, in the name of
+the British government, and the american officer
+placed at the head of the station of the United States, recognized
+the Republic of Liberia, and that they gave the order
+to recognize its flag.
+</p>
+
+<p>
+Mr. Montagniès of the Rogue abstained
+from making the same manifestation, until he
+received the instructions from the Gouvernement.
+</p>
+
+<p>
+My opinion is that there is place to prescribe to his
+successor, Mr Captain of vessel Baudin, to
+proceed immediately to the recognition of the
+new Republic. Mr Montagniès of the Rogue
+only saw a single difficulty there. It consists in
+what the chief of an African village, isolated in
+the limits of the territory of the Republic of
+Liberia, concluded with the officer who commanded the
+french station, a treaty in virtue of which this chief
+</p>
+
+<ab>
+se
+</ab>
+
+<pb facs="20160613_162446.jpg"/>
+
+<p>
+considers as the subject of France, et <unclear/>
+did not want to accept the laws of the government
+of Liberia.
+</p>
+
+<p>
+I do not believe that there are any <unclear>reservations to</unclear>
+make on the subject of this incident. The government
+of Liberia, fills a mission on the coast of Africa <!-- 'mission' is split and hyphenated between 'mis' and '-sion' -->
+of consideration that it is dignified of the French
+Republic to encourage. In <unclear>votre l'insistance </unclear> of <unclear>our</unclear>
+commerce we command to enter <unclear>sans notre</unclear> <unclear/>
+official relations with this state, so that the <unclear/>
+<unclear>remements</unclear> of England and America <unclear>que se faissait</unclear>
+<unclear>puit</unclear> accorded in our absence of the <unclear/> <unclear>communications</unclear>
+that would not be equally accorded to us at all.
+Finally the recollection of the <unclear>predicament that we</unclear>
+provoked on the coast of Africa, the <unclear>slaves</unclear> <unclear/> <unclear/>
+<unclear/> and <unclear/>, must it seem to me <unclear/> <unclear>to indicate</unclear>
+nothing to do that could, nous <unclear/> the <unclear>differentés</unclear>
+of the same type.
+</p>
+
+<p>
+I urge you, citizen Minister and dear
+colleague,
+
+<!-- No Signature -->
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>
+

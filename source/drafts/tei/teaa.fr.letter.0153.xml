@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0153.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from Minister to Governor of Réunion, June 21, 1875</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">fr.letter.0153</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from Minister to Governor of Réunion</title>
+<date when="1875-06-21">June 21, 1875</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR CAOM</repository>
+<collection>Réunion</collection>
+<idno>450</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+    
 </fileDesc>
 
 <profileDesc>
@@ -72,15 +74,16 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>May</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Maurice</term>
+<term>Paris</term>
+<term>Réunion</term>
+<term>St. Denis</term>
 
 </keywords>
     
@@ -102,11 +105,25 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Minister</roleName>
+<placeName>Paris</placeName>
+<date when="1875-06-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Governor of Réunion</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+    
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +131,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160613_120700.jpg"/>
 
@@ -152,6 +169,94 @@ Unis a l'Ile Maurice, pour
 remplir les fonctions d'agent
 consulaire de la même puissance
 à St. Denis.
+</p>
+
+<p>
+<del>Il est</del> <add><del><unclear/> <unclear/></del></add> <add><unclear/> <unclear/> <add>la <unclear/> de</add> admite M le <unclear/> <unclear/> <unclear/> qu'il eu</add> <add>que vous <unclear/> <unclear/></add> en effet contraire à tous les
+réglements une <unclear/> <unclear/> <add>le</add>
+<add><unclear/></add> d'<unclear/> <del>d'un</del> consulaire sur <unclear>territoire</unclear>
+français <unclear/> d'un consul
+<unclear/> en pays étranger. Dans
+l'espèce, la <unclear/> de l'agent
+consulaire <del>en pays étranger des</del>
+Etats Unis à la Réunion ne
+<unclear/> etre conféré à Mr Mau
+que par le gouvernement féderal
+lui même ou par la légation
+ou le consular général des Etats
+Unis, à Paris.
+</p>
+
+<p>
+<unclear/> demande de cette nature m'a<del>gent</del> ete adressée
+jusqu'ici au Departement
+</p>
+
+<note>
+c 31
+</note>
+
+<pb facs="20160613_120700.jpg"/>
+
+<p>
+des affaires Etrangèrs il n'y a
+done pas lieu de reconnaitre Mr
+May dans les fonctions qu'il
+demande à remplir.
+</p>
+
+<p>
+Je vous prie de <add>une</add> transmettre,
+pour le cas ou le Gouvernanct
+des Etats Unis demanderait à
+acréditer Mr. May <del><unclear/></del> les
+renseignements que vous <unclear/>
+<unclear/> <del><unclear/></del> <add><unclear/> <unclear/></add> sur son <unclear/>.
+R. C L P D.
+
+<del><unclear/></del>
+Ministre.
+</p>
+
+</div1>
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160613_120700.jpg"/>
+
+<ab>
+Colonies
+1st Office
+</ab>
+
+<ab>
+On the subject of Mr May who
+proposed by the consul of the United States
+to the Navy to fill in the
+Reunion the functions of consular agent
+</ab>
+
+<ab>
+Paris, June 21st <unclear>1875</unclear>
+</ab>
+
+<ab>
+The Minister
+to Mr Governor of the Reunion
+</ab>
+
+<p>
+Mister Governor,
+I communicated to Mr Minister <!-- 'Ministre' is hyphenated between 'Minis-' and 'tre' -->
+of Foreign Affairs the letter
+by which vous you informed me <unclear/>
+<del>Département</del> of the <unclear/> that
+you believed to have to <del>prendre</del> <add><unclear/></add>
+regarding <unclear/> <unclear/> <unclear/> May
+designated by the Consul of the United
+States in the Island of Maurice, to
+fill the functions of consular
+agent of the same power
+in St. Denis.
 </p>
 
 <p>

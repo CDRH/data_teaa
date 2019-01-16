@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0067.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from John Forsyth to ___, 1839</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">fr.letter.0067.xml</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -49,15 +48,18 @@ American quotation marks used in place of angle quotation marks
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from John Forsyth to ___</title>
+<date when="1839"></date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR ANOM</repository>
+<collection>Senegal VI</collection>
+<idno>6b Etats Unis</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -78,15 +80,18 @@ American quotation marks used in place of angle quotation marks
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Alphonse Sageat</term>
+<term>Fontain</term>
+
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Guadeloupe</term>
+<term>Martinique</term>
+<term>Port of Goree</term>
+<term>Senegal</term>
 
 </keywords>
     
@@ -108,11 +113,25 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Forsyth, John</persName>
+<roleName/>
+<placeName/>
+<date when="1839"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName/>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -120,47 +139,47 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1  xml:lang="en" type="document">
 
 <pb facs="20160614_144053.jpg"/>
 
 <ab>
-Traduction
+Translation
 </ab>
 
 <ab>
-Département d'Etat
+Department of State
 <unclear/> <unclear/> <unclear/> <unclear>1838</unclear>
 </ab>
 
 <p>
-<unclear>Monsieur,</unclear>
+<unclear>Mister,</unclear>
 
-J'ai l'honneur d'accuser la reception de la
-note de M <unclear/> date du <unclear/> de ce mois. Cette
-note était accompagnée de document qui <unclear>montrait</unclear> que
-les bâtiments américaines sont <unclear/> <unclear/>  <unclear>autrefois de</unclear>
-<unclear/> sur un pied qui <unclear>devrait accuser</unclear>, en <unclear/> le
-principe de réciprocité, aux <unclear/> français,
-venant de cette colonie les privilèges accordé par
-l'acte du <unclear>Congrès</unclear>, du 9 mai <unclear>1838</unclear>, aux <unclear>excercises</unclear> français
-venant de la Martinique et de la Guadeloupe. Mr
-<unclear/>Fontain demandait, en conséquence,<unclear>l'adaption des</unclear>
-mesures nécessaires pour établier, dans les portes
-américans, l'égalité de traitement au faveur des
-bâtiments français, venant de cette Colonies, et pour
-restituer au <unclear>brick Charles</unclear> les <unclear>droits</unclear> <unclear/>
-prélevér sur ce navire par le <unclear>collection du</unclear> <unclear/>
-de <unclear/>.
+I have the honor of accusing the reception of the
+note from Mr <unclear/> dated from <unclear/> de ce <unclear/> This
+note was accompanied by a document that <unclear>showed</unclear> that
+the american properties are <unclear/> <unclear/> <unclear>autrefois de</unclear>
+<unclear/> on a foot that <unclear>should accuse</unclear>, in <unclear/> the
+principle of reciprocity, to <unclear/> french,
+coming from this colony the privileges accorded by
+the act of <unclear>Congress</unclear>, on May 9th <unclear>1838</unclear>, to the french <unclear>exercises</unclear> 
+coming from Martinique and Guadeloupe. Mr
+<unclear/>Fontain demanded, in consequence,<unclear>the adaption of the</unclear>
+necessary measures to establish, in the american
+ports, the equality of treatment in favor of the
+french properties, coming from this colony, and to
+restitute to <unclear>brick Charles</unclear> the <unclear>rights</unclear> <unclear/>
+removed from this vessel by the <unclear>collection of the</unclear> <unclear/>
+of <unclear/>.
 </p>
 
 <p>
-Le Président à qui j'ai communiqué la lettre de
-Mr. <unclear>Fontain</unclear> est disposé maintenant, <unclear>comme il l'était</unclear>
+The Present to whom I communicated the letter from
+Mr. <unclear>Fontain</unclear> is disposed now, <unclear>as it was</unclear>
 </p>
 
 <ab>
-Monsieur <unclear>Alphonse Sageat,</unclear> chargé d'affaire de France.
+Mister <unclear>Alphonse Sageat,</unclear> charged with affair of France.
 </ab>
 
 <note>
@@ -169,42 +188,42 @@ fr.
 </note>
 
 <note>
-Etat. Unis <unclear>Relation de</unclear> <unclear/>
+United States <unclear>Relation of</unclear> <unclear/>
 <unclear/> <unclear/> <unclear/>
 </note>
 
 <pb facs="20160614_144108.jpg"/>
 
 <p>
-à l'époque de notre première correspondance à ce
-sujet, d'appliquer, dans la plus grande extension,
-le principe de réciprocité qui forme une des bases
-de la politique commericale des Etats-Unis; mais,
-comme l'application de ce principe, au dela des limites
-prescriter par la Convention de 1822 et l'acte du
-Congrès auquel Mr. Pontoir se réfère, ne se trouve
-pas comprise dans les attributions que lui confère
-la législation existante, il m'a chargé de vous dire
-qu'il s'empressera de profiter de la première occasion,
-après la réunion du Congrès, pour présenter à cette
-assemblée la note de Mr. Fontoir, et pour lui demander
-de la mettre en mesure par l'adoption de toute disposition
-législative qui sera nécessaire à cet effet, de satisfaire
-au desir de votre gouvernement.
+at the time of our first correspondance on this
+subject, to apply, in the biggest extension,
+the principle of reciprocity that forms one of the bases
+of the commercial politics of the United States; but,
+as the application of this principle, beyond the limits
+prescribed by the Convention of 1822 and the act of
+Congress to which Mr. Fontain is referring to, is not found
+to be comprised in the attributions that are conferred upon it
+the existing legislation, he charged me with telling you
+that he hastens to profit from the first occasion,
+after the reunion of Congress, to present to this
+assemblee the note from Mr. Fontain, and to demand of it
+to put in measure by the adoption of all legislative
+disposition that will be necessary in this effect, to satisfy
+the desire of your government.
 </p>
 
 <p>
-En ce qui concerne le remboursement des droits
-différentiels prélevér sur le brik Charles, comme il
-résulte de la décision de la Trésorerie, qui a, déjà, été
-communiquée à votre légation, que cet impôt a été
-perçu en vertu de la loi, le Président ne se croirait
-pas autorisé à demander au Congrès les fonds nécessaires <!-- 'nécesessaires' is hyphenated and split between 'néces-' and '-saires'. -->
-pour opérer ce remboursement.
+In that which concerns the reimbursement of the differential
+rights removed from the brik Charles, as it
+resulted in the decision of the Treasury, that, already, was
+communicated to your legation, that this tax was
+perceived in virtue of the law, the President did not think
+to be authorised to demand of Congress the necessary funds <!-- 'nécesessaires' is hyphenated and split between 'néces-' and '-saires'. -->
+for operating this reimbursement.
 </p>
 
 <p>
-Dans une autre partie de sa lettre, Mr. Pontoir
+In another part of his letter, Mr. Fontain
 </p>
 
 <note>
@@ -214,32 +233,32 @@ Dans une autre partie de sa lettre, Mr. Pontoir
 <pb facs="20160614_144115.jpg"/>
 
 <p>
-réclame, au nom de son gouvernement et un vertu du principe
-de réciprocité, la jouissance son faveur des bâtiments français,
-venant du Sénégal, des avantages assurés par l'acte de 1828,
-à ceux venant de la Martinique et de la Guadeloupe, et fonde
-sa réclamation sur le fait que les bâtiments américains
-qui entrent dans le Port de Gorée sont assimilée par le
-paiement d'un franc par tonneau aux bâtiments français,
-venant des pays étrangers; et il m'annonce <unclear/> <unclear/> d'obtenir
-cet avantage, votre gouvernement serait disposé à abolir les 
-droits différentiels prélevér sur les <unclear/> <unclear>importées</unclear>
-par bâtiments américains, et déposées dans <unclear/> de Goree.
+calls for, in the name of his government and in virtue of the principle
+of reciprocity, the enjoyment his favor of the french properties,
+coming from Senegal, the assured advantages by the act of 1828,
+to those coming from Martinique and Guadeloupe, and founds
+his reclamation on the fact that the american properties
+that enter in the Port of Gorée are assimilated by the
+payment of one franc by the barrel by the french properties,
+coming from foreign contries; and he announces to me <unclear/> <unclear/> to obtain
+this advantage, your government would be disposed to abolish the 
+differential rights removed from the <unclear/> <unclear>imported</unclear>
+by american properties, and left in <unclear/> of Goree.
 </p>
 
 <p>
-À cette proposition, plusieurs objection se présenteraient,
-après même la révocation des droits ci-dessus. D'abord,
-l'admission des navires américains serait limitée au port
-de Gorée, tandis que les bâtiments français venant de ce
-<unclear>Port,</unclear> ou de tout autre point de la Colonie seraient indistinctement <!-- 'indistinctement' is hyphenated and split between 'indis-' and '-tinctement'. -->
-admis aux Etats-Unis. Ensuite, en examinant
-le résumé imprimé qui accompagne la lettre de Mr.
-Fontain, il parait, par les numeros 8 et 9 des "dispositions <!-- American quotation marks (" ") are used in place of French angle quotation marks -->
-générales" que l'importation de certaine produite des
-Etats-Unis, et l'exportation de certains autres, par
-bâtiment américains, sont <unclear/>, et, par la table
-d'impôte, que des marchandises importées sous pavillon
+On this proposition, several objections presented themselves,
+even after the revocation of the rights above. First,
+the admission of american vessels would be limited to the port
+of Gorée, while the french properties coming from this
+<unclear>Port,</unclear> or from all other points of the Colony would be indistinctly <!-- 'indistinctement' is hyphenated and split between 'indis-' and '-tinctement'. -->
+admitted to the United States. Then, in examining
+the printed resume that accompanies the letter of Mr.
+Fontain, it seems,by the numbers 8 and 9 of the general "dispositions <!-- American quotation marks (" ") are used in place of French angle quotation marks -->
+that the importation of certain products from the
+United States, and the exportation of certain others, by
+american properties, are <unclear/>, and, by the table
+of taxes, that the merchandises imported under the
 </p>
 
 <note>
@@ -250,25 +269,25 @@ d'impôte, que des marchandises importées sous pavillon
 <pb facs="20160614_144126.jpg"/>
 
 <p>
-américain sont <unclear>sujettes</unclear> à des droits, quadrupler de
-de ceux prélevér sur les mêmes marchandiser importées
-par des Bâtimens français. Si cette interpretation du
-tarif est exacte, je ne vois pas comment Mr. Pontoin
-peut invoquer le principe de réciprocité pour appuyer
-la demande de votre Gouvernement. Le Président ne
-se sent pas autorisé dès lors, à la soumettre à la
-considération du Congrès. Mais il m'a donné ordre
-de vous assurer que lorsque votre Gouvernement jugera
-convenable de mettre le commerce entre les Etats Unis
-et les Ports du Sénégal sur un pied de parfaite
-réciprocité, il se fera un plaisir de recommander au
-Congrès l'adoption de mesures correspondantes, de
-la part des Etats-Unis.
+american flag are <unclear>sujettes</unclear> to the rights, quadrupled 
+by those removed from the same merchandises imported
+by french properties. If this interpretation of the
+tariff is exact, I do not see how Mr. Fontain
+can invoke the principle of reciprocity to press
+the demand of your government. The President does
+not feel authorised consequently, to submit it to the
+consideration of Congress. But he gave me the order
+to assure you that when your government judges it to be
+appropriate to put the commerce between the United States
+and the Ports of Senegal on a foot of perfect
+reciprocity, it will be a pleasure to recommend to
+Congress the adoption of corresponding measures, on
+the part of the United States.
 </p>
 
 <p>
-Je saisis cette occasion.
-Signé John Forsyth
+I seize this occasion.
+Signed John Forsyth
 </p>
 
 </div1>
@@ -276,3 +295,4 @@ Signé John Forsyth
 </text>
 
 </TEI>
+
