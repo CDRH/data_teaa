@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0155.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from Minister to Minister of Foreign Affairs, 1875</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">fr.letter.0155</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from Minister to Minister of Foreign Affairs</title>
+<date when="1875">1875</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR CAOM</repository>
+<collection>Réunion</collection>
+<idno>450</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -72,15 +74,13 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>May, George Jenkins</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Réunion</term>
 
 </keywords>
     
@@ -102,11 +102,25 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Minister</roleName>
+<placeName>Paris</placeName>
+<date when="1875"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Minister of Foreign Affairs</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +128,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160613_120854.jpg"/>
 
@@ -150,6 +164,73 @@ dépêche la date du
 j'ai l'honneur de vous
 transmettre copie d'une lettre
 de M. le Gorée de la Réunion
+<del>Vous<unclear/> par cette dépêche</del> <add><unclear/> ce <unclear/> <unclear/> <unclear/> La <unclear/> <unclear/> lettre</add>
+<del><unclear/></del> <add><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> copie <unclear/> que <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> du <unclear/> <del><unclear/></del> <add><unclear/></add><add><unclear/></add><add><unclear/></add></add> M de <unclear/>
+<unclear/> <del><unclear/> <unclear/> <unclear/> <unclear/>.</del> <add><unclear/> du <unclear/> à la demande <unclear/></add>
+<add>par</add> M. George <unclear>Jenkins</unclear> <del><unclear/></del> <add><unclear/> <unclear/> <unclear/></add>
+l'Autorisation l'<unclear/>
+les fonctions d'Agent
+Consulaire des Etats Unis
+dans cette Colonie.
+<del><unclear/></del> Agréez
+Le P.D
+</p>
+
+<ab>
+faire copie de la
+lettre du Gorée de la
+Réunion
+</ab>
+
+<ab>
+<unclear>faire</unclear>
+</ab>
+
+<note>
+<unclear/>
+</note>
+
+<note>
+M <unclear/>
+</note>
+
+</div1>
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160613_120854.jpg"/>
+
+<ab>
+Colonies
+</ab>
+
+<ab>
+1st Office
+</ab>
+
+<ab>
+On the subject of
+Mr. <unclear>George Jenkins</unclear> May
+</ab>
+
+<ab>
+Paris 29th of <unclear/> 1875
+</ab>
+
+<ab>
+96. The Minister
+to the Minister of Foreign
+Affairs
+</ab>
+
+<p>
+Mr. Duke and dear colleague,
+Following my
+dispatch on the date of the
+19th of last May relative
+to Mr. George <unclear>Jenkins</unclear> May,
+I have the honor to transmit
+to you a copy of a letter
+from Mr. Gorée of the Reunion
 <del>Vous<unclear/> par cette dépêche</del> <add><unclear/> ce <unclear/> <unclear/> <unclear/> La <unclear/> <unclear/> lettre</add>
 <del><unclear/></del> <add><unclear/> <unclear/> <unclear/> <unclear/> <unclear/> copie <unclear/> que <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> <unclear/> du <unclear/> <del><unclear/></del> <add><unclear/></add><add><unclear/></add><add><unclear/></add></add> M de <unclear/>
 <unclear/> <del><unclear/> <unclear/> <unclear/> <unclear/>.</del> <add><unclear/> du <unclear/> à la demande <unclear/></add>
