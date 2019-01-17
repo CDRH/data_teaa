@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0183.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from Mr. Chantemps, Minister of the Colonies to Minister, October 8, 1895</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">fr.letter.0183</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from Mr. Chantemps, Minister of the Colonies to Minister</title>
+<date when="1895-10-08">October 8, 1895</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR CAOM</repository>
+<collection>Soudan X 1-7</collection>
+<idno>1</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -72,15 +74,13 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Bey</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Sierra Leone</term>
 
 </keywords>
     
@@ -102,11 +102,25 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Chantemps</persName>
+<roleName>Minister of the Colonies</roleName>
+<placeName>Paris</placeName>
+<date when="1895-10-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Minister</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +128,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160615_122340.jpg"/>
 
@@ -191,6 +205,89 @@ Agréez, Monsieur le
 Ministre et cher Collègue, les
 assurances de ma haute
 considération.
+
+
+A M Sas <!-- Signature -->
+</p>
+
+</div1>
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160615_122340.jpg"/>
+
+<ab>
+Minister
+of
+Foreign Affairs
+</ab>
+
+<ab>
+Direction
+of
+Political Affairs
+</ab>
+
+<ab>
+Service
+of the Protectorates
+</ab>
+
+<ab>
+American Misisonaries
+in Sudan
+</ab>
+
+<ab>
+FRENCH REPUBLIC
+</ab>
+
+<ab>
+Paris, October 8th 1895
+</ab>
+
+<p>
+Mister Minister
+and dear colleague,
+
+Our Vice-Consul in
+Sierra-Leone has just sent
+to me my copy of the
+brochure containing the status of
+"the International Missionary Alliance."
+</p>
+
+<p>
+To follow my
+letter from last February 9th, I have
+</p>
+
+<ab>
+Mister Chantemps
+Minister of the Colonies
+Paris
+</ab>
+
+<note>
+Mr. Bey
+seen to have
+talked
+</note>
+
+<pb facs="20160615_122414.jpg"/>
+
+<p>
+the honor to send to you, enclosed, <!-- 'ci-joint' is hyphenated between 'ci-' and 'joint' -->
+this document that I will be
+obliged to you to return
+to me, when it has ceased
+to be useful to you./.
+</p>
+
+<p>
+Accept, Mister
+Minister and dear colleague, the
+assurances of my highest
+consideration.
 
 
 A M Sas <!-- Signature -->

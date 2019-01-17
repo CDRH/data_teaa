@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0177.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from Governor of French Sudan to Minister of the Colonies, October 21, 1894</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">fr.letter.0177</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from Governor of French Sudan to Minister of the Colonies</title>
+<date when="1894-10-21">October 21, 1894</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR CAOM</repository>
+<collection>Soudan X 1-7</collection>
+<idno>1</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -72,15 +74,15 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term/>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Faramah</term>
+<term>Niger</term>
+<term>Sierra Leone</term>
 
 </keywords>
     
@@ -102,11 +104,25 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Governor of French Sudan</roleName>
+<placeName>Kayes</placeName>
+<date when="1894-10-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Minister of the Colonies</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +130,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1  xml:lang="fr" type="document">
 
 <pb facs="20160615_122035.jpg"/>
 
@@ -197,6 +213,94 @@ est datée du six Octobre également.
 Je suis, avec un profond respect,
 Monsieur le Ministre
 votre très-obéissant serviteur.
+
+<unclear/> <!-- Signature -->
+</p>
+
+</div1>
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160615_122035.jpg"/>
+
+<ab>
+government
+of
+French Sudan
+</ab>
+
+<ab>
+Kayes, October 21st 1894.
+</ab>
+
+<ab>
+The governor of
+French Sudan to Mister
+Minister of the Colonies
+</ab>
+
+<ab>
+Direction of Politcal and Commercial Affairs.
+Office of Africa.
+</ab>
+
+<p>
+Mister Minister,
+
+To follow my
+letter from the 9th of the current October, number 842,
+I have the honor to address to you below <!-- 'ci-dessous' is hyphenated between 'ci-' and 'dessous' -->
+a copy of a telegram from the
+Commander of the south Region
+concerning the american missionaries
+arrived in Faramah.
+</p>
+
+<p>
+Receipt of the american
+missionaries' petition in english to address
+to you bringing on the following points.
+First authorization to penetrate on the
+Sudanese territory to do work
+of missionaries; 2 autorization to raise
+stations on such points that please
+you to authorize and deliverance title
+closed from basic property; 3 <supplied>autorization</supplied>
+to utilize as way of transport
+the Niger and its affluents and to make
+</p>
+
+<ab>
+American <supplied>Missionnaries</supplied>
+arrived in the South.
+</ab>
+
+<pb facs="20160615_122051.jpg"/>
+
+<p>
+use of the vapor so good to them
+it seems; 4 communication of a copy
+of the administrative dispositions
+concerning the functioning of the
+mission. Following signatures of
+two of the missionaries the third
+being returned to Sierra-Leone
+under pretext to go search for
+baggage. The instructions contained
+in your telegram no 462
+from the sixth of October were addressed
+to the Commander of Faramah on the
+tenth of October.
+</p>
+
+<p>
+The petition of the missionaries
+is equally dated from the sixth of October.
+</p>
+
+<p>
+I am, with a profound respect,
+Mister Minister
+your very obedient servant.
 
 <unclear/> <!-- Signature -->
 </p>
