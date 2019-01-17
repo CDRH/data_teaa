@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0132">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from the Governor of the Coast of Ivory to the Minister of Colonies, July 17, 1897</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0132</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,14 +43,16 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from the Governor of the Coast of Ivory to the Minister of Colonies</title>
+<date when="1897-07-17">July 17, 1897</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR CAOM</repository>
+<collection>Cote d'Ivoire XIV 1-3</collection>
+<idno>3</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
@@ -72,15 +74,18 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Governor of the Coast of Ivory</term>
+<term>Minister of Colonies</term>
+<term>P. Ray</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Coast of Ivory</term>
+<term>Grand-Basson</term>
+<term>Lyon</term>
+<term>Paris</term>
 
 </keywords>
     
@@ -102,11 +107,27 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Governor of the Coast of Ivory</roleName>
+<placeName>Grand-Bassam</placeName>
+<date when="1897-07-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Minister of Colonies</roleName>
+<placeName>Paris</placeName>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2018" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +135,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160613_154108.jpg"/>
 
@@ -243,7 +264,139 @@ définitivement cessé./.
 </p>
 
 </div1>
+
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160613_154108.jpg"/>
+
+<ab>
+COTE D'IVOIRE
+</ab>
+
+<ab>
+CABINET
+OF THE
+GOVERNOR
+</ab>
+
+<ab>
+No  408
+</ab>
+
+<ab>
+Analyze
+Response to the communication of
+our ambassador near Saint-
+<supplied>Liège</supplied>, relative to the facts of
+treatment of us that would be
+<supplied>Introduced</supplied> to the Côte d'Ivoire
+</ab>
+
+<ab>
+FRENCH REPUBLIC
+</ab>
+
+<ab>
+LIBERTY - EQUALITY - FRATERNITY
+</ab>
+
+<ab>
+Grand-Bassam, July 17th 1897
+</ab>
+
+<ab>
+The Governor of the Côte d'Ivoire,
+to Mister Minister of the Colonies
+in Paris
+</ab>
+
+<ab>
+1st direction - 1st office
+</ab>
+
+<p>
+Mister Minister,
+By dispatch of last June 15th,
+you had wanted to transmit to me the copy
+of a letter by which our ambassador
+near Saint-Siège informs that his
+attention was called by cardinal Rampolla
+on a report in which the apostolic Prefect
+of the Côte d'Ivoire indicates an increase of
+the treatment of blacks, masacres of slave and
+human sacrifices that are practiced
+to the doors of Grand-Bassam.
+</p>
+
+<p>
+I have the honor of informing you
+that following this communication I
+called P. Ray, apostolic prefect, and I prayed to him
+to supply me with some explanations on the facts
+that could have motivated on his part the
+appreciations also manifestly exagerated,
+not to say inexact. The result of the
+formal declarations that he made to me throughout
+our interview, that it is not to his knowledge
+that the human sacrifices were produced
+since he
+</p>
+
+<pb facs="20160613_154116.jpg"/>
+
+<p>
+since he has been in the colony; that he
+never incidentally in any letter
+talked of increase in the treatment of blacks,
+or masacres of slaves. The Apostolic
+Prefect would be narrow-minded, in a
+letter addressed to the Superior of the Society
+of African Missions of which the headquarters is
+in Lyon, <unclear>j</unclear> recount that in Memni, village
+situated in the Attié at about 70
+kilometers to the North of Grand. Bassam,
+two indigenous, threatened to be put to
+death for an unknown motive,
+would be missionaries in the house of the
+missionnary, and would have escaped
+those who were pursuing them that thanks
+to the intervention of this last. The fact
+would happen around the month of august of
+last year. P. Ray added
+that he had written that which preceeds without
+attaching the least importance,
+and he expressed to me his regrets that one
+exagerated the terms of his letter.
+</p>
+
+<p>
+I did not remark to him
+in the least the bit of
+correction of his conduct, and invited
+him to show henceforth more
+caution in his correspondences
+with his ecclesiastic superiors. I 
+made the promise. I have place to
+believe that P. Ray is guilty
+of my observations, and that he will no
+longer expose himself, by the letters written
+carelessly
+</p>
+
+<pb facs="20160613_154133.jpg"/>
+
+<p>
+and warned a time not very far away 
+where these odious costumes will have
+definitively ceased./.
+
+<unclear/> <!-- Signature -->
+</p>
+
+</div1>
 </body>
 </text>
 
 </TEI>
+

@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0184.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from General Consul of France at New York to Minister of Foreign Affairs, February 11, 1896</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">fr.letter.0184</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from General Consul of France at New York to Minister of Foreign Affairs</title>
+<date when="1896-02-11">February 11, 1896</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR CAOM</repository>
+<collection>Soudan X 1-7</collection>
+<idno>1</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -72,15 +74,23 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Wilson, Henry</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Anatolia</term>
+<term>Armenia</term>
+<term>Carolina Islands</term>
+<term>Farine</term>
+<term>Freetown</term>
+<term>Hawaii</term>
+<term>New York</term>
+<term>Niger</term>
+<term>Rokel River</term>
+<term>Sierra Leone</term>
+<term>Sudan</term>
 
 </keywords>
     
@@ -102,11 +112,25 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>General Conul of France at New York</roleName>
+<placeName>New York</placeName>
+<date when="1896-02-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Minister of Foreign Affairs</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +138,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160615_122436.jpg"/>
 
@@ -234,6 +258,129 @@ devenir une cause de difficulté pour nous et
 encore moins une cause de réclamations
 financières le jour où nous devions nous
 priver de ses services./.
+</p>
+
+</div1>
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160615_122436.jpg"/>
+
+<ab>
+The General Consul of
+France in New York
+to Mr. Minister of Foreign
+Affairs.
+</ab>
+
+<ab>
+New York, february 11th 1896.
+</ab>
+
+<p>
+It exists at No 690 of 8th Avenue,
+in New York, a protestant society that,
+under the name of "International Missionary
+Alliance," works on evangelizing the new
+regions open to civilization.
+Since 7 years ago when it was founded, it has
+arrived at creating around 60 missions of which the
+majority are found in Africa and in Asia;
+it counts 300 missionnaries and, last
+year, it was able to spend for its work
+a half-million francs.
+</p>
+
+<p>
+I received, last week, the
+visit of Mr. Rev. Henry Wilson, Doctor
+</p>
+
+<pb facs="20160615_122446.jpg"/>
+
+<p>
+of theology, president of the Committee of the
+Missions of this Association. In
+returning to me the report, that Your
+Excellence will find enclosed, the work of
+the organization since its foundation, Mr. Wilson
+called my attention to the extension that
+the Society is proposing to give to the
+establishments that it created in the
+English Colony of Sierra-Leone, along
+the river Rokel: eager to cross
+the eastern borders of this colony, it
+would dream to establish a mission in Farina, 
+on the Niger, in French Sudan.
+</p>
+
+<p>
+But ignoring if the regulations oppose
+its installation in our possessions. Mr.
+Dr Wilson prays that I indicate to him which
+formalities the International Alliance would have
+to fill to obtain the permission to evangelize
+this region.
+</p>
+
+<p>
+In the ignorance where I am myself
+of all special regulations on this subject, I can
+</p>
+
+<pb facs="20160615_122455.jpg"/>
+
+<p>
+only signal to you, Mister Minister,
+the demand that Mr. Wilson submitted to me in
+praying Your Excellence to
+inform me of such response that Mr.
+Minister of the Colonies would believe to need to give.
+</p>
+
+<p>
+I see by the budget of the association, that a
+sum of more than 40,000 francs was, last
+year, spent by it in Brittanic
+Sudan and I do not doubt that all effort
+is attempted to respond to the christian civilization
+among the barbaric tribes of West
+Africa do not merit being encouraged.
+Nevertheless, since I have been in the United States,
+I had the occasion to follow the work of the
+majority of the american missionaries and I
+must say that in the politcal point of view, their
+action did not always <unclear/> to the protection
+of all criticism. These are those who
+brought the revolution of the Hawaian Islands and
+attempted to annex these islands into their country
+Aux Iles Carolines, they created
+</p>
+
+<pb facs="20160615_122503.jpg"/>
+
+<p>
+diffuculties in the Spanish government, in
+Anatolia and in Armenia, they <unclear/>
+around them ideas of independence that
+contributed for many to the
+unfortunate event of last Autumn.
+Furthermore Dr. Wilson left me <unclear/>
+that the work of the Alliance would not have been <unclear>without</unclear>
+encountering some opposition in Sierra-Leone
+on the part of english rival missions, and
+it is my point that our agent in Free Town
+could elucidate.
+</p>
+
+<p>
+If the civil collaboration of
+the International Alliance could be accepted
+in our possessions, this should only be on
+the conditions such as this concourse never <unclear>fuit</unclear>
+to become a cause of difficulty for us and
+even less cause of financial
+reclamations the day where we become to deny
+ourselves of these services./.
 </p>
 
 </div1>
