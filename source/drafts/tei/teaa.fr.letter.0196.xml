@@ -10,7 +10,6 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
-<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
@@ -49,7 +48,7 @@
 <msIdentifier>
 <repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
 <collection>Archives Africaines</collection>
-<idno>Portefeuille 217, Liasses 115-122</idno>
+<idno>Portefeuille 241, Liasse 218</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -115,8 +114,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-01-09" who="kln">renamed file, inserted correct header template</change>
-<change when="2017" who="kcd">Corrections, marked up.</change>
+<change when="2019-01-17" who="kln">created xml file</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,43 +122,11 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="fr">
 
 <pb facs="teaa.fr.letter.0196.001.jpg"/>
 
-<p> Congo Belge
- Gouvernement Local
- 5 me Direction
- Justice
- No. <unclear></unclear>    
-    Rappeler dans la réponse la numéro, la date
-    et le numéro de la Direction</p>
-    
-<p> OBJET:
-A propos du voyage du
-    Vice-Consul Général des
- Etats-Unis d'Amerique
-dans le Mayumbe</p>
-    
-    <p> Comme suite à ma letter No. 1925 <unclear></unclear> du 7 septembre 
-   dernier, j'ai l'honneur de vous faire parvenir, sous ce plie en copie,
-   la lettre No. 4217 en date du 5 octobre 1911 du district du
-    Bas-Congo, relative à l'enquête faite par M. l'adjoint supérieur
-     Deleval, sur les faits reprochés à M. le Vice-Consul Général des 
-    Etats-Unis d'Amérique à Boma. </p>
- 
-    <p> La lecture des différents documents que je vous
-     transmets, ainsi que des autres qui me parvinrent antérieurement
-     à ce propos, me laisse l'impression que si les faits portés
-     à ma connaissance par M. Jacques furent exagérés, le Vice-
-     Consul Général des Etats-Unis d'Amerique, a fait néanmoins montre 
-     au cours de son voyage dans le Mayumbe, dans le façons de se
-   renseigner, d'une certaine maladresse qui ne peut se justifier
-     que par son zéle et par son désir documentation. </p>
-    
-    <p> Le Vice-Governeur Général</p>
 
-<p> Monsieur le Ministre des Colonies</p>
 
 </div1>
 

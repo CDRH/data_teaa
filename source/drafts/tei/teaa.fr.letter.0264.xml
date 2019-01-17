@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0264">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0264</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 217, Liasse 122</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -61,7 +63,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,44 +71,52 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term></term>
+<term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
 <term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
-
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
-
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
 </keywords>
     
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
 <keywords scheme="original" n="language">
 <term>French</term>
 </keywords>
-    
-<keywords scheme="original" n="religion">
-<term></term>
-</keywords>
-
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2019-01-11" who="kln">renamed file, inserted correct header template</change>
+<change when="2017" who="KCD">Corrections, marked up.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -116,53 +126,52 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <div1 xml:lang="fr" type="document">     
 
-<pb facs="10014_001.jpg"/>
+<pb facs="teaa.fr.letter.0264.001.jpg"/>
 
-    <p>Ministère
-    des
-    Affaires Ètrangères
-    Direction P No C I
-    Rappeler dans la réponse les numéros
-    le litta de la Direction ainsi que la date
-    Annexe
-    Réponse à la letter du 19 , No
-    Objet:</p>
+<p>Ministère
+des
+Affaires Ètrangères<lb/>
+Direction P No C I<lb/>
+Rappeler dans la réponse les numéros
+le litta de la Direction ainsi que la date<lb/>
+Annexe</p>
     
-<p>Bruxelles, le 10 Fevreier 1911</p>
+<p>Bruxelles, le 10 Fevrier 1911</p>
 
 <p>Monsieur Le Ministre,</p>
     
-<p>Par une lettre du 31 janvier ( E No. 1139) j'ai
-    eu l'honneur de vous faire savoir que la Légation des Etats-
+<p>Par une lettre du 31 janvier (E No. 1139) j'ai
+eu l'honneur de vous faire savoir que la Légation des Etats-
 Unis à Bruxelles m'avait fair parvenir la lettre de provision
-de M. CharlesCBroy, nommé Vice-Consul Général
+de M. Charles C Broy, nommé Vice-Consul Général
 suppléant de la République à Roma.</p>
     
-<p> J'attire votre attention, Monsieur le Ministre, sur
-    le fait que la letter de provision de M. Broy, datée du mois
-    de septembre 1910, est identique à celle de M. Phelan, nommé
-    à Bruxelles en la même qualité en 1905. La demande de reconnaissance
-    qui n'a été adressé par le Ministre des Etats-Unis
-    a été rédigée dans des termes absolument semblales pour ces
+<p>J'attire votre attention, Monsieur le Ministre, sur
+le fait que la letter de provision de M. Broy, datée du mois
+de septembre 1910, est identique à celle de M. Phelan, nommé
+à Bruxelles en la même qualité en 1905. La demande de reconnaissance
+qui n'a été adressé par le Ministre des Etats-Unis
+a été rédigée dans des termes absolument semblales pour ces
 deux agents.</p>
     
-    <p>Le Gouvernement américain n'a pas parlé d'exequatur.
-        Il ne réclame l'exequatur que lorsqu'il s'agit d'un Consul ou
-        d'un Consul-Général en titre. M. Broy, de même que M. Phelan,
-        n'est que Vice and Deputy Consul Général. Pour les agents de</p>
+<p>Le Gouvernement américain n'a pas parlé d'exequatur.
+Il ne réclame l'exequatur que lorsqu'il s'agit d'un Consul ou
+d'un Consul-Général en titre. M. Broy, de même que M. Phelan,
+n'est que Vice and Deputy Consul Général. Pour les agents de <fw type="catch">cette</fw>
 
-<p> M. le Ministre des Colonies à Bruxelles</p>
+<fw type="footer">M. le Ministre des Colonies à Bruxelles.</fw>
     
-<pb></pb>
-<p> cette catégorie, le gouvernment américain demande la "reconnaissance"
+<pb facs="teaa.fr.letter.0264.002.jpg"/>
+
+cette catégorie, le gouvernment américain demande la "reconnaissance"
 et c'est ce qu'il a fait pour l'un comme pour l'autre.</p>
 
-<p> On s'est donc adressé à nous pour M. Broy exactement
+<p>On s'est donc adressé à nous pour M. Broy exactement
 comme ont l'aurait fait s'il s'était agi de nommer cet
 agent en Belgique même. C'est reconnaître que le Congo est une
 dépendance de la Belgique.</p>
 
-<p> Je me réserve éventuellement de souligner ce fait
+<p>Je me réserve éventuellement de souligner ce fait
 lors de la discussion du budget des Affaires Etrangères par
 les Chambres.</p>
 
@@ -177,27 +186,29 @@ d'actes accomplis par le gouvernement Américain. La demande
 dont M. Broy vient d'être l'objet est la plus significatif de
 ces actes.</p>
 
-<div1 xml:lang="en" type="document">
+<p><unclear></unclear></p>
+
+</div1>
+
+<div1 xml:lang="en" type="translation">
         
-<pb facs="10014_001.jpg"/>
+<pb facs="teaa.fr.letter.0264.001.jpg"/>
         
 <p>Minister
 of
-Foreign Affaires 
-Direction P No C I
+Foreign Affairs<lb/>
+Direction P No C I<lb/>
 Remember in the response the numbers 
-of the Direction as well as the date 
-Annex
-Reponse to letter 19, No
-Subject:</p>
+of the Direction as well as the date<lb/> 
+Annex</p>
         
 <p>Brussels, the 10th of February 1911</p>
         
 <p>Mr. Minister,</p>
         
-<p>By a letter from the 31th of January ( E No. 1139) I have 
-had the honnor to make it known to you that the Legation of the United 
-States in Brussels made me send Mr. CharlesCBroy's 
+<p>By a letter from the 31th of January (E No. 1139) I have 
+had the honor to make it known to you that the Legation of the United 
+States in Brussels made me send Mr. Charles C Broy's 
 provisional letter, who was named Vice-Consul General 
 deputy of the Republic in Roma.</p>
         
@@ -212,21 +223,22 @@ two agents.</p>
 <p>The American Government did not speak of an exequatur.
 He only claims the exequatur that when he acts as a Consul or 
 a Consul General officially. Mr. Broy, like Mr. Phelan,
-is only the Vice and the Deputy Consul General. For the agents of</p>
+is only the Vice and the Deputy Consul General. For the agents of <fw type="catch">this</fw>
         
-<p> Mr. Minister of the Brussels Colonies </p>
+<fw type="footer"> Mr. Minister of the Brussels Colonies</fw>
         
-<pb></pb>
-<p> this category, the American government asks the "recognition" 
+<pb facs="teaa.fr.letter.0264.002.jpg"/>
+
+this category, the American government asks the "recognition" 
 and that what he did for one is similar to the other.</p>
         
-<p> One is so addressed to us for Mr. Broy exactly`
+<p>One is so addressed to us for Mr. Broy exactly
 as it had been done if it had been a question of naming this 
 agent in Belgium itself. This is to recognize that the Congo is a 
 dependence of Belgium.</p>
         
-<p> I reserve myself to eventually underline the fact 
-during the budget discussion of Foreign Affaires by 
+<p>I reserve myself to eventually underline the fact 
+during the budget discussion of Foreign Affairs by 
 the Chambers.</p>
         
 <p>The Count Busseret made it known to me by a report 
@@ -236,9 +248,11 @@ States Government will not do a formal declaration
 of recognition of the annexation, which we have never 
 asked him to do. It is estimated in Washington that 
 this recognition bought by Belgium by a series 
-of acts accomplished by the American Government.The demand
+of acts accomplished by the American Government. The demand
 which Mr. Broy comes to be the object of more significance in
 these acts.</p>
+
+<p><unclear></unclear></p>
 
 </div1>
 </body>
