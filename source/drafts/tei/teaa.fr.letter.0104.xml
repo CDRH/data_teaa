@@ -74,15 +74,21 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Admiral Rigoult de Genouilly</term>
+<term>General Dix</term>
+<term>Nassou</term>
+<term>Perrot</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Coriseo</term>
+<term>Gabon</term>
+<term>Paris</term>
+<term>Portugal</term>
+<term>United States</term>
+<term>Washington</term>
 
 </keywords>
     
@@ -104,11 +110,27 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName/>
+<placeName>Paris, France</placeName>
+<date when="1867-04-13"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Admiral Rigoult de Genouilly</persName>
+<roleName>Minister of the Navy and Colonies</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2018" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -227,6 +249,7 @@ Agréez,
 </p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
 
 <pb facs="20160614_100309.jpg"/>
