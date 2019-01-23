@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0250">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0250</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 217, Liasse 119</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>English</term>
+<term>French</term>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-01-14" who="kln">renamed file, inserted correct header template, transcribed english documents</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="fr">
+
+<pb facs="teaa.fr.letter.0250.001.jpg"/>
+
+<p>
+
+<pb facs="teaa.fr.letter.0250.002.jpg"/>
+
+</p>
+
+<pb facs="teaa.fr.letter.0250.003.jpg"/>
+
+<p>
+
+<pb facs="teaa.fr.letter.0250.004.jpg"/>
+
+</p>
+
+</div1>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.fr.letter.0250.005.jpg"/>
+
+<p>Legation of the United States of America.</p>
+
+<p>Brussels December 9. 1886</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to transmit to you herewith, a copy of a letter received by this Legation from one Gustav Zobel, Sergeant of Company G. of the 3rd United States infantry.</p>
+
+<p>It would appear from his letter that he has the intention to make application to enter the Service of the Independent State of the Congo, on the expiration of the term of his present military enlistment next February.</p>
+
+<p>I should esteem it a great favor, if you could kindly assist me in furnishing any information to the writer of the letter in question, on the subject of his enquiry.</p>
+
+<fw type="catch">Thanking</fw>
+
+<fw type="footer">Mr Edmond Van Eetvelde<lb/>
+Administrator General of the Department of Foreign Affairs of the Independent State of the Congo</fw>
+
+<pb facs="teaa.fr.letter.0250.006.jpg"/>
+
+<p>Thanking you in advance, I equally avail myself of the occasion, Mr Administrator General, to renew to you the assurances of my most distinguished consideration.</p>
+
+<p>Lambert Tree</p>
+
+</div1>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.fr.letter.0250.007.jpg"/>
+
+<p>Copy.</p>
+
+<p>Company "G."<lb/>
+Fort Shaw, M.T.<lb/>
+November 12th 1886.</p>
+    
+<p>To the Secretary of the American Legation<lb/>
+Brussels, Belgium.</p>
+
+<p>Sir:</p>
+    
+<p>I am at present a Sergeant in the army of the United States and my term of service expires February 19th 1887, when I am thinking of making application for a position in the service of the Congo free State.</p>
+    
+<p>I shall consider myself greatly indebted to you, if you will kindly furnish me information, how to proceed, and when I shall have to go, to make application. I have been given to misunderstand, that the
+Congo State is governed from Brussels with His Majesty the King of Belgium as President; that is my motive in
+
+<pb facs="teaa.fr.letter.0250.008.jpg"/>
+    
+writing to you for the information desired. I expect to be in Brussels four months from this date, and if I am posted, it will save me time and trouble and money. I need only add, that I speak english and german, have served in the german Field Artillery at Danzig from 74 to 78 have visited the Ordnance School at Berlin from 76 to 77 and shall have a  first class discharge and the best of references from my present superior officers</p>
+    
+<p>Hoping for your kind assistance.</p>
+
+<p>I am Sir<lb/>
+Your obedient Servant.<lb/>
+Gustav Zobel<lb/>
+Sergeant Co. "G" 3d Infantry<lb/>
+Fort Shaw, M.T.</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

@@ -171,45 +171,53 @@ NOTES:
 <residence source="https://pabook.libraries.psu.edu/williams__george_washington" from="1876" to="1885"><placeName>Cincinnati, Ohio</placeName></residence>
 <residence source="https://blackpast.org/aah/williams-george-washington-1849-1891" from="1890" to="1891"><placeName>England, Great Britain</placeName></residence>
 <event type="visited" from="1889" to="1890"><ab><placeName>Congo Free State</placeName></ab></event>
-<occupation source="" from="yyyy-mm" to="yyyy-mm"></occupation>
+<occupation source="https://blackpast.org/aah/williams-george-washington-1849-1891" from="1864" to="1865">Civil War Soldier</occupation>
+<occupation source="https://blackpast.org/aah/williams-george-washington-1849-1891" from="1867" to="1868">US Army Soldier</occupation>
+<occupation source="https://blackpast.org/aah/williams-george-washington-1849-1891" from="1874" to="1890">clergyman</occupation>
+<occupation source="https://blackpast.org/aah/williams-george-washington-1849-1891" from="1882" to="1887">author/historian</occupation>
+<occupation source="https://blackpast.org/aah/williams-george-washington-1849-1891" notAfter="1890" notBefore="1874">lawyer</occupation>
 <trait type="race" source="https://blackpast.org/aah/williams-george-washington-1849-1891"><ab>Black</ab></trait>
 <sex source="https://blackpast.org/aah/williams-george-washington-1849-1891">male</sex>
 <nationality source="https://blackpast.org/aah/williams-george-washington-1849-1891" notAfter="1891" notBefore="1849">United States</nationality>
 <faith source="https://blackpast.org/aah/williams-george-washington-1849-1891">Baptist</faith>
-<affiliation source="" from="yyyy-mm" to="yyyy-mm"></affiliation>
 <idno type="viaf">https://viaf.org/viaf/100373407</idno>
 <note></note>
 </person>
 
-<person xml:id="per.000001">
-<persName type="display"></persName>
-<persName type="full"><surname></surname>, <forename type="first" full="yes"></forename> <forename type="middle" full="init"></forename> <addName type="honorific"></addName></persName>
-<birth when="yyyy-mm-dd" source=""><placeName></placeName></birth>
-<death when="yyyy-mm-dd" source=""><placeName></placeName></death>
-<residence source="" from="yyyy-mm" to="yyyy-mm"><placeName></placeName></residence>
-<socecStatus source="" from="yyyy-mm" to="yyyy-mm">enslaved</socecStatus>
-<occupation source="" from="yyyy-mm" to="yyyy-mm"></occupation>
-<trait type="race" source=""><ab></ab></trait>
-<sex source=""></sex>
-<nationality source="" notAfter="" notBefore=""></nationality>
-<faith source=""></faith>
-<affiliation source="" from="yyyy-mm" to="yyyy-mm"></affiliation>
-<idno type="viaf"></idno>
+<person xml:id="per.000005">
+<persName type="display">John Henry Smyth</persName>
+<persName type="full"><surname>Smyth</surname>, <forename type="first" full="yes"></forename>John<forename type="middle" full="yes">Henry</forename></persName>
+<birth when="1844-07-14" source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/"><placeName>Richmond, Virginia</placeName></birth>
+<death when="1908-12-05" source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/"><placeName>Richmond, Virginia</placeName></death>
+<residence source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/" notAfter="1869" notBefore="1844" ><placeName>Richmond, Virginia</placeName></residence>
+<residence source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/" from="1869" to="1870" ><placeName>Washington, D.C.</placeName></residence>
+<residence source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/" notAfter="1878" notBefore="1870" ><placeName>Wilmington, North Carolina </placeName></residence>
+<residence source="https://history.state.gov/departmenthistory/people/smyth-john-henry" from="1878" to="1881" ><placeName>Monrovia, Liberia</placeName></residence>
+<residence source="https://history.state.gov/departmenthistory/people/smyth-john-henry" from="1882" to="1885" ><placeName>Monrovia, Liberia</placeName></residence>
+<residence source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/" from="1885" to="1892" ><placeName>Washington, D.C.</placeName></residence>
+<residence source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/" from="1892" to="1908" ><placeName>Richmond, Virginia</placeName></residence>
+<occupation source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/" notAfter="1908" notBefore="1870">educator</occupation>
+<occupation source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/" notAfter="1908" notBefore="1870">lawyer</occupation>
+<occupation source="https://history.state.gov/departmenthistory/people/smyth-john-henry" from="1878-05-23" to="1881-12-22">Minister Resident/Consul General (Liberia)</occupation>
+<occupation source="https://history.state.gov/departmenthistory/people/smyth-john-henry" from="1882-04-12" to="1885-12-14">Minister Resident/Consul General (Liberia)</occupation>
+<trait type="race" source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/"><ab>Black</ab></trait>
+<sex source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/">male</sex>
+<nationality source="https://history.state.gov/departmenthistory/people/smyth-john-henry">United States</nationality>
+<affiliation source="https://exhibits.library.villanova.edu/institute-colored-youth/graduates/john-henry-smyth-bio/" from="1897" to="1908">Negro Reformatory Association of Virginia</affiliation>
 <note></note>
 </person>
 
-<person xml:id="per.000001">
-<persName type="display"></persName>
-<persName type="full"><surname></surname>, <forename type="first" full="yes"></forename> <forename type="middle" full="init"></forename> <addName type="honorific"></addName></persName>
-<birth when="yyyy-mm-dd" source=""><placeName></placeName></birth>
-<death when="yyyy-mm-dd" source=""><placeName></placeName></death>
+<person xml:id="per.000006">
+<persName type="display">Moses Aaron Hopkins</persName>
+<persName type="full"><surname>Hopkins</surname>, <forename type="first" full="yes">Moses</forename> <forename type="middle" full="yes">Aaron</forename>,</persName>
+<birth when="1846-12-25" source="https://www.ncpedia.org/biography/hopkins-moses-aaron"><placeName></placeName></birth>
+<death when="1886-08-03" source="https://history.state.gov/departmenthistory/people/hopkins-moses-aaron"><placeName>Monrovia, Liberia</placeName></death>
 <residence source="" from="yyyy-mm" to="yyyy-mm"><placeName></placeName></residence>
 <socecStatus source="" from="yyyy-mm" to="yyyy-mm">enslaved</socecStatus>
-<occupation source="" from="yyyy-mm" to="yyyy-mm"></occupation>
-<trait type="race" source=""><ab></ab></trait>
-<sex source=""></sex>
-<nationality source="" notAfter="" notBefore=""></nationality>
-<faith source=""></faith>
+<occupation source="https://history.state.gov/departmenthistory/people/hopkins-moses-aaron" from="1885-09-11" to="1886-08-03">Minister Resident/Consul General (Liberia)</occupation>
+<trait type="race" source="https://history.state.gov/departmenthistory/people/hopkins-moses-aaron"><ab>Black</ab></trait>
+<sex source="https://history.state.gov/departmenthistory/people/hopkins-moses-aaron">male</sex>
+<nationality source="https://history.state.gov/departmenthistory/people/hopkins-moses-aaron" notAfter="1886" notBefore="1846">United States</nationality>
 <affiliation source="" from="yyyy-mm" to="yyyy-mm"></affiliation>
 <idno type="viaf"></idno>
 <note></note>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0246">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0246</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 217, Liasse 119</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-01-11" who="kln">renamed file, inserted correct header template</change>
+<change when="2018" who="sab">translation</change>
+<change when="2017" who="KCD">Corrections, marked up.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="teaa.fr.letter.0246.001.jpg"/>
+
+<p>En réponse à diverses questions posées par M. le
+Ministre des Etats-Unis d'Amérique, il lui est fourni les
+renseignments suivants:</p>
+    
+<p>I.- Le Commerce est absolument libre dans l'Etat Indépendant
+du Congo. Tout particulier peut vendre aux habitants
+toutes marchandises et leur acheter les produits de leur
+travail. Toutefois, le trafic des armes à feu perfectionnées
+est interdit. La vente des spiriteux aux indigènes est
+également prohibée dans presque tout l'Etat, à l'exception
+d'une partie du Bas Congo.</p>
+    
+<p>Il va de soi que pour se livrer sur une propriété
+à une exploitation quelconque, il faut au Congo comme
+partout ailleurs, l'autorisation du propriétaire. Aussi les
+produits, notamment l'ivoire et le caoutchouc, provenant des
+forets de l'Etat ne peuvent être récoltés sans l'autorisation
+du propriétaire. Cette autorisaion s'accorde, en ce
+qui concerne les forêts non vendues ni concédes, aux sujets
+de toutes les nationalités, dans les bassins des rivières
+Kassï, Sankuru, Lubefu, Loango, Djuma, Ubangi, sur les rives du Congo
+en aval des Falls, dans le bassin de la Lulonga, de
+l'Ikelemba et du Ruki. (Décret du 30 Octobre 1892 sur l'exploitation
+du caoutchouc et disposition ultérieurs).</p>
+    
+<p>II.- Il n'a pas de formalités à remplir pour exercer
+un commerce quelconque. S'il s'agit de l'établissement
+d'une société commerciale, les statuts de cette société
+doivent être déposés au greffe du Tribunal de première instance,
+à Boma.</p>
+    
+<p>Les associations religeuses ne son reconnues légalement
+que par l'octroi de la personification civile; celle-
+ci se demande par requête adressée au Gouverneur Général,
+    
+<pb facs="teaa.fr.letter.0246.002.jpg"/>
+    
+elle s'accorde par décret du Roi-Souverain.</p>
+    
+<p>Les importations et exportations de marchandises sont
+soumises aux formalités douanières indiquées dans les règlements
+ci-joints (Annexes I et II).</p>
+    
+<p>III.- Toute personne qui désire acheter ou prendre en
+location des terres autres que celles sur lesquelles il
+existe, au profit de tiers, des droit de propriété dûment
+enregisterés, doit en faire la demande soit au Secrétaire
+d'Etat à Bruxelles, soit au Gouverneur Général à Boma. </p>
+    
+<p>IV.- Les principales taxes à acquitter au Congo sont
+1o le rix d'achat ou de location des terres, si elles 
+appartiennent au domaine de l'Etat. (Annexe III_)</p>
+    
+<p>2° La taxe d'enregistrement et les frais de mesurage de
+ces terres (Voir annexe IV ci-jointe, pages 8 et 12);</p>
+
+<p>3° Les impositions directes et personnelles (Voir annexe V
+ci-jointe);</p>
+    
+<p>4° les droits sortie et d'entrée (Voir annexes I et II
+ci-jointes);</p>
+
+<p>5° La taxe domaniale sur le caoutchouc. Cette taxe est de
+0,25 frs. par kilogramme de caoutchouc récolté. Le caoutchouc
+provennant des territoires en aval du Stanley-Pool,
+des rives de l'Ubangi n'est pas soumis à cet impôt;</p>
+    
+<p>6° Taxe sur le recrutemont des travailleurs (Voir annexe
+VI, ci-jointe, page 151).</p>
+    
+<p>Toutes ces taxes peuvent être modifiées par la loi,
+sauf les droits d'entrée qui ont été établis d'accord avec
+les puissances.</p>
+    
+<p>V.-Les lois congolaises, conformément à l'Acte de 
+Berlin, ne contiennent aucune distinction relativement à la
+nationalité des particuliers ou des sociéties.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+        
+<pb facs="teaa.fr.letter.0246.001.jpg"/>
+        
+<p>In response to the varying questions asked by Mr. 
+Minister of the United States of America, he provided him the 
+following statements:</p>
+        
+<p>I.- The Commerce is absolutely free in the Independant State 
+of the Congo. All specifics can sell to the residents 
+all goods and buy the products of their 
+work. However, the trafficking of advanced firearms 
+is prohibited. The spirited wind of the natives is
+equally prohibited in the almost the entire State, with the exception 
+of one part of the Bas Congo.</p>
+        
+<p>It goes without saying that with a property 
+in an ordinary exploitation,  il faut au Congo comme
+partout ailleurs, the authorization of the property. Also the
+products, notably they ivory and the rubber, come from the 
+State forests and cannot be harvested withouth authorization
+from the owner. The authorization granted, with what 
+concerns the unsold or conceded forests, to the subects 
+of all the nationalities, in the river bassins 
+Kassï, Sankuru, Lubefu, Loango, Djuma, Ubangi, on the Congo rivers 
+downstream of the FAlls, in the Lulonga bassin, 
+in the Ikelemba and the Ruki. (Decreed the 30th of October 1892 on the exploitation 
+of rubber and the later placement).</p>
+        
+<p>II.- There are no formalities to fulfill for excercising  
+any commerce. If one acts to establish 
+any societal trade, the status of this society 
+must be deposed to the courts administration service of the Tribunal to the primary authority,
+in Boma.</p>
+        
+<p>The religious associations don't legally recognize 
+that by the grant of the civil personification; this 
+one demands by the adressed request to the Governor General,
+        
+<pb facs="teaa.fr.letter.0246.002.jpg"/>
+        
+she grants by the order of the Sovereign King.</p>
+        
+<p>The imports and exports of merchandise are 
+subject to the formalities of customs officers indicated in the regulations 
+enclosed (Annexs I and II).</p>
+        
+<p>III.- Every person who wants to buy or take 
+other land for lease on which it 
+exists, for the profit of the outsiders, the owner's rights duly 
+noted, must do it the demande either to the Secretary 
+of State in Brussels, or the Governer General in Boma.</p>
+        
+<p>IV.- The principle taxes to acquit in the Congo are 
+1o the price of purchasing or from renting the proptery, if they 
+belong to the domaine of the State. (Annex III_)</p>
+        
+<p>2° The registration fee and the metering expenses of 
+these properties (See annex IV attached, pages 8 and 12);</p>
+
+<p>3° The direct and personal imposisitions (See annex V 
+attahed);</p>
+        
+<p>4° The exit and entrance fees (See annexs I and II 
+attached);</p>
+        
+<p>5° The state tax ont he rubber. This tax is 
+0.25 frs. per kilogram of harvested rubber. The rubber 
+originating from the territories downriver of Stanley-Pool,
+the Ubangi rivers is not subject to this tax;</p>
+        
+<p>6° Tax on the recruitment of the workers (See annex
+VI, attached, page 151).</p>
+        
+<p>All of these taxes can be modified by law, 
+with exception to the rights of entrance that has been established in accordance with
+the powers.</p>
+        
+<p>V.-The Conglese laws, in accordance with the Act of  
+Berlin, contain no distinction relative to the 
+nationality from particulars or from societies.</p>
+
+</div1>
+</body>
+</text>
+    
+</TEI>

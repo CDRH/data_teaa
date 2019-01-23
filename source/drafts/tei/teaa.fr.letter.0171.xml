@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0171.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from Under Secretary of State to Minister of Foreign Affairs, October 9, 1893</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">fr.letter.0171</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from Under Secretary of State to Minister of Foreign Affairs</title>
+<date when="1893-10-09">October 9, 1893</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR CAOM</repository>
+<collection>Soudan X 1-7</collection>
+<idno>1</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -72,15 +74,17 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Alby</term>
+<term>May</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>France</term>
+<term>Sierra Leone</term>
+<term>Soudan</term>
+<term>Washington</term>
 
 </keywords>
     
@@ -102,11 +106,25 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Under Secretary of State</roleName>
+<placeName>Paris</placeName>
+<date when="1893-10-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Minister of Foreign Affairs</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +132,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160615_121319.jpg"/>
 
@@ -255,6 +273,149 @@ A R C
 <unclear/>
 </note>
 
+</div1>
+<div1 xml:lang="en" type="translation">
+                
+<pb facs="20160615_121319.jpg"/>
+                
+<ab>
+<supplied>1st</supplied> office
+</ab>
+                
+<ab>
+The Under Secretary of State
+to Mr. Minister
+of Foreign Affairs.
+</ab>
+                
+<ab>
+Paris, October 9th 1893.
+For. Aff. 290.
+</ab>
+                
+<ab>
+<supplied>The affairs</supplied> of Sierra Leone
+American Protestant<supplied>Mission</supplied>
+<supplied>in</supplied> Sudan
+</ab>
+                
+<p>
+Mister Minister,
+on the date of September 14th
+common, you had wanted to
+give me knowledge of a
+report of Mr. May, manager
+of the vice consulate of France and
+Sierra-Leone, you signaled,
+as being able to <unclear/> your
+influence in these regions,
+the establishment of an american
+mission that proposed
+to stretch the field of <unclear/>
+action until toward your
+possessions of Sodan.
+</p>
+                
+<p>
+I read with interest
+the information that Mr. May
+gave you in his report on
+the organization and the goal of
+this mission. But I would
+know <del>donc</del> to share the
+hopes that this government official
+seems to hasten a bit too
+much to found on the presence
+in Sudan the american
+missions. One must not
+forget that, in our colonies
+especially, the foreign representatives
+of religious sects <unclear/>
+under color of <unclear>evangelic</unclear> apostolate,
+worked on the development of <unclear/>
+</p>
+                
+<ab>
+<unclear/> COLONIES
+1st OFFICE
+ 30 SEP.93
+</ab>
+                
+<note>
+<unclear/>
+</note>
+                
+<pb facs="20160615_121333.jpg"/>
+                
+<p>
+purely political influence. I
+recognize that, in this
+circumstance, It is a
+mission of which the members are
+citizens of the United States of America
+and that the government of
+Washington does not seem to pursue                    
+in Africa any project of annexation.
+We find ourselves nonetheless in
+presence of protestant missionaries,
+that will be brought to search for a
+support, with preference to the
+french government officials, near the
+representatives of a nation of which
+the population in large majority
+belongs herseld to the
+reformed religion, that is to say
+near the brittanic authorities.
+It is there for the American
+"Soudan Mission" a
+tendancy, without doubt rather
+natural, that we will
+have, I fear, the occasion
+to see soon affirm itself.
+</p>
+                
+<p>
+Also it seems
+prudent, before favoring
+<del>comme le propse M. Alby</del> in
+the french <del>bienui</del> territory the
+american missionaries, just
+as the proposal Mr. Alby, to wait
+until it is possible to appreciate
+</p>
+                
+<pb facs="20160615_121354.jpg"/>
+                
+<p>                
+the direction that they receive, the hope
+that brings them. Until then, the
+more <unclear/> for us
+seems <unclear/> to conserve regarding
+a strict neutrality,
+we <unclear/> to assure them
+our our support the day where we
+will be certain that it
+considers in no way to
+form against our domination
+the assistance and the favor of the
+<unclear>french</unclear> government officials.
+                
+</p>
+
+<p>
+I can only 
+<unclear>leave</unclear> you <unclear>to see</unclear> it, Mister
+Minister, if you share
+my sentiment, to inform
+of these observations to
+Mr. Alby.
+A R C
+</p>
+                
+<note>
+<unclear/>
+</note>
+                
 </div1>
 </body>
 </text>

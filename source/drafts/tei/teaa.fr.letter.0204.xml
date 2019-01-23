@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0204">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie Anneliese" xml:id="sab"></name>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0204</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 241, Liasse 219</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-01-09" who="kln">renamed file, inserted correct header template</change>
+<change when="2018" who="sab">translated</change>
+<change when="2018" who="kcd">Transcription and initial encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="teaa.fr.letter.0204.001.jpg"/>
+
+<p>Gouvernement Local<lb/>
+5me Direction<lb/>
+Justice<lb/>
+No. 1427<lb/>
+2 Annexes<lb/>
+Objet: 
+A propos du voyage du Vice-Consul
+Général des Etats-Unis d'Amérique
+dans le Mayumbe</p>
+
+<p>Boma, le 10 juillet 1911</p>
+    
+<p>Monsieur le Ministre,</p>
+    
+<p>J'ai l'honneur de vous transmettre sous ce pli en
+original, une lettre que m'adressait à la date du 26
+juin dernier, Mr. Jacques, ex-lieutenant de l'Etat Indépendant
+du Congo, actuellement planteur dans le Mayumbe,
+relative à des faits qui se seraient passés dans cette
+région, faits dont se serait rendu coupable Mr le Vice-
+Consul Général des Etats Unis d'Amerique à Boma.</p>
+    
+<p>Au premier abord l'accusation portée par Mr Jacques
+n'est pas sans m'étonner, le Vice-Consul Général des
+Etats Unis d'Amérique, tout comme ses collègues Italien
+et Anglais d'ailleurs, entretenant les relations les
+plus courtoises avec le Gouvernement local.</p>
+    
+<p>Néanmoins je prescris une enquête discrète mais 
+minutieuse dans le dessein d'établir le bien fondé des
+allégations dont il s'agit.</p>
+    
+<p>Je ne manquerai pas d'ailleurs de vous tenir au
+courant des résultats de cette enquête.</p>
+    
+<p>Je joins à cette lettre copie de ma réponse en
+date de ce jour à Mr Jacques.</p>
+    
+<p>Le Vice-Gouverneur Général,<lb/>
+<unclear></unclear></p>
+    
+<fw type="footer">Monsieur le Ministre des Colonies
+Bruxelles.</fw>
+
+<pb facs="teaa.fr.letter.0204.002.jpg"/>
+
+<p>Boma, le 10 juillet 1911</p>
+    
+<p>Monsieur,</p>
+    
+<p>J'ai l'honneur de vous accuser réception de
+votre lettre en date du 26 juin dernier par
+laquelle vous portes à ma connaissance des
+faits qui intéressent l'administration de la 
+Colonie.</p>
+    
+<p>Je vous remercie pour cette communication
+qui n'a pas manqué de retenir toute mon attention.</p>
+    
+<p>Veuillez agréer, Monsieur, l'assurance de ma
+considération distinguée.</p>
+    
+<p>Le Vice-Gouverneur Général,</p>
+    
+<fw type="footer">Monsieur Jacque
+Planteur
+(de passage) à Boma.</fw>
+
+<pb facs="teaa.fr.letter.0204.003.jpg"/>
+
+<!-- not transcribed -->
+
+<pb facs="teaa.fr.letter.0204.004.jpg"/>
+
+<!-- not transcribed -->
+
+</div1>
+
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0204.001.jpg"/>
+
+<p>Local Government<lb/>
+5th Direction<lb/>
+Justice<lb/>
+No. 1427<lb/>
+2 Annexes<lb/>
+Subject:<lb/> 
+By the way of the Vice-Consul General
+of the United States of America's trip 
+in the Mayumbe</p>
+    
+<p>Mr. Minister,</p>
+    
+<p>I'm honored to inform you under this original envelope, 
+a letter that I addressed on the 26th of 
+last june, Mr. Jacques, ex-lieutenant of the Independant State
+of the Congo, at present a plantation owner in the Mayumbe,
+regarding the facts that happened in this
+region, facts that would make Mr. Vice-
+Consul General of the United States of America of Boma guilty.</p>
+    
+<p>At first glance the important accuasation by Mr. Jacques
+is somewhat surprising, the Vice-Consul General of the
+United States of America, incidentally much like his Italian 
+and English colleagues, maintains a polite relationship  
+with the local government.</p>
+    
+<p>Nevertheless I advise a discrete but  
+meticulous investigation with the hope of establishing the justification for the allegations in question.</p>
+    
+<p>I will not fail to keep you informed of
+the results of this investigation.</p>
+    
+<p>I attached a copy of my response to date 
+to this letter for Mr Jacques.</p>
+    
+<p>The Vice-Governor General,
+<unclear></unclear></p>
+    
+<fw type="footer">Mr. Minister of the Brussels 
+Colonies.</fw>
+
+<pb facs="teaa.fr.letter.0204.002.jpg"/>
+
+<p>Boma, the 10th of july 1911</p>
+    
+<p>Sir,</p>
+    
+<p>I am honored to acknowledge the receipt of 
+your letter dated the 26th of last June in 
+which you brought to my awareness the 
+facts that interest the administration of the 
+Colony.</p>
+    
+<p>I would like to thank you for this communication
+that did not fail to hold my utmost attention.</p>
+    
+<p>Please accept, Sir, the assurance of my 
+distinguished consideration.</p>
+    
+<p>The Vice-Governor General,</p>
+    
+<fw type="footer">Mr. Jacque
+Plantation Owner
+(passage) from Boma.</fw>
+
+</div1>
+</body>
+</text>
+
+</TEI>

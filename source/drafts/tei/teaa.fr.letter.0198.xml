@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0198">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription, translation, and encoding</resp>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0198</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 241, Liasse 219</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-01-09" who="kln">renamed file, inserted correct header template</change>
+<change when="2018" who="pr">translated</change>
+<change when="2017" who="kcd">Corrections, marked up.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="fr">
+
+<pb facs="teaa.fr.letter.0198.001.jpg"/>
+
+<p>Congo Belge<lb/>
+Gouvernement Local<lb/>
+5me Direction<lb/>
+Justice<lb/>
+No. <unclear></unclear></p>
+    
+<p>OBJET:<lb/>
+A propos du voyage du
+Vice-Consul Général des
+Etats-Unis d'Amerique
+dans le Mayumbe</p>
+    
+<p>Comme suite à ma letter No. 1925 <unclear></unclear> du 7 septembre 
+dernier, j'ai l'honneur de vous faire parvenir, sous ce plie en copie,
+la lettre No. 4217 en date du 5 octobre 1911 du district du
+Bas-Congo, relative à l'enquête faite par M. l'adjoint supérieur
+Deleval, sur les faits reprochés à M. le Vice-Consul Général des 
+Etats-Unis d'Amérique à Boma. </p>
+ 
+<p>La lecture des différents documents que je vous
+transmets, ainsi que des autres qui me parvinrent antérieurement
+à ce propos, me laisse l'impression que si les faits portés
+à ma connaissance par M. Jacques furent exagérés, le Vice-
+Consul Général des Etats-Unis d'Amerique, a fait néanmoins montre 
+au cours de son voyage dans le Mayumbe, dans le façons de se
+renseigner, d'une certaine maladresse qui ne peut se justifier
+que par son zéle et par son désir documentation. </p>
+    
+<p>Le Vice-Governeur Général</p>
+
+<p><unclear></unclear></p>
+
+<fw type="footer">Monsieur le Ministre des Colonies</fw>
+
+<fw type="footer">Bruxelles</fw>
+
+
+<pb facs="teaa.fr.letter.0198.002.jpg"/>
+
+<p>Boma, le 5 octobre 1911.</p>
+    
+<p>No 4217.<lb/>
+4 Annexes<lb/>
+4 Copies<lb/>
+Objet:
+Enquête faite par l'Adjoint
+Supérieur à Lolo.</p>
+    
+<p>Monsieur le Gouverneur Général,</p>
+    
+<p>J'ai l'honneur de vous envoyer sous ce pli
+une lettre et l'enquête faites par l'Adjoint Supérieur au
+sujet des paroles attribuées au Consul Général d'Amerique
+lors de son passage à la Mission de Lolo Mazinga.</p>
+    
+<p>Par ma lettre No 3456 du 1e septembre écou
+lé je vous transmettais un procès-verbal l'enquête relatif
+à la même question dans laquelle le Chef Pauly Benza
+est plaignant.</p>
+    
+<p>Le Commissaire Général,<lb/>
+(Se) Deuster.</p>
+
+<fw type="footer">Monsieur le Gouverneur Général, 
+Boma</fw>
+
+
+<pb facs="teaa.fr.letter.0198.003.jpg"/>
+
+<!-- not transcribed -->
+
+<pb facs="teaa.fr.letter.0198.004.jpg"/>
+
+<!-- not transcribed -->
+
+
+<pb facs="teaa.fr.letter.0198.005.jpg"/>
+
+<p>Enquête faite à Lolo sur les faits signalés 
+Par Monsieur Jacques</p>
+
+<p>Déclaration des chefs et Notables</p>
+    
+<p>Kai Mabiala, notable du village de Kai
+Mabilia déclare ne rien savoir.</p>
+
+<p>D. Avez vous été à la mission lorsque le consul 
+ a fait appeler les chefs.?</p>
+
+<p>R. Oui j'y ai trouvé Malemba</p>
+
+<p>D. que vous a-t-il dit?</p>
+
+<p>R. je ne sais pas j'ai oublié</p>
+
+<p>D. Vous êtes vous plaint des agissments des
+clercs à votre égard.?</p>
+ 
+<p>R. Oui j'ai dit que j'avais été enfermé dans 
+un chimbeck jusqu'a ce que j'aie (payé) donné une
+poule et un régime de bananas.</p>
+
+<p>D. Le Consul ne vous a-t-il rien dit.?</p>
+
+<p>R. Si il a dit que ceux qui avaient à se 
+plaindre devraient aller le trouver.</p>
+    
+<p>Je ne puis rien obtenir de plus de cet homme,
+il semble ne pas comprendre.</p>
+
+<p>Zao notable du village de Kingao, chefferie de
+Lolo. D. avez vous assisté à la réunion des chefs
+lors de l'arrivée du consul à la mission.?</p>
+
+<p>R. Non</p>
+
+<p>D. Vous aviez cependant à vous plaindre</p>
+ 
+<p>R. Oui deux clercs sont venus ici pour percevoir
+l'impôt, et ont exigé de moi une poule et un
+régime de bananes. Ils m'ont enfermé dans un chimbeck
+et commme la poule que j'offrais était trop
+petite, j'ai dû la remplacer par un franc.</p>
+    
+<p>Ce sont les clercs Auguste et Paul.</p>
+
+<p>Kulutu, notable du village Kikulutu
+chefferie de Lolo déclare ne pas avoir assisté à la
+réunion qui aurait eu lieu à la mission lor du pas- 
+  
+<pb facs="teaa.fr.letter.0198.006.jpg"/>
+   
+sage du Consul. A cette époque il était à Liangila.</p>
+ 
+<p>Il n'a aucune plainte à adresser.</p>
+
+<p>Mafuanda notable du village de Kifuanda
+chefferie de Lolo.</p>
+    
+<p>N'a pas été à la mission lors du passage 
+du consul, il ne l'a vu que lorsqu'il rentrait de la
+chasse, mais ne lui pas a causé.</p>
+    
+<p>D. N'avez vous aucune plainte à adresser?</p>
+
+<p>R. Lorsque les clercs sont venus pour le perception
+de l'impôt ils m'ont demandé deux poules
+et un régime de bananes il ne m'ont rien donné en
+échange.</p>
+    
+<p>D. était-ce un cadeau?</p>
+
+<p>R. Non, ils me les on demandés la premiére
+par l'intermédiare du messager, la seconde quand je 
+me suis présenté.</p>
+ 
+<p>Zuaki indigéne du village de Madiata chefferie
+de Lolo.</p>
+
+<p>D. Etes vous venus à la mission lors du passage
+du Consul?</p>
+
+<p>R. Non. Le nommé Samba est venu au village
+me demander d'aller à la mission, mais personne
+n'est allé.</p>
+        
+<p>Songo Lamba notable du village de Kifuanda
+chefferie de Lolo déclare n'avoir rien entendu au
+sujet du Consul il n'est pas venu à la mission et 
+n'a pas à  se plaindre.</p>
+        
+<p>Kimbi dede un village du Kimbi Dede n'a
+été à la mission lors du passage du Consul il 
+n'a pas à se plaindre et n'a rien entendu.</p>
+        
+<p>Niambi du village de Tibu, me déclare
+avoir dit à Pierre, Linguister de Monsieur Jacques
+qu'il avait rencontré Gabriel Vumbi qui lui avait
+dit qu'un blanc était à la mission et s'informait 
+de ce qui se passait dans la région, et de ce que
+les blancs de l'Etat y avaient fait</p>
+        
+<p>D. Avez vous vu ce blanc qui est le Consul- 
+
+<!-- the rest of this document was apparently not copied at the archives -->
+
+<pb facs="teaa.fr.letter.0198.007.jpg"/>
+
+Malemba chef de la région de Lolo Mazinga.</p>
+  
+<p>Le Consul d'Amérique est venu à la
+mission, en passant je suis allé lui dire bonjour,
+peu aprés être rentré dans mon village le boy du consul
+est venu de rejoindre et m'a demandé. Les agents
+de l'Etat que viennent ils faire ici?</p>
+    
+<p>Peu aprés me trouvant au village prés
+de la mission le consul y est passé avec un missionairs
+de Vungu, là m'a demandé ce que j'avais
+reçu depuis que je suis chef? puis il m'a demandé
+s'il était vrai que les blancs venaient prendre des
+cochons, des chévres et des poules? j'ai repondu
+non, que ce n'était pas vrai</p>
+
+<p> D.Vous avez appris qu'il avait réuni
+les notables de votre chefferie à la mission?</p>
+     
+<p>R. Non cela n'est pas.</p>
+
+<p>D. N'avez-vous pas entendu que le consul
+disait aux indigénes que s'il avaient à se plaindre
+ils doivaient s'addresser à lui, et dire ce que l'on
+faisait de mal dans le région?</p>
+
+<p>R. Non, je n'ai pas entendu chose semblable.</p>
+
+<p>D. Ne vous a-t-on pas parlé de l'impôt?</p>
+
+<p>R. Il m'a demandé si tous les indigénes
+avaient payé l'impot, il m'a dit que nous devions
+faire ce que la ici prescrivait.</p>
+
+<p> D. Avez vous entendu dire par le consul
+qu'il transmettrait les plaintes à Boma.</p>
+ 
+<p>R. Non, je n'ai rien entendu de semblable.
+Mais le Consul m'a dit que je devais punir les gens
+qui ne se conforment pas à la loi et le missionaire
+a appuyé en disant que c'est ainsi qu'il faut agir.</p>
+ 
+<p>D. Vous êtes bien sûr de ne pas me mentir
+ou de me cacher la vérité.</p>
+ 
+<p>R. Oui, si j'avais entendu quelques
+chose je le dirais. Je n'ai pas été à la mission que
+
+<pb facs="teaa.fr.letter.0198.008.jpg"/>
+
+pour saluer le Consul et il ne m'a causé qu'au village
+prés de la mission en présence de Gabriel Vumbi
+Catéohiste, Abel Mabumbi actuellement à Boma où il 
+est allé s'expliquer au sujet d'un crime qu'il a
+commis et Daniel Buka porteur de courrier faisant le
+service postal entre Boma et Kinkengé. Nous n'etions
+que nous quatre.</p>
+        
+<p>C'est alors qu'il m'a demandé si je
+recevais un payment comme chef et qu'il m'a dit que
+je devair faire observer les lois de l'Etat et au
+besoin punir les gens qui ne m'écoutent pas.</p>
+
+<p>D. Vous avez été payé au moins pour une année?</p>
+        
+<p>R. Oui, vous m'avez payé 59 francs au
+village de Kai Vuma pour l'année 1909.</p>
+        
+<p> Lolo, le 22 Août 1911.</p>
+
+<p>L'Adjoint Supérieur,<lb/>
+(s) Deleval</p>
+
+<pb facs="teaa.fr.letter.0198.009.jpg"/>
+
+<!-- not transcribed -->
+
+<pb facs="teaa.fr.letter.0198.010.jpg"/>
+
+<!-- not transcribed -->
+
+<pb facs="teaa.fr.letter.0198.011.jpg"/>
+
+<!-- the beginning of this document was apparently not copied at the archives -->
+
+<p>de "Mondele"Ngulu" dont les soldats auraient mal
+agi il s'agit de Monsieur Johanssen, venu ici il y a
+plusieurs années avec les soldats, il venait de Lukula Bavu.</p>
+
+<p>Il se sont également plaints des clercs
+envoyés, pour la perception de l'impôt qui parait-il
+demanderaient des poules et des bananes.</p>
+
+<p>D. Avez vous assisté à la réunion des chefs
+et avec vous entendu toutes ces choses vous même.</p>
+
+<p>R. Non j'étais à Mazinga Mongo et c'est le 
+Catéchiste de ce village Gabriel Vumbi et le nommé
+Niambi de Tibu qui me l'ont dit, Gabriel Vumbi assistait
+à la conversation.</p>
+
+<p>Lolo, Le 22 Août 1911</p>
+
+<p>L, Adjoint Supérieur,<lb></lb>
+(Se) Deleval</p>
+
+</div1>
+
+
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0198.002.jpg"/>
+
+<p>Boma, october 5th 1911.</p>
+    
+<p>No 4217.<lb/>
+4 Annexes<lb/>
+4 Copies<lb/>
+Object: 
+Survey done by the Superior
+Assistant in Lolo.</p>
+    
+<p>Mister General Governor,</p>
+    
+<p>I have the honor to send to you under this letter
+a letter and the survey done by the Superior Assistant on the
+subject of the words attributed to the Gerneral Consul of America
+at the time of his passage in the Mission of Lolo Mazinga.</p>
+    
+<p>By my letter No 3456 from the 1st of September disposed
+I transmitted to you an official report of the relative survey
+on the same question in which Chief Pauly Benza
+is plaintiff.</p>
+    
+<p>The General Commissioner,<lb/>
+(Se) Deuster.</p>
+
+<fw type="footer">Mister General Governor, Boma</fw>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
