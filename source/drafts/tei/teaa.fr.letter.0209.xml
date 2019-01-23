@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0209">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0209</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 232, Liasse 195</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-01-23" who="kln">renamed file, inserted correct header template</change>
+<change when="2017" who="KCD">Corrections, marked up.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="fr" type="document"> 
+
+<pb facs="teaa.fr.letter.0209.001.jpg"/>
+
+<!-- not transcribed -->
+
+</div1>
+
+<div1 xml:lang="en" type="document"> 
+
+<pb facs="teaa.fr.letter.0209.002.jpg"/>
+
+<p>The Washington Times, Saturday, June 23, 1906.</p>
+    
+<p>Slocum is Named Consul General to Congo State</p>
+    
+<p>Secretary Root Would  Not Make Appointment Antagonistic.</p>
+    
+<p>Secretary Root has decided upon the appointment of Clarence R. Slocum, of New York, present consul at Weimar, Germany, as consul general at Boma, Congo Free State, to fill the office created by the provisions of the diplomatic and consular reorganization bill which has recently been passed by Congress.</p>
+    
+<p>The appointment of a consul general to the Congo country, which has been urged for several years by the Congo
+Reform Association and the American missionary societies, while meeting with their approval as giving this country an official representative in the land of alleged governmental outrages, will come to them as a surprise, owing to the personality of the appointee.</p>
+    
+<p>Secretary Favored Creation of Post.</p>
+    
+<p>When Secretary Root finally consented to include the creation of a consulate general at Boma in his bill, on their persistent representations, they took great hope and at once brought pressure to bear through members of Congress and prominent citizens throughout the country to be allowed to name some one thoroughly in sympathy with their reform movement for the place. Secretary Root could not see his way clear to do, this, however.</p>
+    
+<p>When demands for an American official in the Congo were made this country hesitated to take any action without
+first consulting with the Belgian government as to whether such an official would be acceptable. King Leopold 
+replied that he would be glad for America to have such an official in his South African colony in order that fair and
+unbiased reports on conditions there might be made to this government. Accordingly, Secretary Root decided upon Mr. Slocum as a man who would not be objectionable to the Belgian government as being identified with the reform movement.</p>
+    
+<p>Regardless of scores of formal petitions and hundred of letters that have recently reached the State Department
+from different sections of the country particularly from the New England States, importuning this Government to intervene in behalf of the people of the Congo Free State in the face of alleged conditions brought about through the Belgian control of the South African country, Secretary Root still holds to his original opinion that there are no grounds on which the American Government can interfere at the present time.</p>
+ 
+<p>Appointment Is Conservative.</p>
+ 
+<p>The Secretary of State has repeated this announcement to John Daniels, secretary of the Congo Reform Association,
+of Boston, who has been in Washington during the week working up interest in the Congo movement among Senators and Representatives and Government officials generally. Mr. Daniels stated that members of the association have taken considerable courage through the creation of a consulate general in the Congo Free State by the passage of Secretary Root's diplomatic and consular appropriation bill, and they would like to recommend some man known to be favorable to their movement to the office. Secretary Root gave no  encouragement in this time, but promised Mr. Daniels that great care and pains would be exercised in the selection of the consulate general, in order to secure for the place a thoroughly capable official.</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>
