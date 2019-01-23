@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0138">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from Mr. Amvaul, plenipotentiary Minister to Etienne, Under Secretary of State for the Colonies, May 19, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0138</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,14 +43,16 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from Mr. Amvaul, plenipotentiary Minister to Etienne, Under Secretary of State for the Colonies</title>
+<date when="1891-05-19">May 19, 1891</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>CAOM-FR</repository>
+<collection>FR CAOM Generalites</collection>
+<idno>257</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
@@ -72,15 +74,17 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Mr. Amvaul</term>
+<term>Etienne</term>
+<term>Minister of Belgium</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Paris</term>
+<term>United States</term>
+<term>Washington</term>
 
 </keywords>
     
@@ -102,11 +106,27 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Amvaul</persName>
+<roleName>plenipotentiary Minister</roleName>
+<placeName>Paris, France</placeName>
+<date when="1891-05-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Etienne</persName>
+<roleName>Under Secretary of State for the Colonies</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2019" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +134,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160615_104342.jpg"/>
 
@@ -218,6 +238,117 @@ Amvaul <!-- Signature -->
 </p>
 
 </div1>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160615_104342.jpg"/>
+
+<ab>
+MINISTER
+of
+FOREIGN AFFAIRS
+</ab>
+
+<ab>
+POLITICAL DIRECTION
+</ab>
+
+<ab>
+Under. Direction of the North
+</ab>
+
+<ab>
+The United States and the act
+of Brussels
+</ab>
+
+<ab>
+FRENCH REPUBLIC
+</ab>
+
+<ab>
+Paris, May 19th 1891.
+</ab>
+
+<p>
+Mister Under Secretary of State
+and dear colleague.                       My
+dispatch from last april 17th gave
+you a sense of the next
+conclusion, between the Government
+of the United States and the Minister of
+Belgium in Washington, of an
+arrangement having the goal
+of rendering the Act of Brussels
+enforcable.
+</p>
+
+<p>
+The communications that
+were addressed to me by the
+Ministers of France in <supplied>Brussels</supplied>
+</p>
+
+<ab>
+UNDER SECRETARY OF STATE of the COLONIES
+1st OFFICE
+MAY 14th 91 <!-- This section is stamped -->
+</ab>
+
+<ab>
+Foreign Affairs. 131
+</ab>
+
+<ab>
+Mister Etienne,
+Under-secretary of State
+in the Colonies
+</ab>
+
+<note>
+1d
+2568
+</note>
+
+<note>
+257
+</note>
+
+<note>
+1775
+</note>
+
+<note>
+M réussir
+</note>
+
+<pb facs="20160615_104407.jpg"/>
+
+<p>
+and Washington, it results that this
+arrangement was signed on the 30th
+of last april./.
+</p>
+
+<p>
+Accept, Mister Under Secretary of State
+and dear colleague, the assurances of my highest
+consideration.
+</p>
+
+<p>
+For the Minister and by authorization
+the plenipotentiary Minister, Director:
+Amvaul <!-- Signature -->
+</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>
+
+
 </body>
 </text>
 

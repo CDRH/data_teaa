@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from Lambermont to Sire, January 18, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -42,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from Lambermont to Sire</title>
+<date when="1891-01-18">January 18, 1891</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -100,15 +101,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Lambermont</persName>
+<roleName/>
+<placeName/>
+<date when="1891-01-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Sire</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -116,7 +117,8 @@
 
 <revisionDesc>
 <change when="2019-01-09" who="kln">renamed file, inserted correct header template</change>
-<change when="2017" who="kcd">Corrections, marked up.</change>
+<change when="2017" who="kcd">Transcribed.</change>
+<change when="2019" who="pr">Transcribed and filled in header template.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -227,8 +229,27 @@ le trés dévoué.</p>
 
 <pb facs="teaa.fr.letter.0190.005.jpg"/>
 
-<!-- not transcribed -->
+<p>15 Janvier 1891</p>
 
+<p>Mon Cher <unclear/> <unclear/> <unclear/></p>
+
+<p><unclear/></p>
+
+<p>Voici le <unclear>projet</unclear> <unclear/> à
+le droit de <unclear>notre</unclear> <unclear/> d'hier. </p>
+
+<p><unclear>Ayez</unclear> le <unclear/>, je <unclear/> prie, de
+le soumettre à <unclear>S.M.</unclear></p>
+
+<p>Peut-être aviez vous <unclear/> de
+<unclear>commande</unclear>, d'autre part, le projet
+que M. <unclear/> <unclear/> de son côté. </p>
+
+<p>l. é. <unclear/></p>
+
+<p>Lambt.</p>
+
+<p>ci-joint, <unclear/> <unclear/> dossier, une copie</p>
 <pb facs="teaa.fr.letter.0190.006.jpg"/>
 
 <!-- not transcribed -->
