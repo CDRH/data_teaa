@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from James Gustavus Whiteley to Knight of Guvelier, August 13, 1908</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -42,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from James Gustavus Whiteley to Knight of Guvelier</title>
+<date when="1908-08-13">August 13, 1908</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -74,15 +75,22 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Handley, William W.</term>
+<term>Olcott</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Boma</term>
+<term>Matanzas, Cuba</term>
+<term>New York</term>
+<term>Puerto Plata</term>
+<term>Santo Domingo</term>
+<term>Trinidad</term>
+<term>Venezuela</term>
+<term>Washinton</term>
 </keywords>
     
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -100,15 +108,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Whiteley, James Gustavus</persName>
+<roleName/>
+<placeName>Baltimore</placeName>
+<date when="1908-08-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Knight of Guvelier</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -116,7 +124,8 @@
 
 <revisionDesc>
 <change when="2019-01-09" who="kln">renamed file, inserted correct header template</change>
-<change when="2017" who="kcd">Corrections, marked up.</change>
+<change when="2017" who="kcd">Transcribed.</change>
+<change when="2019" who="pr">Encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 

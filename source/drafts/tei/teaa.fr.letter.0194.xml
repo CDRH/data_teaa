@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from __ to __, September 22, 1910</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from __ to __</title>
+<date when="1910-09-22">September 22, 1910</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,18 +74,17 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Handley</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Congo</term>
 </keywords>
     
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Belgian</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -102,7 +102,7 @@
 <persName><!-- LAST NAME, FIRST NAME --></persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
 <placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<date when="1910-09-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
@@ -115,6 +115,7 @@
 
 <revisionDesc>
 <change when="2019-01-17" who="kln">created xml file</change>
+<change when="2019" who="pr">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,7 +127,43 @@
 
 <pb facs="teaa.fr.letter.0194.001.jpg"/>
 
+<ab>22-9-10</ab>
 
+<p>Cher ami
+
+M. Handley, consul des E. U.
+est il toujours le seul agent
+américain au Congo.</p>
+
+<p>Au cas contraitre, une
+petite note sur la situation
+me serait tres utile.</p>
+
+<p>S'il y a eu changement
+de personne, ou augmentation
+du personnel consulaire américain
+quelles formalités ont été observés
+vis a vis des autorités belges de la
+Colonie?</p>
+
+<pb facs="teaa.fr.letter.0194.002.jpg"/>
+
+<p>La question est intéressante,
+p. cq. <unclear/> pretend que
+au prochain changement
+on demandera l'exequatur,
+et que ce sera sous cette <unclear/>
+que la "reconnaissance" aura
+lieu.</p>
+
+<p>Chose curieuse pour
+Handley l'exequatur a été
+demande en Sept 1908... å
+M. <unclear/>! qui <unclear/>
+la demande å <unclear/></p>
+
+<p>Bien å vous
+<unclear/></p>
 
 </div1>
 
