@@ -74,7 +74,7 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<keywords scheme="viaf" n="people">
 <term>Adam, John</term>
 <term>Commander Brick</term>
 <term>Commander of the Naval Division of the West Afican Coast</term>
@@ -84,9 +84,10 @@
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<keywords scheme="original" n="places">
 <term>Liberia</term>
 <term>Paris</term>
+<term>Southern Rivers</term>
 <term>United States</term>
 <term>West Coast Africa</term>
 
@@ -110,11 +111,27 @@
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Minister</roleName>
+<placeName>Paris, France</placeName>
+<date when="1854-01-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Commander of the Naval Division of the West Coast of Africa</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2019" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -122,7 +139,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160613_112606.jpg"/>
 
@@ -242,7 +259,129 @@ R.C.<unclear/>.D.
 </note>
 
 </div1>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160613_112606.jpg"/>
+
+<ab>
+Demand of information on the
+subjet of a project of American
+colonization on the West Coast
+of Africa.
+</ab>
+
+<ab>
+No 2
+</ab>
+
+<ab>
+Paris January 16th 1854
+</ab>
+
+<ab>
+The Minister
+to Mr. Commander of the naval
+division of the West Coast of Africa.
+</ab>
+
+<p>
+Mr. Commander, by your letter on the
+date of last Nov 12th, + you only informed
+that in execution of the instructions contained in
+my dispatch from the 21st of July 1853, you had given
+for mission to Mr. <del>Captain</del> <add>Commander</add> of the Brig the
+Messenger to take the information on the
+results of the exploration recently effected
+<del>on the coast of Africa</del> by Captain Lynch of
+John Adam's, of the American Navy.
+</p>
+
+<p>
+You announce to me to have learned that this
+officer, after having returned to America, had
+waited for news on the coast of Africa where
+he would have been charged by his government with laying
+the foundations of a Trading Post, in one of the big
+rivers of the South, maybe Lagos. Niger or the
+old Calebar.
+</p>
+
+<p>
+It seems certain to you that the state of unpleasant <!-- 'stagnation' is hyphenated between 'sta-' and '-gnation' -->
+stagnation in which languishes the republic <!-- 'république' is hyphenated between 'répu-' and '-blique' -->
+of Liberia <del>et</del> is the real cause
+that drives the government and the religious societies
+of America to search on this point for a
+new position.
+</p>
+
+<p>
+I attach a lot of price to be kept
+<del>apartement</del> up to date on all that is relative
+to this project of American colonization. <del><unclear/></del>
+</p>
+
+<p>
+Certain new facts of which the government has
+knowledge seem to indicate that the spirit
+of entreprise of the United States inclines <del><unclear/></del> today
+towards West Africa with a certain
+intensity. The interests that we have in the same vicinity are too considerable for
+us not to follow this movement with the
+more attention, thus I pray that you d'<unclear/>
+</p>
+
+<ab>
+<unclear/>
+<unclear/> de une transmettre tous
+<supplied>les</supplied> faits et renseignement qui
+<unclear/> à cet égard parvenir
+votre connaisance.
+
+R.C.<unclear/>.D.
+</ab>
+
+<ab>
+<del>R. C. <unclear/>. D.</del>
+</ab>
+
+<note>
+<unclear/> <unclear/>
+</note>
+
+<note>
+<unclear>R</unclear>
+</note>
+
+<note>
+<unclear/>
+</note>
+
+<note>
+<unclear/> <unclear/>
+</note>
+
+<note>
++ No 28,
+</note>
+
+<note>
+<unclear/>
+</note>
+
+<note>
+<unclear/>
+<unclear/>.
+</note>
+
+<note>
+(<unclear/>)
+</note>
+
+</div1>
 </body>
 </text>
 
 </TEI>
+
