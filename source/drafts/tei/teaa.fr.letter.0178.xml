@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0178">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from the governor of French Sudan to the Minister of the Colonies, October 9, 1894</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0178</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,14 +43,16 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from the governor of French French to the Minister of the Colonies</title>
+<date when="1894-10-09">October 9, 1894</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR CAOM</repository>
+<collection>Soudan 10</collection>
+<idno>1-7</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
@@ -72,15 +74,20 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Governor of French Soudan</term>
+<term>Minister of the Colonies</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Faranah</term>
+<term>France</term>
+<term>Kayes</term>
+<term>New York</term>
+<term>Sierra Leone</term>
+<term>Soudan</term>
+
 
 </keywords>
     
@@ -102,11 +109,27 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Governor of French Soudan</roleName>
+<placeName>Kayes</placeName>
+<date when="1894-10-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Minister of the Colonies</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2019" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +137,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160615_122107.jpg"/>
 
@@ -248,7 +271,144 @@ Votre très-obéissant serviteur
 </p>
 
 </div1>
+
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160615_122107.jpg"/>
+
+<ab>
+government
+of
+French Sudan.
+</ab>
+
+<ab>
+No 842
+</ab>
+
+<ab>
+Kayes, October 9th 1894
+</ab>
+
+<ab>
+The governor of French
+Sudan to Mister Minister of the
+Colonies.
+</ab>
+
+<ab>
+Direction of Political and Commerical Affairs
+Office of Africa
+</ab>
+
+<p>
+Mister Minister,
+
+I have the honor to
+transmit to you enclosed a copy of a
+dispatch from the Commander of the Region
+of the south dated from the 1st of October.
+</p>
+
+<p>
+"Three whites giving themselves
+for the american missionaries of
+the International Missionary alliance have just
+arrived in Faranah. They will be part
+of a station of their order established
+in the Timené province of Sierra Leone
+and received as mission of
+their superior to come research on
+our territory the favorable points
+for the establishment of a new station.
+These individuals have no paper
+establishing their identity. They claim
+that the Consul of France in Free-Town
+declared to their superior that their
+establishment on our territory"
+</p>
+
+<ab>
+<supplied>Arrived</supplied> in the south region
+three whites giving themselves
+<supplied>on</supplied> the american missionaries.
+</ab>
+
+<pb facs="20160615_122130.jpg"/>
+
+<p>
+"did not present any difficulty and engaged
+him to write to the President of
+the society in New York so that he
+demands to the French government
+the necessary authorization. This autorization
+had not arrived when the three white
+missionnaries left their station
+to come to our territory. They
+are waiting in Franah your decision
+on the subject of the possibility to found
+a station in the country. I pray
+to you Mr. Governor to
+address to me your instructions on this subject."
+</p>
+
+<p>
+Not having received any
+communication from the department, I
+prayed by telegram on the 6th of the current month
+to the Commander of the south Region
+to inform the american missionaries
+that they had total freedom to circulate
+in Sudan, but that I could not
+not allow them to establish a religious mission there.
+</p>
+
+<p>
+In effect, the Colony is
+public company by the ordannance of September 7th
+1840 of which article 26 is thus conceived:
+"The Governor holds the hand to which
+no religious congregation or community
+establishes itself in the Colony
+and receives novices there without our
+special authorization."
+</p>
+
+<p>
+This article, applying
+to french congregations, is all the more so
+</p>
+
+<pb facs="20160615_122135.jpg"/>
+
+<p>
+applicable to foreign missions.
+</p>
+
+<p>
+I do not see, for that matter,
+any advantage to the establishment of a
+station of american missionaries in
+Sudan. The presence of these foreigners
+can only present inconveniences
+in many points of view. I <unclear/> in
+consequence an unfavorable opinion on the
+demand of which you could be <unclear/>,
+for Sudan, by the "International
+Missionary Alliance."
+</p>
+
+<p>
+I am with a profound respect,
+Mister Minister,
+Your very obediant servant
+<unclear/> <!-- Signature -->
+</p>
+
+</div1>
 </body>
 </text>
 
 </TEI>
+
