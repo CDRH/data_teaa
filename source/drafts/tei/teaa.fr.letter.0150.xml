@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0150">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Letter from R.L.P.D., Minister, to the Goverenor of the Reunion, January 27, 1881</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+</respStmt>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0150</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,14 +44,16 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Letter from R.L.P.D., Minister, to the Goverenor of the Reunion</title>
+<date when="1881-01-27">January 27, 1881</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>FR CAOM</repository>
+<collection>Réunion</collection>
+<idno>450 451</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
@@ -72,15 +75,18 @@
 <term></term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Alex Baran</term>
+<term>Goverenor of the Reunion</term>
+<term>Langlois</term>
+<term>Minister of Foreign Affiares</term>
+<term>R.L.P.D</term>
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Paris</term>
+<term>United States</term>
 
 </keywords>
     
@@ -102,11 +108,27 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>R.L.P.D.</persName>
+<roleName>Minister</roleName>
+<placeName>Paris, France</placeName>
+<date when="1881-01-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName>Goverenor of the Reunion</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2019" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,7 +136,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160613_120104.jpg"/>
 
@@ -192,7 +214,88 @@ Cloue
 </note>
 
 </div1>
+
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160613_120104.jpg"/>
+
+<ab>
+197
+</ab>
+
+<ab>
+Colonies.
+1st Office
+</ab>
+
+<ab>
+nomination of Mr.
+Baran as
+vice commercial agent
+of the United States in St. Denis
+</ab>
+
+<ab>
+Paris, July 27th/370 1881
+</ab>
+
+<ab>
+The Minister to Mr. Governor
+of the Reunion
+</ab>
+
+<p>
+Mister governor, Mr.
+Minister of Foreign Affairs
+<del>vient de</del> informed me that Mr.
+Alex Baran, french citizen was
+desginated by the government
+of the United States of America to
+fill the functions of vice commercial
+agent in St Denis (Reunion).
+I pray you to take the necessary
+measures so that this agent be
+recognized in the said quality and admitted
+to replace the consul Mr. Langlois in
+case of absence or impediment of
+this last, in the case, however, where
+you do not have any objection to
+raise against this nomination. Mr.
+Baran being a french citizen, it
+is well understood that he will not be able to
+claim this title of vice commercial
+agent to avoid
+any obligations
+imposed by the french laws of our
+nationals.
+
+R.L.P D.
+</p>
+
+<note>
+Baran
+</note>
+
+<note>
+Mr Lejuin
+</note>
+
+<note>
+fait
+</note>
+
+<note>
+Mne
+</note>
+
+<note>
+Cloue
+</note>
+
+</div1>
 </body>
 </text>
 
 </TEI>
+
