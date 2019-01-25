@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0271">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0271</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +43,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 217, Liasse 122</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -61,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,44 +72,53 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term></term>
+<term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
 <term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
-
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
-
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
 </keywords>
     
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
 <keywords scheme="original" n="language">
 <term>French</term>
 </keywords>
-    
-<keywords scheme="original" n="religion">
-<term></term>
-</keywords>
-
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2019-01-25" who="kln">renamed file, inserted correct header template</change>
+<change when="2018" who="sab">translated</change>
+<change when="2017" who="KCD">Corrections, marked up.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -116,9 +128,37 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <div1 xml:lang="fr" type="document">
 
-<pb facs="10014_001.jpg"/>
+<pb facs="teaa.fr.letter.0271.001.jpg"/>
 
-<p> Kégation de Belgique
+<p>Ministère
+des 
+Affaires
+Étrangères<lb/>
+1 Annexe</p>
+
+<p>Bruxelles, le 11 Août 1910.</p>
+
+<p>Monsieur le Ministre,</p>
+
+<p>J'ai reçu de notre Ministre à Washington
+un rapport dont, je n'en doute pas, vous prendrez connaissance
+avec un vif intérêt.</p>
+
+<p>Vous le trouverez ci-joint. Je n'ai pas
+besoin d'insister sur le caractère absolument confidentiel
+de cette dépêche, dont il ne pourra être fait état qu'après
+la communication du Secrétaire d'Etat, annoncée pour le mois
+prochain.</p>
+
+<p><unclear></unclear></p>
+
+<fw type="footer">Monsieur le Ministre
+des Colonies,
+Bruxelles</fw>
+
+<pb facs="teaa.fr.letter.0271.002.jpg"/>
+
+<p>Légation de Belgique
 604/284.</p>
 
 <p>Washington, le 28 Juillet 1910.</p>
@@ -133,20 +173,20 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 du 14 Juin dernier.</p>
 
 <p>Rentré avant-hier à Washington, au terme de mon
-inspection consulaire, j'ai appris que le fonctionnaire supèrieur
+inspection consulaire, j'ai appris que le fonctionnaire supérieur
 avec qui j'avais eu des conversations au sujet du congo
 était absent et ne reviendrait qu'en Septembre. Il m'a fait
-conseiller d'aller voir M. Adee, l'un des assisstants Secrétaires
+conseiller d'aller voir M. Adee, l'un des assistants Secrétaires
 d'Etat, à qui M. Knox m'a dit récemment avoir confié la direction
 des affaires relatives au Congo. </p>
 
-<p> Je viens de causer avec M. Adee. Dès les premiers
-mots, celui-ci m'a spontanément parlé de la symapathie et de la
+<p>Je viens de causer avec M. Adee. Dès les premiers
+mots, celui-ci m'a spontanément parlé de la sympathie et de la
 confiance très vives que notre Roi et son Gouvernement inspirent
 au Gouvernement des Etats Unis, notamment en ce qui
 concerne leur action dans la question du Congo.</p>
 
-<p> Il m'a fait la déclaration suivante, que je reproduis
+<p>Il m'a fait la déclaration suivante, que je reproduis
 aussi littéralement que possible,- et a ajouté, en réponse à
 ma question, qu'il parlait au nom du Secrétaire d'Etat:</p>
 
@@ -161,58 +201,90 @@ réclamé l'accomplissement formel de cet acte.)"</p>
 <p>"Nous considérons, - a dit alors l'assistant Secrétaire
 d'Etat- que nous avons déjà reconnu de facto l'annexion
 du Congo à la Belgique, -et par l'extension récente de 
-notre tarif minimum à cette colonie, - et par la forme des</p>
+notre tarif minimum à cette colonie,- et par la forme des <fw type="catch">relations</fw>
 
-<p> Monsieur Davignon
+<fw type="footer">Monsieur Davignon
 Ministre des Affaires Etrangères
-Bruxelles.</p>
+Bruxelles.</fw>
 
-<pb></pb>
+<pb facs="teaa.fr.letter.0271.003.jpg"/>
 
-<p> relations de nos Consuls au Congo avec vos autorités."</p>
+relations de nos Consuls au Congo avec vos autorités."</p>
 
-<p> "Lorsque les Etats Unis ont annexé Alaska, et
+<p>"Lorsque les Etats Unis ont annexé Alaska, et
 plus Hawaï ils n'ont pas jugé qu'ils sussent à attendre des
-Puissances une reconnaissance dans telle forme spéciale." Je
-le répète, nous avons reconnu de factor l'annexion du Congo" </p>
+Puissances une reconnaissance dans telle forme spéciale. "Je
+le répète, nous avons reconnu de facto l'annexion du Congo."</p>
 
 <p>"J'ajoute que votre Roi et votre Gouvernement,
-grâce à leur volonté évidente d'établir ce que nous appelleron
+grâce à leur volonté évidente d'établir ce que nous appellerons
 non des "réformes" (terme dont en a fait un usage excessif)
-mais des "modifications nécessaires", possèdent  le bon vouloir,
+mais des "modifications nécessaires", possèdent le bon vouloir,
 la sympathie et la confiance entière du Gouvernement des
 Etats Unis. "Les sentiments que j'exprime sont partages par
-tous les membres du Departement d'Etat."</p>
+tous les membres du Département d'Etat."</p>
 
 <p>"Vous êtes pleinement autorisé à répéter la déclaration
 que je viens de faire au Roi des Belges et à son
 Gouvernement."</p>
 
-<p> En remerciant M. Adee, je lui ai dit en confidence
+<p>En remerciant M. Adee, je lui ai dit en confidence
 que nous étions restes jusqu'ici sur les derniers échanges
 de voues écrits qui avaient eu lieu entre nos deux Gouvernements,-
-documents qui n'étaient pas empreints du même caractére
-que la présente declaration; et pour cette raison,
-celle-ci était très bien venus.</p>
+documents qui n'étaient pas empreints du même caractère
+que la présente déclaration; et que pour cette raison,
+celle-ci était très bien venue.</p>
 
-<p> Il m'a répondu que lors du retour du Secrétaire
+<p>Il m'a répondu que lors du retour du Secrétaire
 d'Etat, il pourrait envisager avec lui la question de savoir
-si une ce <unclear></unclear> écrite pourrait ajouter quelque chose
+si une ce <unclear>munication</unclear> écrite pourrait ajouter quelque chose
 à la portée de ce qu'il venait de me dire.</p>
 
-<p>Veuilles agréer, Monsieur le Ministre, etc...
-(s.) de Buisseret</p>
+<p>Veuillez agréer, Monsieur le Ministre, etc...<lb/>
+(s.) de Buisseret.</p>
+
+</div1>
 
 
 
 
 
-<div1 xml:lang="en" type="document">
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0271.001.jpg"/>
+
+<p>Minister
+of 
+Foreign
+Affairs<lb/>
+1 Annex</p>
+
+<p>Brussels, the 11th of August 1910.</p>
+
+<p>Mr. Minister</p>
+
+<p>I received a report from your 
+Minister in Washington which, I have no doubt, you take an awareness 
+with a keen interest.</p>
+
+<p>You will find it enclosed here. I don't need
+to insist on the absolutely confidential character
+of this dispatch, which can only be done after 
+the communication of the Secretary of State, announced next
+month.</p>
+
+<p><unclear></unclear></p>
+
+<fw type="footer">Mr. Minister
+of Colonies,
+Brussels</fw>
+
+<pb facs="teaa.fr.letter.0271.002.jpg"/>
         
-<pb facs="10014_001.jpg"/>
-        
-<p> Belgian Kégation
-            604/284.</p>
+<p>Belgian Legation<lb/>
+604/284.</p>
+
+<p>(Copy.)</p>
         
 <p>Washington, the 28th of July 1910.</p>
         
@@ -233,41 +305,41 @@ me to go see Mr. Adee, one of the assistant Secretaries
 of State, to whom Mr. Knox told me recently to entrust the direction 
 of relative matter in the Congo. </p>
         
-<p> I just talked with Mr. Adee. From the first 
-words, this one spontaneously spoke with me of the symapathy and of the
+<p>I just talked with Mr. Adee. From the first 
+words, this one spontaneously spoke with me of the sympathy and of the
 great confidence that our King and his government inspires 
 to the United States Government, in particular with 
 their action towards the issues in the Congo.</p>
         
-<p> He made the following declaration, that I also reproduce
-litterally everything possible,- and added, in response to 
-my question, that he speek of the name of the Secretary of State:</p>
+<p>He made the following declaration, that I also reproduce
+literally everything possible,- and added, in response to 
+my question, that he speak of the name of the Secretary of State:</p>
         
 <p>"We have examined what there is to do concerning 
 the acknowledgement of the annexation of the Congo, and we have 
 found that one formal declaration of acknowledgement isn't generally 
 considered as necessary, nor even generally  
-common.- (I told Mr. Adee that I was of the same opinon 
+common.- (I told Mr. Adee that I was of the same opinion 
 never having, in accordance with the views of the Government of the King, 
 demanded the formal accomplishment of this act.)"</p>
         
 <p>"We consider, - the Secretary of State
 then said- that we have already recognized the de facto annexation 
 of the Congo to the Belgians, -and by the recent extension of 
-our minimal tarif to this colony, and by the form of</p>
+our minimal tariff to this colony, and by the form of
         
-<p> Mr. Davignon
+<fw type="footer">Mr. Davignon
 Brussels Minister of 
-Foreign Affaires.</p>
+Foreign Affairs.</fw>
         
-<pb></pb>
+<pb facs="teaa.fr.letter.0271.003.jpg"/>
         
-<p> contact form our Consuls in Congo with your authorities."</p>
+contact form our Consuls in Congo with your authorities."</p>
         
-<p> "When the United States annexed Alaska, and
-then Hawaï they did not judge that they know to wait for 
+<p>"When the United States annexed Alaska, and
+then Hawaii they did not judge that they know to wait for 
 Power one recognition in any special form." I
-repeat, we have recognized the de facto annexation of the Congo" </p>
+repeat, we have recognized the de facto annexation of the Congo."</p>
         
 <p>"I add that your King and your Government, 
 thanks to their evident wishes of establishing what we call 
@@ -284,24 +356,20 @@ Government."</p>
 <p> In thanking Mr. Adee, I told him in confidence
 that we were rested up to here with the last exchanges 
 of devoted writing that was linked between our two Governments,-
-documents taht were not marked with the same character 
+documents that were not marked with the same character 
 as the present declaration; and for this reason, 
 this one was very well welcomed.</p>
         
-<p> He responded to me that at the time of the Secretary of State's 
+<p>He responded to me that at the time of the Secretary of State's 
 return, he was able to envisage with him the question of knowing if 
-one ce <unclear></unclear> written could add someting
+one ce <unclear></unclear> written could add something
 within reach of what he had just told me.</p>
         
-<p>Yours sincerely, Mr. Ministre, etc...
+<p>Yours sincerely, Mr. Minister, etc...
 (s.) of Buisseret</p>
-        
-        
-        
-        
-        
+
 </div1>
 </body>
 </text>
-    
+
 </TEI>
