@@ -6,18 +6,18 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from <unclear
-></unclear>to le Chevalier du Cuvelier</title>
-<principal n="Jones, Jeannette Eileen, 1970-" xml:id="jej">Jeannette Eileen Jones</principal>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2018</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -42,16 +42,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<date when="1906-06-25">June 25, 1906</date>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<idno></idno>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 232, Liasse 195</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -61,7 +63,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,33 +71,51 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term></term>
+<term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people">
-<term>Chevalier de Cuvelier</term><term>Nerincx, Alfred, 1872-1943</term><term>Slocum, Clarence R.</term>
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
 </keywords>
     
-<keywords scheme="original" n="places">
-<term>Boma, Democratic Republic of the Congo</term><term>Boston, Massachusetts</term>
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
 </keywords>
     
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
-    
 <keywords scheme="original" n="religion">
-<term></term>
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
 </keywords>
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-01-23" who="kln">renamed file, inserted correct header template</change>
 <change when="2018-05-21" who="jej">Metadata encoding and review.</change>
 <change when="2018" who="kcd">Transcription and initial encoding.</change>
 </revisionDesc>
@@ -107,12 +127,12 @@
 
 <div1 xml:lang="fr" type="document">
 
-<pb facs="1007_001.pdf"/>
+<pb facs="teaa.fr.letter.0211.001.jpg"/>
 
 <p>Légation de Belgique</p>
     
-<p>Hamilton, Mass.
-le 25 juin 1906</p>
+<p>Hamilton, Mass.<lb/>
+le 25 Juin 1906</p>
     
 <p>Monsieur le Chevalier,</p>
     
@@ -129,8 +149,15 @@ joint à cette dépêche.</p>
 
 <p>Le candidat désignée pour
 ce poste nouveau est M. Clarence R.
-Slocum, de New York, il est actuellement
-encore Consul <unclear></unclear>
+Slocum, de New York; il est actuel-
+
+<fw type="footer">à Monsieur le Chevalier de Cuvelier 
+etc etc etc
+à Bruxelles</fw>
+
+<pb facs="teaa.fr.letter.0211.002.jpg"/>
+
+lement encore Consul Américain
 à Weimar. Sa promotion de Consul
 Général à Boma ne sera définitive
 qu'après confirmation par le Sénat;
@@ -152,6 +179,9 @@ effet qu'en dépit des objurgations de
 la Congo Reform Association, le Secrétaire
 d'État ne s'est décidé à la création
 de ce poste de Boma qu'après d'etre
+
+<pb facs="teaa.fr.letter.0211.003.jpg"/>
+
 assuré du bon vouloir de l'Etat
 Indépendant,&#8212; qu'il a décidé alors
 de nommer à ce poste un candidat
@@ -165,7 +195,7 @@ qu'il s'en tenait à sa maniére de
 voir sur la question Congolaise comme
 il l'avait fait connaître
 antérieurement.</p>
-re
+
 <p>Le même communiqué ajoute
 que l'accuiel fait aux candidatures
 proposées par le Secrétaire de la Congo
@@ -174,19 +204,22 @@ pas été le moins du monde encourageant.</p>
 
 <p>Veuillez, Monsieur Le
 Chevalier, agréer les assurances
+
+<pb facs="teaa.fr.letter.0211.004.jpg"/>
+
 de ma trés haute considéra.</p>
 
 <p><unclear></unclear></p>
+
 </div1>
-</body>
 
-<div1 xml:lang="en" type="document">
+<div1 xml:lang="en" type="translation">
 
-<pb facs="1007_001.pdf"/>
+<pb facs="teaa.fr.letter.0211.001.jpg"/>
 
 <p>Belgium Legation</p>
     
-<p>Hamilton, Mass.
+<p>Hamilton, Mass.<lb/>
 25 June 1906</p>
     
 <p>Sir Knight,</p>
@@ -203,7 +236,12 @@ in this telegraph.</p>
 
 <p>The designated candidate for 
 this new post Mr. Clarence R.
-Slocum, of New York, he is actually 
+Slocum, of New York, he is actually
+
+<fw type="footer">à Monsieur le Chevalier de Cuvelier à Bruxelles</fw>
+
+<pb facs="teaa.fr.letter.0211.002.jpg"/>
+
 still the Consul <unclear></unclear>  
 in Weimar. His promotion of Consul
 General in Boma will not be definitive
@@ -218,7 +256,7 @@ that this nomination is a personal
 designation of Mr. Root (who recently 
 told me again of his intention to 
 chose a serious candidate) and that
-she constitutes more a new éspec.
+she constitutes more a new espec.
 for our Boston adversaries.</p>
 
 <p>The statement reports in
@@ -226,7 +264,10 @@ fact that despite the reproach of
 the Congo Reform Association, the Secretary
 of State did not decide on the creation 
 of this Boma post after being
-assured the good will of the Independant
+
+<pb facs="teaa.fr.letter.0211.003.jpg"/>
+
+assured the good will of the Independent
 State,&#8212; he then decided 
 to name a candidate to this post 
 clear of influences of this antagonistic 
@@ -247,9 +288,13 @@ Reform Association, Mr. Daniels, has
 not been in the least encouraging.</p>
 
 <p>Please, Sir Knight, accept the insurance 
+
+<pb facs="teaa.fr.letter.0211.004.jpg"/>
+
 of my very highest consideration.</p>
 
 <p><unclear></unclear></p>
+
 </div1>
 </body>
 </text>

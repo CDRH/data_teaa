@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from Lambermont to Sire, January 14, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from Lambermont to Sire</title>
+<date when="1891-01-14">January 14, 1891</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,15 +74,16 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Blaine</term>
+<term>Terrell, Madame and Mister</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Berlin</term>
+<term>Congo</term>
 </keywords>
     
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -99,15 +101,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Lambermont</persName>
+<roleName/>
+<placeName/>
+<date when="1891-01-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Sire</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -115,6 +117,7 @@
 
 <revisionDesc>
 <change when="2019-01-17" who="kln">created xml file</change>
+<change when="2019" who="pr">Transcribed and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,7 +129,46 @@
 
 <pb facs="teaa.fr.letter.0191.001.jpg"/>
 
+<p>Le 14 Janvier 1891.</p>
 
+<p>Sire,
+Le Ministre des Etats-Unis, que j'ai vu hier,
+part dans les premiers jours de fevrier, accompagnant le corps de
+Madame Terrell.</p>
+
+<p>Je résume les principales observations qu'il m'a faites:
+1. M. Terrell a en vue un traité de commerce, avec
+toutes les stipulations ordinaires de ces sortes d'arrangement.</p>
+
+<p>Il n'a pas dissimulé qu'un accord se bornant å
+étendre aux Etats-Unis les clauses du traité de Berlin ne le <unclear/> feras
+pas.</p>
+
+<p>2. D'apres M. Terrell, le traité consacrerait tout
+d'abord l'adhésion des Etats-Unis å l'établissement de droits
+d'entrée au Congo.</p>
+
+<p>3. M. Terrell tient å l'expression de nation la plus 
+favorisée. Le traité de Berlin ne fait pas loi pour les Etats-Unis
+toutefois peut-etre se rendra-t-il aux raisons d'ailleurs <unclear>fort</unclear>
+justes de Votre Majesté.</p>
+
+<pb facs="teaa.fr.letter.0191.002.jpg"/>
+
+<p>4. Il <unclear>désire</unclear> transmettre å M. Blaine, par le
+<unclear>cable</unclear>, la rédaction qui sera concertée pour l'arbitrage et
+s'assurer ainsi d'avance de l'approbation de son Governement.</p>
+
+<p>5. M. Terrell prépare lui-meme un projet de
+traité qu'il confrontera avec le notre. On cherchera å les
+concilier. Il aura fait son travail demain.</p>
+
+<p>6. Il compte recevoir communication de tarif
+oriental et du tarif occidental.</p><!--occidental is underlined-->
+
+<p>Tres respectueusement, de Votre Majesté,
+le dévoué,
+M. Lambermont.</p>
 
 </div1>
 
