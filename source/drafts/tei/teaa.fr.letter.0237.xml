@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
+<<<<<<< HEAD
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.237">
+=======
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0237">
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
+<<<<<<< HEAD
 <title>Letter to Mr. Baron</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription</resp>
 <name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea Animwaa Akyeampong</name>
 
+=======
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 </respStmt>
 </titleStmt>
 
@@ -33,35 +45,56 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
+<<<<<<< HEAD
 <idno type="project">teaa.fr.letter.237.001</idno>
+=======
+<idno type="project">teaa.fr.letter.0237</idno>
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
 </availability>
 </publicationStmt>
 
+<<<<<<< HEAD
 <
 
 <sourceDesc>
 <bibl>
 <title level="m">Letter to Mr. Baron</title>
 <date when="1898-05-25">May 25, 1898</date>
+=======
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
 <collection>Archives Africaines</collection>
+<<<<<<< HEAD
 <idno>Portefeuille 217, Liasses 115-122</idno>
+=======
+<idno>Portefeuille 217, Liasse 116</idno>
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 </msIdentifier>
 </msDesc>
 </sourceDesc>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 </fileDesc>
 
 <profileDesc>
 <langUsage>
+<<<<<<< HEAD
 
+=======
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 <language ident="fr">French</language>
 </langUsage>
 
@@ -69,13 +102,18 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 <keywords scheme="original" n="type">
 <term>Document</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term/>
+<<<<<<< HEAD
 </keywords>    
     
 <keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
@@ -86,28 +124,52 @@
 <term><!-- EXAMPLE: Congo River --></term>
 </keywords>
     
+=======
+</keywords>
+
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
 <keywords scheme="original" n="language">
+<<<<<<< HEAD
 <term/>
+=======
+<term>French</term>
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 </keywords>
 
 </textClass>
 
+<<<<<<< HEAD
 <!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
 
+=======
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 <correspDesc>
 <correspAction type="sentBy">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<<<<<<< HEAD
 <placeName>Brussels, Belgium</placeName>
 <date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
 </correspAction>
@@ -115,13 +177,26 @@
 <persName><!-- LAST NAME, FIRST NAME --></persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
 <placeName>Brussels, Belgium</placeName>
+=======
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<<<<<<< HEAD
 <change when="2019-01" who="CAA">transcription</change>
+=======
+<change when="2019-01-24" who="kln">named file, inserted correct header template</change>
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 </revisionDesc>
 </teiHeader>
 
@@ -131,6 +206,7 @@
 
 <div1 type="document" xml:lang="fr">
 
+<<<<<<< HEAD
 <pb facs="teaa.fr.letter.237.001" or "1010_001.pdf/>
 
 <p>6/1<p>
@@ -232,6 +308,13 @@ Je saisis cette <unclear></p>
 
 </div1>-->
 
+=======
+<pb facs="teaa.fr.letter.0237.001.jpg"/>
+
+<!-- not transcribed -->
+
+</div1>
+>>>>>>> af885520e8e2ff25fd20be07484f763285b96d9f
 </body>
 </text>
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0244">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0236">
 
 <teiHeader>
 <fileDesc>
@@ -10,8 +10,6 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
-<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
-<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
@@ -34,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.fr.letter.0244</idno>
+<idno type="project">teaa.fr.letter.0236</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -50,7 +48,7 @@
 <msIdentifier>
 <repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
 <collection>Archives Africaines</collection>
-<idno>Portefeuille 217, Liasse 119</idno>
+<idno>Portefeuille 217, Liasse 116</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -66,29 +64,29 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
-    
+
 <keywords scheme="original" n="type">
 <term>Document</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term/>
-</keywords>    
-    
+</keywords>
+
 <keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
 <term><!-- LAST NAME, FIRST NAME --></term>
 </keywords>
-    
+
 <keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
 <term><!-- EXAMPLE: Congo River --></term>
 </keywords>
-    
+
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -116,9 +114,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-01-11" who="kln">renamed file, inserted correct header template</change>
-<change when="2018" who="sab">translation</change>
-<change when="2017" who="KCD">Corrections, marked up.</change>
+<change when="2019-01-24" who="kln">named file, inserted correct header template</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,65 +122,11 @@
 
 <body>
 
-<div1 xml:lang="fr" type="document">
+<div1 type="document" xml:lang="fr">
 
-<pb facs="teaa.fr.letter.0244.001.jpg"/>
+<pb facs="teaa.fr.letter.0236.001.jpg"/>
 
 <!-- not transcribed -->
-
-<pb facs="teaa.fr.letter.0244.002.jpg"/>
-
-<p>Legation of the United States,
-Brussels.</p>
-    
-<p>a 8 Novembre 1898.</p>
-    
-<p>Excellence:</p>
-    
-<p>Un jeune médecin Americain
-désireux d'entrer au service de l'Etat
-Indépendant du Congo sollicite mon
-intervention pour obtenir un exemplaire
-du règlement relatif à l'admission des
-médecins et <unclear>suivinguins</unclear>. Puis, je
-me permettre de référer cette requete á
-votre <unclear></unclear> attention.</p>
-    
-<p>Je saisis cette occasion
-de <unclear></unclear> á votre Excellence les
-assurances de mon haute considération.</p>
-    
-<fw type="footer">Son Excellence<lb/>
-Monsieur le Baron Van Eetvelde<lb/>
-Secrétaire d'Etat de l'Etat Indépendant du Congo</fw>
-
-</div1>
-
-<div1 xml:lang="en" type="translation">
-
-<p>Legation of the United States,<lb/>
-Brussels.</p>
-    
-<p>8 November 1898</p>
-    
-<p>Excellence:</p>
-    
-<p>A young American doctor who
-wants to enter into service of the Independent 
-State of the Congo requests my
-intervention for obtaining an enomplaise
-of rules relative to the admission of 
-doctors and <unclear>suivinguins</unclear>. Next, I
-permit myself to refer to this request through
-your <unclear></unclear> attention.</p>
-    
-<p>I grasp this  
-<unclear></unclear> occasion to your Excellence the 
-assurances of my highest consideration.</p>
-    
-<p>His Excellence<lb/>
-Mr. Baron Van Eetvelde<lb/>
-Secretary of State of the Independent State of the Congo</p>
 
 </div1>
 </body>

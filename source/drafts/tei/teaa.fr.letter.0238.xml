@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0238">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0238</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 217, Liasse 116</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>
+
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-01-24" who="kln">named file, inserted correct header template, transcribed</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.fr.letter.0238.001.jpg"/>
+
+<p>Act passed by the Legislature 1897-8.</p>
+
+<p>Published by Authority.</p>
+
+<p>Joint Resolution with respect to the shipment of laborers from Liberia.</p>
+
+<p>It is resolved by the Senate and House of Representatives of the Republic of Liberia in Legislature assembled:</p>
+
+<p>Sec I. That <unclear>R. Humphrays</unclear>, be and he is hereby constituted and appointed General Agent of the Republic of Liberia for the shipment of Laborers beyond the Liberian territories; for the whole territory of Liberia, with power to appoint Sub Agents at all posts of Entry for the term of Five years from the date of the passage of this Resolution under the following regulations:</p>
+
+<p>First. The said General Agent must pay into the Treasury of the Republic at Monrovia the sum of seven thousand and five hundred dollars in gold coin immediately after the passage of this Resolution.</p>
+
+<p>Second. Each boy can only be shipped for twelve (12) months, and then only to <sic>te</sic> place to which he voluntarily elects to go. Contracts for a longer term can only be made by express permission of Government. Laborers going to Fernando Po are not covered by this Regulation.</p>
+
+<p>Third. The laborers are not to be carried beyond the West Coast of Africa. They are not to be employed in Military service, nor as carriers of Military Expeditions unless such service is notified and agreed to by Government. The intentions is that they shall be employed only in factory and plantation work.</p>
+
+<p>Fourth. The General Agent shall pay a fee of Two $ 2.00 dollars for each boy shipped to the Government and shall in addition retain in his hand for Government the Navy Tax of Fifty $ (0.50) cents for each boy shipped.</p>
+
+<pb facs="teaa.fr.letter.0238.002.jpg"/>
+
+<p>Fifth. The said agent must endeavour to the best of his ability to ship laborers only to such firms of persons who are known to trust laborers well. He must see that the laborers are paid the promised wages and are returned home at the end of that term of engagements.</p>
+
+<p>Sixth. This Resolution shall not apply to boys engaged to work on board steamers or war vessels, provided, however that the number so engaged does not exceed Forty (40) men.</p>
+
+<p>Seventh. The Government is not to be made responsible for any boys surreptitiously shipped, but upon application of the said General Agent it will cause any part of the Liberian Coast to be patrolled by one of its Revenue Vessels. The cost of the coal used in consequence of such patrol shall be paid by the said General Agent.</p>
+
+<p><sic>Eigth</sic>. The Agent shall have the right to transfer this agency to any other resident person or persons, firm or firms, provided however that notice of said transfer shall have been made to the Treasury Department, Monrovia, and the intended purchase is approved by the Government of Liberia.</p>
+
+<p>Ninth. Should the Government at any time revoke the Agency before the expiration of the Five (5) years it shall therefore pay to the said General Agent as his assigns, the sum of Fifteen hundred dollars for each unexpired year, provided that in the interval nothing has been violated of the Regulation.</p>
+
+<p>Tenth. Should the shipping of laborers prove unremunerative to the said Agent he shall be allowed upon notice given at the Treasury Department to withdraw from the arrangement without paying any indemnity.</p>
+
+<p>Eleventh. Upon application of the said Agent his appointment may be renewed for another term of Five years <sic>ont</sic> the same conditions.</p>
+
+<p><sic>Twelth</sic>. The said Agent may ship laborers on Sundays in case steamers cannot wait and necessity so requires.</p>
+
+<p>Thirteenth. Any person found guilty of surreptitiously shipping boys or sending on board vessels to be
+
+<pb facs="teaa.fr.letter.0238.003.jpg"/>
+
+shipped contrary to the provisions of the above Resolution or Act, or of shipping boys on their account in violation thereof, shall on conviction before the Court of Admiralty pay costs and a fine of one hundred ($ 100.00) dollars in gold for each boy shipped; one half of which shall go to the Government the other half to the General Agent. The like penalty shall be inflicted on any Master of a vessel sending his boats on shore to take off laborers contrary to these Resolutions.</p>
+
+<p><sic>Fourtheenth</sic>. That the shipping Master of the several countries shall supervise the shipment of all boys shipped by the several Agents under this Act, and deposit a list off of all the boys so shipped into the Treasury or Sub-Treasury of this Republic, after recording the same in a book to be Rept for that purpose, the shipping and Navy to use recited in <unclear></unclear> shall be paid in gold and the Treasurer or Sub-Treasurer of this Republic shall reserve the same for Navy purpose.</p>
+
+<p>Any law to the contrary notwithstanding. Approved February 4th, 1898.</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

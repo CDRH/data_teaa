@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0253">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0228">
 
 <teiHeader>
 <fileDesc>
@@ -10,7 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Dawson, Kendall C." xml:id="KCD">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.fr.letter.0253</idno>
+<idno type="project">teaa.fr.letter.0228</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -49,7 +49,7 @@
 <msIdentifier>
 <repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
 <collection>Archives Africaines</collection>
-<idno>Portefeuille 217, Liasse 120</idno>
+<idno>Portefeuille 229, Liasse 182</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -65,35 +65,35 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
-    
+
 <keywords scheme="original" n="type">
 <term>Document</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term/>
-</keywords>    
-    
+</keywords>
+
 <keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
 <term><!-- LAST NAME, FIRST NAME --></term>
 </keywords>
-    
+
 <keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
 <term><!-- EXAMPLE: Congo River --></term>
 </keywords>
-    
+
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
 <keywords scheme="original" n="language">
-<term>English</term>
+<term/>
 </keywords>
 
 </textClass>
@@ -115,7 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-01-14" who="kln">renamed file, inserted correct header template, edited and completed transcription</change>
+<change when="2019-01-24" who="kln">named file, inserted correct header template</change>
 <change when="2017" who="KCD">Corrections, marked up.</change>
 </revisionDesc>
 </teiHeader>
@@ -126,36 +126,71 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.fr.letter.0253.001.jpg"/>
+<pb facs="teaa.fr.letter.0228.001.jpg"/>
 
-<p>Legation of the United States of America</p>
+<p>Confidential.</p>
 
-<p>Brussels January 5, 1888</p>
-    
-<p>Sir:</p>
+<p>223 West Lanvale Street.<lb/>
+Baltimore, Maryland,<lb/>
+February 10, 1905.</p>
 
-<p>I have the honor to acknowledge the reception of your esteemed note of the 31st ultimo which I have carefully
-read.</p>
-    
-<p>No purpose however philanthropic or praiseworthy, which Mr. Stanley had in view as the commandant of 
-a private enterprise, could justify or excuse his arbitrary and violent acts in attempting, with the aid of an armed force, to seize and appropriate the private property of persons, without their consent, which he found within the limits of the Congo Free State, and I felt confident that the Government of the State would strongly disapprove of such conduct.</p>
-    
-<p>I am glad to know that your Government is in possession of evidence which relieves its <fw type="catch">agent</fw>
+<p>Dear Sir:-</p>
 
-<fw type="footer">To Mr. Edmund Van Eetvelde<lb/>
-General Administrator of the Department of Foreign Affairs</fw>
+<p>In accordance with the wish of His Excellency, Baron Moncheur,
+Belgian Minister at Washington, I have the honor of calling your attention
+to the enclosed documents.</p>
 
-<pb facs="teaa.fr.letter.0253.002.jpg"/>
+<p>Among them you will find a copy of the Memorial of the Congo
+question presented to Congress by Senator Cullom on behalf of the Belgian
+Protective Association of America. The object of the Memorial is
+to refute the charge brought against the Administration of the Congo
+Free State and the Government of His Majesty, King Leopold II, by certain
+Missionary Organizations inspired partly by discontented missionaries but
+chiefly by rubber merchants of Liverpool.</p>
 
-agent at Stanley-Pool from the imputation of covertly favoring Stanley's project to take possession of the boat, against the will of her owners.</p>
+<p>The other document which I hand you is a form of Petition endorsing
+the above mentioned Memorial, and it is desired that you will
+endeavor to secure for it the largest possible number of signatures of
+influential persons, both Belgians and American business men.</p>
 
-<p>I feel assured that my Government will learn with sincere satisfaction and pleasure, that the subsequent seizure of the boat by Lieut Van Gele, was made under a misapprehension as to her having been hired by the State, and that she was still in its service; that the Government of the State, as soon as it learned of the fact ordered her restitution to the owners, which was done; and that the complainants have been liberally indemnified for the injury which had been occasioned to them.</p>
+<p>There has been recently formed in New York by a number of well 
+known men, a society called the Belgian Protective Association of America,
+and you will find enclosed a short memorandum stating the objects of the 
+organization, its by-laws, and the names of a few of its prominent members.
+About 200 members have been already enrolled in New York. It is contemplated
+to make this organization permanent so as to be available, not
+only in the present of circumstances, but also in the future, for the cultivation
+of friendly and commercial relations between the United States, 
+on the one hand, and Belgium and the Congo Free State, on the other. I
+request that you will be kind enough to form a branch of the Belgian Protective
+Association in your Consular district, and that you will return
+me the Petition with the signatures of your member properly affixed, and
+also that you will forward a list of the membership of your branch to
+the Secretary of the Belgian Protective Association, 83 Worth Street,
+New York City.</p>
 
-<p>I profit by the occasions to <fw type="catch">renew</fw>
+<p>For obvious reasons it is thought desirable that His Majesty's
 
-renew to you, Sir, the assurances of my most distinguished consideration.</p>
-    
-<p>Lambert Tree</p>
+<pb facs="teaa.fr.letter.0228.001.jpg"/>
+
+Consuls should not appear too conspicuously in the organization and for
+this reason it would be well, wherever practicable, to select as the active
+officers of the Branch prominent business men not connected with
+His Majesty's Service.</p>
+
+<p>I suggest that, if possible, you induce some of your influential
+friends to write personal letters to their Senators and Representatives
+endorsing the Memorial and the Petition of the Belgian Protective Association.</p>
+
+<p>I avail myself of this opportunity to thank you on behalf of
+Baron Moncheur, as well as on my own account, for the interest you have
+taken in the defense of His Majesty's Government in the Congo, and</p>
+
+<p>With high appreciation of your courtesy,<lb/>
+I remain,<lb/>
+Yours faithfully,<lb/>
+James Gustavus Whiteley<lb/>
+Consul for the Congo Free State.</p>
 
 </div1>
 </body>
