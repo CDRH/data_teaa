@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0237">
-
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0244a">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter to Mr. Baron</title>
+<title>Letter from Mr. Bellamy to the Minister</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>translation and encoding</resp>
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea Animwaa Akyeampong</name>
+<resp>transcription</resp>
+<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea Akyeampong</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.fr.letter.0237</idno>
+<idno type="project">teaa.fr.letter.0244a</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -44,25 +43,24 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter to Mr. Baron</title>
-<date when="1898-05-25">May 25, 1898</date>
+<title level="m">Letter from Mr. Bellamy to the Minister</title>
+<date when="1898-11-10">November 1, 1898</date>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
 <collection>Archives Africaines</collection>
-<idno>Portefeuille 217, Liasses 115-122</idno>
+<idno>Portefeuille 217, Liasse 119</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
-
 
 
 </fileDesc>
 
 <profileDesc>
 <langUsage>
-
+<!-- WHAT LANGUAGE IS THE DOCUMENT IN? SEE ALSO: fr, French -->
 <language ident="fr">French</language>
 </langUsage>
 
@@ -106,13 +104,13 @@
 <!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
 
 <correspDesc>
-<correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
+<correspAction type="Mr. Bellamy Steven">
+<persName>Bellamy Steven</persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
 <placeName>Brussels, Belgium</placeName>
-<date when="1898-05-25"/>
+<date when="1898-11-10"</date>
 </correspAction>
-<correspAction type="Mr. Baron">
+<correspAction type="Mr. Minister">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
 <placeName>Brussels, Belgium</placeName>
@@ -122,7 +120,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-01" who="#CAA">translation</change>
+<change when="2019-01" who="CAA">transcription</change>
 </revisionDesc>
 </teiHeader>
 
@@ -131,94 +129,58 @@
 <body>
 
 <div1 xml:lang="fr" type="document">
+1011_001.pdf"/>
 
-<pb facs="1010_001.pdf"/>
+<date>Bruxelles, le 10 novembre 18<cut off></date>
 
-<!-- BEGIN TRANSCRIBING -->
+<numbers>9/H4</numbers>
 
-<div1 xml:lang="fr" type="document" >
+<p>L. Annexes II<p>
 
-<pb facs="1010_001">
+<stamp>Inscrit le 10-11-98
+No d'ordre 11643
+Carton 14 Dossier 8
+Rep. le</stamp>
 
-<p>6/1</p>
+<p>Tous ceci le Ministre,</p>
 
-<p>Brussels, May 25, 1898</p>
+<p>J'ai eu l'honneur de recevoir la 
+lettre en daté du 8 de a mois
+que V.E. a bien voulu <unclear-2words>
+á l'effet au recevoir un exemplaré
+du règlement á <unclear> á l'adversites.
+des <unclear-2words> et Chicangeurs au
+<unclear> de l'Etat Ind. de Congo.
+<crossed out line but replaced with following:
+Il m'<unclear> pas de réglement
+<unclear> pour cette administres;
+Je fais <unclear> á V.E.<end>
+Tous ce <unclear-4words> des
+"réglement <unclear> pour <unclear-2words>
+de l'Etat du <unclear>" <unclear-2words> 
+<unclear> d'appel çoivents <unclear>
+aux officiel du sauté, <crossed out>
+<crossed out></p>
 
-<stamp>1126 25 May 1898</stamp>
+<p><intended to be inserted from the side:> 
+Je ferais <unclear> un exemplaire
+<unclear-2words> du 24juillet 1894
+sur <unclear> seul art á <unclear-2words>
+[l'aprés Mr. de Badelesque.]</p> 
 
-<stamp>Inscribed 25-5-98
-Number ordered 10927
-Card 18 File 4
-Rep: le</stamp>
+<p> [crossed out paragraph below:]
+Bien que actuellement le service
+<unclear> ait actuellement <unclear-2words> des <unclear>
+le <unclear></p>
+</div1>
 
-<p>Mr. Baron,
-The Republic of Liberia's legislation, from
-the February 4th 1898 acte, in Paris was a 
-closed resolution of which it consituted 
-a general agent from the Republic <unclear>
-the workers' banking <crossed out>
-of a part of the Liberian territory.</p>
+<!-- TRANSLATION, IF APPLICABLE -->
 
-<p>I had the honor of 
-putting here a cop of this resolution on which 
-I <unclear-6words>
-to base your waiting call of
-<unclear-4words></p>
+<!--<div1 xml:lang="en" type="translation">
 
-<p> <unclear-4words> the
-<unclear-2words> the act does not lie,
-an effect, in harm <unclear> with
-the treaty establishing commerce, intervening
-between</p>
+<pb facs="x"/>
 
-<div1 xml:lang="fr" type="document"
-
-<pb facs="teaa.fr.letter.0237.001.jpg"
-
-<p> <unclear-3words> There <unclear> 
-1891, and specially with 
-Article 15 that <unclear> "that it
-<unclear-2words> to <unclear> 
-of the Repbulic of <unclear> from
-<unclear> of, indicating and contracting some <unclear> 
-in defending <unclear>
-in the Independent Congo territory
-<unclear> the Resolution <crossed out> <unclear>
-by the authorities of <unclear> 
-<unclear> some Liberian workers embarking
-<unclear> conditions that the 
-faculty who <unclear> their
-by <crossed out> the <unclear> 
-<unclear> <unclear> in <unclear-2words>
-the <unclear-3words>
-the only farm <unclear>
-that workers and the application <unclear-2words> 
-<unclear-2words>
-this whereas that<unclear>are evidently <unclear>
-at liberty to each other.<p>
-
-<div1 xml:lang="fr" type="document">
-
-<pb facs="teaa.fr.letter.0237.001.jpg"
-
-<p>engaging <unclear-2words>
-it <unclear> him " <unclear-2words>, <unclear>
-<unclear line>
-the right to engage discovering
-in <unclear> other houses <unclear>
-<unclear line>
-discovering without <unclear> of a 
-<unclear> of 100 dollars to not open.</p>
-
-<p> <crossed out> The <unclear>
-did not open the Baron, unified <crossed out>
-obliging the intermediaru for 
-<crossed out>
-<unclear> to
-the Liberian government the objectives of 
-raising the question of the Resolution
-<crossed out line>
-I knew this <unclear></p>
+</div1>-->
 
 </body>
 </text>
