@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from Mr. Bellamy to the Minister, November 10, 1898</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea Akyeampong</name>
 <name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
@@ -43,8 +44,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from Mr. Bellamy to the Minister</title>
+<date when="1898-11-10">November 10, 1898</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -101,10 +102,9 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Bellamy, Steven</persName>
+<placeName>Brussels, Belgium</placeName>
+<date when="1898-11-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
@@ -117,8 +117,9 @@
 
 <revisionDesc>
 <change when="2019-01-11" who="kln">renamed file, inserted correct header template</change>
+<change when="2019-01" who="CAA">transcription</change>
 <change when="2018" who="sab">translation</change>
-<change when="2017" who="KCD">Corrections, marked up.</change>
+<change when="2017" who="KCD">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -130,7 +131,36 @@
 
 <pb facs="teaa.fr.letter.0244.001.jpg"/>
 
-<!-- not transcribed -->
+<p>Bruxelles, le 10 novembre 1898</p>
+
+<p>2 Annexes.</p>
+
+<p>Tous ceci le Ministre,</p>
+
+<p>J'ai eu l'honneur de recevoir la 
+lettre en daté du 8 de a mois
+que V.E. a bien voulu <unclear></unclear>
+á l'effet au recevoir un exemplaré
+du règlement á <unclear></unclear> á l'adversites.
+des <unclear></unclear> et Chicangeurs au
+<unclear></unclear> de l'Etat Ind. de Congo.
+Il m'<unclear></unclear> pas de réglement
+<unclear></unclear> pour cette administres;
+Je fais <unclear></unclear> á V.E.
+Tous ce <unclear></unclear> des
+"réglement <unclear></unclear> pour <unclear></unclear>
+de l'Etat du <unclear></unclear>" <unclear></unclear> 
+<unclear></unclear> d'appel çoivents <unclear></unclear>
+aux officiel du sauté,</p>
+
+<p>Je ferais <unclear></unclear> un exemplaire
+<unclear></unclear> du 24juillet 1894
+sur <unclear></unclear> seul art á <unclear></unclear>
+[l'aprés Mr. de Badelesque.]</p> 
+
+<p>Bien que actuellement le service
+<unclear></unclear> ait actuellement <unclear></unclear> des <unclear></unclear>
+le <!-- transcription needs to be finished --></p>
 
 <pb facs="teaa.fr.letter.0244.002.jpg"/>
 
@@ -161,6 +191,12 @@ Secrétaire d'Etat de l'Etat Indépendant du Congo</fw>
 </div1>
 
 <div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0244.001.jpg"/>
+
+<!-- needs to be translated -->
+
+<pb facs="teaa.fr.letter.0244.002.jpg"/>
 
 <p>Legation of the United States,<lb/>
 Brussels.</p>
