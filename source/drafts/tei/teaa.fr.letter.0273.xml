@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0273">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0273</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 217, Liasse 122</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-01-25" who="kln">renamed file, inserted correct header template</change>
+<change when="2018" who="sab">translated</change>
+<change when="2017" who="KCD">Transcribed.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="teaa.fr.letter.0273.001.jpg"/>
+
+<p>Ministère 
+des
+Affaires Ètrangères<lb/>
+Direction <unclear>G</unclear> No C VII<lb/>
+Rappeler dans la réponse les numéros,
+le litta de la Direction ainsi que la date.<lb/>
+3 Annexes</p>
+
+<p>Bruxelles, le 5 Mars 1909.</p>
+
+<p>Monsieur Le Ministre,</p>
+
+<p>J'ai l'honneur de vous accuser réception
+de votre lettre du 27 février 11, no 494.</p>
+
+<p>L'article du "Boston Transcript"
+qui s'y trouvait joint et que je vous restitue
+sous ce pli, m'avait été envoyé en annexe
+á un rapport du Baron Moncheur de 2 février.</p>
+
+<p>Cet article reproduit textuellement
+toute une série de passages de la dépèche
+adressée le 11 janvier dernier par M. Root
+au Ministre du Roi à Washington.</p>
+
+<p>Comme suite à ma lettre du 12 février
+dernier j'ai l'honneur de vous communiquer
+sous ce pli en copie deux nouveaux rapports
+de Washington par lesquels le Baron <fw type="catch">Moncheur</fw>
+
+<fw type="footer">M. le Ministre des Colonies
+à Bruxelles</fw>
+
+<pb facs="teaa.fr.letter.0273.002.jpg"/>
+
+Moncheur m'a rendu compte des observations adressés 
+par lui d'après mes ordres au Secrétaires d'Etat
+et des résultats de ces observations.</p>
+
+<p>Vous constater par le premier
+de ces rapports que le gouvernement des Etats-unis 
+avait communiqué intégralement à la
+"Congo Reform Association" le texte de sa dépêche
+l'adressée au Bon Moncheur le 11 janvier dernier.</p>
+
+<p>H Davignon.</p>
+
+<pb facs="teaa.fr.letter.0273.003.jpg"/>
+
+<p>Copie</p>
+
+<p>Légation de Belgique<lb/>
+no 124/70<lb/>
+3 annexes</p>
+
+<p>Washington, le 12 février 1909.</p>
+
+<p>Monsieur le Ministre,</p>
+
+<p>L'admonestation adressée par l'honorable
+Robert Bacon aux agents de la Congo Reform
+Association de Boston à la suite de ma protestation
+parait avoir produit de l'effet, car
+depuis lors la presse des Etats-unis a fait silence
+au sujet de la note américaine et de l'attitude du
+Cabinet de Washington au sujet de la reconnaissance
+de l'annexion de l'Etat du Congo à la Belgique.</p>
+
+<p>J'ai l'honneur de vous transmettre
+quelques articles de journaux se rapportant á d'autres
+question concernant le Congo.</p>
+
+<p>Vous trouverez (annexe A) deux articles
+annonçante le projet de voyage dans notre
+colonie de S.A.R. M. <unclear>ye</unclear> le Prince Albert et contenant
+de trés grands éloges á l'adresse de l'héritier
+du Trône.</p>
+
+<fw type="catch">L'annexe</fw>
+
+<fw type="footer">Son Excellence Monsieur Davignon
+Ministre des Affaires Etrangères
+etc. etc. etc. Bruxelles</fw>
+
+<pb facs="teaa.fr.letter.0273.004.jpg"/>
+
+<p>L'annexe B contient une information
+qui ce paree dans beaucoup de journaux et d'après
+laquelle l'Eglise Presbytérienne, á laquelle appartient
+le <unclear>Ro</unclear> Morisson, a changé le <unclear> Ro</unclear> S.H. Chester,
+Missionnaire, de prier le Secrétaire d'Etat de
+faire surveiller par le Consul américain á Boma
+la marche du procés en diffamation intenté contre
+Morrisson et Sheppard.</p>
+    
+<p>Le "Sunday News" de Buffalo qui nous
+est toujours très hostile publie un soi-disant
+télégramme d'Anvers d'aprés le quel la caoutchoue
+est en train de s'épuiser rapidement au Congo. Il
+prétend aussi que l'on oblige par la force les nègres
+á s'engager pour cinq ans á travailler dans les
+mines d'or récemment découvertes (Annexe C)</p>
+
+<p>Veuillez agréer etc.<lb/>
+(signé) Bon Moncheur</p>
+
+<pb facs="teaa.fr.letter.0273.005.jpg"/>
+
+<p>Copie</p>
+
+<p>Confidentielle</p>
+
+<p>Légation de Belgique<lb/>
+No 109/61.</p>
+
+<p>Washington, le 5 février 1909</p>
+
+<p>Monsieur le Ministre,</p>
+    
+<p>Conformément aux instructions contenues
+dans votre télégramme d'hier je me suis rendre aujourd'hui
+cher le Secrétaire d'Etat pour protester
+contre la manière dont la correspondance échangée
+récemment entre le Départment d'Etat et la
+Légation avait été livrée á la publicité á l'insu
+du Gouvernement du Roi.</p>
+
+<p>M. Bacon me témoigna de suite son profond
+regret de cet incident et m'expliquer comment
+les choses se sont passées.</p>
+    
+<p>Il parait que son prédécesseur, M. Root,
+tout en s'efforçant souvent de calmer la violence
+de la Congo Reform Association envoyait parfois
+quand l'occasion s'en présentait á M. Daniels
+secrétaire de cette société les documents de nature
+á l'intéresser. Avant de quitter le Département
+d'Etat, M. Root avait donné pour instructions
+de donner copie á M. Daniels de ma lettre du 4 <fw type="catch">novembre</fw>
+
+<fw type="footer">Son Excellence Monsieur Davignon,
+Ministre des Affaires étrangéres
+etc. etc. etc. Bruxelles.</fw>
+
+<pb facs="teaa.fr.letter.0273.006.jpg"/>
+    
+novembre et de sa réponse du 11 janvier. Cette expédition
+fut faite par M. Bacon le lendemain de son arrivée
+au Département d'Etat. Toutefois il m'a assuré de
+la manière la plus formelle qu'il était loin de se
+douter que le Congo Reform Association s'empresserait 
+de publier ces documents de la manière qu'elle 
+a employée, c'est á dire en donnant á la publication 
+une forme quasi officielle en déclarant
+qu'elle se faisait en vertu de l'autorisation du
+Département d'Etat.</p>
+    
+<p>Dés que M. Bacon vit l'article paru
+dans le Boston Transcript et d'autres journaux
+publiant la correspondance au sujet du Congo, il
+télégraphia á M. Daniels de cesser immédiatement
+toute publication relative á ces documents.</p>
+    
+<p>Je répondis au Secrétaire d'Etat que
+la Congo Reform Association avait pu me connaître
+ses intentions au sujet de la publication de la correspondance
+dont il s'agit, mais qu'il n'en était pas
+moins regrettable et contraire aux usages diplomatiques
+que cette société privée eut reçu communication
+de ces documents á n'importe quel titre á l'insu de mon
+Gouvernement.</p> 
+    
+<p>M. Bacon renouvela alors l'expression
+de son regret et protesta qu'il ne lui serait
+jamais venu á l'esprit de manquer en quoi que 
+ce soit aux régles de la courtoisie internationale <fw type="catch">á</fw>
+    
+<pb facs="teaa.fr.letter.0273.007.jpg"/>
+    
+á l'égard de la Belgique.</p>
+
+<p>J'ajoutai encore que la Congo Reform
+Association pouvant faire une tort moral considérable
+á la Belgique en faisant croire au publie
+qu'elle est l'organe du Département d'Etat en
+ce qui concerne la question du Congo, je croyais avoir
+le droit de faire connaître la déclaration que
+venait de me faire M. Bacon, comme quoi la publication 
+des documents dans la forme oú elle venait
+d'être faire n'avait par l'autorisation du Secrétaire
+d'Etat.</p>
+    
+<p>Celui-ci admit que ce droit m'appartient,
+mais il m'exprima un vif désir de ne pas
+me voir en user, vu la polémique que ma déclaration
+ne manquerait pas d'entraîner avec la Congo
+Reform Association.</p>
+
+<p>Je répondis alors que le Gouvernement
+du Roi resterait juge de l'opportunité qu'il y aurait
+de donner ce démenti á nos adversaires.</p>
+    
+<p>Je crois, Monsieur le Ministre, que 
+dans les circonstances actuelles il vaut mieux considérer
+l'incident clos en se contentant des explications
+du Secrétaire d'Etat et des expressions de
+regret qu'il m'a positivement prodiguées.</p>
+    
+<p>Il m'a promis de télégraphier de nouveau
+á M. Daniels de me faire aucun usage, pour <fw type="catch">la</fw>
+    
+<pb facs="teaa.fr.letter.0273.008.jpg"/>
+
+la publicité, des pièces relatives á la correspondance
+que j'ai échangée avec le Département d'Etat.</p>
+    
+<p>En résumé il me semble que notre
+action aura pour effets 1° de rendre la Secrétairerie
+d'Etat plus circonspecte á l'avenir dans ses rapports - 
+dévoilés et reconnus - avec la Congo Reform
+Association et 2° de provoquer entre M. M. Bacon
+et Daniel un échange de vues dont ce dernier
+n'aura vraisemblablement pas á se féliciter.</p>
+    
+<p>Veuillez agréer etc.<lb/>
+(signé) Bn. Moncheur.</p>
+
+</div1>
+
+
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0273.001.jpg"/>
+
+<p>Minister 
+of 
+Foreign Affairs<lb/>
+Direction <unclear>G</unclear> No C VII<lb/>
+Recall in the response the numbers,
+in the Direction as well as the date.<lb/>
+3 Annexes</p>
+
+<p>Brussels March 5, 1909</p>
+
+<p>Mr. Minister,</p>
+
+<p>I have the honor to acknowledge to you the receipt 
+of your letter of the 27th of February 11, no 494.</p>
+
+<p>The "Boston Transcript" article
+that you will find attached here and that I am returning to you
+sans ce pli, had been sent to me in the annex 
+of a report from Baron Moncheur the 2nd of February.</p>
+
+<p>This article reproduces verbatim 
+a whole series of passages from the dispatch 
+sent on January 11th by M. Root
+in the Minister of the King in Washington.</p>
+
+<p>As a result of my letter from last February 
+the 12th I have the honor to communicate
+herewith in copy two new reports 
+from Washington by which the Baron <fw type="catch">Moncheur</fw>
+
+<fw type="footer">Mr. Minister of the Colonies 
+in Brussels</fw>
+
+<pb facs="teaa.fr.letter.0273.002.jpg"/>
+
+Moncheur became aware of his addressed observations
+after my orders to the Secretaries of State 
+and the results of these observations.</p>
+
+<p>You notice by the first
+of these reports that the government of the United
+States had completely communicated the text 
+of his dispatch at the "Congo Reform Association" 
+sent to the Bon Moncheur the 11th of last January.</p>
+
+<p>H Davignon</p>
+
+<pb facs="teaa.fr.letter.0273.003.jpg"/>
+        
+<p>Copy</p>
+        
+<p>Legation of Belgium<lb/>
+no 124-70<lb/>
+3 annexes</p>
+        
+<p>Washington, the 12th of February 1909.</p>
+        
+<p>Mr. Minister,</p>
+        
+<p>The admonition addressed by the honorable
+Robert Bacon to the officers of the Congo Reform
+Association of Boston following my protest 
+appear to have produced an effect, because 
+since then the United States press has stayed silent on 
+the topic of the American note and the attitude of the 
+Washington Cabinet about the recognition 
+of the annexation of the Belgian Congo state.</p>
+        
+<p>I have the honor to transmit herewith 
+some articles from newspapers relating others to the 
+issues concerning the Congo.</p>
+        
+<p>You will find (in annex A) two articles
+announcing the voyage project in our 
+colony of S.A.R. Mr. <unclear>ye</unclear> Prince Albert and contains 
+very big praise to the address of the heir 
+of the Throne.</p>
+
+<fw type="catch">The annex</fw>
+        
+<fw type="footer">Your Excellence Mr. Davignon
+Minister of Foreign Affairs 
+etc. etc. etc. Belgium</fw>
+        
+<pb facs="teaa.fr.letter.0273.004.jpg"/>
+        
+<p>The annex B includes information
+that blocked in a lot of journals and after 
+which the Presbyterian Church, which belongs to 
+the <unclear>Ro</unclear> Morisson, changed the<unclear> Ro</unclear> S.H. Chester,
+Missionary, to request the Secretary of State to 
+monitor by the American Consul in Boma
+the proceedings for defamation brought against
+Morrisson and Sheppard.</p>
+        
+<p>The Buffalo "Sunday News" that we
+are always very hostile published a self-said
+telegram to Anvers to express which rubber 
+is in the middle of rapidly running dry in the Congo. He
+also claims that Negros are forced 
+to commit themselves for 5 years to work in the 
+recently discovered gold mines (Annexe C)</p>
+        
+<p>Yours sincerely etc.<lb/>
+(Signed) Bon Moncheur</p>
+        
+<pb facs="teaa.fr.letter.0273.005.jpg"/>
+
+<!-- needs to be translated -->
+
+<pb facs="teaa.fr.letter.0273.006.jpg"/>
+
+<!-- needs to be translated -->
+
+<pb facs="teaa.fr.letter.0273.007.jpg"/>
+
+<!-- needs to be translated -->
+
+<pb facs="teaa.fr.letter.0273.008.jpg"/>
+
+<!-- needs to be translated -->
+
+</div1>
+</body>
+</text>
+
+</TEI>
+

@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea Animwaa Akyeampong</name>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
@@ -100,23 +101,24 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName>Brussels, Belgium</placeName>
+<date when="1899-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Minister of the United States</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-01" who="CAA">translated</change>
 <change when="2019-01-11" who="kln">renamed file, inserted correct header template</change>
-<change when="2017" who="KCD">Corrections, marked up.</change>
+<change when="2017" who="KCD">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -132,45 +134,94 @@
 
 <p>Monsieur le Ministre</p>
 
-<p>J'ai eu l'honneur de recevoir la lettre en date du 19 <unclear> de</unclear>
-mois <unclear> je</unclear> par laquelle Votre Excellence a bien voulu me demander des
-renseignments sur les conditions climatériques des différentes
+<p>J'ai eu l'honneur de recevoir la lettre en date du 19 <unclear>du</unclear>
+mois <unclear>du</unclear> par laquelle Votre Excellence a bien voulu me demander des
+renseignements sur les conditions climatériques des différentes
 régions de l'Etat du Congo et sur la possibilité pour un groupe
 de jeunes de l'Etat de la Caroline du Sud de se créer une
 position en Afrique.</p>
 
-<p>Je ne crois mieux pouvoir répondre a la premiére question
-de Votre Exellence qu'en mettant à <unclear> sa </unclear> disposition un exemplaire
-du "rapport sur le climat, la constitution du sol et hygiéne
-de l'Etat Indépendant du Congo "qui a été présenté au Congres
-national d' hygiéne et de climatologie tenu à Bruxelles en 1897. </p>
+<p>Je ne crois mieux pouvoir répondre à la première question
+de Votre Excellence qu'en mettant à sa disposition un exemplaire
+du "rapport sur le climat, la constitution du sol et l’hygiène
+de l'Etat Indépendant du Congo" qui a été présenté au Congres
+national d’hygiène et de climatologie tenu à Bruxelles en 1897.</p>
 
-<p>En ce qui concerne le possibilité d'établissement su le
+<p>En ce qui concerne le possibilité d'établissement sur le
 territoire de l'Etat, les recensements annuels constatent une
-augumentation constante et progressive des résidents étrangers,
+augmentation constante et progressive des résidents étrangers,
 s'adonnant pour la plupart au commerce, quelques'uns aux métiers
 manuels.</p>
 
 <p>Il y a lieu de remarquer que la presque totalité des commerçants
 ou trafiquants sont agents de sociétés ou de compagnies
-commercials.</p>
+commerciales.</p>
 
 <p>Les professions dites libérales ne sont guère représentes
 au Congo.</p>
 
 <p>Quant à ce qui concerne l'admission aux services, soit civils,
-soit militaires, de l'Etat, sevices pour lesquels la connaissance
-de la lange française est de rigeur, elle s'obtient sur requête
+soit militaires, de l'Etat, services pour lesquels la connaissance
+de la lange française est de rigueur, elle s'obtient sur requête
 adressée à Monsieur le Secrétaire d'Etat.</p>
 
 <p>Je ne puis à cet égard m'abstenir de signaler à Votre Excellence
 l'existence d'un grand nombre de candidatures déjà introduites,
-et ayant par conséquent le benéfice de la priorité.
-Je saisis ...................</p>
+et ayant par conséquent le bénéfice de la priorité.</p>
 
-<p>Légation des Etats Unis d'Amérique.</p>
+<p>Je saisis ...................</p>
+
+<fw type="footer">Légation des Etats Unis d'Amérique.</fw>
 
 </div1>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0243.001.jpg"/>
+
+<p>Brussels, July 1899.</p>
+
+<p>Mr. Minister,</p>
+
+<p>I had the honor of receiving the letter on the date of the 19th of this month
+by which your Excellency wanted me to ask for
+information on the different climatic conditions in the regions
+of the Congo state and on the possibility for a youth group from 
+South Carolina to create a position in Africa.</p>
+
+<p>I cannot believe responding to the first question 
+of your Excellency in putting to his disposition an exemplary 
+climate report, the constitution of the soil and hygiene 
+of the Independent State of Congo "who was presented to 
+the national Congress of hygiene and climatology held in Brussels in 1897.</p>
+
+<p>This concerns the possibility of establishing on the
+State's territory, the annual recorded census
+on the constant improvement and progressiveness of foreign residents
+indulging for the most part in commerce, in a practical person's trade.</p>
+
+<p>It was remarked that the near totality of traders
+or traffickers are agents of societies or commercial
+companies.</p>
+
+<p>The professionals say liberals are hardly not represented
+in Congo.</p>
+
+<p>As for those concerning the admission of services, either
+civil or military, of the State, services of which the knowledge 
+of the French language is rigorous, they obtain on the requested
+addressed to Mr. Secretary of State.</p>
+
+<p>I may not to this regard abstain myself from signaling to your Excellency
+the existence of a big number of candidates already introduced,
+and having by consequence the benefit of the priority.</p>
+
+<p>I knew.....................</p>
+
+<fw type="footer">Legation of the United States of America</fw>
+
+</div1>
+
 </body>
 </text>
 
