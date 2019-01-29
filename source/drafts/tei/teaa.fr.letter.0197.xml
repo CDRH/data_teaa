@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from the Minister to the Minister of Foreign Affaires in Brussels, February 7, 1911</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from Minsiter to the Minister of Foreign Affaires in Brussels</title>
+<date when="1911-02-07">February 7, 1971</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,12 +74,14 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Droy</term>
+<term>Minister</term>
+<term>Minister of Foreign Affaires in Brussels</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Brussels</term>
 </keywords>
     
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -99,15 +102,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName>Minister</roleName>
+<placeName/>
+<date when="1911-02-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Minister of Foreign Affaires in Brussels</roleName>
+<placeName>Brussels, Belgium</placeName>
 </correspAction>
 </correspDesc>
 
@@ -115,6 +118,7 @@
 
 <revisionDesc>
 <change when="2019-01-17" who="kln">created xml file</change>
+<change when="2019-01-29" who="sab">Transcribed and translated letter, encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -125,6 +129,64 @@
 <div1 type="document" xml:lang="fr">
 
 <pb facs="teaa.fr.letter.0197.001.jpg"/>
+
+<ab>
+MINISTÈRE 
+DES
+COLONIES
+</ab>
+
+<ab>
+1re Direction Générale
+</ab>
+
+<ab>
+Justice et Instruction Publique
+</ab>
+
+<ab>
+1e Direction
+</ab>
+
+<ab>
+1e Division
+</ab>
+
+<ab>
+Bruxelles, le 7 Février 1971
+</ab>
+
+<p>
+Monsieur le Ministre,
+
+J'ai l'honneur de vous faire savoir, en <unclear>m'foure</unclear> à
+<unclear/> lettre du 01 Janvier 
+dernier, D M E No 1159, que 
+ne n'ai, en ce qui me
+commence, aucune objective 
+à ce que <unclear>l'antouiatiers</unclear>
+d'influencer le <unclear>fountion</unclear> de 
+connl général <unclear>Neppliaué</unclear>
+du ECAG. <unclear/> à <unclear>Donna</unclear>
+mit <unclear>ailinée</unclear> à M. Droy.
+</p>
+
+<p>
+Il est <unclear>ulart</unclear> que
+M. Droy <unclear>gère intiruires</unclear> ai-
+venneuc le Consulat
+Général depuis la départ
+en <unclear>cougé</unclear> du <unclear/>
+M. Handley, l'un à
+<unclear>drie</unclear> depuis le 15 Mai 1910.
+</p>
+
+<p>
+Vous n'ignorez pas,
+M. le Ministre, que
+M. Handley a venu ses <unclear/>  <!-- word cut off. -->
+sans infernunié du </p>
+
 
 
 

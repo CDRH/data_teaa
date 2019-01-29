@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from the Vice Governor General to the Minister of Colonies in Brussels, October 3, 1911</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
-<name n="Brown, Sophie Anneliese" xml:id="sab"></name>
+<name n="Brown, Sophie A." xml:id="sab"></name>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
@@ -43,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from the Vice Governor General to the Minister of Colonies in Brussels</title>
+<date when="1911-10-03">October 3, 1911</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,12 +75,35 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>American Consul, R.</term>
+<term>Albert, N'Zao Makwala</term>
+<term>Benza, Paulo</term>
+<term>Dedé, Thomas</term>
+<term>Deleval</term>
+<term>Deuster, Commissioner General</term>
+<term>Janssens, C.L.</term>
+<term>Lutete, Thomas</term>
+<term>Minister of Colonies in Brussels</term>
+<term>Paeli, Chief</term>
+<term>Schmidt, Section Chief</term>
+<term>Vice Consul General of the United States of America</term>
+<term>Vice Governor General</term>
+<term>Zenga, Paul</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Bas-Congo</term>
+<term>Boma</term>
+<term>Brussels</term>
+<term>Leange</term>
+<term>Lukula</term>
+<term>Maba</term>
+<term>Maduda</term>
+<term>Punze</term>
+<term>Tshela</term>
+<term>Tuidi Zambi</term>
+<term>United States of America</term>
 </keywords>
     
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -101,24 +124,30 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName>Vice Governor General</roleName>
+<placeName/>
+<date when="1911-10-03"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Minister of Colonies in Brussels</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<<<<<<< HEAD
 <change when="2019-01-09" who="kln">renamed file, inserted correct header template</change>
 <change when="2018" who="sab">translated</change>
 <change when="2017" who="KCD">Transcribed.</change>
+=======
+<change when="2019-01-09" who="kln">renamed file, inserted correct header template.</change>
+<change when="2019" who="sab">transcribed, translated, encoded.</change>
+<change when="2017" who="kcd">Corrections, marked up.</change>
+>>>>>>> 2c43fbcf89943e62bd5ffaf344287cd28f8ab678
 </revisionDesc>
 </teiHeader>
 
@@ -130,11 +159,143 @@
 
 <pb facs="teaa.fr.letter.0199.001.jpg"/>
 
-<!-- not transcribed -->
+<ab>
+CONGO BELGE
+</ab>
+
+<ab>
+GOUVERNEMENT LOCAL
+</ab>
+
+<ab>
+5em Direction
+</ab>
+
+<ab>
+Justice
+</ab>
+
+<ab>
+No 1925
+</ab>
+
+<ab>
+Objet:
+A propos du voyage du 
+Vice-Consul Général des
+E.U.d"Amérique dans le Mayumble
+</ab>
+
+<ab>
+MINISTERE DES COLONIES
+1e Direction Générale
+1e Direction- 1 Division
+No d'ordre 1314
+Entrée le: 5-10-1911
+</ab>
+
+<ab>
+MINISTRE <unclear>DES COLONIES</unclear>
+<unclear>INDICATER GÉNÉRALE</unclear>
+No 11139 <unclear>3 OCT 1911</unclear>
+</ab>
+
+<p
+>Monsieur le Ministre,
+
+Comme suite à ma lettre No1427/Bdu 10 juillet der-
+nier, j'ai l'honneur de vous faire parvenir, sous ce pli, en co- <!-- word is hyphenated between these lines. -->
+pie, la lettre No3546 du 1 Septembre 1911, ainsi que ses
+annexes, de M. le Commissaire Général, commissaire de district 
+du Bas-Congo, relative à des plaintes de 2 chefs médaillés du
+Mayumbe, centre le Vice-Consul Général des États-Unis d'Améri- <!-- word is hyphenated between these lines. -->
+que a Boma. 
+</p>
+
+<p>
+L'Adjoint Supérieur Deleval se trouve en ce moment
+dans la région, a l'effet d'y précéder à une enquête, afin d'é- <!-- word is hyphenated between these lines. -->
+tablir le bien fondé de ces réclamations.
+</p>
+
+<p>
+Je ne manquerai pas, Monsieur le Ministre, de vous 
+tenir au courant des résultats de cette enquête, aussitôt que
+ceux-ci serent en ma possession.
+</p>
+
+<p>
+Je porte le cas Dedé à la connaissance de Monsieur
+le Procureur Général
+</p>
+
+<p>Le Vice-Gouverneur Général</p>
+<p>
+<unclear>Litistay</unclear>
+</p>
+
+<fw type="footer">Monsieur le Ministre des Colonies
+BRUXELLES</fw>
+
 
 <pb facs="teaa.fr.letter.0199.002.jpg"/>
 
-<!-- not transcribed -->
+<ab>
+Boma, le 1re Septembre 1911</ab> <!-- date is cut off at top of page. -->
+<ab>
+No 3546
+</ab>
+
+<ab>
+2 annexes
+</ab>
+
+<ab>
+Objet:
+Plainte du Chef de Maduda
+</ab>
+
+<p>
+Monsieur le Gouverneur Général
+
+J'ai l'honneur de porter a votre connaisance que le 
+chef investi de Maduda, le nomme Paul Zenga, et arrivé a Boma pour
+se plaindre des difficultés que lui causent les missionnaires pro- <!-- word is hyphenated between these lines. -->
+testants qui dit-i, incitent ses administrés a la désebéissance,
+et aussi certains propos tenus par le consul des États Unis et
+qui seraient de nature à diminuer son autorité.
+</p>
+
+<p>
+J'ai interrogé ce chef et j'ai fiat acter ses declara- <!-- word is hyphenated between these lines. -->
+tions, Je vous en remets ce-joint le procès-verbal.
+</p>
+
+<p>
+J'ai assuré le chef de la protectien de l'auterité, dans
+tout ce qu'il fera pour l'exécution de la loi, et je lui ai confir- <!-- word is hyphenated between these lines. -->
+mé les pouvoirs disciplinatres qui lui sent accordé par le décret
+du 2 Mai 1910, tout en lui conseillant de n'en user qu'à bon es-
+cient et avec modération.
+</p>
+
+<p>
+Je l'ai engagé a rester une couple e jours a Boma afin 
+de se tenir éventuellement à la dispestion de lauterité, pour le
+cas où ee nouveaux renseignements devraient être demandés.
+</p>
+
+<p>
+Je reçois, au moment où j'achève cette lettre, une lettre 
+du chef de secteur du Mayumbe, qui se rapporte à des faits connexes
+a ceux que je vous indique ci-dessus. Je joins la copie de cette
+lettre et je vous tiendrai qu courant de la suite.
+</p>
+
+<p>
+Le Commisaire Général
+(Sé) Deuster
+</p>
 
 <pb facs="teaa.fr.letter.0199.003.jpg"/>
 
@@ -187,13 +348,28 @@ Boma</fw>
 
 <pb facs="teaa.fr.letter.0199.004.jpg"/>
 
-<!-- not transcribed -->
+<p> Il me demande également si en vertu de son autorité de
+chef médaillé il n'aurait pas en ce cas, le droit de procéder à l'expul-
+sion de ce dernier de son territoire.</p>
+
+<p> Je lui demandais beaucoup de calme et ne pas
+agir avant d'avoir réponse de ma part.</p>
+
+<p>J'ignore, Monsieur le Commisaire Général, s'il 
+n'y a pas un peu d'exagération dans ces déclarations, ne m'étant pas
+suffisamment arrêté chez lui, mais y retournerai dans quelques semaines
+aux fins d'y faire une enquête plus approfondie.</p>
+
+<p>Le Chef de Secteur.
+(Sé) Schmidt.</p>
+
 
 <pb facs="teaa.fr.letter.0199.005.jpg"/>
 
 <!-- the beginning of this document must not have been copied at the archives -->
 
-<p>classe, délégué par Monsieur Deuster, Commissaire Général, Commissaire 
+<p>mois de septembre, nous Jansssens C.L. Chef de Secteur de deuxième
+classe, délégué par Monsieur Deuster, Commissaire Général, Commissaire 
 de district du Bas-Congo, Boma</p>
 
 <p>Avons precédé par l'intermédiare de l'interprête
@@ -253,7 +429,87 @@ terprête Zae et le chef Paulo Banza signent avec nous</p>
 
 </div1>
 
+<div1 type="translation" xml:lang="en">
 
+<pb facs="teaa.fr.letter.0199.001.jpg"/>
+
+<ab>
+BELGIAN CONGO
+</ab>
+
+<ab>
+LOCAL GOVERNMENT
+</ab>
+
+<ab>
+5th Direction
+</ab>
+
+<ab>
+Justice
+</ab>
+
+<ab>
+No 1925
+</ab>
+
+<ab>
+Subject:
+A propos du voyage du 
+Vice-Consul General of the
+U.S. of America in Mayumble
+</ab>
+
+<ab>
+MINISTERE DES COLONIES
+1e Direction Générale
+1e Direction- 1 Division
+No d'ordre 1314
+Entrée le: 5-10-1911
+</ab>
+
+<ab>
+MINISTRE <unclear>DES COLONIES</unclear>
+<unclear>INDICATER GÉNÉRALE</unclear>
+No 11139 <unclear>3 OCT 1911</unclear>
+</ab>
+
+<p
+>Monsieur le Ministre,
+
+Comme suite à ma lettre No1427/Bdu 10 juillet der-
+nier, j'ai l'honneur de vous faire parvenir, sous ce pli, en co- <!-- word is hyphenated between these lines. -->
+pie, la lettre No3546 du 1 Septembre 1911, ainsi que ses
+annexes, de M. le Commissaire Général, commissaire de district 
+du Bas-Congo, relative à des plaintes de 2 chefs médaillés du
+Mayumbe, centre le Vice-Consul Général des États-Unis d'Améri- <!-- word is hyphenated between these lines. -->
+que a Boma. 
+</p>
+
+<p>
+L'Adjoint Supérieur Deleval se trouve en ce moment
+dans la région, a l'effet d'y précéder à une enquête, afin d'é- <!-- word is hyphenated between these lines. -->
+tablir le bien fondé de ces réclamations.
+</p>
+
+<p>
+Je ne manquerai pas, Monsieur le Ministre, de vous 
+tenir au courant des résultats de cette enquête, aussitôt que
+ceux-ci serent en ma possession.
+</p>
+
+<p>
+Je porte le cas Dedé à la connaissance de Monsieur
+le Procureur Général
+</p>
+
+<p>Le Vice-Gouverneur Général</p>
+<p>
+<unclear>Litistay</unclear>
+</p>
+
+<fw type="footer">Monsieur le Ministre des Colonies
+BRUXELLES</fw>
 <div1 xml:lang="en" type="translation">
 
 <pb facs="teaa.fr.letter.0199.003.jpg"/>
@@ -281,7 +537,7 @@ the Vungu Missionary acting as an interpreter.</p>
 way they manage their territory and moreover, how many times the
 chiefs whipped the natives when they did not pay their tax.</p>
 
-<p>The Agents of the Colonies equally posed relative questions to the
+<p>The Agents of the Colonies posed equally relative questions to the
 recruitment workers.</p>
 
 <p>I pointed out to Thomas Lutete the gravity of his declarations
