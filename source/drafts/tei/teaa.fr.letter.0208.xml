@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from Albert Lantonnoi, Vice Governor General, to Secretary of State, October 15, 1906</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
+<resp>transcription, translation, and encoding</resp>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -42,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from Albert Lantonnoi, Vice Governor General, to Secretary of State</title>
+<date when="1906-10-15">October 15, 1906</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -74,15 +75,16 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>De Meulmeester</term>
+<term>Slocum, Clarence Rice</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Boma</term>
+<term>Splendid Hotel</term>
 </keywords>
     
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -100,15 +102,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Lantonnoi, Albert</persName>
+<roleName>Vice Governor General</roleName>
+<placeName>Boma</placeName>
+<date when="1906-10-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Secretary of State</roleName>
+<placeName>Brussels</placeName>
 </correspAction>
 </correspDesc>
 
@@ -117,6 +119,7 @@
 <revisionDesc>
 <change when="2019-01-23" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="KCD">Transcribed.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,7 +127,86 @@
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
+
+<pb facs="teaa.fr.letter.0208.001.jpg"/>
+
+<p>Etat Independant
+Du Congo<lb/>
+Gouvernment Local<lb/>
+Direction<lb/>
+No 2094<lb/>
+Objet:<lb/>
+Arrivée de M. Slocum, Consul
+Général d'Amérique</p>
+
+<p>Boma, le 15 Octobre 1906.</p>
+
+<p>Monsieur le Secrétaire d'Etat,</p>
+
+<p>J'ai l'honneur de vous faire savoir que
+M.Clarence Rice Slocum est arrivé à Boma, comme
+vous me l'aviez annoncé, par le vapeur 
+"Bruxellesville".</p>
+    
+<p>Désireux de donner, conformément à vos 
+instructions, une marque de courtoisie au Consul
+Général des Etats-Unis, j'ai envoyé M. De
+Meulmeester, Directeur de la Justice intérimaire,
+pour lui souhaiter la bienvenue en mon
+nom et pour lui dire qu'au cas ou il serait
+embarassé pour la question de son logement, je
+mettrais provisoirement un maison à sa disposition.
+Il entrait dans mes intentions, s'il 
+avait accepté cette offre, de le loger dans la
+maison des Inspecteurs.</p>
+    
+<p>Il a chargé M. De Meulmeester de me 
+remercier vivement de cette offre, mais a déclaré
+qu'il avait l'intention de descendre au
+"Splendid Hôtel", où il pourrait trouver un
+    
+<fw type="footer">Monsieur le Secrétaire d'Etat,
+Bruxelles</fw>
+
+<pb facs="teaa.fr.letter.0208.002.jpg"/>
+    
+appartement de deux chambres, en attendant qu'il
+ait pu prendre d'autres dispositions.</p>
+    
+<p>Quoique j'aie supposé qu'il déclinerait
+mon offre, je crois que celle-ci n'aura pas été
+inutile en tant qu'elle n'aura pu que bien le
+disposer envers les autorités locales et en
+tant qu'elles rendent difficile actuellement
+l'acceptation par lui de l'hospitalité chez
+le Consul anglais.</p>
+    
+<p>M.Slocum est venu me faire visite le 
+lendemain de son arrivée. La conversation, au cours
+de cette entrevenu, n'a présenté aucun caractère
+intéressant. Je lui ai rendu sa visite et 
+aujourd'hui je donne un diner en son honneur.</p>
+    
+<p>Il résulte de renseignments qui m'ont
+été fournis par des personnes qui ont été en
+rapports avec lui pendant le voyage de 
+traversée que ce représentant des Etats-Unis semble
+animé de sentiments de conciliation et n'a aucune
+velléité de susciter des difficultés au 
+Gouvernement.</p>
+    
+<p>Je ne manquerai pas, Monsieur le Secrétaire
+d'Etat, comme vous m'en avez prié, de faire
+tous mes efforts pour entretenir avec le
+Consular Général des Etats-Unis les meilleures
+relations. </p>
+    
+<p>Le Vice Gouverneur Général,<lb/>
+<unclear>A Lantonnois</unclear></p>
+
+</div1>
+<div1 xml:lang="en" type="translation">
 
 <pb facs="teaa.fr.letter.0208.001.jpg"/>
 
