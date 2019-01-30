@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0278">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0278</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +43,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 217, Liasse 122</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -61,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,44 +72,52 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term></term>
+<term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
 <term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
-
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
-
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
 </keywords>
     
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
 <keywords scheme="original" n="language">
 <term>French</term>
 </keywords>
-    
-<keywords scheme="original" n="religion">
-<term></term>
-</keywords>
-
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="KCD"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2019-01-30" who="kln">renamed file, inserted correct header template</change>
+<change when="2017" who="kcd">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -114,24 +125,65 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
-<pb facs="10016_001.jpg"/>
+<pb facs="teaa.fr.letter.0279.001.jpg"/>
 
-<p> Daily Consular and Trade Reports.</p>
-<p> Kongo Commerical Opportunities.</p>
+<p>Consulat Général
+de 
+L’État Indépendant Du Congo,
+Baltimore.</p>
     
-<p> Future of the Heart of Africa-how Americans may participate. </p>
+<p>le 7 septembre 1908.</p>
+
+<p>Monsieur le Chevalier,</p>
+ 
+<p>J'ai l'honneur de vous faire parvenir sous ce pli le
+rapport du Consul Général Américain à Boma sur la possibilité de fonder
+une société anonyme pour le développement du commerce entre le Congo et
+les Etats-Unis.</p>
+    
+<p>S'il y a une disposition parmi les industriels americains à donner suite
+à cette idée du Consul Général Américain je ne manquerai pas à vous en
+donner des nouvelles. Le cas echéant je tâcherai à mettre à la
+tête de l'entreprise des individus compétents et amicales qui pourraient
+être utiles au Congo au lieu d'être nuisibles.</p>
+ 
+<p>Il est intéressant à remarquer que le Consul Général Américain n'est 
+point d'avis des conglophobes anglais au sujet de l'introduction de la
+monnaie au Congo. Il dit (page 11) que la plupart des indigenes ignorent
+la valeur et l'utilité de la monnaie et qu'on ne peut pas l'introduire
+incessamment.</p>
+    
+<p>Veuillez agréer, Monsieur le Chevalier, l'assurance de ma consideration
+la plus distinguée.</p>
+    
+<p>James Gustavus Whiteley</p>
+
+<fw type="footer">Monsieur le Chevalier de Cuvelier
+Bruxelles.</fw>
+    
+</div1>  
+
+<div1 xml:lang="en" type="document">  
+
+<pb facs="teaa.fr.letter.0279.002.jpg"/>
+
+<p>Daily Consular and Trade Reports.</p>
+
+<p>Kongo Commercial Opportunities.</p>
+    
+<p>Future of the Heart of Africa&#8212;How Americans May Participate.</p>
  
 <p>In view of the fact that the status of the Kongo Free State is now
 more definitely arranged and that its development is commencing,
-Consul-General James A. Smith, of Boma, has preared the following
+Consul-General James A. Smith, of Boma, has prepared the following
 review of the commercial aspects, and how Americans may best
 secure business in that vast region of mid-Africa with 900,000 square
 miles of undeveloped territory:</p>
     
 <p>The Kongo may soon offer an opportunity for every independent
-trader to traffic freely with the natives in the rich commerical products 
+trader to traffic freely with the natives in the rich commercial products 
 of the country, consisting mainly at present of rubber, ivory,
 gum copal, palm kernels, and palm oil, the two latter being principally
 products of the lower Kongo. Under such circumstances it 
@@ -142,31 +194,57 @@ which he can obtain a foothold, and to have clearly pointed out some
 of the difficulties he must encounter and overcome if American trade
 in the Kongo is to increase.</p>
 
-<p>Classs of Goods At Present Imported.</p>
+<p>Class of Goods At Present Imported.</p>
     
-<p> Importations into the Kongo average at present, in round numbers,
+<p>Importations into the Kongo average at present, in round numbers,
 $4,000,000 annually. Of these principal items, comprising, as
 will be noted, about 88 per cent of the total, are as follows:</p>
-    
-<p> Arms and ammunition _____________ $178,000
-Clothing______________________________251,000
-Food products, mostly canned
-meats, vegetables, etc________________ 782,000
-Hardware, enameled iron ware,
-etc.___________________________________ 156,000
-Liquors, including beer ________________ 336,000
-Machinery________________________________208,000</p>
-    
-<p>Metals_________________________________ $212,000
-Steamers, boats, and material
-for ________________________________________278,000
-Tissues, mostly cotton piece
-goods________________________________________1,146,000
 
-Total__________________________________________3,547,000</p>
+<table>
+<row>
+<cell>Arms and ammunition</cell>
+<cell>$178,000</cell>
+</row>
+<row>
+<cell>Clothing</cell>
+<cell>251,000</cell>
+</row>
+<row>
+<cell>Food products, mostly canned meats, vegetables, etc</cell>
+<cell>782,000</cell>
+</row>
+<row>
+<cell>Hardware, enameled iron ware, etc.</cell>
+<cell>156,000</cell>
+</row>
+<row>
+<cell>Liquors, including beer</cell>
+<cell>336,000</cell>
+</row>
+<row>
+<cell>Machinery</cell>
+<cell>208,000</cell>
+</row>
+<row>
+<cell>Metals</cell>
+<cell>212,000</cell>
+</row>
+<row>
+<cell>Steamers, boats, and material for</cell>
+<cell>278,000</cell>
+</row>
+<row>
+<cell>Tissues, mostly cotton piece goods</cell>
+<cell>1,146,000</cell>
+</row>
+<row>
+<cell>Total</cell>
+<cell>3,547,000</cell>
+</row>
+</table>    
     
 <p>So far as the natives are concerned, who are the most important
-to consider beacuse the bulk of the furniture trade will be carried on
+to consider because the bulk of the furniture trade will be carried on
 with them, the items of the greatest interest to the American manufacturer
 in the foregoing list are, in the order of their value, cotton
 piece goods, bleached and unbleached, prints and dyes; food products,
@@ -177,92 +255,26 @@ bulk of which is cheap underclothing, shirts, shoes, hats, and caps;
 hardware, of which an important part is enameled iron ware, plates,
 basins, various kitchen utensils, etc.</p>
     
-<p> The remainder of the articles are for the larger part imported for
+<p>The remainder of the articles are for the larger part imported for
 use in building and opening up the country for the whites, construction 
 and maintenance of railways, steamer lines, etc. The sale of alcoholic
 liquors to natives in the upper Kongo is forbidden by law.</p>
     
-<p> Practical Method to Secure Trade.</p>
+<p>Practical Method to Secure Trade.</p>
     
 <p>The question of methods to secure trade must be regarded from the
 standpoint of the interest of the American manufacturer and not of
 the individual small trader. There is but one practical way for the 
-American manufacturer to secure and retain a foothold in this market,</p>
+American manufacturer to secure and retain a foothold in this market,
     
-<pb></pb>
-    
-<p> Daily Consular And Trade Reports</p>
+<pb facs="teaa.fr.letter.0279.003.jpg"/>
 
-<p> On the other hand, the right is not extended to the United States,
-which is allowed to certain other countries on the basis of reciprocity,
-by which dutiable articles serving as samples of specimens are
-allowed free entry on the understanding that their identity is preserved
-and their reexport accomplished within a stipulated period of
-time. This disadvantage is due to the fact that no corresponding
-privilege is allolwed to Germany by the United States.</p>
-    
-<p>American commercial travelers do not enjoy advantages arising
-form those agreements with several other countries (France, Great
-Britain, Belgium, Switzerland, Sweden, and Austria-Hungary) by
-which offical marks for the preservation of the identity of samples or
-specimens brought in from and reexported to one of these countries
-are recognized.</p>
-    
-<p>Walnut Crop In France.</p>
-    
-<p>Good Growing Season-- Probable Yield of Different Qualities.</p>
-    
-<p>Vice-Consul T.W. Murton, of Grenoble, submits the following
-report, dated July 25, on the growing crop of walnuts in that
-consular district in the French valley of the Isére:</p>
-
-<p>The weather thus far having been variable and temperate, with
-frequent copious rainfalls and comparative freedom from excessive
-heat and the damaging hail and thunderstorms that usually follow,
-vegetation has prospered, and all standind fruit crops, grapes more
-especially, give promise of excellent yields. As to walnuts, while
-the fruit-bearing trees of the finer qualities, commercially known
-as Mayettes, Franquettes, and Parisiens, are luxuriantly foliaged and
-healthy in appearance, it is not expected that the production in nuts
-will much exceed half and average crop, or, say, from 15,000 to 20,000
-bales of 100 kilos each (1 kilo = 2.2 pounds). The fruit is well developed,
-being unusually large for the season, and promises to be of 
-excellent quality. The reason assigned for so small a crop is the prolonged
-drought of 1906, from the effecrs of which the trees have not
-yet entirely recovered.</p>
-
-<p>Of the smaller varieties, known as Chabertes and employed
-exclusively for confectionary purposes, a plentiful crop is expected-
-estimated at 45,000 to 50,000 cases of 25 kilos each. The quality also
-should be good, always provided weather conditions continue favorable
-for the growing crops until maturity. In such case harvesting
-time will be in advance of last year by about fifteen days.</p>
-
-<p>German Canal Liability Decision.</p>
-
-<p>A report from Consul-General Richard Guenther states that the
-Supreme Court of the Empire, the highest judicial body in Germany,
-has jut rendered an important decision. The lighter of a private
-shipping firm was injured in the Kaiser Wilhelm Canal by a steamer
-which got loose from its moorings. The Government declined paying
-damages and disclaimed liability as the regulations for the traffic
-through the canal contain the stipulation: "The German Empire
-assumes no responsibility whatsoever to recompense for any damages
-which vessels passing through the canal or lying on the roadsteads at
-either end may suffer, etc." The lower courts before which this case
-had been tried decided against the Government and, on appeal by
-the latter, the Supreme Court has now affirmed that decision.</p>
-
-<pb></pb>
-
-<p>Daily Consular And Trade Reports</p>
-
-<p>which promises results materially inccreasing American foreign trade
+which promises results materially increasing American foreign trade
 here and which will eventually make the venture worth while. It is
 not likely that American goods will ever reach this market to any
 large extent except directly through an American company located
-here. Every trading house already established in the lower Kongo-
-English, French, German, Dutch, Portugese, or Belgian- is interested,
+here. Every trading house already established in the lower Kongo&#8212;
+English, French, German, Dutch, Portuguese, or Belgian&#8212;is interested,
 primarily, in pushing the sale of the goods of its own nation.
 The large concessionary companies are all Belgian, they purchase the
 greater part of their supplies in Belgium, and their barter goods are
@@ -274,15 +286,15 @@ for Belgian manufactures.</p>
 the countries named are other important factors favorable to their
 trade development here. For these reasons, I believe, there is but one
 practical and efficient way by which we can succeed in gaining a firm 
-foothold here-namely, through the organization of an American
-tradiing house composed prefereably of a combination of various 
+foothold here&#8212;namely, through the organization of an American
+trading house composed preferably of a combination of various 
 American manufacturers of or dealers in the different lines of merchandise
 it is found profitable to handle, and interested therefore
 before all in introducing and pushing exclusively American goods.
 A number of general stores should be established in favorable localities,
 with a central distributing warehouse and store at Leopoldville.</p>
 
-<p>Distribution of Supplies-Competent Salesmen</p>
+<p>Distribution of Supplies&#8212;Competent Salesmen.</p>
 
 <p>The company should own and operate its own steamer of steamers
 on the upper river for the transport of its goods and distribution to
@@ -293,18 +305,18 @@ means of communication at present, but freight rates on the steamers
 belonging to the State are high and porterage "a dos d'homme" is
 slow and uncertain and must eventually be done away with entirely.</p>
 
-<p>A thoroughly efficient and practival business man should be sent
+<p>A thoroughly efficient and practical business man should be sent
 out to study the general situation, the wants of the natives, manner 
 of packing goods for tropical countries, etc., and decide as to the 
 most favorable localities for the establishment of the stores. The
 preliminary work would doubtless require fully a year's time. Cotton 
-piece goods will form the principal article of commmerce at first, but
+piece goods will form the principal article of commerce at first, but
 it would be unwise for the company to confine itself to any one line.
 Through contact with the whites the material wants of the natives 
 will gradually increase, and the company must be prepared to supply
 these wants in every direction.</p>
 
-<p>Difficulties To Overcome</p>
+<p>Difficulties To Overcome.</p>
 
 <p>In the absence of money as a circulation medium of trade, and the
 entire ignorance of the greater part of the natives in the upper
@@ -312,32 +324,30 @@ Kongo as to its value of use, the trade in the beginning will be simply
 a question of barter. For this reason, perhaps, the greatest difficulty 
 which a trading house will meet with at first will be to persuade the
 native to bring in his produce in exchange for goods offered. Some
-time must necessarily elapse and a constantly humane, just, and gen-</p>
+time must necessarily elapse and a constantly humane, just, and gen-
 
-<pb></pb>
+<pb facs="teaa.fr.letter.0279.004.jpg"/>
 
-<p>Daily Consular And Trade Reports.</p>
-
-<p>erous treatment invariably accorded to the native before he will begin
+erous treatment invariably accorded to the native before he will begin
 to realize the material advantages to be gained by himself in trading
 with the white man. Once he is certain of this the most difficult
 obstacle to trade will have been overcome.</p>
 
 <p>An American house without experience in Africa will have to compete
-with English, French, German, Dutch, Portugese, and Belgian
+with English, French, German, Dutch, Portuguese, and Belgian
 companies and in the eastern districts with Indian and Arab traders,
 many of them long standing in the lower Kongo, familiar with 
-the country and the ways of the natices, speaking og the commercial
+the country and the ways of the natives, speaking og the commercial
 language, etc. Many of these traders will doubtless enlarge the field
 of their operations in the upper Kongo. The Germans are already
 preparing for the opening up on the country to trade, as I learn that
 a German house at Matadi, backed by official encouragement, is to
 place a steamer at once on the upper river and commence operations
-by selling goods along the river direct fromj the steamer in exchange
+by selling goods along the river direct from the steamer in exchange
 for ivory.</p>
 
 <p>Another difficulty is the absence of direct lines of transportation.
-American sailing ships already, I beleive, come to the Sierra Leone and 
+American sailing ships already, I believe, come to the Sierra Leone and 
 the West Coast with cotton good and petroleum, and their itinerary
 might, it would seem, be extended to the lower Kongo. </p>
 
@@ -360,7 +370,7 @@ do not appear by any means insurmountable. Enterprise directed
 intelligently, patience, and tenacity are required here as everywhere
 else to secure and hold a market against active competition.</p>
 
-<p> The opportunityis a grand one and should not be neglected. A
+<p>The opportunity is a grand one and should not be neglected. A
 consular officer can do no more than point this out. It remains for
 American manufacturers to take advantage of the situation and
 make a beginning here at the earliest possible moment. Details as
@@ -369,15 +379,48 @@ dependent as they are upon the cost of transport, they vary widely in
 different sections and have been, up to the present time,  more of less
 arbitrary.</p>
 
-<p>Mails for Tahiti.</p>
+</div1>
 
-<p> In relation to a report that corresponence destined for Tahiti is 
-frequently missent to Seattle, Wash., for dispatch, the Post-Office
-Department announces that mails for Tahiti are dispatched only by 
-steamers sailing fromo San Francisco, and that the mails referred
-to must therefore be forwarded to San Francisco.</p>
+<div1 xml:lang="en" type="translation">
+        
+<pb facs="teaa.fr.letter.0279.001.jpg"/>
+        
+<p>Consulate General 
+of 
+The Independent State of the Congo,
+Baltimore.</p>
+        
+<p>7 September 1908.</p>
+        
+<p>Monsieur le Chevalier,</p>
+        
+<p>I have the honor to transmit, herewith, the
+report from the American Consul General in Boma on the possibility of founding 
+an anonymous society for the development of commerce between the Congo and the 
+United States.</p>
+        
+<p>If there is a arrangement amongst the American manufacturers to follow
+this idea from the American Consul General I will not miss 
+giving you the news. If need be I will try to put at the 
+head of the company the competent and amicable individuals who could 
+be useful in the Congo in stead of being harmful.</p>
+        
+<p>It's interesting to see that the American Consul General is of no 
+opinion of the English Conglophobes about the introduction of the 
+currency in the Congo. He says (page 11) that the majority of the natives ignore 
+the value and the usefulness of the currency and that one cannot introduce it
+shortly.</p>
+        
+<p>Please accept, Mr. le Chevalier, the assurance of my most 
+distinguished consideration.</p>
+        
+<p>James Gustavus Whiteley</p>
+        
+<p>Mr. Chevalier de Cuvelier 
+Brussels.</p>
+            
 </div1>
 </body>
 </text>
-
+    
 </TEI>
