@@ -10,7 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
-<name n="Brown, Sophie Anneliese" xml:id="sab"></name>
+<name n="Brown, Sophie A." xml:id="sab"></name>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
@@ -75,15 +75,21 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Jaques</term>
+<term>Minister of Colonies</term>
+<term>Vice Governor General</term>
+<term>Vice Consul General of the United States</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Boma</term>
+<term>Congo</term>
+<term>Lalo</term>
+<term>Mayumble</term>
+<term>United States of America</term>
 </keywords>
     
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -101,15 +107,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName>Vice Governor General</roleName>
+<placeName>Boma</placeName>
+<date when="1911-07-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Minister of Colonies in Brussels</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -202,12 +208,38 @@ Planteur
 <pb facs="teaa.fr.letter.0204.003.jpg"/>
 
 <p>
-Je <unclear>souno il nous</unclear> que liou un
+Je <unclear extent="two words"/> que l’on un
 </p>
+
+<!-- This note is illegible. -->
 
 <pb facs="teaa.fr.letter.0204.004.jpg"/>
 
-<!-- not transcribed -->
+<ab>
+Kikenge, le 26 Juin 1911
+</ab>
+
+<p>Monsieur le Gouverneur Général,</p>
+
+<p>J'ai l'honneur de <unclear>porter</unclear> à votre
+connaissance le fort suivants:</p>
+
+<p>Les indigènes m'ont confies que le 
+consul Américain en <unclear>passant</unclear> par la
+<unclear/> de Lalo, il y a <unclear>envirous</unclear> 10
+jours, a fait <unclear>sinnis</unclear> les chef du <unclear>enviraus</unclear>
+et leur a demandé de les-lire s'ils 
+arrivent à le plaindre contre les Belges,
+que dans ce cas ils devaient <unclear>s'atrner</unclear>
+à lui et aux consuls anglais et Hatien
+à Boma; que le Belgique était
+un petit pays et que ni les Belges ni
+Kaitaient par bien les indigènes (nous)
+J'ai <unclear>e</unclear> les pays <unclear/> <unclear/> 
+</p>
+
+<!-- It looks like the rest of the letter is missing. -->
+
 
 </div1>
 

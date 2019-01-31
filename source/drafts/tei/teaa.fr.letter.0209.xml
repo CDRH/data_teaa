@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter to the U.S. Chargé d'Affaires, August 29, 1906</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Brown, Sophie A." xml:id="sab"></name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter to the U.S. Chargé d'Affaires</title>
+<date when="1906-08-29">August 29, 1906</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -74,11 +75,11 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<term>US Chargé d'Affaires</term>
 </keywords>
     
 <keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<term>Brussels</term>
 </keywords>
     
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -99,15 +100,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName>Brussels</placeName>
+<date when="1906-08-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>U.S. Chargé d'Affaires</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -116,6 +117,7 @@
 <revisionDesc>
 <change when="2019-01-23" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="KCD">Transcribed.</change>
+<change when="2019" who="sab">Transcribed and encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -127,7 +129,37 @@
 
 <pb facs="teaa.fr.letter.0209.001.jpg"/>
 
-<!-- not transcribed -->
+<ab>
+INDICATEUR GENERAL
+No 36121 29 Aout 1906
+II DIVISION
+</ab>
+
+<ab>Bruxelles, le 29 août 1906</ab>
+
+<p>Slocum</p> <!-- Name at the top of the page? -->
+
+<p>M. le Chargé d' Affaires,</p>
+
+<p>J'en eu l'honneur de recevoir 
+la lettre du 21 de ce mais,
+par laquelle vous voulez loin
+<unclear extent="six words"></unclear> que M. Clarence, <!-- Words are scratched out and new words written very small above the original phrase. -->
+Rice, Slocum, <unclear extent="three words"></unclear>  <!-- Words are scratched out and new words written very small above the original phrase. -->
+Consul Général des États-Unis
+d'Amérique à Boma.</p>  
+
+<p>Satisfaisant au désir que
+vous m’espérez, je m'enprese
+de vous faire parvenir, sous ce
+pli, l'exequatur necessaire à
+M. Slocum pour exercer ses 
+fonctions dans l'État Indépendant
+je vous restitue en même temps, 
+<unclear extent="four words"></unclear>  <!-- Last 3 lines are scratched out and new words written very small above the original phrase. -->
+</p> 
+
+<p>Veuillez......</p>
 
 </div1>
 
