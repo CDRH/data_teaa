@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from ___ to Camille Janssen, Governor General, September 2, 1892</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
+<resp>transcription, translation, and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from ___ to Camille Janssen, Governor General</title>
+<date when="1892-09-02">September 2, 1892</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -99,15 +100,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName>Brussels</placeName>
+<date when="1892-09-02"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Janssen, Camille</persName>
+<roleName>Governor General</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -115,6 +116,7 @@
 
 <revisionDesc>
 <change when="2019-01-23" who="kln">named file, inserted correct header template</change>
+<change when="2019" who="pr">encoded header information, transcribed, and translated</change>
 </revisionDesc>
 </teiHeader>
 
@@ -122,37 +124,243 @@
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="teaa.fr.letter.0217.001.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>Bruxelles, le 2 7bre, 1892</p>
+
+<p>Monsieur le Gouverneur Générale,
+
+J'ai l'honneur de vous
+accuser réception de
+votre communication
+du 29 juin dernier
+no <unclear/> <unclear/>-
+-paqués de la lettre
+par laquelle l'agent
+commercial des Etats
+Unis d'Amérique
+à Boma réclame
+le remboursement
+d'une somme de
+168 <unclear/> francs au'il
+a acquittés comme
+droits d'entrée sur
+certains produits
+qui lui ont été
+adressés.</p>
+
+<p>M. le Gouverneur Général</p>
 
 <pb facs="teaa.fr.letter.0217.002.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>La réclamation de
+M. Dorsey Mohun
+est basée sur une
+erreur. en effet, comme
+vous l'avez parfai-
+tement rappelé
+dans votre réponse
+à l'agent américain
+le texte tout
+anglais que francais
+de l'article 5 de la
+Convention <unclear/>
+en 1891 entre l'Etat
+Libre et les Etats-
+Unis d'Amérique
+ne parle pas de
+tout impôt, (<unclear/>
+taxe) mais seulement
+de toute contribution
+directe (direct <unclear/>)
+dont seraient exemple
+les agents consulaires
+des Puissances
+etrangères.
+Ceux-ci ne peuvent
+benéficier de la</p>
 
 <pb facs="teaa.fr.letter.0217.003.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>fiction d'<unclear>entéritorialité</unclear>
+qu'en ce qui concerne
+les impôts personnels
+ou directs. Pour le
+reste, ils sont sou-
+mis au <unclear/>
+<unclear/>, <unclear/>
+pour les droits de
+douane, de <unclear>pateute</unclear>,
+d'enregistrement, et
+bel est bien l'esprit
+de la Convention conformé
+d'ailleurs aux
+principes générale
+vient admis en la
+matière.</p>
+
+<p>Contefois. comme
+M. Dorsey Mohun
+semble
+n'avoir importé
+les produits dont
+il s'agit qu'à
+l'<unclear/> de son
+premier établisse-
+ment au Congo
+et dans l'ignorance</p>
 
 <pb facs="teaa.fr.letter.0217.004.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>des obligations aux-
+quelles il est tenue,
+j'estime qu'il
+y a lieu de lui
+accorder, en cette
+circonstance spéciale
+toutes les facilités
+que comportent les
+réglements en vi-
+gueur.</p>
+
+<p>Je vous laisse
+le soin, Monsieur
+le Gouverneur
+Général, d'apprécier
+dans quelles mesures
+il serait possible
+de concilier les
+devoirs de la cour-
+toisie du au
+représentant consulaire
+d'une Puissance
+étrangères avec
+les prescriptions
+administratifs.
+Agréez, etc:
+<unclear/></p>
 
 <pb facs="teaa.fr.letter.0217.005.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>ETAT INDEPENDANT DU CONGO
+No 687
+Droits d'entrée.
+Copie.</p>
+
+<p>Boma, le 26 juin 1892</p>
+
+<p>Monsieur l'Agent Commercial,
+
+J'ai l'honneur de vous accuser le réception
+de votre lettre du 21 de ce mois, par laquelle vous me
+demander, en rendu de l'art V de la Convention avec les
+Etats Unis d'Amerique, la restituion des droits
+d'entrée que vous avez payés pour l'importation de certains produits.</p>
+
+<p>L'article V de la dite Convention ne rise que
+les Contributions directes et j'ignore so nos Gouvernements
+respectifs ont entendu par l'expression "toutes contributions
+directes" certains impôts indirects et notamment les
+droits d'entrée.</p>
+
+<p>Je me vois donc obligé de référer au Gouvernement
+central à Bruxelles sur l'étendue de l'exemption
+d'impôt accordé aux agents consulaires.</p>
+
+<p>Je m'empresserai, M. l'Agent Commercial,
+de faire s'il y a lieu ordonner le remboursement des droits
+d'entrée que vous avez acquittés et ceux que vous <unclear/>
+dans la suite aussitôt que le Gouvernement central m'aura informé.</p>
+
+<p>Veuillez agréer, Monsieur l'Agent Commercial, l'expression de mes sentiments de considération très
+distinguée.
+
+Le Vice Gouverneur Général,
+H. de Gouverneur Général,
+Wahis.</p>
+
+<p>Monsieur l'Agent Commercial
+des Etats-Unis d'Amérique.
+Boma.</p>
 
 <pb facs="teaa.fr.letter.0217.006.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>ETAT INDEPENDANT DU CONGO
+No 613. Droits d'entrée.
+Copie.</p>
+
+<p>Commercial Agency
+of the United States.</p>
+
+<p>Boma. Kongo Free State
+June 21st 1892</p>
+
+<p>To the Acting Governor Général
+Kongo Free State
+Boma.</p>
+
+<p>Your Execellency,
+I have the honor to inform you of my
+return to Boma from St. Paul de Loanda.</p>
+
+<p>I find that duties have been collected on
+my stores which arrived by the steamer "Chassa"
+from Antwerp, and would respectfully request
+that these duties be remitted, as render article 5
+paragraph 3, and line 93, page 7 of a "Convention
+"of commerce and navigation between the United
+"States and the Independent State of the Congo, signed
+"at Brussels, January 24th 1891" Consuls, Vice-
+Consuls et commercial agents are not subject to
+any tax, unless these should be due on account
+of real estate, or unless the said agents should
+exercise a profession or business of any kind, I,
+therefore protest against the collection of this duty,
+and request that the amount one hundred and sixty
+eight francs and thirty seven centimes (168.37 francs) 
+be remitted.</p>
+
+<p>I have the honour to be sir
+your obedient servant.
+R. Dorsey Mohun
+Commercial Agent.</p>
 
 <pb facs="teaa.fr.letter.0217.007.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>ETAT INDEPENDANT
+Du
+CONGO</p>
+<p>Gouvernement Local
+Direction</p>
+
+<p>19 Aout 92</p>
+
+<p>Monsieur le Secrétaire d'Etat,
+
+J'ai l'honneur de vous transmettre
+copie d'une réclamation de M. Dorsey Mohun,
+agent commercial des Etats-Unis d'Amérique
+ainsi que la réponse que je lui ai faite.</p>
+
+<p>Je vous serais gré de me faire connaitre
+d'une facon bien précise les impôts dont les agents
+consulaires américains son exemps dans l'Etat
+du Congo.</p>
+
+<p>Le Vice Gouverneur Général,
+H. de Gouverneur Général
+<unclear/></p>
+
+<p>Monsieur le Secrétaire d'Etat
+des Affaires Etrangères
+Bruxelles.</p>
 
 </div1>
+
+
+
 </body>
 </text>
 

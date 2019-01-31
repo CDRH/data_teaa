@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from ___ to Knight of Guvelier, Secretary General of Foreign Affairs, May 3, 1906</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
+<resp>transcription, translation, and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from ___ to Knight of Guvelier, Secretary General of Foreign Affairs</title>
+<date when="1906-05-03">May 3, 1906</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,18 +74,17 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Belgium</term>
+<term>Congo</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Belgians</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -99,15 +99,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName>Washington D.C.</placeName>
+<date when="1906-05-03"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Knight of Guvelier</persName>
+<roleName>Secretary General of Foreign Affairs</roleName>
+<placeName>Brussels</placeName>
 </correspAction>
 </correspDesc>
 
@@ -116,6 +116,7 @@
 <revisionDesc>
 <change when="2019-01-23" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="KCD">Transcribed.</change>
+<change when="2019" who="pr">Transcribed and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -123,7 +124,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="teaa.fr.letter.0215.001.jpg"/>
 
@@ -135,10 +136,20 @@ le 3 Mai 1906</p>
 <p>Monsieur le Chevalier,</p>
     
 <p>J'ai l'honneur de vous faire
-<unclear>parvenir</unclear> sous ce pli, en <unclear></unclear> temps qu'un
-<unclear>ensoi</unclear> des 
+parvenir sous ce pli, en même temps qu'un
+<unclear>envoi</unclear> des <unclear/> ordinaires de la presse
+américaine, <unclear/> communiqué du dépar-
+tement d'Etat aux journaux de ce jour,
+annoncant que le Gouvernement Amêricain
+a décidé de demander aux <unclear/> un
+crédit de cinq mille dollars en vue de
+l'étqblissement d'un consulat général des
+Etats-Unis dans l'Etat Independqnt du
+Congo. Le projet de loi est déposé et
+le <unclear/> des affaires étrangères des <unclear/>
+conclut à son adoption par la Chambre <unclear/> <!--last word is cut off-->
+j'aurai <unclear>soin</unclear> de vous tenir <unclear/></p>
 
-<!-- transcription must be finished -->
 
 <fw type="footer">à Monsieur le Chevalier de Cuvelier 
 etc etc etc
@@ -146,9 +157,13 @@ etc etc etc
 
 <pb facs="teaa.fr.letter.0215.002.jpg"/>
 
-<!-- not transcribed -->
+<p>au courant des suites de ce projet.
+Veuille, Monsieur le Chevalier,
+agréer les assurances de ma très
+haute considération.</p>
 
-</p>
+<p><unclear/></p><!--signature unclear-->
+
 
 <pb facs="teaa.fr.letter.0215.003.jpg"/>
 
@@ -177,11 +192,110 @@ a diplomatic officers on the ground.</p>
 <p>Les Etats Unis seront représenté dans
 l'Etat Independant du Congo par un agent
 diplomatique (sic) si le projet qui a été
-rapporté hier par le Comité des Affaires</p>
+rapporté hier par le Comité des Affaires Etran-
+gères au Sénat devient loi. Le Comité, d'accord
+avec la recommandation qui lui était faite
+par le département d'Etat, a ordonné le rapport
+d'un projet de loi établissant un consulat général
+au Congo, avec un traitement <unclear>auquel</unclear> de cinq
+mille dollars.</p>
 
-<!-- transcription must be finished -->
+<p>Les Etats Unis ont jusqu'ici dépendu de la Bel-
+gique pour outes les informations concernant
+la situation dans l'Etat Independant. A raison
+des plaintes formulées contre l'administration
+de ce pays par les Belges, il a paru <unclear/> que
+les Etats-Unis aient un agent diplomatique
+(<unclear/>) sur place.</p>
 
 </div1>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0215.001.jpg"/>
+
+<p>Legation of Belgium</p>
+
+<p>Washington D.C.<lb/>
+May 3rd, 1906</p>
+    
+<p>Mister Knight,</p>
+    
+<p>I have the honor to send to
+you under this fold, at the same time as an
+<unclear>envoi</unclear> of the ordinary <unclear/> of the american
+press, <unclear/> communicated by the depart-
+ment of State to the journals of this day,
+announcing that the American Government
+decided to demand from the <unclear/> a
+credit of five thousand dollars in view of
+the establishment of a consulate general of the
+United States in the Independent State of the
+Congo. The proposal of law is removed and
+the <unclear/> of foreign affairs of the <unclear/>
+decided its adoption by the Chamber <unclear/> <!--last word is cut off-->
+I will have <unclear>soin</unclear> to keep you <unclear/></p>
+
+
+<fw type="footer">to Mister Knight of Cuvelier 
+etc etc etc
+in Brussels</fw>
+
+<pb facs="teaa.fr.letter.0215.002.jpg"/>
+
+<p>updated on the news of this project.
+Please, Mister Knight,
+accept the assurances of my
+highest consideration.</p>
+
+<p><unclear/></p><!--signature unclear-->
+
+
+<pb facs="teaa.fr.letter.0215.003.jpg"/>
+
+<p>Consul for Free State</p>
+
+<p>Government Will Probably Send 
+Representative to See After Interests.</p>
+    
+<p>The United States will be represented
+by a diplomatic officer in the Congo Free 
+State if a bill reported yesterday by the
+Senate Committee on Foreign Relations
+becomes a law. The committee on 
+accordance with a recommendation of the 
+State Department, ordered reported a bill
+establishing a consul generalship there,
+with an annual salary of $5,000.</p>
+    
+<p>This country has depended upon Belgium
+for any information concerning
+conditions in the Free State. In view of complaints
+against Belgium's rule, it was decided
+that the United States should have
+a diplomatic officers on the ground.</p>
+    
+<p>Les Etats Unis seront représenté dans
+l'Etat Independant du Congo par un agent
+diplomatique (sic) si le projet qui a été
+rapporté hier par le Comité des Affaires Etran-
+gères au Sénat devient loi. Le Comité, d'accord
+avec la recommandation qui lui était faite
+par le département d'Etat, a ordonné le rapport
+d'un projet de loi établissant un consulat général
+au Congo, avec un traitement <unclear>auquel</unclear> de cinq
+mille dollars.</p>
+
+<p>Les Etats Unis ont jusqu'ici dépendu de la Bel-
+gique pour outes les informations concernant
+la situation dans l'Etat Independant. A raison
+des plaintes formulées contre l'administration
+de ce pays par les Belges, il a paru <unclear/> que
+les Etats-Unis aient un agent diplomatique
+(<unclear/>) sur place.</p>
+
+</div1>
+
 </body>
 </text>
 

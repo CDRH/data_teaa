@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from R. Dorsey Mohun, Commercial Agent of the U.S., to Théophile Wahis, Governor General, February 28, 1894</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
+<resp>transcription, translation, and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from R. Dorsey Mohun, Commercial Agent of the U.S., to Théophile Wahis, Governor General</title>
+<date when="1894-02-28">February 28, 1894</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,15 +74,14 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Boma</term>
+<term>Europe</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -99,15 +99,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Mohun, R. Dorsey</persName>
+<roleName>Commercial Agent of the U.S.</roleName>
+<placeName/>
+<date when="1894-02-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Wahis, Théophile</persName>
+<roleName>Governor General</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -115,6 +115,7 @@
 
 <revisionDesc>
 <change when="2019-01-23" who="kln">named file, inserted correct header template</change>
+<change when="2019" who="pr">encoded header information, transcribed, and translated</change>
 </revisionDesc>
 </teiHeader>
 
@@ -122,13 +123,88 @@
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="teaa.fr.letter.0216.001.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>Agence commerciale des Etats Unis
+Etat Indépendant du Congo.</p>
+
+<p>Maintenant à Rassongo-Manyema.
+28 Février 1894</p>
+
+<p>Monsieur le Gouverneur Générale,
+En quittant temporairement
+l'Etat du Congo, je désire remercier Votre Excellence
+pour la très grande courtoisie et bienveillance
+qui m'ont été accordées durant mon séjour
+dans l'Etat.</p>
+
+<p>De tous côtés et de tout chacun, j'ai été recu
+de la facon la plus hospitalière des informations
+m'ont été donnés avec la meilleur volonté et
+tout a été fait par vos officiers pour faciliter
+l'oeuvre qui m'a été mise entre les mains par
+le Gouvernement des Etats Unis.</p>
+
+<p>Je quitterai d'ici dans quelques jours pour le
+<unclear/> <unclear/> la <unclear/>, et après quelques
+mois on <unclear/>, j'envoie à <unclear/> et descendrai
+par la contrée vers la côte, arrivant à <unclear/>
+probablement au mois d'Aout.</p>
+
+<p>Je retournerai à Boma, par l'Europe,
+avec les sentiments de ma considération
+la plus distinguée.</p>
+
+<p>Je suis
+respectueusement,
+R. Dorsey Mohun
+Agent Commercial des Etats Unis</p>
 
 </div1>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0216.001.jpg"/>
+
+<p>Commercial Agency of the United States
+Independent State of the Congo.</p>
+
+<p>Currently in Rassongo-Manyema.
+February 28 1894</p>
+
+<p>Mister Governor General,
+In temporarily leaving
+the State of the Congo, I want to thank Your Excellence
+for the very big courtesy and kindness
+that were accorded to me during my stay
+in the State.</p>
+
+<p>From all sides and each person, I was received
+in the most hospitable fashion. Information
+was given to me with the best desire and
+all was done by your officers to facilitate
+the work that was put with me between the hands by
+the Government of the United States.</p>
+
+<p>I will leave here in a few days for
+<unclear/> <unclear/> the <unclear/>, and after a few
+months we <unclear/>, I send to <unclear/> and will descend
+by the region toward the coast, arriving in <unclear/>
+likely in the month of August.</p>
+
+<p>I will return to Boma, by Europe,
+with the sentiments of my most distinguished
+consideration.</p>
+
+<p>I am
+respectfully,
+R. Dorsey Mohun
+Agent Commercial of the United States</p>
+
+</div1>
+
 </body>
 </text>
 
