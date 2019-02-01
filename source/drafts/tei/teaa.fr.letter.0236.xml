@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from P. Wiechert J Helms to Mr. Governor of Congo</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
-<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea Animwaa Akyeampong</name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +41,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from P. Wiechert J Helms to Mr. Governor of Congo</title>
+<date when="1898-03-23">March 23, 1898</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -98,15 +98,15 @@
 </textClass>
 
 <correspDesc>
-<correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
+<correspAction type="P. Weichert Helms">
+<persName>Helms, P. Wiechert</persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<placeName>Monrovia</placeName>
+<date when="1898-03-23"/>March 23, 1898
 </correspAction>
-<correspAction type="deliveredTo">
+<correspAction type="Mr. Governor of Congo">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<roleName>Monsieur Governor of Congo</roleName>
 <placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
 </correspAction>
 </correspDesc>
@@ -114,7 +114,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-01-24" who="kln">named file, inserted correct header template</change>
+<change when="2019-02" who="CAA">named file, inserted correct header template</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,7 +126,26 @@
 
 <pb facs="teaa.fr.letter.0236.001.jpg"/>
 
-<!-- not transcribed -->
+<p>Wiecherts <unclear/> Helm
+Yesnburg Liberia.
+E.C. Code Used</p>
+
+<p>Copie</p>
+
+<p>Monrovie, le 23/3 1898 
+6/6</p>
+
+<p>Monsieur le Gouverneur du Congo <unclear/></p>
+
+<p>Monsieur,</p>
+
+<p>J'ai l'honneur de vous transmettre
+une copie de la résolution qui a étè passée pendant la 
+derriére sessions de la législature concernant la recente-
+ment d'<unclear/> á Libéria.</p>
+
+<p>Vous remarquez que <unclear/>.
+</p>
 
 </div1>
 </body>
