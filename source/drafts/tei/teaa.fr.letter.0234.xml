@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from Count of Grelle Rogier to Mister Count</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
@@ -42,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from Count of Grelle Rogier to Mister Count</title>
+<date when="1898-02-29">February 29, 1898</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,11 +75,12 @@
 </keywords>
 
 <keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<term>Arthur Barclay, Garreston Warren Gibson, Henry Walrow Grimes, Henry Augustus Williams,
+Joseph James Cheeseman, William David Coleman</term>
 </keywords>
 
 <keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<term>Republic of Liberia</term>
 </keywords>
 
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -99,13 +100,13 @@
 </textClass>
 
 <correspDesc>
-<correspAction type="sentBy">
+<correspAction type="The Count of Grelle Rogier">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
 <placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
 <date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
 </correspAction>
-<correspAction type="deliveredTo">
+<correspAction type="Mr. Count">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
 <placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
@@ -117,6 +118,7 @@
 <revisionDesc>
 <change when="2019-01-11" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="KCD">Transcribed.</change>
+<change when="2019" who="CAA">Translated.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -169,7 +171,49 @@ des Affaires Etrangés de l'Etat Indépendant du Congo
 &amp;c &amp;c &amp;c
 Bruxelles</p>
 
-</div1>
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.fr.letter.0234.001.jpg"
+
+<p>Legation 
+and Consulate General 
+of the
+Republic of Liberia
+in Belgium
+and near
+the Congo Free State.</p>
+
+<p>Anvers, February 29, 1892</p>
+
+<p>Mr. Count</p>
+
+<p>I have honor of carrying the knowedge for you from
+Monday, Febrary 4th at the inauguration of the 
+Honorable Mr. Joseph James Cheeseman, as
+President of the Republic of Liberia and the Honorable
+Mr. William David Coleman, as his Vice President.</p>
+
+<p>The Ministry compose following this:
+the Honorable Garretson Warren Gibson, 
+Secretary of State
+the Honorable Henry Augustus Williams
+Secretary of Treasury
+the Honorable Henry Walrow Grimes
+Attorney General
+the Honorable Arthur Barclay 
+Postmaster General
+
+Agree Mr. Count, the assurances of
+my utmost consideration.</p>
+
+<p><unclear/></p>
+
+<p>Mr.
+the Count of Grelle Rogier
+Secretary of the State Department for
+Foreign Affairs of the Congo Free State
+&amp;c &amp;c &amp;c
+Brussels</p>
 </body>
 </text>
 

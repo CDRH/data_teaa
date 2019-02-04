@@ -43,7 +43,7 @@
 <sourceDesc>
 <bibl>
 <title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<date when="yyyy-mm-dd"><!--Month--Day--Year--></date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -117,7 +117,7 @@
 <revisionDesc>
 <change when="2019-01-10" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="kcd">Transcribed.</change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2019" who="CAA"> Translated.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -173,7 +173,54 @@ présents au procés à Léopoldville,à la date fixée
 pour son ouverture.</p>   
    
 
-</div1>
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.fr.letter.0230.001.jpg"/>
+
+<p>Ministry of the Colonies
+First General Direction
+Public Justice and Instruction
+    Third Division</p>
+
+<p>It is proposed that responding to the official demand
+from the United States Delegation, formulated the demand in the
+note here:</p>
+
+<p>Number 1 the process in which the implicated MM.
+Morrisson and Sheppard was an exclusively civil process
+the Government hadj't any quality nor any organ for
+demanding the delivery of the affair, it appeared to be fixed on May 25th,
+an ulterior date.</p>
+
+<p>Number 2, for the same reason, the Government could not
+intervene for that the process was instructed or judged in 
+another locality than Léopoldville.</p>
+
+<p>It would appear to the parties, themselves of demanding
+to the tribunal that the judgement of this affair was postponed
+and eventually the tribunal fixes for the hearing 
+of testimonies in the inquiry or a more general fashion,
+for the continuation of the cause, a locality of jurisdiction
+brought forward from Luebo to the est of Leopoldville.</p>
+
+<p>Nevertheless, it would always appear to the appreciated tribunal,
+the expiring case, after contradictory debates between 
+the parties on these points</p>
+
+<div1 type="document" xml:lang="en"
+
+<pb facs="teaa.fr.letter.0230.002.jpg"
+
+<p>It seems, however, that the same demand in this
+concerns all the less fixation of a locality other
+than Léopoldville for the continuation of the 
+inopportune cause.</p>
+
+<p>It resulted in the information obtained from
+Congo that some measures that were already to be owed by
+Mr. Morrison and Sheppard for the testimony of the indigenous were
+present to be process at Léopoldville, on the fixed date
+for its opening.</p>
 </body>
 </text>
 
