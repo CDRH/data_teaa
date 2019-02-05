@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from the Secretary General President, to the General Administrator, June 12, 1889</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab"></name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from the Secretary General President, to the General Administrator</title>
+<date when="1889-06-12">Jun 12, 1889</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -74,7 +75,9 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<term>General Administrator</term>
+<term>Raunt, Emory</term>
+<term>Secretary General President</term>
 </keywords>
     
 <keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
@@ -99,15 +102,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName>Secretary General President</roleName>
+<placeName>Boma</placeName>
+<date when="1889-06-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Administrator General</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -115,6 +118,7 @@
 
 <revisionDesc>
 <change when="2019-01-24" who="kln">named file, inserted correct header template</change>
+<change when="2019" who="sab">transcribed, translated, encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,15 +130,215 @@
 
 <pb facs="teaa.fr.letter.0220.001.jpg"/>
 
-<!-- needs to be transcribed -->
+<ab>ETAT INDÉPENDANT DU CONGO</ab>
+
+<ab>DÉPARTEMENT 
+DES
+AFFAIRES ETRANGÈRES</ab>
+
+<ab>No. 122</ab>
+
+<ab>très confidentielle.</ab>
+
+<ab>Inscrit le 15 juillet 1889
+No d'ordre 245
+CARTON 7 DOSSIER 54</ab>
+
+<ab>Boma, le 12 juin 1889</ab>
+
+<p>Monsieur l'Administrateur Général,</p>
+
+<p>Nous avons l’honneur de porter
+à votre connaissance que Monsieur Emory
+Raunt, agent Commercial des États Unis d'A-
+merique, arrivé à Boma par S.S."afri-
+kaan" le 13 mai 1889 est reparti pour
+l'Europe par le même <unclear>vapeur</unclear> le 6 juin
+courant.</p>
+
+<p>Nous avons remis à M. Raunt, lors de la
+visite qu'il nous a faite la lettre du Gouver-
+nement Central lui <unclear>preserirant</unclear> de verser un
+cautionnement de 3000 frs. et nous l'avons
+informé au cours de cette visite que nous
+avions donné, suivant vos instructions, des
+ordres à Xouxes nos statious pour qu'il y
+trouve toute l'aide et la protection désirables</p>
+
+<fw type="footer">Monsieur l'Administrateur Général,
+du Département des Affaires Étrangères
+Brussels</fw>
 
 <pb facs="teaa.fr.letter.0220.002.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>pour assurer le sucées de sa mission.</p>
+
+<p>M. Rannt s'est montré très satisfait
+des mesures prises et a demandé un répit pour 
+verser le cautionnement en or, disant qu'il
+devait le faire revenir d'urgence d’Angleterre.
+Nous avons eu devoir accéder, ou les inconstances, au
+désire, de cet agent consulaire.</p>
+
+<p>Pendant son séjour à Boma, la conduite
+e Monsieur Rannt a été déplorable. Dès le lende-
+main de son arrivée il s'est enivré dans sa
+chambre qui avait été mise a sa disposition,
+dans un des nouveau bâtiments, au point de
+me pouvoir sortir de chez lui. M.M. Zuchs et
+De Keyzer se rendant à me réunion de comité
+Exécutif, après le repas du soir, l'ont trouvé, le
+26 mai, étendis en travers e la route conduisant
+du Sanaterium aux bureaux de Gouvernnement
+Général et n'ayant pas conscience de ce qui se
+<unclear>passait</unclear> autour de lui. M. le directeur de la 
+Justice pourra vous donner des renseignements
+plus détaillés à ce sujet.</p>
+
+<p>Le 28 mai, M. Raunt prenait congé pour se
+rendre a Banana, par la lettre dont nous <unclear>joindrons</unclear> copie</p>
 
 <pb facs="teaa.fr.letter.0220.003.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>Pendant on séjour dans cette localité nous
+a dit M. le Juge de Sacgher, il s'est conduit
+d'une façon analogue a l'hôtel.</p>
+
+<p>Nous n'avons pas été peu surpris d'apprendre
+lors de l'arrivée a Boma de M. De sagher, que M. 
+Raunt était rentré en Europe par la vapeur qui 
+l'avait amené.</p>
+
+<p>M. Gaunt nous a occasionne beaucoup
+de travail pour les instructions que vous avons donnée
+à toutes les stations et a tous les postes de l'État, en
+ce qui le concernait, nous couformant ainsi avec dé
+-pêches du délcartement de <unclear>l'Gutérieur</unclear>, des 28 février
+no spécial 174 et du 2 mars no 299.</p>
+
+<p>Nous ne nous expliquons son attitude qu'on
+supposant qu'il a pris la décision de retourner en
+Europe, sous l’empire d'une surexcitation alcoolique.</p>
+
+<p>Nous adressons au département de <unclear>l'Gutérieur</unclear>
+le compte du à l'État par M. Raunt, <unclear>aun</unclear>
+pris de <unclear>reconrennent</unclear>. Ce compte s'élève à frs. 156.</p>
+
+<p>Veuillez agréer, Monsieur l'Administrateur 
+Général, ses assurances de notre haute considération.</p>
+
+<p>Pour le Comité Exécutif, 
+Le Secrétaire Genéral Président.</p>
+
+<p> <unclear/></p> <!-- signature unclear -->
+
+
+<div1 type="translation" xml:lang="en" >
+
+<pb facs="teaa.fr.letter.0220.001.jpg"/>
+
+<ab>FREE STATE OF THE CONGO</ab>
+
+<ab>DEPARTMENT 
+0F
+FOREIGN AFFAIRES</ab>
+
+<ab>No. 122</ab>
+
+<ab>very confidential.</ab>
+
+<ab>Inscribed July 15, 1889
+No of order 245
+BOX 7 FILE 54</ab>
+
+<ab>Boma, June 12, 1889</ab>
+
+<p>Mister Administrator General,</p>
+
+<p>We have the honor to bring 
+to your attention that Mister Emory 
+Raunt, commercial agent of the United States of 
+America, arrived in Bomma by the S.S."afri-
+kaan" May 13, 1889 has left again for 
+Europe by the same<unclear>vapeur</unclear> June 6 
+COURANT.</p>
+
+<p>We gave to Mr. Raunt, at the time of his
+visit that he made us the letter from the Central
+Government  lui <unclear>preserirant</unclear> de verser un
+cautionnement de 3000 frs. et nous l'avons
+informé au cours de cette visite que nous
+avions donné, suivant vos instructions, des
+ordres à Xouxes nos statious pour qu'il y
+trouve toute l'aide et la protection désirables</p>
+
+<fw type="footer">Mister General Administrator, 
+from the Department of Foreign Affairs 
+Brussels</fw>
+
+<pb facs="teaa.fr.letter.0220.002.jpg"/>
+
+<p>pour assurer le sucées de sa mission.</p>
+
+<p>M. Rannt showed us very satisfied 
+measures taken and asked for a break in order to  
+add the payment in gold, saying that he
+should do it  le faire revenir d'urgence d’Angleterre.
+Nous avons eu devoir accéder, ou les inconstances, au
+désire, de cet agent consulaire.</p>
+
+<p>Pendant son séjour à Boma, la conduite
+e Monsieur Rannt a été déplorable. Dès le lende-
+main de son arrivée il s'est enivré dans sa
+chambre qui avait été mise a sa disposition,
+dans un des nouveau bâtiments, au point de
+me pouvoir sortir de chez lui. M.M. Zuchs et
+De Keyzer se rendant à me réunion de comité
+Exécutif, après le repas du soir, l'ont trouvé, le
+26 mai, étendis en travers e la route conduisant
+du Sanaterium aux bureaux de Gouvernnement
+Général et n'ayant pas conscience de ce qui se
+<unclear>passait</unclear> autour de lui. M. le directeur de la 
+Justice pourra vous donner des renseignements
+plus détaillés à ce sujet.</p>
+
+<p>Le 28 mai, M. Raunt prenait congé pour se
+rendre a Banana, par la lettre dont nous <unclear>joindrons</unclear> copie</p>
+
+<pb facs="teaa.fr.letter.0220.003.jpg"/>
+
+<p>Pendant on séjour dans cette localité nous
+a dit M. le Juge de Sacgher, il s'est conduit
+d'une façon analogue a l'hôtel.</p>
+
+<p>Nous n'avons pas été peu surpris d'apprendre
+lors de l'arrivée a Boma de M. De sagher, que M. 
+Raunt était rentré en Europe par la vapeur qui 
+l'avait amené.</p>
+
+<p>M. Gaunt nous a occasionne beaucoup
+de travail pour les instructions que vous avons donnée
+à toutes les stations et a tous les postes de l'État, en
+ce qui le concernait, nous couformant ainsi avec dé
+-pêches du délcartement de <unclear>l'Gutérieur</unclear>, des 28 février
+no spécial 174 et du 2 mars no 299.</p>
+
+<p>Nous ne nous expliquons son attitude qu'on
+supposant qu'il a pris la décision de retourner en
+Europe, sous l’empire d'une surexcitation alcoolique.</p>
+
+<p>Nous adressons au département de <unclear>l'Gutérieur</unclear>
+le compte du à l'État par M. Raunt, <unclear>aun</unclear>
+pris de <unclear>reconrennent</unclear>. Ce compte s'élève à frs. 156.</p>
+
+<p>Veuillez agréer, Monsieur l'Administrateur 
+Général, ses assurances de notre haute considération.</p>
+
+<p>Pour le Comité Exécutif, 
+Le Secrétaire Genéral Président.</p>
+
+<p> <unclear/></p> <!-- signature unclear -->
+
 
 </div1>
 </body>

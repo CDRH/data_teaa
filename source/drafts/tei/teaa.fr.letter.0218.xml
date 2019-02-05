@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from Leghart to the Prince de Chimay, Minister of Foreign Affairs of Belgium, March 9, 1892</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab"></name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from Leghart to the Prince de Chimay, Minister of Foreign Affairs of Belgium</title>
+<date when="1892-03-09">March 9, 1892</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,12 +74,16 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Prince de Chimay</term>
+<term>Leghart</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Brussels, Belgium</term>
+<term>Congo</term>
+<term>United States</term>
+<term>Washington</term>
 </keywords>
     
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -99,15 +104,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Leghart</persName>
+<roleName/>
+<placeName>Washington</placeName>
+<date when="1892-03-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Prince Chimay</persName>
+<roleName>Minister of Foreign Affaires </roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -115,6 +120,7 @@
 
 <revisionDesc>
 <change when="2019-01-23" who="kln">named file, inserted correct header template</change>
+<change when="2019" who="sab">transcribed, translated, encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,15 +132,91 @@
 
 <pb facs="teaa.fr.letter.0218.001.jpg"/>
 
-<!-- needs to be transcribed -->
+<ab>de Belgique</ab>  <!-- first word cut off at the top -->
+
+<ab>Washington, 9 Mars 1892</ab>
+
+<p>Prince,</p>
+
+<p>J'ai l'honneur de vous transmettre 
+ici--<unclear>jarist</unclear> un bill présenté par le Sénateur
+Morgan et qui a pour but la nomination d'un
+consul Générale et d'un Vice-Consul des États-
+Unis dans l'État Indépendant du Congo. Ce bill
+ne <unclear>pouvait</unclear> pas devoir être pris en cosidération, la
+situation étant suffisamment réglée pour le
+moment par la nomination à Boma d'un agent
+commercial qui touchera $5000 et aura les 
+mêmes attributions qu'un consul.</p>
+
+<p>Le nouvel agent est sur le point de 
+d'embarquer pour se rendre a son poste.</p>
+
+<p>Leghart</p>
+
+<fw type="footer">au Prince de Chimay,
+Ministre des affaires Étrangères de Belgique, 
+BRUXELLES</fw>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
+
+<ab>of Belgium</ab>  <!-- first word cut off at the top -->
+
+<ab>Washington, March 9, 1892</ab>
+
+<p>Prince,</p>
+
+<p>I have the honor to convey 
+in this letter--<unclear/> a bill presented by Senator
+Morgan and concerns the nomination of a
+consul General and a Vice-Consul of the United
+States in the Independent State of the Congo. This bill 
+should not be taken into consideration, the
+situation given sufficiently settled for the 
+moment with the nomination in Boma of a commercial
+agent who will receive $5000 and will have the  
+same attributions of a consul.</p>
+
+<p>The new agent is about to 
+embark to go to his post.</p>
+
+<p>Leghart</p>
+
+<fw type="footer">to the Prince de Chimay,
+Minister of Foreign Affairs in Belgium, 
+BRUSSELS</fw>
 <pb facs="teaa.fr.letter.0218.002.jpg"/>
 
-<!-- needs to be transcribed -->
+<ab>In the Senate of the United States</ab>
+<ab>March 2, 1892</ab>
+<ab>M. Morgan introduced the following bill, which 
+was read trice and referred to the Committee
+on Foreign Relations</ab>
+
+<p>A. Bill
+for the appointment of consuls to the Congo Free State</p>
+
+<p>Be it enacted by the Senate and House of Representatives 
+of the United States of America in <unclear>Congress assembled</unclear> that the 
+President shall appoint, by and with the advice and consent of the Senate,
+a Consul General to be <unclear>acridited</unclear> to the Congo Free State, in
+Africa, whose official residence shall be at Boma, or
+such other place in the Congo Free State as the President
+may, from time to time, direct, and whose salary shall be four thousand 
+dollars per <unclear>ammum</unclear>. <unclear/>, also a Vice-Consul to reside at Banana Point, or at
+Stanley Pool, as the President may direct, whose slarary shall be two thousand dollars.</p>
+
+<p>See 2. that the President may assign to such consul General 
+the performance of any diplomatic duties that he may consider necessary in 
+connection with the relations of the United States and the Congo Free State
+without increase of salary and may direct that he shall be under the super-
+vision of the minister of the United States to the Kingdom of Belgium.</p>
+
+<p>See 3. That the Vice Consul shall be under the upervision of the
+Cons. gL., and shall report through him to this Gov't, unless the President shall otherwise direct.</p>
 
 </div1>
 
