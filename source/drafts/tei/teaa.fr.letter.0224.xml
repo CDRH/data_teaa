@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from ___ to Baron, December 10, 1904</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
+<resp>transcription, translation and encoding</resp>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -42,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from ___ to Baron</title>
+<date when="1904-12-10">December 10, 1904</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -74,15 +75,13 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Congo</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -100,15 +99,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName>Brussles</placeName>
+<date when="1904-12-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Baron</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -117,6 +116,7 @@
 <revisionDesc>
 <change when="2019-01-24" who="kln">named file, inserted correct header template</change>
 <change when="2017" who="KCD">Transcribed.</change>
+<change when="2019" who="pr">Transcribed, translated, and encoded header information</change>
 </revisionDesc>
 </teiHeader>
 
@@ -135,22 +135,24 @@
 <p>Votre lettre du <unclear>21</unclear> novembre
 relative au traité d'arbitrage
 evéntuel entre les Etats Unis
-<unclear></unclear> du Congo, a été mise
+<unclear/> du Congo, a été mise
 sous les yeux de S.M.</p>
     
-<p>Le Roi me change de
+<p>Le Roi me charge de
 vous remercier de ce que
 vous avez bién voulu faire
-á ce <unclear></unclear>.</p>
+á ce sujet.</p>
     
-<p>Je vous serais tout reconnaissance
+<p>Je vous serais tout reconnaissant
 si vous aviez l'obligeance de
-<unclear></unclear> indiquer quand le moment
-sera favorable vous faire une
-nouvelle tentative <unclear></unclear> du
-<unclear></unclear> Américain
+m'indiquer quand le moment
+sera favorable pour faire une
+nouvelle tentative aupres du
+Gouvernement Américain
+<unclear/> de la conclusion d'un
+arbitrage.
 Veuilly agréer, M. le <unclear></unclear>
-l'<unclear></unclear> de ma haute
+l'assurance de ma haute
 considération.</p>
 
 <p><unclear></unclear><lb/>
@@ -158,9 +160,68 @@ considération.</p>
 
 <pb facs="teaa.fr.letter.0224.002.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>Cabinet du Roi
+Palais de Bruxelles
+le 8 Decembre <unclear/></p>
+
+<p>Mon cher ami,
+Le Roi me charge de vous
+restituer la depeche ci-
+jointe du B. <unclear/>,
+La <unclear/> que vous
+remerciez ce dernier et qui</p>
 
 </div1>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0224.001.jpg"/>
+
+<p>Brussels December 10 1904</p>
+
+<p>Mister Baron</p>
+
+<p>Your letter from the <unclear>21st</unclear> of November
+relative to the treaty of potential
+arbitration between the United States
+<unclear/> of the Congo, was placed
+under the eyes of S.M.</p>
+    
+<p>The King charges me with
+thanking you for what
+you had wanted to do
+on this subject.</p>
+    
+<p>I will be very appreciative to you
+if you have the kindness to
+indicate to me when the moment
+will be favorable to make a
+new attempt with the
+American Government
+<unclear/> of the conclusion of an
+arbitration.
+Please accept, Mr. <unclear></unclear>
+the assurance of my highest
+consideration.</p>
+
+<p><unclear></unclear><lb/>
+9-12-06</p>
+
+<pb facs="teaa.fr.letter.0224.002.jpg"/>
+
+<p>Cabinet of the King
+Palace of Brussels
+December 8 <unclear/></p>
+
+<p>My dear friend,
+The King charges me with returning
+to you the enclosed
+dispatch from B. <unclear/>,
+The <unclear/> that you
+thank this last and that</p>
+
+</div1>
+
 </body>
 </text>
 

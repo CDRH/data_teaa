@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from ___ to Knight of Guvelier, Secretary General of Foreign Affairs, April 19, 1908</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
+<resp>transcription, translation, and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from ___ to Knight of Guvelier, Secretary General of Foreign Affairs</title>
+<date when="1908-04-19">April 19, 1908</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -74,18 +75,17 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Harrison, Burton</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Congo</term>
+<term>New York</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Belgian</term>
 </keywords>
 
 <keywords scheme="original" n="religion">
@@ -100,15 +100,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName>Washington</placeName>
+<date when="1908-04-19"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Knight of Guvelier, Secretary General of Foreign Affairs</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -116,6 +116,7 @@
 
 <revisionDesc>
 <change when="2019-01-24" who="kln">named file, inserted correct header template</change>
+<change when="2019" who="pr">transcribed, translated, and encoded header information</change>
 </revisionDesc>
 </teiHeader>
 
@@ -127,11 +128,57 @@
 
 <pb facs="teaa.fr.letter.0222.001.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>Legation de Belgique
+II Division
+Washington 19 Avril 08</p>
+
+<p>Monsieur le Chevalier
+
+J'ai l'honneur de signaler
+à votre <unclear>allentrois</unclear> toute spéciale le
+discours que M. Burton Harrison
+a prononcé hier à la chambre
+au cours de la discussion du
+budgets des Affairs Etrangeres-</p>
+
+<p>M. Burton Harrison est dépensé
+à New York Membre de la
+commission des Affaires Etrangeres-</p>
+
+<p>Il a pris avec vigueur la
+défense de l'Administration
+de l'Etat du Congo l a critqué</p>
 
 <pb facs="teaa.fr.letter.0222.002.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>l'attitude du Gouvernement
+americain à cet égard-</p>
+
+<p>Le Député à New York m'a
+adressé un matin la lettre ci-jointe
+et je lui ai déjà exprimé person-
+nellement ma reconnaissance
+pour le talent avec lequel
+il vient de soutenir de <unclear>nouveaux</unclear>
+la cause de la justive et de la
+vérité.</p>
+
+<p>L'attitude de M. Burton
+Harrison est tout a fait désin-
+téressée- Il est extrémement
+<unclear/> ni <unclear>s'accepte</unclear> pas
+d'affaires industrielles du
+financières- Je n'attend </p>
+
+<p> donc rien en retour de ce
+qu'il fait pour la défense du
+Roi et de Son Administration
+au Congo</p>
+
+<p>Veuillez agreer, Monsieur le
+Chevalier, les assurances de ma
+très haute considération
+<unclear/></p>
 
 </div1>
 
@@ -178,6 +225,109 @@ Francis Burton Harrison.</p>
 The Belgian Minister.</p>
 
 </div1>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0222.001.jpg"/>
+
+<p>Legation of Belgium
+II Division
+Washington April 19 08</p>
+
+<p>Mister Knight
+
+I have the honor to signal
+to your <unclear>allentrois</unclear> very special the
+discourse that Mr. Burton Harrison
+pronounced yesterday to the chamber
+during the discussion of the
+budgets of Foreign Affairs-</p>
+
+<p>Mr. Burton Harrison is dispensed
+in New York Member of the
+commission of Foreign Affairs-</p>
+
+<p>He took with vigor the
+defense of the Administration
+of the State of the Congo he criticized</p>
+
+<pb facs="teaa.fr.letter.0222.002.jpg"/>
+
+<p>the attitude of the american
+government in this regard-</p>
+
+<p>The deputy in New York addressed
+to me one morning the enclosed letter
+and I already expressed to him person-
+ally my recognition
+for the talent with which
+he supported the <unclear>nouveaux</unclear>
+the cause of justice and
+truth.</p>
+
+<p>The attitude of Mr. Burton
+Harrison is quite disin-
+terested- He is extremely
+<unclear/> nor <unclear>accepts</unclear> 
+industrial affairs of the
+finances- Thus I do not expect </p>
+
+<p> anything in return on that
+which he does for the defense of the
+King and His Administration
+in the Congo</p>
+
+<p>Please accept, Mister
+Knight, the assurances of my
+very high consideration
+<unclear/></p>
+
+</div1>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.fr.letter.0222.003.jpg"/>
+
+<p>1717, I Street,<lb/>
+Washington, D.C.<lb/></p>
+
+<p>April 19th 1908.</p>
+
+<p>My dear Baron Moucheur,</p>
+
+<p>Please accept my
+best thanks for your kind
+note and the enclosed clipping
+from the Belgian newspaper
+containing a translation of
+my remarks in the House of
+Representatives on the Congo. 
+I was very much gratified
+to see that so much interest 
+was taken in my attitude on
+the matter.</p>
+
+<p>I am enclosing herewith
+a leaf from the "Congressional
+
+<pb facs="teaa.fr.letter.0222.004.jpg"/>
+
+Record" of yesterday. Containing
+a further debate
+in the House on Congo affairs.</p>
+
+<p>I hope that this new presentation
+of the matter will 
+meet with your approval.</p>
+
+<p>Sincerely yours,<lb/>
+Francis Burton Harrison.</p>
+
+<p>His Excellency<lb/>
+The Belgian Minister.</p>
+
+</div1>
+
 </body>
 </text>
 

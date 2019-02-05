@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from Minister of the Colonies in Brussels to Prince de Chimay, Minister of Foreign Affairs, June 3, 1909</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -42,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from Minister of the Colonies in Brussel to Prince de Chimay, Minister of Foreign Affairs</title>
+<date when="1909-06-03">June 3, 1909</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -74,18 +75,20 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Moncheur, Baron</term>
+<term>Morisson</term>
+<term>Sheffard</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Congo</term>
+<term>Washington</term>
 </keywords>
 
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>American</term>
 </keywords>
 
 <keywords scheme="original" n="religion">
@@ -99,16 +102,16 @@
 </textClass>
 
 <correspDesc>
-<correspAction type="Mr. Minister of the Colonies">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<correspAction>
+<persName/>
+<roleName>Minister of the Colonies in Brussels</roleName>
+<placeName>Brussels</placeName>
+<date when="1909-06-03"/>
 </correspAction>
-<correspAction type="Mr. Minister of Foreign Affairs">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<correspAction>
+<persName>Prince de Chimay</persName>
+<roleName>Minister of Foreign Affairs</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -118,6 +121,7 @@
 <change when="2019-01-10" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="KCD">Transcribed.</change>
 <change when="2019" who="CAA">Translated.</change>
+<change when="2019" who="pr">encoded header information</change>
 </revisionDesc>
 </teiHeader>
 
@@ -132,7 +136,7 @@
 <p>Ministère Des Affaires Etrangères
 Direction P No. Cl.
 Rappeler dans la réponse les numéros,
-le <unclear></unclear> de la Direction ainsi que la date.</p>
+le <unclear/> de la Direction ainsi que la date.</p>
 
 <p>MONSIEUR LE MINISTRE</p>
 
@@ -167,9 +171,11 @@ par ces missionaires de voir remttre leur procés.</p>
 
 <p><unclear></unclear></p>
 
+</div1>
+
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.fr.letter.0229.001.jpg"</pb>
+<pb facs="teaa.fr.letter.0229.001.jpg"/>
 
 <p>Minister of Foreign Affairs
 Direction P Nº Cl.
@@ -196,21 +202,19 @@ you would like, Mr. Minister, to let me know if
 maybe the Minister of the Colonies has already been given it.</p>
 
 <p>You remarked, in his number from May 18th, 1909,
-the Times by <unclear/> th intervention of the US State Department
+the Times by <unclear/> the intervention of the US State Department
 in favor of named, Morrison and Sheppard and announce the refusal</p>
 
 <p><fw type="footer">M. the Minister of the Colonies,
-in Brussels</fw>
+in Brussels</fw></p>
 
-<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.fr.letter.0229.002"/>
 
-
-refusal of the King's government for deferring the expressed desire by the missionaries
+<p>refusal of the King's government for deferring the expressed desire by the missionaries
 to see their process put in place.</p>
 
-<p</p>
+</div1>
 </body>
 </text>
 

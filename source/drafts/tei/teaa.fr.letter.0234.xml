@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from Count of Grelle Rogier to Mister Count</title>
+<title>Letter from Count of Grelle Rogier to Mister Count, February 29, 1892</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -43,7 +44,7 @@
 <sourceDesc>
 <bibl>
 <title level="m">Letter from Count of Grelle Rogier to Mister Count</title>
-<date when="1898-02-29">February 29, 1898</date>
+<date when="1892-02-29">February 29, 1892</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -74,16 +75,19 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term>Arthur Barclay, Garreston Warren Gibson, Henry Walrow Grimes, Henry Augustus Williams,
-Joseph James Cheeseman, William David Coleman</term>
+<keywords scheme="viaf" n="people">
+<term>Barclay, Arthur</term>
+<term>Cheeseman, Joseph James</term>
+<term>Coleman, William David</term>
+<term>Gibson, Garreston Warren</term>
+<term>Grimes, Henry Walrow</term>
+<term>Williams, Henry Augustus</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<keywords scheme="original" n="places">
 <term>Republic of Liberia</term>
 </keywords>
 
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -100,16 +104,16 @@ Joseph James Cheeseman, William David Coleman</term>
 </textClass>
 
 <correspDesc>
-<correspAction type="The Count of Grelle Rogier">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<correspAction>
+<persName>Count Grelle Rogier</persName>
+<roleName>Secretary of State of Foreign Affairs in the Congo Free State</roleName>
+<placeName>Antwerp</placeName>
+<date when="1892-02-29"/>
 </correspAction>
-<correspAction type="Mr. Count">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<correspAction>
+<persName/>
+<roleName>Count</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -119,6 +123,7 @@ Joseph James Cheeseman, William David Coleman</term>
 <change when="2019-01-11" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="KCD">Transcribed.</change>
 <change when="2019" who="CAA">Translated.</change>
+<change when="2019" who="pr">encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -170,10 +175,11 @@ Sécrétaire d'Etat Département
 des Affaires Etrangés de l'Etat Indépendant du Congo
 &amp;c &amp;c &amp;c
 Bruxelles</p>
+</div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.fr.letter.0234.001.jpg"
+<pb facs="teaa.fr.letter.0234.001.jpg"/>
 
 <p>Legation 
 and Consulate General 
@@ -214,6 +220,7 @@ Secretary of the State Department for
 Foreign Affairs of the Congo Free State
 &amp;c &amp;c &amp;c
 Brussels</p>
+</div1>
 </body>
 </text>
 
