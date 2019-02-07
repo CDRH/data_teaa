@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter to the Chevalier de Guvelier, April 5, 1907</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab"></name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter to the Chevalier de Guvelier</title>
+<date when="1907-04-05">April 5, 1907</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,12 +74,18 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Chevalier de Guvelier</term>
+<term>Slocum</term>
+<term>Smith</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Boma</term>
+<term>Brussels</term>
+<term>Free State of the Congo</term>
+<term>Italy</term>
+<term>United States</term>
 </keywords>
     
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -99,15 +106,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName>Washington</placeName>
+<date when="1907-04-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Chevalier de Guvelier</persName>
+<roleName>Secretary General of Foreign Affairs for the Free State of the Congo</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -115,6 +122,7 @@
 
 <revisionDesc>
 <change when="2019-01-24" who="kln">named file, inserted correct header template</change>
+<change when="2019" who="sab">transcribed, translated, encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -134,22 +142,117 @@
 
 <p>Mr. James Smith vient d'être nommé
 Consul Général des État-Unis au Congo
-en renplacement du Mr. Slocum.</p>
+en remplacement du Mr. Slocum.</p>
 
 <p>Il a rempli pendant 10 ans les fonctions
-du Consl des États-Unis a Livourne. Il
-paraîs que c'est un homme raisonnable
+du Consul des États-Unis à Livourne. Il
+paraît que c'est un homme raisonnable
 qui se sera pas pour l'État une source
 de désagréments. Il est âgé d'environ 45
-ans, Sa </p>
+ans, sa femme viens d'intenter une <unclear>actrois</unclear>
+en divorce contre lui, ce qui simplifiera
+la question de son établissement au Congo.</p>
+
+<p>Il était question depuis un certain temps</p>
+
+<fw type="footer">Monsieur le Chevalier de Guvelier
+Secrétaire Général des Affaires Étrangères
+de l'État Indépendant du Congo</fw>
 
 <pb facs="teaa.fr.letter.0221.002.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>de L'envoyer dans l'État Indépendant,
+mais on craignait qu'il n'acceptait pas
+ce poste</p>
+
+<p>Il partira dans trois semaines, accom-
+pagné d'un jeune Vice-Consul qui 
+avait débuté comme <unclear>reporter</unclear> et en
+est à ses débuts dans la carrière <unclear>coum-</unclear>
+<unclear>laise-</unclear></p>
+
+<p>Je vais inviter Mr. Smith à dîner
+et l'engager à passer par Bruxelles
+avant de s'embarquer</p>
+
+<p>Vous pourrez sans doute obtenir
+d'autres renseignements sur son
+compte par la Légation de Belgique
+à Boma--Il a résidé si longtemps en
+Italie qu'il doit y être mieux comme
+qu'aux États-Unis--</p>
+
+<p>Veilles agréer, Monsieur le 
+Chevalier les assurances de ma</p>
 
 <pb facs="teaa.fr.letter.0221.003.jpg"/>
 
-<!-- needs to be transcribed -->
+<p>très haute considération.</p>
+
+<!-- Signature. -->
+
+</div1>
+
+<div1 type="translation" xml:lang="en" >
+
+<pb facs="teaa.fr.letter.0221.001.jpg"/>
+
+<ab>LEGATION OF BELGIUM</ab>
+
+<ab>Washington April 5, 1907</ab>
+
+<p>Mister le Chevalier,</p>
+
+<p>Mr. James Smith is going to be named
+Consul General of the United States in the Congo, 
+replacing Mr. Slocum.</p>
+
+<p>He fulfilled the functions of this position for 10 years
+as the Consul of the United States in Livourne. He
+appears to be a reasonable man 
+who will not be a source of disagreement
+for the States. He is around 45 
+years old, his wife is intending to <unclear>file</unclear>
+for divorce against him, which will simplify 
+the question of his establishment in the Congo.</p>
+
+<p>It was in doubt for a certain time</p>
+
+<fw type="footer">Mister Chevalier de Guvelier
+Secretary General of Foreign Affairs
+for the Free State of the Congo</fw>
+
+<pb facs="teaa.fr.letter.0221.002.jpg"/>
+
+<p>of sending him to the Free State, 
+but we were afraid that he would not accept 
+this position</p>
+
+<p>He will leave in three weeks, accom-
+panied by a young Vice-Consul who 
+started as a <unclear>reporter</unclear> and 
+is just starting out in his career <unclear>coum-</unclear>
+<unclear>laise-</unclear></p>
+
+<p>I am going to invite Mr. Smith to dine
+and appoint him to pass through Brussels 
+before leaving</p>
+
+<p>Without a doubt you can get
+other details about his
+person from the Belgium Legation 
+in Boma--He resided for so long in
+Italy that it must be better there  
+than the United States--</p>
+
+<p>Please accept, Mister
+Chevalier, the assurances of my</p>
+
+<pb facs="teaa.fr.letter.0221.003.jpg"/>
+
+<p>highest consideration.</p>
+
+<!-- Signature. -->
 
 </div1>
 </body>
