@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0291">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0291</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +43,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 226, Liasse 167</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -61,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,42 +72,51 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term></term>
+<term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
 <term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
-
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
-
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
 </keywords>
     
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
 <keywords scheme="original" n="language">
 <term>French</term>
 </keywords>
-    
-<keywords scheme="original" n="religion">
-<term></term>
-</keywords>
-
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-02-08" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="kcd">Transcribed.</change>
 <!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
 </revisionDesc>
@@ -116,7 +128,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <div1 xml:lang="fr" type="document">
 
-<pb facs="10017_001.jpg"/>
+<pb facs="teaa.fr.letter.0291.001.jpg"/>
 
 <p>Consulat Genéral
 De L'État Indépendant Du Congo.
@@ -128,7 +140,7 @@ Baltimore.</p>
 Monsieur le Sénateur Aldrich a commencé prendre un
 intérêt spécial au Congo. Pendant l'année passée il s'est
 montré assez bienveillant et, de temps en temps, il nous
-a fait des services d'ami. Tout dernierement j'ai entamé
+a fait des services d'ami. Tout dernièrement j'ai entamé
 avec lui la question de caoutchouc et il s'y intéresse
 beaucoup.</p>
 
@@ -143,40 +155,35 @@ au caoutchouc du Congo d'une manière quelconque.</p>
 <p>Monsieur Aldrich a découvert un nouveau procédé par
 lequel on peut, avantageusement, extraire du bon caoutchouc
 des mauvaises herbes ou des plantes tropicales qui ne
-contiennent qu'une petite partie de caoutchouc- qui, en effet
-ne contiennent que dix pour cent de caoutchouc sur quatre-
-vingt-dix pour cent de matière inutile. </p>
+contiennent qu'une petite partie de caoutchouc - qui, en effet
+ne contiennent que dix pour cent de caoutchouc sur quatre-vingt-dix 
+pour cent de matière inutile. </p>
 
 <p>Ils font des expériences depuis cinq annees et, enfin,
 ils ont trouvé un procédé qui n'est pas cher. Ils ont déjà
 opéré a des plantes de Mexique et ils me disent qu'ils
 peuvent produire la quantité énorme de quatre tonnes par jour.</p>
 
-<p>Le Sénateur Aldrich m'a parlé de quatre tonnes par jour.
+<p>Le Sénateur Aldrich m'a parlé l'autre jour de la possibilité
 d'opérer son procédé au Congo et j'ai écrit à Monsieur le
 Commandant Liebrechts en lui demandant quelques renseignements
 exacts sur les herbes du Congo.</p>
 
-<p>C'est possible que nous avons au Congo une herbe ou une</p>
+<p>C'est possible que nous avons au Congo une herbe ou une
 
-<p>Monsiur le Chevalier du Cuvelier
-Bruxelles.</p>
+<fw type="footer">Monsieur le Chevalier du Cuvelier
+Bruxelles.</fw>
 
-<pb></pb>
+<pb facs="teaa.fr.letter.0291.002.jpg"/>
 
-<p>Consulat Général
-De
-L'État Indépendant Du Congo.
-Baltimore.</p>
-
-<p>plante quelconque- meme un plante qui ne contient plus que
+plante quelconque - meme un plante qui ne contient plus que
 dix pour cent de caoutchouc - qui repond au but.</p>
 
 <p>Si on peut extraire du caoutchouc des herbes congolaises
 qui jusqu'a present sont restées infructueuses voila une
 bonne affaire pour le Congo au point de vue commerciale.</p>
 
-<p>En tout cas - si le procédé reussit au Congo ou non-
+<p>En tout cas - si le procédé reussit au Congo ou non -
 le vif interêt du Senateur Aldrich et de Monsieur Rockefeller
 au sujet est une bonne affaire pour le Congo au point de
 vue politique, et c'est sur cette phase de la question que
@@ -188,20 +195,20 @@ nombreux monopoles, et il est très puissant au Senat. Il est
 
 <p>Rockefeller est, comme vous savez, tres riche fils de
 Rockefeller du "Standard Oil Company", et gendre de Monsieur
-Aldrich. Il est jeun, serieux- beaucoup trop serieux- et
-un "Baptist qui semble prendre un vif interêt aux affaires
-religeuses. Il a été dans les rangs de nos adversaires,
+Aldrich. Il est jeun, serieux - beaucoup trop serieux - et
+un "Baptist" qui semble prendre un vif interêt aux affaires
+religieuses. Il a été dans les rangs de nos adversaires,
 et je puis vous dire en confience que, l'annee passée, il a
 tenté de gagner les sympathies du Senateur Aldrich pour les
-missionaires baptistes anti-congolaises-heureusement sans
+missionaires baptistes anti-congolaises - heureusement sans
 reussir.</p>
 
-<p>Si Senateur Aldrich et groupe desireront s'interesser
+<p>Si Senateur Aldrich et son groupe desireront s'interesser
 au caoutchouc du Congo, d'une manière quelconque, la bonne
 volunté de Sa Majesté leur sera tres utile. Monsieur Aldrich
 le sait bien et ce fait ne le fera pas moins amical au Congo.</p>
 
-<p>Quant à Monsieur Rockefeller ce fait lui donnera, peut-être,
+<p>Quant à Monsieur Rockefeller ce fait lui donnera, peutetre,
 un nouveau point de vue et une nouvelle manière de penser.</p>
 
 <p>Vous reconaitrez l'importance de regarder cette affaire
@@ -216,9 +223,11 @@ mes meilleurs sentiments.</p>
 
 <p>James Gustavus Whiteley</p>
 
-<div1 xml:lang="en" type="document">
+</div1>
+
+<div1 xml:lang="en" type="translation">
         
-<pb facs="10017_001.jpg"/>
+<pb facs="teaa.fr.letter.0291.001.jpg"/>
         
 <p>Consulate General
 of the Independent State of the Congo. 
@@ -236,13 +245,13 @@ a lot.</p>
         
 <p>Mr. Aldrich and his son-in-law Rockefeller (son) are 
 the heads of a small but very powerful group taking 
-a great interesst in rubber. Recently they organized 
+a great interest in rubber. Recently they organized 
 a company of 30 million dollar to run 
-the Mexian and South American rubber. Next what
-they told me is that it's likley that they will want to be interested 
-in the rubber from the Conge in some way.</p>
+the Mexican and South American rubber. Next what
+they told me is that it's likely that they will want to be interested 
+in the rubber from the Congo in some way.</p>
         
-<p>Mr. Alrich descovered a new manner by 
+<p>Mr. Alrich discovered a new manner by 
 which one can, to your advantage, extract some good rubber 
 from the bad herbs or tropical plants that only 
 contain one small part of rubber- that, in effect,
@@ -252,33 +261,28 @@ only contain ten percent of rubber over
 <p>They've made experiments for five years and, finally,
 they found a method that isn't expensive. They have already
 worked on Mexican plants and they tell me that they
-can produce an enormous quanity of four tons a day.</p>
+can produce an enormous quantity of four tons a day.</p>
         
-<p>The Senator Aldrich spoke to me about the four tons a day.
-To work his process in the Congo and I have written to Mr. 
+<p>Senator Aldrich spoke to me about the four tons a day.
+to work his process in the Congo and I have written to Mr. 
 Major Liebrecht in asking him some exact
 details on the plants from the Congo.</p>
         
-   <p>It's possible that we have a herb or one in the Congo</p>
+<p>It's possible that we have a herb or one in the Congo
         
-<p>Sir Knight of the Cuvelier
-Brussels.</p>
+<fw type="footer">Sir Knight de Cuvelier
+Brussels.</fw>
         
-<pb></pb>
+<pb facs="teaa.fr.letter.0291.002.jpg"/>
         
-<p>Consulate General 
-of
-the Independent State of the Congo.
-Baltimore.</p>
-        
-<p>any plant- even a plant that only contains 
+any plant - even a plant that only contains 
 10 percent of rubber- that respond to the goal.</p>
         
 <p>If one can extract the Congolese herbs from the rubber 
 that up until the present are rested fruitless here a 
 good business for the Congo from the commercial point of view.</p>
         
-<p>In any case- if the process suceeds in the Congo or not- 
+<p>In any case- if the process succeeds in the Congo or not - 
 the keen interest from the Senator Aldrich and Mr. Rockefeller
 in this subject is a good business for the Congo in a political
 point of view, and it's on this phase of the issue that 
@@ -288,15 +292,15 @@ I want to specially draw your attention.</p>
 number of monopolies, and he is very powerful int he Senate. He is
 "Republican", and is called "The Boss of the Senate".</p>
         
-<p>Rockefeller is, as you know, the very rich sone of 
-Rockefeller form the "Standard Oil Company", and the son-in-law of Mr. 
-Aldrich. He is young, serious- too serious- and 
-a "Baptist qui semble prendre un vif interêt aux affaires
-religeuses. He was in the ranks of our adversaries, 
+<p>Rockefeller is, as you know, the very rich son of 
+Rockefeller from the "Standard Oil Company", and the son-in-law of Mr. 
+Aldrich. He is young, serious - too serious - and 
+a "Baptist" who seems to take a keen interest in religious affairs.
+He was in the ranks of our adversaries, 
 and I can tell you in confidence that, last year, he tried
 to win the sympathies of Senator Aldrich for the
 anti-Congolese Baptist missionaries without 
-sucess.</p>
+success.</p>
         
 <p>If Senator Aldrich and group want to interest themselves
 in rubber in the Congo, in any way, the willingness 
@@ -306,12 +310,12 @@ knows it well and this fact will not make it less friendly in the Congo.</p>
 <p>As for Mr. Rockefeller this fact will give him, maybe,
 a new perspective and a new manner of thinking.</p>
         
-<p>You will recognize the importance of watching this affaire 
+<p>You will recognize the importance of watching this affair 
 as confidential for the moment.</p>
         
 <p>I'm writing to Mr. Major Liebrechts today, and, 
 naturally I talked about the subject to Mr. Baron Moncheur
-also confidetially.</p>
+also confidentially.</p>
         
 <p>Please accept, Sir Knight, the assurance of 
 my best sentiments.</p>

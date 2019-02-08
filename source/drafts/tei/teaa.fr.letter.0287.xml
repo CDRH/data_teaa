@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0287">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0287</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +43,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 226, Liasse 167</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -61,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,44 +72,52 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term></term>
+<term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
 <term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
-
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
-
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
 </keywords>
     
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
 <keywords scheme="original" n="language">
 <term>French</term>
 </keywords>
-    
-<keywords scheme="original" n="religion">
-<term></term>
-</keywords>
-
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-02-08" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="kcd">Transcribed.</change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
 </revisionDesc>
 </teiHeader>
 
@@ -116,7 +127,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <div1 xml:lang="fr" type="document">
 
-<pb facs="10016_001.jpg"/>
+<pb facs="teaa.fr.letter.0287.001.jpg"/>
 
 <p>Consulat Général
 De 
@@ -135,8 +146,8 @@ Reform Association", est actuellement à Baltimore.</p>
 pas nombreux et consistaient, principalement, en membres du Comité
 de la "Congo Reform Association".</p>
     
-<p>A la fin de la conference j'ai pris la parole, moi-même, pour
-donner un dementi publique à M. Clark et pour assurer la
+<p>A la fin de la conférence j'ai pris la parole, moi-même, pour
+donner un démenti publique à M. Clark et pour assurer la
 publication de mes sentiments dans tous les journaux de Baltimore.</p>
 
 <p>J'ai l'honneur de vous faire parvenir des coupures sous ce pli.</p>
@@ -148,8 +159,8 @@ nombreux ennemis, et on m'en a beaucoup félicité.</p>
     
 <p>D'ailleurs on me dit que M. Clark et ses conspirateurs ont
 été beaucoup genés par l'incident. Ces réverends on été tellement
-enragés que ( à ce qu'on me dit) dans un conseil intime
-apres le conference ils on oublié les "atrocites" momentanément
+enragés que (à ce qu'on me dit) dans un conseil intime
+apres le conference ils on oublié les "atrocites" momentanement
 et ont consacré le temps à discuter la personalité du Roi-Souverain
 et de Son Consul General et à tenir des propos injurieux contre
 tous les deux.</p>
@@ -157,17 +168,19 @@ tous les deux.</p>
 <p>Veuillez agréer, Monsieur le Chevalier, l'assurance de ma
 consideration la plus distinguée.</p>
     
-<p>James <unclear></unclear> Whiteley</p>
+<p>James Gustavus Whiteley</p>
     
-<p> Monsieur le Chevalier de Cuvelier
+<fw type="footer">Monsieur le Chevalier de Cuvelier
 Secretaire General
 Departement des Affaires Etrangeres
 Etat du Congo
-Bruxelles.</p>
+Bruxelles.</fw>
 
-<div1 xml:lang="en" type="document">
+</div1>
+
+<div1 xml:lang="en" type="translation">
         
-<pb facs="10016_001.jpg"/>
+<pb facs="teaa.fr.letter.0287.001.jpg"/>
         
 <p>Consulate General
 Of 
@@ -178,7 +191,7 @@ Baltimore.</p>
         
 <p>Monsieur le Chevalier,</p>
         
-<p>The reverand Joseph Clark, a missionary from the 
+<p>The reverend Joseph Clark, a missionary from the 
 Congo, who spread the propaganda in the United States for the "Congo
 Reform Association", is currently in Baltimore.</p>
         
@@ -193,14 +206,14 @@ publication of my opinions in all the Baltimore journals.</p>
 <p>I have the honor to transmit herewith the clipping enclosed here.</p>
         
 <p>I believe that my presence at this conference has had a good effect.
-I won a lot of sympathy from the jounalists and from others, 
+I won a lot of sympathy from the journalists and from others, 
 as I have not hesitated to speak, alone, against  
-many ennemies, and I was congratulated a lot.</p>
+many enemies, and I was congratulated a lot.</p>
         
-<p>Furthermore somone told me that Mr. Clark and his conspirators were
-very embarrased by the incident. These reverends were so 
+<p>Furthermore someone told me that Mr. Clark and his conspirators were
+very embarrassed by the incident. These reverends were so 
 enraged that (from what they told me) in a private council
-after the conference they had forgot the "atrocites" momentarily
+after the conference they had forgot the "atrocities" momentarily
 and established the time to discuss the character of the Sovereign King 
 and of his Consulate General and to make insulting remarks against
 both of them.</p>
@@ -208,11 +221,11 @@ both of them.</p>
 <p>Please accept, Sir Knight, the assurance of my 
 most distinguished consideration.</p>
         
-<p>James <unclear></unclear> Whiteley</p>
+<p>James Gustavus Whiteley</p>
         
-<p> Sir Knight of the Cuvelier
+<p>Sir Knight de Cuvelier
 General Secretary 
-Departement of Foreign Affaires
+Department of Foreign Affairs
 State of the Congo
 Brussels.</p>
         
