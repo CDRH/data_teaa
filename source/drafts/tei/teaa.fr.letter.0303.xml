@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0303">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0303</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 239, Liasse 205</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>
+
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-02-11" who="kln">renamed file, inserted correct header template</change>
+<change when="2017" who="kcd">Transcribed.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="teaa.fr.letter.0303.001.jpg"/>
+
+<p>Etat Independant
+Du 
+Congo<lb/>
+Gouvernement Local<lb/>
+Direction<lb/>
+No 661<lb/>
+Rappeler dans la réponse la date et le numéro<lb/>
+2 Annexes<lb/>
+Objet:
+Fondation d'un établissement
+américain pour la récolte
+du caoutchouc, de l'ivoire
+et autres produits du sol.-</p>
+
+<p>Boma, le 16 Mars 1908.-</p>
+
+<p>Monsieur le Secrétaire d'Etat,</p>
+
+<p>J'ai l'honneur de vous faire parvenir, sous
+ce pli, la copie d'une lettre du 24 Février dernier,
+par laquelle le Consul Général des Etats Unis d'Amerique
+m'a posé diverses questions au sujet du régime
+applicable à une maison de commerce américaine qui
+voudrait s'établir au Congo pour trafiquer le caoutchouc,
+l'ivoire, le copal et les autres produits du
+sol, avec les indigènes.</p>
+
+<p>Vous trouverez également, ci joint, la copie
+de la réponse que j'ai adressée au Consul Général.</p>
+
+<p>Le Vice Gouverneur Général,<lb/>
+<unclear></unclear></p>
+
+<fw type="footer">Monsieur le Secrétaire d'Etat,
+Bruxelles.-</fw>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="teaa.fr.letter.0303.002.jpg"/>
+
+<p>American Consular Service</p>
+
+<p>Boma, February 24, 1908</p>
+
+<p>Monsieur le Gouverneur Général,</p>
+
+<p>Being désirous of obtaining further information
+as to trade conditions in the Kongo Free
+State, I have the honor to request of your Excellency
+a reply at as early a date as possible
+to the following questions. It is not intended
+that the region known as the Lower Kongo
+is to be included in the point upon which
+I desire information.</p>
+
+<p>1. Under that conditions would the Kongo
+Free State permit an American commercial
+house of financial responsibility to establish
+itself in the Kalai district, or in any other
+district now exploited by Concessionary
+companies or by the State <unclear>"en regie"</unclear> for the
+purpose of buying rubber, ivory and gum
+copal and all other products of the soil
+from the natives.</p>
+
+<p>2. Will the State sell sufficient land
+in suitable <unclear extent="one word"/> in the above districts
+to an American commercial house to 
+permit of the érection of factories and
+warehouses in order to enable it to carry
+on a trade with the natives in the above
+products? If so under what conditions?</p>
+
+<p>3. If not, in what districts in the territory
+of the State may an American commercial
+house which has no concession of
+land, buy sufficient land and <unclear extent="two words"/>
+factories and warehouses and trade
+freely in all produce of the soil including
+ivory direct with the natives and what 
+formalities must be gone through with to enable
+    
+<pb facs="teaa.fr.letter.0303.003.jpg"/>
+    
+it to do so.</p>
+    
+<p>4. Will the State allow our American
+Company to operate steamers on the upper
+Congo and all its affluents for the
+transportation of goods belonging to 
+third parties and of passengers both
+white and black? If so under what
+conditions</p>
+
+<p>5. Will it sell enough <unclear>land</unclear> <unclear>and</unclear>
+at <unclear>Lés</unclear> or in the vicinity along
+the navigable waterway for the érection
+of repair shops, docks and <unclear extent="one word"/> <unclear>yards</unclear>
+for the building of steamers to carry on
+a regular transport business.</p>
+    
+<p><unclear extent="one word"/>
+<unclear extent="one abbreviated word"/> Smith<lb/>
+Consul General</p>
+
+</div1>
+
+<div1 xml:lang="en" type="translation">
+        
+<pb facs="teaa.fr.letter.0303.001.jpg"/>
+ 
+<p>Independent State
+of the
+Congo<lb/>
+Local Government<lb/>
+Direction<lb/>
+No 661<lb/>
+2 Annexes<lb/>
+Subject: 
+Foundation of an American 
+establishment for the harvest of 
+rubber, ivory, 
+and other products from the ground.-</p>
+        
+<p>Boma, March 16, 1908.</p>
+
+<p>Mr. Secretary of State</p>
+        
+<p>I have the honor transmit to you 
+herewith, the copy of the letter from last February 24, 
+by which the Consulate General of the United States of America 
+posed various questions to me about the practical  
+diet for an American trading firm that 
+wants to establish itself in the Congo for trafficking rubber, 
+ivory, copal, and other products from the 
+soil, with the natives.</p>
+        
+<p>You will also find, attached here, the copy 
+of the response that I addressed to the Consulate General.</p>
+        
+<p>The Vice Governor General,<lb/>
+<unclear></unclear></p>
+
+<fw type="footer">Mr. Secretary of State,  
+Brussels.-</fw>
+        
+</div1>
+</body>
+</text>
+    
+</TEI>
