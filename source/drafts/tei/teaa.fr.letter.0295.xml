@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from James Gustavus Whiteley to Adolphe de Cuvelier, January 22, 1907</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
+<resp>transcription, translation, and encoding</resp>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -42,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from James Gustavus Whiteley to Adolphe de Guvelier</title>
+<date when="1907-01-22">January 22, 1907</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -101,15 +102,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Whiteley, James Gustavus</persName>
+<roleName/>
+<placeName>Baltimore</placeName>
+<date when="1907-01-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>de Cuvelier, Adolphe</persName>
+<roleName>Knight</roleName>
+<placeName>Brussels</placeName>
 </correspAction>
 </correspDesc>
 
@@ -118,6 +119,7 @@
 <revisionDesc>
 <change when="2019-02-11" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="kcd">Transcribed.</change>
+<change when="2019" who="par">Transcribed, translated, and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -129,11 +131,43 @@
 
 <pb facs="teaa.fr.letter.0295.001.jpg"/>
 
-<!-- NEEDS TO BE TRANSCRIBED AND TRANSLATED -->
+<p>CONSULAT GENERAL
+DE
+L'ETAT INDEPENDENT DU CONGO.
+BALTIMORE.</p>
+
+<p>15 FEV 1907</p>
+
+<p>le 22 janvier 1907</p>
+
+<p>Monsieur le Chevalier-
+J'ai l'honneur de
+vous transmettre <unclear/> des
+deux "memorandum" sur le
+mouvement catholique que
+j'ai envoyé au Baron Moncheur
+et au Roi.</p>
+
+<p>La mouvement a eu une
+pleine <unclear>reussite</unclear>. Comme
+vous voyez par "le memorandum"
+nous avons déjà gagné l'appris</p>
 
 <pb facs="teaa.fr.letter.0295.002.jpg"/>
 
-<!-- NEEDS TO BE TRANSCRIBED AND TRANSLATED -->
+<p>de plus de deux million
+citoyens americains, il
+n'y a pas du doute
+c'est la force du <unclear/>
+catholique qui a <unclear/>
+l'attitude du gouvernment
+americain.</p>
+
+<p>Veuillez agreer, Monsieur
+le Chevalier, l'assurance
+de ma consideration la
+plus distinguée.
+James Gustavus Whiteley</p>
 
 </div1>
 
@@ -532,6 +566,49 @@ to keep up the movement they have started in favor of the Congo.</p>
 
 <p>James Gustavus Whiteley<lb/>
 Consul General.</p>
+
+</div1>
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0295.001.jpg"/>
+
+<p>CONSULATe GENERAL
+OF
+THE CONGO FREE STATE.
+BALTIMORE.</p>
+
+<p>15 FEV 1907</p>
+
+<p>January 22 1907</p>
+
+<p>Monsieur le Chevalier-
+I have the honor to
+to transmit to you <unclear/> the
+two "memorandums" on the
+catholic movement that
+I sent to the Baron Moncheur
+and to the King.</p>
+
+<p>The movement had a
+full <unclear>success</unclear>. As
+you see in "the memorandum"
+we already won l'appris</p>
+
+<pb facs="teaa.fr.letter.0295.002.jpg"/>
+
+<p>of more than two million
+american citizens, there
+is no doubt
+it is the force of the <unclear/>
+catholic that <unclear/>
+the attitude of the american
+government.</p>
+
+<p>Please accept, Mister
+Knight, the assurance
+of my most distinguished
+consideration.
+James Gustavus Whiteley</p>
 
 </div1>
 

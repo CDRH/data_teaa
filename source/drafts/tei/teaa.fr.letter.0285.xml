@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from James Gustavus Whiteley to Adolphe de Cuvelier, April 14, 1908</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -43,8 +44,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from James Gustavus Whiteley to Adolphe de Cuvelier</title>
+<date when="1908-04-14">April 14, 1908</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,22 +76,24 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Bacon</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Congo</term>
+<term>Washington</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>American</term>
+<term>Congolese</term>
+<term>Irish</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
+<term>Baptist</term>
+<term>Catholic</term>
 </keywords>
 
 <keywords scheme="original" n="language">
@@ -101,15 +104,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Whiteley, James Gustavus</persName>
+<roleName/>
+<placeName>Baltimore</placeName>
+<date when="1908-04-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>de Cuvelier, Adolphe</persName>
+<roleName>Knight</roleName>
+<placeName>Brussels</placeName>
 </correspAction>
 </correspDesc>
 
@@ -118,6 +121,8 @@
 <revisionDesc>
 <change when="2019-02-07" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="kcd">Transcribed.</change>
+<change when="2018" who="sab">Translated.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -183,9 +188,13 @@ Baltimore.</p>
 <p>Sir Knight,</p>
         
 <p>There are some days one of our friends, a member
-of the most prominent, really wanted to speak with Mr. Bacon, under  
-<!-- SEVERAL LINES WERE NOT TRANSCRIBED AND NEED TO BE TRANSLATED HERE -->
-secretary of State, about the attitude of the 
+of the most prominent, really wanted to speak with Mr. Bacon, under 
+secretary of State, about the attitude of the American Government
+towards the Congo. He received the impression that the Government of the
+United States does not take a large interest in the congolese question;
+the Department of State est forced to recognize (even by the Report
+of the American Consul General) that the "atrocities" do not exist
+and that it is quite simply a question of taxes. The
 American Government expressed considerable annoyance by the numerous 
 petitions and letters from women, clergymen, the 
 "Sewing Societies" and the Baptist associations, and he wanted 
