@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0288">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0288</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 226, Liasse 167</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-02-08" who="kln">renamed file, inserted correct header template</change>
+<change when="2017" who="kcd">Transcribed.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="teaa.fr.letter.0288.001.jpg"/>
+
+<p>Consulat Général
+De 
+L'État Indépendant Du Congo.
+Baltimore.</p>
+    
+<p>le 23 janvier 1908.</p>
+    
+<p>Monsieur le Chevalier,</p>
+    
+<p>Comme vous savez, Monsieur Smith, un agent de
+la Société Internationale Forestière et Minière du Congo, a ecrit
+une lettre assez sensationelle et inexacte à ses amis en
+Amerique qui ont en l'indiscretion de livrer sa correspondance
+à la presse. </p>
+    
+<p>A facon d'empecher une repetition de cette erreur j'ai cru
+utile d'ecrire un mot à Monsieur Beatty, un des Administrateurs
+de notre société, qui a choisi Monsieur Smith et qui la 
+proposé comme agent.</p>
+    
+<p>Monsieur Beatty vient de m'ecrire qu'il a pris des precautions
+necessaires pour en eviter une repetition.</p>
+    
+<p>J'ai l'honneur de vous transmettre copie de la correspondance
+que j'ai eu avec Monsieur Beatty à ce sujet.</p>
+    
+<p>Veuillez agréer, Monsieur le Chevalier, l'assurance de ma
+consideration la plus distinguée.</p>
+    
+<p>James Gustavus Whiteley</p>
+    
+<fw type="footer">Monsieur le Chevalier de Cuvelier
+Secretaire Général
+Etat Indépendant du Congo
+Bruxelles</fw>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+        
+<pb facs="teaa.fr.letter.0288.002.jpg"/>
+
+<p>Copie.</p>
+    
+<p>Personal &amp; unofficial.</p>
+    
+<p>January 17th 1908.</p>
+    
+<p>My dear Mr. Beatty:-</p>
+    
+<p>You will observe that Mr Arthur F. Smith's
+sensational account of the adventures of our expedition in
+Africa is being used to create a false impression of the spirit
+which animates our company and the Government of the State.</p>
+    
+<p>I know nothing of the accuracy of his description but the
+fact that he has treated a regrettable incident in a sensational 
+and flippant way has encouraged certain papers to impute a spirit
+of callousness to the company and to the Government from which
+the concession was received.</p>
+    
+<p>What I wish to call your attention to in Mr Smith's letter,
+as published, is that he states: "Everything in the Congo is in the
+hands of a few big corporations in which the State, or rather the
+King, owns one half".</p>
+    
+<p>As you are aware it is the State and not the King personally 
+that owns a half interest in these concessions.</p>
+    
+<p>It is unfortunate that an <sic>employe</sic> of our company (who ought 
+to be better informed and who is supposed by the Public to be
+well informed) should contribute to spreading the false impression
+that the King has a personal interest in the matter.</p>
+    
+<p>It is a point which I have spent a great deal of time
+endeavoring to make clear to the public, and I thought you might
+wish (in an informal way) to call Mr Smith's attention to the
+fact.</p>
+    
+<p>very sincerely yours<lb/>
+(signed) James Gustavus Whiteley.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="translation">
+        
+<pb facs="teaa.fr.letter.0288.001.jpg"/>
+        
+<p>Consulate General
+of 
+the Independent State of the Congo. 
+Baltimore.</p>
+        
+<p>January 23, 1908.</p>
+        
+<p>Sir Knight,</p>
+        
+<p>As you know, Mr. Smith, an agent of 
+the International Forest Society and Minister of the Congo, wrote 
+a letter quite sensational and false to his friends in 
+America who have the indiscretion to deliver their correspondence
+to the press.</p>
+        
+<p>A way to prevent a repetition of this error I believed
+useful to write a word to Mr. Beatty, one of the civil servants 
+of our society, who chose Mr. Smith and who 
+proposed him as an agent.</p>
+        
+<p>Mr. Beatty has just written me that he took the necessary
+precautions to avoid a repetition.</p>
+        
+<p>I have the honor transmit a copy of the letter
+that I had had with Mr. Beatty about this subject.</p>
+        
+<p>Please accept, Sir Knight, the assurance of my
+most distinguished consideration.</p>
+        
+<p>James Gustavus Whiteley</p>
+        
+<fw type="footer">Sir Knight de Cuvelier 
+Secretary General 
+Independent State of the Congo 
+Brussels</fw>
+        
+</div1>
+</body>
+</text>
+    
+</TEI>

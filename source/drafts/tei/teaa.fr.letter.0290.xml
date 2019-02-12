@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0290">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="DAWSON, KENDALL C." xml:id="KCD"><!-- KENDALL C. DAWSON --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2017</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.fr.letter.0290</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +43,18 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1000"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 226, Liasse 167</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
@@ -61,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,44 +72,52 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term></term>
+<term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
 <term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
-
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
-
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
 </keywords>
     
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
 <keywords scheme="original" n="language">
 <term>French</term>
 </keywords>
-    
-<keywords scheme="original" n="religion">
-<term></term>
-</keywords>
-
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-02-08" who="kln">renamed file, inserted correct header template</change>
 <change when="2017" who="kcd">Transcribed.</change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
 </revisionDesc>
 </teiHeader>
 
@@ -116,7 +127,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <div1 xml:lang="fr" type="document">
 
-<pb facs="10017_001.jpg"/>
+<pb facs="teaa.fr.letter.0290.001.jpg"/>
 
 <p>Consulat Général
 De 
@@ -127,23 +138,23 @@ Baltimore.</p>
 
 <p>Monsieur le Chevalier,</p>
     
-<p>Avant-hier j'ai fait visite a Monsieur Carr au
-Ministère des Affaires Etrangères a Washington afin de mettre sous
+<p>Avant-hier j'ai fait visite à Monsieur Carr au
+Ministère des Affaires Etrangères à Washington afin de mettre sous
 ses yeux le Traité d'Annexation et les Annexes et de lui donner
 des explications utiles avant que nos ennemis puissent inspirer
-des préventions en dénaturant les conditions d'annexation. </p>
+des préventions en dénaturant les conditions d'annexation.</p>
     
 <p>Pendant ma visite au Ministère j'ai rencontré
 Monsieur Adee, sous-secrétaire d'Etat qui fait un specialité du
 Congo. Par erreur il m'a pris pour Monsieur Smith, le Consul Général
 Americain et a commencé parler à coeur ouvert, mais, malheureusement,
 on a tiré son attention à son erreur. Toutefois il a dit assez
-pour me donner une idée de son attitude personelle.</p>
+pour me donner une idée de son attitude personnelle.</p>
     
 <p>A ce qu'il me parait, il a été quelque peu impressionné par
 des nombreuses accusations contre l'administration du Congo, mais
 il n'est pas disposé à accepter ces accusations sans preuve et
-avant de former une opinion, il prefere attendre le temoignage d'un
+avant de former une opinion, il prefére attendre le temoignage d'un
 observateur juste et impartiale ("a fair and impartial observer")
 tel que le Consul Général Americain qui est actuellement au Congo.</p>
 
@@ -156,17 +167,17 @@ ma consideration la plus distinguée.</p>
 
 <p>James Gustavus Whiteley</p>
 
-<p>Monsieur le Chevalier du Cuvelier
+<fw type="footer">Monsieur le Chevalier du Cuvelier
 Secretaire Général
 Departement des Affaires Etrangères
 Etat Indépendant du Congo
-Bruxelles.</p>
+Bruxelles.</fw>
     
-    
+</div1>    
 
-<div1 xml:lang="en" type="document">
+<div1 xml:lang="en" type="translation">
         
-<pb facs="10017_001.jpg"/>
+<pb facs="teaa.fr.letter.0290.001.jpg"/>
         
 <p>Consulate General
 of
@@ -177,13 +188,13 @@ Baltimore.</p>
         
 <p>Sir Knight,</p>
         
-<p>Before yesterday I made a visite to Mr. Carr about the 
-Minister of Foreign Affaires in Washington in order to put under
-his eyes the Treaty of Annexation and the Annexs and to give him 
+<p>Before yesterday I made a visit to Mr. Carr about the 
+Minister of Foreign Affairs in Washington in order to put under
+his eyes the Treaty of Annexation and the Annexes and to give him 
 some useful explanations before our enemies can inspire
 prejudice while denaturing the conditions of the annexation. </p>
         
-<p>During my visite with the Minister I met 
+<p>During my visit with the Minister I met 
 Mr. Adee, the undersecretary of State with a speciality in the 
 Congo. By mistake he took me for Mr. Smith, the American Consulate 
 General and began to speak with an open heart, but, unfortunately, 
@@ -192,7 +203,7 @@ to give me an idea about his personal attitude.</p>
         
 <p>It seems to me, he was somewhat impressed by 
 the many accusations against the Congo administration, but
-he is not prone to accept these accusations wihtout proof and 
+he is not prone to accept these accusations without proof and 
 before forming an opinion, he prefers to wait on the evidence of a
 fair and impartial observer ("a fair and impartial observer")
 such as the American Consulate General who is currently in the Congo.</p>
@@ -206,13 +217,11 @@ my most distinguished consideration.</p>
         
 <p>James Gustavus Whiteley</p>
         
-<p>Sir Knight of the Cuvelier 
+<fw type="footer">Sir Knight de Cuvelier 
 Secretary General 
-Departement of Foreign Affaires 
+Department of Foreign Affairs 
 Independent State of the Congo 
-Brussels.</p>
-        
-        
+Brussels.</fw>
 
 </div1>
 </body>
