@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0319">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0315">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from the Minister of Foreign Affaires, to Edouard Degrelle-Rogier, July 27, 1892</title>
+<title>Letter from</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Brown, Sophie A." xml:id="sab"></name>
-<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.fr.letter.0319</idno>
+<idno type="project">teaa.fr.letter.0315</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,8 +41,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from the Minister of Foreign Affaires, to Edouard Degrelle-Rogier</title>
-<date when="1892-07-27">July 27, 1892</date>
+<title level="m">Letter from </title>
+<date when="1893-07-08">July 8, 1893</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,14 +74,11 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>General Administrator</term>
-<term>Raunt, Emory</term>
-<term>Secretary General President</term>
-<term>de Sacgher, Juge</term>
+<term></term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Brussels</term>
+<term></term>
 </keywords>
     
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -104,12 +100,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName/>
-<roleName>Minister of Foreign Affairs</roleName>
-<placeName>Brussels, Belgium</placeName>
-<date when="1889-06-12"/>
+<roleName></roleName>
+<placeName></placeName>
+<date when="1893-07-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Edouard Degrelle-Rogier</persName>
+<persName/>
 <roleName></roleName>
 <placeName/>
 </correspAction>
@@ -118,9 +114,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019" who="kln">named file, inserted correct header template, transcribed.</change>
-<change when="2019" who="sab">Encoded.</change>
-<change when="2019" who="par">Translated.</change>
+<change when="2019" who="sab">named file, inserted header, transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -130,59 +124,37 @@
 
 <div1 type="document" xml:lang="fr" >
 
-<pb facs="teaa.fr.letter.0319.001.jpg"/>
+<pb facs="teaa.fr.letter.0315.001.jpg"/>
 
-<p>Minstère
-Des
-Affaires Étrangères.
-Cabinet 1.
-1 annexe</p>
+<ab>Bruxelles le 8 juillet 1893</ab>
 
-<p>Bruxelles, le 27 Juillet 1892
-18 Aout 92
-3029
-11 D
-18 août 1892</p>
+<p>Monsieur le <unclear>Laupe</unclear></p>
 
-<p>Monsieur le Comte,</p>
+<p>La réponse où <unclear>la <!-- this was crossed out. -->
+renseignement</unclear> a la commnontair <!-- this was crossed out. -->
+Excellence a bien
+voulu un adresser
+ar la lettre
+du 5 juillet dr.
+<unclear>Colinel I</unclear> <!-- this was crossed out. -->
+j'ai l'honneur 
+de parler à 
+la connaissance</p> <!-- next 8 lines are crossed out. -->
 
-<p>Notre Ministre a Washington m'envoie
-le prospectus, que j'ai l'honneur de vous communiquer
-ci-joint avec prière de restitution, d'un
-congrés d'ethnologie africaine qui sera <unclear>tenu</unclear> à
-Chicago pendant l'exposition universelle.</p>
+<fw type="footer">S.S
+sur le Couche de
+<unclear/></fw>
 
-<p>M. Leghait a été informé qu'il avait
-été nommé membre de l'advisory council du
-Congres dont il s'agit. Il ajoute que l'invitation
-a du être adressée également au Roi, et il me
-prie de lui faire parvenir des instructions sur la
-suite qu'il aura lieu de donner à cette invitation</p>
+<pb facs="teaa.fr.letter.0315.002.jpg"/>
 
-<p>Son Excellence
-Monsieur le Comte Degrelle Rogier,
-Bruxelles</p>
-
-<pb></pb>
-
-<p>Je ne pourrai répondre à cette demande,
-sans connaitre les intentions du Gouvernement de
-l'Etat Indépendant en ce qui concerne sa participation
-à ce congrés.</p>
-
-<p>Je vous serai obligé, Monsieur le Comte, de me
-renseigner à cet égard, et de me faire connaitre, si 
-cela est possible, l'accueil que le Roi. Souverain a
-réservé à l'envoi du prospectus qui a été adressé à
-Sa Majesté.</p>
-
-<p>Je saisis cette occasion, Monsieur le Comte, de
-renouveler à Votre Exellence les assurances de ma
-haute considération.</p>
-
-<p>Le Ministre des Affaires Etrangéres <unclear></unclear> interieur</p>
-
-<p><unclear></unclear></p>
+<p>que leurs. Von
+Gele et <unclear/>
+out été cleargés
+<unclear/> par
+le Gouvernnement
+de l'État Indep-
+pendant d'étudie,
+les questions </p>
 
 </div1>
 </body>
