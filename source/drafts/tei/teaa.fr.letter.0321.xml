@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0321">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription, encoding, and translation</resp>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0321</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 323, Liasse 445</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>
+
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-02-12" who="kln">renamed file, inserted correct header template</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2017" who="kcd">Transcribed.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="teaa.fr.letter.0321.001.jpg"/>
+
+<!-- NEEDS TO BE TRANSCRIBED -->
+
+<pb facs="teaa.fr.letter.0321.002.jpg"/>
+
+<p>M. Kasson m'a dit qu'il comptait
+prendre la parole au Congré pour exposer la situation de
+l'Etat du Congo. Je lui ai fourni à ce sujet toutes les
+informations que je posséde (Bulletins officiels- Rapport
+de M. Allard dans le Recueil consulaire &amp;c), mais
+si vous aviez quelques renseignements particulierés à lui
+communiquer, cela pourrait être utile á la cause en
+faveur de laquelle il parlera.- Ce congrés d'ethnologie
+africaine s'ouvrira sans doute vers le milieu de l'été
+ainsi qu'une vingtaine d'autres Congrés. Ils n'ont aucun
+but patriotique ou déterminé et ne sont appelés qu'á
+entourer l'exposition d'une auréole intellectuelle et morale."</p>
+
+<p>"J'ai l'honneur de vous transmettre la
+demande- (l'original de cette demande se trouve annexé
+á la présente dépêche)- qui vient de m'être adressée de
+prendre la parole le 14 Août prochain à Chicago afin
+d'inaugurer le Congrés africain par un discours du
+Représentant du Souverain qui a le plus contribué á
+porter la civilisation en Afrique et pour présenter les
+Belges qui viendront (on le suppose du moins) exposer
+l'ouvre glorieuse du Roi.</p>
+
+<p>"J'ai accusé réception de cette invitation
+en remerciant et en disant qu'en ma qualité de Minstre
+de Belgique exclusivement, je ne pouvais répondre á
+leur gracieuse invitaion qu'aprés avoir pris les ordres du
+Gouvernement du Roi.</p> <fw type="catch">"Il</fw>
+
+
+<p>"Il semblerait utile que dans une Conférence
+sur l'Afrique quelqu'un de compétent fût changé de
+parler spécialement de la création et du développement de
+l'Etat Indépendant.</p>
+    
+<p>"Quoique ce Congrés ne soit comme je
+vous l'ai dit, qu'une réunion académique sous but 
+déterminé, il est toutefois á examiner s'il ne serait pas
+de notre intérêt de chercher á en tirer un avantage
+pratique en lui donnant du relief et en eu profitant
+pour populariser l'ouvre du Congo dans un pays dont
+l'appui peut nous être utile."</p>
+    
+<p>Notre Ministre á Washington a pour
+instructions de se rendre á l'invitation officielle qu'il a reçue
+l'assister aux cérémonies de l'ouverture de l'Exposition qui
+aura lieu dans les premiers jours du mois de Mai. Le séjour
+qu'il fera à Chicago à cette occasion sera de courte durée; il
+rejoindra son poste dés que les cérémonies dont il s'agit seront
+terminées. Ses instructions, d'après la communication que vous m'avez
+faite le 18 Août <unclear extent="one word"/>, n'ont pu prévoir l'hypothèse d'un voyage á
+Chicago au mois d'Août prochain.</p>
+    
+<p>Je vous prie, Monsieur le Compte, de vouloir 
+bien me faire part des observations que les renseignements qui
+précédent vous auraient suggérées et d'agréer les assurances
+de ma haute considération.</p>
+    
+<p>Merode Westerloo</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="teaa.fr.letter.0321.003.jpg"/>
+
+<p>Chicago, U.S.A., April 15th, 1893<lb/>
+151 Washington Street.</p>
+
+<p>Dictated.</p>
+
+<p>Hon. Alfred Le Ghait, E.E.&amp;M.P.<lb/>
+Washington, D.C.</p>
+
+<p>Dear Sir:-</p>
+
+<p>In our daily program, which we will soon send you, we
+plan to give the forenoon of the first day, Monday August 14th, to
+the reception of the members of the Congress on Africa and to
+addresses of response. In behalf of the Committee I write to 
+invite yourself to respond on the part of that distinguished land
+which you represent so honorably to the government of the United
+States. We think that it would be the fitting and gracious thing
+for one in your position to speak the opening word for those of 
+your country, who are to bring to this Congress their contributions
+of wisdom in support of the example of their illustrious King, who
+still keeps himself on the lead in this process of re-discovering
+Africa. We hope that you will give our earnest request an affirmative
+reply. May we not hear from you without delay?</p>
+
+<p>Respectfully yours,<lb/>
+Jos. E. Roy<lb/>
+Chairman</p>
+
+</div1>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="teaa.fr.letter.0321.004.jpg"/>
+
+<p><unclear extent="entire document"/></p>
+
+<pb facs="teaa.fr.letter.0321.004.jpg"/>
+
+<p><unclear extent="entire document"/></p>
+
+</div1>
+
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0321.001.jpg"/>
+
+<!-- NEEDS TO BE TRANSLATED -->
+
+<pb facs="teaa.fr.letter.0321.002.jpg"/>
+
+<p>"Mr. Kasson told me that he was planning
+to take the floor at Congress to expose the situation of
+the State of the Congo. I supplied to him on this subject all the
+information that I possess (Official bulletins- Report
+of Mr Allard in the consular collection &amp;c), but
+if you had some particular information to communicate
+to him, that could be useful to the cause in
+favor of that which he will speak.- The congress of African
+ethnology will open without doubt toward the middle of the summer
+just as twenty-some others Congress. They have no
+patriotic goal or determined and are only called to
+enforce the exposition of an intellectual and moral aureole."</p>
+
+<p>"I have the honor to transmit to you the
+demand- (the original of this demand is found annexed
+to this dispatch)- which has just been sent to me to 
+speak the 14th of next August in Chicago in order
+to inaugurate the African Congress by a discourse of the
+Representative of the Sovereign who contributed the most to
+bring the civilization to Africa and to present the
+Belgians who will come one can suppose at least to expose
+the glorious work of the King.</p>
+
+<p>"I accused reception of this invitation
+in thanking and in saying that in my quality as Minister 
+of Belgium exclusively, I could not respond to
+their gracious invitation until having taken the orders of the
+Government of the King. </p>
+
+
+<p>"It would seem useful that in a conference
+on Africa someone competent changed the
+speaking especially of the creation and development of
+the Independent State.</p>
+    
+<p>"Though this Congress is as I
+told you, that an academic reunion under the determined 
+goal, it is however to examine if it would be
+of our advantage to search to take practical 
+advantage in giving it relief and in profiting
+to popularize the work of the Congo in a country where
+the support could be useful to us."</p>
+    
+<p>Our Minister in Washington has for
+instructions to face the official invitation that he has received
+to assist him in the ceremonies of the opening of the Exposition that
+had place in the first days of the month of May. The stay
+that he will make in Chicago at this occasion will be of short duration; he
+will rejoin his post as soon as the ceremonies of which it is question are
+terminated His instructions, according to the communication that you had
+with me the 18th of August, could not predict the hypothesis of a voyage to
+Chicago in the month of next August.</p>
+    
+<p>I pray you, Mister Count, to
+to share with me the observations that the information
+preceding you would have suggested and to accept the assurances
+of my highest consideration.</p>
+    
+<p>Merode Westerloo</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
