@@ -6,11 +6,18 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
+<<<<<<< HEAD
+<title>Letter from</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+=======
 <title>Letter to Henri de Merode-West, July 8, 1893</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+>>>>>>> c4ada652dee2d20467eed5230a6f139b922ccaf6
 <name n="Brown, Sophie A." xml:id="sab"></name>
 </respStmt>
 </titleStmt>
@@ -42,14 +49,22 @@
 
 <sourceDesc>
 <bibl>
+<<<<<<< HEAD
+<title level="m">Letter from </title>
+=======
 <title level="m">Letter to Henri de Merode-West</title>
+>>>>>>> c4ada652dee2d20467eed5230a6f139b922ccaf6
 <date when="1893-07-08">July 8, 1893</date>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
 <collection>Archives Africaines</collection>
+<<<<<<< HEAD
+<idno>Portefeuille 232, Liasse 195</idno>
+=======
 <idno>Portefeuille 323, Liasse 445</idno>
+>>>>>>> c4ada652dee2d20467eed5230a6f139b922ccaf6
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -65,13 +80,29 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
+<<<<<<< HEAD
+    
+=======
 
+>>>>>>> c4ada652dee2d20467eed5230a6f139b922ccaf6
 <keywords scheme="original" n="type">
 <term>Document</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term/>
+<<<<<<< HEAD
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+</keywords>
+    
+=======
 </keywords>
 
 <keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
@@ -82,24 +113,44 @@
 <term><!-- EXAMPLE: Congo River --></term>
 </keywords>
 
+>>>>>>> c4ada652dee2d20467eed5230a6f139b922ccaf6
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
+<<<<<<< HEAD
+    
+=======
 
+>>>>>>> c4ada652dee2d20467eed5230a6f139b922ccaf6
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
 <keywords scheme="original" n="language">
+<<<<<<< HEAD
+<term/>
+=======
 <term>French</term>
+>>>>>>> c4ada652dee2d20467eed5230a6f139b922ccaf6
 </keywords>
 
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
+<<<<<<< HEAD
+<persName/>
+<roleName></roleName>
+<placeName></placeName>
+<date when="1893-07-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName></roleName>
+<placeName/>
+=======
 <persName><!-- LAST NAME, FIRST NAME --></persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
 <placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
@@ -109,13 +160,18 @@
 <persName><!-- LAST NAME, FIRST NAME --></persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
 <placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+>>>>>>> c4ada652dee2d20467eed5230a6f139b922ccaf6
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<<<<<<< HEAD
+<change when="2019" who="sab">named file, inserted header, transcribed.</change>
+=======
 <change when="2019-02-12" who="kln">named file, inserted header template</change>
+>>>>>>> c4ada652dee2d20467eed5230a6f139b922ccaf6
 </revisionDesc>
 </teiHeader>
 
@@ -123,6 +179,43 @@
 
 <body>
 
+<<<<<<< HEAD
+<div1 type="document" xml:lang="fr" >
+
+<pb facs="teaa.fr.letter.0315.001.jpg"/>
+
+<ab>Bruxelles le 8 juillet 1893</ab>
+
+<p>Monsieur le <unclear>Laupe</unclear></p>
+
+<p>La réponse où <unclear>la <!-- this was crossed out. -->
+renseignement</unclear> a la commnontair <!-- this was crossed out. -->
+Excellence a bien
+voulu un adresser
+ar la lettre
+du 5 juillet dr.
+<unclear>Colinel I</unclear> <!-- this was crossed out. -->
+j'ai l'honneur 
+de parler à 
+la connaissance</p> <!-- next 8 lines are crossed out. -->
+
+<fw type="footer">S.S
+sur le Couche de
+<unclear/></fw>
+
+<pb facs="teaa.fr.letter.0315.002.jpg"/>
+
+<p>que leurs. Von
+Gele et <unclear/>
+out été cleargés
+<unclear/> par
+le Gouvernnement
+de l'État Indep-
+pendant d'étudie,
+les questions </p>
+
+</div1>
+=======
 <div1 xml:lang="fr" type="document">
 
 <pb facs="teaa.fr.letter.0315.001.jpg"/>
@@ -256,6 +349,7 @@ the assurance of my highest consideration.</p>
 
 </div1>
 
+>>>>>>> c4ada652dee2d20467eed5230a6f139b922ccaf6
 </body>
 </text>
 
