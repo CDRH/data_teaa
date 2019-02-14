@@ -6,10 +6,10 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from Lambert Tree to __, January 9, 1888</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
+<resp>transcription, translation, and encoding</resp>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
@@ -43,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from Lambert Tree to ___</title>
+<date when="1888-01-09">January 9, 1888</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,18 +75,19 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Berlin</term>
+<term>Independent State of the Congo</term>
+<term>Leopoldville</term>
+<term>United States</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>American</term>
 </keywords>
 
 <keywords scheme="original" n="religion">
@@ -101,15 +102,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Tree, Lambert</persName>
+<roleName/>
+<placeName>Brussels</placeName>
+<date when="1888-01-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName/>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -117,7 +118,7 @@
 
 <revisionDesc>
 <change when="2019-02-13" who="kln">renamed file, inserted correct header template</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
 <change when="2017" who="kcd">Transcribed.</change>
 </revisionDesc>
 </teiHeader>

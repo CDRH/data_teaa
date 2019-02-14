@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from the Consul General to Edmond Van Eetvelde, Administrator General of Foreign Affairs, January 8, 1887</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
@@ -43,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from the Consul General to Edmond Van Eetvelde, Administrator General of Foreign Affairs</title>
+<date when="1887-01-08">January 8, 1887</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,15 +75,15 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Belgium</term>
+<term>Congo Free State</term>
+<term>Liberia</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -101,15 +101,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName>Consul General</roleName>
+<placeName>Antwerp</placeName>
+<date when="1887-01-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Van Eetvelde, Edmond</persName>
+<roleName>Administrator General of Foreign Affairs</roleName>
+<placeName>Brussels</placeName>
 </correspAction>
 </correspDesc>
 
@@ -117,7 +117,7 @@
 
 <revisionDesc>
 <change when="2019-02-13" who="kln">renamed file, inserted correct header template</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
 <change when="2017" who="kcd">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
@@ -163,7 +163,7 @@ Ain très distinguée</p>
 Prés l'Etat Indépendant du Congo<lb/>
 <unclear extent="signature"/></p>
     
-<fw type="footer">Monsieur Edmund Van Ectvelde
+<fw type="footer">Monsieur Edmund Van Eetvelde
 Administrateur Général des Affaires
 Etrangères de l'Etat Indépendant du
 Congo etc etc Bruxelles.</fw>
