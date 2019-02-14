@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0329">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription, encoding, and translation</resp>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0329</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 331, Liasse 481</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="fr">French</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>
+
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-02-13" who="kln">renamed file, inserted correct header template</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2017" who="kcd">Transcribed.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="teaa.fr.letter.0329.001.jpg"/>
+
+<p>Bruxelles, le 16 Avril 1886.</p>
+    
+<p>M. le Consul Général,</p>
+    
+<p>J'ai l'honneur 
+de vous accuser réception
+de votre lettre du 14e
+par laquelle vous me
+faites parvenir la réponse
+de <unclear extent="acronym"/> Roi d'Hawaii
+á la notification du
+Roi comme Souverain de
+l'Etat Indépendant du
+Congo. Je me suis <unclear extent="one word"/>
+de faire parvenir cette
+réponse á sa haute
+destination.</p>
+    
+<p>J'ai également
+reçu la réponse á ma
+notification.</p>
+    
+<p>Veuillez agréer,
+la plus distinguée.<lb/>
+<unclear extent="signature"/></p>
+    
+<fw type="footer">M. Victor Forge,
+Consul Général
+du Royaume d'Hawaii, 
+Anvers</fw>
+
+<pb facs="teaa.fr.letter.0329.002.jpg"/>
+
+<p>Consulat général
+du Royaume d'Hawaii
+en Belgique.</p>
+    
+<p>Anvers, le 14 Avril 1886.</p>
+    
+<p>Monsieur l'Administrateur Général</p>
+    
+<p>Me conformant aux ordres de mon Gouvernement
+J'ai l'honneur de vous remettre un <unclear extent="one word"/>'que Son Excellence
+Monsieur Walker M. Gibson Ministre des Affaires
+Etrangéres d'Hawaii m'a chargé de vous faire parvenues
+et qui renferme, outra la copie d'usage, une lettre
+autographe de Sa Majesté Hawaiienne à Sa 
+Majesté Léopold II, au sujet de Son avènement
+comme Souverain du l'Etat Indépendant du Congo.</p>
+    
+<p>Je vous <unclear extent="one word"/> d'agréer, Monsieur l'Administrateur
+Général, l'assurance de ma plus haute considération</p>
+    
+<p>Le consul général<lb/>
+Victor Forge</p>
+    
+<fw type="footer">Monsieur Edmond Van Eetvelde
+Administrateur Général de
+l'Etat Indépendant du Congo
+à Bruxelles.</fw>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="teaa.fr.letter.0329.003.jpg"/>
+
+<p>Copy</p>
+    
+<p>Sir My Brother, I have received and have
+read with interest the letter in which Your
+Majesty has been so good as to inform me that
+by the wish of the International Association of
+Congo He has assumed the title of Sovereign of the
+Independent Congo State. I have watched
+with great interest the great experiment of
+civilization, colonization and commerce in which
+the International Association of the Congo is 
+engaged and whilst I felicitate the Association
+upon the happy circumstance
+that a Monarch so talented and so much
+esteemed as is Your Majesty has acceded
+to its desire and become the Chief of the
+new State I must also congratulate Your
+Majesty upon the arrival of an opportunity
+so congenial to His temperament and exalted
+aspirations as is afforded to Him in this
+sovereignty. I gladly avail Myself of this
+occasion to assure Your Majesty of the
+high esteem and constant friendship
+with which I am</p>
+    
+<p>Sir: My Brother <fw type="catch">Your</fw>
+
+<pb facs="teaa.fr.letter.0329.004.jpg"/>
+
+Your Majesty's good brother</p>
+
+<p>(M.R.) Kalakana Rex</p>
+
+<p>(Countersigned) Walter M. Gibson</p>
+
+<p>Iolani Palace, Honolulu 9th March 1886</p>
+
+<fw type="footer">To His Majesty Leopold II 
+Brussels.</fw>
+
+</div1>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="teaa.fr.letter.0329.001.jpg"/>
+
+<p>Brussels, April 16th 1886.</p>
+    
+<p>Mr. General Consul,</p>
+    
+<p>I have the honor 
+to accuse you with reception
+of your letter from the 14th
+by which you sent
+to me the response
+of <unclear extent="acronym"/> King of Hawaii
+at the notification of the
+King as Sovereign of
+the Independent State of the
+Congo. I understood
+to send this
+response to its high
+destination.</p>
+    
+<p>I equally
+received the response at my
+notification.</p>
+    
+<p>Please accept,
+the most distinguished.<lb/>
+<unclear extent="signature"/></p>
+    
+<fw type="footer">Mr. Victor Forge
+General Consul
+of the Kingdom of Hawaii,
+Anvers.</fw>
+
+<pb facs="teaa.fr.letter.0329.002.jpg"/>
+
+<p>General Consulate
+of the Kingdom of Hawaii
+in Belgium.</p>
+    
+<p>Antwerp, April 14th 1886.</p>
+    
+<p>Mister Administrator General,</p>
+    
+<p>Informing me on the orders of my government
+I have the honor to return to you a <unclear extent="one word"/> that His Excellency
+Mister Walker M. Gibson Minister of Foreign
+Affairs of Hawaii charged me with sending to you
+and which encloses, as well as the copy of usage, a letter
+written by His Hawaiian Majesty to His 
+Majesty Léopold II, on the subject of his accession
+as Sovereign of the State independent of the Congo.</p>
+    
+<p>I <unclear extent="one word"/> you to accept, Mister General
+Administrator, the assurance of my most high consideration</p>
+    
+<p>The general consul<lb/>
+Victor Forge</p>
+    
+<fw type="footer">Mr. Edmond Van Eetvelde
+General Administrator of the
+Independent State of the Congo
+in Brussels.</fw>
+
+</div1>
+</body>
+</text>
+
+</TEI>
