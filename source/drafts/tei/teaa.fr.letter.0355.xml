@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0355">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.fr.letter.0355</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Ministère des Affaires étrangères, Brussels, Belgium</repository>
+<collection>Archives Africaines</collection>
+<idno>Portefeuille 331, Liasse 488</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>
+
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>French</term>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-02-13" who="kln">renamed file, inserted correct header template</change>
+<change when="2017" who="kcd">Transcribed.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="teaa.fr.letter.0355.001.jpg"/>
+
+<p>Legation of the United States of America</p>
+    
+<p>Brussels 4 February 1888</p>
+
+<p>Sir:</p>
+    
+<p>I have the honor to acknowledge
+the reception of your esteemed note of the
+28th ultimo which I have read with
+interest.</p>
+    
+<p>You therein confirm what I supposed
+would be the case, that your Government
+and mine, are in entire accord on the
+point that the General act of the Berlin <fw type="catch">Conference</fw>
+    
+<fw type="footer">Mr. Edmund Van Eetvelde
+Administrateur General of the
+Department of Foreign Affairs
+etc. etc. etc</fw>
+    
+<pb facs="teaa.fr.letter.0355.002.jpg"/>
+    
+Conference opens to the flags of all
+nationalities without distinction, free
+access to the navigation of the Congo
+and its affluents, whether parties to 
+the Convention or not.</p>
+    
+<p>We equally agree on the general 
+principle that the enforcement by the
+State through which a free river flows, 
+of police regulations, with a view to the
+preservation of public order and the
+protection of pubic health, within its
+territories, is not inconsistent with the
+enjoyment of the free use of the river for 
+the purposes of navigation, trade and
+commerce. I am not able to see <fw type="catch">however</fw>
+ 
+
+however that the demand on the part 
+of such State that foreign vessels traversing
+free waters, shall display the flag of
+the State, or that the authorities of the 
+State may properly exercise the right
+of deciding upon the sufficiency of the
+papers on board establishing the vessels'
+nationality, as a pre-requisite to her
+flying another flag than that of the
+riparian State, is in any sense, a police
+regulation. If this demand is founded
+on law, the principle in this instance, 
+must be sought for discretion than in
+the right to make and enforce police
+regulations.</p> <fw type="catch">Nor</fw>
+ 
+<pb facs="teaa.fr.letter.0355.003.jpg"/>
+ 
+<p>Nor am I prepared to admit,
+while fully recognizing the benevolent
+and kindly motives which activate
+the authorities of the State, that the
+freedom of navigation of the water of 
+the Congo, is assured, when the undisturbed
+enjoyment of this right can
+be obtained for foreign vessels, only
+on the condition of flying the flag
+recognized or respected by the people
+of the riparian State. It is possible
+that such vessels might be more free 
+from danger, but if they are obliged,
+for any reason, to conceal their own
+flag or hoist the colours of the
+ 
+ 
+riparian State as a condition to the
+navigation of these waters, dedicated to
+the free commerce of the world, it is
+evident that the navigation would not
+be free in point of fact, no matter
+whether all nations without distinction
+were subjected to the same terms.</p>
+ 
+<p>It is quite true that is happens
+every day that foreign vessels hoist at the
+foremast, as a matter of courtesy, the flag
+of the nation whose ports they are entering
+or departing from, but I believe it will
+clearly be seriously contended that the
+extension of a courtesy, for however long
+a period it may have been practiced <fw type="catch">constitutes</fw>
+ 
+<pb facs="teaa.fr.letter.0355.004.jpg"/>
+ 
+constitutes a sufficient basis for the
+assertion of an absolute right.</p>
+ 
+<p>So far as the question of law is
+concerned, it being conceded that the
+Congo river and its affluents are free
+waters, and open to the commerce
+of the world without distinction of flag,
+it seems to me it must inevitably
+follow, that wherever a vessel may
+go, she may carry the flag of the
+nationality of which her owners are
+citizens, and that she is not bound
+to carry any other flag. Indeed,
+as a general rule, the display of the
+flags of two different nations on the <fw type="catch">same</fw>
+ 
+
+ 
+same vessel, renders her liable to
+suspicion, and even puts in doubt her
+nationality. This principle is not
+in conflict with municipal laws requiring
+the display of quarantine flags, pilot
+ensigns etc, which do not claim to be
+flags of nationality.</p>
+
+<p>I regret that I am not able
+to concur with you, on the question raised
+as to the right of your Government to 
+determine upon the sufficiency of the
+papers on board of a vessel, to establish
+its nationality.</p>
+ 
+<p>There could be no better illustration
+of the danger of the exercise <fw type="catch">of</fw>
+ 
+<pb facs="teaa.fr.letter.0355.005.jpg"/>
+ 
+of such power by the authorities of
+one state of the vessels of another,
+than that which is furnished in your 
+own communication, to which I am
+now having the honor to respond.</p>
+ 
+<p>You have therein kindly
+called my attention to Section 226 
+of the Consular Regulations of the
+United States of 1874, as evidence
+that only vessels registered at a Custom
+House may carry the American flag.</p>
+ 
+<p>It is quite natural for foreigners
+to fall into ever in construing the
+meaning and effect of the local 
+regulations of another country, because
+they cannot be expected to be familiar <fw type="catch">with</fw>
+ 
+
+ 
+with the history of such regulations, the
+circumstances which precede their adoption,
+or the purposes to be subserved
+in controlling or directing the agents
+of the Government.</p>
+ 
+<p>Without entering into any explanation
+at length, of the section of the Consular
+regulation to which you have referenced,
+I present to you at once, the best evidence
+possible that you have misapprehended
+the section you have quoted. Intended 
+as it was, chiefly, to put a stop to the
+practice which had grown up with 
+our Consuls, of issuing certificates of
+ownership to vessels - a practice <fw type="catch">clearly</fw>
+
+
+
+<pb facs="teaa.fr.letter.0355.006.jpg"/>
+ 
+clearly unauthorized by law.</p>
+ 
+<p>That you have misapprehended
+its scope, you will readily see from
+the terms of sections 338 and 339, to
+be found in the Consular Regulations
+of the United States of 1881 at page 54.</p>
+
+<p>The sections referenced to, read as
+follows:</p>
+ 
+<p>Section 338. "The right of
+American citizens to acquire property
+in foreign ships has been held to be
+a natural right, independent of
+Statutory law, and such property is
+no more nor less entitled to protection
+by the United States, than any other
+property of an American citizen."</p>
+ 
+
+ 
+<p>Section 339. "The existing
+General Regulations of the Treasury
+Department, under customs and
+navigation laws (Customs Regulations
+of 1874) recognize the right of property
+in vessels of this character, and declare
+them to be entitled to the protection of
+the authorities and to the flag of the
+United States, although no register
+enrollment, license or other marine
+document prescribed by the laws of 
+the United States can lawfully be
+issued to such vessels whether they
+are American or foreign built.</p>
+
+<p>The former practice of issuing <fw type="catch">Sea-letters</fw>
+ 
+<pb facs="teaa.fr.letter.0355.007.jpg"/>
+ 
+Sea-letters in the case of the purchase
+abroad of American or foreign vessels
+by citizens of the United States, is no
+longer authorized and will not be
+permitted."</p>
+ 
+<p>I have already explained
+in my communication of the 9th ultimo
+that America vessels may be either
+registered or unregistered.</p>
+ 
+<p>A registered vessel is one which is
+built in the United States and wholly
+owned by citizens thereof.</p>
+ 
+<p>An unregistered vessel is one not
+built in the United States but wholly
+owned by citizens thereof. <fw type="catch">While</fw>
+ 
+
+
+While registered vessels, with the view of
+encouraging ship building, are entitled
+to certain privileges and exemptions not
+extended to unregistered vessels, both are
+nevertheless entitled to carry the American 
+flag, and to claim the protection of
+the Government.</p>
+ 
+<p>The registration of vessels is
+a matter of local or municipal
+regulation, differing in different countries.
+I am not aware of any rules of international 
+law which required a ship to have a 
+register, or any other document expressive
+of her national character.She may
+plough the sea and other free waters, <fw type="catch">of</fw>
+
+<pb facs="teaa.fr.letter.0355.008.jpg"/>
+ 
+of the world, without the possession of
+any such papers, and cannot be
+lawfully disturbed, so long as she
+is engaged in peaceful pursuits, and
+molests no one. The flag which 
+she carries is the symbol of her
+nationality, and it is prima facie
+evidence to the world of the national character of 
+her owners, just as a register, sea letter
+or other document is. True ownership 
+of a vessel is a matter in pais, to 
+be proved like any other fact. It
+may be shown by a bill of sale, the
+ordinary instrument used for the
+purpose of transferring property in <fw type="catch">a</fw>
+ 
+
+
+a ship, or in the absence of a bill
+of sale, it may be shown by parol
+testimony.</p>
+ 
+<p>On the other hand, as a national
+flag is prima facie evidence in free
+waters, that the nationality of the ship
+carrying it, corresponds to that of the
+flag. So under well established principles
+of law, if a vessel is navigation under
+the flag of a foreign country, she is to
+be considered as bearing the National
+Character of the Counter under whose
+flag she sails. She makes a 
+part of its navigation, and is in
+every respect liable to be considered <fw type="catch">as</fw>
+ 
+<pb facs="teaa.fr.letter.0355.009.jpg"/>
+ 
+as a vessel of the country.</p>
+ 
+<p>Thus it is apparent under the
+rules of law, that if the decree of the
+30th of April requiring vessels to hoist 
+the flag of the Congo State is enforced,
+it invests the authorities of the State
+with the power of making a prima
+facie transfer of foreign vessels,
+without the consent of the owners, to
+the Marine of the Congo State. I 
+am not able to find any warrant
+in the law for the exercise of such
+a power by the State.</p>
+ 
+<p>While my Government watches
+with the deepest interest and sympathy <fw type="catch">the</fw>
+ 
+
+the progress which is being steadily made,
+by the royal and illustrious founder of
+the Independent State of the Congo,
+in giving to that land, the blessings
+of Civilized Government, and fully
+appreciates that the Government which
+he guides, has the loftiest purposes in
+view, and fosters no aims, which are 
+not conceived with the intention of
+advancing the highest ends of Good
+Government, it yet esteems it a duty,
+that it should not, by its silence,
+sum to accent to a proposal, to
+inflict a fine on an American vessel,
+which fails to hoist a foreign flag <fw type="catch">on</fw>
+ 
+<pb facs="teaa.fr.letter.0355.010.jpg"/>
+
+on waters, which without distinction,
+are free to the flags of the world.</p>
+ 
+<p>I avail myself of the 
+opportunity to renew to you Sir,
+the assurances of my most distinguished consideration</p>
+ 
+<p>Lambert Tree</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

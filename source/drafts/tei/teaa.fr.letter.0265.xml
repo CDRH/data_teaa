@@ -6,11 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter to the Minister of Colonies, February 6, 1911</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Brown, Sophie A." xml:id="sab"></name>
+<name n="Akyeampong, Chelsea A." xml:id="caa"></name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter to the Minister of Colonies</title>
+<date when="1911-02-06">February 6, 1911</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,12 +75,18 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Henri</term>
+<term>Minister of Colonies</term>
+<term>Reverend Clark</term>
+<term>Reverend Morrison</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Belgian Congo</term>
+<term>Brussels</term>
+<term>Congo</term>
+<term>Washington</term>
 </keywords>
     
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -99,15 +107,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName>Brussels, Belgium</placeName>
+<date when="1911-02-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Minister of Colonies</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -115,6 +123,8 @@
 
 <revisionDesc>
 <change when="2019-01-11" who="kln">named file, inserted correct header template</change>
+<change when="2019" who="CAA">transcribed and translated.</change>
+<change when="2019" who="sab">encoded.</change>
 </revisionDesc>
 </teiHeader>
 

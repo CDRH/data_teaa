@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from the Vice Governor General to the Secretary of State, November 23, 1907</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
@@ -43,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from the Vice Governor General to the Secretary of State</title>
+<date when="1907-11-23">November 23, 1907</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,22 +75,35 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Detry</term>
+<term>Dodds</term>
+<term>Everaert</term>
+<term>Hutereau</term>
+<term>Smith</term>
+<term>Speck</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Bangala</term>
+<term>Bayenge</term>
+<term>Dobo</term>
+<term>Gali</term>
+<term>Lisala</term>
+<term>Mongala</term>
+<term>New Antwerp</term>
+<term>Saint Germain</term>
+<term>Stanleyville</term>
+<term>Upoto</term>
+<term>Yambata</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
 
 <keywords scheme="original" n="religion">
-<term/>
+<term>Baptist</term>
 </keywords>
 
 <keywords scheme="original" n="language">
@@ -101,15 +114,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName>Vice Governor General</roleName>
+<placeName>Boma</placeName>
+<date when="1907-11-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Secretary of State</roleName>
+<placeName>Brussels</placeName>
 </correspAction>
 </correspDesc>
 
@@ -117,7 +130,7 @@
 
 <revisionDesc>
 <change when="2019-02-12" who="kln">renamed file, inserted correct header template</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
 <change when="2017" who="kcd">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
