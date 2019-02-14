@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from Samuel D. Williams to Edmond Van Eetvelde, May 4, 1898</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from Samuel D. Williams to Edmond Van Eetvelde</title>
+<date when="1898-05-04">May 4, 1898</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,15 +74,13 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Newport</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -99,15 +98,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Williams, Samuel D.</persName>
+<roleName/>
+<placeName/>
+<date when="1898-05-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Van Eetvelde, Edmond</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Boma</placeName>
 </correspAction>
 </correspDesc>
 
@@ -115,6 +114,7 @@
 
 <revisionDesc>
 <change when="2019-02-13" who="kln">named file, encoded header</change>
+<change when="2019" who="pr">transcribed and encoded header information</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,7 +126,46 @@
 
 <pb facs="teaa.fr.letter.0341.001.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>4th May 1898
+His Excellency
+M. Van Etvelde
+Secretary of State
+Boma.</p>
+
+<p>Sir:-
+As I understand your Government have no Consular Represent-
+ative resident at this Port I beg leave respectfully to make
+application as a Candidate for the Post.</p>
+
+<p>I have resided in Newport for the last 27 years during the past
+20 of which I have ocupied the position of Secretary to the 
+Newport Chamber of Commerce Incorporated to which I was elected
+by the whole town in public Competition with many other Candidates.</p>
+
+<p>I am not otherwise engaged in trade here either as a Shipowner
+or Shipbroker having no interest whatever in either of those direc
+tions. I am thoroughly well acquainted with all the requirements
+of Consular work and my Status in the Port would enable me to fulfill
+the duties of the offices, if favoured with the appointment in a
+manner quite consistent with the dignity and independence requisite
+in such a post. As affording some idea of my thorough acquaintance
+with Commercial matters I herewith send by same post a copy of my 
+last Annual Chamber of Commerce Report.</p>
+
+<p>If my application is entertained I am in a position to submit
+references of the highest possible standing from all the leading
+Members of this Town and District Representative of the Nobility,
+Mayoralty, Magistracy, Trade, Commerce, and General Industry and which
+would shew that I enjoy the confidence of every section of this
+Community.</p>
+
+<p>I shall be pleased to hear from you in response hereto at your
+convenience,
+Meantime, I remain
+Sir
+Your Excellency's
+Obedient Servant
+Samuel D. Williams</p>
 
 </div1>
 </body>

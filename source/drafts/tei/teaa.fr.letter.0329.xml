@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from __ to Victor Forge, Consul General, April 16, 1886</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
@@ -43,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from ___ to Victor Forge, Consul General</title>
+<date when="1886-04-16">April 16, 1886</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -76,15 +76,16 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Gibson, Walker M.</term>
+<term>King Leopold II</term>
+<term>Rex, Kalakana</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+<term>Hawaii</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -102,15 +103,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName></roleName>
+<placeName>Brussels</placeName>
+<date when="1886-04-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Forge, Victor</persName>
+<roleName>Consul General</roleName>
+<placeName>Antwerp</placeName>
 </correspAction>
 </correspDesc>
 
@@ -118,7 +119,7 @@
 
 <revisionDesc>
 <change when="2019-02-13" who="kln">renamed file, inserted correct header template</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
 <change when="2017" who="kcd">Transcribed.</change>
 </revisionDesc>
 </teiHeader>

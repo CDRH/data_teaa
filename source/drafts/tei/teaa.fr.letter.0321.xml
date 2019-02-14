@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from Henri de Merode-Westerloo to Edouard de Grelle-Rogier, April 30, 1893</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
@@ -43,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from Henri de Merode-Westerloo to Edouard Degrelle-Rogier</title>
+<date when="1893-04-30">April 30, 1893</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,18 +75,23 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Allard</term>
+<term>Kasson</term>
+<term>Lambermont</term>
+<term>Leghait</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Belgium</term>
+<term>Chicago</term>
+<term>Congo Free State</term>
+<term>Washington</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>African</term>
+<term>Belgian</term>
 </keywords>
 
 <keywords scheme="original" n="religion">
@@ -101,15 +106,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>de Merode-Westerloo, Henri</persName>
+<roleName/>
+<placeName>Brussels</placeName>
+<date when="1893-04-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>de Grelle-Rogier, Edouard</persName>
+<roleName>Count</roleName>
+<placeName>Brussels</placeName>
 </correspAction>
 </correspDesc>
 
@@ -117,7 +122,7 @@
 
 <revisionDesc>
 <change when="2019-02-12" who="kln">renamed file, inserted correct header template</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2018" who="pr">Transcribed, translated, and encoded header information.</change>
 <change when="2017" who="kcd">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
@@ -130,7 +135,33 @@
 
 <pb facs="teaa.fr.letter.0321.001.jpg"/>
 
-<!-- NEEDS TO BE TRANSCRIBED -->
+<p>Ministère
+des
+Affaires Etrangères
+Cabinet. I
+1 Annexe
+Bruxelles, le 30 Avril 1893</p>
+
+<p>Monsieur le Comte,
+A la suite de la communication que vous lui
+avez adressée le 18 Août dernier, au sujet du Congrès
+d'Ethnologie africaine qui se réunira à Chicago pendant
+l'Exposition Universelle, mon honorable prédécesseur n'a pas
+manqué de faire connaître à notre Ministre à Washington
+que l'invitation d'assister au Congrès ayant été adressée au
+Roi- Souverain sous forme de circulaire imprimée, le
+Gouvernement de l'Etat Indépendant du Congo
+estimait qu'il n'y avait pas lieu de donner suite à une
+demande qui ne lui était point parvenue d'une façon
+régulière.</p>
+
+<p>Depuis <unclear/> Leghait est revenu sur cette
+affaire dans des lettres particulières adressées au Baron
+Lambermont dont les passages suivants sont extraits:</p>
+
+<p>Monsieur le Comte de Grelle-Rogier,
+<unclear/>
+Bruxelles</p>
 
 <pb facs="teaa.fr.letter.0321.002.jpg"/>
 
@@ -247,7 +278,33 @@ Chairman</p>
 
 <pb facs="teaa.fr.letter.0321.001.jpg"/>
 
-<!-- NEEDS TO BE TRANSLATED -->
+<p>Ministry
+of
+Foreign Affairs
+Cabinet. I
+1 Annex
+Brussels, April 30 1893</p>
+
+<p>Mister Count,
+Following the communication that you had addressed
+to him last August 18th, on the subject of the Congress
+of African Ethnology that will meet in Chicago during
+the Universal Exposition, my honorable predecessor did not
+fail to inform our minister in Washington
+that the invitation to attend the Congress having been addressed to the
+Sovereign King under form of printed memorandum, the
+Government of the Congo Free State
+estimates that there was not place to follow up on a
+demand that was not sent to it at all in a regular
+fashion.</p>
+
+<p>Since <unclear/> Leghait returned on this
+affair in the letters particularly adressed to the Baron
+Lambermont from which the following passages are pulled:</p>
+
+<p>Mister Count of Grelle-Rogier,
+<unclear/>
+Brussels</p>
 
 <pb facs="teaa.fr.letter.0321.002.jpg"/>
 

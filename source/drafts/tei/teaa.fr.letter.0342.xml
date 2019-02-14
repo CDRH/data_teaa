@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from ___ to Elmendorf Rothery, February 20, 1892</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from __ to Elmendorf Rothery</title>
+<date when="1892-02-20">February 20, 1892</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -74,18 +75,21 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Rothery, William Elmendorf</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Belgium</term>
+<term>Congo Free State</term>
+<term>Libria</term>
+<term>New York</term>
+<term>Philadelphia</term>
+<term>United States</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>American</term>
 </keywords>
 
 <keywords scheme="original" n="religion">
@@ -100,15 +104,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName>Brussels</placeName>
+<date when="1892-02-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Rothery, Elmendorf</persName>
+<roleName/>
+<placeName>Philadelphia</placeName>
 </correspAction>
 </correspDesc>
 
@@ -116,6 +120,7 @@
 
 <revisionDesc>
 <change when="2019-02-13" who="kln">named file, encoded header</change>
+<change when="2019" who="pr">transcribed and encoded header information</change>
 </revisionDesc>
 </teiHeader>
 
@@ -127,7 +132,32 @@
 
 <pb facs="teaa.fr.letter.0342.001.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>Bruxelles, le 20 Fevrier, 1892
+à Philadelphie</p>
+
+<p>Monsieur,
+J'ai bien recu la
+lettre par laquelle vous vous
+offrez pour représenter l'Etat
+à Philadelphie.</p>
+
+<p>Je vous remercie beaucoup
+du concours que vous voulez bien
+vous assurer et je regrette que
+le Gouvernement ne soit pas en
+mesure d'en profiter: jusqu'à
+présent, en effet, l'établissement
+d'un consulat à Philadelphie
+n'a pas encore été <unclear/> et le
+choix du candidat est subordonné
+à la question d'opportunité.</p>
+
+<p>Je tiens note, toutefois,
+de vos offres obligeantes en dernier
+et vous prie d'agréer </p>
+
+<p>M. Elmendorf Rothery,
+Philadelphie</p>
 
 </div1>
 
@@ -135,7 +165,33 @@
 
 <pb facs="teaa.fr.letter.0342.002.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>Rothery, Randolph and Co.,
+Exporters and Importers,
+ 149 So. Front Street,
+Philadelphia, USA
+Liberian Consulate.</p>
+
+<p>Sir:
+We respectfully make application for the appointment of Mr. William
+Elmendorf Rothery, the senior member of our firm, to the position of
+representative of the Congo Free State in the United States, if you deem
+it advisable to make such an appointment at this time and it would not
+interfere with the representation of the Belgium Government already es-
+tablished here.</p>
+
+<p>Mr. Rothery has been representing the Republic of Liberia in this
+city since 1888. He was born of American parents, in the city of New
+York, is forty years of age and has been established in business in this
+city for the past fifteen years.</p>
+
+<p>Should your Government find it advisable to grant our request we
+are positive the appointment would give entire satisfaction.
+Very respectfully yours,
+Rothery, Randolph and Co.</p>
+
+<p>To His Excellency
+The Minister of Foreign Affairs, Congo Free State,
+Brussels, Belgium</p>
 
 </div1>
 
