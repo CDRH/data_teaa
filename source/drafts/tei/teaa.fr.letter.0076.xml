@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from the Chif of Administrative Service and President of the Committee Commerce to _____, March 11, 1840</title>
+<title>Letter from the Chief of Administrative Service and President of the Committee Commerce, March 11, 1840</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
@@ -43,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from the Chif of Administrative Service and President of the Committee Commerce to _____</title>
+<title level="m">Letter from the Chief of Administrative Service and President of the Committee Commerce</title>
 <date when="1840-03-11">March 11, 1840</date>
 </bibl>
 <msDesc>
@@ -111,11 +111,27 @@
 </classCode>-->
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName/>
+<roleName>Chief of Administrative Service and President of the Committee Commerce</roleName>
+<placeName>Gorée Port</placeName>
+<date when="1840-03-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName/>
+<placeName/>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="nn">Transcribed.</change>
+<change when="2018" who="par">Translated.</change>
+<change when="2018" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 

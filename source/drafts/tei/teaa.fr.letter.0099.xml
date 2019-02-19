@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from ___ to ___, October 9, 1867</title>
+<title>Letter from W. Hoffman, October 9, 1867</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -107,7 +108,7 @@
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName/>
+<persName>W. Hoffman</persName>
 <roleName/>
 <placeName>Paris</placeName>
 <date when="1867-10-09"/>
@@ -124,12 +125,57 @@
 <revisionDesc>
 <change when="2017" who="nn">Transcribed.</change>
 <change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2019" who="sab">Edited encoding, added english translation from teaa.fr.letter.0100 file.</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="20160614_100111.jpg"/>
+
+<ab>
+Traduction
+</ab>
+
+<ab>
+Legation des Etats-Unis
+</ab>
+
+<ab>
+Paris 9 Octobre 1867.
+</ab>
+
+<p>
+Monsieur, j'ai l'honneur d'informer V.E. <!-- 'V.E.' is an acronym for 'Votre Excellence -->
+que j'ai reçu de mon Gouverner une réponse
+à <del>ma</del> communication <del><unclear/> <unclear/> <unclear/> <unclear/></del> <add>contenant</add>
+<add>la traduction</add> d'une note de l'Amiral Fleuriot de Langle relation à
+<unclear/> <unclear/> <unclear>actuélées</unclear> par M. Perrot, l'agent
+commercial des Etats Unis au Gabon.
+</p>
+
+<p>
+M. Seward me charge d'informer V.E.
+que quelque <del><unclear/></del> <add><unclear/> être</add> l'état des choses du Gabon, il en
+arrivé à cette conclusion que les plaintes de M. Perrot
+contre les procédés des Agents français résidant dans ce pays
+sont complètement insupportables. M. Seward
+<unclear/> que je vous exprime son regret d'avoir
+être amené <del><unclear/> quelque <unclear/></del> à manifester les
+craintes que vous avez si <unclear/> et si
+franchement <del>déjà <unclear/></del> <unclear/>.
+</p>
+
+<ab>
+W. Hoffmann
+chargé d'affaires par intériur
+</ab>
+
+</div1>
 
 <div1 xml:lang="en" type="document">
 
