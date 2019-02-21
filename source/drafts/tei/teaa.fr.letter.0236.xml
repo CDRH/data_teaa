@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea Animwaa Akyeampong</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -73,12 +74,13 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Governor of Congo</term>
+<term>Wiechert, Helms P.</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Liberia</term>
 </keywords>
 
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -115,6 +117,7 @@
 
 <revisionDesc>
 <change when="2019-02" who="CAA">translated and encoded</change>
+<change when="2019" who="sab">Encoded</change>
 </revisionDesc>
 </teiHeader>
 

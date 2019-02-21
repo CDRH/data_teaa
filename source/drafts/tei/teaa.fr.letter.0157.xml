@@ -114,7 +114,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160613_140147.jpg"/>
 
@@ -151,7 +151,46 @@ TALON
 </ab>
 
 </div1>
-</body>
-</text>
 
+
+<div1 xml:lang="en" type="translation">
+                
+                <pb facs="20160613_140147.jpg"/>
+                
+                <ab>
+                    13-06-2016
+                    12:23
+                </ab>
+                
+                <ab>
+                    Place:  32
+                </ab>
+                
+                <ab>
+                    Reader: 40399
+                </ab>
+                
+                <ab>
+                    Ministerial collection
+                    Geographic series
+                    SOUD/VI/
+                    1
+                </ab>
+                
+                <ab>
+                    internal documents
+                </ab>
+                
+                <ab>
+                    STUB
+                </ab>
+                
+                <ab>
+                    00004964071
+                </ab>
+                
+            </div1>
+        </body>
+    </text>
+    
 </TEI>

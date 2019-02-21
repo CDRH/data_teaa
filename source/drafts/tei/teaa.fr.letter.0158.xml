@@ -114,7 +114,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160613_140317.jpg"/>
 
@@ -130,7 +130,24 @@ VI
 </ab>
 
 </div1>
-</body>
-</text>
 
+<div1 xml:lang="en" type="translation">
+                
+                <pb facs="20160613_140317.jpg"/>
+                
+                <ab>
+                    National Archives
+                    Overseas Section
+                </ab>
+                
+                <ab>
+                    SUDAN
+                    VI
+                    1
+                </ab>
+                
+            </div1>
+        </body>
+    </text>
+    
 </TEI>

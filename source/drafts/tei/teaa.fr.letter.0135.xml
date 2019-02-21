@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from ___ to ___, November 10, 1899</title>
+<title>Unknown Letter, November 10, 1899</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -113,7 +113,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160615_103223.jpg"/>
 
@@ -152,7 +152,49 @@ Affaires d'Amérique ./.
 </note>
 
 </div1>
+
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160615_103223.jpg"/>
+
+<ab>
+Communication of Mr Cambou
+touching the negroes in the United States
+and their situation more and more
+worsening./
+</ab>
+
+<ab>
+COLONIES
+NOV. 10 1899
+SECRETARIAT <!-- This section is stamped -->
+</ab>
+
+<p>
+Prayer to speak
+of this affair to the Minister
+</p>
+
+<p>
+A copy of this note was
+returned to Mr. Director of the
+Affairs of America ./.
+</p>
+
+<note>
+<unclear/> <unclear>de</unclear> <unclear/> <unclear/>
+<unclear>de</unclear> <unclear/>
+<unclear/>
+</note>
+
+<note>
+1
+</note>
+
+</div1>
 </body>
 </text>
 
 </TEI>
+

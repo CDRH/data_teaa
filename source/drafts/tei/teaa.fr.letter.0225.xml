@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from __ to Knight of Guvelier, Secretary General of Foreign Affairs, November 25, 1904</title>
+<title>Letter to the Knight of Cuvelier, Secretary General of Foreign Affairs, November 25, 1904</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from __ to Knight of Guvelier, Secretary General of Foreign Affairs</title>
+<title level="m">Letter to the Knight of Cuvelier, Secretary General of Foreign Affairs</title>
 <date when="1904-11-25">November 25, 1904</date>
 </bibl>
 <msDesc>
@@ -75,6 +76,7 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
+<term>Knight of Cuvelier</term>
 <term>Loomis</term>
 <term>May</term>
 </keywords>
@@ -111,7 +113,7 @@
 </correspAction>
 <correspAction type="deliveredTo">
 <persName/>
-<roleName>Knight of Guvelier, Secretary General of Foreign Affairs</roleName>
+<roleName>Knight of Cuvelier, Secretary General of Foreign Affairs</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
@@ -121,6 +123,7 @@
 <revisionDesc>
 <change when="2019-01-24" who="kln">named file, inserted correct header template</change>
 <change when="2019" who="pr">transcribed, translated, and encoded header information</change>
+<change when="2019" who="sab">Edited encoding.</change>
 </revisionDesc>
 </teiHeader>
 
