@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Unknown Letter</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -41,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Unknown Letter</title>
+<date when="1890-07-07">July 7, 1890</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,18 +74,28 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Cuvelier</term>
+<term>de Grelle Rogier</term>
+<term>Grothers</term>
+<term>Leghait, Alfred</term>
+<term>Lionel</term>
+<term>Mali, Charles</term>
+<term>Renlaux, Jules</term>
+<term>Van Eetvelde, Edmond</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Belgium</term>
+<term>Brussels</term>
+<term>Congo</term>
+<term>New York</term>
+<term>United States</term>
+<term>Washington</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Belgian</term>
 </keywords>
 
 <keywords scheme="original" n="religion">
@@ -99,15 +110,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName>Brussels</placeName>
+<date when="1890-07-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName/>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -115,6 +126,7 @@
 
 <revisionDesc>
 <change when="2019-02-13" who="kln">named file, encoded header</change>
+<change when="2019" who="pr">transcribed, translated, and encoded header information</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,39 +138,230 @@
 
 <pb facs="teaa.fr.letter.0346.001.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>Bruxelles, le 7 Juillet 1890
+New York</p>
+
+<p>Monsieur,
+J'ai recu, par l'<unclear/>
+de M. Leghait, la <unclear/>
+en date du
+14 Juin dernier par laquelle
+vous priez notre <unclear/>
+au poste de Consul General
+de l'Etat Independant du Congo.
+je vous <unclear/> la lettre
+que vous voulez bien me
+faire de vos sevices et je
+regrette <unclear/>
+ne sont pas en mesure
+d'en profiter. Il n'y a pas eu,
+jusqu'à présent, de
+former sur le question
+de l'établissement d'un consulat
+à New York, et ce n'est 
+qu'après que l'opportunité
+en aura été révisée, que
+se <unclear/> l'<unclear/> d'une
+condidature.
+<unclear/></p>
 
 <pb facs="teaa.fr.letter.0346.002.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>Anvers, le 21 decembre 1891</p>
+
+<p>Monsieur,
+Ayant appris que Monsieur
+<unclear>Lionel</unclear> <unclear/> notre concitoyens, établie
+à New York a pose sa candidature au
+poste de Consul de l'Etat du Congo à
+New York, candidature qui a été appuyée
+par Monsieur Alfred Le Ghait, Ministre
+Plénipotenciaire de Belgique à Washington
+ainsi que par Messieurs Charles Mali, con-
+sul, et Jules Renlaux, conul General à
+New York, je me permets à mon tour de la
+recommander à votre bienveillance attention</p>
+
+<p>Dans le cas ou votre Gouvernement
+désirerait être représenté officiellement aux
+Etats Unis, je suis persuadé que Monsieur</p>
+
+<p>Monsieur le Comte <unclear/> de Grelle Rogier
+Secrétaire d'Etat des Affaires Etrangeres
+de l'Etat Independant du Congo
+Bruxelles.</p>
 
 <pb facs="teaa.fr.letter.0346.003.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>Monsieur <unclear>Hongenaers</unclear> est à meme de
+remplir dignement la mission qui lui sera
+confiée et pourra rendre des services apprécia-
+bles à votre Gouvernement.</p>
+
+<p>Agreez, Monsieur, l'assurance de
+ma haute consideration.
+Le Bourgmestre,
+Leopold <unclear/></p>
 
 <pb facs="teaa.fr.letter.0346.004.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>Anvers, 20 decembre 1889</p>
+
+<p>Cher Monsieur,
+Je me permets d'<unclear/>
+traduire près de vous, mon ami
+Monsieur Lionel <unclear/>,
+de la masion Herbs Grothers
+de New York, qui vous expli-
+quera lui meme le but de
+la visite.</p>
+
+<p>Veuillez agreer, cher Monsieur,
+l'expression de mes meilleurs
+sentiments.
+Armand <unclear/></p>
+
+<p>A Monsieur Van Eetvelde
+Directeur General du departe-
+ment des Affaires Etrangeres du
+Congo.
+Bruxelles.</p>
 
 <pb facs="teaa.fr.letter.0346.005.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>Legation de Belgique
+Washington, 22 Juin 90</p>
+
+<p>Mon Cher Monsieur Van Eetvelde,
+Je vous transmets, à
+tout événement la
+requête ci jointe de M.
+<unclear/> qui m'a
+été reconnaitré par
+M. Mali notre consul à
+New York.</p>
+
+<p>Veuillez agreer l'assurance
+de mes meilleurs sentiments
+<unclear/></p>
 
 <pb facs="teaa.fr.letter.0346.006.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>New York le 14 Juin 1890</p>
+
+<p>A Monsieur Van Eetvelde.
+Administrateur General au departement
+des Affaires Etrangeres et de la Justice de
+l'Etat Independant du Congo
+à Bruxelles.</p>
+
+<p>Monsieur,
+Comme suite à la visite que 
+j'ai eu l'honneur de vous faire
+et d'accord avec les suggestions
+de Monsieur Cuvelier qui m'a
+recu en votre absence, je prends
+la liberté de poser ma candida-
+ture au Consulat General de
+l'Etat Independant du Congo
+a New York.</p>
+
+<p>Le Gouvernment n'ayant
+peut-être pas encore eu l'occasion
+de considérer l'opportunité, ni
+la nécessité de la création
+d'agences consulaires, je me
+permets d'appeler votre
+attention sur l'utilité qu'elles <unclear/></p>
+
+<p>Monsieur Van Eetvelde</p>
 
 <pb facs="teaa.fr.letter.0346.007.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>peuvent avoir en general, et plus
+spécialement dans les grands
+centres financiers et commerciaux
+comme les Etats Unis d'Amerique
+qui, comme vous le savez man-
+quent totalement des matières
+premiéres formant la principale
+richesse du bassin du Congo.</p>
+
+<p>Belge de naissance, admirateur
+sincère de l'<unclear/> de La Magesté
+le Roi, en Afrique, et associé dans
+une masion de commerce, établie
+sur cette place depuis de longues
+années, je me plais à croire qui
+par mon dévouement personnel
+à l'oeuvre, par mon influence
+dans les cercles financiers, ainsi
+que par ma familiarité avec
+toutes les questions commerciales
+politiques et eéconomiques du pays.
+Je pourrais contribuer puissammant
+non seulement au succès des
+entreprises de l'Etat, mais aussi
+à l'augmentation constante de
+ses débouchés, dont la nécessité
+ne peut guère manquer de le faire
+sentir dans un avenir peu eloignée</p>
+
+<p>A Monsieur Van Eetvelde</p>
 
 <pb facs="teaa.fr.letter.0346.008.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>La présente requête vous sera <unclear/>-
+mise par son Excellence Monsieur
+Alfred le Ghait, Envoyé Extraordinaire
+et Ministre Plenipotentiaire de S.M.
+le Roi des Belges près les Etats Unis
+d'Amerique, à qui j'ai eu l'honneur
+d'être présenté par Monsieur C.
+Mali, Consul de Belgique a New
+York, et qui lui-meme a eu l-obli-
+geance d'examiner ma position
+personelle dans cette ville.</p>
+
+<p>Son Excellence m'a promis d'ap-
+puyer ma candidature, et j'ose
+esperer que son intervention sera
+un titre de plus a votre bien-
+veillante consideration.</p>
+
+<p>Permettez moi de vous
+assurer de mon vif désir de
+mettre au service de mes com-
+patriotes, les avantages que
+me donne ma position com-
+merciale dans ce pays, l'honneur
+d'être chargé des entérêts de
+votre Gouvernement, étant la
+seule et l'ample récompense
+qui j'ambitionne, pour les
+efforts que je ferai toujours pour</p>
+
+<p>A Monsieur Van Eetvelde.</p>
 
 <pb facs="teaa.fr.letter.0346.009.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>pour contribuer dans la mesure
+de mes moyens, a la prospérité de
+l'Etat Independant du Congo.</p>
+
+<p>J'ai l'honneur d'être avec
+respet
+Monsieur
+votre très humble et très
+obéissant serviteur
+Lionel <unclear/></p>
+
+<p>A Monsieur Van Eetvelde.</p>
+
+<p>Lionel Hagenaers
+<unclear/>: Herbit Brothers
+93 Pearl Street
+New York.</p>
 
 </div1>
 
@@ -166,39 +369,230 @@
 
 <pb facs="teaa.fr.letter.0346.001.jpg"/>
 
-<!-- TRANSLATE -->
+<p>Brussels, July 7 1890
+New York</p>
+
+<p>Mister,
+I received, by the<unclear/>
+of Mr. Leghait, the <unclear/>
+in date of 
+June 14 of last by which
+you pray our <unclear/>
+of the post of Consul General
+of the Independent State of the Congo.
+I <unclear/>you the letter
+that you wanted to give
+me your services and I
+regret <unclear/>
+are not in the measure
+to profit from them. There has not been place,
+up until now, to
+to give form to the question
+of the establishment of a consulate
+in New York, and this is 
+only after the opportunity
+will have been revised, that
+ <unclear/> the <unclear/> of a
+candidature.
+<unclear/></p>
 
 <pb facs="teaa.fr.letter.0346.002.jpg"/>
 
-<!-- TRANSLATE -->
+<p>Antwerp, December 21 1891</p>
+
+<p>Mister,
+Having learned that Mister
+<unclear>Lionel</unclear> <unclear/> our fellow citizens, established
+in New York posed his candidature to the
+post of Consul of the State of the Congo i
+New York, a candidature that was pressed
+by Mister Alfred Le Ghait, Plenipotentiary
+Minister of Belgium in Washington
+as well as by Misters Charles Mali, con-
+sul, and Jules Renlaux, Consul General in
+New York, I permit myself at my turn to
+recommend it to your benevolent attention</p>
+
+<p>In the case where your Government
+would desire to be officially represented in the
+United States, I am persuaded that Mister</p>
+
+<p>Mister Count <unclear/> de Grelle Rogier
+Secretary of State of Foreign Affairs
+of the Independent State of the Congo
+Brussels.</p>
 
 <pb facs="teaa.fr.letter.0346.003.jpg"/>
 
-<!-- TRANSLATE -->
+<p>Mister <unclear>Hongenaers</unclear> is quite capable
+of filling with dignity the mission that will be entrusted
+to him and will be able to render appreciable services
+to your Government.</p>
+
+<p>Accept, Mister, the assurance of
+my highest consideration.
+The Bourgmaster,
+Leopold <unclear/></p>
 
 <pb facs="teaa.fr.letter.0346.004.jpg"/>
 
-<!-- TRANSLATE -->
+<p>Antwerp, December 20 1889</p>
+
+<p>Dear Mister,
+I permit myself to <unclear/>
+translate near you, my friend
+Mister Lionel <unclear/>,
+of the house Herbs Grothers
+of New York, who will explain
+to you himself the goal of 
+the visit.</p>
+
+<p>Please accept, dear Mister,
+the expression of my best
+sentiments.
+Armand <unclear/></p>
+
+<p>To Mister Van Eetvelde
+Director General of the depart-
+ment of Foreign Affairs of the
+Congo.
+Brussels.</p>
 
 <pb facs="teaa.fr.letter.0346.005.jpg"/>
 
-<!-- TRANSLATE -->
+<p>Legation of Belgium
+Washington, June 22 90</p>
+
+<p>My dear Mister Van Eetvelde,
+I transmit to you, in
+all occasion the
+enclosed request of Mr.
+<unclear/> who was
+acknowledged to me by
+Mr. Mali our consul in
+New York.</p>
+
+<p>Please accept the assurance
+of my best sentiments
+<unclear/></p>
 
 <pb facs="teaa.fr.letter.0346.006.jpg"/>
 
-<!-- TRANSLATE -->
+<p>New York June 14 1890</p>
+
+<p>To Mister Van Eetvelde.
+Administrator General of the department
+of Foreign Affairs and of the Justice of
+the Independent State of the Congo
+in Brussels.</p>
+
+<p>Mister,
+Following the visit that
+I had the honor to give you
+and to accord with the suggestions
+of Mister Cuvelier who received
+me in your absence, I take
+the liberty to pose my candida-
+ture to the Consulate General of
+the Independent State of the Congo
+in New York.</p>
+
+<p>The Government possibly
+not yet having had the occasion
+to consider the opportunity, nor
+the necessity of the creation
+of consular agencies, I permit
+myself to call your
+attention on the utility that they <unclear/></p>
+
+<p>Mister Van Eetvelde</p>
 
 <pb facs="teaa.fr.letter.0346.007.jpg"/>
 
-<!-- TRANSLATE -->
+<p>can have in general, and
+especially in the large
+financial and commercial centers
+like the United States of America
+that, as you know 
+totally lack the raw materials
+forming the principal
+wealth of the Congo Basin.</p>
+
+<p>Belgian in birth, sincere
+admirer of the <unclear/> of The Majesty
+the King, in Africa, is associated in
+a house of commerce, established
+on this place for many
+years, I delight in believing that
+by my personal devotion
+to the work, by my influence
+in financial circles, as well
+as by my familiarity with
+all the commercial political and
+economic questions of the country.
+I could contribute powerfully
+not only to the success of the
+entreprises of the State, but as well
+to the constant augmentation of
+its outlets, of which the necessity
+can hardly lack from making it
+felt in a future not too far away</p>
+
+<p>To Mister Van Eetvelde</p>
 
 <pb facs="teaa.fr.letter.0346.008.jpg"/>
 
-<!-- TRANSLATE -->
+<p>The present request will be <unclear/> to you
+by his Excellence Mister
+Alfred le Ghait, Extraordinary Envoy
+and Plenipotentiary Minister of S.M.
+the King of the Belgians with the United States
+of America, to whom I had the honor
+to be presented by Mister C.
+Mali, Consul of Belgium in New
+York, and who himself had the 
+courtesy to examine my personal
+position in this city.</p>
+
+<p>His Excellence promised me to 
+press my candidature, and I dare
+hope that his intervention will be
+one more title to your benev-
+olent consideration.</p>
+
+<p>Permit me to assure
+you of my strong desire to
+put to the service of my com-
+patriots, the advantages that
+give me my commercial
+position in this country, the honor
+to be charged with the interests of
+your Government, being the
+only and the ample recompense
+that I covet, for the
+efforts that I will always make for</p>
+
+<p>To Mister Van Eetvelde.</p>
 
 <pb facs="teaa.fr.letter.0346.009.jpg"/>
 
-<!-- TRANSLATE -->
+<p>to contribute in the measure
+of my means, to the prosperity of
+the Independent State of the Congo.</p>
+
+<p>I have the honor to be with
+respect
+Mister
+your very humble and very
+obediant servant
+Lionel <unclear/></p>
+
+<p>To Mister Van Eetvelde.</p>
+
+<p>Lionel Hagenaers
+<unclear/>: Herbit Brothers
+93 Pearl Street
+New York.</p>
 
 </div1>
 

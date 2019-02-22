@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0059.xml">]
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0059.xml">
 
 <teiHeader>
 <fileDesc>
@@ -12,6 +12,7 @@
 <resp>transcription, translation, and encoding</resp>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -124,6 +125,7 @@
 <revisionDesc>
 <change when="2017" who="nn">Transcribed.</change>
 <change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2019" who="sab">Edited encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -228,7 +230,7 @@ Etrangères.
 </p>
 
 </div1>
-<div1 xml:lang="en" type="document">
+<div1 xml:lang="en" type="translation">
 
 <pb facs="20160613_162740.jpg"/>
 

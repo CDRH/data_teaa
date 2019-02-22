@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from ___ to ___, December 16, 1842</title>
+<title>Unknown Letter, December 16, 1842</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -104,8 +104,8 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+<change when="2017" who="NN">Trascribed.</change>
+<change when="2019" who="sab">Moved in English translation.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -113,7 +113,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160614_145558.jpg"/>
 
@@ -154,6 +154,55 @@ que reproduire cette réponse.
 
 <note>
 il y a un <unclear/>
+</note>
+
+<note>
+C
+</note>
+
+</div1>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160614_145558.jpg"/>
+
+<ab>
+Extract of the
+Deliberations of the Council of adminstration
+of Senegal
+Session from December 16th 1842.
+</ab>
+
+<ab>
+Observation of the General Council
+(Session from November 17th 1842)
+</ab>
+
+<p>
+The Council recalls <unclear>the</unclear> <unclear/> that it
+awarded (deliberation of 12 20<unclear/>. 1840)
+Even though the american vessels are 
+<add>subjugated</add>in Gorée to the same right
+<add>of anchorae</add> <unclear>that</unclear> <unclear/> of the colony pay
+in the ports of the union.
+</p>
+
+<ab>
+Response of the Council of<unclear/>.
+</ab>
+
+<p>
+It was responded to society
+that the modification demanded by
+the general council of the relative tariff
+to the americans in Gorée to <add>attach</add>
+to the negotiations for which it was necessary
+to wait the result. One can
+only reproduce this response.
+</p>
+
+<note>
+there is one <unclear/>
 </note>
 
 <note>

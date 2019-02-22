@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from ___ to ___, </title>
+<title>Unknown Letter</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -113,7 +113,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 xml:lang="fr" type="document">
 
 <pb facs="20160615_122654.jpg"/>
 
@@ -208,7 +208,104 @@ A.A.H.C.
 </p>
 
 </div1>
+
+<div1 xml:lang="en" type="translation">
+
+<pb facs="20160615_122654.jpg"/>
+
+<ab>
+<supplied>POLITICAL</supplied> AND COMMERCIAL
+</ab>
+
+<ab>
+<supplied>BUREAU</supplied> OF AFRICA
+</ab>
+
+<ab>
+The Minister of the Colonies
+to Mister Minister of
+Foreign Affairs (<unclear/>
+of political affairs)
+</ab>
+
+<ab>
+Paris, Dec 6th/229 <unclear>1895</unclear>
+</ab>
+
+<p>
+Mister Minister and
+dear colleague, by letter of the 19th
+of last November, you had 
+transmitted to me a
+letter in which Mr. Ambassador <!-- 'Ambassadeur' is hyphenated between 'Am-' and '-bassadeur' -->
+of the United States in
+Paris sollicits for the American
+society "World Gospel
+Union" the autorization to found
+missions in Sudan.
+</p>
+
+<p>
+I have the honor to inform
+you that our domination
+ne <del>sembler</del> une paraît pas encore
+avez <del><unclear/> établie</del> dans <unclear/>
+<add>parties de</add> cette colonie pour <del><unclear/></del> permettre
+à des missions étrangères d'y faire
+<del>des prodictions <unclear/></del> <add>fonder les <unclear/></add>.
+</p>
+
+<p>
+<del>Pour le <unclear>cas</unclear> <unclear/> <unclear/> de</del> <add><del><unclear/></del> <unclear/> <unclear/> <unclear/></add>
+<del>prédiction</del> <add>agréez une <unclear/> <unclear/> <unclear/> <unclear/></add> en <unclear/> du <unclear/>
+réformé, <del><unclear/> <unclear>être</unclear> <unclear/></del>
+<del><unclear>par Soudan</unclear> <unclear/> <unclear/></del>
+<del><unclear/></del> il serait <unclear/>
+<unclear/> le <unclear/> <unclear>cette fâche</unclear>
+<unclear/> des missionaires français.
+</p>
+
+<p>
+L'introduction du Congo de
+</p>
+
+<ab>
+<supplied>Mission</supplied> protestants dans le
+<supplied>Soudan</supplied>.
+</ab>
+
+<note>
+ly
+</note>
+
+<note>
+A.f.
+le 3-12-95
+</note>
+
+<note>
+<unclear/>
+</note>
+
+<pb facs="20160615_122712.jpg"/>
+
+<p>
+foreign religious missions for that matter <!-- 'ailleurs' is hyphenated between 'ail-' and '-leurs' -->
+was for France a displeasing <!-- 'expérience' is hyphenated between 'expé-' and 'rience -->
+experience, as you had been
+able to note by diverse <del>dépêches</del>
+<del><unclear/></del>communications coming
+from my Department, between others by
+a dispatch from my predecessor, on the
+26th of March 1895, no 59. It would be
+imprudent to expose ourselves once more
+to the difficulties of this war.
+A.A.H.C.
+</p>
+
+</div1>
 </body>
 </text>
 
 </TEI>
+

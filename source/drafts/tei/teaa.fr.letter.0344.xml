@@ -6,12 +6,16 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from Knight of Moreau d'Andoy to Minister, February 26, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<<<<<<< HEAD
 <name n="Akyeampong, Chelsea A." xml:id="CAA">Chelsea Animwaa Akyeampong</name>
+=======
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+>>>>>>> 3a9b9ffb0192e783e08fb78516e02b13b293b489
 </respStmt>
 </titleStmt>
 
@@ -42,7 +46,11 @@
 
 <sourceDesc>
 <bibl>
+<<<<<<< HEAD
 <title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+=======
+<title level="m">Letter from Knight of Moreau d'Andoy to Minister</title>
+>>>>>>> 3a9b9ffb0192e783e08fb78516e02b13b293b489
 <date when="1891-02-26">February 26, 1891</date>
 </bibl>
 <msDesc>
@@ -74,18 +82,29 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Janssens, C.</term>
+<term>Knight of Moreau d'Andoy</term>
+<term>Leopold</term>
+<term>Van Eetvelde, Edmond</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Antwerp</term>
+<term>Belgium</term>
+<term>Boston</term>
+<term>Congo</term>
+<term>Moëus, J.</term>
+<term>New World</term>
+<term>New York</term>
+<term>Nova Scotia</term>
+<term>United States</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>American</term>
+<term>Belgian</term>
+<term>French</term>
 </keywords>
 
 <keywords scheme="original" n="religion">
@@ -100,15 +119,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName>Knight of Moreau d'Andoy</roleName>
+<placeName>Brussels</placeName>
+<date when="1891-02-26"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Minister</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -116,6 +135,7 @@
 
 <revisionDesc>
 <change when="2019-02-13" who="kln">named file, encoded header</change>
+<change when="2019" who="pr">transcribed, translated, and encoded header information</change>
 </revisionDesc>
 </teiHeader>
 
@@ -127,6 +147,7 @@
 
 <pb facs="teaa.fr.letter.0344.001.jpg"/>
 
+<<<<<<< HEAD
 <p>Bruxelles 26.2.1891</p>
 
 <p>Monsieur le Ministre</p>
@@ -149,10 +170,33 @@
    ments <unclear/>haute considération</p>
 
 <p> (signed by) <unclear/> Moreau</p>
+=======
+<p>Bruxelles 26.2.91</p>
+
+<p>Monsieur le Ministre
+M. <unclear/> B. <unclear/> Vicy de <unclear>Lunoptoch</unclear>
+me prie de vous le recom-
+mander. Le <unclear/> homme
+a montré beaucoup d'éner-
+gie et par son travail
+il est parvenu à soutenir
+une famille nombreuse.
+Je n'ai eu que d'excellents
+enregistrements sur sa mora-
+lité.</p>
+
+<pb facs="teaa.fr.letter.0344.002.jpg"/>
+
+<p><unclear/>, Monsieur le Ministre,
+l'<unclear/> lieu de mes senti-
+ments <unclear/> haute consideration
+<unclear/> Moreau</p>
+>>>>>>> 3a9b9ffb0192e783e08fb78516e02b13b293b489
 
 <pb facs="teaa.fr.letter.0344.003.jpg"/>
 
 <p>Etats Unis</p>
+<<<<<<< HEAD
 
 <p>Monsieur le Ministre,</p>
 
@@ -199,6 +243,60 @@ Administrateur General & Ministre des Affaires Etrangéres de l'Etat
 <p>J'ai quitté Bruxelles le 14 Mars dernier aprés avoir payé une
    derniére visite á Monsieur C Janssens et ayant bien regrette de n'avoir
    pu vous presenter mes civilités avant mon départ.</p>
+=======
+<p>Monsieur Van Eetvelde
+Administrature General du departement
+des Affaires Etrangeres et Ministre de la
+Justice de l'Etat Libre du Congo
+à Bruxelles.</p>
+
+<p>Bruxelles, le 2 Mars, 1891</p>
+
+<p>Monsieur le Ministre,
+J'ai l'honneur de vous présenter cettre requête sollicitant le titre
+de Consul de l'Etat Independant du Congo pour les Etats Unis d'Amerique.</p>
+
+<p>Belge de naissance, habitant l'Amerique depuis bientot sept ans
+familliarisé avec la langue et les usages de ce pays, comme ayant aussi
+les capacités commerciales et qualités requises pour de telles fonction
+j'ose esperer, Monsieur le Ministre, que vous voudrez bien donner
+suite à ma demande et m'accorder cette position que je sollicite et
+attends de votre bienveillance.</p>
+
+<p>A titre de references je vous dirai, Monsieur le Ministre, que
+je represente pour les Etats Unis d'Amerique plusieurs maisons de
+commerce et industries importantes de Belgique, entre'autres la maison
+J. Moëus, distillerie d'Anvers et Messess <unclear/> et fils de <unclear>Surnhout</unclear>,
+avec proprietaires de ces deux grandes fabriques je suis rataché par les
+biens de famille.</p>
+
+<p>Esperant que Monsieur le Ministre me fera l'honneur d'une
+audience au cours de laquelle je pourrai donner de vive voix les
+references que j'ai, ainsi que plaider auprès de lui les qualités et
+apttudes par rapport aux fonctions que je sollicite,
+J'ai l'honneur d'être, de Monsieur le Ministre,
+le très humble Serviteur,
+J. B de Vicq de Cumptich.</p>
+
+<pb facs="teaa.fr.letter.0344.004.jpg"/>
+
+<p>A Monsieur van Eetvelde
+Administrateur General de Ministre des Affaires Etrangeres de l'Etat
+Independant du Congo à Bruxelles.</p>
+
+<p>Monsieur le Ministre,
+J'ai quitté Bruxelles le 14 Mars dernier après avoir payé une
+dernière visite à Monsieur C. Janssens et ayant bien regretté de n'avoir
+pu vous présenter mes civilités avant mon départ.</p>
+
+<p>J'ai vendu le journal dont j'étais proprietaire dans la Nouvelle-
+Ecosse et j'occupe actuellement le fauteuil de la redaction du Courrier
+du Nouveau Monde, et je compte, sous peu, faire l'acquisition de
+cette dernière feuille, la plus repandue et la plus importantes des publi-
+cations francaises publiées aux Etats-Unis.</p>
+
+<p>Je vous serais reconnaissant, Monsieur le Ministre, de bien</p>
+>>>>>>> 3a9b9ffb0192e783e08fb78516e02b13b293b489
 
 <p>J'ai vendu le journal dont j'etais proprietaires dans la nouvelle
    Ecosse et j'occupe actuellement le fauteuil de la redaction du Courrier
@@ -209,6 +307,7 @@ Administrateur General & Ministre des Affaires Etrangéres de l'Etat
 <p>Je vous serais reconnaissant, Monsieur le Ministre, de bien</p>
 <pb facs="teaa.fr.letter.0344.005.jpg"/>
 
+<<<<<<< HEAD
 <p>vouloir me fair parvenir tous les documents sur le Congo, documents
    qui me permettraient de faire une etude approfondie de la question
   pendante entre cet Etat et les Etats Unis d'Amerique, afin de pouvoir
@@ -219,10 +318,49 @@ Administrateur General & Ministre des Affaires Etrangéres de l'Etat
    de pouvoir etre utile á l'Etat du Congo, dans la faible mesure de mes
    forces et de ma sphére d'action, n'ayant d'autre ambition, Monsieur le 
    Ministre, le sort ne m'ayant pas favorisé á etre sous les drapeaux, que</p>
+=======
+<p>vouloir me faire parvenir tous les documents sur le Congo, documents
+qui me permetteraient de faire une etude approfondie de la question
+pendante entre cet Etat et les Etat Unis d'Amerique, afin de pouvoir
+au besoin traiter la question dans le Courrier du Nouveau Monde
+comme aussi dans les grands journeaux americains de New York et de
+Boston.</p>
+
+<p>etant dans le journalisme, je me ferai un plaisir et serai heureux
+de pouvoir être utile a l'Etat du Congo, dans la faible mesure de mes 
+forces et de ma sphère d'action, n'ayant d'autre ambition, Monsieur le
+Ministre, le sort ne m'ayant pas favorisé à être sous les drapeaux, qui
+de servir mon pays, en mettant à sa disposition mes faibles capacités et
+mon travail, n'estimant trop heureux, si en recompense de mes efforts
+je puis savoir que le Souverain de l'Etat Libre du Congo est content
+de moi et que j'obtienne de Sa Majesté Leopold le poste sollicité par
+son humble sujet dont je remplirai fidelement les devoirs.</p>
+
+<p>Esperant, Monsieur le Ministre, que dans votre bonté vous n'oublie-
+rez pas l'humble requête que je vous ai adressée en fevrier dernier, la-
+quelle requête etait appuyée par M le gouverneur general de l'Etat
+du Congo, M. C. Jansses, et M. le Chevalier de Moreau d'Andoy,
+ancien ministre de l'agriculture et Directeur general de la Banque
+Nationale, je tiendrai à votre disposition quelques lettres de</p>
+>>>>>>> 3a9b9ffb0192e783e08fb78516e02b13b293b489
 
 <pb facs="teaa.fr.letter.0344.006.jpg"/>
 
-<!-- TRANSCRIBE -->
+<p>recommandation de Membres du Senat et des Chambres Federales Ameri-
+caines, comme aussi de journalistes eminents des Etats Unis avec qui je suis
+lié.</p>
+
+<p>Dans l'attente d'un mot de votre part, Monsieur le Ministre,
+et l'espoir d'être nommé au poste que j'ai sollicité et que j'attends de
+votre bienveillance, et en vous assurant de mes sentiments respectueux,
+J'ai l'honneur d'être de Monsieur le Ministre,
+le très humble Serviteur.
+Bron. J. B. de Vicq de Cumptich</p>
+
+<p>A. Monsieur le Ministre des Affaires Etrangeres de
+l'Etat Libre du Congo. A Bruxelles. Belgique.</p>
+
+<p>32 Jackson Street. Worcester. Mass. U.S. le 1er Mai 1891</p>
 
 </div1>
 
@@ -230,27 +368,126 @@ Administrateur General & Ministre des Affaires Etrangéres de l'Etat
 
 <pb facs="teaa.fr.letter.0344.001.jpg"/>
 
-<!-- TRANSLATE -->
+<p>Brussels 2.26.91</p>
+
+<p>Mister Minister
+Mr. <unclear/> B. <unclear/> Vicq of <unclear>Lunoptoch</unclear>
+prays that I recommend him 
+to you. The <unclear/> man
+showed much ener-
+gy and by his work
+he has achieved in supporting
+a bountiful family.
+I only had excellent
+records on his mora-
+lity.</p>
 
 <pb facs="teaa.fr.letter.0344.002.jpg"/>
 
-<!-- TRANSLATE -->
+<p><unclear/>, Mister Minister,
+the <unclear/> place of my senti-
+ments <unclear/> highest consideration
+<unclear/> Moreau</p>
 
 <pb facs="teaa.fr.letter.0344.003.jpg"/>
 
-<!-- TRANSLATE -->
+<p>United States</p>
+<p>Mister Van Eetvelde
+Administrator General of the department
+of Foreign Affairs and Minister of the
+Justice of the Free State of the Congo
+in Brussels.</p>
+
+<p>Brussels, March 2, 1891</p>
+
+<p>Mister Minister,
+I have the honor to present you with this request solliciting the title
+of Consul of the Independent State of the Congo for the United States of America.</p>
+
+<p>Belgian in birth, living in America for nearly seven years
+familiarised with the language and the customs of this country, as having as well
+the commercial capacities and required qualities for such function
+I dare to hope for, Mister Minister, that you follow up
+on my demand and accord to me this position that I sollicit and
+await from your benevolence.</p>
+
+<p>In title of references I will tell you, Mister Minister, that
+I represent for the United States of America several houses of
+commerce and important industries of Belgium, among others the house of
+J. Moëus, distillery of Antwerp and Messess <unclear/> and son of <unclear>Surnhout</unclear>,
+with owners of these two large factories I am associated by the
+links of family.</p>
+
+<p>Hoping that the Minister will do me the honor of an 
+audience over which I can give with a lively voice the
+references that I have, as well as plead with him the qualities and
+aptitudes in relation to the functions that I sollicit,
+I have the honor to be, for Mister Minister,
+the very humble servant,
+J. B de Vicq de Cumptich.</p>
 
 <pb facs="teaa.fr.letter.0344.004.jpg"/>
 
-<!-- TRANSLATE -->
+<p>To Mister van Eetvelde
+Administrator General and Minister of Foreign Affairs of the Independent
+State of the Congo in Brussels.</p>
+
+<p>Mister Minister,
+I left Brussels March 14th of last after having paid a
+last visit to Mister C. Janssens and having regretted not to have
+been able to present you my civilities before my departure.</p>
+
+<p>I sold the journal of which I was owner in Nova
+Scotia and I currently am taking care of the chair of the writing of the Mail
+of the New World, and I expect, under little, to make the acquisition of
+this last paper, the most widespread and the most important of frenc
+publications published in the United States.</p>
+
+<p>I will be grateful to you, Mister Minister, to</p>
 
 <pb facs="teaa.fr.letter.0344.005.jpg"/>
 
-<!-- TRANSLATE -->
+<p>inform me of all the documents on the Congo, documents
+that would permit me to do an extensive study on the question
+hanging between this state and the United States of America, in order to be able
+to have need to treat the question in the Mail of the New World
+as well in the large american journals of New York and
+Boston.</p>
+
+<p>Being in journalism, It would be a pleasure and make me happy
+to be useful to the State of the Congo, in the weak measure of my 
+forces and of my sphere of action, not having any other ambition, Mister
+Minister, destiny not having favored me to be under the flags, that
+to serve my country, in putting under its disposition my weak capacities and
+my work, not estimating too happy, if in reward for my efforts
+I could know that the Sovereign of the Free State of the Congo is content
+with me and the I obtain from His Majesty Leopold the sollicited post by
+his humble subject of which I would fill the duties faithfully.</p>
+
+<p>Hoping, Mister Minister, that in your bounty you will not
+forget the humble request that I addressed to you during February of last, that
+request which was intent by Mr the Governor General of the State
+of the Congo, Mr. C. Jansses, and Mr. Knight of Moreau d'Andoy,
+old minister of agriculture and Director general of the National
+Bank, I hold to your disposition some letters of</p>
 
 <pb facs="teaa.fr.letter.0344.006.jpg"/>
 
-<!-- TRANSLATE -->
+<p>recommendation of Members of the Senate and the American Federal
+Chambers, as well as from distinguished journalists from the United States with whom
+I am associated.</p>
+
+<p>In the wait of a word from your part, Mister Minister,
+and the hope to be named to the post that I solliited et that I await from
+your benevolence, and in assuring you of my respectful sentiments,
+I have the honor to be for Mister Minister,
+the very humble servant.
+Baron. J. B. de Vicq de Cumptich</p>
+
+<p>To Mister Minister of Foreign Affairs of
+the Free State of the Congo. In Brussels. Belgium.</p>
+
+<p>32 Jackson Street. Worcester. Mass. U.S. May 1 1891</p>
 
 </div1>
 

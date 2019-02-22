@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter from the Minister of Foreign Affaires, to Edouard Degrelle-Rogier, July 27, 1892</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
+<name n="Brown, Sophie A." xml:id="sab"></name>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
@@ -43,8 +44,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from the Minister of Foreign Affaires, to Edouard Degrelle-Rogier</title>
+<date when="1892-07-27">July 27, 1892</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,12 +76,17 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>General Administrator</term>
+<term>Raunt, Emory</term>
+<term>Secretary General President</term>
+<term>de Sacgher, Juge</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Brussels</term>
+<term>Free State of the Congo</term>
+<term>Washington</term>
 </keywords>
 
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -101,21 +107,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName>Minister of Foreign Affairs</roleName>
+<placeName>Brussels, Belgium</placeName>
+<date when="1889-06-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Edouard Degrelle-Rogier</persName>
+<roleName></roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019" who="sab">Encoded.</change>
 <change when="2019-02-12" who="kln">renamed file, inserted correct header template</change>
 <change when="2018" who="pr">Translated.</change>
 <change when="2017" who="kcd">Transcribed.</change>
