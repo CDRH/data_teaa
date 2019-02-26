@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter(not sure from whom to who)</title>
+<title>Unknown Letter, April 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, encoding</resp>
 <name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea Akyeampong</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,7 +44,7 @@
 <sourceDesc>
 <bibl>
 <title level="m">Letter(not sure from whom to who)</title>
-<date when="1882-04-?">April ?, 1882</date>
+<date when="1882-04">April 1882</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -106,9 +107,9 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<roleName>Minister of the Navy and the Colonies</roleName>
 <placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<date/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
@@ -121,6 +122,7 @@
 
 <revisionDesc>
 <change when="2019-01" who="CAA">transcribed, translated, and encoded</change>
+<change when="2019" who="sab">Edited transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -561,7 +563,7 @@ properties (First Article.)</p>
 become justified of these losses and obtain the
 anticipated aid.</p>
 
-<p>"Article 4, Thos whos properties
+<p>"Article 4, Those whose properties
 have been devastated, will present at the
 municipality in place of the memory
 detailing and estimating the losses that they

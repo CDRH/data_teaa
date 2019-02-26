@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter to G. De Deker, Consul General of Haiti, February 25, 1886</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
@@ -14,6 +14,7 @@
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 <name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea Animwaa Akyeampong</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -44,8 +45,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter to G. De Deker, Consul General of Haiti</title>
+<date when="1886-02-25">February 25, 1886</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -76,15 +77,20 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Belgian King</term>
+<term>De Deker, G.</term>
+<term>Ectrelde, Édouard</term>
+<term>Laubert</term>
+<term>Salomon</term>
+<term>St. Victor, B.</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Brussels</term>
+<term>Free State of the Congo</term>
+<term>United States</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -102,15 +108,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName>Brussels</placeName>
+<date when="1886-02-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>G. De Deker</persName>
+<roleName>Consul General of Haiti</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -118,8 +124,9 @@
 
 <revisionDesc>
 <change when="2019-02-13" who="kln">renamed file, inserted correct header template</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2018" who="pr">Translated page 2.</change>
 <change when="2017" who="kcd">Transcribed.</change>
+<change when="2019" who="SAB">Encoded and translated page 1, 3, and 4.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -135,23 +142,28 @@
 
 <p>Bruxelles, le 25 février 1886</p>
 
-<p>Mr. le Consul Général,
+<p>M. le Consul Général,
    J'ai l'h. de vous <unclear/>
    la expédition de la répondre du
    L <unclear/>. M. <unclear/> de la
-   Republique d'Haîti á la <unclear/>
+   République d’Haïti á la <unclear/>
    qui lui <unclear/> parts la Roi de la
    <unclear/> comme <unclear/> de
    <unclear/> la <unclear/> 8 du Congo
-   <unclear/> par mangué de remettes
-   la document <unclear/> les mains
+   <unclear/> par manqués de remettes
+   la document entre les mains
     de la majorité-</p>
 
-<fw type="footer">En vue <unclear/> la letter <unclear/>
+<p></p>
+
+<fw type="footer">En vue <unclear/> la lettre <unclear/>
     qui <unclear/> 
     n'vois pas, <unclear/> e.g.</fw>
 
-<p>(signed by) unclear/></p>
+<fw type="footer">M. G. De Deker
+Consul Grl de la République d'Haïti
+86. Boulevard de la Senn
+Bruxelles</fw>
 
 <pb facs="teaa.fr.letter.0330.002.jpg"/>
 
@@ -163,21 +175,21 @@ A Sa Majesté le Roi des Belges.</p>
 <p>Grand et Bon Ami, C'est avec le plus vif plaisir que J'ai reçu la
 lettre en date du 12 Décembre dernier, par laquelle Votre Majesté
 M'a annoncé, ainsi qu'à Mon Gouvernement qu'<unclear></unclear>
-par les Chambres Législatives Belges à devenir le Chef de l'Etat
+par les Chambres Législatives Belges à devenir le Chef de l’État
 Indépendant que <unclear></unclear> desornais les possessions seguires
 en <unclear></unclear> des traites par l'Association Internationale dans
 le bassin du Congo, Elle a pris, d'accord avec Celle-ci, le titre
-de Souverain de l'Etat Indépendant du Congo. Nous
-félicitons sincérement Votre Majesté de cet évenément qui
-ne peut que garanter la prospérité du Nouvel Etat et le
+de Souverain de l’État Indépendant du Congo. Nous
+félicitons sincèrement Votre Majesté de cet événement qui
+ne peut que garanter la prospérité du Nouvel État et le
 succès de la mission de paix et de progrés universels á
 laquelle il est appelé á contribuer. Nous formons les meilleurs
-souhaits pour Votre Majesté et l'Etat Indépendant
+souhaits pour Votre Majesté et l’État Indépendant
 du Congo. Je saisis l'occasion d'exprimer à Votre
 Majesté la parfaite estime et l'inaltérable amité avec
 laquelle Je suis</p>
     
-<p>Grand ett Bon Ami,<lb/>
+<p>Grand et Bon Ami,<lb/>
 Votre sincère Ami,<lb/>
 signé: Salomon.</p>
     
@@ -197,29 +209,40 @@ signé: Salomon.</p>
 
 <pb facs="teaa.fr.letter.0330.004.jpg"/>
 
-<p> <unclear/> que j'ai l'honneur de transmettre vous ce pli, á vtore Majesté, M.                   <p>La créator de <unclear/> 
-    Laubert <unclear/> ne prie de prendre                                                           l'établissement de la poste, l'organisation
-    Les ordres du Roi concernant la <unclear/>                                                      de la justice sous le resource prinicipale,
-    par laquelle votre Majesté <unclear/>                                                           que je lui ai <unclear/> comme facination
-    qui ou lui <unclear/> la reeponse du                                                            l'objet de nos <unclear/> actuels. Je
-    Président des Etats-Unis á la                                                                   Je rapporte de cet <unclear/> l'impression
-    <unclear/> Royale.</p>                                                                          que le Gouvernement des Etats-Unis  
-                                                                                                    a les yeux fixés en le nouvel Etat.</p>
-                                                                                                    
-                                                                                                    <p>Je suis, avec la plus
-                                                                                                    <unclear/> respect,
-                                                                                                    (signed by) <unclear/>,
-                                                                                                    de votre Majesté
-                                                                                                    le trés humble, trés fidéle et trés obeisant
-                                                                                                    <unclear/> et sujet,
-                                                                                                    Edouard  Eetvelde</p>
-                                                                                                    <fw type="footer">le 21 octovre 1885</fw>
-                                                                                                        
-<p>M. <unclear/> scramble
-   j'intéressa viement au nouvel Etat
-   et aux dispositories qu'il prend
+<!-- Looks like the second page of a letter. -->
+
+<p> <unclear/> que j'ai l'honneur de transmettre vous ce pli, á votre Majesté, M.    
+    Laubert Tree une prie de prendre                                                          
+    les ordres du Roi concernant la <unclear/>                                                    
+    par laquelle votre Majesté <unclear/>                                                          
+    qu'on lui <unclear/> la réponse du                                                          
+    Président des États-Unis á la                                                                  
+    <unclear/> Royale.</p>     
+
+<p> M. Tree semble
+   s'intéresser vivement au nouvel État
+   et aux dispositions qu'il prend
    pour <unclear/> dans la voie du
-   progrés et justifier son <unclear/>.</p>
+   progrès et justifier son <unclear/>.</p>                                                                    
+
+<p> La création de <unclear/>
+l'établissement de la poste, l'organisation
+de la justice sous le ressource principale,
+que je lui ai <unclear/> comme fascination
+l'objet de nos <unclear/> actuels. Je
+rapporte de cet <unclear/> l'impression
+que le Gouvernement des États-Unis  
+a les yeux fixés en le nouvel État. </p>
+                                                                                                    
+<p> Je suis, avec la plus
+profonde respect,
+Sire,
+de Votre Majesté,
+le très humble, très fidèle et très obéissante
+serviteur et sujet,
+Édouard Ectrelde </p>
+
+<fw type="footer">Bruxelles, le 21 octobre 1885</fw>
 
 </div1>
 
@@ -227,7 +250,32 @@ signé: Salomon.</p>
 
 <pb facs="teaa.fr.letter.0330.001.jpg"/>
 
-<!-- NEED TO BE TRANSLATED -->
+<p>Cabinet of the King.</p>
+
+<p>Brussels, February 25, 1886</p>
+
+<p>Mr. Consul General,
+   I have the h. to <unclear/> to you 
+   the expedition of the response from 
+   L <unclear/>. Mr. <unclear/> of the
+   Republic of Haiti to <unclear/>
+   that <unclear/> him part of the King of the
+   <unclear/> as <unclear/> from
+   <unclear/> the <unclear/> 8 of the Congo
+   <unclear/> by missing handing over 
+   the document into the hands 
+    of the majority--</p>
+
+<p></p>
+
+<fw type="footer">Seen <unclear/> the letter<unclear/>
+    that <unclear/> <unclear/> <unclear/> <unclear/>
+    did not see <unclear/> e.g.</fw>
+
+<fw type="footer">M. G. De Deker
+Consul General of the Republic of Haiti 
+86. Boulevard de la Senn
+Brussels</fw>
 
 <pb facs="teaa.fr.letter.0330.002.jpg"/>
 
@@ -261,12 +309,51 @@ signed: Salomon</p>
 
 <pb facs="teaa.fr.letter.0330.003.jpg"/>
 
-<!-- NEED TO BE TRANSLATED -->
+<p><unclear/> inform the minister
+   <unclear/> the <unclear/> had <unclear/>
+   <unclear/> on that day <unclear/> and <unclear/>
+    <unclear/>
+        To the King:
+    <unclear/> 23 O. 1885
+   </p>
 
 <pb facs="teaa.fr.letter.0330.004.jpg"/>
 
-<!-- NEED TO BE TRANSLATED -->
+<!-- Looks like the second page of a letter. -->
 
+<p> <unclear/> that I have the honor to transmit to you herewith, to your Majesty, Mr.
+    Laubert Tree to ask of you                                                         
+    the orders from the King concerning the <unclear/>                                                    
+    in which your Majesty <unclear/>                                                          
+    that one <unclear/> gave him the response from the                                                         
+    President of the United States to the                                                                   
+    <unclear/> Royal.</p>     
+
+<p> M. Tree seems
+   to be greatly interested in the New State
+   and the dispositions that he takes=
+   for <unclear/> in a voice of
+   progress and justify his <unclear/>.</p>                                                                    
+
+<p> The creation of  <unclear/>  <unclear/> <unclear/>
+the establishment of the mail system, the organisation 
+of justice under priciple resources, 
+that I have him <unclear/> as a subject  
+of fascination for our <unclear/>. I
+report of this  <unclear/> impression
+that the Government of the United States
+has fixed eyes on the new State. </p>
+                                                                                                    
+<p>I am, with the most
+profound respect,
+Sir,
+your Majesty
+the very humble, loyal, and obedient
+servant and subject,
+Édouard Ectrelde </p>
+
+<fw type="footer">Brussels, October 21, 1885</fw>
+                                                                                                       
 </div1>
 </body>
 </text>
