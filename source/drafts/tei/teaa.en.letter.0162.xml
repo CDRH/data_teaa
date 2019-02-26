@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0160">
@@ -5,12 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from L de R. du Verge to J.C. Bancroft Davis, October 15, 1882</title>
+<title>Dispatch from L de R. du Verge to J.C. Bancroft Daivs, November 12, 1889</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from L de R. du Verge to J.C. Bancroft Davis</title>
+<title level="a">Dispatch from L de R. du Verge to J.C. Bancroft Daivs</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">4</biblScope>
-<date when="1882-10-15">October 15, 1882</date>
+<date when="1882-09-30">September 30, 1882</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -100,7 +100,7 @@
 <correspAction type="sentBy">
 <persName>du Verge</persName>
 <placeName>Luanda, Angola</placeName>
-<date when="1882-10-15"/>
+<date when="1882-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>J.C. Bancroft Davis</persName>
@@ -111,8 +111,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
-<change when="2018" who="ls">Transcription and initial encoding</change>
+<change when="2019" who="sab">Creation of individual xml file, transcription and initial encoding.</change>
+
 </revisionDesc>
 </teiHeader>
 
@@ -120,91 +120,21 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document">
 
-<pb facs="teaa.en.letter.0161.001"/>
-<note>No 18</note>
+<pb facs="teaa.en.letter.0162.001"/>
+<note>No 13</note>
 
-<note>Ack: It seems to me that if
-<unclear/> request be permited it would 
-be a <unclear/> <unclear/>
-a <unclear/> once with similar
-requests from ports
-in of a <unclear/> <unclear/>
-<unclear/></note>
 <ab>United States Consulate.
 St. Paul de Loauda
 Nov. 12 1889.</ab>
 
-<note>Recieved December 2nd 1882</note>
-
-<p>United States Consulate
-at St Paul de Loanda S.W.C.A.</p>
-
-<p>L de R. du Verge
-to State Depart.</p>
-
-<p>Subjects
-Temporally leave of absence</p>
-
-<p>Encloses
-Request and causes for the same</p>
-
-<pb facs="teaa.en.letter.0161.002"/>
-<note>18</note>
-
-<p>United States Consulate
-St Paul de Loanda
-October 15th 1882</p>
-
-<p>Hon. J.C. Bancroft Davis
-Asst. Sectry. of State
-Washington D.C.</p>
 <p>How: John Davis
 Att. Secty. of State
 Washington D. C.</p>
 
 <p>Sir
-In consideration of the unhealthy state of 
-this locality at times, I would most respectfully
-solicit the Depart of State, for a standing
-permissions to leave this consulate in charge
-of the Vice, or actg. vice consul, whenever
-circumstances and urgency in case of
-sickness may compel me to leave Loanda
-for a few weeks further North or South as
-may be directed by the Doctors</p>
-
-<p>This request may appear to you from
-one who has but just joined his past
-of duty, to be a departure from diligent
-principles of the Depart. but I trust
-that the special nature of my humble
-request many induce you and the Hon:
-Sectry of State to be the matter into
-favorable consideration.</p>
-
-<p>Having consular agencies further North 
-and South I may be able if such 
-is granted to me, to see personally
-
-<pb facs="teaa.en.letter.0161.003"/>
-how the agencies are and instruct them
-in their duties toward the U.S. govt.
-commerce, shipping <unclear/></p>
-
-<p>I have been sick for over a month with 
-Bilious or green fever and have tried to
-perform the duties I have been intrusted 
-with the best of my ability</p>
-
-<p>I have the honor to be 
-Sir
-Your obedient servant
-L de R. du Verge
-US. Consul </p>
-
-<p>I have the honor to state that by <unclear>upot</unclear> <unclear></unclear> from the
+I have the honor to state that by <unclear>upot</unclear> <unclear></unclear> from the
 Consular agent at Mossamedes that the Am. <unclear>Whalenis</unclear>
 Aks. "Hercules" Capt. J. Mac Lewis and "Million" Capt.
 J. B. Bolter were at that fort during the month of 
@@ -215,4 +145,3 @@ October, also that the Milton <unclear>rau</unclear> on shore ha</p>
 </text>
 
 </TEI>
-

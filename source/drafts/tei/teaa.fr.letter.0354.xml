@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Unknown Letter, Undated</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
@@ -14,6 +14,7 @@
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 <name n="Akyeampong, Chelsea A" xml:id="CAA">Chelsea Animwaa Akyeampong</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -44,8 +45,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Unknown Letter</title>
+<date/>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -76,15 +77,23 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Bluntsebli</term>
+<term>Hesster</term>
+<term>Lambert Tree, Sir</term>
+<term>de Martens</term>
+<term>Minister of the United States</term>
+<term>Perels</term>
+<term>Raiser</term>
+<term>Travers</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Belgium</term>
+<term>Berlin</term>
+<term>Congo</term>
+<term>United States</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -102,15 +111,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName/>
+<roleName/>
+<placeName/>
+<date/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName/>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -120,6 +129,7 @@
 <change when="2019-02-13" who="kln">renamed file, inserted correct header template</change>
 <change when="2018" who="pr">Translated.</change>
 <change when="2017" who="kcd">Transcribed.</change>
+<change when="2019" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -151,7 +161,7 @@
                     (signed by Eetvelde)</fw>
 
 <p>Sa réponse de 
-   M. Lambert Free 
+   M. Lambert Tree 
    rend indispensable de notre 
    part une réserve expresse
    sur l'interprétation de
@@ -288,7 +298,7 @@ que l'adhésion se</p>
    puissances - adhérentes
    ou non     - comme feint
    de le croire Sir Lambert
-   Free, l'art. 37 n'en 
+   Tree, l'art. 37 n'en 
    eût pas fait une
    conséquence de l'acepta=
    =tion des charges. Il
@@ -400,7 +410,7 @@ cette liberté si les</p>
    la preuve, et á les
    laisser naviguer comme
    tout bâtiment 
-   américain et qui jusitifera
+   américain et qui justifiera
    de sa nationalité aura
    libre accés á toutes les eaux du Congo</p>
 
@@ -499,7 +509,7 @@ de droit international,
 Bluntsebli, Hesster,
 Perels, de Martens, Raiser,
 Travers <unclear></unclear>, etc sont
-unamies sur ce point
+unanmiès sur ce point
 que les bâtiments se
 trouvant dans les eaux
 territoriales étrangères

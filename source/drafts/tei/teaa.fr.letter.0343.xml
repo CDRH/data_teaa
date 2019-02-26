@@ -6,12 +6,13 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Letter form G.J. Fercken, April 22, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Akyeampong, Chelsea A." xml:id="CAA">Chelsea Animwaa Akyeampong</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
+<title level="m">Letter form G. J. Fercken</title>
 <date when="1891-04-22">April 22, 1891</date>
 </bibl>
 <msDesc>
@@ -75,15 +76,23 @@
 <term/>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Fercken, G.J.</term>
+<term>Fercken, M. E.</term>
+<term>Hannington, Bishop </term>
+<term>King Léopold II</term>
+<term>Langford, W. S.</term>
+<term>Stanley</term>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Africa</term>
+<term>Beirut, Syria</term>
+<term>Brussels</term>
+<term>Congo</term>
+<term>New York</term>
+<term>United States</term>
 </keywords>
-
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -100,16 +109,16 @@
 </textClass>
 
 <correspDesc>
-<correspAction type="G.J. Jercken">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<correspAction type="sentBy">
+<persName/>
+<roleName/>
+<placeName>Brussels</placeName>
+<date when="1891-04-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>G. J. Fercken</persName>
+<roleName>Pastor</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -117,7 +126,8 @@
 
 <revisionDesc>
 <change when="2019-02-13" who="kln">named file, encoded header</change>
-<change when="2019-02-18" who="CAA">transcribed, encoded</change>
+<change when="2019-02-18" who="CAA">transcribed, translated.</change>
+<change when="2019" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -163,9 +173,9 @@
 <pb facs="teaa.fr.letter.0343.002.jpg"/>
 
 <p>Je ne perdrai pas votre 
-    requéte du vue
-    si l'Etat
-    venait á ètablir un candidat
+    requête du vue
+    si l’État
+    venait á établir un candidat
     á New York.
     <unclear/>.</p>
 
@@ -182,7 +192,7 @@
    York, dans lequel se trouver un long et
    intéressant article sur le Roi actuel des Belges,
    et écrit pas le Rev. Dr. W. S. Langford, Secrétaire
-   Général de la "Domestiq & Foreign Missionary
+   Général de la "Domestic and Foreign Missionary
     Society of the Protestant-Episcopal Church in the 
     United States of America." J'ai pensé que cet-</p>
 
@@ -205,8 +215,8 @@
    Islip, á quelques kilométresde New York. Je suis de
    nationalité néerlandaise; fils de fue M. E. Fercken,
    Consul des Pays-Bas á Beyrouth, Syrie. Je saisis cette 
-   occasion poiur demander á Votre Majesté une petite
-   favoeur: l'<unclear/> de Consul du Congo á New York,
+   occasion pour demander á Votre Majesté une petite
+   faveur: l'<unclear/> de Consul du Congo á New York,
    avec ou sans honoraires. Les nombreux ouvrages que 
    j'ai lus sur l'Afrique, surtout les biographies de Stanley, R
    l'Evêque Hannington etc, n'ont toujours rempli
@@ -285,13 +295,13 @@ interesting artifcle on the actual king of Belgians
 and did not write to the Reverend Dr. W.S. Langfor, Secretary
 General of the Domestic and Foreign-Missionary 
 Society of the Protestant Episcopal Church in the 
-Unted Sates of America I thought that this</p
+Unted Sates of America I thought that this</p>
 
-<fw typed="footer">To His Royal Majesty
+<fw type="footer">To His Royal Majesty
                   Léopold II
                   King of Belgium, Duke of Saxe etc.
                   Sovereign of the Congo Free State
-                  etc.  etc.    etc.</fw>
+                  etc.  etc.  etc.</fw>
 
 <pb facs="teaa.fr.letter.0343.004.jpg"/>
 
@@ -306,10 +316,10 @@ a great monarch.</p>
 I've lived in the US since i was 9 years old, and am housed in 
 Islip, a somewhat kilometers of New York. I am form the
 Netherlands; son of M. E. Fercken,
-Consular of the Country over there in Beirut, Syiria. I was grasping this
+Consular of the Country over there in Beirut, Syria. I was grasping this
 occasion for asking Your Majesty a little 
 favor: the <unclear/> of the Consular of Congo in New York,
-with or without honoraries. THe numerous openings that 
+with or without honoraries. The numerous openings that 
 I read in Africa, throughout the Stanley's biographies, Reverend
 Bishop Hannington etc, did not always fill
 interest and enthusiasm for this country that you have

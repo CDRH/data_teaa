@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from __ to __, date?</title>
+<title>Letter from S.E. M., President, to the Minister of Foreign Affairs, Undated</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,8 +44,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m"><!--DOCUMENT TITLE. EXAMPLE: Letter from Roncière Lenour to Mister Director of the Colonies--></title>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<title level="m">Letter from S.E. M., President, to the Minister of Foreign Affairs</title>
+<date/>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -76,11 +77,12 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Minister of Foreign Affairs</term>
+<term>S.E.M.</term>
 </keywords>
 
 <keywords scheme="original" n="places">
-<term/>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -99,15 +101,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>S.E.M.</persName>
+<roleName>President</roleName>
+<placeName/>
+<date/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName/>
+<roleName>Minister of Foreign Affairs</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
@@ -117,6 +119,7 @@
 <change when="2019-02-13" who="kln">renamed file, inserted correct header template</change>
 <change when="2018" who="pr">Translated.</change>
 <change when="2017" who="kcd">Transcribed.</change>
+<change when="2019" who="sab">Encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -130,7 +133,7 @@
 
 <p>Ministère
 des
-Affaires Etrangères<lb/>
+Affaires Étrangères<lb/>
 Minute.
 Direction A., No 3395.<lb/>
 Objet:
@@ -154,10 +157,10 @@ viens á exprimer le désir qui
 M'anime de voir se consolider
 de plus en plus, les liens qui
 existent si heureusement entre
-les deux Etats. Je prie Votre
+les deux États. Je prie Votre
 Excellence de recevoir l'expression
 des vœux que Je forme pour
-la prosperité de
+la prospérité de
 en même temps que les
 assurances de la haute
 considération et de l'<unclear>inviolable</unclear>
