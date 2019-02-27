@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.loanda.roll5.xml">
 
 <teiHeader>
 <fileDesc>
@@ -10,7 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<name n="Akyeampong, Chelsea A" xml:id="CAA">Chelsea Animwaa Akyeampong</name>
 </respStmt>
 </titleStmt>
 
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno>
+<idno type="project">teaa.en.loanda.roll5.xml</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="a">Copies of Letters by Henry F. Downing</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">5</biblScope>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<date when="1888-01">January, 1888</date>
 </bibl>
 </sourceDesc>
 
@@ -59,7 +59,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2019-02-27" who="#CAA">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -69,10 +69,256 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="x"/><!-- REPLACE x WITH THE FILE NAME OF THE IMAGE. FOR EXAMPLE: Scan10000.jpg -->
 
-<p><!-- BEGIN TRANSCRIBING --></p>
+<pb facs="ViewScan_0000.jpg"/>
 
+<p>United States Consulate
+   St. Paul de Loanda
+   January 10, 1888</p>
+
+<p>Mr. Downing
+   To the Department of State</p>
+
+<p>Subject:
+   Copies of letter <unclear/> to sale drafts.</p>
+
+<p>Abstract of Contents:
+   <unclear/></p>
+
+<pb facs="ViewScan_0001.jpg"/>
+
+<p>United States Consulate
+   St. Paul de Loanda
+   January 14, 1888</p>
+
+<p>Hm. Mes. L. Rives.
+   ,Assistant Secretary of State.
+   Washington, .D.C.</p>
+
+<p>Sir
+        I have the honor to inclose
+        here with copies of two letters, me from Miss 
+1.      Newton. Carnegie & C., one of the
+2.      other from Minis Baines, <unclear/> & A.,
+            I would respectfully request
+        the department to read <unclear/> letter in
+        connection with my dispatch No. 20.
+         <unclear/> date.</p>
+
+<p>I have the honor to be,
+   Sir,
+    Your obedient servant,
+        Henry F. Downing,
+            U.S. Consul</p>
+
+<p>List of Inclosures:
+   No. 1. Newton, Carnegie & Co. to Consul
+       2. Baines Laurent Co.</p>
+
+<pb facs="ViewScan_0002.jpg"/>
+
+<p>Copy!
+        Loanda, January 12, 1888</p>
+
+<p>Henry F. Downing, Esq,
+    U.S. Consul,
+        Loanda.</p>
+
+<p>Sir:
+        In reply to your letter of this
+        shall be <unclear/> as we have commercial
+        relations with the United States, to discount
+        your drafts at 2 1/2 %
+            <unclear/> are
+                Sir,
+            Your obedt. servants
+                Baines, Laurent</p>
+
+<pb facs="ViewScan_0003.jpg"/>
+
+<p>Copy!
+        St.Paul de Loanda 12. January, 1888.</p>
+
+<p>To Henry F. Downing, Esq.
+     U.S. Consul,
+        St. Paul de Loanda,</p>
+
+<p>Dear Sir:
+            In answer to your letter of the 9th
+            inst., with refinance to your Consular drafts; the
+            reason we object to your drafts, is that we have
+            no business with America, and pay commission for
+            collecting and remitting to England, costs
+            us a considerable amount, and such drafts
+            are of little use to us as a remittance in a 
+            commercial way.</p>
+
+<p>         If you could give us drafts on
+            England, we should be happy to take <unclear/>
+            at par and think the movement will have
+            no difficulty in this, having agents in London.
+                <unclear/> are dear Sir,
+                    Yours truly,
+                        Newton, Carnegie & Co.</p>
+
+<pb facs="ViewScan_0004.jpg"/>
+
+<p>United States Consulate,
+    St. Paul de Loanda
+      February 13th, 1888</p>
+
+<p>Mr. Downing
+    To the Department of State.</p>
+
+<p>Subject:
+    Free posts within Consular District</p>
+
+<p>Abstract of Contents:
+    Tarnishing name of free poste</p>
+
+<pb facs="ViewScan_0005.jpg"/>
+
+<p>United States Consulate,
+    St. Paul de Loanda
+      February 13th, 1888</p>
+
+<p>Sir: 
+        In accordance with in-
+    structions contained in Consular dated
+    December 9th, 1887. I have the honor 
+    to forward to the Department the follow:
+    ing, as being a list of the free 
+    porte within this Consular District.
+    Viz:
+        1º S. Antonis (Congo)
+        2º Labinda
+        3º Ambizette (anagram <unclear/>),
+        4º Laudana
+       I have the honor to be,
+        Sir,
+          Your obedient servant,
+            Henry F Downing
+              U.S. Consul</p>
+
+<pb facs="ViewScan_0006.jpg"/>
+
+<p>United States Consulate
+   St. Paul de Loanda
+   January 29th, 1888</p>
+
+<p>Mr Downing
+    To the Department of State</p>
+
+<p>Subject:
+    Customs and Habits of the natives</p>
+
+<p>Abstract of contents
+    Description of some of the habits
+    and customs of the natives</p>
+
+<pb facs="ViewScan_0007.jpg"/>
+
+<p>United States Consulate
+    St. Paul de Loanda
+    January 12th, 1888</p>
+
+<p>Con H.L. Rives,
+     Assistant Secrtary of State
+        Washington, D.C.</p>
+
+<p>Sir:
+        I have the honor to submit
+    to the Department the following:
+        The desire of our people to 
+    intend this foreign trade is inducing
+    them to look towards this and adjoining 
+    parts of Africa as a possible field
+    for cultivation. If this is true, it is well
+    for them to know that while it is by 
+    no means impossible for them to secure
+    a valuable market here, there are many
+    obstaclces to overcome, the greatest of which
+    is inexperience but an examination
+    of the methods of other countries will
+    teach them much.
+        The commercial nations of 
+    Europe recognizing that the success
+                                    of</p>
+
+<pb facs="ViewScan_0008.jpg"/>
+
+<p>of endeavor in these parts depended
+   upon a knowledge of its people, adopted
+    a system the wisdom of which is paved
+    by their large and successful dealings,
+    and, if our peopleact upon the the belief
+    that they can conduct their <unclear/>
+    under different rules, they are making
+    a mistake which will cost them dear,
+    for costly experiment will only prove
+    the value of England.and Germany's
+    methods.</p>
+    
+<p>     An internale knowleddge of the
+    people, their wants and their habits in
+    a necessity, this is to be had only by
+    contact and American resident represen
+    tatives of houses, learning the dialects <unclear/>
+    is of first importance; for often, the 
+    purchase of produce, ddoes not so much
+    defend upon the quality of the goods,
+    as it does upon the the <unclear/> of the
+    trades.</p>
+
+<p>     As all or any of their habits
+    may be of value as guides to a study
+    of their character. I have taken this 
+    method of describing a few of those
+                                customs.</p>
+
+<pb facs="ViewScan_0009.jpg"/>
+
+<p>customs which are more or less general.</p>
+
+<p>     That part of this country
+    which is on the coast live and between
+    Lat. 5º South, and Lat. 15º 20… South
+    contains some twenty different tribes.
+    Then again are divided and subdiversed
+    and, while in some respects are alike that
+    are many points of <unclear/>.</p>
+
+<p>     When referring to the habits
+    and customs of these natives, attention
+    is drawn to the question of slavery; but
+    as practiced by them, it takes a com=
+    plexion so mild that it crries with it
+    amongst them, no hardships. Their laws
+    make it a necessity for the owner to
+    give them every care, attend to them where
+    sick, food and clothethem, bury and marry
+    and happiness in every direction, and so
+    little difference is made, that the owners
+    in speaking of their slaves, call them,
+    son or daughter.</p>
+
+<p>     The peaceful dispositions
+    of these coast tribe prevents war from
+    beign a <unclear/> for the ranks of
+                                slavery</p>
+
+<pb facs="ViewScan_0010.jpg"/>
+
+<p>slavery, but these are found through
+    the workings of their laws, which are
+    strict, a plentitude of victims. Offices
+    against property are causes for slavery or
+    death, any one caught stealing <unclear/>
+    be he who he may, chief or subject, the
+    property of the one stolen from the most
+    trivial things; for instance, spitting on
+    another shoe, is looked upon as a heinous
+    crime deserving of death or slavery.</p>
 </div1>
 
 </body>
