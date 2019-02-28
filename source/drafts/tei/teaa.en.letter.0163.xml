@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0154">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0163">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from L de R du Verge to J.C. Bancroft Davis, October 15, 1882</title>
+<title>Dispatch from L. de R. du Verge, Consul, to William Hunter, Acting General Secretary of State, December 1, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0154</idno>
+<idno type="project">teaa.en.letter.0163</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from L de R du Verge to J.C. Bancroft Davis</title>
+<title level="a">Dispatch from L. de R. du Verge, Consul, to William Hunter, Acting General Secretary of State, December 1, 1882</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">4</biblScope>
-<date from="1882-10-15" >October 15, 1882</date>
+<date from="1882-12-01" >December 1, 1882</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -70,11 +69,19 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Hunter, William</term>
+<term>du Verge, L. de R.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Africa</term>
+<term>Amlry</term>
+<term>Angola, Loanda</term>
+<term>Bongsrella</term>
+<term>Mossamedes</term>
+<term>St. Paul de Loanda</term>
+<term>St. Thome</term>
+<term>Washington D.C.</term>
 
 </keywords>
     
@@ -99,12 +106,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge, L de R.</persName>
+<persName>L. de R. du Verge</persName>
+<roleName>Consul</roleName>
 <placeName>Luanda, Angola</placeName>
-<date when="1882-10-15"/>
+<date when="1882-12-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J.C. Bancroft</persName>
+<persName>William Hunter</persName>
+<roleName>Acting General Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +121,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
-<change when="2018" who="ls">Transcription and initial encoding</change>
-
+<change when="2019" who="sab">Creation of individual xml file, transcription, encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,85 +131,62 @@
 
 <div1 type="document">
 
-<pb facs="teaa.en.letter.0154.001"/>
-<note>No 18</note>
+<pb facs="teaa.en.letter.0163.001"/>
 
-<note>Ack: It seems to be <unclear/> if 
-the request be <unclear/> it would
-be <unclear/> <unclear/></note>
-
-<note>Received Dec 2 1882</note>
-
-<p>United States Consulate
-at St Paul de Loanda S.W.C.A.</p>
-
-<note> a<unclear/> once with similar
-requests from posts
-in of a similiar <unclear/>
-<unclear/></note>
-
-<p>L. de R. du Verge 
-to the State Depart.</p>
-
-<p>Subjects
-Temporally leave of absence</p>
-
-<p>Encloses. 
-Request and causes for the same.</p>
-
-<pb facs="teaa.en.letter.0154.002"/>
-<p>United States Consulate
+<dateline>United States Consulate
 St Paul de Loanda
-October 15th 1882.</p>
+December 1, 1882.</dateline>
 
-<p>Hon J.C. Bancroft Davis
-Asst Sectry of State 
-Washington D.C.</p>
+<note>Hon: Hunter
+Act gn. Secretary of State
+Washington D.C.</note>
 
-<p>Sir
-In consideration of the unhealthy state of
-this locality at times, I would most respectfully 
-solicit the Depart. of State, for a standing
-permissions to leave this consulate in charge
-of the Vice, or actg. vice consul, whenever
-circumstances and urgency in case of 
-sickness may compel me to leave Loanda
-for a few weeks further North or South as 
-may be directed by the Doctors.</p>
+<p>Sir,
+I have the honor to acknowledge the receipt of your
+2 Circulars dated Sept. 5th and 13th 1882. In 
+answer to your circular of Sept. 13thth. I would
+respectfully state that I have already brought
+the subject before the Civil and Military goals of
+Angola with the Lo lands, of St. Thome and <unclear>Renciss</unclear>
+included, offering them the lech of refined <unclear>Pehatumm</unclear> 
+for City and military <unclear>ecse</unclear>, as mentioned to the state
+Dept. in my dispatch No. 6". That Kerosene act was
+in great demand here and all over this Coast.
+But the shippers and Masters of Am: Vessels should
+be very careful have they are deal with the white and 
+blacks of this part of the country, Am: Commerce
+has almost been <unclear>dueua</unclear> by Am: shippers and <unclear>martes</unclear>
+ever fault as reported, as reported in my departed no of 
+another important trade will soon be of 
+farming implements of all kinds.</p>
 
-<p>This request may appear to you, from
-one who has but just joined his post,
-of duty, to be a departure from the general
-principles of the Depart. but I trust 
-that the special nature of my humble 
-request may induce you and the Hon:
-Sectry of State to take the matter with
-favorable consideration.</p>
+<p>I have the honor to be
+Sir
+Your obedient servant</p>
+<p>L. de R. du Verge</p>
 
-<p>Having consular agencies futhe North
-and South I may be able if such 
-is granted to me, to see personally 
+<pb facs="teaa.en.letter.0163.002"/>
 
-<pb facs="teaa.en.letter.0154.003"/>
-how the agencies are, and instruct them
-in their duties toward the U.S. govt,
-commerce, shipping &amp;c. &amp;c.</p>
+<p>Stats for merit of comdr
+of the <unclear>Enter</unclear></p>
 
-<p> I have been sick for over a month with 
-Bilious or green fever and have tried to 
-perform the duties I have been intrusted 
-with the best of my ability</p>
+<p>No. 30</p>
+<p>Consulate of the United States of America
+at St. Paul de Loauda 3. 90. C. Africa</p>
 
-<p>I have the honor to be 
-Sir 
-your obedient servant
-L de R. du Verge
-U.S. Consul.</p>
+<p>L. de R. du Verge
+to State Department
+Washington D. C.</p>
 
+<p>Subject
+Acknowledgment of Dispatch No. 10</p>
+
+<p>Incloses
+Reasons why Agents were appointed at
+Amlry Bongsrella g. particularly Mossamedes.</p>
 </div1>
 </body>
 </text>
 
 </TEI>
-
 
