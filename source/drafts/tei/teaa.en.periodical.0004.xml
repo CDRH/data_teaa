@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0004">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>H. T. Kealing, "Facts About Africa and the African Negro" (1898)</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Perry, Jade" xml:id="jp">Jade Perry</name>
+<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.periodical.0004</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">Facts About Africa and the African Negro</title>
+<author n="Kealing, H. T.">H. T. Kealing</author>
+<title level="j">African Methodist Episcopal Church Review</title>
+<biblScope unit="volume">14</biblScope>
+<biblScope unit="issue">4</biblScope>
+<date when="1898-04">April 1898</date>
+<biblScope unit="page">453-456</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Missionary Activity</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Journal</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="viaf" n="places">
+<term>Angola</term>
+<term>Ashanti</term>
+<term>Baguirmi (Chad)</term>
+<term>Dahomey</term>
+<term>French Congo</term>
+<term>German East Africa</term>
+<term>German South West Africa</term>
+<term>Gold Coast</term>
+<term>Kanem-Bornu Empire</term>
+<term>Kasai River</term>
+<term>Lake Bangweola</term>
+<term>Lake Chad</term>
+<term>Lake Nyasa</term>
+<term>Lake Tanganyika</term>
+<term>Liberia</term>
+<term>Lower Niger Basin</term>
+<term>Lulua River</term>
+<term>Madagascar</term>
+<term>Niger River</term>
+<term>North Africa</term>
+<term>Portuguese Mozambique</term>
+<term>Sahara Desert</term>
+<term>Saint-Louis (Senegal; region)</term>
+<term>Sierra Leone</term>
+<term>Slave Coast</term>
+<term>Sokoto Caliphate</term>
+<term>South Africa</term>
+<term>Sudan (Region)</term>
+<term>Upper Guinea</term>
+<term>Wadai (Chad)</term>
+<term>Zambezi River</term>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<!-- as named in article - see teaa.en.periodical.0004.txt for Kayla's notes re. modern-day names -->
+<term>Ambuella</term>
+<term>Angoche</term>
+<term>Arabs</term>
+<term>Asante</term>
+<term>Baluba</term>
+<term>Barotse</term>
+<term>Barua</term>
+<term>Bashilange</term>
+<term>Bashona</term>
+<term>Batonga</term>
+<term>Banyai</term>
+<term>Ba teke</term>
+<term>Bechuana</term>
+<term>Benga</term>
+<term>Buende</term>
+<term>Bushmen</term>
+<term>Butna</term>
+<term>Efik</term>
+<term>Ephe</term>
+<term>Fang</term>
+<term>Ga</term>
+<term>Hamites</term>
+<term>Hottentots</term>
+<term>Housa</term>
+<term>Hungu</term>
+<term>Ibo</term>
+<term>Imoshagh</term>
+<term>Kaffir</term>
+<term>Krumen</term>
+<term>Lornoe</term>
+<term>Luaugu</term>
+<term>Ma-iaka</term>
+<term>Ma-kioko</term>
+<term>Makonie</term>
+<term>Makua</term>
+<term>Manganga</term>
+<term>Malay</term>
+<term>Mbete</term>
+<term>Mende</term>
+<term>Metabele</term>
+<term>Metu</term>
+<term>Moluas</term>
+<term>Mpongwe</term>
+<term>Ndembu</term>
+<term>Northern Mbamba</term>
+<term>Nupe</term>
+<term>Ova-hereto</term>
+<term>Ovi-mbundu</term>
+<term>Pangu</term>
+<term>Pygmies</term>
+<term>Solongo</term>
+<term>Sundi</term>
+<term>Susu</term>
+<term>Teda</term>
+<term>Temne</term>
+<term>Tsaia</term>
+<term>Tshi</term>
+<term>Tibbu</term>
+<term>Vai</term>
+<term>Wa-Gogo</term>
+<term>Wa-Hehe</term>
+<term>Wa-Nyamwezi</term>
+<term>Wa-Sagara</term>
+<term>Wa-yao</term>
+<term>Wa-Zaguha</term>
+<term>Wa Zaramo</term>
+<term>Wolof</term>
+<term>Yariba</term>
+<term>Zulus</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term>Catholic</term>
+<term>Islam</term>
+<term>Pagan</term>
+<term>Protestant</term>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>Bantu</term>
+</keywords>
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-03-01" who="kln">encoded</change>
+<change when="2017" who="ks">corrections, marked up</change>
+<change when="2016" who="jp">transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb xml:id="p453" facs="teaa.en.periodical.0004.001.jpg"/>
+
+<div2 type="title">
+
+<p>Facts About Africa and the African Negro.</p>
+
+<p>By the Editor.</p>
+   
+</div2>
+
+<div2 type="article">
+
+<p>Negro Tribes.</p>
+
+<p>The Teda or Tibbu, found in the Sahara Desert, north of Lake Tshad.</p>
+
+<p>Inhabitants of Wadai and Baghirmi, found east of Lake Tshad.</p>
+
+<p><sic>Indabitants</sic> of Bornu, mixed with Imoshagh and Arabs.</p>
+
+<p>Inhabitants of Sokoto, called Housa, between Lake Tshad and Niger River. (These are said to be the most promising nation of the
+
+
+<pb xml:id="p454" facs="teaa.en.periodical.0004.002.jpg"/>
+
+
+Sudan, whose language persists even against the Arab and English tongues.</p>
+
+<p>Inhabitants of Upper Guinea, mostly heathen.</p>
+
+<p>The Wolofs of French Senegambia, near St. Louis.</p>
+
+<p>The Susu, Temne, and Mende, around Sierra Leone.</p>
+
+<p>The Vai, and Krumen, around Liberia.</p>
+
+<p>The Ephe, Ga, and Tshi, including people of Asante and Dahome, on the Gold and Slave Coast.</p>
+
+<p>The Yariba, Nupe, Ibo, and Efik, in the Lower Niger-basin.</p>
+
+<p>The Moluas, Barua, Baluba, Bashilange, between Tanganyika, Bangweola, and <sic>he</sic> confluence of the Lulua and Kassai.</p>
+
+<p>The Ma-iaka, Northern Mbamba, Butna, Mbete, Tsaia, Ba teke.</p>
+
+<p>The Mpongwe, Fang, Benga, in French Kongo.</p>
+
+<p>The Kongo Nation, including the Luaugu, Buende, Sundi, Solongo, Ndembu, Hungu, Pangu.</p>
+
+<p>The Ovi-mbundu, Ma-kioko, Ambuella, in the highlands of Angola and about the headwaters of the Zambesi.</p>
+
+<p>The Ova-hereto, in German South Africa.</p>
+
+<p>The Barotse in the Upper Zambesi valley.</p>
+
+<p>The Zulus, Kaffir, Bechuana, Batonga, Metabele, Bashona, Banyai, south of the Zambesi.</p>
+
+<p>The Makua, including the Lornoe, Metu, Angoche, in Portuguese Mozambique.</p>
+
+<p>The Wa-yao, Makonie, Manganga, around Lake Nyassa.</p>
+
+<p>The Wa Zaramo, Wa-Zaguha, Wa-Sagara, Wa-Gogo, Wa-Hehe, Wa-Nyamwezi, of German East Africa.</p>
+
+<p>This showing of tribes and nations, while not perfect, sets forth the best knowledge we have of the real Negro peoples of Africa. It should be remembered that we have, in this list, rejected all Hamites, not Negro, such as the white Hamites along the Mediterranean coast of North Africa, the mixed people (brown) of the Sudan, the Malay of Madagascar, the Hottentots of South Africa, the Bushmen, and the Pygmies.</p>
+
+<p>Negro Languages.</p>
+
+<p>One would suppose that in all this multiplicity of tribes there would be a hopeless tangle of unrelated tongues, the despair of grammarians and philologists, but it has been shown that many widely separated tribes may be classified into two: the Bantu, or Negroes south of the Equa-
+
+
+<pb xml:id="p455" facs="teaa.en.periodical.0004.003.jpg"/>
+
+
+tor; and the Negroes of Upper Guinea and the Sudan, north of the Equator; and we are even told that the distinction between them is a myth, the chief difference between them being traceable to the difference in amount of contact with foreign influence on the part of the two. The Negroes north of the Equator show traces in their language
+of the Bantu root origin, but this is so overlaid with a mass of new language-growths as to be difficult of discernment, while all the 180 languages and 60 dialects of the Bantu south of the Equator are resolvable into very few languages, possibly only one, and many dialects. If it be found, as is strongly suspected, that the original language 
+of the tribes north of the Equator be referable to the same root stock, we shall see this formidable tangle of tongues that has seemed to erect almost insuperable obstacles to successful missionary effort, and to forbid the building of a written language and literature, melt away, leaving the future to point to one great homogeneous people 
+in all Central Africa, speaking and writing the same virile language.</p>
+
+<p>The world has always had great difficulty in understanding what constitutes a typical Negro any way. What with general ignorance of the uncontaminated Negro in Fatherland, and the arrogant assertions and arrant misconceptions of prejudice-distorted American opinions,  we have been blinding ourselves to the fact, now forcing itself upon travelers and scholars, that beneath nearly sameness of color in the Negro tribes, there lies a diversity of temperaments, abilities, adaptabilities and susceptibilities as great as we have always known existed among different branches of the Caucasian race.</p>
+
+<p>The Quarterly Bulletin of Gammon Seminary, to which we are indebted for most of the facts herein, which we have arranged and commented upon in our own way, shall be allowed to conclude this article in its own excellent words:</p>
+
+<p>The Bantu, or Negroes south of the equator, are in some respects the most remarkable sections of mankind. Separated from the world by wide oceans, virgin forests and the Sahara Desert, they have been less than any other race, subject to foreign influences. No strange blood has altered their physical constitution, no foreign languages have permanently mangled the structure and the word-store of their principal forms of speech; no outside religion has seriously affected their conceptions of God, the spiritual, the animal and the natural worlds Now they are receiving Christianity and the highest civilization  the world has ever known, by methods which, however crude,
+
+
+<pb xml:id="p456" facs="teaa.en.periodical.0004.004.jpg"/>
+
+
+inconsiderate and unjust they may appear fifty years hence, are yet far superior to all that our most sanguine forefathers could have anticipated.</p>
+
+<p>All readers of the daily papers and of missionary journals have become familiar with the story of Uganda. The wonderful changes which have there taken place since 1872, when the first missionary party entered the country, and which have transformed that semi-Pagan and semi-Mohammedan country and people into a semi-Protestant and semi-Catholic Christian nation, more progressive and more promising than some sections of the Italian, Spanish and Portuguese nations, those changes, I say, are prophetic of what is about to happen among all the great Bantu nations we have passed in review.</p>
+
+<p>If my opinion about the future were asked. I should not hesitate to declare my conviction that within one hundred years all Bantu land  will contain more than 500,000,000 inhabitants, will equal Europe in  civilization, will be united in a great United States of Central Africa under a new and improved edition of our American Constitution,  will both speak and write a common language, the mother-tongue of all Bantu dialects, as revived by scholars and enriched with the best developments of its daughters, and will produce masterpieces  of literature, science, and art, vying with all the best that Europe and America will then be able to bring forth.</p>
+                  
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>

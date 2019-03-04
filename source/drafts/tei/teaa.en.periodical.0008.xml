@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILE NAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0008">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>R. S. Lovinggood, "The Negro Seer: His Preparation and Mission" (1907)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Perry, Jade" xml:id="jp">Jade Perry</name>
+<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.en.periodical.0008</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,13 +43,13 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
+<title level="a" type="main">The Negro Seer: His Preparation and Mission</title>
+<author n="Lovinggood, Reuben Shannon, 1864-1916">R. S. Lovinggood</author>
 <title level="j">African Methodist Episcopal Church Review</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="yyyy-mm"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<biblScope unit="volume">24</biblScope>
+<biblScope unit="issue">1</biblScope>
+<date when="1907-07">July 1907</date>
+<biblScope unit="page">156-172</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -72,18 +72,22 @@
 <term>Journal</term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term>Gobineau, Arthur, comte de, 1816-1882</term>
+<term>Leibniz, Gottfried Wilhelm, Freiherr von, 1646-1716</term>
+<term>Stephens, Alexander H. (Alexander Hamilton), 1812-1883</term>
+<term>Terence</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="viaf" n="places">
+<term>Peru</term>
+<term>Savannah (Ga.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Antisians</term>
+<term>Jews</term>
+<term>Scandinavian</term>
 </keywords>
     
 <keywords scheme="original" n="language">
@@ -94,16 +98,13 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 <term/>
 </keywords>
 
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
-
 </textClass>
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2019-03-04" who="kln">encoded</change>
+<change when="2017" who="ks">corrections, marked up</change>
+<change when="2016" who="jp">transcription</change>
 </revisionDesc>
 </teiHeader>
 
@@ -111,454 +112,19 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
-   
-<div2 type="titles">
+<div1 type="document" xml:lang="en">
+
+<pb xml:id="p156" facs="teaa.en.periodical.0008.001.jpg"/>
+
+<div2 type="title">
+
+<p>The Negro Seer: His Preparation and Mission.</p>
 
 </div2>
 
 <div2 type="article">
-
-                       <head>CHURCH   REVIEW
-Vol. XXIV, No. I.          'JULY, 1907.               Whole No. 93</head>
-                           
-                         <head>I</head>
-              <head>SOME NOTED NEGROES OF THE PAST. </head>
-   <p>Besides the men and women fairly well known to the person 
-of average information by reason of their appearance,
-more or less fully and frequently, in the pages of history or
-current literature, there are characters not a few deserving of
-public presentation, whose names are hidden away in fugitive
-pamphlets, old books out of circulation, or in the memories
-of contemporaries still alive, but soon to pass because of age.
-These names ought to be preserved to history and to the Negro
-race, for it is not so rich in heroic personalities that it can afford 
-to let one pass from existence for lack of a biographer, or
-at least an index finger pointing to the place in some musty corner 
-of an old library where the facts can be found.</p>
-   <p>The names of men like Douglass in America, Dumas in
-France, or Toussaint L'Ouverture in Hayti, are safely history's; 
-there are others full worthy of an equally honorable,
-if not an equally illustrious, page, from whom the obscuration
-of the studied silence of Caucasian book-makers must be
-lifted.</p>
-   <p>It has been said, and is to a degree true, that the Negro
-
-<fw>2                         THE  REVIEW</fw>
-is so busy making history that he has not time to write it. It
-may state a fact, but it declares a deficiency also; for the men
-and deeds, noble though they be, that die for want of a chronicler, 
-exercise no influence in fixing the capacity of a race, refuting 
-the malicious diatribes of a priori dogmatists, inspiring
-the hopes of following generations, or justifying the faith of
-sturdy friends. Men, therefore, like Daniel Murray and Wm.
-C. Bolivar, who are devoting all their leisure moments to the
-discovery of such persons and to the unearthing of creditable
-records too long buried, are of a class which is doing more valuable 
-work for race vindication than most of the men who
-regard the deed without the record.</p>
-   <p>The writer, acknowledging the inspiration of their example 
-and mindful of the mission of the A. M. E. Review,
-has, in this series, attempted to "lend a hand."</p>
-   <p>The first person to whom the reader's attention is directed is
-
-                     <fw> Robert Campbell.</fw>
-   In 1858, a year previous to that made memorable in
-American history as the time when John Brawn's raid at Harper's 
-Ferry precipitated the "irrepressible conflict" that destroyed 
-human slavery, a body of earnest humanitarians met
-together and formed what they called the "General Board of
-Commissioners" to plan and provide for an exploration, scientific 
-and anthropological, of that part of Central Africa occupied by 
-the Egbas and Zorubas. The purpose was not avowedly, 
-to ascertain the fitness of that region for the residence of
-
-                      <fw>SOME NOTED  NEGROES                          3</fw>
-the American Negro, though, doubtless, that had a large unacknowledged 
-place in their minds.</p>
-   <p>The gentlemen forming this Board of Commissioners
-were men well known in their day around Philadelphia and
-the North. William Howard Day, President; Matisen F.
-Bailey, Vice President; Geo. W. Brodie, Secretary; James
-Madison Bell, Treasurer; Alfred Whipple, Auditor; Dr. Martin 
-R. Delany, Special Foreign Secretary; Isaac D. Shadd,
-who subsequently took Mr. Bailey's place as Vice President;
-Abram D. Shadd and James Henry Harris.</p>
-   <p>All of these men had shown a profound interest in the
-promotion of the political and general interests of the colored
-inhabitants of North America, especially of the United States
-and Canada. After due deliberation, it was decided to organize 
-"The Niger Valley Exploring Party" for the purpose
-of visiting theNiger region to make a topographical, geological
-and geographical examination of it; to inquire also into the
-state and condition of the people of the valley, with such other
-scientific inquiries as might be deemed expedient for the
-purpose of science and for general information; but it was explicitly 
-stated that the expedition had no reference to an emigration movement, 
-the board being, in fact, opposed to the idea.</p>
-   <p>Nevertheless, it would require a stretch of faith not likely
-to be exercised by our readers who know of the oppression
-and interest of the Negro in America at that time, to ask them
-to believe that this party of Negro explorers were going out
-
-<fw>4                          THE REVIEW</fw>
-for pure love of science and in absolute disregard of the fitness
-of Africa as a haven for their kinsmen in tribulation.</p>
-   <p>Among the five chosen for this work was Professor Robert Campbell, 
-of whom we write. He was one of the earliest
-and most eminent scientists produced by the Negro race in
-America, holding at the time of his appointment the professorship 
-of Science in the famous Institute for Colored Youth,
-Philadelphia, recently removed from that city to Cheyney,
-Pa., about 20 miles away, where it still flourishes under the
-management of the Friends.</p>
-   <p>It was because of Professor Campbell's scientific attainments 
-that he was selected for the exploring party, for it was
-desired that the observation should not be superficial or hasty,
-but thorough and competent.</p>
-   <p>He was not a full-blood Negro, but a quadroon, resembling
-in personal appearance a Scotchman in cast of face and in his
-raw-boned frame. His eye was keen and piercing, his nose
-thin and sensitive, well bridged and straight. The mouth was
-thin and straight-lined, the chin pronounced and inclined to
-be square; the cheek-bones prominent; while a mustache and
-scrawny, scattering beard covered his lower face. Altogether,
-his was the make-up to undertake the arduous duties assigned
-him, and right joyfully did he undertake them, when, having
-crossed to Liverpool, he set sail on the second stage of his
-voyage June 24, 1859, touching at Funchal, Madiera, Santa
-Cruz, Teneriffe and Cape Verde, before anchoring in the port.
-of Bathurst, Gambia.</p>
-   <p>We are indebted to his own account of this memorable
-
-                    <fw> SOME   NOTED   NEGROES                 5</fw>
-trip for most of the interesting facts we are able to present.
-On his return, he published a brief, but very satisfactory, account 
-of the country, the tribes and their customs; an account
-that loses none of its interest read by the light of more ambitious 
-volumes in these later days when Africa and everything
-African is being examined with a microscope and raked with
-a fine-toothed comb.</p>
-  <p> Landing at Lagos on the Gulf of Guinea, after a stay of
-some weeks awaiting Dr. Martin R. Delaney, his companion
-explorer, in vain, he began his journey inland up the Ogun
-river, having for his first objective the native town of Abbeo-
-kuta. He was fortunate in making the acquaintance of Rev.
-Samuel Crowther, the gifted native preacher and scholar, since
-made Bishop of Niger by the Episcopal Church—a man as
-brilliant as he is black. The two sons, Samuel and Josiah
-Crowther, decided to accompany Prof. Campbell, and together
-they set out. In due time they arrived at Abbeokuta and were
-given an audience with the King, who regarded their mission
-with great favor.</p>
-  <p> A digression which Prof. Campbell makes in his narrative 
-is of much interest as showing that the idea that Negroes
-always pay more deference to white men because they are
-white than to colored men, is false and the result of slavery
-rather than any innate sense of inferiority in the black man.
-    On this point, he says:</p>
-   <p> "The natives generally at first regarded me as a white
-man, until I informed them of my connection with the Negro.
-This announcement always gained me a warmer reception."
-</p>
-<fw>6                      THE REVIEW</fw>
-  <p> "The reader here will permit me to digress to explain a
-matter respecting which there has hitherto been some misconception. 
-It has been asserted that the native African does not
-manifest under any circumstances the same deference for colored 
-men as he does for white men; and so fully is this believed, 
-particularly in the United States, that both my colleague, 
-Dr. Delaney, and myself were frequently cautioned
-respecting the danger to which we should be exposed in consequence 
-of our complexion. It is indeed true that more respect 
-has been accorded to white men, on account of their superior 
-learning and intelligence, than to the generality of semicivilized
- Mack men from the Brazils and other places, who
-now live in the Aku country; but it is a great mistake to think
-that the same is withheld from colored men similarly endowed
-with their .white brethren. Let any disinterested person visiting 
-Abcokuta place himself in a position to notice the manner
-in which such a person, for instance, as the Reverend Samuel
-Crowther, or even his son of the same name, each a pure Negro, 
-is treated, and he would soon perceive the profound respect 
-with which Africans treat those of their own race worthy
-of it. The white man who supposes himself respected in Africa, 
-merely because he is white, is grievously mistaken. I
-have had opportunities to know, that if he should, presuming
-on his complexion, disregard propriety in his bearing towards
-the authorities, he would receive as severe rebuke as a similar
-offense would bring him. in England. One of the chiefs of
-Abbeokuta, Atambala, was with us. one day when a young
-missionary entered and passed him with only a casual nod of
-
-                  <fw>   SOME NOTED  NEGROES                     7</fw>
-the head. As soon as he was seated the haughty old chief
-arose and said, in his own tongue: 'Young man, whenever any
-of my people, even the aged, approaches me, he prostrates himself 
-with his face to the ground. I do not expect the same
-from you or from civilized men, (oyibo), nevertheless remember 
-always that I shall demand all the respect due to a chief of
-Abbeokuta. A sufficient apology was given, and the matter
-ended, not without, it is hoped, teaching a salutary lesson."</p>
-   <p>This incident gives us an insight into the distorting effects 
-of slavery. Men who have seen white enthroned and
-made the standard of all excellence learn to depreciate, if not
-despise, black; which, indeed, was the aim of those who deprived 
-their fellow-men of God-given liberty. It is a travesty
-upon reason and good judgment to distort and deform a human 
-being's conceptions by a false system of training and then
-point to the resulting product as the outcome of "race traits
-and tendencies;" yet this is exactly what American opinion
-does.</p>
-   <p>Possibly no question has been more hotly debated than
-the Negro's ability of self-government. The Reconstruction
-regime is always put to do service to demonstrate his inability;
-but Professor Campbell found a degree of social and political
-efficiency among the Aku nation, of whom the Egbas form a
-part, that was truly wonderful. Besides, it had the rare
-merit of being indigenous to Africa, thus discrediting another
-stock explanation of whatever merit Americans see in a Negro
-—that of "mere power to imitate."</p>
-
-<fw>8                         THE REVIEW</fw>
-  <p> Professor Campbell informs us that—
-   "Viewed as to its power of enforcing order, and afford
-ing security for life and property, the government of Abbeo
-kuta is as efficient as a civilized government can be, and it 
-accomplishes these ends with the greatest ease and simplicity.
-Punishment is always summary and certain; notwithstanding,
-nobody complains of injustice. The penalty for theft is extreme, 
-being either decapitation or foreign slavery. Before
-the advent of missionaries and civilized people adultery was
-sometimes also a capital offense; now it is modified to heavy-
-fines, the amount of which is always proportioned to the position 
-and wealth of the offender. Cases of adultery often occur, 
-and must be expected until they are taught to abandon
-the disgusting system of polygamy.</p>
-   <p>"The tenure of property is as it is among civilized people,
-except as to land, which is deemed common property; every
-individual enjoys the right of taking unoccupied land, as much
-as he can use, wherever and whenever he pleases. It is deemed
-his property as long as he keeps it in use; after that, it is
-again common property. This custom is observed by all the
-Alois.</p>
-  <p> "The surviving relatives of one buried on any lot of
-ground have a right to that ground, which nothing can tempt
-them to relinquish, and from respect to the sentiment, no one
-would invade on any pretext, particularly when the deceased
--was a mother or father. Mr. S. Crowther, Jr., has long desired 
-to possess a strip of land contiguous to his place of business, 
-but no offer of money can induce the owner to part with
-
-                 <fw>SOME  NOTED   NEGROES                    9</fw>
-it, although he is very poor; because his father lies buried
-there."</p>
-   <p>Surely, here is the source of Henry George's single tax
-theory which is intended to take from a man all idle land,
-leaving him only as much as he can use profitably; yet observe
-how filial regard, and respect for the dead, make a beautiful
-exception to the general law in Africa by setting apart forever
-burial grounds. Nothing quite like it can be found outside of
-China, where veneration for parents approaches ancestor worship. 
-Certainly America, which runs a street right over the
-bones of a hero to make way for traffic, cannot match it.</p>
-   <p>A little further on, our author gives us an amusing instance 
-of that universal jealousy that seems to exist among
-physicians of every race and kind. The sprightly recital cannot 
-be improved upon. Says he:
-   "There are many doctors—physicians, I might have said
-—throughout the Aku country; and they are as jealous of their
-profession, and as opposed to innovation in practice as the most
-orthodox disciple of Aesculapius amongst us can be. Shortly
-after the return of Mr. S. Crowther, Jr., from London, where
-he received the training of a surgeon, several of these doctors,
-hearing that he was prescribing for many who were before
-their patients, assembled en masse in the market place, and after 
-due deliberation issued an "injunction" that he should
-forthwith abandon his practice. Some of the foremost of them
-were deputed to communicate the decree of the faculty. They
-were cordially received and heard with patience. After some
-conversation, Mr. C. informed them that, he was willing to
-
-<fw>10                        THE REVIEW</fw>
-obey, but only after a trial on both sides should prove him to
-be the less skilled in the mysteries of the profession To this
-they consented. Time was given for preparation on both
-sides. In the afternoon the regulars appeared, clothed in their
-most costly garments, and well provided with orishas or charms
-attached to all parts of their persons and dress. In the meantime 
-Mr. Crowther had also prepared to receive them. A table
-was placed in the middle of the room and on it a dish in which
-were a few drops of sulphuric acid, so placed that a slight motion 
-of the table would cause it to flow into a mixture of chlorate of 
-potassa and white sugar. A clock was also in the room,
-from which a small bird issued every hour and announced the
-time by cooing. This was arranged so as to coo while they
-were present. Mr. Crowther then made a brief harangue, and
-requested them to say who should lead off in the contest. This
-privilege they accorded to him. The door was closed, the curtains 
-drawn down. All waited in breathless expectation.
-Presently the bird came out, and to their astonishment cooed
-twelve times, and suddenly from the midst of the dish burst
-forth flame and a terrible explosion. The scene that followed
-was indescribable; one fellow rushed through the window and
-scampered; another in his consternation overturning chairs.
-tables and everything in his way, took refuge in the bedroom, 
-under the bed, from which he was with difficulty after
-wards removed. It need not be added that they gave no more
-trouble, and the practice they sought to break up was only the
-more increased for their pains."</p>
-   <p>Prof. Campbell, pursuing the purpose for which he was
-
-               <fw>SOME  NOTED NEGROES                       11</fw>
-sent out, collected much valuable information about the form
-of government, the grades of native officials, native food and
-cooking, clothing, skill in iron working, shrewdness in trade,
-native notions of honor, slavery, polygamy, military genius and
-funeral rites. In almost all of these specifications he shows
-the innate ability, ingenuity and initiative of the African who
-had not come in contact with Caucasian instruction. The
-whole showing is in disagreement with American ideas.</p>
-   <p>Those readers interested in philological investigation are
-told of the richness of the Aku vocabulary. In methods of
-salutation alone they have more than a score of words. For
-instance:
-   "Equals meeting will simply say, acu; but one addressing
-a superior affixes some word to acu, thus, acabo, (acu abo*)
-acuni, etc. The superior usually salutes first, and when the
-disparity of position is great, the inferior prostrates. The
-young always prostrate to the aged. Women kneel, but never 
-prostrate. Sons, without reference to age or rank, prostrate
-to their mothers or senior female relatives. They never suffer
-anything to interfere with the observance of these courtesies.
-There is an appropriate salutation for every occasion; for instance: 
-acuaro, good morning; acuale, good evening; acushe,
-for being industrious; acabo, or acuabo, (ua as diphthong),
-for returning from a journey; acatijo, for long absence; acujoco, 
-for sitting or resting; acudaro, for standing or walking;
-acuraju, expressive of sympathy, in distress or sickness; acuero, 
-for bearing a burthen; acuale jo, for entertaining a stranger.
-*One vowel dropped for euphony.
-
-<fw>12                        THE REVIEW</fw>
-So rich is the language in salutations, that the above list could
-have been increased indefinitely."</p>
-   <p>So great a variety in the language of politeness would
-indicate a Chesterfieldian people, and truly it is so, for we are
-informed that not even a Frenchman is more polite than these
-untaught Africans. Even two strangers never pass without
-saluting, and the most scrupulous attention is paid to the social
-position of persons saluted. An old man, whose age and position 
-as selector of the successor to the king entitled him, by
-native custom, to require the prostration of all who came into
-his presence, refused to allow the king to pay this act of deference; 
-but the king insisted. Then began what must have
-been a most amusing contest between the two, each seeking,
-on every meeting, to approach the other unawares and prostrate 
-himself first.</p>
-   <p>They could frequently be seen stealthily creeping upon
-each other, hiding behind bushes or huts, to be the first to
-throw themselves on the ground before each other.</p>
-   <p>After gathering much valuable data for the General
-Board of Commissioners who had sent him out, and pushing
-his explorations as far inland as Ilorin, notwithstanding seri-
-ous hindrances from native wars, Professor Campbell reached
-Liverpool on his return May 12, 1860, having been from home
-about one year.</p>
-   <p>Proceeding to London with Dr. Martin R. Delaney, his
-fellow explorer, be reached there in time to attend that famous
-session of the International Statistical Congress, over which
-the Consort Prince Albert presided, and from which Judge
-
-                     <fw>SOME NOTED NEGROES                13</fw>
-A. B. Longstreet, delegate from Georgia, retired in high
-dudgeon because Dr. Delaney was seated on the platform, a
-fact to which Lord Brougham called admiring attention.</p>
-   <p>It will be remembered that the General Board of Commissioners 
-who sent out Professor Campbell and Dr. Delaney
-disclaimed any intention of encouraging or arranging for emigration 
-to Africa, yet after having made the exploration Professor 
-Campbell announced his intention to make Africa his
-home. In the wisdom of this course both of the explorers
-agreed. Indeed, they proceeded to negotiate a treaty with
-the tribes they visited, stipulating four things:
-   1.  The kings and chiefs agreed to grant them on behalf
-of the African race in America, the right of settling in any
-part of their unoccupied territory.
-   2.  These settlers were to be governed by their own laws
-and customs.
-   3.  The settlers were to have "intelligence, education, a
-knowledge of the arts and sciences, agriculture, and other
-mechanical and industrial occupations, which they shall put
-into immediate operation by improving the lands and in other
-useful vocations."
-   4.  The laws of the natives were to be respected, and
-matters of dispute between natives and settlers were to be settled 
-by commissioners equally chosen.</p>
-   <p>These few glimpses of Professor Robert Campbell show
-him to have been a very capable man in his chosen field of
-science, observant as a traveler and entitled to some rating as
-to statesmanship. Certainly, his love and loyalty for the
-Negro stood out above all else.</p>
-</div2>
-</div2>
-
-
-
-
-
-
-                           <fw>EDITORIAL                           75.</fw>
-                  <hea>JAPAN AND THE UNITED STATES.</hea>
-
-   <p>We regard war between this country and Japan as pretty sure to
-come, though how long delayed no one can say, of course. Our reason for
-expecting it is that, notwithstanding the object lesson of military capability 
-Japan has given, there is a compartment of obtuseness in the average
-Caucasian mind that prevents their profiting by, or acting on, information 
-impressed upon another compartment. In other words, the American
-mind is like the American Government in that one part need not obey the
-other unless it wants to do so. Thus the State of California can plunge
-the nation into war and the nation cannot make California quit. So much,
-for much-vaunted State Rights.</p>
-
-                   <fw>ONLY TOUR IN THE WORLD.</fw>
-   <p>Liberia and Abyssinia are the only independent Negro governments in
-Africa, while Hayti and Santo Domingo are the only two in the New
-World. Emigrationists must chose between these four and no more for
-the exodus of the American Negro. Language and religion would count
-out Hayti, Santo Domingo and Abyssinia, to say nothing of general customs 
-in the last. Liberia alone is left; but it is independent only in a-
-nominal sense and by the favor of the great white nations. It is financially
-a dependency of Germany, and sentimentally a ward of the United States.
-There seems to be nothing to do, therefore, but to let down our buckets
-where we are, in the expressive figure of Dr. Washington.</p>
-
-                <fw>MRS. LILLIAN W. DERRICK'S DEATH.</fw>
-   <p>The unexpected death of Mrs. Lillian Derrick, wife of Bishop W. B
-Derrick, of the A. M. E. Church, was a shock and a great bereavement
-to all who knew her gentle character, sunny disposition and Christian
-spirit. She was in every sense a good and noble woman, one whose place
-in our hearts was a large one and which will not be easily or quickly
-tilled.</p>
-   <p>Her loss to her husband cannot be measured. She has walked by his
-</p>
-
-</div2>
-   
-</div2>
-
-
-
-
-
-
-<fw>156                       THE REVIEW</fw>
-
-                           <head>VI</head>
-       <head>THE NEGRO SEER: HIS PREPARATION AND MISSION.</head>
                
-   <p>I am glad I am not an ox. With Terence, I say, "I am
+<p>I am glad I am not an ox. With Terence, I say, "I am
 a man." Man is just a little lower than the angels. He carries 
 the impress of divinity; is differentiated from other animals 
 by the moral element, the faculty of reason, and a superior 
@@ -569,7 +135,8 @@ A. H. Stevens declared that the foundations of the Confederacy
 "are laid, its cornerstone rests upon the great truth that
 the Negro is not equal to the white man, that slavery—subordination 
 to the superior race—is his natural and normal condition."</p>
-   <p>Beginning with Count Gobineau, in 1854, a small school
+
+<p>Beginning with Count Gobineau, in 1854, a small school
 of anthropologists have undertaken to prove that, by the fiat
 of God, there are inferior and superior branches of the human
 race. These savants base their arguments upon cephalometry,
@@ -578,7 +145,8 @@ the jaws, etc. They measure the nose. The longer the nose
 the more he knows. The flatter the nose the less he knows.
 They measure the height, the breast, the ear, the feet. They
 
-                    <fw> THE NEGRO SEER                       157</fw>
+<pb xml:id="p157" facs="teaa.en.periodical.0008.002.jpg"/>
+
 note his color, his eyes, his smell. They bring to their aid
 arguments physiological, pathological, psychological. They
 argue for polygenesis, denying monogenesis of the human
@@ -587,7 +155,8 @@ between the white and the brown, and the black, and often
 between branches of the same color. This hatred is one time
 turned against the Jews, another, against the Japanese, or
 again, against the Negro.</p>
-   <p>The causes of the variations in the different branches of
+
+<p>The causes of the variations in the different branches of
 the human race are many and apparent. Action of climate,
 diseases, nourishment, mode of life, the whole environment,
 the milieu, as the French would say, are causes of race variation. 
@@ -600,32 +169,36 @@ than those of their own blood about them. We are affected
 by our geological habitat. As the minerals and moisture of
 certain soils produce a small, scrubby forest, so "a granite and
 sterile soil producing only rye, buckwheat, potatoes, and
-chestnuts"' produces a people remarkable for their narrow
+chestnuts" produces a people remarkable for their narrow
 shoulders, tight chests, lymphatic temperament. Potassium,
 iron, magnesia, lime, sulphur, arsenic, the rays of the sun,
 the winds, the forests, the rivers, all affect our size, color,
 nose, head, feet, chest, temperament.</p>
-   <p>There are to-day, we are told, men of purest Jewish blood
-    5
 
-<fw>158                     THE REVIEW</fw>
+<p>There are to-day, we are told, men of purest Jewish blood
+
+<pb xml:id="p158" facs="teaa.en.periodical.0008.003.jpg"/>
+
 whose color is the whitest of the white, the brownest of the
 brown, the blackest of the black. A careful study of science
 and history indicates that the centuries to come will produce
 a typical American whose color will be red.</p>
-   <p>But moral influence has greatest effect in producing race
+
+<p>But moral influence has greatest effect in producing race
 variety. Norton tells us that Negro children born in liberty
 have more beautiful eyes, a more elegant appearance, and an
 easier bearing.</p>
-   <p>The arguments for the unity of the race are many and
+
+<p>The arguments for the unity of the race are many and
 convincing. The blood of a dog injected into the veins of a
 Frenchman will destroy the one or both. The blood of a
 Negro or Jap may be injected into a Frenchman's veins with
 impunity. Liebnitz, Blumenbach, Agassiz, Finot, all the leading 
 anthropologists of the world, tell us that there is but one
 human race. No two black-eyed peas are alike and yet they
-are peas.  The babies of all races cry alike.</p>
-   <p>There are forward and backward branches of the race
+are peas. The babies of all races cry alike.</p>
+
+<p>There are forward and backward branches of the race
 caused by environment But will the backward always remain 
 backward? The Japs were backward sixty years ago.
 Are they backward to-day?</p>
@@ -663,7 +236,7 @@ and Mexico; H. O. Tanner, who as artist is the wonder of Europe;
 Edmonia Lewis, the sculpturess; Fred Douglass, America's greatest 
 orator; W. E. D. DuBois, Booker T. Washington, and Alexander 
 Hamilton, America's great statesman, and greatest financier!</p>
-   <p>Now, this argument is not made in advocacy of amalga-
+<p>Now, this argument is not made in advocacy of amalga-
 
 <fw>160                        THE REVIEW</fw>
 mation; but it is made to show that whether amalgamation or
@@ -672,17 +245,17 @@ color, who wears the mark of divinity, apart from external
 influences, is inherently as good as any other man. Nor is this
 trying to run away from the Negro race. It is the proper exaltation 
 of the man of whatever human variety.</p>
-   <p>I have never believed a Negro was superior to the white
+<p>I have never believed a Negro was superior to the white
 man—never! I have never believed the Japanese was superior 
 to the Englishman—never.</p>
-   <p>"Noble blood, bah! What blood is more noble, or so
+<p>"Noble blood, bah! What blood is more noble, or so
 pure as that of the lion ? And yet he is only a brute. It is
 merit, education, virtue, not blood, that lifts men above the
 level of the brutes!"</p>
-   <p>So we may conclude that the Negro scholar, the Negro Seer, 
+<p>So we may conclude that the Negro scholar, the Negro Seer, 
 has inherently all the possibilities possessed by any other
 branch of the human race.</p>
-   <p>The world despises a weakling, a coward. Effort is
+<p>The world despises a weakling, a coward. Effort is
 necessary to growth.   As Robert Browning says:
 
       "No. When the fight begins within himself,
@@ -691,7 +264,7 @@ necessary to growth.   As Robert Browning says:
        He's left himself i' the middle; the soul awakes
        And grows. Prolong that battle his life."</p>
 
-   <p>Great financial enterprises gravitate about thinkers. The
+<p>Great financial enterprises gravitate about thinkers. The
 progress of the world regulates its footsteps by the pulse-beats
 of the thinker. The X-Ray by which we see the lungs of the
 living, the ship in which we sail in mid-heaven, wireless telegraphy 
@@ -700,11 +273,11 @@ by which we send our messages through the trackless
                    <fw>THE NEGRO SEER                         161</fw>
 air, the submarine boat in which we fight our battles beneath
 the waters—these are matters of grey-matter.</p>
-   <p>There are no mergers in scholarship. The trusts may
+<p>There are no mergers in scholarship. The trusts may
 control the landscape, but not the beauty of the flowers. No
 legislative enactment can control aesthetic taste, noble feeling,
 high thinking, honest effort.</p>
-   <p>Benjamin Hill, Senator from Georgia, is reported to have
+<p>Benjamin Hill, Senator from Georgia, is reported to have
 remarked that twenty ordinary white men are worth more to
 civilization than all the Negroes who have lived in the last
 six thousand years. The remark is not true, but is indicative
@@ -720,12 +293,12 @@ of the Congo. Russia must answer to the world for the horrors
 of Kishinev. Individuals and nations are accountable to
 the, "parliament of man, the federation of the world." </p>
 
-       <p>"Truth crushed to earth will rise again,
+    <p>"Truth crushed to earth will rise again,
           The eternal years of God are hers;
         But error, wounded, writhes in pain,
           And  dies among his worshippers."</p>
 
-   <p>No man ever followed the path of virtue in vain. Men
+<p>No man ever followed the path of virtue in vain. Men
 and nations ultimately get what they deserve. There is power
 in goodness. Greatness is goodness. Goodness wins. Char-
 
@@ -735,7 +308,7 @@ of all goodness, should hold first place in our preparation.
 What God wills finally triumphs in history. God is not ancient history. 
 Was is the wrong, tense for God. God is. God works to-day in the hearts 
 of individuals, in the universe.</p>
-   <p>As President Hyde says: "The man who makes the will of
+<p>As President Hyde says: "The man who makes the will of
 God the basis of his character and the motive of his conduct,
 carries with him the germ of Christianity; for this principle,
 rightly apprehended, covers the whole life. The man who
@@ -759,29 +332,29 @@ accomplished, a gateway to heaven, an approach to the throne
 of the Most High!"</p>
 
                     <fw>THE NEGRO SEER                       163</fw>
-   <p>The love of God embraces the altruistic spirit. Our
+<p>The love of God embraces the altruistic spirit. Our
 courses of study should be such that no one should receive a
 diploma from any college unless the sweep of his love takes in
 all men. Hate kills; kills the hater more than the hated.
 Love ennobles; ennobles the lover more than the loved. Some
 one has said: "I love a good hater." That's wrong. The
 world loves a good lover.</p>
-   <p>Jesus is the incarnation of altruistic love. His character
+<p>Jesus is the incarnation of altruistic love. His character
 shall ultimately fill the whole earth; dominate every interest.
 Him we should love. Him we should study. We study the
 life of Washington. We should study the life of Jesus more.
 Washington ruled a small segment of the human race.</p>
 
-       <p>"Jesus shall reign wher'er the sun,
+    <p>"Jesus shall reign wher'er the sun,
         Doth his successive journeys run;
         His   kingdoms   spread   from   shore to shore,
         Till moons shall wax and wane no more."</p>
 
-   <p>We should cut out of our vocabulary such words as
+<p>We should cut out of our vocabulary such words as
 "sheeny," "dago," "hill billy," "poor buckra," "nigger," etc.
 They are not fit expressions of a scholar and a gentleman.
 They do not fit a man wearing the image of God.</p>
-   <p>He who thus stirs up race hatred is an enemy to the world.
+<p>He who thus stirs up race hatred is an enemy to the world.
 Alcibiades arrayed the poor of Athens against the rich.
 Athens was at her zenith. When the conflict was over, Athens
 was in a mass of ruins, and rich and poor alike were homeless.
@@ -792,17 +365,17 @@ amid the   plaudits of a grass-eating  people."  France  was
 
 <fw>164                     THE REVIEW</fw>
 drenched in blood, her nobles were beheaded, her fame degraded.</p>
-   <p>The prophets of evil, of racial wars, the fomentors of discontent, 
+<p>The prophets of evil, of racial wars, the fomentors of discontent, 
 of our country, of whatever element of the human
 race, should be relegated to the rear.</p>
-   <p>The Atlanta riot will be an exception. Ex-Governor
+<p>The Atlanta riot will be an exception. Ex-Governor
 Northen, a committee of noble white and colored men are getting 
 together to prevent another calamity like that one. Soon
 the better angel in all of us will be aroused. Hence, I look
 to the future with joyous anticipation. This nation will not
 be destroyed in hatred by fire, and shot and shell. Too much
 love and mercy and Christ abound.</p>
-   <p>We should seek peace between the white and black people
+<p>We should seek peace between the white and black people
 of our country. Peace is essential to mental, spiritual, and
 material growth. Without peace all is lost. Why should not
 the whites and blacks exercise a little common sense and treat
@@ -820,7 +393,7 @@ best, be worthy a man's treatment. If he does this, there are
 
                      <fw>THE NEGRO SEER                        165</fw>
 evidences that the white man will give him a man's chance.</p>
-   <p>The positive evidence of the sincere friendship of the
+<p>The positive evidence of the sincere friendship of the
 white South for the black man is attested by such distinguished
 Southern white men as Prof. Edgar Gardner Murphy, who
 says: "The educational policy of a genuine patriotism will include 
@@ -844,7 +417,7 @@ Political rights can not justly be withheld
 from those American citizens of an inferior or backward race
 who raise themselves up to the standard of citizenship which
 the superior race applies to its own members."</p>
-   <p>In our preparation, we must remember that while we may
+<p>In our preparation, we must remember that while we may
 not approve race discrimination, it is nevertheless a valuable
 
 <fw>166                          THE REVIEW</fw>
@@ -865,7 +438,7 @@ do.  It is calculated to bring out the best in a man.
         Which, like the load, ugly and venomous,
         Wears yet a precious jewel in his head."</p>
 
-   <p>In our preparation there should be the spirit of sacrifice.
+<p>In our preparation there should be the spirit of sacrifice.
 The Roman exclaimed: "Dulce et decorum est pro patria
 mori.” It should be sweet to us to sacrifice for our people.
 We should cry with Knox, "Lord, give me Scotland or I die."
@@ -877,7 +450,7 @@ Ina valiant suffering for others, not in a slothful making others
 suffer for us, did nobleness ever lie." This is all comprehended 
 in the words of Jesus, "Whosoever will come after Me, let
 him deny himself."</p>
-   <p>The building of happy homes is the next mission. The
+<p>The building of happy homes is the next mission. The
 
                      <fw>THE NEGRO SEER                      167</fw>
 most serious mistake of the Negro to-day is his failure to buy
@@ -904,7 +477,7 @@ would you take for that smiling, chirping baby? And wife?
 She is the best wife, encourages you, meets you with a smile,
 helps bear your burdens. Ah, that is love. That is life.
 Here prosperity has its tap root!</p>
-   <p>The proper rearing and training of our youth is an important 
+<p>The proper rearing and training of our youth is an important 
 essential. We begin to educate our children one hundred 
 and twenty years before they are born. The sins of the
 
@@ -913,10 +486,10 @@ parents are visited upon the children unto the third and fourth
 generations. Train carefully, drill constantly the chiild in the
 path of rectitude, in its formative period, and when it is old,
 it will not depart from the proper path.</p>
-   <p>There is a woeful neglect of our youth to-day. It is
+<p>There is a woeful neglect of our youth to-day. It is
 amazing that any of our young people master the forces of
 evil that would drag them down.</p>
-   <p>Luther Burbanks, the artisan of the vegetable world, by
+<p>Luther Burbanks, the artisan of the vegetable world, by
 tender, thoughtful care, year in and year out, has produced
 the pomato from the potato and tomato; has made the rough,
 thorny cactus, thornless and edible; has changed the character
@@ -961,7 +534,7 @@ I say we need a better class of fathers and mothers. The
 remedy is a matter of slow growth, of character building.
 We must make better men and better women, and then we
 shall have less criminality.</p>
-   <p>Our people should be taught their civic duties. We
+<p>Our people should be taught their civic duties. We
 should have pride in our city, county, state, nation. Every
 question that affects the weal of our country should concern us.
 We are a part of this government. Those who would make
@@ -986,20 +559,20 @@ Every Negro should pay his taxes. He should be interested
 in ail reform movements. He should hold at every possible
 opportunity an unpurchasable ballot to be cast for the good of
 his country.</p>
-   <p>In a recent local option campaign, it was said, "Let the
+<p>In a recent local option campaign, it was said, "Let the
 local optionists speak, sing and pray; we will carry the election. 
 We can buy the niggers." Any man who will sell his
 blood-stained ballot for any price whatever is not fit to vote,
 and should be disfranchised. This doctrine should be preached
 from every hill-top.</p>
-   <p>We should bear a man's share of the burden of government.   
+<p>We should bear a man's share of the burden of government.   
 We should help to make our government pure by first
 
                     <fw>THE NEGRO SEER                        171</fw>
 being pure ourselves. Our influence should be ever against
 the saloon, the king-devil of all evils, the worst enemy of the
 human race.</p>
-   <p>Then our vision and interest should sweep out and take
+<p>Then our vision and interest should sweep out and take
 in world movements. Whatever concerns mankind concerns
 us. No man can grow large whose interest does not go beyond 
 his own roof-tree. Trembling San Francisco, or starving 
@@ -1009,7 +582,7 @@ continent of Africa should be of deepest interest to every
 thoughtful Negro. We need Africa as much as Africa needs
 us. Africa is opportunity. It will be the storm center of the
 great movements of the next century.</p>
-   <p>Rich in resources, romantic and mysterious, with every
+<p>Rich in resources, romantic and mysterious, with every
 possible climate, teeming with millions of human beings, the
 coveted prize of every civilized nation, with railroads being
 built from Cairo to the cape, with an ever widening commerce,
@@ -1019,7 +592,7 @@ of greatest usefulness and fame. The inspiration of black
 Livingstone in Africa is necessary to the manhood-growth of
 the black man in America. What a thrilling mission have we
 in Africa, in America, and Africa beyond the seas!</p>
-   <p>Some two or three years ago the Iroquois Theatre burned
+<p>Some two or three years ago the Iroquois Theatre burned
 down in Chicago. A thousand men, women, and children sat
 in this playhouse witnessing "Bluebeard." Suddenly flames
 enveloped the interior of the building. The lives of nearly
@@ -1041,7 +614,7 @@ died within a few hours. Just before he died, he whispered
 faintly: "Tell Uncle Frank Gunsaulus I died trying to save
 others." Then again, more faintly still, "Tell Uncle Frank
 Gunsaulus I died trying to save others."</p>
-   <p>Young men and women, prophets and priests of our race,
+<p>Young men and women, prophets and priests of our race,
 the fires of sin, of ignorance, of poverty, of thriftlessness, are
 scorching out the lives of our people in the dark counties of
 the Brazos, in the alleys of the cities, in America, beyond the
@@ -1063,21 +636,21 @@ your all, and bequeath to posterity the noble sentiment—
 </div2>
                        <head> Miscellaneous</head>
                         <fw>THE CAREFUL KING.</fw>
-   <p>Once upon a time a certain king of Persia went out hunting with all
+<p>Once upon a time a certain king of Persia went out hunting with all
 his court. The chase that day happened to be long, and the king became
 very thirsty. But no fountain or river could be found near the spot on
 the plain where they rested for a short interval. At last one of the
 courtiers spied a large garden not far off. It was filled with trees bearing
 lemons, oranges, and grapes. His followers begged the monarch to
 partake of the good things in the garden.</p>
-   <p>"Heaven forbid that I should eat anything thereof," said the king,
+<p>"Heaven forbid that I should eat anything thereof," said the king,
 "for, if I permitted myself to gather but an orange from it, my officers
 and courtiers would not leave a single fruit.in the entire garden."
    The higher in life a person is the more careful he should be, for all
 his faults are copied by those beneath him. —Chatterbox.</p>
 
                 <fw>THE LOCOMOTIVE IN CENTRAL AFRICA.</fw>
-   <p>The work that the African Methodist Church is seeking to do in
+<p>The work that the African Methodist Church is seeking to do in
 Africa, no less than natural affinity, makes any item or occurrence 
 connected with that remarkable land eagerly read by the patrons of the A.
 M. E. Review. A few years ago there, was little besides adventures with
@@ -1104,7 +677,7 @@ sings at the spot where Henry M. Stanley, 20 years ago, heard the horns.
 <fw>190                           THE REVIEW</fw>
 drums and savage yells of the cannibals and told his men they must go
 down the river before them or die.</p>
-   <p>The story of this conquest of the jungles of the Dark Continent is so
+<p>The story of this conquest of the jungles of the Dark Continent is so
 romantic and amazing and the distances are so vast that this greatest
 of romances seems like a dream in a land of dreams. The Africa of the
 school books and history must be cast aside. The story belongs to the last
@@ -1120,21 +693,21 @@ topography of the country at once suggests the more familiar contour of
 Mexico. They are alike in the strip of low, unhealthy, tropical forest near
 the Atlantic and beyond the mountain chains, with tablelands between
 them.</p>
-   <p>The heart of this country was indeed "Darkest Africa when Livingston 
+<p>The heart of this country was indeed "Darkest Africa when Livingston 
 cast the first glimmer of light upon it in 1867. Stanley's journeys
 across it in 1874 and 1877 and on the Emin Pasha relief expedition of 1887-
 1888 are so recent that nearly every one remembers how they set the
 white man's world by the ears. Africa was then to the nineteenth century 
 what America was to the fifteenth—a new Eldorado, a land of
 mysteries and wonders.</p>
-   <p>"Without a railway I do not value the Conga State as worth a dollar,"
+<p>"Without a railway I do not value the Conga State as worth a dollar,"
 declared Stanley after one of his visits to the Dark Continent. He knew
 of the vast riches in the tableland behind the mountain ranges, which commerce 
 could only approach along one highway—the Congo River. It is
 second in the great streams of the world; 2500 miles long and seven miles
 wide at its mouth. Only the Amazon is greater in the volume of water;
 only the Mississippi and Missouri combined exceed it in length.</p>
-   <p>The nation that controlled the Congo River, said Stanley, would be
+<p>The nation that controlled the Congo River, said Stanley, would be
 mistress of Central Africa. Sailing up this waterway from the Atlantic,
 through no miles of swamp and tropical forest, the trader was halted at
 the mountains by a series of cataracts. In all they covered avout 200 miles
@@ -1142,14 +715,14 @@ of the river's course. When Stanley said this vast empire was not worth
 a dollar without a railway, he meant that bands of steel must pass these
 cataracts and others further up the stream before Central Africa would be
 open to the commerce of the world.</p>
-   <p>Could such a railway be built? In the face of the obstacles it seemed
+<p>Could such a railway be built? In the face of the obstacles it seemed
 to be an enterprise with insuperable difficulties—still the dream of the 
 explorer in the,land of dreams. The white man must conquer marshes and
 jungles with their wild beasts and serpents, mountains unknown except by
 name, and vast tableland, drenched with rains that bore disease and death
 in their train, the poisoned arrows of savages, a thousand miles of open
 water, cataracts and jungles again.</p>
-   <p>King Leopold, of Belgium, listened and dreamed. Then Stanley’s
+<p>King Leopold, of Belgium, listened and dreamed. Then Stanley’s
 wonder tales inflamed the imaginations of men, and others dreamed. Their
 cupidity was aroused. The world is not so large that such an empire, even
 under the equator, can be neglected. England's policy foreshadowed her
@@ -1159,7 +732,7 @@ Boers were advancing on the south. The interest aroused by Stanley's tale
 terminated in 1885 in the Treaty of Berlin, whereby the Congo Free State
 became neutral territory for a number of years.</p>
                               <fw> MISCELLANEOUS                      191</fw>
-   <p>By the end of the century, or in a brief two years, the steamers 
+<p>By the end of the century, or in a brief two years, the steamers 
 numbered 100. The largest of them now has a burden of 500 tons The
 waterways of the Congo State have been increased to 9500 miles. Telegraph 
 lines, begun in 1892, annihilated 800 miles by 1900. The number of
@@ -1169,7 +742,7 @@ white man found that with temperate habits it was no more difficult to live
 on the tableland than in any tropical climate—at New Orleans for example. 
 He had planted 2,000,000 coffee bushes and 300,000 cocoanut trees
 and had cultivated 5,000,000 india rubber plants by the end of 1902.</p>
-   <p>The Belgian Company owning the concession for the railways in the
+<p>The Belgian Company owning the concession for the railways in the
 Congo State intended at first to build the lines toward Egypt and the Upper Nile 
 in the northwest. Reports of the riches in gold and copper in the
 south, however, determined them to push on in that direction and build
@@ -1179,7 +752,7 @@ of seven cataracts begins. The railroad that has just been completed circles
 these cascades from Stanleyville to Ponthierville, a distance of 75 miles.
 The river curves like a bow, and the new railroad may be said to take the
 place of the  bowstring.</p>
-   <p>How was this iron highway constructed 1400 miles from the sea and
+<p>How was this iron highway constructed 1400 miles from the sea and
 in the very heart of the jungle? When the work was started, on January
 26, 1903, only 53 white men—Belgians, Italians, Scandinavians and Swiss 
 were available, although the number had been increased to more than 100
@@ -1190,10 +763,10 @@ families from West Africa. In that region the Negroes who were savages
 the Congo steamers and serving as crews on the railroad trains. The
 Congo steamboats have as their pilots the Bengala who tried to kill
 Stanley.</p>
-   <p>These skilled workmen are assisted by apprentices from the Government 
+<p>These skilled workmen are assisted by apprentices from the Government 
 and missionary training schools. The road graders, track layers and
 common laborers are Negroes recruited from the neighboring tribes.</p>
-   <p>Two hospitals were built in Stanleyville for the railroad men—one for
+<p>Two hospitals were built in Stanleyville for the railroad men—one for
 the whites and the other for the blacks. The danger from smallpox is
 always great in Central Africa, and every one, even to the wives and children 
 of the common laborers, was vaccinated with virus from a plant
@@ -1202,14 +775,14 @@ appointed to maintain order among the laborers. Three physicians accompanied
 the party to regulate the sanitary conditions. Repair shops were
 built and prospectors were sent in advance to find clay for the many bricks
 which must be used and limestone to be burned into lime for mortar.</p>
-   <p>These elaborate preparations ended, the army of 3000-odd, with their
+<p>These elaborate preparations ended, the army of 3000-odd, with their
 wives and children, set forth to conquer the jungle. They clear the forest
 for a short distance, as the engineers survey the land. At once the road-
 bed is graded and the tracks are laid, so that the construction train can be
 brought to the very end of the line with earth and materials. No great
 difficulties are encountered in making the embankments, as the road passes
 through alluvial soil that is free from rock.</p>
-   <p>As they advance deeper into the jungle, saw mills are erected, and in
+<p>As they advance deeper into the jungle, saw mills are erected, and in
 these the Negroes saw the timbers for ties, bridges, and warehouses. The
 ties are of bomball trees-the "sham cedar'-a tough durable wood cut
 from the neighboring forests. The steel rails are brought from Europe the
@@ -1223,22 +796,22 @@ at first, these being replaced by structures of masonry and steel. As the
 army advances, step by step, the telephone goes with them, the wires to
 Stanleyville being fastened to the trees or to steel rails set upright in the
 ground. After the telephone comes the permanent telegraph.</p>
-   <p>The wives and children of the Negroes advance with their husbands
+<p>The wives and children of the Negroes advance with their husbands
 and fathers. In a few hours cabins of palm leaves and grass can be built
 close to the tracks. They supply all the shelter the climate requires. Thus
 the black men live in little tribal villages, moving forward from time to
 time as the railroad advances.</p>
-   <p>This battle with the jungle lasted three years. The railway around the
+<p>This battle with the jungle lasted three years. The railway around the
 second series of cataracts to Ponthierville was opened for traffic on September 
 1 last. It was equipped with 14 locomotives and 124 cars. Steam-
 boats were launched above the second cataracts and steamed south to
 Kindu, along the 186 miles of waterway that had been opened' to them.</p>
-   <p>At Kindu another line of railroad was started at once to Buli, 180
+<p>At Kindu another line of railroad was started at once to Buli, 180
 miles distant, around the third and last series of cataracts in the river.
 Here 16b white men and 5000 Negroes are pressing forward through the
 jungle toward the gold and copper ore and the diamond mines of the
 Transvaal.</p>
-   <p>The vast riches of the Dark Continent thus being laid bare tax the
+<p>The vast riches of the Dark Continent thus being laid bare tax the
 credulity. The mind can scarcely grasp the meaning of 2,000,000 square
 miles of forest, much of it ebony, teak and mahogany, that stretch from
 Sahara to the Cope coal fields more than 1000 miles long, and some of the
@@ -1250,7 +823,7 @@ these1 facts it may well be understood why the stock of the Congo State
 Railway, 100 at par, is quoted at 5000. Spaniard never found in America
 an  Eldorado such as this.</p>
 
-   <p>Successful is the day whose first victory is won in prayer. Holy is
+<p>Successful is the day whose first victory is won in prayer. Holy is
 the day whose dawn finds thee on the top of the mount! Health is
 established in the morning. Wealth is won in the morning. "Wake,
 psaltry and harp; I myself will awake early." —Joseph Parker.</p>
