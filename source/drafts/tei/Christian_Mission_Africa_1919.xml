@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILE NAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0167">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>Standing Committee of the Conference of Missionary Societies, "Memorandum on Christian Missions in Africa at the Peace Conference" (1919)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -34,23 +32,25 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.en.letter.0167</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
-<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
 </availability>
 </publicationStmt>
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- ARTICLE TITLE --></title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j">Christian Missions Africa 1919 </title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="yyyy-mm"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
-<biblScope type="page"><!-- PAGE NUMBERS --></biblScope>
+<title level="m">Memorandum on Christian Missions in Africa at the Peace Conference</title>
+<date when="1919">1919</date>
 </bibl>
+<msDesc>
+<msIdentifier>
+<repository>The National Archives, Kew, UK</repository>
+<collection>Foreign Office</collection>
+<idno>608/219</idno>
+</msIdentifier>
+</msDesc>
 </sourceDesc>
 </fileDesc>
 
@@ -61,25 +61,24 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Missionary Activity</term>
+<term></term>
 </keywords>
     
 <keywords scheme="original" n="type">
-<term>Document</term>
+<term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
-</keywords>    
+<term>Correspondence</term>
+</keywords>       
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
+<term></term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term></term>
+
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -87,23 +86,18 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 </keywords>
     
 <keywords scheme="original" n="language">
-<term/>
+<term>English</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
+<term></term>
 </keywords>
-
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
 
 </textClass>
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2019-03-05" who="#kln">encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -111,129 +105,98 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document"><!-- This is where the text of the document begins. -->
+<div1 type="document" xml:lang="en">
 
-<div2 type="titles"><!-- Transcribe the title block here; may include the author. -->
+<pb facs="teaa.en.letter.0167.001.jpg"/>
 
-<p><!-- BEGIN TRANSCRIBING --></p>
+<p>No. 240<lb/>
+(5976 / W50)</p>
 
-</div2>
+<p>Earl Curzon of Kedleston presents his compliments to the 
+Secretary of State for Foreign Affairs, and has the honour to transmit herewith copy of the undermentioned paper for disposal. No action with regard to it has been taken in the Foreign Office except that receipt has been acknowledged, and copies transmitted to Colonial Office</p>
 
-<div2 type="article">
-No. 240
-(5976/ W50)
+<p>Foreign Office,<lb/>
+30th Janry, 1919.</p>
 
-    EARL CURZON OF KEDLESTON prsents his compliments ot the 
-Secretary of State for Foreign Affairs, and has the honour to transmit 
-herewith copy of the undermentioned paper for disposal. No action
-with regard to <unclear/> has been taken in the Foreign Office except
-<unclear>all of the cursive</unclear>
+<p>Description of Enclosure.</p>
 
-Foreign Office,
-    30th January, 1919,
+<table>
+<row>
+<cell>Name and Date.</cell>
+<cell>Subject.</cell>
+</row>
+<row>
+<cell>From Conference o Missionary Societies in Great Britain &amp; Ireland</cell>
+<cell>Christian Missions in Africa</cell>
+</row>
+</table>
 
-                                                            Conference of Missionary Societies, 
-                                                                        in Great Britan and Ireland,
-                                                                                    117 Victoria Street, S.W.L.
-                                                                                            10th January, 1919.
-Sir:-
-                I am directed by the Standing Committee of 
-the Conference of Missionary Societies, in which the 
-missionary organizations of all the CHristian bodies
-in Great Britain and Ireland other than the Roman 
-Catholics are officially represented, to transmit the 
-accompanying Memorandum on the subject of Christian 
-missions in Africa at the Peace Conference and to ask 
-for its favourable consideration by His Majesty's 
-Government. 
-                                    I am.,
-                                 (Signed) J.H. Oldam.
+<pb facs="teaa.en.letter.0167.002.jpg"/>
 
+<p>Conference of Missionary Societies,<lb/> 
+in Great <sic>Britan</sic> and Ireland,<lb/>
+117 Victoria Street, S.W.1.<lb/>
+10th January, 1919.</p>
 
+<p>Sir:-</p>
 
-<unclear/> Right Honourable,
-                    Arthur J. Balfour, F.R.S., O.M., M.P.,
-                            H.M. Principal Secretary of State for Foreign Affair Foreign Office, 
-                                                                LONDON. S.W.L
+<p>I am directed by the Standing Committee of the Conference of Missionary Societies, in which the missionary organizations of all the Christian bodies in Great Britain and Ireland other than the Roman Catholics are officially represented, to transmit the accompanying Memorandum on the subject of Christian missions in Africa at the Peace Conference and to ask for its favourable consideration by His Majesty's Government.</p> 
 
-                        MEMORANDUM ON 
-    CHRISTIAN MISSIONS IN AFRICA AT THE PEACE CONFERENCE.
+<p>I am. &amp;c.,<lb/>
+(Signed) J.H. Oldham.</p>
 
-                        (1) This Memorandum is submitted by the 
-Standing Commmittee of the Conference of Missionary 
-Societies in which the missionary organizations of 
-al the Christian bodies in Great Britain and Ireland 
-other than the Roman Catholics are officially 
-represented.
+<fw type="footer">
 
-                        (2) The General Act of the Conference of 
-Berlin in 1885 contains an article providing in 
-explicit terms for freedom of conscience and religious 
-toleration and for liberty for Christian missions to 
-carry on their work in the parts of Africa covered by 
-the Act. The full text of the article is quoted 
-in an appendix. The Standing Committee of the Conference
-of Missionary Societies desire to repreent to His
-Majesty's Government that in the event of any internatinal
-agreement with reference to the future government 
-of tropical Africa being reached at the Peace Conference
-the rights andliberties secured to Christian missions
-under the Berlin Act should be conserved. The 
-Committee are confident that Christian public opinion 
-in Great Britain and Amercica will expect that in the 
-endeacours of the Peace Conference to lay the foundations
-of a new order based on justice and right the
-disinterested and beneficent work of Christian missions 
-on behalf of the native races of Africa will not be 
+The Right Honourable,<lb/>
+Arthur J. Balfour, F.R.S., O.M., M.P.,<lb/>
+H.M. Principal Secretary of State for Foreign Affairs<lb/>
+Foreign Office,<lb/>
+London. S.W.1.</fw>
+
+<pb facs="teaa.en.letter.0167.003.jpg"/>
+
+<p>Memorandum on Christian Missions in Africa at the Peace Conference.</p>
+
+<p>(1) This Memorandum is submitted by the Standing Committee of the Conference of Missionary Societies in which the missionary organizations of all the Christian bodies in Great Britain and Ireland other than the Roman Catholics are officially represented.</p>
+
+<p>(2) The General Act of the Conference of  Berlin in 1885 contains an article providing in explicit terms for freedom of conscience and religious toleration and for liberty for Christian missions to carry on their work in the parts of Africa covered by the Act. The full text of the article is quoted in an appendix. The Standing Committee of the Conference of Missionary Societies desire to represent to His Majesty's Government that in the event of any international agreement with reference to the future government of tropical Africa being reached at the Peace Conference the rights and liberties secured to Christian missions under the Berlin Act should be conserved. The Committee are confident that Christian public opinion in Great Britain and America will expect that in the endeavours of the Peace Conference to lay the foundations of a new order based on justice and right the disinterested and beneficent work of Christian missions on behalf of the native races of Africa will not be <fw type="catch">placed</fw> 
+
+<pb facs="teaa.en.letter.0167.004.jpg"/>
+
 placed in a less favourable position than that 
-accorded to it by the Berlin Act.
-3. THe Committee are aware of the practical 
-difficulites arising out of the war in reaffirming 
-the Article of the Berlin Act in its present form. <uclear/>
-do not regard all the provisions of the Article 
-as essential. Having given careful thought to the
-subject they desire to submit a statement of their 
-views of the course that might reasonably be 
-adopted in conformity with the declared policy of 
-His Majesty's Government and of other governments with 
-reference to Christian missions. While other Powers have
-at different times entered into treaties guaranteeing 
-religious toleration and freedom for the work of 
-Christian missions, reference is made, here for the 
-sake of brevity, only to the policy of the American 
-and British Governments. 
-            Policy of the American Government.
-(4)  The general policy of the Government of the
-United States in regard to missionaries and missions 
-questions is set forth in a statement from the <unclear/>
-for the Department of State in Washington communicates 
-to the World Missionary Conference held in Edinburst <unclear/>
-1910, and printed in Volume VII of the Report of thath
-COngerence (pp.123-34). A summary of the policy as
-expressed in treaties and correspondence between the 
-United States and other Powers is given in the following 
-quotation:
-    "The policy of the United States is that missionaries 
-     and merchants stand upon an equality in the eye of 
-     the law; that every man, whether he be preacher 
-     or man of affairs, is first of all a citizen of the
-     Unitied States, and, as such, entitled to protection to 
-     his person and property so far as international law
-     permits, and the right, whether he be tradesman or 
-     churchman, to follow his calling. Just as the United
-     States has entered into innumerable commercial treaties 
-     is order to secure for American industry and commerce in
-     foreign parts equal rights and privileges with the 
-     native, so the United States has entered into treaties with 
-     various countries by the terms of which American 
-     missionaries are specifically granted the right to
-     reside within the territory, to acquire property
-     necessary for their misison, nad to preach the Gospel 
-     to natives, provided that this be done without seeking
-     to disturb the political organisation of the country 
-     in which they reside."
-               Policy of His Majesty's Government 
-             (5) The policy of His Majesty's Government 
+accorded to it by the Berlin Act.</p>
+
+<p>3. The Committee are aware of the practical difficulties arising out of the war in reaffirming the Article of the Berlin Act in its present form. <unclear>They</unclear> do not regard all the provisions of the Article as essential. Having given careful thought to the subject they desire to submit a statement of their views of the course that might reasonably be adopted in conformity with the declared policy of His Majesty's Government and of other governments with reference to Christian missions. While other Powers have at different times entered into treaties guaranteeing religious toleration and freedom for the work of Christian missions, reference is made here, for the sake of brevity, only to the policy of the American and British Governments.</p> 
+
+<p>Policy of the American Government.</p>
+
+<p>(4) The general policy of the Government of the United States in regard to missionaries and missionary questions is set forth in a statement from the <unclear>Solicitor</unclear> for the Department of State in Washington <unclear>communicates</unclear> to the World Missionary Conference held in Edinburgh in 1910, and printed in Volume VII of the Report of that Conference (pp.123-34). A summary of the policy as expressed in treaties and correspondence between the United States and other Powers is given in the following quotation:</p>
+
+<p>"The policy of the United States is that missionaries 
+and merchants stand upon an equality in the eye of 
+the law; that every man, whether he be preacher <fw type="catch">or</fw> 
+
+<pb facs="teaa.en.letter.0167.005.jpg"/>
+
+or man of affairs, is first of all a citizen of the
+United States, and, as such, entitled to protection to 
+his person and property so far as international law
+permits, and the right, whether he be tradesman or 
+churchman, to follow his calling. Just as the United
+States has entered into innumerable commercial treaties 
+in order to secure for American industry and commerce in
+foreign parts equal rights and privileges with the 
+native, so the United States has entered into treaties with 
+various countries by the terms of which American 
+missionaries are specifically granted the right to
+reside within the territory, to acquire property
+necessary for their mission, and to preach the Gospel 
+to natives, provided that this be done without seeking
+to disturb the political organisation of the country 
+in which they reside."</p>
+
+Policy of His Majesty's Government 
+   (5) The policy of His Majesty's Government 
 in regard to Christian missions has recently been the 
 subject of discussion between the Government and the
 Conference of Missionary Societies in Great Britain and 
@@ -244,8 +207,8 @@ but it is understood thath the same policy will be applied
 to other parts of the Empire. This statement of policy
 <uclear/> received the approval of the Conference of Missionary 
 Societies. The main features of this policy are the 
-following:               
-           (a) The services of Christian missions in protect
+following:
+ (a) The services of Christian missions in protect
 the material and moral welfare of polulations under 
 British rule are recognised and their co-operatives in
 the future welcomed in the opening paragraph of the 
@@ -289,8 +252,8 @@ for their removal and for the extension of the principle
 of freedom and of the voluntary co-operation of 
 missionary bodies wiht His Majesty's Government when 
 political conditions justify it. 
-                Proposals in regard to Africa.
-          (6) It is in the view of the Standig Committee
+ Proposals in regard to Africa.
+(6) It is in the view of the Standig Committee
 of the COnference of Missionary Societies essential 
 that any new international agreement that may be 
 reached in regard to the future of tropical Africa
@@ -301,7 +264,7 @@ in the exercies of their religion and from any
 political or civil disability on the ground of their 
 religious beliefs or in consequence of a change of 
 faith.
-          (7) The Committee are further of opinion 
+(7) The Committee are further of opinion 
 that Christian missions are entitled to claim thath the 
 services which they have rendered in the past to the 
 cause of education and civilisation should be 
@@ -310,23 +273,23 @@ the future in promoting the material and moral
 well-being of the natives of Africa should be 
 explicitly welcomed. This claim they believe to 
 be justified on the following grounds: 
-          (a) The position already secured to Christian 
+(a) The position already secured to Christian 
 missions under the Berlin Act:
-          (b) the fact that the education of the natives
+(b) the fact that the education of the natives
 of Africa has up to the present been mainly the work
 of Christian missions and the further services rendered 
 by them in the exploration and opening up of the
 continent, in linguistic science, in the study of the
 customs and habits of the people and in the advancment 
 of civilisation generally; and 
-          (c) because the disinterested work of Christian 
+(c) because the disinterested work of Christian 
 missions on behalf of the natives of Africa is a valuable
 support to the principle of trusteeship which is the 
 acknowledged basis of British policy in the government 
 of subject races and which it is hoped will be 
 embodied in the constitution of the League of Nations
 to be established at the Peace Conference.
-          (8) The COmmittee recognise that it may be 
+(8) The COmmittee recognise that it may be 
 necessary in consequence of the war to impose temporary 
 restrictions upon missions of certain nationalites.
 So long as such restrictions are imposed as temporary 
@@ -335,7 +298,7 @@ conditions, they are not in conflict with the principle
 of freedom for missionary work which must be the basis
 of any policy that will satisfy Christian public
 opinion in Great Britain and America. 
-          (9) Governments may justly claim that
+(9) Governments may justly claim that
 missionaries of foreign nationality admitted to work 
 in their territories should abstain from all interference 
 in the political organization of the country.
@@ -353,7 +316,7 @@ country concerned and that they will only employ agents
 who will work in this spirit. It is believed that 
 missionary scieties in other countries would be 
 equally willing to give such an undertaking.
-          (10) It is recognised that it may sometimes 
+(10) It is recognised that it may sometimes 
 be right and necessary for governments to impose 
 temporary restrictions on missionary work in the
 interests of public order and security: and, further,
@@ -397,7 +360,7 @@ understanding between missions and governments and
 is their more effective co-operation, each in their 
 own proper sphere, in promoting the welfare of the
 native races of Africa.
-          (11) The Standing Committee of the Conference
+(11) The Standing Committee of the Conference
 of Missionary Societies have not sufficient information
 regarding the probable action of the Peace Conference
 with reference to tropical Africa to justify them 
@@ -407,28 +370,28 @@ views expressed in this memorandum they suggest that,
 is the event of a new international agreement being
 subsituted for the Berlin Act, it should include an 
 article to the following effect:
-         "Freedom of conscience and religious toleration 
-         are guaranteed both to natives and foreigners. 
-         The followers of all religions shall be free from 
-         interference in the exercise of their religion and 
-         from any political or civil disability on the 
-         ground of their religoius beliegs or in consequence 
-         of a change of faith.
-                "The Powers appreciate the value of the work
-         done in the past by Christian missions and cordially 
-         welcome their co-operation in the future in promoting 
-         the moral and material well-being of the peoples of 
-         Africa. Subject to such restrictions as they may
-         find it necessary in consequence of the war to
-         impose for a period on missions of certain 
-         nationalitiesm the right of missions to teach the
-         Christian religion, to acquire and hold property
-         and to erect buildings for missionary purposes is 
-         recognised." 
+    "Freedom of conscience and religious toleration 
+    are guaranteed both to natives and foreigners. 
+    The followers of all religions shall be free from 
+    interference in the exercise of their religion and 
+    from any political or civil disability on the 
+    ground of their religoius beliegs or in consequence 
+    of a change of faith.
+ "The Powers appreciate the value of the work
+    done in the past by Christian missions and cordially 
+    welcome their co-operation in the future in promoting 
+    the moral and material well-being of the peoples of 
+    Africa. Subject to such restrictions as they may
+    find it necessary in consequence of the war to
+    impose for a period on missions of certain 
+    nationalitiesm the right of missions to teach the
+    Christian religion, to acquire and hold property
+    and to erect buildings for missionary purposes is 
+    recognised." 
 
 <p><!-- BEGIN TRANSCRIBING --></p>
 
-</div2>
+
 
 </div1>
 </body>
