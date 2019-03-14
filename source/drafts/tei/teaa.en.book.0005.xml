@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0005">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Includes Author, Journal Name, Article Title. EXAMPLE: D. Augustus Straker, New York Freeman, "The Land of Our Fathers"--></title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>John H. Smyth, "The African in Africa and the African in America" (1895)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Schirf, Kayla" xml:id="KS"><!-- Kayla Schirf --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.mis.001.01.xml -->
+<idno type="project">teaa.en.book.0005</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,15 +42,15 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main"><!-- The African in Africa and the African in America --></title>
-<author n="Smyth, J. H."><!--J. H. Smyth--></author>
-<author n="Kilson, Martin"><!-- Martin Kilson --></author><!-- If no author, delete this line. -->
-<author n="Cromwell, Adeleide"> <!-- Adeleide Cromwell--></author>
-<title level="j">Apropos of Africa</title>
-<biblScope type="vol"><!-- VOLUME NUMBER --></biblScope>
-<biblScope type="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="1969-05"><!-- May 1969 (Book) --></date>
-<biblScope type="pp"><!-- 49-58 --></biblScope>
+<title level="a" type="main">The African in Africa and the African in America</title>
+<title level="m">Apropos of Africa: Sentiments of Negro American Leaders on Africa from the 1800s to the 1950s</title>
+<author n="Smyth, John H., 1830-1888">John H. Smyth</author>
+<editor n="Kilson, Martin">Martin Kilson</editor>
+<editor n="Cromwell, Adeleide">Adeleide Cromwell</editor>
+<pubPlace>London</pubPlace>
+<publisher>Frank Cass &amp; Co. LTD.</publisher>
+<date when="1969">1969</date>
+<biblScope unit="page">49-58</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -63,7 +62,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Missionary Activity</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,96 +70,85 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Book</term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
-<!-- Some people may have their own subject heading. Search viaf.org and use the USA title. 
-EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
+<keywords scheme="viaf" n="people">
 <term>Barth, Heinrich, 1821-1865</term>
 <term>Blyden, Edward Wilmot, 1832-1912</term>
 <term>Bowen, J. W. E. (John Wesley Edward), 1855-1933</term>
 <term>Colenso, John William, 1814-1883</term>
-<term>Crowther, Samuel, 1806?-1891</term> <!-- It seems extremely likely this is the one referred to as "Bishop Crowther".-->
+<term>Crowther, Samuel, 1806?-1891</term>
 <term>Elizabeth I, Queen of England, 1533-1603</term>
-<term>Freeman, Martin Henry</term> <!-- It just says "Freeman" in the text, but it seems likely this is the man.-->
-<term>Heeren, A. H. L.</term> <!--I don't know who this refers to-->
+<term>Freeman, Martin Henry</term> 
+<term>Gordon, Charles George, 1833-1885</term>
+<term>Heeren, A.H.L. (Arnold Hermann Ludwig), 1760-1842</term>
 <term>Henry VIII, King of England, 1491-1547</term>
 <term>Herodotus</term>
 <term>Horton, James Africanus Beale</term>
-<term>Livingstone, David, 1813-1873.</term>
+<term>Livingstone, David, 1813-1873</term>
 <term>Nachtigal, Gustav, 1834-1885 </term>
-<term>Gordon, Charles George, 1833-1885</term> <!-- As "Gordon Pasha" -->
 <term>Park, Mungo, 1771-1806</term>
 <term>Schweinfurth, Georg August, 1836-1925</term>
+<term>Smyth, John H., 1830-1888</term>
 <term>Stanley, Henry M. (Henry Morton), 1841-1904</term>
-
+<term>Venn, Henry, 1796-1873</term><!-- unsure -->
+<term>Wilberforce, William, 1759-1833</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Abeokuta</term>
 <term>Africa</term>
-<term>America</term>
-<term>Asia</term>
-<term>Atlantic Coast</term>
-<term>Babylon</term>
-<term>Britain</term>
-<term>Camaroon</term> <!-- spelled as "Camaroons"-->
+<term>Cameroon</term> 
 <term>Central Africa</term>
-<term>Congo</term>
-<term>Constantinople</term>
+<term>Congo Free State</term>
+<term>Constantinople (Turkey)</term>
 <term>England</term>
-<term>Ethiopia</term>
 <term>Europe</term>
 <term>France</term>
+<term>Georgia</term>
+<term>Germany</term>
 <term>Gold Coast</term>
+<term>Great Britain</term>
 <term>Israel</term>
 <term>Liberia</term>
-<term>Liberia College</term>
-<term>Monrovia</term>
-<term>Oxford</term>
-<term>the Niger</term> <!-- Is this the river? -->
-<term>Pacific Slope</term>
-<term>Rome</term>
+<term>Monrovia (Liberia)</term>
+<term>Niger River</term>
+<term>North Africa</term>
+<term>North Carolina</term>
+<term>Portugal</term>
+<term>Rome (Italy)</term>
 <term>Sierra Leone</term>
+<term>South Carolina</term>
 <term>Spain</term>
 <term>Turkey</term>
 <term>United States</term>
+<term>Virginian</term>
 <term>West Africa</term>
-
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
-<term>African-American</term>
-<term>Arabic</term>
-<term>Arku</term> <!-- Cannot confirm modern spelling. -->
-<term>Bassa</term> <!-- I think this is the people in Liberia, not Cameroon. -->
+<term>Anglo-Saxon</term>
+<term>Arab</term>
+<term>Arku</term>
+<term>Aryan</term>
+<term>Bassa</term>
 <term>Carthaginian</term>
 <term>Caucasian</term>
+<term>Ebo</term>
 <term>Egyptian</term>
-<term>English-American</term>
-<term>European</term>
-<term>French-American</term>
-<term>Fula</term> <!-- Spelled as "Foulah" -->
-<term>German-American</term>
-<term>Gola</term> <!-- Can also be spelled "Gula"-->
-<term>Graybo</term> <!-- Cannot confirm modern spelling. -->
-<term>Igbo</term> <!-- Spelled as "Ebo" -->
-<term>Italian</term>
-<term>Kroo</term>
+<term>Fula</term>
+<term>Gola</term>
+<term>Graybo</term>
+<term>Jolof</term>
 <term>Kru</term> 
-<term>Mandinka</term> <!-- Spelled as "Mandingo" in document. -->
+<term>Mandingo</term>
 <term>Moorish</term>
-<term>Pessey</term> <!-- I cannot find the modern name of this. -->
-<term>Persian</term>
-<term>Portuguese</term>
-<term>Sosoo</term> <!-- I can't confirm the modern name of this. -->
-<term>Spanish</term>
+<term>Negro</term>
+<term>Pessey</term> 
+<term>Sosoo</term>
 <term>Turkish</term>
-<term>Vey</term> <!-- I can't confirm the modern name of this. -->
-<term>Wolof</term> <!-- Referred to in the text as "Jollof" -->
-
+<term>Vey</term>
 </keywords>
     
 <keywords scheme="original" n="language">
@@ -170,18 +158,15 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 <keywords scheme="original" n="religion">
 <term>Christianity</term>
 <term>Islam</term>
+<term>Roman Catholic</term>
 </keywords>
-
-<!-- IGNORE THIS FOR NOW
-<classCode scheme="original">
-<ref type="analysis" target="teaa.mis.001.02">Analysis</ref>
-</classCode>-->
 
 </textClass>
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="KS"><!-- scanned, ocred, and encoded --></change>
+<change when="2019-03-14" who="kln">edited encoding</change>
+<change when="2017" who="ks">scanned, OCRed, and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -189,14 +174,20 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
-<div2 type="titles">
-<fw>LET'S GO HOME TO AFRICA</fw>
-<head>The African in Africa
-and the African in America*</head>
-<byline>The Hon. J. H. Smyth,
-LL.D.</byline>
+<pb xml:id="p49" facs="teaa.en.book.0005.001.jpg"/>
+
+<div2 type="title">
+
+<p>The African in Africa and the African in America*</p>
+
+<p>The Hon. J. H. Smyth, LL.D.</p>
+
+</div2>
+
+<div2 type="text">
+
 <p>The fact will be readily admitted by those most familiar with the
 sentiment of a large and not unimportant portion of our American
 citizenship, who, by the fortunes and misfortunes of war, viewed from
@@ -205,7 +196,7 @@ struggle of 1861-62-63-64, were made equal before the law with all
 other citizens, that as a class they are averse to the discussion of
 Africa when their relationship with that ancient and mysterious land
 and its races is made the subject of discourse or reflection. The remoteness 
-of <placeName>Africa</placeName> from <placeName>America</placeName> may be a reason for such feeling;
+of Africa from America may be a reason for such feeling;
 the current opinion in the minds of the Caucasians, whence the
 American Negroes' opinions are derived, that the African is by
 nature an inferior man, may be a reason. The illiteracy, poverty, and
@@ -216,128 +207,135 @@ and heathen as a whole, and as a sequence hopelessly degraded beings.
 These may be some of the reasons that make the subject of
 Africa discordant and unmusical to our ears. It is amid such embarrassments 
 that the lecturer, the orator, the missionary must present
-Africa to the Negro in Christian <placeName>America</placeName>.</p>
+Africa to the Negro in Christian America.</p>
+
 <p>In view of recent newspaper articles about migration of Negroes
-to <country>Liberia</country>, so much has been recently said by men of African descent
+to Liberia, so much has been recently said by men of African descent
 of prominence, and by men of like prominence of uncertain descent,
-and by men of other races than the Negro, of <country>Liberia</country> and <placeName>Africa</placeName>
+and by men of other races than the Negro, of Liberia and Africa
 generally, that I deem it a duty as an American citizen and a Negro,
 in vindication of the men and women of like descent with myself,
-citizens of the <country>United States</country>, to state some facts explanatory of and
-in rebuttal of much that has been said, ignorantly, unwisely and unsympathetically, 
-<note>* Professor <rs type="person">J. W. E. Bowen</rs>, Ph.D., D.D., Editor, <hi rend = "italic">Africa and the American
-Negro.</hi> Addresses &#38; Proceedings of the Congress on <placeName>Africa</placeName> held under the auspices 
-of the Stewart Missionary Foundation for Africa of Gammon Theological
-Seminary in connection with the Cotton States and International Exposition,
-Dec. 13-15,1895. Atlanta: Gammon Theological Seminary, 1896. pp. 73-83.</note>
-<fw>49</fw>
-<fw>APROPOS OF AFRICA</fw>
-to the detriment of the effort being made at self-government 
-in <country>Liberia</country>, West Africa. The people who constitute the
+citizens of the United States, to state some facts explanatory of and
+in rebuttal of much that has been said, ignorantly, unwisely and un- 
+
+<fw type="footnote"><note>* Professor J. W. E. Bowen, Ph.D., D.D., Editor, <bibl>Africa and the American Negro</bibl>. Addresses &#38; Proceedings of the Congress on Africa held under the auspices of the Stewart Missionary Foundation for Africa of Gammon Theological Seminary in connection with the Cotton States and International Exposition, Dec. 13-15,1895. Atlanta: Gammon Theological Seminary, 1896. pp. 73-83.</note></fw>
+
+<pb xml:id="p50" facs="teaa.en.book.0005.002.jpg"/>
+
+sympathetically, to the detriment of the effort being made at self-
+government in Liberia, West Africa. The people who constitute the
 inhabitants and citizenship of Liberia (the largest portion of the
 latter class are American Negroes from the Southern part of the
-<country>United States</country>) are possessed of and imbued with the sentiment and
+United States) are possessed of and imbued with the sentiment and
 the civilization peculiar to this section of our country. That these immigrant 
-Negroes who migrated to <placeName>West Africa</placeName>, or began migration
+Negroes who migrated to West Africa, or began migration
 as far back as 1820, and who continue to go thither, have a better
 field there, with less embarrassing environment, to prove their capacity 
 for self-government, for leadership in State-craft than their
 brethren in the northern, western and southern portions of the
-<country>United States</country>, will scarcely be seriously denied or questioned.
+United States, will scarcely be seriously denied or questioned.
 This conceded, it seems to me that wisdom, self-respect, race loyalty,
 and American patriotism would show themselves richer to withhold
-judgment as to the success of the experiment being made in <placeName>Africa</placeName> for
+judgment as to the success of the experiment being made in Africa for
 self-government until such time as this immigrant people and their
-descendants have lived in <country>Liberia</country>, <country>Sierra Leone</country>, the <country>Gold Coast</country>, the
-<placeName><sic>Camaroons</sic></placeName> and other parts of <placeName>West Africa</placeName> long enough to assimilate
+descendants have lived in Liberia, Sierra Leone, the Gold Coast, the
+Camaroons and other parts of West Africa long enough to assimilate
 the sentiment of liberty and rule, the general heritage and possession
 of the native African, than it has shown itself in echoing the expression 
 of opinion of white men, whatever their learning or literary
 capacity, who estimate the progress of the Negro by the standard of
 their own race with its superior opportunities, advantages and facilities.</p>
+
 <p>Until we have demonstrated ability for organization, for government, 
 and have shown effective cohesiveness and leadership here in
 the United States, it may be a little immodest to hastily and unadvisedly 
 make up the record adverse to our immediate kith and kin,
 who less than sixty years ago made the first step on lines of independent 
 form of government of themselves, and have successfully maintained 
-themselves against the greed of <country>Spain</country>, the aggrandizement
-of <country>France</country>, and the envy and cupidity of the merchant class of <country>England</country> 
+themselves against the greed of Spain, the aggrandizement
+of France, and the envy and cupidity of the merchant class of England 
 without active assistance or defense of our formidable North
 African squadron; without an army and without more than one
 gunboat, the property of the Republic.</p>
-<p><country>Liberia</country> is the only democratic republican form of government
-on the continent of <placeName>Africa</placeName> of which we have any knowledge. The
+
+<p>Liberia is the only democratic republican form of government
+on the continent of Africa of which we have any knowledge. The
 civilization of the people constituting the majority of the citizenship
-of <placeName>Liberia</placeName> is American. It embraces that phase of our American system 
+of Liberia is American. It embraces that phase of our American system 
 which has made the autonomy of the south distinct from that of
 all other parts of our common country. This is the resultant of the
 outgrowth of the laws and customs of the severalty as well as the
-<fw>50</fw>
 
-<fw>LET'S GO HOME TO AFRICA</fw>
+<pb xml:id="p51" facs="teaa.en.book.0005.003.jpg"/>
+
 jointness of that system of government which exists in the South.
 In so far as the civilization of the United States on analysis is differentiated 
 as northern, southern, eastern, and western, and in the south
 as Virginian, Carolinian, Georgian, it may be said, that the people
 composing the nation have transferred such American phases of
-government to this part of <placeName>Africa</placeName>.</p>
+government to this part of Africa.</p>
+
 <p>The pioneers of this colony, the descendants of them, and the
 immigrants that have gone from here at varying periods of time
 within sixty years, like those of us who have remained, have been the
 unhappy victims of the influences of an alien, racial oppression; are
 fragments of races and tribes, and lack much in capacity for maintaining 
 a stable form of government without the aid which comes
-from the moral support of the <country>United States</country>. But notwithstanding
+from the moral support of the United States. But notwithstanding
 the embarrassments and difficulties of this youthful nation, the
 elements of success are being gradually, surely and deeply laid in
 industrial and agricultural concerns. The masses of the people are
 directing their effort to agriculture, the development of the soil, and
 are leaving the matter of coast-commerce or barter to the few.</p>
-<p>No epitome or summary of <country>Liberia</country> would be worthy of the name
+
+<p>No epitome or summary of Liberia would be worthy of the name
 which failed to take note of the renaissance of education under the
 scholarly Blyden and Freeman, both of whom have been presidents
-of <rs type="place">Liberia College</rs>. When the former scholar came to the presidency
+of Liberia College. When the former scholar came to the presidency
 of the college, then was commenced the work of the adaptation of
 the training of the youth for the definitive and distinct purpose of
 advancing the nation on the line of race. This institution has sent
 forth strong Negro men, who are unperverted in their instincts,
 strong in their race loyalty, and unhampered by a civilization upon
 which the individuality of the race is not stamped. Such a civilization,
-unmodified, is unsuited to the African in <placeName>Africa</placeName>, or out of <placeName>Africa</placeName>
+unmodified, is unsuited to the African in Africa, or out of Africa
 and although it may develop him religiously, in manly, self-reliant
 feeling, it will make him a weakling and will be destructive of true
 manhood, self-respect and race integrity.</p>
+
 <p>It is lamentable that two hundred and fifty years have removed us
 to a far greater distance from Africa than the geographical measurement 
-which separates <placeName>America</placeName> from <placeName>Africa</placeName>, and to-day that continent
+which separates America from Africa, and to-day that continent
 is perhaps of less interest to the educated and refined Negro of
-<placeName>America</placeName> than to his thrifty, industrious and adventurous white
+America than to his thrifty, industrious and adventurous white
 fellow-citizen....</p>
-<p>The wrong done us here in <placeName>America</placeName>, the wrong done us in <country>Turkey</country>
-in <placeName>Asia</placeName>, and <country>Turkey</country> in <placeName>Europe</placeName>, and <name type="city">Constantinople</name>, is being recognized 
+
+<p>The wrong done us here in America, the wrong done us in Turkey
+in Asia, and Turkey in Europe, and Constantinople, is being recognized 
 at the center of Anglo-Saxon civilization, as is honestly indicated 
-by utterances such as these: <q>"It is too late to ask, <quote>'Are we
-<fw>e                                            51</fw>
-<fw>APROPOS OF AFRICA</fw>
-our brother's keeper?</quote>"'</q> Three centuries ago the plea might have
-seemed specious, but since then <placeName>Europe</placeName> has made itself guilty towards 
-<placeName>Africa</placeName> of the blackest series of crimes that stain the foul record
-of civilized history. The actual appalling state of things in <placeName>Africa</placeName>
-is the result of the policy of <placeName>Europe</placeName> towards the African races.
+by utterances such as these: "It is too late to ask, 'Are we
+
+<pb xml:id="p52" facs="teaa.en.book.0005.004.jpg"/>
+
+our brother's keeper?"' Three centuries ago the plea might have
+seemed specious, but since then Europe has made itself guilty towards 
+Africa of the blackest series of crimes that stain the foul record
+of civilized history. The actual appalling state of things in Africa
+is the result of the policy of Europe towards the African races.
 European contact has brought in its train not merely the sacrifice,
 amid unspeakable horrors, of the lives and liberties of twenty million 
 Negroes for the American market alone, but political disintegration, 
 social anarchy, moral and physical debasement, the decay of
 the simple arts and industries which had been developed during centuries 
-of undisturbed and uneventful existence. Christian <placeName>Europe</placeName>, it is
-true, no longer openly tolerates the slave trade, but Christian <placeName>Europe</placeName>
+of undisturbed and uneventful existence. Christian Europe, it is
+true, no longer openly tolerates the slave trade, but Christian Europe
 furnishes the arms by means of which the slave trade is carried on.
 The European explorer paves the way for the Arab man-hunter; in
 his track follow not the blessings of civilization, but conflagration,
 rapine, and murder, and European trade, while extinguishing native
 handicrafts, places within the African's grasp the power of self-destruction 
 by spirits and of mutual destruction by firearms.</p>
+
 <p>I am aware that it will be insisted by some who have failed to give
 this matter the consideration which it merits, that we are a part of
 the greatest composite nationality, and therefore, any influence that
@@ -349,49 +347,57 @@ that gave us birth. This has been abundantly shown to be true with
 reference to the Jews. Whatever doubts may be entertained upon
 this point on account of their wide religious divergence from other
 religionists, must undergo a change in the presence of the admonition 
-given in a missive sent to <country>Israel</country> by the <rs type="person">Prophet Jeremiah</rs>, and
-which has been faithfully conformed to by <country>Israel</country> and the descendants
-of <country>Israel</country>: <q>"Serve the King of Babylon, and live. Build ye houses and
+given in a missive sent to Israel by the Prophet Jeremiah, and
+which has been faithfully conformed to by Israel and the descendants
+of Israel: "Serve the King of Babylon, and live. Build ye houses and
 dwell in them; and plant gardens and eat the fruits of them. And
 seek the welfare of the city whither I have caused you to be carried
 away captives, and pray unto the Lord for it; for in the peace thereof
-shall ye have peace."</q></p>
+shall ye have peace."</p>
+
 <p>Though we are a part of this great national whole, we are a distinct 
 and separate part, an alien part racially, and destined to be
 so by the immutable law of race pride, which is possessed by our
 white fellow-citizens, if not by us. The sentiment, the something
 stronger than sentiment which makes an English American proud
-of his connection with <country>Britain</country>, a French American proud of his connection 
-<fw>52</fw>
-<fw>LET'S GO HOME TO AFRICA</fw>
-with <placeName>La Belle France</placeName>, and a German American fondly attached 
+of his connection with Britain, a French American proud of his connection 
+
+<pb xml:id="p53" facs="teaa.en.book.0005.005.jpg"/>
+
+with La Belle France, and a German American fondly attached 
 to the memories of the fatherland, and all European races of
 their Aryan descent, has something that partakes of the moral sublime. 
-Truly <q>"language and religion do not make a race."</q></p>
+Truly "language and religion do not make a race."</p>
+
 <p>The characteristics, peculiarities, idiosyncrasies and habits have
 been determined by what has been displayed and noted of Negroes
 under influences foreign to them and beyond their control. This has
-been the cause of inaccurate knowledge of the races of <placeName>Africa</placeName> on the
+been the cause of inaccurate knowledge of the races of Africa on the
 part of the whites, and inaccurate knowledge on the part of the
 Negroes themselves....</p>
+
 <p>The Civilized Negro here has but recently emerged from slavery
 and been recognized a freeman; and though guaranteed in the possession 
 of political rights, is still hampered by his inability to understand 
 himself, by the conviction that on account of the political unity
 of the races here, his end must be reached by pursuit of the same line
 followed by the controlling races.</p>
+
 <p>The condition of the race past and present here makes the American 
 Negro African, without the peculiarities of his race; and African
 only as to the hue of his skin and his blood. The black man here is
 Americanized, and as a sequence, sectionalized.</p>
-<p>Now the difference between Africa in <placeName>America</placeName>, and Africa in
-<placeName>Africa</placeName> being recognized, let us look to Africa in <placeName>Africa</placeName>. The races of
-<placeName>Africa</placeName> have not been a subject of Caucasian study.</p>
+
+<p>Now the difference between Africa in America, and Africa in
+Africa being recognized, let us look to Africa in Africa. The races of
+Africa have not been a subject of Caucasian study.</p>
+
 <p>The Egyptian, Carthaginian, and Moorish people are imperfectly
 known, and the interior, eastern, western races, are still more imperfectly 
 understood, and for very prudential reasons,—the uncompromising 
 conditions of climate toward European peoples, and the
 almost insuperable difficulties of ingress to the country. . . .</p>
+
 <p>The testimony of Africans, distinguished for their knowledge of
 their countrymen, for their learning and character, should be looked
 to, and consulted as authorities in these matters. The Arku and Ebo
@@ -401,60 +407,70 @@ annoyance that he cannot successfully take advantage of them in a
 business transaction, and as a consequence declares the former people
 a deceptive, ignorant class, and the latter an insolent, lazy set. You
 are to read the history of these races in the light of what the learned
-<abbr type="title">Dr.</abbr> <rs type="person">Africanus Horton</rs> has written in his "Africa and the Africans,"
-and what his lordship <rs type="person">Bishop Crowther</rs> experienced in his successful
+Dr. Africanus Horton has written in his "Africa and the Africans,"
+and what his lordship Bishop Crowther experienced in his successful
 labor of love among his own and other races.</p>
+
 <p>A comprehensive knowledge of the Christian, Mohammedan, and
-heathen Africans of <placeName>Central and West Africa</placeName> must be read in the
-<fw>53</fw>
-<fw>APROPOS OF AFRICA</fw>
+heathen Africans of Central and West Africa must be read in the
+
+<pb xml:id="p54" facs="teaa.en.book.0005.006.jpg"/>
+
 light of the full and exhaustive information to be found in the writings 
-of <rs type="person">Edward W. Blyden</rs>, <abbr type="title">D.D., LL.D.</abbr>, late president of <country>Liberia's</country>
+of Edward W. Blyden, D.D., LL.D., late president of Liberia's
 college. Christianity in the third and fourth centuries among the
 Africans must be studied, in the Africans' fathers, and in Lloyd's
 North African Church and in Abyssinian traditions.</p>
-<p>The missionary work in <placeName>West Africa</placeName> in the fifteenth century may
+
+<p>The missionary work in West Africa in the fifteenth century may
 be read in the voluminous Spanish and Portuguese and Italian state
 papers and travels. A few most valuable ones as to the Congo races
 are to be found in an English translation made during the reigns of
-<rs type="person">Henry VIII</rs>. and <rs type="person">Elizabeth</rs>. Bishops <rs type="person">Crowther</rs> and <rs type="person">Colenso</rs> may be
+Henry VIII. and Elizabeth. Bishops Crowther and Colenso may be
 read on African character with profit. There are two classics, African,
-which should be read: <rs type="person">A. H. L. Heeren</rs>, African Researches, and a
-portion of <rs type="person">Herodotus</rs>.</p>
+which should be read: A. H. L. Heeren, African Researches, and a
+portion of Herodotus.</p>
+
 <p>For quite fair treatment of African character, French and German
-explorations are interesting and in English, <rs type="person">Mungo Park</rs>, <rs type="person">Livingstone</rs>,
-and <rs type="person">Gordon Pasha</rs>.</p>
+explorations are interesting and in English, Mungo Park, Livingstone,
+and Gordon Pasha.</p>
+
 <p>Having directed attention to the means and some of the sources to
 be relied on for facts concerning native African character, I now
 point to some illustrations of error and wrong in dealing with the 
-African in <placeName>Africa</placeName>.</p>
+African in Africa.</p>
+
 <p>It is not to our century alone that we are to look for active but
 mistaken effort to christianize Africa. There has existed no African
 mission, which, in the same period of time, attained to such proportions
-as the Portuguese mission in the <placeName>Congo region</placeName> during the
+as the Portuguese mission in the Congo region during the
 fifteenth century. A cathedral and churches adorned, beautified, and
-glorified that portion of <placeName>West Africa</placeName>, and a Congo gentleman, after
-pursuing the necessary course of study in <country>Spain</country> prescribed for the
+glorified that portion of West Africa, and a Congo gentleman, after
+pursuing the necessary course of study in Spain prescribed for the
 priesthood, was made a bishop, and returned to his country to carry
 on the work of christianizing his people through the religion of
-Catholic <name type="city">Rome</name>. All this work passed away. The ships which brought
+Catholic Rome. All this work passed away. The ships which brought
 priests as outward passengers took the human product of the race
 back as homeward cargo. The theory and practice of the European
 being in opposition, the one to the other, the work perished. The
 the fetich of the cross in the hands of the Portuguese, did not deter them
 from knavery and theft and murder, and the Congoes concluded that
 their fetiches were less harmful than the alien Portuguese.</p>
+
 <p>Africans cannot be influenced by aliens, who, however Christian,
 seek to subvert their manhood. With the African at home, service to
 God and service to his fetich will not be yielded if manhood be the
 sacrifice.</p>
+
 <p>He may be forced to accept a dogma or a religion, but will not
-receive either under such circumstances. Alien races can aid the progress 
-<fw>54</fw>
-<fw>LET'S GO HOME TO AFRICA</fw>
-of Christianity and civilization among Africans, but cannot
+receive either under such circumstances. Alien races can aid the pro- 
+
+<pb xml:id="p55" facs="teaa.en.book.0005.007.jpg"/>
+
+gress of Christianity and civilization among Africans, but cannot
 control it with hope of ultimate success in Africa. . . .</p>
-<p>In the British colony of <country>Sierra Leone</country> opportunity is afforded to
+
+<p>In the British colony of Sierra Leone opportunity is afforded to
 study native character, as at no other place with which I am acquainted. 
 The representatives of not less than a hundred tribes may
 be seen here and of not a few races. Here one may see the stately and
@@ -462,6 +478,7 @@ grave Mandingo, the diplomatic Sosoo, the frail but handsome Foulah,
 and the paragon of men, the magnificent Jollof, "his complexion
 free from any taint of Abyssinian blue or Nubian bronze, intensely,
 lustrously, magnificently black."</p>
+
 <p>Of the foregoing races there has been no acceptance of anything
 of foreign civilization. These races represent a very high and unique
 type of Mohammedanism and Arabic training. They have adopted
@@ -470,13 +487,14 @@ They have written their own commentaries on the sacred book. They
 are not controlled by the Arab, the Persian, or the Turk as to their
 conception of the Koran. Their women share in common with the
 men in the instructions of the masters. But there are two distinct
-races here, and some of each of them in <country>Liberia</country>, the Ebo and Arku
+races here, and some of each of them in Liberia, the Ebo and Arku
 races, among whom is displayed the highest type of English civilization, 
 with their free, unhampered peculiarities and idiosyncrasies.
-These two races control and direct commercial interest in <country>Sierra
-Leone</country>, on the <country>Gold Coast</country> and at <placeName>Lagos</placeName>, and have brought peace
+These two races control and direct commercial interest in Sierra
+Leone, on the Gold Coast and at Lagos, and have brought peace
 to war and order from confusion in the independent Negro nations
 of Abbeokuta.</p>
+
 <p>Among these races, in religion are the Crowthers; in medical and
 surgical science, the Davises and Hortons; in jurisprudence, the
 Lewises and McCarthys; in pure scholarship, the Blydens, Coles,
@@ -494,30 +512,33 @@ to allow an Arku wife to help him, not infrequently causes
 marital difficulties. She prefers to trade than to remain indoors
 attending to her domestic affairs and babies. In complexion this
 race represents the average dark complexion of the American Negro.</p>
-<fw>55</fw>
-<fw>APROPOS OF AFRICA</fw>
+
+<pb xml:id="p56" facs="teaa.en.book.0005.008.jpg"/>
+
 <p>The Ebo is a proud, daring race. They are always industrious,
 are fond of display, and in their hospitality are ostentatious. It
 may be asserted that there exists no evidence to show these people
-ever to have been pagan, in their home on the <geogName>Niger</geogName> or elsewhere.
+ever to have been pagan, in their home on the Niger or elsewhere.
 As a race they have never received either Christianity or Mohammedanism 
 but claim to believe sincerely in God. Those in the British
 colony have assimilated Christianity and some have attained to the
-highest culture and refinement. The first Negro graduate of <placeName>Oxford</placeName>
+highest culture and refinement. The first Negro graduate of Oxford
 was an Ebo. The most distinguished physician—-Negro physician--
-living up to 1884 was <abbr type="title">Dr.</abbr><rs type="person"> Horton</rs>, an Ebo. The knowledge of reading,
+living up to 1884 was Dr. Horton, an Ebo. The knowledge of reading,
 and writing and ciphering, in short, rudimentary training in this
 colony, has been very thorough. To Wilberforce and Venn be lasting
 honor and praise for their effective work in the British colonies of
-<placeName>West Africa</placeName>. . . .</p>
+West Africa. . . .</p>
+
 <p>The principal races here are Mandingos, Kru and Graybo and
 Bassa people, cognate races; Veys, Golas and Pesseys. My contact
 Has been with these races in the civilized settlements, and in their
 own towns and villages. It would be a task to describe them with the
 accuracy their tribal and racial differences merit....</p>
+
 <p>The Golas as a race are courageous and intrepid, and kindly in
 their relation with the Americo-Liberian, preferring peace with
-them to war. The Pesseys, once a martial race, have by internal disension 
+them to war. The Pesseys, once a martial race, have by internal dissension 
 and wars with other races, to an alarming extent lost their
 independence and many of that once noble race have been made captives
 to other peoples and slaves. As slaves they are highly valued,
@@ -525,30 +546,33 @@ being indefatigable laborers, and therefore admired bondsmen by
 their masters. Their language has the softness and liquid sweetness of
 Italian, being in striking contrast to the harshness of the Kru and
 Greybo tongue. . . .</p>
+
 <p>I should perhaps leave an impression which would be misleading
-as to <country>Liberia</country> and <placeName>Africa</placeName> unless I be more explicit. If you have observed, 
-in any utterance of mine, anything about <placeName>Africa</placeName> which seems
+as to Liberia and Africa unless I be more explicit. If you have observed, 
+in any utterance of mine, anything about Africa which seems
 to possess in itself, or as to the races of that continent, a roseate hue,
 be pleased to remember that I have faintly, and with unartistic hand,
 shown you a part of this garden of the Lord and limned its inhabitants
-with the pencil and brush of an amateur; and I appeal to <rs type="person">Mungo
-Park</rs>, the sainted <rs type="person">Livingstone</rs>, <rs type="person">Barth</rs>, <rs type="person">Schweinfurth</rs>, <rs type="person">Nachtigal</rs>, and I
-may risk <rs type="person">Stanley</rs> in the rear of this galaxy of friends of <placeName>Africa</placeName>, for
+with the pencil and brush of an amateur; and I appeal to Mungo
+Park, the sainted Livingstone, Barth, Schweinfurth, Nachtigal, and I
+may risk Stanley in the rear of this galaxy of friends of Africa, for
 more accurate data for larger and fuller experiences. But I may
-astound you when I say that <placeName>Africa</placeName> fears not the invasion of her
+astound you when I say that Africa fears not the invasion of her
 shores by Europe and the rightful acquisition of her territory, and
-that no Negro who knows <placeName>Africa</placeName> regards the European's advent
-<fw>56</fw>
-<fw>LET'S GO HOME TO AFRICA</fw>
+that no Negro who knows Africa regards the European's advent
+
+<pb xml:id="p57" facs="teaa.en.book.0005.009.jpg"/>
+
 there as a menace to the progress and advancement of her races,
 except when they bring with them rum and fire-arms. I am pronouncedly, 
 and have been since I first stepped upon the soil of my
 fatherland in 1878, an African colonizationist, but I am so in a
 strictly qualified sense, as is shown in the official statement made to
 my and your government—made from the United States Consulate 
-General, <name type="city">Monrovia</name>, under the date of <date when="1883-02-21">February 21, 1883.</date></p>
+General, Monrovia, under the date of February 21, 1883.</p>
+
 <p>It may not be inopportune or out of place to say, in the interest
-of the prospective immigrant and in the interest of <country>Liberia</country>, that it
+of the prospective immigrant and in the interest of Liberia, that it
 is perhaps unwise for persons to emigrate here simply for the purpose 
 of being free and enjoying complete civil liberty and social
 equality. The State is young, and, though poor in developed resources, 
@@ -566,27 +590,31 @@ has made himself a boss of some supporting trade—a man who is not
 directly dependent upon being a common servant, and who is not an
 ignorant laborer incapable of turning up something by his innate
 good sense and the God-given push within him. . . .</p>
+
 <p>As a clear understanding of the conditions of labor here is important 
 to that class of foreign Negroes who contemplate settlement
 here. The possession of a few hundred dollars, skill in labor, and
 executive ability, constitute a capital that cannot but secure a most
-confortable living here with a probability of wealth.</p>
-<p>Unless the Negro out of <placeName>Africa</placeName> goes to <placeName>Africa</placeName> seeking a home because 
+<sic>confortable</sic> living here with a probability of wealth.</p>
+
+<p>Unless the Negro out of Africa goes to Africa seeking a home because 
 he has none; goes of his own volition, with as correct a knowledge 
-of <placeName>Africa</placeName> as may be obtained from the writings of trustworthy
+of Africa as may be obtained from the writings of trustworthy
 African travelers and explorers and missionaries, reinforced by race
 loyalty, and with greater confidence in himself and his race than in
 any alien self and alien race; goes from a sense of duty imposed by
 his Christian enlightenment, and not unprovided with ability and
 previous experience to organize and control labor, with as ample
-means as he would go with from the <geogName>Atlantic coast</geogName> of the <country>United
-States</country> to the <geogName>Pacific slope</geogName> for the purpose of engaging in business,
-he is wholly and entirely unsuited for <placeName>Africa</placeName>, and would impede by
-<fw>57</fw>
-<fw>APROPOS OF AFRICA</fw>
-his presence not only the progress of <country>Liberia</country> (if he went thither), but
-any part of <placeName>Africa</placeName> by his unprofitable presence, and ought to be
+means as he would go with from the Atlantic coast of the United
+States to the Pacific slope for the purpose of engaging in business,
+he is wholly and entirely unsuited for Africa, and would impede by
+
+<pb xml:id="p58" facs="teaa.en.book.0005.010.jpg"/>
+
+his presence not only the progress of Liberia (if he went thither), but
+any part of Africa by his unprofitable presence, and ought to be
 denied the right to expatriate himself.</p>
+
 <p>If by anything that I have said you have been impressed with the
 fact that you are descendants of African races and as a consequence
 that you are a separate and distinct people from Caucasian races,
@@ -597,7 +625,7 @@ line; if I have impressed you at all with the wisdom or propriety
 of confiding in the highest Negro authorities and the best alien writings, 
 for reliable data respecting our race in the fatherland, and thereby 
 awakened in you an interest and sincere desire for the well being
-of <placeName>Africa</placeName> and her races, for our people, and for accurate information
+of Africa and her races, for our people, and for accurate information
 concerning that most ancient, and most mysterious of lands; then I
 led conscious of having made a contribution of information not
 wholly valueless to my countrymen that may tend to modify and
@@ -606,19 +634,19 @@ country; and I have done something toward awakening your dormant
 self-respect, and given you some conception of the dignity which
 attaches to Negro manhood, and created in you a preference for
 your race before all other races; and this sentiment, if produced,
-will place you en rapport with the Negroes in <placeName>Africa</placeName>, who have no
+will place you en rapport with the Negroes in Africa, who have no
 conception of any land greater, more beautiful than their own; any
 men braver and manlier than themselves, any women better, <sic>lovlier,</sic>
 and handsomer than African women. Then you will retire from this
 place with a feeling of stimulus rather than of satiety, of unrest rather
 than of repose; then shall I retire from my effort to interest you in
-Africa in <placeName>Africa</placeName>, and Africa in <placeName>America</placeName> with satisfied pride in having
+Africa in Africa, and Africa in America with satisfied pride in having
 performed something of duty as a Negro—clear in his conviction
-ol the high destiny in reserve for <placeName>Africa</placeName> and its races, and of your
+of the high destiny in reserve for Africa and its races, and of your
 duty to be loyal to the race, since true allegiance will make us
 sharers in that glory which the sacred writing declares shall come,
-when <country>Ethiopia</country> shall stretch forth her hand unto God.</p>
-<fw>58</fw>
+when Ethiopia shall stretch forth her hand unto God.</p>
+
 </div2>
 </div1>
 </body>
