@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0168">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0170">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from FB to John Hay, May 7, 1898</title>
+<title>Letter from FB to John Hay, May 13, 1898</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0168</idno>
+<idno type="project">teaa.en.letter.0170</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <title level="m">Letter from FB to John Hay</title>
-<date when="1898-05-07">May 7, 1898</date>
+<date when="1898-05-13">May 13, 1898</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,11 +73,12 @@
 </keywords>   
 
 <keywords scheme="viaf" n="people">
+<term>Farnall, Harry</term>
 <term>Hay, John, 1838-1905</term>
 </keywords>
 
 <keywords scheme="original" n="places">
-<term/>
+<term>Sierra Leone</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -119,41 +120,43 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0168.001.jpg"/>
+<pb facs="teaa.en.letter.0170.001.jpg"/>
 
-<ab>Death</ab>
+<p>H. Farnall.</p>
 
-<ab>Mr Hay</ab>
+<p>Draft.</p>
 
-<p>F. O.</p>
+<p>The Hon: John Hay.</p>
 
-<p>May 7 1898</p>
+<p>Colonial Office. May 12/98</p>
 
-<p>Y. E.</p>
+<p>Foreign Office.</p>
 
-<p>I have the honour to transmit to you <del>the accompanying</del> an extract from 
-a telegram received through H.M.S. of S. for the Colonies from the Governor of Sierra Leone reporting the death of certain American missionaries at the hands of the insurgents. <fw type="catch">in</fw>
+<p>May 13 1898.</p>
 
-<pb facs="teaa.en.letter.0168.002.jpg"/>
- 
-in that colony &amp; mentioning certain others as being safe at Freetown.</p>
+<p><del>Sir,</del> Y. E.</p>
 
-<p>I have received the news of this sad loss of life with much concern, and I have to request Y. E. to accept on behalf of the relatives of those killed <del>my</del> the expression of the sincere sympathy <del>of m</del> with <unclear>their</unclear> <del>in which</del> of M: Chamberlain <del>also desires to join</del> &amp; myself</p>
+<p>With reference to my note of the 
+7th instant, respecting the United States 
+Missionaries in <sic>Siearra</sic> Leone, I have 
+<del>the honour to state</del> the satisfaction to inform you that the Secretary 
+of State for the Colonies has received a 
+telegram from the Governor of Sierra 
+Leone, from which it appears that the <fw type="catch">United</fw>
 
-<p>FB.</p>
+<pb facs="teaa.en.letter.0170.002.jpg"/>
 
-<pb facs="teaa.en.letter.0168.003.jpg"/>
+<unclear extent="the rest of the letter, about two lines"/></p>
 
-<p><unclear/></p>
+<p>F.B.</p>
 
-<p>Mr Hay<lb/> 
-May 7, 1898</p>
+<p>Draft</p>
 
-<p>FB</p>
+<p>American Ambassador<lb/> 
+May 18, 1898</p>
 
 <p>American Missionaries in S. Leone:<lb/>
-<unclear>tr:</unclear> in Co. May 6.<lb/> 
-expresses regret.</p> 
+<unclear>miss.</unclear> of <unclear>C.O.</unclear> May 12</p>    
 
 </div1>
 </body>
