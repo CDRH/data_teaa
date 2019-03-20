@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.001.01"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.government.0001">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>General Act of the Conference of Berlin Concerning the Congo</title>
+<title>General Act of the Conference of Berlin Concerning the Congo (1885)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
- 
+
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,42 +32,44 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.001.01</idno>
+<idno type="project">teaa.en.government.0001</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
 <bibl>
 <title level="a" type="main">General Act of the Conference of Berlin Concerning the Congo</title>
 <title level="j">The American Journal of International Law</title> 
-<biblScope type="vol">3</biblScope>
-<biblScope type="issue">1</biblScope>
-<biblScope type="pages">7-25</biblScope>
-<publisher>Baker, Voorhis &amp; Company</publisher>
+<biblScope unit="vol">3</biblScope>
+<biblScope unit="issue">1</biblScope>
+<biblScope unit="page">7-25</biblScope>
 <pubPlace>New York</pubPlace>
+<publisher>Baker, Voorhis &amp; Company</publisher>
 <date when="1909-01">January 1909</date>
-<note type="source">https://archive.org/details/jstor-2212022</note>
 </bibl>
 </sourceDesc>
 </fileDesc>
 
 <profileDesc>
-
 <langUsage>
 <language ident="en">English</language>
 </langUsage>
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Berlin Conference</term>
+<term/>
 </keywords>
-
+    
 <keywords scheme="original" n="type">
 <term>Document</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Act</term>
-</keywords>
+<term>Government</term>
+</keywords>   
 
 <keywords scheme="viaf" n="people">
 <term>Kasson, John A. 1822-1910</term>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0170">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0172">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from FB to John Hay, May 13, 1898</title>
+<title>Letter from H. Bertram Cox to George Curzon, May 12, 1898</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0170</idno>
+<idno type="project">teaa.en.letter.0172</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,8 +41,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from FB to John Hay</title>
-<date when="1898-05-13">May 13, 1898</date>
+<title level="m">Letter from H. Bertram Cox to George Curzon</title>
+<date when="1898-05-06">May 6, 1898</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -73,11 +73,16 @@
 </keywords>   
 
 <keywords scheme="viaf" n="people">
-<term>Farnall, Harry</term>
+<term>Chamberlain, Joseph, 1836-1914</term>
+<term>Cox, H. Bertram (Hugh Bertram), 1861-</term>
+<term>Curzon of Kedleston, George Nathaniel Curzon, Marquess, 1859-1925</term>
 <term>Hay, John, 1838-1905</term>
+<term>Salisbury, Robert Cecil, Marquess of, 1830-1903</term>
 </keywords>
 
 <keywords scheme="original" n="places">
+<term>Freetown (Sierra Leone)</term>
+<term>Rotifunk (Sierra Leone)</term>
 <term>Sierra Leone</term>
 </keywords>
 
@@ -97,20 +102,21 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>FB</persName>
-<placeName/>
-<date when="1898-05-07"/>
+<persName>Cox, H. Bertram</persName>
+<placeName>London (England)</placeName>
+<date when="1898-05-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Hay, John</persName>
-<placeName/>
+<persName>Curzon, George</persName>
+<roleName>Under Secretary of State</roleName>
+<placeName>London (England)</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-03-15" who="#kln">edited encoding</change>
+<change when="2019-03-18" who="#kln">edited encoding</change>
 </revisionDesc>
 </teiHeader>
 
@@ -120,7 +126,7 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0171.001.jpg"/>
+<pb facs="teaa.en.letter.0172.001.jpg"/>
 
 <p>Communications on this subject 
 should be addressed to--<lb/> 
@@ -128,57 +134,45 @@ The Under Secretary of State,<lb/>
 Colonial Office,<lb/>
 London, S.W.,<lb/>
 and the following 
-Number quoted. 9978/98</p>
-                                                                   <p>Downing Street<lb/>
-6 May 1898.</p>
+Number quoted. 10343/98</p>
+
+<p>Downing Street,<lb/> 
+12th May, 1898.</p>
 
 <p>Sir,</p>
 
-<p>I am directed by Mr. Secretary Chamberlain to 
-transmit to you, for communication to the American Ambassador,
-the accompanying extract from a telegram received 
-from the Governor of Sierra Leone, reporting the
-death of certain American Missionaries at the hands of 
-insurgents, and that certain others were safe at Freetown.</p>
+<p>I am directed by Mr Secretary Chamberlain to 
+state, for the information of the Marquess of 
+Salisbury, that a telegram, dated 10th instant, has
+been received from the Governor of Sierra Leone, from 
+which it appears the American missionaries from 
+Robethel are all safe at Freetown.</p>
 
-<p>In communicating this sad intelligence to Mr. 
-Hay, I am to request that you will move the Marquess of 
-Salisbury to add an expression of Mr. Chamberlain's regret 
-at the loss of life which has occurred.</p>
+<p>2. I am to suggest that this information should 
+be communicated to the United States Ambassador.</p>
 
-<p>I am, Sir,<lb/>
-Your most obedient servant,<lb/>
-H. Bertram <unclear/></p>
+<p>I am,<lb/>
+Sir,<lb/>
+Your most obedient Servant,<lb/>
+H. Bertram Cox.</p>
 
-<fw type="footer">Under Secretary of State<lb/>
+<fw type="footer">The Under Secretary of State,<lb/>
 Foreign Office.</fw>
 
-<pb facs="teaa.en.letter.0171.002.jpg"/>
+<pb facs="teaa.en.letter.0172.002.jpg"/>
 
 <p>Colonial Office<lb/>
-6  May 1898<lb/>
-R 7</p>
+12 May 1898<lb/>
+R</p>
 
-<p><unclear/></p>
+<p>American Missionaries in
+Sierra Leone:<lb/>
+Inform of safety of those 
+from Robethel</p>
 
-<p>Murder of American 
-Missionaries in Sierra Leone<lb/>
-<unclear extent="three words"/> <unclear>Sir F. Carden</unclear>
-Expresses regret.</p> 
+<p>Inform Mr. Hay</p>
 
-<p>? Inform the 
-United States Embassy.</p>
- 
-<p>done<lb/>
-May 7<lb/>
-F.B.</p>
-
- 
-<p><unclear>S.</unclear>
-I hope U.S. will not 
-demand an African 
-<unclear/><lb/>
-<unclear>S.</unclear></p>
+<p>May 13</p>
 
 </div1>
 </body>
