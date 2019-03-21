@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.004.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0012">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Congo Conference and the President's Message</title>
+<title>John A. Kasson, The Congo Conference and the President's Message (1886)</title>
 <author n="Kasson, John A.">John A. Kasson</author>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
@@ -17,12 +17,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.004.01</idno>
+<idno type="project">teaa.en.periodical.0012</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -41,12 +41,11 @@
 <author n="Kasson, John A.">John A. Kasson</author>
 <title level="a" type="main">The Congo Conference and the President's Message</title>
 <title level="j">The North American Review</title>
-<biblScope type="vol">142</biblScope>
-<biblScope type="issue">351</biblScope>
+<biblScope unit="vol">142</biblScope>
+<biblScope unit="issue">351</biblScope>
 <date when="1886-02">February 1886</date>
-<biblScope type="pages">119-133</biblScope>
-<note type="source">http://www.jstor.org/stable/25118580</note>
-<biblScope type="part">portions of the pamphlet relating to author's argument</biblScope>
+<biblScope unit="pages">119-133</biblScope>
+<biblScope unit="part">portions of the pamphlet relating to author's argument</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -59,7 +58,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Berlin Conference</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -71,11 +70,17 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Kasson, John A.</term>
 </keywords>
 
 <keywords scheme="original" n="places">
-<term/>
+<term>Congo River</term>
+<term>Indian Ocean</term>
+<term>Lake Tanganyika</term>
+<term>Loge River</term>
+<term>Niger River</term>
+<term>Zambesi River</term>
+<term>Zanzibar</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -89,13 +94,14 @@
 </keywords>
 
 <classCode scheme="original">
-<ref type="analysis" target="llg.ber.004.02">Analysis</ref>
+<ref type="analysis" target="teaa.analysis.0004">Analysis</ref>
 </classCode>
 
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-03-21" who="#kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-05" who="#kln">Edited for new TEI and file naming structures.</change>
 <change when="2014-05-16" who="#kln">Edited for new TEI and file naming structures.</change>
@@ -107,7 +113,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <head type="main">The Conference at Berlin on the West-African Question.</head>
 
@@ -117,7 +123,7 @@
 <desc>irrelevant to author's discussion</desc>
 </gap>
 
-<div2 xml:id="llg.ber.004.01.e001">
+<div2 xml:id="teaa.en.periodical.0012.e001">
 
 <p>This declaration constitutes an agreement on the part of all the governments adhering to it that the commerce of each of their nations shall enjoy complete liberty in all the region drained by the Congo and its affluents, including therewith Lake Tanganyika and its eastern tributaries: also in the Atlantic zone lying on both sides of the Congo basin proper between latitude 2° degrees 30' south, and the river Logé, prolonging these lines eastward from the Atlantic until they reach the Congo basin also: in the zone lying eastward of the Congo basin and situate between the 5th degree of north latitude and the river Zambesi on the south and extending to the Indian Ocean on the east. But it was expressly understood that the provisions should only apply to the territories of any independent power in this eastward zone (like Zanzibar) after such Government should give its assent; and the Conference powers agreed to use their influence to obtain this consent.</p>
 
@@ -127,7 +133,7 @@
 <desc>irrelevant to author's discussion</desc>
 </gap>
 
-<div2 xml:id="llg.ber.004.01.e002">
+<div2 xml:id="teaa.en.periodical.0012.e002">
         
 <p>The fourth and fifth of the resolutions of the Conference establish an agreement that the two greatest commercial rivers of Western Africa, the Niger and Congo, as well as all artificial water ways or railroads connecting their waters respectively, shall forever remain open to the navigation and commercial use of all nations, on terms of perfect equality. No embarrassing or discriminating regulations shall be applied; and other national interests shall have the same liberty and rights on these rivers as those of the possessory powers. No nation may create a monopoly on either river. This navigation is to remain forever free and open to neutral commerce, even in time of war.</p>
         
@@ -136,7 +142,6 @@
 <gap reason="sampling" extent="about four pages">
 <desc>irrelevant to author's discussion</desc>
 </gap>
-
 
 </div1>
 

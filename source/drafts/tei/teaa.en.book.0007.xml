@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.005.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0007">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The League of Nations and Primitive Peoples</title>
+<title>Sydney Olivier, The League of Nations and Primitive Peoples (1918)</title>
 <author n="Olivier, Sydney Haldane Olivier, Baron, 1859-1943">Sydney Olivier</author>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
@@ -17,12 +17,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.005.01</idno>
+<idno type="project">teaa.en.book.0007</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -43,9 +43,8 @@
 <publisher>Oxford University Press</publisher>
 <pubPlace>New York</pubPlace>
 <date when="1918">1918</date>
-<note type="source">http://catalog.hathitrust.org/Record/006499467</note>
-<biblScope type="part">portions of the booklet relating to the Berlin Conference</biblScope>
-<biblScope type="pp">3-4, 8-10, 11-12</biblScope>
+<biblScope unit="part">portions of the booklet relating to the Berlin Conference</biblScope>
+<biblScope unit="page">3-4, 8-10, 11-12</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -57,7 +56,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Berlin Conference</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -69,13 +68,41 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bismarck, Otto, Fürst von, 1815-1898</term>
+<term>Olivier, Sydney</term>
+<term>Salisbury, Robert Cecil, Marquess of, 1830-1903</term>
+<term>Wilson, Woodrow, 1856-1924</term>
 </keywords>
 
 <keywords scheme="original" n="places">
+<term>Africa</term>
+<term>Albania</term>
+<term>Antilles</term>
+<term>Asia Minor</term>
+<term>Austria</term>
+<term>Belgium</term>
+<term>Berlin (Germany)</term>
+<term>Bosnia</term>
 <term>Congo Free State</term>
 <term>Congo Basin</term>
-<term>German African Colonies</term>
+<term>East Africa</term>
+<term>Germany</term>
+<term>Haiti</term>
+<term>Herzegovina</term>
+<term>Kingdom of Tripoli</term>
+<term>Mesopotamia</term>
+<term>Morocco</term>
+<term>Persia</term>
+<term>Philippines</term>
+<term>Poland</term>
+<term>Romania</term>
+<term>Russia</term>
+<term>San Domingo</term>
+<term>Serbia</term>
+<term>South America</term>
+<term>Spain</term>
+<term>Turkey</term>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,13 +117,11 @@
 <term/>
 </keywords>
 
-<classCode scheme="original">
-<ref type="analysis" target="llg.ber.005.02">Analysis</ref>
-</classCode>
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-21" who="#kln">updated encoding</change>
 <change when="2014-11-05" who="#kln">added subtype</change>
 <change when="2014-07-02" who="#kln">modified encoding and document structure</change>
 <change when="2014-06-13" who="#kln">encoded transcription of excerpts</change>
@@ -107,7 +132,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <head type="main">The League of Nations and Primitive Peoples</head>
 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.002.02">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.analysis.0002">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Congo Treaty. Analysis</title>
+<title>Jacob Bright, The Congo Treaty (1884). Analysis</title>
 <author n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</author>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
@@ -22,7 +22,7 @@
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.002.02</idno>
+<idno type="project">teaa.en.book.0006</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -49,7 +49,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Berlin Conference</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -75,13 +75,14 @@
 </keywords>
 
 <classCode scheme="original">
-<ref type="document" target="llg.ber.002.01">Document</ref>
+<ref type="document" target="teaa.en.book.0006">Document</ref>
 </classCode>
 
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-21" who="#kln">updated encoding</change>
 <change when="2014-08-05" who="#kln">encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -98,8 +99,7 @@
 <author n="Bright, Jacob">Jacob Bright</author>
 <title level="j">Bristol Selected Pamphlets</title>
 <date when="1884">1884</date>
-<note type="source">http://www.jstor.org/stable/60243738</note>
-<biblScope type="part">portions of the pamphlet relating to the Berlin Conference</biblScope>
+<biblScope unit="part">portions of the pamphlet relating to the Berlin Conference</biblScope>
 </bibl>
 </div2>
 
@@ -107,21 +107,21 @@
 
 <head type="main">Analysis</head>
 
-<p>Jacob Bright (1821-1899) was a member of the British Parliament, representing the Borough of Manchester from 1867-1874 and from 1876-1885. From 1886-1895, he represented the Southwest Division of Manchester. Bright was a Liberal who challenged Prime Minister William Ewart Gladstone's support of a treaty that would recognize Portugal's control over both sides of the Congo River. Bright successfully prevented ratification of the Congo Treaty in the House of Commons. The <ref type="internal" target="llg.ber.001.01">General Act of the Berlin Conference</ref> would later insure the freedom of commerce on the Congo.<ref type="footnote" target="n00.01">1</ref> Bright's article lays out a case for rejecting the treaty, in part by depicting the Portuguese as greedy, depraved rulers incapable of developing "commerce and civilization" on the continent. He surveys Portuguese contact with Africa since the fifteenth century and concludes that the places in Africa where commerce thrives are free from Portuguese influence.</p>
+<p>Jacob Bright (1821-1899) was a member of the British Parliament, representing the Borough of Manchester from 1867-1874 and from 1876-1885. From 1886-1895, he represented the Southwest Division of Manchester. Bright was a Liberal who challenged Prime Minister William Ewart Gladstone's support of a treaty that would recognize Portugal's control over both sides of the Congo River. Bright successfully prevented ratification of the Congo Treaty in the House of Commons. The <ref type="internal" target="teaa.en.government.0001">General Act of the Berlin Conference</ref> would later insure the freedom of commerce on the Congo.<ref type="footnote" target="n00.01">1</ref> Bright's article lays out a case for rejecting the treaty, in part by depicting the Portuguese as greedy, depraved rulers incapable of developing "commerce and civilization" on the continent. He surveys Portuguese contact with Africa since the fifteenth century and concludes that the places in Africa where commerce thrives are free from Portuguese influence.</p>
 
 <p>While Jacob Bright wrote this article eight months before the convening of the Berlin Conference in the winter of 1884, he raises many questions about the freedom of navigation and commerce in the Congo region. Essentially, his opposition to the Congo Treaty signed by Great Britain and Portugal anticipated the issues that the Berlin conferees would debate&#8212;chief among them, whether or not Portugal would continue to wield control over the Congo River and its tributaries with access to the Atlantic Ocean and the Congo Basin.</p>
 
 
-<div3 xml:id="llg.ber.002.01.e001">
+<div3 xml:id="teaa.en.book.0006.e001">
 
 <head type="sub">Vivi &amp; Stanley Pool</head>
 
-<p>Stanley Pool (present-day Malebo Pool) is "a lake-like expansion of the lower Congo River above Livingstone Falls, between the [present-day] Republic of the Congo (Brazzaville) to the west and the [present-day] Democratic Republic of the Congo (Kinshasa) to the east." The Pool, renamed by the <orgName key="int.ass">International Association of the Congo</orgName> (IAC) after explorer <persName key="stanley.henry">Henry Morton Stanley</persName>, was of strategic important to those seeking access to various rivers in the Congo region. E. Delmar Morgan, noted traveler and fellow of the Royal Geographical Society, wrote in 1884 that "[u]pwards of 5000 miles of navigable rivers are accessible from Stanley Pool; three steamers are already launched on its waters, and accompanied Stanley on his last expedition, while a fourth is on its way out." Vivi was established as a station/trading post in 1879 by Stanley and the Comit&#233; d'&#201;tudes du Haut-Congo. Vivi later became the capital of the Congo Free State. As Bright notes, there was no direct route from Vivi to Stanley Pool. While both sites fell under the control of the IAC, the Berlin conferees would have to determine whether they were subject to free navigation and free commerce.<ref type="footnote" target="n01.01">2</ref></p>
+<p>Stanley Pool (present-day Malebo Pool) is "a lake-like expansion of the lower Congo River above Livingstone Falls, between the [present-day] Republic of the Congo (Brazzaville) to the west and the [present-day] Democratic Republic of the Congo (Kinshasa) to the east." The Pool, renamed by the International Association of the Congo (IAC) after explorer Henry Morton Stanley, was of strategic important to those seeking access to various rivers in the Congo region. E. Delmar Morgan, noted traveler and fellow of the Royal Geographical Society, wrote in 1884 that "[u]pwards of 5000 miles of navigable rivers are accessible from Stanley Pool; three steamers are already launched on its waters, and accompanied Stanley on his last expedition, while a fourth is on its way out." Vivi was established as a station/trading post in 1879 by Stanley and the Comit&#233; d'&#201;tudes du Haut-Congo. Vivi later became the capital of the Congo Free State. As Bright notes, there was no direct route from Vivi to Stanley Pool. While both sites fell under the control of the IAC, the Berlin conferees would have to determine whether they were subject to free navigation and free commerce.<ref type="footnote" target="n01.01">2</ref></p>
 
 </div3>
 
 
-<div3 xml:id="llg.ber.002.01.e002">
+<div3 xml:id="teaa.en.book.0006.e002">
 
 <head type="sub">Kinsembo &amp; Ambriz</head>
 
@@ -130,7 +130,7 @@
 </div3>
 
 
-<div3 xml:id="llg.ber.002.01.e003">
+<div3 xml:id="teaa.en.book.0006.e003">
 
 <head type="sub">St. Thomas Island &amp; Luanda</head>
 
@@ -140,7 +140,7 @@
 </div3>
 
 
-<div3 xml:id="llg.ber.002.01.e004">
+<div3 xml:id="teaa.en.book.0006.e004">
 
 <head type="sub">Zanzibar</head>
 
@@ -149,7 +149,7 @@
 </div3>
 
 
-<div3 xml:id="llg.ber.002.01.e005">
+<div3 xml:id="teaa.en.book.0006.e005">
 
 <head type="sub">Ambriz &amp; Kinsembo</head>
 

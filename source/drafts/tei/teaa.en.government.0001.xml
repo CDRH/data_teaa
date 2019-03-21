@@ -72,8 +72,7 @@
 </keywords>   
 
 <keywords scheme="viaf" n="people">
-<term>Kasson, John A. 1822-1910</term>
-<term>Sanford, Henry Shelton, 1823-1891</term>
+<term/> 
 </keywords>
 
 <keywords scheme="original" n="places">
@@ -117,6 +116,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-21" who="#kln">updated encoded</change>
 <change when="2014-11-05" who="#kln">added subtype</change>
 <change when="2014-07-02" who="#kln">modified encoding and document structure</change>
 <change when="2014-05-22" who="#kln">Corrected geogFeat to geogName.</change>
@@ -131,13 +131,11 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
   
 <head type="main">General Act of the Conference of Berlin Concerning the Congo.</head>
 
 <head type="sub">Signed at Berlin, February 26, 1885.</head>
-   
-<div2> 
 
 <p>In the name of Almighty God:</p>
 
@@ -274,7 +272,7 @@ future upon the coasts of the African Continent;</p>
 coordinated in a single instrument, have collected them into a general
 Act composed of the following articles.</p>
 
-</div2>
+
 
 <div2 type="chapter">
 
@@ -289,7 +287,7 @@ Dispositions Connected Therewith.</head>
 
 <p>The commerce of all nations shall enjoy complete liberty:</p>
 
-<p>1st. In all the territories constituting the <placeName n="mapped"><geogName type="basin" key="bas.con">basin of the Congo</geogName></placeName> and its affluents. This basin is defined by the crests of the contiguous basins, to wit: notably the basins of the Niari, of the Ogove, of the Schari and of the Nile, on the North; by the line of Eastern water shed of the affluents of lake Tanganyka on the East; by the crests of the basins of the Zambeze and of the Loge, on the South. It embraces, consequently, all the territories drained by the Congo and its affluents, including the lake Tanganyka and its Eastern tributaries.</p>
+<p>1st. In all the territories constituting the basin of the Congo and its affluents. This basin is defined by the crests of the contiguous basins, to wit: notably the basins of the Niari, of the Ogove, of the Schari and of the Nile, on the North; by the line of Eastern water shed of the affluents of lake Tanganyka on the East; by the crests of the basins of the Zambeze and of the Loge, on the South. It embraces, consequently, all the territories drained by the Congo and its affluents, including the lake Tanganyka and its Eastern tributaries.</p>
 
 <p>2nd. In the maritime zone extending along the Atlantic ocean from
 the parallel of 2&#176; 30&#146; Southern latitude to the mouth of the Loge.</p>
@@ -507,7 +505,7 @@ recourse to the procedure of arbitration.</p>
 <div2 type="chapter">
 
 <head type="main">Chapter IV.</head>
-<head type="sub">Act of Navigation of the <placeName n="mapped"><geogName type="river" key="riv.con">Congo</geogName></placeName>.</head>
+<head type="sub">Act of Navigation of the Congo.</head>
 
 <div3 type="article">
 
@@ -829,7 +827,7 @@ head, shall be respected and protected by the belligerents.</p>
 
 <head type="sub">Article 26.</head>
 
-<p>The navigation of the <placeName n="mapped"><geogName type="river" key="riv.nig">Niger</geogName></placeName>, without exception of any of the branches
+<p>The navigation of the Niger, without exception of any of the branches
 or issues of this river, is and shall remain entirely free for the merchant
 ships, laden or in ballast, of all nations, as well for the transport of
 merchandise as for that of travelers. It must conform to the dispositions of the present navigation Act and to the regulations to be established in execution of the same Act.</p>
@@ -1066,7 +1064,6 @@ present general Act and have affixed thereto their seal.</p>
 <p>Done at Berlin, the 26th day of the month of February one thousand
 eight hundred eighty five.</p>
 
-
 <list type="simple">
 <item>[L. S.] John A. Kasson.</item>
 <item>[L. S.] H. S. Sanford.</item>
@@ -1088,9 +1085,6 @@ eight hundred eighty five.</p>
 <item>[L. S.] Gillis Bildt.</item>
 <item>[L. S.] Sa&#239;d.</item>
 </list>
-
- 
-
  
 </div3>
 

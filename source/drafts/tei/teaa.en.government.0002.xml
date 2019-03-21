@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.006.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.government.0002">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>General Act of the Brussels Conference Relative to the African Slave Trade</title>
+<title>General Act of the Brussels Conference Relative to the African Slave Trade (1890)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.006.01</idno>
+<idno type="project">teaa.en.government.0002</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -42,7 +42,6 @@
 <publisher>Harrison and Sons</publisher>
 <pubPlace>London</pubPlace>
 <date when="1892">1892</date>
-<note type="source">http://catalog.hathitrust.org/Record/010445236/Home</note>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -54,7 +53,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Berlin Conference</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -70,13 +69,18 @@
 </keywords>
 
 <keywords scheme="original" n="places">
-<term>Arabian Peninsula</term>
-<term>Austria-Hungary</term>
+<term>Africa</term>
+<term>Arabia</term>
+<term>Austria</term>
 <term>Belgium</term>
+<term>Bohemia</term>
+<term>Brussels (Belgium)</term>
 <term>Congo Free State</term>
 <term>Denmark</term>
 <term>France</term>
 <term>Germany</term>
+<term>Hungary</term>
+<term>India</term>
 <term>Italy</term>
 <term>Netherlands</term>
 <term>Norway</term>
@@ -103,13 +107,11 @@
 <term/>
 </keywords>
 
-<classCode scheme="original">
-<ref type="analysis" target="llg.ber.006.02">Analysis</ref>
-</classCode>
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-21" who="#kln">updated encoded</change>
 <change when="2014-11-05" who="#kln">added subtype</change>
 <change when="2014-07-02" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -119,7 +121,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <head type="main">General Act of the Brussels Conference.</head>
 
@@ -184,7 +186,7 @@ Government of His Majesty the King of the Belgians, in agreement
 with the Government of Her Majesty the Queen of the
 United Kingdom of Great Britain and Ireland, Empress of India,
 to assemble with this subject a Conference at Brussels, and have
-named as their Plenipotentiaries, that is to say :
+named as their Plenipotentiaries, that is to say:
 Her Majesty the Queen of the United Kingdom of Great
 Britain and Ireland, Empress of India, Lord Vivian, Peer of the
 United Kingdom, her Envoy Extraordinary and Minister Plenipotentiary
@@ -408,7 +410,7 @@ the person, to the organizers and abettors of man-hunts, to perpetrators
 of the mutilation of adults and male infants, and to all
 persons who may take part in the capture of slaves by violence;
 and, on the other hand, the provisions relating to offences against
-individual liberty, to carriers, transporters, and dealers in slaves. </p>
+individual liberty, to carriers, transporters, and dealers in slaves.</p>
 
 <p>Accomplices and accessories of the different categories of slave
 captors and dealers above specified shall be punished with penalties
@@ -591,7 +593,7 @@ territories.</p>
 legislatures the measures necessary to insure that those who infringe
 the prohibitions laid down in Articles VIII and IX, and
 their accomplices, shall, besides the seizure and confiscation of the
-prohibited arms ann ammunition, be punished either by fine or by
+prohibited arms and ammunition, be punished either by fine or by
 imprisonment, or by both penalties together, in proportion to the
 importance of the offence, and in accordance with the gravity of
 each case.</p>
@@ -738,7 +740,7 @@ Trade in the maritime zone in which it still exists.</p>
 
 <head type="main">Article XXI.</head>
 
-<p>This zone extends, on the one hand, between tho coasts of the
+<p>This zone extends, on the one hand, between the coasts of the
 Indian Ocean (those of the Persian Gulf and of the Red Sea
 included) from Beluchistan to Point Tangalane (Quilimane), and,
 on the other hand, a conventional line which first follows the
@@ -815,7 +817,7 @@ operations.</p>
 <head type="main">Article XXVII.</head>
 
 <p>At least one International Bureau shall be created; it shall be
-established at <placeName key="tan.zan" n="mapped"><country type="kingdom">Zanzibar</country></placeName>. The High Contracting Parties undertake
+established at Zanzibar. The High Contracting Parties undertake
 to forward to it all the documents specified in Article XLI, as well
 as information of all kinds likely to assist in the suppression of the
 Slave Trade.</p>
@@ -995,7 +997,7 @@ numbers of that port, shall be printed in black on the sails.</p>
 
 <p>All acts or attempted acts of Slave Trade legally brought home
 to the captain, fitter-out, or owner of a vessel authorized to fly the
-flag of one of the Signatory Powers, or holding the licence provided for in Article XXXIX, shall entail the immediate withdrawal of the said authorization or licence. All offences against the pro- visions of section 2 of Chapter III Ahall in addition be punished by the penalties enacted by special Laws and Ordinances of each of the Contracting Powers.</p>
+flag of one of the Signatory Powers, or holding the licence provided for in Article XXXIX, shall entail the immediate withdrawal of the said authorization or licence. All offences against the provisions of section 2 of Chapter III shall in addition be punished by the penalties enacted by special Laws and Ordinances of each of the Contracting Powers.</p>
 
 </div3>
 
@@ -1045,7 +1047,7 @@ The provisions of the present Article only concern the papers intended for nativ
 
 <p>When the officers in command of vessels of war of any of the Signatory Powers have reason to believe that a vessel of less than 500 tons burthen, found in the above-mentioned zone, is engaged in the Slave Trade' or is guilty of the fraudulent use of a flag, they may proceed to the verification of the ship's papers.</p>
 
-<p>The present Article does not imply any change in the present state of things I\B regards jurisdiction in territorial waters.</p>
+<p>The present Article does not imply any change in the present state of things as regards jurisdiction in territorial waters.</p>
 
 </div3>
 
@@ -1155,7 +1157,7 @@ vessel to the nearest port of the zone where there is a competent authority of t
 
 <p>If the examination shows an act of Slave Trade, made clear by the presence on board of slaves destined for sale, or by any other Slave Trade offence provided for by special Convention, the vessel and cargo shall remain sequestrated in charge of the authority who has directed the inquiry.</p>
 
-<p>The captain and crew shall be handed over to the Tribunals fixed by Articles LIV and. LVI. The slaves shall be set at liberty as soon as Judgment has been delivered.</p>
+<p>The captain and crew shall be handed over to the Tribunals fixed by Articles LIV and LVI. The slaves shall be set at liberty as soon as Judgment has been delivered.</p>
 
 <p>In the cases provided for by this Article, liberated slaves shall he disposed of in accordance with the special Conventions concluded, or which may be concluded, between the Signatory Powers, In default of such Conventions, the said slaves may be handed over to the local authority, to be sent back, if possible, to their country of origin; if not, such authority shall help them so far as possible to obtain means of subsistence, and, if they desire it, to settle on the spot.</p>
 
@@ -1210,7 +1212,7 @@ among the Diplomatic, Consular, or Judicial officers of the Signatory Powers. Na
 
 <p>Any Judgment of the national Tribunal, or of the authorities referred to in Article LVI, declaring that the detained vessel did not carry on Slave Trade, shall be immediately executed, and the vessel shall be entirely free to continue its course.</p>
 
-<p>In such case, the captain or fitter-out of a vessel detained without legitimate ground of suspicion, or which has been subjected to annoyance, shall have the right of claiming damages, the amount of which shall be fixed by agreement between the Governments directly interested, or by arbitration, and shall be paid within n period of six months from the date of the JUdgment acquitting the captured vessel.</p>
+<p>In such case, the captain or fitter-out of a vessel detained without legitimate ground of suspicion, or which has been subjected to annoyance, shall have the right of claiming damages, the amount of which shall be fixed by agreement between the Governments directly interested, or by arbitration, and shall be paid within a period of six months from the date of the Judgment acquitting the captured vessel.</p>
 
 </div3>
 
@@ -1306,7 +1308,7 @@ The High Contracting Parties undertake to make known to each other reciprocally 
 
 <head type="main">Article LXVIII.</head>
 
-<p>The Signatory Powers recognize the great importance of the Law respecting the prohibition of the negro Slave Trade sanctioned by His Majesty the Emperor of the Ottomans on the 4th (16th) December, 1889 (22 Rebi-ul-Akhir, 1307), and they arc assured that an active supervision will be organized by the Ottoman authorities, especially on the <placeName key="pen.ara" n="mapped">west coast of Arabia</placeName>, and on the routes which place this coast in communication with the other possessions of His Imperial Majesty in Asia.</p>
+<p>The Signatory Powers recognize the great importance of the Law respecting the prohibition of the negro Slave Trade sanctioned by His Majesty the Emperor of the Ottomans on the 4th (16th) December, 1889 (22 Rebi-ul-Akhir, 1307), and they arc assured that an active supervision will be organized by the Ottoman authorities, especially on the west coast of Arabia, and on the routes which place this coast in communication with the other possessions of His Imperial Majesty in Asia.</p>
 
 </div3>
 
@@ -1314,7 +1316,7 @@ The High Contracting Parties undertake to make known to each other reciprocally 
 
 <head type="main">Article LXIX.</head>
 
-<p>His Majesty the Shah of Persia consents to organize an active supervision in the territorial waters, and on those portions of the coast of the <placeName key="gul.per" n="mapped"><geogName type="gulf">Persian Gulf</geogName></placeName> and <placeName key="gul.oma" n="mapped"><geogName type="gulf">Gulf of Oman</geogName></placeName> which are under his sovereignty; and over the inland routes which serve for the transport of slaves. The Magistrates and other authorities shall receive the necessary powers for this purpose.</p>
+<p>His Majesty the Shah of Persia consents to organize an active supervision in the territorial waters, and on those portions of the coast of the Persian Gulf and Gulf of Oman which are under his sovereignty; and over the inland routes which serve for the transport of slaves. The Magistrates and other authorities shall receive the necessary powers for this purpose.</p>
 
 </div3>
 
@@ -1347,7 +1349,7 @@ in virtue of the provisions of the present General Act and of the Decrees issued
 
 <head type="main">Article LXXIII.</head>
 
-<p>The Signatory Powers having undertaken to communicate to each other all information useful for the repression of the Slave Tra.de, the Governments whom the present Chapter concerns shall periodically exchange with the other Governments statistical data relating to slaves detained and liberated, as well as the legislative and administrative measures taken for suppressing the Slave Trade.</p>
+<p>The Signatory Powers having undertaken to communicate to each other all information useful for the repression of the Slave Trade, the Governments whom the present Chapter concerns shall periodically exchange with the other Governments statistical data relating to slaves detained and liberated, as well as the legislative and administrative measures taken for suppressing the Slave Trade.</p>
 
 </div3>
 
@@ -1450,7 +1452,7 @@ shall be sent to them direct by the territorial and Consular authorities of the 
 
 <p>1. The text of the Laws and Administrative Regulations, whether already existing or enacted in application of the clauses of the present General Act.</p>
 
-<p>2. Statistical information concerning the Slave Trade, slaves detained and libel'8.ted, and the traffic in arms, ammunition, and spirituous liquors.</p>
+<p>2. Statistical information concerning the Slave Trade, slaves detained and liberated, and the traffic in arms, ammunition, and spirituous liquors.</p>
 
 </div3>
 
@@ -1593,7 +1595,7 @@ revision, taking as a basis the average results produced by these Tariffs, for t
 
 <head type="main">Article XCV.</head>
 
-<p>The Powers shall communicate to each other, through the Office at Brussels, and according to the terms of Chapter V, information relating to the traffic in spirit110us liquors within their respective territories.</p>
+<p>The Powers shall communicate to each other, through the Office at Brussels, and according to the terms of Chapter V, information relating to the traffic in spirituous liquors within their respective territories.</p>
 
 </div3>
 
