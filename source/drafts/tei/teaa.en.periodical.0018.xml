@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.012.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0018">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Evening Bulletin, "Diplomatic Negotiation"</title>
+<title>Evening Bulletin, "Diplomatic Negotiation" (1884)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.012.01</idno>
+<idno type="project">teaa.en.periodical.0018</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -64,12 +64,22 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bismarck, Herbert, Fürst von, 1849-1904</term>
 </keywords>
 
 <keywords scheme="original" n="places">
+<term>Australasia</term>
+<term>Berlin (Germany)</term>
 <term>Congo River</term>
+<term>England</term>
+<term>France</term>
+<term>Germany</term>
+<term>New Guinea</term>
 <term>Niger River</term>
+<term>Panama Canal</term>
+<term>Paris (France)</term>
+<term>Solomon Islands</term>
+<term>West Africa</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -91,6 +101,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-22" who="#kln">updated encoding</change>
 <change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-09" who="#kln">encoded transcription</change>
@@ -101,7 +112,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="titles">
 
@@ -111,9 +122,9 @@
 
 <div2 type="article">
 
-<p>The prospect of an international conference at Berlin for dealing with West African colonial questions are very satisfactory. Preliminary negotiations are going on between Germany and England on the subject. These are also associated with the recent flying visit of Count Herbert Bismarck to Paris. The outcome of the conference is likely to be the adoption of a plan of the British Government for controlling the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName> and the <placeName key="riv.nig" n="mapped"><geogName type="river">Niger</geogName></placeName> by commissions, and for the amicable settlement of certain conflicting claims to isolated stations in the basins of both rivers.</p> 
+<p>The prospect of an international conference at Berlin for dealing with West African colonial questions are very satisfactory. Preliminary negotiations are going on between Germany and England on the subject. These are also associated with the recent flying visit of Count Herbert Bismarck to Paris. The outcome of the conference is likely to be the adoption of a plan of the British Government for controlling the Congo and the Niger by commissions, and for the amicable settlement of certain conflicting claims to isolated stations in the basins of both rivers.</p> 
 
-<p>The British Government have formerly decided to annex the southern shores of New Guinea and certain adjacent islands. It is yet unsettled wither they will take the solomon and other groups. Negotiations are proceeding in Parish which may lead to an important arrangement between England, France and Germany of the principle of protection in view of the opening of the Panama Canal, and of the Pacific islands becoming important to European commerce with Australasia as coaling depots and the like.</p>
+<p>The British Government have formerly decided to annex the southern shores of New Guinea and certain adjacent islands. It is yet unsettled whether they will take the Solomon and other groups. Negotiations are proceeding in Paris which may lead to an important arrangement between England, France and Germany of the principle of protection in view of the opening of the Panama Canal, and of the Pacific islands becoming important to European commerce with Australasia as coaling depots and the like.</p>
 
 </div2>
 

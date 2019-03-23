@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.013.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0019">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Evening Bulletin, "The Yellow Book"</title>
+<title>Evening Bulletin, "The Yellow Book" (1884)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.013.01</idno>
+<idno type="project">teaa.en.periodical.0019</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -64,11 +64,14 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bismarck, Otto, Fürst von, 1815-1898</term>
+<term>Ferry, Jules, 1832-1893</term>
 </keywords>
 
 <keywords scheme="original" n="places">
+<term>Congo</term>
 <term>Congo River</term>
+<term>France</term>
 <term>Niger River</term>
 </keywords>
 
@@ -91,6 +94,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-22" who="#kln">updated encoding</change>
 <change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-10" who="#kln">encoded transcription</change>
@@ -101,7 +105,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="titles">
 
@@ -111,7 +115,7 @@
 
 <div2 type="article">
 
-<p>Paris, Oct. 15. -- The yellow book just published shows that the Internation Congo Association promised to give preference to France in regard to concessions in the forthcoming African Conference shall recognize the Association's rights in the Congo regions. M. Ferry agreed to respect the position of the Association upon suggestion of Prince Bismarck. M. Ferry agreed to propose to the Conference an application of the Danubian principle to the navigation of the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName> and the <placeName key="riv.con" n="mapped"><geogName type="river">Niger</geogName></placeName>.</p>
+<p>Paris, Oct. 15. -- The yellow book just published shows that the International Congo Association promised to give preference to France in regard to concessions in the forthcoming African Conference shall recognize the Association's rights in the Congo regions. M. Ferry agreed to respect the position of the Association upon suggestion of Prince Bismarck. M. Ferry agreed to propose to the Conference an application of the Danubian principle to the navigation of the Congo and the Niger.</p>
 
 </div2>
 
