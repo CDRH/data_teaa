@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.021.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0027">
 
 <teiHeader>
 <fileDesc>
@@ -16,12 +16,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.021.01</idno>
+<idno type="project">teaa.en.periodical.0027</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -84,12 +84,13 @@
 </keywords>
 
 <classCode scheme="original">
-<ref type="analysis" target="llg.ber.021.02">Analysis</ref>
+<ref type="analysis" target="teaa.analysis.0019">Analysis</ref>
 </classCode>
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-25" who="#kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-10" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -99,11 +100,11 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="article">
 
-<p>The <placeName key="bas.con" n="mapped"><geogName type="basin">basin of the Congo</geogName></placeName>, as agreed upon by the Conference, comprises 1,300,000 square miles of territory. Mr. Stanley is endeavoring to have it extended to 3,000,000 square miles.</p>
+<p>The basin of the Congo, as agreed upon by the Conference, comprises 1,300,000 square miles of territory. Mr. Stanley is endeavoring to have it extended to 3,000,000 square miles.</p>
 
 </div2>
 

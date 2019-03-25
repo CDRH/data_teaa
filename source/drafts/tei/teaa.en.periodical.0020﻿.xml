@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.020.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0020">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Evening Bulletin, [Brief News Items]</title>
+<title>Evening Bulletin, "The Niger" (1884)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,15 +32,15 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.020.01</idno>
+<idno type="project">teaa.en.periodical.0020</idno>
 </publicationStmt>
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main">[Brief News Items]</title>
+<title level="a" type="main">The Niger</title>
 <title level="j">Evening Bulletin</title>
 <pubPlace>Maysville, Kentucky</pubPlace>
-<date when="1884-11-29">November 29, 1884</date>
+<date when="1884-10-21">October 21, 1884</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -64,14 +64,19 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term>Kasson, John A. 1822-1910</term>
+<term>Granville, Granville George Leveson-Gower, Earl, 1815-1891</term>
+<term>Hewett, Edward Hyde</term>
 </keywords>
 
 <keywords scheme="original" n="places">
-<term>Congo Basin</term>
-<term>Congo River</term>
-<term>Loge River</term>
-<term>Sette River</term>
+<term>Berlin (Germany)</term>
+<term>Congo</term>
+<term>England</term>
+<term>France</term>
+<term>Germany</term>
+<term>Great Britain</term>
+<term>Niger River</term>
+<term>Portugal</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -87,12 +92,13 @@
 </keywords>
 
 <classCode scheme="original">
-<ref type="analysis" target="llg.ber.020.02">Analysis</ref>
+<ref type="analysis" target="teaa.analysis.0012">Analysis</ref>
 </classCode>
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-25" who="#kln">updated encoding</change>
 <change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-10" who="#kln">encoded transcription</change>
@@ -103,17 +109,17 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
-<div2 type="article">
+<div2 type="titles">
 
-<p>United States Minister Kasson, at Berlin, is very lukewarm in his support of the claims of the Congo Association.</p>
+<head type="main">The Niger.</head>
 
 </div2>
 
 <div2 type="article">
 
-<p>In respect to the boundaries of the <placeName key="bas.con" n="mapped"><geogName type="basin">Congo basin</geogName></placeName> the conference has agreed that the mouth of the river be understood to include the coast from the <placeName key="riv.log" n="mapped"><geogName type="river">river Loge</geogName></placeName> on the south, to the <placeName key="riv.set" n="mapped"><geogName type="basin">river Sette</geogName></placeName> on the north, and that trade shall be free to all comers within the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName> region.</p>
+<p>This further complicates the financial situation and gives additional interest to the Government plans shortly to be explained to the European Powers. England has assented to the colonial conference at Berlin, subject to certain explanations. These are satisfactory. According to rumor they relate to the British position on the Niger. Germany and France proposed to apply to the Niger the same system of administration and control as to the Congo, but seeing that the mouths of the Niger were lately occupied for England by Counsel Hewett it is hardly likely that Great Britain would encourage this Franco-German project. The English Foreign Office, however, is by no means dissatisfied with the prospects for the Conference, since it promises to carry out Lord Granville's plan, advocated months ago, with the Portuguese in connection with the unfortunate Congo treaty.</p>
 
 </div2>
 

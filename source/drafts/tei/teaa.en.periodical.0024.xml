@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.017.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0024">
 
 <teiHeader>
 <fileDesc>
@@ -16,12 +16,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.017.01</idno>
+<idno type="project">teaa.en.periodical.0024</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -40,7 +40,7 @@
 <title level="a" type="main">[Brief News Item]</title>
 <title level="j">Evening Bulletin</title>
 <pubPlace>Maysville, Kentucky</pubPlace>
-<date when="1884-11-21">November 21, 1884</date>
+<date when="1884-11-26">November 26, 1884</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -68,7 +68,8 @@
 </keywords>
 
 <keywords scheme="original" n="places">
-<term/>
+<term>Congo Basin</term>
+<term>West Africa</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -84,12 +85,14 @@
 </keywords>
 
 <classCode scheme="original">
-<ref type="analysis" target="llg.ber.017.02">Analysis</ref>
+<ref type="analysis" target="teaa.analysis.0016">Analysis</ref>
 </classCode>
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-25" who="#kln">updated encoding</change>
+<change when="2015-06-08" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-10" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -99,11 +102,11 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="article">
 
-<p>Germany has officially recognized the International Congo Association.</p>
+<p>At the West African Conference the principle of free trade was guaranteed in the western part of the Congo basin.</p>
 
 </div2>
 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.014.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0029">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Evening Bulletin, "The Niger"</title>
+<title>Evening Bulletin, "The Congo"</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,15 +32,15 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.014.01</idno>
+<idno type="project">teaa.en.periodical.0029</idno>
 </publicationStmt>
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main">The Niger.</title>
+<title level="a" type="main">The Congo</title>
 <title level="j">Evening Bulletin</title>
 <pubPlace>Maysville, Kentucky</pubPlace>
-<date when="1884-10-21">October 21, 1884</date>
+<date when="1884-12-04">December 4, 1884</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -64,11 +64,16 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Sanford, H. S., 1823-1891</term>
 </keywords>
 
 <keywords scheme="original" n="places">
-<term>Niger River</term>
+<term>Berlin (Germany)</term>
+<term>Congo Free State</term>
+<term>Congo River</term>
+<term>East Africa</term>
+<term>Leopoldville (Congo)</term>
+<term>West Africa</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -84,13 +89,13 @@
 </keywords>
 
 <classCode scheme="original">
-<ref type="analysis" target="llg.ber.014.02">Analysis</ref>
+<ref type="analysis" target="teaa.analysis.0021">Analysis</ref>
 </classCode>
 </textClass>
 </profileDesc>
 
 <revisionDesc>
-<change when="2015-06-08" who="#kln">added places</change>
+<change when="2019-03-25" who="#kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-10" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -100,17 +105,21 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="titles">
 
-<head type="main">The Niger.</head>
+<head type="main">The Congo</head>
 
 </div2>
 
 <div2 type="article">
 
-<p>This further complicates the financial situation and gives additional interest to the Government plans shortly to be explained to the European Powers. England has assented to the colonial conference at Berlin, subject to certain explanations. These are satisfactory. According to rumor they relate to the British position on the <placeName key="riv.nig" n="mapped"><geogName type="river">Niger</geogName></placeName>. Germany and France proposed to apply to the Niger the same system of administration and control as to the Congo, but seeing that the mouths of the Niger were lately occupied for England by Counsel Hewett it is hardly likely that Great Britain would encourage this Franco-German project. The English Foreign Office, however, is by no means dissatisfied with the prospects for the Conference, since it promises to carry out Lord Granville's plan, advocated months ago, with the Portuguese in connection with the unfortunate Congo treaty.</p>
+<p>Berlin, Dec. 4. -- General Sandford, the American delegate, has presented to the West African Conference a memorial for the free navigation of the Congo.</p>
+
+<p>The West African Conference have agreed upon a declaration that in reference to trade in East Africa the Powers are at liberty to make arrangements for themselves.</p>
+
+<p>It is learned that there is $69,000 worth of elephant's tucks at Leopoldville, West Africa, waiting shipment upon the conclusion of the conference. A prodigious increase of trade with the Congo country is expected as soon as the rights of traders are defined. </p>
 
 </div2>
 
