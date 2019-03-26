@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.024.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0031">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Evening Bulletin, [Brief News Item]</title>
+<title>Evening Bulletin, "African Annexation"</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,15 +32,15 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.024.01</idno>
+<idno type="project">teaa.en.periodical.0031</idno>
 </publicationStmt>
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main">[Brief News Item]</title>
+<title level="a" type="main">African Annexation</title>
 <title level="j">Evening Bulletin</title>
 <pubPlace>Maysville, Kentucky</pubPlace>
-<date when="1884-12-11">December 11, 1884</date>
+<date when="1884-12-26">December 26, 1884</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -68,8 +68,11 @@
 </keywords>
 
 <keywords scheme="original" n="places">
-<term>Congo River</term>
-<term>Niger River</term>
+<term>Africa</term>
+<term>Congo Free State</term>
+<term>France</term>
+<term>Germany</term>
+<term>London (England)</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -85,15 +88,15 @@
 </keywords>
 
 <classCode scheme="original">
-<ref type="analysis" target="llg.ber.024.02">Analysis</ref>
+<ref type="analysis" target="teaa.analysis.0023">Analysis</ref>
 </classCode>
 </textClass>
 </profileDesc>
 
 <revisionDesc>
-<change when="2015-06-08" who="#kln">added places</change>
+<change when="2019-03-25" who="#kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
-<change when="2014-07-10" who="#kln">encoded transcription</change>
+<change when="2014-07-14" who="#kln">encoded transcription</change>
 </revisionDesc>
 </teiHeader>
 
@@ -103,9 +106,15 @@
 
 <div1 type="document">
 
+<div2 type="titles">
+
+<p>African Annexation.</p>
+
+</div2>
+
 <div2 type="article">
 
-<p>The neutrality of the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName> and <placeName key="riv.nig" n="mapped"><geogName type="river">Niger</geogName></placeName> is still in doubt.</p>
+<p>London, Dec. 26. -- The German and French Governments are discussing the form of a declaration of limits for future annexations in Africa. The agreement here guarantees the success of the Congo Conference.</p>
 
 </div2>
 
