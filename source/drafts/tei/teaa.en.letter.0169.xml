@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0169">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from John Hay to Marquis of Salisbury, May 9, 1898</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0169</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m">Letter from John Hay to Marquis of Salisbury</title>
+<date when="1898-05-09">May 9, 1898</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>The National Archives, Kew, UK</repository>
+<collection>Foreign Office</collection>
+<idno>5/2377</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>   
+
+<keywords scheme="viaf" n="people">
+<term>Chamberlain, Joseph, 1836-1914</term>
+<term>Hay, John, 1838-1905</term>
+<term>Salisbury, Robert Cecil, Marquess of, 1830-1903</term>
+</keywords>
+
+<keywords scheme="original" n="places">
+<term>Freetown (Sierra Leone)</term>
+<term>London (England)</term>
+<term>Sierra Leone</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Hay, John</persName>
+<placeName>London (England)</placeName>
+<date when="1898-05-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Salisbury, Robert Cecil</persName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-03-15" who="#kln">edited encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.en.letter.0169.001.jpg"/>
+
+<p>American Embassy<lb/> 
+London May 9th 1898</p>
+
+<p>My Lord</p>
+
+<p>I have the honour to acknowledge Your Lordship's Note of the 7th instant together with an extract from a telegram to Her Majesty's Secretary of State for the Colonies from the Governor of Sierra Leone enclosed therein, reporting the death of certain American Missionaries at the hands of the Insurgents in that Colony, and mentioning certain others as being safe at Freetown and to acquaint Your Lordship that the information thus <fw type="catch">conveyed</fw>
+
+<fw type="footer">The Most Honble The Marquis of Salisbury K.G. &amp;c. &amp;c. &amp;c. Foreign Office</fw>
+
+<pb facs="teaa.en.letter.0169.002.jpg"/>
+
+conveyed has been promptly transmitted to my government.</p>
+
+<p>I further beg leave to offer to your Lordship and to Mr Chamberlain my sincere appreciation of the kind words of sympathy with the relatives of those killed in Sierra Leone expressed in your Note already referred to.</p>
+ 
+<p>I have the honour to be with the highest consideration<lb/> 
+My Lord<lb/>
+Your most obedt humble servant<lb/>
+John Hay</p>
+
+<pb facs="teaa.en.letter.0169.003.jpg"/>
+
+<p>Mr Hay<lb/>
+May 1898<lb/>
+(<unclear>FO</unclear> 7 inst)</p>
+
+<ab>R 9 12</ab>
+
+<p>Murder of Missionaries in Sierra Leone:<lb/>
+Acknowledges F.O. note thanks. Thanks for expression of sympathy</p>
+ 
+<p>Colonial Office</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

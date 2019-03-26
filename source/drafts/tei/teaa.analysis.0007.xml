@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.analysis.0007">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Chicago Daily Tribute, "The Congo Country. An Official Statement of the Relations of the United States to the Berlin Conference" (1885). Analysis</title>
+<author n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</author>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.analysis.0007</idno>
+</publicationStmt>
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+<keywords scheme="original" n="type">
+<term>Analysis</term>
+</keywords>
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<classCode scheme="original">
+<ref type="document" target="teaa.en.periodical.0015">Document</ref>
+</classCode>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-03-22" who="#kln">updated encoding</change>
+<change when="2014-07-02" who="#kln">encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="analysis">
+
+<div2 type="bibliography">
+<bibl>
+<title level="a" type="main">The Congo Country. An Official Statement of the Relations of the United States to the Berlin Conference.</title>
+<title level="j">Chicago Daily Tribune</title>
+<biblScope unit="page">2</biblScope>
+<pubPlace>Chicago</pubPlace>
+<date when="1885-01-30">January 30, 1885</date>
+</bibl>
+</div2>
+
+<div2 type="analysis">
+
+<head type="main">Analysis</head>
+
+<p>Most Americans did not have access to Congressional debates about whether the U.S should recognize the sovereignty of King Leopold II of Belgium's Congo Free State&#8212;which prompted the convening of the Berlin Conference&#8212;or discussions of U.S. engagement with the "African Question."<ref type="footnote" target="n01">1</ref> They turned to newspapers to glean any information about the major international issue for the West at the time&#8212;the present and future state of African affairs. U.S. media coverage of the Berlin Conference of 1884-85 was extensive, with articles published in the major coastal newspapers and dailies in the South, West, and Midwest, attesting to the scope of American interest in European designs on Africa.</p>
+
+</div2>
+
+</div1>
+</body>
+
+<back>
+
+<div1 type="notes">
+
+<note xml:id="n01">1. See Senate Committee on Foreign Relations, Papers Relating to the Foreign Relations of the U.S. <ref type="internal" target="llg.con.053.01">1906</ref>, <ref type="internal" target="llg.con.054.01">1907</ref>, and <ref type="internal" target="llg.con.055.01">1908</ref>.</note>
+
+</div1>
+
+</back>
+
+</text>
+
+</TEI>
