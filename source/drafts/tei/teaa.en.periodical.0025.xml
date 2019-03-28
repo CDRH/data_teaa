@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.041.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0025">
 
 <teiHeader>
 <fileDesc>
@@ -16,12 +16,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.041.01</idno>
+<idno type="project">teaa.en.periodical.0025</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -40,7 +40,7 @@
 <title level="a" type="main">The Congo Diplomacy</title>
 <title level="j">New York Times</title>
 <pubPlace>New York</pubPlace>
-<biblScope type="page">1</biblScope>
+<biblScope unit="page">1</biblScope>
 <date when="1885-01-31">January 31, 1885</date>
 </bibl>
 </sourceDesc>
@@ -65,12 +65,22 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
+<term>Adams, John Quincy, 1767-1848</term>
+<term>Arthur, Chester Alan, 1829-1886</term>
+<term>Belmont, Perry, 1850-1947</term>
 <term>Frelinghuysen, Frederick T. (Frederick Theodore), 1817-1885</term>
+<term>Herbert, Hilary A. (Hilary Abner), 1834-1919</term>
+<term>Jefferson, Thomas, 1743-1826</term>
 <term>Kasson, John A. 1822-1910</term>
+<term>Stanley, Henry M. (Henry Morton), 1841-1904</term>
+<term>Washington, George, 1732-1799</term>
 </keywords>
 
 <keywords scheme="original" n="places">
-<term>Belgian Congo</term>
+<term>Africa</term>
+<term>Congo</term>
+<term>Danube River</term>
+<term>Scheldt River</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -86,12 +96,13 @@
 </keywords>
 
 <classCode scheme="original">
-<ref type="analysis" target="llg.ber.041.02">Analysis</ref>
+<ref type="analysis" target="teaa.analysis.0016">Analysis</ref>
 </classCode>
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-28" who="#kln">updated tei header</change>
 <change when="2015-06-30" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-22" who="#kln">encoded transcription</change>
@@ -102,7 +113,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="titles">
 
@@ -122,7 +133,7 @@
 
 <p>"What do you think, Mr. Herbert, of the President's answers to the Congo resolutions?"</p>
 
-<p>"Well, it is apparent the Secretary of State ought to have more clerical help. He had the resolutions about 23 days and then sent in less than 30 pages of manuscript. He gives his opinions and Mr. Kasson's very fully;of course, they think they have not violated the traditional policy of the country. But the information the House wanted is doled out very scantily. We are given mostly extracts, not even the full instructions sent to Mr. Kasson."</p>
+<p>"Well, it is apparent the Secretary of State ought to have more clerical help. He had the resolutions about 23 days and then sent in less than 30 pages of manuscript. He gives his opinions and Mr. Kasson's very fully; of course, they think they have not violated the traditional policy of the country. But the information the House wanted is doled out very scantily. We are given mostly extracts, not even the full instructions sent to Mr. Kasson."</p>
 
 <p>"Are these extracts sufficient to enable you to form an opinion about the matter?"</p>
 
@@ -138,12 +149,11 @@
 
 <p>"It is very certain," continued Mr. Herbert, "that the stockholders of this association think there is something substantial in this conference. Their purpose is to get all the powers to agree upon and sanction beforehand what they intend to do with their claims in Africa. It might have been well enough for Hastings, when he had determined to rub the people of India, to get the approval of the British Government beforehand. These stockholders have learned wisdom from his example. They ask this conference even to settle their boundaries. Mr. Kasson tells us this conference is all about possessory rights, &amp;c. Now, if the association is in possession of any definite and distinct rights, why should it ask the conference to determine where their boundaries ought to be? We find Mr. Kasson introducing Stanley as an expert to testify that the arrangement ought to embrace the several mouths of the Congo -- what he called the commercial delta. If the association had been in possession of this delta, Stanley would have said so. It will probably turn out, when all the facts come to light, that Portugal or some other Government has some claim to the country about the delta. Whether she will be bullied out of it by any agreement of the combined powers at the conference remains, in the language of the Secretary, 'to be seen.' So far as the United States are concerned, our attitude at the conference, the Secretary intimates, is that we are just talking, and not bound by anything; but then the other powers may take it into their heads that they ought to enforce whatever may be agreed upon as right. But as for us, we simply believed in free speech, that is all.</p>
 
-<p>"It is said our interest in the <placeName key="con" n="mapped"><country type="colony">Congo</country></placeName> country is like that in the question of the sound dues or the navigation of the Danube. If that is so, why say anything about the rights acquired by Mr. Stanley? Is it not clear that the conference is rather a joint effort to further and maintain and even to broaden the rights of the joint association? The cases mentioned are entirely different from this. Denmark claimed the right, by prescription, to collect tolls or sound dues for the navigation of the channel along her border. The question was simply as to the sum in gross to be paid her for the relinquishment of the right she claimed, and the proportion of that sum to be paid by the United States. The navigation of the Scheldt and of the Danube were similar questions. The United States never before took part in a conference of nations which had any such purposes in view as this. If we are to let an enterprising citizen like Stanley lead us into such diplomacy as this, then it seems to me we must get ready for a new departure."</p>
+<p>"It is said our interest in the Congo country is like that in the question of the sound dues or the navigation of the Danube. If that is so, why say anything about the rights acquired by Mr. Stanley? Is it not clear that the conference is rather a joint effort to further and maintain and even to broaden the rights of the joint association? The cases mentioned are entirely different from this. Denmark claimed the right, by prescription, to collect tolls or sound dues for the navigation of the channel along her border. The question was simply as to the sum in gross to be paid her for the relinquishment of the right she claimed, and the proportion of that sum to be paid by the United States. The navigation of the Scheldt and of the Danube were similar questions. The United States never before took part in a conference of nations which had any such purposes in view as this. If we are to let an enterprising citizen like Stanley lead us into such diplomacy as this, then it seems to me we must get ready for a new departure."</p>
 
 <p>"What do you think the House will do about it?"</p>
 
-<p>"That I don't know. We ought to have the documents in full. As we
-have not got them the Committee on Foreign Affairs, to which the answer  is referred, ought to go on with such information as it can get and report its opinion. Probably the question cannot be reached in the House so late in the session, but it would be interesting to know at least what the committee thinks of this piece of new diplomacy."</p>
+<p>"That I don't know. We ought to have the documents in full. As we have not got them the Committee on Foreign Affairs, to which the answer  is referred, ought to go on with such information as it can get and report its opinion. Probably the question cannot be reached in the House so late in the session, but it would be interesting to know at least what the committee thinks of this piece of new diplomacy."</p>
 
 </div2>
 

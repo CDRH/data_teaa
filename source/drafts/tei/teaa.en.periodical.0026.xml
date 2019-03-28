@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.042.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0026">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>New York Times, "British-American Alliance"</title>
+<title>New York Times, "British-American Alliance" (1885)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,15 +32,15 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.042.01</idno>
+<idno type="project">teaa.en.periodical.0026</idno>
 </publicationStmt>
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main">The Congo Diplomacy</title>
+<title level="a" type="main">British-American Alliance</title>
 <title level="j">New York Times</title>
 <pubPlace>New York</pubPlace>
-<biblScope type="page">1</biblScope>
+<biblScope unit="page">1</biblScope>
 <date when="1885-02-04">February 4, 1885</date>
 </bibl>
 </sourceDesc>
@@ -65,11 +65,22 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Cleveland, Grover, 1837-1908</term>
+<term>Kasson, John A. 1822-1910</term>
 </keywords>
 
 <keywords scheme="original" n="places">
-<term/>
+<term>Africa</term>
+<term>Asia</term>
+<term>Austria</term>
+<term>Chili</term>
+<term>Europe</term>
+<term>Germany</term>
+<term>Great Britain</term>
+<term>Korea</term>
+<term>London (England)</term>
+<term>Peru</term>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -85,12 +96,13 @@
 </keywords>
 
 <classCode scheme="original">
-<ref type="analysis" target="llg.ber.042.02">Analysis</ref>
+<ref type="analysis" target="teaa.analysis.0017">Analysis</ref>
 </classCode>
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-28" who="#kln">updated tei header</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-22" who="#kln">encoded transcription</change>
 </revisionDesc>
@@ -100,7 +112,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="titles">
 
@@ -112,8 +124,7 @@
 
 <div2 type="article">
 
-<p>London, Feb. 3. -- The leader in this evening's Pall Mall Gazette advocating a political alliance between the Empire of Great Britain and the Republic of the United States of America attracts attention. The American Republic, the Gazette says, is now at last beginning to have a foreign policy. The doctrine of complete isolation so long maintained by American statesmen has perished. Minister Kasson's presence and activity at the Berlin conference on the Congo question must be taken as a portent of things to come. America will continue to exert a great and increasing influence in the work of pacifying Africa. The Republic will ere long claim admittance into the European Areopagus whenever dealing with questions pertaining to interests outside the boundaries of the European Continent. England's duty, therefore, the Gazette contends, is to make the most of this great fact. Blood is thicker than water. The United States is England's natural ally. After the federation of the
-British empire there will remain for British statesmen no task comparable in importance with that of the conclusion of an alliance between Great Britain and the great Republic which has sprung from England's loins. This alliance, the article concludes, will be as close and useful to the two great English-speaking peoples as that between Austria and Germany.</p>
+<p>London, Feb. 3. -- The leader in this evening's Pall Mall Gazette advocating a political alliance between the Empire of Great Britain and the Republic of the United States of America attracts attention. The American Republic, the Gazette says, is now at last beginning to have a foreign policy. The doctrine of complete isolation so long maintained by American statesmen has perished. Minister Kasson's presence and activity at the Berlin conference on the Congo question must be taken as a portent of things to come. America will continue to exert a great and increasing influence in the work of pacifying Africa. The Republic will ere long claim admittance into the European Areopagus whenever dealing with questions pertaining to interests outside the boundaries of the European Continent. England's duty, therefore, the Gazette contends, is to make the most of this great fact. Blood is thicker than water. The United States is England's natural ally. After the federation of the British empire there will remain for British statesmen no task comparable in importance with that of the conclusion of an alliance between Great Britain and the great Republic which has sprung from England's loins. This alliance, the article concludes, will be as close and useful to the two great English-speaking peoples as that between Austria and Germany.</p>
 
 <p>The Post, in a special article this morning, says America's recent activity in Chili, Peru, Africa, and Corea indicates her intention of having a foreign policy. The question is one of considerable importance to England. The policy adopted by Mr. Cleveland upon assuming the office of President will be watched with keen interest here. The adoption of free trade would mean increased intercourse with the world at large, and would compel America to admit the existence of a regular foreign policy and to defend her interests in Asia and Africa against European attacks.</p>
 

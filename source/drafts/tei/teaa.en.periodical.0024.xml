@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.ber.040.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0024">
 
 <teiHeader>
 <fileDesc>
@@ -16,12 +16,12 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.ber.040.01</idno>
+<idno type="project">teaa.en.periodical.0024</idno>
 </publicationStmt>
 
 <sourceDesc>
@@ -40,7 +40,7 @@
 <title level="a" type="main">The Berlin Conference</title>
 <title level="j">New York Times</title>
 <pubPlace>New York</pubPlace>
-<biblScope type="page">3</biblScope>
+<biblScope unit="page">3</biblScope>
 <date when="1885-01-30">January 30, 1885</date>
 </bibl>
 </sourceDesc>
@@ -68,13 +68,21 @@
 <term>Frelinghuysen, Frederick T. (Frederick Theodore), 1817-1885</term>
 <term>Kasson, John A. 1822-1910</term>
 <term>Sanford, Henry Shelton, 1823-1891</term>
+<term>Stanley, Henry M. (Henry Morton), 1841-1904</term>
 </keywords>
 
 <keywords scheme="original" n="places">
+<term>Africa</term>
+<term>Berlin (Germany)</term>
+<term>Congo</term>
 <term>Congo Basin</term>
 <term>Congo River</term>
+<term>France</term>
+<term>Germany</term>
 <term>Indian Ocean</term>
 <term>Niger River</term>
+<term>United States</term>
+<term>Washington (D.C.)</term>
 <term>Zambezi River</term>
 </keywords>
 
@@ -91,12 +99,13 @@
 </keywords>
 
 <classCode scheme="original">
-<ref type="analysis" target="llg.ber.040.02">Analysis</ref>
+<ref type="analysis" target="teaa.analysis.0015">Analysis</ref>
 </classCode>
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-03-28" who="#kln">updated tei header</change>
 <change when="2015-06-30" who="#kln">added places</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-07-21" who="#kln">encoded transcription</change>
@@ -107,7 +116,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="titles">
 
@@ -125,7 +134,7 @@
 
 <p>Secretary Frelinghuysen remarks that the purview of tho resolution may be summarized under three heads. It requests information (1) as to the causes and modes of the participation of this Government in the Berlin Conference, (2) as to the manner in which this Government so participated, and (3) as to the results of that conference with especial reference to whatever views may have been sustained by the United States delegates thereat. The resolution, moreover, calls for copies of all correspondence, reports, and information here received touching said conference. These papers, the Secretary says, are now in the copyist's hands, but, owing to the limited clerical force at the command of the department, the voluminousness of the papers, (most of which have to be translated,) and to the fact that the conference is still in session, some time must necessarily elapse before the full documentary history of the transaction can be laid before Congress. The importance of the subject, however, and the general interest taken in it, have prompted the Secretary to submit a preliminary report covering the ground of the resolution, leaving the transmission of the papers to follow.</p>
 
-<p>In this preliminary report the Secretary says: "The first step toward an international expression of the views of this Government with regard to the Congo basin was taken by the Senate, which, by a resolution of April 10, 1884, advised the President to recognize the flag of the International Association of the Congo as that of a friendly Government: and this was followed by the action of Congress in providing for the appointment of a commercial agent for the Congo basin. Both of these measures were carried out by the President. In so doing the Government of the United States recorded its share in the already general conviction that the prospective rich trade of the Congo Valley should be open to all nations on equal terms, while avoiding any prejudicement of conflicting territorial claims in that region. On the 11th of October last the German Minister at this capital called upon the undersigned and communicated to me by note the proposal of the German Government, in connection with that of France, and in the interest of all nations engaged in commerce with the Congo region, to arrange, in a spirit of mutual good understanding, the conditions which would tend to assure the development of that commerce and prevent conflicts and misunderstanding. The basis on which it was suggested that an accord might be attainable were as follows: (1) Liberty of trade in the basin of the Congo and in the delta thereof. (2) The application to the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName> and the <placeName key="riv.nig" n="mapped"><geogName type="river">Niger</geogName></placeName> of the principles adopted by they Congress of Vienna, to the end of establishing the freedom of navigation upon several international rivers, which principles were later applied to the Danube. (3) The definition of the formalities to be observed in order that any new occupations of territory upon the African coasts should be deemed to be effective. To the end of considering these propositions it was proposed to hold a conference at Berlin, and inquiry was made of this Government whether it was disposed to take part in such a conference. In communicating this invitation the German Minister said it was expected that the powers taking part would severally reserve the fullest liberty of action with respect to the results which might be reached by the conference.</p>
+<p>In this preliminary report the Secretary says: "The first step toward an international expression of the views of this Government with regard to the Congo basin was taken by the Senate, which, by a resolution of April 10, 1884, advised the President to recognize the flag of the International Association of the Congo as that of a friendly Government: and this was followed by the action of Congress in providing for the appointment of a commercial agent for the Congo basin. Both of these measures were carried out by the President. In so doing the Government of the United States recorded its share in the already general conviction that the prospective rich trade of the Congo Valley should be open to all nations on equal terms, while avoiding any prejudicement of conflicting territorial claims in that region. On the 11th of October last the German Minister at this capital called upon the undersigned and communicated to me by note the proposal of the German Government, in connection with that of France, and in the interest of all nations engaged in commerce with the Congo region, to arrange, in a spirit of mutual good understanding, the conditions which would tend to assure the development of that commerce and prevent conflicts and misunderstanding. The basis on which it was suggested that an accord might be attainable were as follows: (1) Liberty of trade in the basin of the Congo and in the delta thereof. (2) The application to the Congo and the Niger of the principles adopted by they Congress of Vienna, to the end of establishing the freedom of navigation upon several international rivers, which principles were later applied to the Danube. (3) The definition of the formalities to be observed in order that any new occupations of territory upon the African coasts should be deemed to be effective. To the end of considering these propositions it was proposed to hold a conference at Berlin, and inquiry was made of this Government whether it was disposed to take part in such a conference. In communicating this invitation the German Minister said it was expected that the powers taking part would severally reserve the fullest liberty of action with respect to the results which might be reached by the conference.</p>
 
 <p>"Upon receiving this invitation the undersigned instructed the United States Minister at Berlin to report as to the advisability of this Government being represented at the conference, and Mr. Kasson was asked if he possessed any intimation of the nature of the measures to be proposed, and, if so, whether they would comport with the policy of non-interference adopted by this Government. Mr. Kasson's reply was to the effect that the first of the German propositions had already been enunciated the previous Winter by the United States; that the second, carefully analyzed, seemed safe in principle and applicable to at least two African rivers; that the third was restrictive and conservative of the rights of the native tribes against foreign encroachment; that the object of the conference was simply discussion with a view to reaching an accord on all points where agreement might be found, each Government reserving the right to adopt or reject conclusions; and that these points being understood, participation appeared to be advisable and consistent with our precedents and declared policy. On the 17th of October, the invitation of the German and French Government was accepted, with due reserve, as expressed in the following extract from the note of the Secretary of State to the German Minister:</p>
 
@@ -141,15 +150,15 @@
 
 <p>"The principles enunciated by the congress of Vienna served as the basis of this discussion. As first presented the proposition, as Mr. Kasson reports under date of Dec. 8, involved the admission that the principles of the congresses of Vienna and of Paris in respect to the free navigation of international rivers 'had passed into the domain of public law' by reason of their application to a number of rivers in Europe and America. To this I objected, as we had never yet conceded the right of any European congress to regulate, directly or indirectly, the rights applicable to American jurisdiction. My scruples were respected, and the redaction changed by the commission."</p>
 
-<p>"The latest dispatches received from Kasson," Secretary Frelinghuysen says, "contain the proceedings to Dec. 15, on which day the conference adjourned until Jan. 5. Up to that time the Department of Sate has seen no reason to feel otherwise than satisfied with the discretion, prudence, and ability with which Mr. Kasson has carried out the instructions given to him. Besides limiting the position of the United States to one of the commercial  interests, associated from questions of territorial control. he has been attentive that no act on our part shall deviate from the consistent national policy. He has been watchful that no expression should be found of record in the agreements of the conference whig might illy that its results are to be binding upon or to be respected by any power which may not formally accept them. Even where well established principles of international law apply, such as those in regard to riparian privileges and the right of an inland State to freely reach the ocean by any navigable waterway passing through its territory, recognition thereof is confined to the signatory powers only."</p>
+<p>"The latest dispatches received from Kasson," Secretary Frelinghuysen says, "contain the proceedings to Dec. 15, on which day the conference adjourned until Jan. 5. Up to that time the Department of Sate has seen no reason to feel otherwise than satisfied with the discretion, prudence, and ability with which Mr. Kasson has carried out the instructions given to him. Besides limiting the position of the United States to one of the commercial  interests, associated from questions of territorial control. he has been attentive that no act on our part shall deviate from the consistent national policy. He has been watchful that no expression should be found of record in the agreements of the conference which might imply that its results are to be binding upon or to be respected by any power which may not formally accept them. Even where well established principles of international law apply, such as those in regard to riparian privileges and the right of an inland State to freely reach the ocean by any navigable waterway passing through its territory, recognition thereof is confined to the signatory powers only."</p>
 
-<p>Treating the third point of the original German proposals, namely, "the definition of the formalities to be observe in order that any new occupations of territory upon the African coasts should be deemed to be effective," which remains for discussion by the conference, the report says: "Following its own precedent in the acquisition of territory for the Liberian settlement, by American citizens, from the native African tribes by legitimate deeds of cession this Government hopes to see an agreement reached by the conference which shall fix the formalities necessary to show that foreign occupation is established with the consent of the natives, and to remove questions of title from dispute. It has been said that the principles which the conference is discussing with respect to Africa are at variance with those whig the noted States have ever maintained in respect to the American continent. The cases are diametrically converse. The venerated doctrine put forth by Monroe was simply that the tie had passed for obtaining fresh footholds on the American continent since the whole of it was subject to recognized sovereignties, whose rights of possession must be maintained and respected. In 1829 not a foot of land remained subject to alienation at will by the aboriginal tribes of America. In 1884 the whole of the heart of Africa remained to be opened up to the occupancy and control of civilization.</p>
+<p>Treating the third point of the original German proposals, namely, "the definition of the formalities to be observe in order that any new occupations of territory upon the African coasts should be deemed to be effective," which remains for discussion by the conference, the report says: "Following its own precedent in the acquisition of territory for the Liberian settlement, by American citizens, from the native African tribes by legitimate deeds of cession this Government hopes to see an agreement reached by the conference which shall fix the formalities necessary to show that foreign occupation is established with the consent of the natives, and to remove questions of title from dispute. It has been said that the principles which the conference is discussing with respect to Africa are at variance with those which the noted States have ever maintained in respect to the American continent. The cases are diametrically converse. The venerated doctrine put forth by Monroe was simply that the tie had passed for obtaining fresh footholds on the American continent since the whole of it was subject to recognized sovereignties, whose rights of possession must be maintained and respected. In 1829 not a foot of land remained subject to alienation at will by the aboriginal tribes of America. In 1884 the whole of the heart of Africa remained to be opened up to the occupancy and control of civilization.</p>
 
 <p>"From all that precedes, it will be seen that this Government, in taking part in the Congo Conference of Berlin, has not departed from traditional policy; and the contrary, it has followed good precedent. * * * That its rights have been scrupulously reserved and guarded at every state, and that whatever conclusions the Conference may reach, will record the voluntary and unanimous opinion of its members, which the respective Governments are at liberty to adopt and put into practice by a formal international compact among themselves, if they shall deem it to their interest to do so, or to reject if they prefer." </p>
 
 <p>Since the foregoing was written the Secretary has received a dispatch from Mr. Kasson, dated Jan. 7, in which he adverts to telegrams published in the news columns of the German papers, which appear to show a misapprehension of the motives and purposes of the conference and of the nature of the participation of this Government, and thereupon review the position of the United States as understood by himself and the conference. Many of Mr. Kasson's statements are anticipated by the preceding portions of the report, but some extracts from this last dispatch are subjoined. After reviewing the action of the conference thus far Mr. Kasson says:</p>
 
-<p>"Knowing with absolute certainty that the United States would not embark in the eager struggle among European powers for African colonial possessions, I appreciated with equal assurance the importance to the commerce of my country of obtaining the like concessions from present and future possessory powers for the largest possible extent of Central Africa which might be subjected to these beneficent and advantageous provisions. I presented, with such force as I could command to the conference, the reasons for this extension of the sphere of free commerce. With a reservation of the rights of other Governments not represented in our declarations, the conference agreed to this enlargement and embraced within the range of their pledges all the territory east of the <placeName key="bas.con" n="mapped"><geogName type="basin">Congo basin</geogName></placeName>, from the <placeName key="riv.zam" n="mapped"><geogName type="river">Zambesi River</geogName></placeName> on the south to the fifth degree of latitude north, and as far as the <placeName key="ocn.ind" n="mapped"><geogName type="ocean">Indian Ocean</geogName></placeName> on the east. Non ever doubted the policy of this action except those who desired to retain the liberty of establishing closed colonies in that region. It was finally made a part of the commercial declaration by unanimous consent. No clause of any declaration contemplates or suggests an 'alliance.' No clause creates a guarantee by any Government of the action of any other Government. There is no joint undertaking for future enforcement. Perfect liberty of action is reserved to each Government, except in what it accepts as limiting that action. All these limitations are in the interest of the non-colonial powers. An international commission is formed to see that the general rights and interests are maintained where the local Government does not exist to apply them. But it is a right reserved to, not a duty imposed on, each Government, to be represented in this commission. Finally, not one of the declarations agreed upon by the conference is binding on the United States until the Government of Washington shall formally accept it. My action in the conference has not merely been in accord with this purpose of preserving the perfect independence of the United States from all joint engagements. It was upon my initiative that every phrase in any proposition which implied a joint guarantee or a joint undertaking was stricken out. Wherever a joint expression was used it was converted into a single expression, on order to avoid all implication of joint action or joint responsibility. Even where a preamble implied the right of this or any former conference or congress to establish a principle of international obligation, binding other powers than those accepting the same, it was modified on my motion to indicate that limit to its obligation. So uniform in these respects was my action that I found occasion to meet inquiries for my reasons by the explicit statement that the policy of my Government did not admit of any joint liabilities or engagements, nor could the United States admit that any combination of powers could by their action bind others not agreeing to it. In every case the conference yielded to this view."</p>
+<p>"Knowing with absolute certainty that the United States would not embark in the eager struggle among European powers for African colonial possessions, I appreciated with equal assurance the importance to the commerce of my country of obtaining the like concessions from present and future possessory powers for the largest possible extent of Central Africa which might be subjected to these beneficent and advantageous provisions. I presented, with such force as I could command to the conference, the reasons for this extension of the sphere of free commerce. With a reservation of the rights of other Governments not represented in our declarations, the conference agreed to this enlargement and embraced within the range of their pledges all the territory east of the Congo basin, from the Zambesi River on the south to the fifth degree of latitude north, and as far as the Indian Ocean on the east. Non ever doubted the policy of this action except those who desired to retain the liberty of establishing closed colonies in that region. It was finally made a part of the commercial declaration by unanimous consent. No clause of any declaration contemplates or suggests an 'alliance.' No clause creates a guarantee by any Government of the action of any other Government. There is no joint undertaking for future enforcement. Perfect liberty of action is reserved to each Government, except in what it accepts as limiting that action. All these limitations are in the interest of the non-colonial powers. An international commission is formed to see that the general rights and interests are maintained where the local Government does not exist to apply them. But it is a right reserved to, not a duty imposed on, each Government, to be represented in this commission. Finally, not one of the declarations agreed upon by the conference is binding on the United States until the Government of Washington shall formally accept it. My action in the conference has not merely been in accord with this purpose of preserving the perfect independence of the United States from all joint engagements. It was upon my initiative that every phrase in any proposition which implied a joint guarantee or a joint undertaking was stricken out. Wherever a joint expression was used it was converted into a single expression, on order to avoid all implication of joint action or joint responsibility. Even where a preamble implied the right of this or any former conference or congress to establish a principle of international obligation, binding other powers than those accepting the same, it was modified on my motion to indicate that limit to its obligation. So uniform in these respects was my action that I found occasion to meet inquiries for my reasons by the explicit statement that the policy of my Government did not admit of any joint liabilities or engagements, nor could the United States admit that any combination of powers could by their action bind others not agreeing to it. In every case the conference yielded to this view."</p>
 
 </div2>
 
