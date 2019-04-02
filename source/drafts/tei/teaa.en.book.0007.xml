@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.006.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0007">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Congo Situation Today</title>
+<title>The Congo Situation Today (1908)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
  
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,12 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.006.01</idno>
+<idno type="project">teaa.en.book.0007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -65,19 +70,34 @@
 <term>Pamphlet</term>
 </keywords>
 
-
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Camman, H. S.</term>
+<term>Carr, John</term>
+<term>Cattier, F. (Félicien), 1869-</term>
+<term>de Trooz, Jules</term>
+<term>Janson</term>
+<term>Leopold II, King of the Belgians, 1835-1909</term>
+<term>Morel, E.D. (Edmund Dene), 1873-1924</term>
+<term>Morgan, T. Hope</term>
+<term>Root, Elihu, 1845-1937</term>
+<term>Schollaert, Frans</term>
+<term>Smith, Kenred, 1866-1949</term>
+<term>Starr, Frederick 1858-1933</term>
+<term>Twain, Mark, 1835-1910</term>
 </keywords>
  
-<keywords scheme="original" n="labels">
-<term/>
-</keywords> 
- 
 <keywords scheme="original" n="places">
+<term>Belgium</term>
+<term>Berlin (Germany)</term>
+<term>Bololo Mission (Congo)</term>
+<term>Boston (Mass.)</term>
+<term>Brussels (Belgium)</term>
 <term>Congo Free State</term>
+<term>Europe</term>
+<term>Great Britain</term>
 <term>Leopoldville (Congo)</term>
 <term>Stanley Pool</term>
+<term>United States</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -87,17 +107,15 @@
 <term/>
 </keywords>
 <keywords scheme="original" n="religion">
-<term/>
+<term>Baptist</term>
+<term>Protestant</term>
 </keywords>
- 
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.006.02">Analysis</ref>
-</classCode>
  
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-01" who="kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-08" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
@@ -108,7 +126,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <head type="main">The Congo Situation Today</head>
 
@@ -142,12 +160,11 @@
 
 <p>Resolution.</p>
 
-<p>"We, as individual missionaries of the various Protestant Missionary Societies of several nationalities, working in Congoland, now assembled in Conference at <placeName key="con.leo" n="mapped"><settlement type="city">Leopoldville</settlement></placeName>, <placeName key="lak.sta" n="mapped"><geogName type="lake">Stanley Pool</geogName></placeName>, Sept. 19th, 1907, while giving credit to the Authorities for some slight improvement in the condition of the people, in a few favored parts of the Congo, unanimously express our deep regret that up to the present no adequate measures have been enforced to relieve the situation as a whole, the condition of the natives of the Congo Independent State being still unutterably deplorable notwithstanding boasted reforms.</p>
+<p>"We, as individual missionaries of the various Protestant Missionary Societies of several nationalities, working in Congoland, now assembled in Conference at Leopoldville, Stanley Pool, Sept. 19th, 1907, while giving credit to the Authorities for some slight improvement in the condition of the people, in a few favored parts of the Congo, unanimously express our deep regret that up to the present no adequate measures have been enforced to relieve the situation as a whole, the condition of the natives of the Congo Independent State being still unutterably deplorable notwithstanding boasted reforms.</p>
 
 <p>"We are profoundly thankful for all the efforts that have been put forth in Europe and America for the amelioration of the unhappy state of these oppressed and despairing peoples.</p>
 
-<p>"We would earnestly urge all lovers of liberty and humanity to co-operate and use every legitimate means to bring about an improved condition of affairs. We trust that soon there may be a complete deliverance from a system
-which robs the native of the elementary rights of humanity, exposes him to unspeakable cruelties and condemns him to almost ceaseless toil, for the enrichment of others, amounting to practical slavery.</p>
+<p>"We would earnestly urge all lovers of liberty and humanity to co-operate and use every legitimate means to bring about an improved condition of affairs. We trust that soon there may be a complete deliverance from a system which robs the native of the elementary rights of humanity, exposes him to unspeakable cruelties and condemns him to almost ceaseless toil, for the enrichment of others, amounting to practical slavery.</p>
 
 <p>"We therefore humbly pray that Almighty God will bless all efforts made on behalf of the Congo millions.</p>
 

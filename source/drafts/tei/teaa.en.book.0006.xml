@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.005.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0006">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A Report Upon the Congo-State and Country to the President of the Republic of the United
-States of America</title>
+<title>George Washington Williams, A Report Upon the Congo-State and Country to the President of the Republic of the United
+States of America (1890)</title>
 <author n="Williams, George Washington, 1849-1891">George Washington Williams</author>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
@@ -15,15 +15,15 @@ States of America</title>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
- 
+
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -34,7 +34,12 @@ States of America</title>
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.005.01</idno>
+<idno type="project">teaa.en.book.0006</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -53,7 +58,6 @@ States of America</title>
  
 <langUsage>
 <language ident="en">English</language>
-<language ident="fr">French</language>
 </langUsage> 
  
 <textClass>
@@ -70,19 +74,18 @@ States of America</title>
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Leopold II, King of the Belgians, 1835-1909</term>
+<term>Williams, George Washington, 1849-1891</term>
 </keywords>
  
-<keywords scheme="original" n="labels">
-<term/>
-</keywords> 
- 
 <keywords scheme="original" n="places">
-<!-- these are to be mapped as districts, not points; not encoded for mapping at this time -->
+<term>Belgium</term>
 <term>Banana (Congo)</term>
 <term>Bangala (Congo)</term>
 <term>Boma (Congo)</term>
 <term>Bosoko (Congo)</term>
+<term>Congo Free State</term>
+<term>Itimberi River</term>
 <term>Kasai River</term>
 <term>Leopoldville (Congo)</term>
 <term>Lukunga (Congo)</term>
@@ -90,6 +93,7 @@ States of America</title>
 <term>Manyanga (Congo)</term>
 <term>Matadi (Congo)</term>
 <term>Stanley Falls</term>
+<term>Welle River</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -102,14 +106,11 @@ States of America</title>
 <term/>
 </keywords>
  
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.005.02">Analysis</ref>
-</classCode>
- 
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-01" who="kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-08" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
@@ -120,7 +121,7 @@ States of America</title>
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <head type="main">A Report Upon the Congo-State and Country to the President of the Republic of the United
 States of America</head>
