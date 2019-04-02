@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.007.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0008">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Latest Phase of the Congo Question</title>
+<title>The Latest Phase of the Congo Question (1906)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
  
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,12 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.007.01</idno>
+<idno type="project">teaa.en.book.0007</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -65,15 +70,22 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Burrows, Guy</term>
+<term>Hensey, Andrew F. (Andrew Fitch), 1880-1951</term>
+<term>Leopold II, King of the Belgians, 1835-1909</term>
+<term>Nassau, Robert Hamill, 1835-1921</term>
+<term>Sjöblom, E. V. (Edvard Vilhelm), 1862-1903</term>
+<term>Stannard, Edgar</term>
 </keywords>
  
-<keywords scheme="original" n="labels">
-<term/>
-</keywords> 
- 
 <keywords scheme="original" n="places">
+<term>Africa</term>
+<term>Boston (Mass.)</term>
+<term>Congo Free State</term>
 <term>Congo River</term>
+<term>England</term>
+<term>New York (N.Y.)</term>
+<term>United States</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -83,17 +95,16 @@
 <term/>
 </keywords>
 <keywords scheme="original" n="religion">
-<term/>
+<term>Baptist</term>
+<term>Catholic</term>
+<term>Protestant</term>
 </keywords>
- 
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.007.02">Analysis</ref>
-</classCode>
  
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-02" who="kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-08" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
@@ -104,7 +115,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <head type="main">The Latest Phase of the Congo Question</head>
 
@@ -129,7 +140,7 @@ other powers in Africa.</p>
 operation as soon as possible -- especially that the labor-tax should
 be more strictly supervised and equitably levied and that the use
 of "capitas" (armed native overseers) should be prohibited to
-concessionary companies. These were the two defects in' the
+concessionary companies. These were the two defects in the
 Congo Administration which had given rise to most of the criticisms
 against the Government.</p>
 
@@ -144,7 +155,7 @@ to natives; above all they regulate the labor-tax and abolish the
 use of capitas or armed native sentries.</p>
 
 <p>It is a large undertaking to put these reforms into operation
-throughout the whole territory of the <placeName key="riv.con" n="mapped"><geogName type="river">Congo</geogName></placeName>, which occupies an
+throughout the whole territory of the Congo, which occupies an
 area about one-third the size of the United States. Nevertheless
 the work has been pushed forward rapidly. Instructions in
 regard to disarming the native sentries were issued by the Vice
@@ -169,7 +180,7 @@ rather than discontented and rebellious.</p>
 the Government, and, in fact, to satisfy everybody except the
 professional reformers and the well-meaning but misguided members
 of religious and philanthropic societies who blindly follow
-these professional guides without examining the matter" for themselves.</p>
+these professional guides without examining the matter for themselves.</p>
 
 <p>The professional reformers who continue their campaign
 against the Congo are fighting a dead issue. The reforms they
@@ -207,7 +218,7 @@ published (December, 1906). He relates as though it were the
 newest piece of gossip an incident described by Mr. Sjoblom.
 That incident was first related by Mr. Sjoblom nine years ago,
 but it is now served up as something fresh and no date given to
-it. It may or' may not be a true story, but its resurrection suggests
+it. It may or may not be a true story, but its resurrection suggests
 that there is a scarcity of fresh "atrocities" in stock.</p>
 
 <p>In the same article the Secretary of the Congo Reform Association
@@ -224,7 +235,7 @@ example may be cited the story circulated extensively this summer
 on the authority of the Rev. Dr. R. H. Nassau. In June,
 1906, a New York paper published the story of an alleged
 "atrocity." The article appeared over the signature of the Rev.
-Dr. Nassan who seemed to relate the incident as something within
+Dr. Nassau who seemed to relate the incident as something within
 his personal knowledge. The paper, furthermore, stated that
 Dr. Nassau had lived 45 years in the Congo Free State. The
 Consul-General of the Congo State investigated the case, and
@@ -284,9 +295,9 @@ praise him for the good work he has accomplished.</p>
 
 <p>Among other documents will be found a letter from the principals
 of all the Catholic Orders in the Congo, expressing the
-.sentiments of their 384 missionaries in repelling the attacks which
+sentiments of their 384 missionaries in repelling the attacks which
 have been directed against the Government.</p>
-
+<!-- start here -->
 <p>There will also be found at the end of this pamphlet expressions
 of opinion from the British Baptist Missionary . Society; Dr.
 Samuel P. Verner, a Presbyterian; Rev. W. Millman, of the Baptist
