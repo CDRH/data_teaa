@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.010.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0009">
 
 <teiHeader>
 <fileDesc>
@@ -17,12 +17,12 @@
  
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -33,7 +33,12 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.010.01</idno>
+<idno type="project">teaa.en.book.0009</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -43,7 +48,7 @@
 <date when="1905">1905</date>
 <publisher>Henry I. Kowalsky</publisher>
 <pubPlace>New York</pubPlace>
-<biblScope type="part">select sections of the document</biblScope>
+<biblScope unit="part">select sections of the document</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -68,35 +73,55 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
-</keywords>
- 
-<keywords scheme="original" n="labels">
-<term/>
+<term>Barbour, Thomas S. (Thomas Seymour), 1853-1915</term>
+<term>Dufourne</term>
+<term>Gibbons, James, 1834-1921</term>
+<term>Kowalsky, Henry I.</term>
+<term>Leopold II, King of the Belgians, 1835-1909</term>
+<term>Moncheur, Ludovic, Baron, 1857-1940</term>
+<term>Morel, E.D. (Edmund Dene), 1873-1924</term>
+<term>Roosevelt, Theodore, 1858-1919</term>
+<term>Sheldon, Mary French, 1847-1936</term>
 </keywords> 
  
 <keywords scheme="original" n="places">
+<term>Africa</term>
+<term>Alaska</term>
+<term>Belgium</term>
+<term>Berlin (Germany)</term>
+<term>Boston (Mass.)</term>
+<term>Brussels (Belgium)</term>
+<term>China</term>
+<term>Congo Basin</term>
 <term>Congo Free State</term>
+<term>England</term>
+<term>Europe</term>
+<term>Liverpool (England)</term>
+<term>New York (N.Y.)</term>
+<term>Philippines</term>
+<term>United States</term>
+<term>Washington (D.C.)</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Anglo Saxon</term>
+<term>Negro</term>
 </keywords>
+
 <keywords scheme="original" n="language">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="religion">
-<term/>
+<term>Baptist</term>
+<term>Christianity</term>
 </keywords>
- 
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.010.02">Analysis</ref>
-</classCode>
  
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-03" who="kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-22" who="#kln">Initial transcription and encoding.</change>
 <change when="2014-08-20" who="#kln">Initial transcription and encoding.</change>
@@ -108,7 +133,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <head type="main">Brief of Henry I. Kowalsky, of the New York Bar, Attorney and Counsellor to Leopold II., King of the Belgians and Sovereign of the Independent State of the Congo, in Matters Touching his Rights and Possessions Abroad, in Reply to Memorial Presented to the President of the United States of America Concerning Affairs in the Congo State by the Congo Reform Association, Supported by the British and Foreign Anti-Slavery Society and the Aborigines' Protection Society.</head>
  
@@ -171,9 +196,9 @@ the Journal of Commerce of January 4th, 1905, announced to the
 world that the charges made against King Leopold and the Congo
 government were absolutely without foundation. To use her
 own words, "The evidence is absolutely conclusive that the labors
-of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName> have added to the material prosperity, the
+of the Congo Free State have added to the material prosperity, the
 happiness, and the development of the natives, whilst the opening
-up of the country and the introduction of order and s stem in place
+up of the country and the introduction of order and system in place
 of chaos ill forever redound to the credit of King Leopold and
 those with whom he is associated."</p>
 
@@ -197,7 +222,7 @@ States and the general policy of the government with reference to
 its property, all point strikingly to the fact that the government
 of the Congo in imposing conditions upon the right to use its lands
 and exploit its natural resources was acting in accordance with
-principles which are at the very base of civilization, ana doing
+principles which are at the very base of civilization, and doing
 what was absolutely necessary to preserve for posterity the natural
 resources of the country.</p>
 
@@ -227,12 +252,12 @@ by the Congo State and its ruler, King Leopold.</p>
 
 <p>We recall that here, in our own land, this beloved nation of
 ours was almost severed in twain -- that million of money were
-expended and will still be expended-hundreds of thou ands of
+expended and will still be expended-hundreds of thousands of
 precious lives have gone to their deaths, our whole nation has
 been bent in sorrow, and we can still hear the sobs of the aching
 hearts of those who have lingered behind. All of which make up
 in part the sum that it cost to free four million civilized, Christianized
-negro slaves in America. ,Though freed forty years ago,
+negro slaves in America. Though freed forty years ago,
 the problem of their future is still a question that agitates this
 country and exercises the mentality of our very best statesmen,
 who are in deep meditation for a solution that will fully carry out
@@ -326,14 +351,14 @@ true motives 6f this disparaging campaign, to show them the inanity
 of the charges and to lay the truth before them, namely that
 for the last twenty-five years the Congo State has been working
 with a success that accounts for all this hatred and jealousy,
-toward introducing into territories, formerly abandoned to barbariSI!
-1, civilization and progress and toward improving the material
+toward introducing into territories, formerly abandoned to barbarism,
+civilization and progress and toward improving the material
 and moral conditions of existence of the natives.</p>
 
 <p>Under the stress of the indignation aroused in Belgium by the
 English calumnies, an extensive association has been formed in
 this country under the title of Federation pour la defense des
-interets belges a l' estranger ( Federation for defending Belgian
+interets belges a l'estranger (Federation for defending Belgian
 interests abroad) which consists of prominent men in the army,
 and in commercial and industrial circles.</p>
 
@@ -503,12 +528,12 @@ representative an abundance of carefully-prepared matter upon
 this subject, and to command him in any further desires which
 you may wish to express. A cursory outline, limited to only a
 few phases of the questions which the enemies of the Congo so
-confusedly mince In their wild condemnation of a State justly
-founded ahd intelligently and humanly governed, is not, of course~
-intended as a sufficient statement of our case. I t is merely intended
+confusedly mince in their wild condemnation of a State justly
+founded and intelligently and humanly governed, is not, of course
+intended as a sufficient statement of our case. It is merely intended
 to introduce your Excellency to the subject on which our
 representative and the evidence and literature he will offer to you
-may lead you to those ,vise and equitable conclusions which have
+may lead you to those wise and equitable conclusions which have
 always characterized the highest tribunals of the American
 people.</p>
 
@@ -585,7 +610,7 @@ Belgian law of Conscription, which is a restriction of the universal
 service in continental Europe. When heretofore the government
 enlisted a part of its army in a neighboring colony, it was requested
 to desist, the promises of England to permit such recruiting
-notwithstanding. N ow the Congo Army is characterized as
+notwithstanding. Now the Congo Army is characterized as
 barbarian! We are assured that the Congo Government would
 have no objection to the advantage of recruiting its army in
 China, in a manner following that of the Transvaal.</p>
