@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.014.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0012">
 
 <teiHeader>
 <fileDesc>
@@ -16,12 +16,12 @@
  
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,12 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.014.01</idno>
+<idno type="project">teaa.en.book.0012</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -42,7 +47,7 @@
 <date when="1904">1904</date>
 <publisher>Judd &amp; Detweiler, Printers</publisher>
 <pubPlace>Washington, D.C.</pubPlace>
-<biblScope type="part">select sections of the document</biblScope>
+<biblScope unit="part">select sections of the document</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -67,15 +72,20 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Leopold II, King of the Belgians, 1835-1909</term>
+<term>Stanley, Henry M. (Henry Morton), 1841-1904</term>
 </keywords>
  
-<keywords scheme="original" n="labels">
-<term/>
-</keywords> 
- 
 <keywords scheme="original" n="places">
+<term>Africa</term>
+<term>Belgium</term>
 <term>Congo Free State</term>
+<term>England</term>
+<term>Germany</term>
+<term>Great Britain</term>
+<term>Italy</term>
+<term>Portugal</term>
+<term>West Africa</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -88,14 +98,11 @@
 <term/>
 </keywords>
  
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.014.02">Analysis</ref>
-</classCode>
- 
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-04" who="kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-26" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
@@ -106,7 +113,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <head type="main">Conditions in the Congo State</head>
 
@@ -116,7 +123,7 @@
 
 <head type="sub">Important Dates in the Development of the Congo State.</head>
 
-<p>The founding of the <placeName key="con" n="mapped"><country type="colony">Congo State</country></placeName> resulted from the opening
+<p>The founding of the Congo State resulted from the opening
 of Central Africa through the explorations of Mr. Henry
 M. Stanley. An association was quickly formed, under the
 leadership of King Leopold of Belgium, for further exploration,

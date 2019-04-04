@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.025.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0037.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Evening Bulletin, "Called at the White House"</title>
+<title>Evening Bulletin, "Called at the White House" (1904)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
  
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,11 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.025.01</idno>
+<idno type="project">teaa.en.periodical.0037</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -40,7 +44,7 @@
 <title level="a" type="main">Called at the White House</title>
 <title level="j">Evening Bulletin</title>
 <pubPlace>Maysville, Kentucky</pubPlace>
-<biblScope type="page">1</biblScope>
+<biblScope unit="page">1</biblScope>
 <date when="1904-10-18">October 18, 1904</date>
 </bibl>
 </sourceDesc>
@@ -66,15 +70,14 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term>Congo Free State</term>
-</keywords>
- 
-<keywords scheme="original" n="labels">
-<term/>
+<term>Kowalsky, Henry I.</term>
+<term>Leopold II, King of the Belgians, 1835-1909</term>
 </keywords> 
  
 <keywords scheme="original" n="places">
-<term/>
+<term>Belgium</term>
+<term>Congo Free State</term>
+<term>Great Britain</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -87,14 +90,11 @@
 <term/>
 </keywords>
  
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.025.02">Analysis</ref>
-</classCode>
- 
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-04" who="kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-09-05" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
@@ -105,7 +105,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="titles">
 
@@ -117,7 +117,7 @@
 
 <div2 type="article">
 
-<p>Washington, Oct. 18. -- At the request of the king of Belgium, Col. Henry L. Kowalsky, of the San Francisco bar, and a personal friend of King Leopold, called at the white house Monday by appointment and presented the reply of the federation for the benefit of Belgian interests abroad to attacks made on the government of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>. Col. Kowalsky presented to the president an autograph picture of King Leopold framed in silver. In the course of an extended audience with the president Col. Kowalsky said:</p>
+<p>Washington, Oct. 18. -- At the request of the king of Belgium, Col. Henry L. Kowalsky, of the San Francisco bar, and a personal friend of King Leopold, called at the white house Monday by appointment and presented the reply of the federation for the benefit of Belgian interests abroad to attacks made on the government of the Congo Free State. Col. Kowalsky presented to the president an autograph picture of King Leopold framed in silver. In the course of an extended audience with the president Col. Kowalsky said:</p>
 
 <p>"Interested Britishers are endeavoring, under the guise of benefactors of the Congo natives, to open the question of sovereignty over these regions by calling a conference of the powers at which, it is hoped by the Britishers, England may establish the contention that Belgium is impotent to maintain an effective government in the Congo."</p>
 
@@ -126,7 +126,6 @@
 </div1>
 
 </body>
-
 
 </text>
 

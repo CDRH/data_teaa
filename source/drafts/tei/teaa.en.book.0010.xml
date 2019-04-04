@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.011.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0010">
 
 <teiHeader>
 <fileDesc>
@@ -17,12 +17,12 @@
  
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -33,7 +33,12 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.011.01</idno>
+<idno type="project">teaa.en.book.0010</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -44,7 +49,7 @@
 <date when="1903">1903</date>
 <publisher>John Richardson &amp; Sons, Printers, 29 Dale Street</publisher>
 <pubPlace>Liverpool</pubPlace>
-<biblScope type="part">select sections of the document</biblScope>
+<biblScope unit="part">select sections of the document</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -69,38 +74,42 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bourne, H.R. Fox (Henry Richard Fox), 1837-1909</term>
+<term>Morel, E.D. (Edmund Dene), 1873-1924</term>
+<term>Leopold II, King of the Belgians, 1835-1909</term>
+<term>Heinemann, William Henry -1920</term>
 </keywords>
  
-<keywords scheme="original" n="labels">
-<term/>
-</keywords> 
- 
 <keywords scheme="original" n="places">
+<term>Africa</term>
+<term>Berlin (Germany)</term>
+<term>Brussels (Belgium)</term>
 <term>Congo Basin</term>
 <term>Congo Free State</term>
-<term>French Congo</term> <!-- not encoded for mapping at this time -->
-<!--<term>West Coast of Africa</term>-->
+<term>Europe</term>
+<term>French Congo</term>
+<term>Great Britain</term>
+<term>United States</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Aborigines</term>
+<term>Pygmies</term>
 </keywords>
+
 <keywords scheme="original" n="language">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
- 
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.011.02">Analysis</ref>
-</classCode>
  
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-04" who="kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-22" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
@@ -111,7 +120,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <head type="main">The Congo Slave State.</head>
 
@@ -246,7 +255,7 @@ them -- and they will win.</p>
 <p>A few weeks ago I suggested to a friend who, although entirely
 unconnected with Congo affairs, shares nevertheless the feelings
 of indignation entertained by all impartial observers at the monstrous
-abuses of which the <placeName key="bas.con" n="mapped"><geogName type="basin">Congo Basin</geogName></placeName> has become the scene, the publication
+abuses of which the Congo Basin has become the scene, the publication
 of a pamphlet dealing with the subject, which I volunteered to write
 and compile, if he would defray the cost of printing and distribution.
 This he generously agreed to do. I can only hope that what is written
@@ -262,7 +271,7 @@ the end.</p>
 effect an appeal to the people of the civilized world, whose
 representatives signed the Berlin Act of 1885, and the Brussels
 Act of 1890, to unite in putting pressure upon their respective
-Governments to take the territories known as the <placeName key="con" n="mapped"><country type="colony">Congo State</country></placeName>
+Governments to take the territories known as the Congo State
 out of the hands of King Leopold II, now dictator over a million
 square miles in Africa, inhabited by twenty million negroes; and
 by such measures as may be decided upon at a new Conference, to
@@ -353,7 +362,7 @@ natives inhabiting the Congo Territories.</p>
 <div1 type="notes">
 <note xml:id="n01">1. P. S. King &amp; Son, Orchard House, Westminster (Price, 10/6 net.)</note>
 <note xml:id="n02">2. <hi rend="italics">Affairs of West Africa</hi> (W. Heinemann, Bedford Street, London), price 12s. net. </note>
-<note xml:id="n03">3. <hi rend="italics">The British Case in Frence Congo</hi> (W. Heinemann, Bedford Street, London) prince 6s. net.</note>
+<note xml:id="n03">3. <hi rend="italics">The British Case in French Congo</hi> (W. Heinemann, Bedford Street, London) prince 6s. net.</note>
 
 
 

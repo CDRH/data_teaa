@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.019.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0034.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Chicago Daily Tribune, "U. S. Not to Mix in Congo Muddle"</title>
+<title>Chicago Daily Tribune, "U. S. Not to Mix in Congo Muddle" (1907)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
  
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,11 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.019.01</idno>
+<idno type="project">teaa.en.periodical.0034</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -40,7 +44,7 @@
 <title level="a" type="main">U. S. Not to Mix in Congo Muddle</title>
 <title level="j">Chicago Daily Tribune</title>
 <pubPlace>Chicago</pubPlace>
-<biblScope type="page">1</biblScope>
+<biblScope unit="page">1</biblScope>
 <date when="1907-02-07">February 7, 1907</date>
 </bibl>
 </sourceDesc>
@@ -66,35 +70,49 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
-</keywords>
- 
-<keywords scheme="original" n="labels">
-<term/>
+<term>Bacon, Augustus Octavius, 1839-1914</term>
+<term>Leopold II, King of the Belgians, 1835-1909</term>
+<term>Lodge, Henry Cabot, 1850-1924</term>
+<term>Raymond</term>
+<term>Roosevelt, Theodore, 1858-1919</term>
+<term>Starr, Frederick 1858-1933</term>
+<term>Taft, William H. (William Howard), 1857-1930</term>
 </keywords> 
  
 <keywords scheme="original" n="places">
+<term>Africa</term>
+<term>Algeciras (Spain)</term>
+<term>Belgium</term>
 <term>Congo Free State</term>
+<term>Cuba</term>
+<term>Europe</term>
+<term>France</term>
+<term>Germany</term>
+<term>Great Britain</term>
+<term>Manila (Philippines)</term>
+<term>Morocco</term>
+<term>Philippines</term>
+<term>United States</term>
+<term>Washington (D.C.)</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Filipinos</term>
 </keywords>
+
 <keywords scheme="original" n="language">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
- 
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.019.02">Analysis</ref>
-</classCode>
  
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-04" who="kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-09-04" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
@@ -105,7 +123,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="titles">
 
@@ -123,7 +141,7 @@
 
 <p>By Raymond</p>
 
-<p>Washington, D. C. Feb. 6. -- [Special.] -- Just at the present time there is not much prospect of intervention by the United States in the affairs of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>. Some weeks ago there was a strong disposition manifested by the administration to do something for the poor people in the part of Africa who seemed to be victims of a horrible oppression. Many members of the senate also were in favor of intervention a couple of months ago because they had been flooded with petitions indicating a widespread public sentiment in this country that the United States should do soothing on humanitarian grounds for the poor black people of the Congo.</p>
+<p>Washington, D. C. Feb. 6. -- [Special.] -- Just at the present time there is not much prospect of intervention by the United States in the affairs of the Congo Free State. Some weeks ago there was a strong disposition manifested by the administration to do something for the poor people in the part of Africa who seemed to be victims of a horrible oppression. Many members of the senate also were in favor of intervention a couple of months ago because they had been flooded with petitions indicating a widespread public sentiment in this country that the United States should do soothing on humanitarian grounds for the poor black people of the Congo.</p>
 
 <p>If action could have been secured in December it is likely the senate would have passed the Lodge resolution and the president would have taken some diplomatic steps to secure a concert of action by the European nations in some way to bring relief to the Congo natives. Since then, however, danger of European complications and the possible futility of any help for the natives have become more and more apparent until at the present time some of the most prominent of the republican senators seem to have lost interest in the Congo question, and I learned today that disinclination to interfere also is manifested in the vicinity of the White house and the state department.</p>
 
