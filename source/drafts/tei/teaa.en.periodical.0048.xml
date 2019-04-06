@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.049.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0048.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>New York Times, "Glad of our Support"</title>
+<title>New York Times, "Glad of our Support" (1908)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
  
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,11 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.049.01</idno>
+<idno type="project">teaa.en.periodical.0048</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -40,7 +44,7 @@
 <title level="a" type="main">Glad of our Support</title>
 <title level="j">New York Times</title>
 <pubPlace>New York</pubPlace>
-<biblScope type="page">4</biblScope>
+<biblScope unit="page">4</biblScope>
 <date when="1908-02-25">February 25, 1908</date>
 </bibl>
 </sourceDesc>
@@ -66,35 +70,34 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Fitzmaurice, Edmond George Petty-Fitzmaurice, Baron, 1846-1935</term>
 </keywords>
  
-<keywords scheme="original" n="labels">
-<term/>
-</keywords> 
- 
 <keywords scheme="original" n="places">
+<term>Belgium</term>
+<term>Brussels (Belgium)</term>
 <term>Congo Free State</term>
+<term>Great Britain</term>
+<term>United States</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="language">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
- 
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.049.02">Analysis</ref>
-</classCode>
  
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-05" who="#kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-10-02" who="#kln">Initial encoding.</change>
 </revisionDesc>
@@ -105,7 +108,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="titles">
 
@@ -117,7 +120,7 @@
 
 <div2 type="article">
 
-<p>London, Feb. 24. -- Lord Fitzmaurice, representing the foreign office, addressed the House of Lords to-day on the Congo situation. He regretted, he said, that his information from Brussels showed that the attitude of the <placeName key="con" n="mapped"><country type="colony">Congo State</country></placeName> toward the demand that it carry out its treaty obligations was most unsatisfactory. He pleaded, however, that the Belgian Government should have a little more time allowed it in which to accomplish the reforms in the Congo region for which the civilized world was calling.</p>
+<p>London, Feb. 24. -- Lord Fitzmaurice, representing the foreign office, addressed the House of Lords to-day on the Congo situation. He regretted, he said, that his information from Brussels showed that the attitude of the Congo State toward the demand that it carry out its treaty obligations was most unsatisfactory. He pleaded, however, that the Belgian Government should have a little more time allowed it in which to accomplish the reforms in the Congo region for which the civilized world was calling.</p>
 
 <p>Lord Fitzmaurice expressed great gratification with the attitude of the United States touching the Congo questions. "I regard the co-operation of the United States of the highest importance," he said, "not merely because of the influence and power of the United States, great as these are, but because the United States could not under any conceivable circumstances be charged with what Great Britain unfortunately has been charged abroad, namely, purely selfish ambition."</p>
 

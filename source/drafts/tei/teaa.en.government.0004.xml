@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.053.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.government.0004.xml">
 
 <teiHeader>
 <fileDesc>
@@ -16,12 +16,12 @@
  
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,11 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.053.01</idno>
+<idno type="project">teaa.en.government.0004</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -43,7 +47,7 @@
 <date when="1906">1906</date>
 <pubPlace>Washington, D.C.</pubPlace>
 <publisher>U.S. Government Printing Office</publisher>
-<biblScope type="pages">88-105</biblScope>
+<biblScope unit="pages">88-105</biblScope>
 <note>Selected documents from report.</note>
 </bibl>
 </sourceDesc>
@@ -74,8 +78,10 @@
 <term>Cattier, Félicien</term>
 <term>Chevalier de Cuvelier</term>
 <term>Denby, Edwin, 1870-1929</term>
-<term>Léopold II, King of the Belgians, 1835-1909</term>
+<term>De Smet de Naeyer, Paul 1843-1913</term>
+<term>Leopold II, King of the Belgians, 1835-1909</term>
 <term>McLean, Archibald, 1850-1920</term>
+<term>N'Gulu</term>
 <term>Paul Joseph, Count de Smet de Naeyer</term>
 <term>Root, Elihu, 1845-1937</term>
 <term>Vandervelde, Émile, 1866-1938</term>
@@ -83,18 +89,27 @@
 <term>Wilson, Henry Lane, 1857-1932</term>
 </keywords>
  
-<keywords scheme="original" n="labels">
-<term/>
-</keywords> 
- 
 <keywords scheme="original" n="places">
-<term>Bolgeni (Congo)</term> <!-- not encoded for mapping; could not locate -->
+<term>Africa</term>
+<term>Belgium</term>
+<term>Berlin (Germany)</term>
+<term>Bolgeni (Congo)</term> 
+<term>British East Africa</term>
+<term>Brussels (Belgium)</term>
+<term>Cameroon</term>
+<term>Central Africa</term>
 <term>Congo Free State</term>
 <term>Coquilhatville (Congo)</term>
-<term>Domaine Privé</term> <!-- not encoded for mapping at this time -->
-<term>Maringa (Congo)</term> <!-- not encoded for mapping; could not locate -->
-<term>Mongola (Congo)</term> <!-- not encoded for mapping; could not locate -->
+<term>England</term>
+<term>France</term>
+<term>French Congo</term>
+<term>German East Africa</term>
+<term>Maringa (Congo)</term>
+<term>Mongola (Congo)</term> 
+<term>Mozambique</term>
+<term>Ostend (Belgium)</term>
 <term>Wangata (Congo)</term> 
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="organization">
@@ -105,21 +120,20 @@
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="language">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
- 
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.053.02">Analysis</ref>
-</classCode>
  
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-05" who="#kln">updated encoding</change>
 <change when="2014-11-19" who="#kln">finished encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-10-15" who="#kln">initial transcription and encoding</change>
@@ -129,11 +143,9 @@
 
 <text>
 
-<!-- In this document, mapping points are only encoded as placeName with n=mapped once where it first appears, even though it might reappear numerous times throughout this lengthy document - because right now, link is only to document, not location in document where mapping point appears. --> 
-
 <group>
 
-<text type="report" xml:id="llg.con.053.001.d001">
+<text type="report" xml:id="teaa.en.government.0004.d001">
 
 <body>
 
@@ -158,7 +170,7 @@ Robert Bacon.</p>
 
 <head type="sub">Department of State, Washington, February 20, 1906.</head>
 
-<p>Dear sir: I have your letter of the 15th regarding the widespread feeling among your constituents that our Government ought to do something to bring about an International Inquiry with a view to authoritative adjudication of the Issues to which the conditions supposed to exist in the <placeName key="con" n="mapped"><country type="colony">Kongo Free State</country></placeName> are related.</p>
+<p>Dear sir: I have your letter of the 15th regarding the widespread feeling among your constituents that our Government ought to do something to bring about an International Inquiry with a view to authoritative adjudication of the Issues to which the conditions supposed to exist in the Kongo Free State are related.</p>
 
 <p>Your inquiry expresses the difficulty in the way. It is not clear that the United States is in a position to bring about such an international inquiry and adjudication. We are parties to a general act for the suppression of the slave trade and the regulation of the firearms and liquor traffics in central Africa, but that act relegates and confines all power and functions to those ends to the several powers having possessions or spheres of influence in Africa. The United States has neither, and its participation in the general act was on the distinct understanding that we had no territorial or administrative interest in that quarter. Our only potential function is in relation to the search and capture of slave vessels within certain waters of the African coast, and no occasion has arisen to exercise that function.</p>
 
@@ -184,7 +196,7 @@ Elihu Root.</p>
 </text>
 
 
-<text type="report" xml:id="llg.con.053.001.d002">
+<text type="report" xml:id="teaa.en.government.0004.d002">
 
 <body>
 
@@ -217,7 +229,7 @@ The author starts out with a statement that the existing maladministration of th
 
 <q>The clearest and most Incontestable truth resulting from this study is that the State of the Kongo is not a colonizing State; that it is scarcely a State at all; it is in financial enterprise. The primary objects of those in control of its administration have been financial, viz:</q>
 
-<q>Increased revenue by taxation; rapid drainage of the natural richness of the country; the construction of such public works only as would Increase the productivity of the soil, such was the policy of the State. All beyond that has been simply subsidiary. The colony has been administered neither in the interests of its inhabitants, nor yet in the economical interests of Belgium. Procure tor the sovereign King a maximum of revenue, this has been the inspiration ot the Government's zeal.</q></p> 
+<q>Increased revenue by taxation; rapid drainage of the natural richness of the country; the construction of such public works only as would Increase the productivity of the soil, such was the policy of the State. All beyond that has been simply subsidiary. The colony has been administered neither in the interests of its inhabitants, nor yet in the economical interests of Belgium. Procure tor the sovereign King a maximum of revenue, this has been the inspiration of the Government's zeal.</q></p> 
 
 <p>Nor, according to the evidence offered by Mr. Cattier, does the Government appear to have been very scrupulous in its choice of the means of enlarging the Kongo revenue. He states that the stipulations of the Berlin conference guaranteeing free commerce to all nations have been nullified: 
 
@@ -227,19 +239,19 @@ The author starts out with a statement that the existing maladministration of th
  
 <q>Generally the most tender course of procedure consisted in the purchase of domestic slaves from the native chiefs, who were taken to the stations chained together with Iron collars.</q>
 
-<q> The following letter, published by Consul Casement in his report, is worthy of production In this connection:</q>
+<q>The following letter, published by Consul Casement in his report, is worthy of production In this connection:</q>
  
-<q>"The chief N'Gulu, of <placeName key="con.wan" n="mapped"><settlement type="city">Wangata</settlement></placeName>, is sent to Maringa to buy slaves for me. I beg the agents of the Abir (a commercial organization) to kindly report to me any wrongs he may commit while en route.</q>
+<q>"The chief N'Gulu, of Wangata, is sent to Maringa to buy slaves for me. I beg the agents of the Abir (a commercial organization) to kindly report to me any wrongs he may commit while en route.</q>
 
 <q>"(S.) Sarrazzyn.<lb/> 
 "The Commandant, 
-"<placeName key="con.wan" n="mapped"><settlement type="city">Coquilhatville</settlement></placeName>, May 1, 1896."</q></p>
+"Coquilhatville, May 1, 1896."</q></p>
 
 <p>It is admitted that since 1896 there has been an improvement in many ways, but the author states, and seems to prove, that taxation has steadily increased and is now exorbitant.</p>
 
-<p> According to the figures of author, the taxation of the native population of the Kongo during the six years passed has amounted to 55.3 per cent of all visible resources.</p>
+<p>According to the figures of author, the taxation of the native population of the Kongo during the six years passed has amounted to 55.3 per cent of all visible resources.</p>
 
-<p> The rate of taxation for adjacent African colonies is shown to be as follows:</p>
+<p>The rate of taxation for adjacent African colonies is shown to be as follows:</p>
  
 <p>British East African Protectorate, 1902-3, 1.6 per cent; 1903-4, 6 per cent.<lb/>
 German East African Colony, 15 per cent.<lb/> 
@@ -261,9 +273,9 @@ Continues Mr. Cattier--
 
 <p>The revenue of the domain of the crown from 1896 to 1905 makes an enormous total. Mr. Cattier makes two estimates of the sum total, obtaining, respectively, 80,738,000 francs and 85,270,000 francs. The revenue of the domain for that period may therefore be moderately estimated at 70,000,000 francs.</p>
 
-<p>The purposes for which this large accumulation of money: was designed was to some extent explained by the prime minister, Count de Smet de Naeyer, in the Belgian House of Representatives, July 8, 1903. He stated that the present object was the creation ∑and endowment of public institutions and works in Belgium, as well as in the Kongo, it being the ultimate purpose to extend the benefits and privileges now held exclusively by the King to Belgium, and eventually to incorporate the Kongo with Belgium.</p>
+<p>The purposes for which this large accumulation of money: was designed was to some extent explained by the prime minister, Count de Smet de Naeyer, in the Belgian House of Representatives, July 8, 1903. He stated that the present object was the creation and endowment of public institutions and works in Belgium, as well as in the Kongo, it being the ultimate purpose to extend the benefits and privileges now held exclusively by the King to Belgium, and eventually to incorporate the Kongo with Belgium.</p>
 
-<p> Mr. Cattier also presents evidence that the domain of the crown has purchased in the districts of Brussels and Ostend property valued at about 25,000,000 francs.</p>
+<p>Mr. Cattier also presents evidence that the domain of the crown has purchased in the districts of Brussels and Ostend property valued at about 25,000,000 francs.</p>
 
 <p>Commenting on these expenditures, Mr. Cattier says:
 
@@ -331,7 +343,7 @@ Henry Lane Wilson.</p>
 <gap reason="sampling" extent="one letter"/>
 
 
-<text type="report" xml:id="llg.con.053.001.d003">
+<text type="report" xml:id="teaa.en.government.0004.d003">
 
 <body>
 
@@ -361,7 +373,7 @@ Henry Lane Wilson.</p>
 
 
 
-<text type="report" xml:id="llg.con.053.001.d004">
+<text type="report" xml:id="teaa.en.government.0004.d004">
 
 <body>
 
@@ -390,7 +402,7 @@ Henry Lane Wilson.</p>
 
 
 
-<text type="report" xml:id="llg.con.053.001.d005">
+<text type="report" xml:id="teaa.en.government.0004.d005">
 
 <body>
 
@@ -432,8 +444,7 @@ A. McLean.</p>
 <gap reason="sampling" extent="one letter"/>
 
 
-
-<text type="report" xml:id="llg.con.053.001.d006">
+<text type="report" xml:id="teaa.en.government.0004.d006">
 
 <body>
 
@@ -474,9 +485,7 @@ Henry Lane Wilson.</p>
 </text>
 
 
-
-
-<text type="report" xml:id="llg.con.053.001.d007">
+<text type="report" xml:id="teaa.en.government.0004.d007">
 
 <body>
 
@@ -532,9 +541,6 @@ de Cuvelier.</p>
 </body>
 
 </text>
-
-
-
 
 </group>
 

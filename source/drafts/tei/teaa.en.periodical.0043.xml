@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.037.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0043.xml">
 
 <teiHeader>
 <fileDesc>
@@ -16,12 +16,12 @@
  
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,11 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.037.01</idno>
+<idno type="project">teaa.en.periodical.0043</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -40,7 +44,7 @@
 <title level="a" type="main">Leopold to Roosevelt</title>
 <title level="j">New York Times</title>
 <pubPlace>New York</pubPlace>
-<biblScope type="page">9</biblScope>
+<biblScope unit="page">9</biblScope>
 <date when="1904-10-18">October 18, 1904</date>
 </bibl>
 </sourceDesc>
@@ -66,35 +70,34 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Kowalsky, Henry I.</term>
+<term>Leopold II, King of the Belgians, 1835-1909</term>
+<term>Roosevelt, Theodore, 1858-1919</term>
 </keywords>
  
-<keywords scheme="original" n="labels">
-<term/>
-</keywords> 
- 
 <keywords scheme="original" n="places">
+<term>Belgium</term>
 <term>Congo Free State</term>
+<term>Great Britain</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="language">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
- 
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.037.02">Analysis</ref>
-</classCode>
  
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-05" who="#kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-09-30" who="#kln">Initial encoding.</change>
 </revisionDesc>
@@ -105,7 +108,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="titles">
 
@@ -119,7 +122,7 @@
 
 <div2 type="article">
 
-<p>Washington, Oct. 17. -- President Roosevelt has had the moot question of Congo civilization under Belgian auspices brought to his attention in a unique manner. Col. Henry I. Kowalsky, a lawyer of San Francisco, called on the President today at the request of King Leopold of Belgium to present the reply of the Federation of the Defense of Belgian Interests Abroad to the attacks made by certain British interests upon the Government of the <placeName key="con" n="mapped"><country type="colony">Congo Free State</country></placeName>.</p>
+<p>Washington, Oct. 17. -- President Roosevelt has had the moot question of Congo civilization under Belgian auspices brought to his attention in a unique manner. Col. Henry I. Kowalsky, a lawyer of San Francisco, called on the President today at the request of King Leopold of Belgium to present the reply of the Federation of the Defense of Belgian Interests Abroad to the attacks made by certain British interests upon the Government of the Congo Free State.</p>
 
 <p>Col. Kowalsky told the President that the purpose of the British "humanitarians" was to entangle the American Government in African affairs, not  for the amelioration of the condition of the natives, but to open the question of sovereignty over those regions by calling a conference of the powers, at which it is hoped England may establish the contention that Belgium is unable to maintain an effective government on the Congo.</p>
 

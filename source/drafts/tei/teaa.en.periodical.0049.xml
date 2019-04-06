@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="llg.con.052.01">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0049.xml">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Collier's Weekly, "Reforms in the Kongo"</title>
+<title>Collier's Weekly, "Reforms in the Kongo" (1908)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,12 +16,12 @@
  
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
- 
+
 <publicationStmt>
-<authority>Locating Lord Greystoke</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +32,11 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">llg.con.052.01</idno>
+<idno type="project">teaa.en.periodical.0049</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
  
 <sourceDesc>
@@ -40,9 +44,9 @@
 <title level="a" type="main">Reforms in the Kongo</title>
 <title level="j">Collier's Weekly</title>
 <date when="1908-03">March 1908</date>
-<biblScope type="vol">40</biblScope>
-<biblScope type="issue">26</biblScope>
-<biblScope type="pages">26</biblScope>
+<biblScope unit="vol">40</biblScope>
+<biblScope unit="issue">26</biblScope>
+<biblScope unit="pages">26</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -67,35 +71,38 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Albert I, King of the Belgians, 1875-1934</term><!-- actually his brother, not nephew -->
+<term>Clementine, Princess of Belgium, 1872-1955</term>
+<term>Cromer, Evelyn Baring, Earl of, 1841-1917</term>
+<term>Grey of Fallodon, Edward Grey, Viscount, 1862-1933</term>
+<term>Leopold II, King of the Belgians, 1835-1909</term>
+<term>Ryan, Thomas Fortune, 1851-1928</term>
 </keywords>
  
-<keywords scheme="original" n="labels">
-<term/>
-</keywords> 
- 
 <keywords scheme="original" n="places">
+<term>Belgium</term>
 <term>Congo Free State</term>
+<term>France</term>
+<term>Great Britain</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="language">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
- 
-<classCode scheme="original">
-<ref type="analysis" target="llg.con.052.02">Analysis</ref>
-</classCode>
  
 </textClass>
 </profileDesc>
    
 <revisionDesc>
+<change when="2019-04-05" who="#kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-10-02" who="#kln">Initial transcription and encoding.</change>
 </revisionDesc>
@@ -106,7 +113,7 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <div2 type="titles">
 
@@ -118,7 +125,7 @@
 
 <div2 type="article">
 
-<p>King Leopold of Belgium has announced the terms on which he will give up the ownership of thirty million people, together with a territory larger than all the States of the American Union east of the Mississippi. He will cede the sovereignty of the <placeName key="con" n="mapped"><country type="colony">Kongo State</country></placeName> to Belgium, as well as the fee of the Crown lands, subject to the nation's assumption of the State's debts, amounting to about $21,000,000, and to a number of other financial obligations. Belgium must reserve for the King his interest in the Kongo revenues during his lifetime, must give him ten million dollars, as "a special token of gratitude," in fifteen annual instalments, for his use in building hospitals and schools and promoting science in Africa, must allow $24,000 a year out of the Kongo revenues to Leopold's nephew and heir, Prince Albert, after his accession to the throne, and $15,000 to his third daughter, Princess Clementine, after her marriage; must spend $9,000,000 in carrying out work already contracted for, and must respect the concessions granted in 1906 to two American companies in which Thomas F. Ryan is interested. Finally, the King is to retain a hundred thousand acres of land for experiments in coffee and cocoa growing, and is to keep his interests in the Kongo concessionary companies and the property in Belgium and France brought with Kongo money. Belgium is to inherit all this property on his death.</p>
+<p>King Leopold of Belgium has announced the terms on which he will give up the ownership of thirty million people, together with a territory larger than all the States of the American Union east of the Mississippi. He will cede the sovereignty of the Kongo State to Belgium, as well as the fee of the Crown lands, subject to the nation's assumption of the State's debts, amounting to about $21,000,000, and to a number of other financial obligations. Belgium must reserve for the King his interest in the Kongo revenues during his lifetime, must give him ten million dollars, as "a special token of gratitude," in fifteen annual instalments, for his use in building hospitals and schools and promoting science in Africa, must allow $24,000 a year out of the Kongo revenues to Leopold's nephew and heir, Prince Albert, after his accession to the throne, and $15,000 to his third daughter, Princess Clementine, after her marriage; must spend $9,000,000 in carrying out work already contracted for, and must respect the concessions granted in 1906 to two American companies in which Thomas F. Ryan is interested. Finally, the King is to retain a hundred thousand acres of land for experiments in coffee and cocoa growing, and is to keep his interests in the Kongo concessionary companies and the property in Belgium and France brought with Kongo money. Belgium is to inherit all this property on his death.</p>
 
 <p>The proposed treaty was presented just in time to forestall British intervention for the extinction of Kongo abuses. In a debate in Parliament it had been made clear that British patience was exhausted. Sir Edward Grey, the Foreign Minister, announced that if there was no reform England might act alone, within her treaty rights and interests. Lord Cromer, whose views on the administration of dependencies command more respect from all parties than those of any other Englishman, made the impressive statement: "I have seen something, and I have heard more, of maladministration in backward states in the hands of despotic, irresponsible rulers, but I assert without hesitation that never in my experience have I seen or have I heard of misrule comparable to the abuses that have grown up in the Kongo State. There has been a cynical disregard of the native races and a merciless exploitation of the country in the interest of foreigners for which I believe a parallel can not be found in the history of modern times." Lord Cromer attributed the abuses in the Kongo to the systematic violation of three cardinal principles of good administration -- first, that the same persons should not carry on the work of administration and that of commercial development; second, that the ruler's personal share in the revenues of the state should be fixed, these revenues in general being applied by responsible authorities to objects of public interest; and, third, that the Crown domains should be similarly managed in the general interest of the community. The new arrangement, if accepted in good faith, seems to cover all these points. But the financial terms proposed have aroused strong opposition among some political elements in Belgium, and the whole scheme will be examined very critically in England.</p>
 
