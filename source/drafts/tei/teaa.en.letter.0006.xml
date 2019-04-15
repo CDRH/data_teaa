@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,16 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/55609738">Appleton, John, 1815-1864</term>
+<term ref="http://viaf.org/viaf/8957118">McKeon, John, 1808-1883</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Loanda (Angola)</term>
+<term>New York (N.Y.)</term>
+<term>Salem (Mass.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +95,17 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Appleton, John</persName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/55609738">Appleton, John, 1815-1864</persName>
+<placeName>Washington, D.C.</placeName>
 <date when="1857-05-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/8957118">McKeon, John, 1808-1883</persName>
+<roleName>U.S. Attorney</roleName>
 <placeName>New York, New York</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +113,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-15" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,23 +125,26 @@
 
 <pb facs="teaa.en.letter.0006.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Mr Appleton to Mr McKeon </note> 
+<note>Mr Appleton, to Mr McKeon.</note> 
 
-<opener><dateline>Department of State<lb/>
-Washington, May 4th, 1857</dateline>
+<opener><dateline>Department of State,<lb/>
+Washington, May 4th, 1857.</dateline>
 
-<salute>John McKeon Esq<lb/>
-U. S. Attorney<lb/>
-N. York</salute></opener>
+<address>
+<addrLine>John McKeon Esq</addrLine>
+<addrLine>U.S. Attorney</addrLine>
+<addrLine>N. York.</addrLine>
+</address></opener>
 
-<p>Sir:<lb/>
-I beg leave to apprise you of the
-arrival at Salem, Mass, of Mr John G
-Willis  the U. S. Commercial Agent at
-St. Paul de Loanda an extract from one
-of whose despatches was sent to you
+<salute>Sir:</salute>
+
+<p>I beg leave to apprise you of the
+arrival at Salem, Mass. of Mr John G
+Willis the U.S. Commercial Agent at
+St. Paul de Loando, an extract from one
+of whose dispatches was sent to you
 by this Department on the 27th ultimo.</p>
 
 <p>Should you desire any information
@@ -152,6 +156,7 @@ the subject.</p>
 <closer><salute>I am, Sir, your obedient servant</salute>
 <signed>John Appleton,<lb/>
 Assistant Secretary</signed></closer>
+
 </div1>
 </body>
 </text>

@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,14 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Loanda (Angola)</term>
+<term>New York (N.Y.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +93,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>New York, New York</placeName>
 <date when="1857-11-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1857-11-10"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +113,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-15" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,29 +125,31 @@
 
 <pb facs="teaa.en.letter.0008.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
 <note>Recd 10 Novr</note>
 <note>Mr Abbott</note>
 
-<opener><dateline>New York Nov 9 1857</dateline></opener>
+<opener><dateline>New York Nov 9th 1857.</dateline></opener>
 
-<p>Sir<lb/>
-Some months since I had the
+<salute>Sir.</salute>
+
+<p>Some months since I had the
 honor to receive from the State Department a leave of
-absence from my post at St. Paul de Loanda West Coast
+absence from my post at St Paul de Loanda, West Coast
 of Africa.</p>
 
 <p>It was then my intention to resign on my arrival
-in the States but circumstances have since occurred by
-which I intend to return.  I now very respectfully
+in the States, but circumstances have since occurred by
+which I intend to return. I now very respectfully
 request your Honor to allow that liberty to extend till
-next March for the reason that I do not wish to arrive
-on the Coast till after the months are considered the worst part of the year
-on the S W  Coast of Africa.</p>
+next March, for the reason that I do not wish to arrive
+on the Coast till after the months of March April &#38; May, 
+as those months are considered the worst part of the year
+on the S W Coast of Africa</p>
 
 <p>I trust my past services &#38; attention to the duties
-previous to the time of a Salary being affixed have entitled
+previous to the time of a Salary being affixed, have entitled
 me to retain the Office for another term &#38; that my request 
 may be granted.</p>
 
@@ -156,17 +158,23 @@ previous to my departure as I have some important subjects
 to lay before the Department.</p>
 
 <p>Any communication you may have to call my
-attention, please address me at No 158 Pearl St. New York
+attention, please address me at No 158 Pearl St New York
 City.</p>
 
 <closer><salute>Very Respectfully<lb/>
 Your Obt Servt</salute>
 <signed>John G. Willis<lb/>
-US Com Agent At St Paul de Loanda</signed>
+U.S. Coml Agent at St Paul de Loanda</signed>
+</closer>
 
-<address><addrLine>Hon Lewis Cass</addrLine>
+<closer>
+<address>
+<addrLine>To</addrLine>
+<addrLine>Hon Lewis Cass</addrLine>
 <addrLine>US Secretary of State</addrLine>
-<addrLine>Washington DC</addrLine></address></closer>
+<addrLine>Washington DC</addrLine>
+</address>
+</closer>
 
 </div1>
 

@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,15 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/72877799">Marcy, William L. (William Learned), 1786-1857</term>
+<term>Silva, Augustus A.</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Loanda (Angola)</term>
+<term>Salem (Mass.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,30 +94,26 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>Salem, Massachusetts</placeName>
 <date when="1854-09-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/72877799">Marcy, William L. (William Learned), 1786-1857</persName>
-<placeName></placeName>
+<roleName>U.S. Secretary of State</roleName>
 <date when="1854-09-30"/>
 </correspAction>
 </correspDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-15" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,21 +123,22 @@
 
 <pb facs="teaa.en.letter.0003.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Recd 30th Sept.</note>
+<note>Recd 30th Septr.</note>
 <note>Mr Abbott</note>
 
-<opener><dateline>Salem Mass Sept 27 1854</dateline> 
-<salute>Hon. Wm. L Marcy<lb/>
+<opener><dateline>Salem Mass. Sept 27 1854</dateline> 
+<salute>Hon. Wm L Marcy<lb/>
 Secretary of State U.S.A.</salute></opener>
 
-<p>Sir<lb/>
-Circumstances having
+<salute>Sir</salute>
+
+<p>Circumstances having
 caused me to leave Loanda previous to giving you notice thereof, I
 avail myself of the first opportunity since my arrival to inform
 you that I have left the office of Commercial Agent in charge
-of my Partner in Business at that place Mr Aug. A. Sebra.</p>
+of my Partner in Business at that place Mr Aug. A. Silva.</p>
 
 <p>I am now about closing an engagement to return &#38; when
 completed intend visiting Washington with some Introductory
@@ -145,7 +146,7 @@ Letters relating to my appointment as Consul at Loanda instead
 of Coml Agent.</p>
 
 <closer><salute>Very Respectfully<lb/>
-Your Obt Sevt</salute>
+Your Obt Servt</salute>
 <signed>John G. Willis</signed></closer>
 
 </div1>

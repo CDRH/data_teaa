@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,13 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/72877799">Marcy, William L. (William Learned), 1786-1857</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Loanda (Angola)</term>
+<term>Salem (Mass.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +92,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>Salem, Massachusetts</placeName>
 <date when="1854-11-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/72877799">Marcy, William L. (William Learned), 1786-1857</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1854-11-30"/>
 </correspAction>
 </correspDesc>
@@ -113,6 +112,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-15" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
 
@@ -125,20 +125,22 @@
 
 <pb facs="teaa.en.letter.0005.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
 <note>Recd 30th Novr</note>
 <note>Mr Abbott</note>
 
-<opener>No. 5<lb/>
-<dateline>Salem Mass, 27th Nov 1854</dateline></opener>
+<note>No. 5</note>
 
-<p>Sir,<lb/>
-Yours of the 20th inst. was duly
+<opener><dateline>Salem Mass 27th Nov. 1854</dateline></opener>
+
+<salute>Sir,</salute>
+
+<p>Yours of the 20th inst. was duly
 received together with my Passport &#38; Navy Register.
 I have also received two packages containing the
-Statutes at Large &#38; an American flag but have
-not received the Circular of Octo 8th filled out
+"Statutes at Large" &#38; an American flag, but have
+not received the Circular of Octo 8th "filled out",
 nor the Army Register.</p>
 
 <p>I have this day drawn
@@ -149,12 +151,14 @@ for the Commercial Agency at St. Paul de Loanda.</p>
 <closer><salute>I am Sir, Very Respectfully<lb/>
 Your Obedient Servant</salute>
 <signed>John G. Willis<lb/>
-Com Agent U. S. A.</signed>
+Coml Agent U.S.A.</signed></closer>
 
+<closer>
 <address>
-<addrLine>Honorable Wm. L Marcy</addrLine>
+<addrLine>Honorable Wm L Marcy.</addrLine>
 <addrLine>Secretary of State of the United States</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
+<addrLine>Washington D.C.</addrLine>
+</address>
 </closer>
 
 </div1>

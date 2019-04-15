@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,15 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/72877799">Marcy, William L. (William Learned), 1786-1857</term>
+<term>Willis, Eliza</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>England</term>
+<term>Loanda (Angola)</term>
+<term>Salem (Mass.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +94,17 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
-<placeName>Luanda, Angola</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>Loanda, Angola</placeName>
 <date when="1854-05-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/72877799">Marcy, William L. (William Learned), 1786-1857</persName>
-<placeName></placeName>
+<roleName>U.S. Secretary of State</roleName>
 <date when="1854-07-11"/>
 </correspAction>
 </correspDesc>
@@ -112,9 +112,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-15" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,26 +124,26 @@
 
 <pb facs="teaa.en.letter.0002.001"/>
 
-<div1 type="letter">
-
+<div1 type="document" xml:lang="en">
 
 <note>Recd 11 July</note>
 <note>Mr Abbott</note>
 
 <opener><dateline>Loanda May 11, 1854</dateline>
 <salute>Hon. Wm. L. Marcy<lb/>
-Secretary of State U. S. A.</salute></opener>
+Secretary of State U.S.A.</salute></opener>
 
-<p>Sir<lb/>
-I have this day drawn
+<salute>Sir</salute>
+
+<p>I have this day drawn
 on you in favor of Eliza Willis of Salem Mass for
-twenty-eight &#38; 93/100 dollars, being the amount paid
-by me for Flagstaff &#38;c as <unclear>to</unclear> Bill which accompanies
+Twenty-eight &#38; 93/100 dollars, being the amount paid
+by me for Flagstaff &#38;c as per Bill which accompanies
 the draft. </p>
 
-<p>I have not yet sent the Bond owing to my
-request to be appointed Consul instead of Coml Agent
-&#38; as to my Letter of Jany 12th via England for this Port,
+<p>I have not yet sent the Bond, owing to my
+request to be appointed Consul instead of "Coml Agent"
+(as per to my Letter of Jany 12th via England) for this Port,
 presuming if I received the appointment of Consul
 it might require a different Bond.</p>
 
