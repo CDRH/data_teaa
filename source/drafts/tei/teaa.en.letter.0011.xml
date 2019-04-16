@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,15 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/59878120">Buchanan, James, 1791-1868</term>
+<term ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</term>
+<term>Miller, W. D.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Huntsville (Ala.)</term>
+<term>St. Paul de Loanda</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,11 +94,6 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
@@ -105,16 +104,17 @@
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-16" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,16 +124,16 @@
 
 <pb facs="teaa.en.letter.0011.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
+<opener><dateline>Huntsville, Alabama,<lb/>
+December 6, 1858.</dateline></opener>
 
-<opener><dateline>Huntsville, Alabama<lb/>
-December 6, 1858</dateline></opener>
+<salute>Sir,</salute>
 
-<p>Sir,<lb/>
-The President having some time since 
+<p>The President having some time since 
 tendered me the appointment of Consul
-of the United States at Loanda I have
+of the United States at Loanda, I have
 felt anxious to so arrange my private
 affairs as to be able to accede to his
 wishes and to proceed as soon as possible
@@ -153,15 +153,15 @@ favor and confidence.</p>
 of the high regard, political and
 personal, with which I have the honor to be,</p>
 
-<closer><salute>Truly and faithfully<lb/>
-Your Obt Servt</salute>
-<signed>W. D. Miller</signed>
+<closer><salute>Truly and faithfully,<lb/>
+Your Obt Servt,</salute>
+<signed>W. D. Miller.</signed></closer>
 
-<address><addrLine>Lewis Cass</addrLine>
-<addrLine>&#38;c, &#38;, &#38;,</addrLine>
-<addrLine>Washington City</addrLine></address>
+<closer>
+<address><addrLine>Lewis Cass,</addrLine>
+<addrLine>&#38;c., &#38;c., &#38;c.,</addrLine>
+<addrLine>Washington City.</addrLine></address>
 </closer>
-
 
 </div1>
 </body>

@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,22 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</term>
+<term>Gabriel, E.</term>
+<term>Wells</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Congo River</term>
+<term>England</term>
+<term>Havana (Cuba)</term>
+<term>Lisbon (Portugal)</term>
+<term>New York</term>
+<term>Portugual</term>
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +101,28 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>Salem, Massachusetts</placeName>
 <date when="1858-02-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-16" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,15 +132,16 @@
 
 <pb facs="teaa.en.letter.0010.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<opener><dateline>Salem Mass February 12 1858</dateline></opener> 
+<opener><dateline>Salem Mass February 12 1858.</dateline></opener> 
 
-<p>Sir<lb/>
-I last had the honor of receiving
-from the State Department a despatch of Nov 21
-1857 extending my leaving of absence from the U. S.
-Coml Agency at St. Paul de Loanda till March 58.</p>
+<salute>Sir.</salute>
+
+<p>I last had the honor of receiving
+from the State Department a despatch of Nov 21,
+1857 extending my leave of absence from the U.S.
+Coml Agency at St Paul de Loanda till March 58.</p>
 
 <p>I avail myself of this opportunity to inform 
 you that I now intend to leave this port for Loanda
@@ -142,104 +151,104 @@ the Commercial Agency at that port.</p>
 
 <p>By referring to my former despatches you
 will please perceive I have frequently alluded to
-the order of the Portuguese Government of depositing
+the "order" of the Portuguese Government of depositing
 the Registers of American vessels with the Custom
 House authorities at Loanda instead of with the
-U. S. Coml Agent. I have during my stay there
+U.S. Coml Agent. I have during my stay there
 used my best exertions in endeavoring to have the
 Registers in my possession while the vessel remained
 in port, but the Governor would not allow me to keep
-them. As I consider this "order" conflicts with the
-U. S. Law of Feby 28 1803, I would respectfully
+them. As I consider this "Order" conflicts with the
+U.S. Law of Feby 28, 1803, I would respectfully
 request some further instructions on this subject.</p>
 
 <p>There is also a very important subject which
 I wish to bring to the notice of the Department viz.
-the subject of a Burial place in Loanda for American
-Citizens. The English some years since had a
-small lot of Ground granted them by the Portguese
-Government for the purpose. In October 1856 I
+The subject of a "Burial place in Loanda for American
+Citizens." The English some years since had a
+small lot of Ground granted them by the Portuguese
+Government for this purpose. In October 1856 I
 had occasion to request the Resident English Commissioner
-or Arbitrator {Mr E Gabriel}  for the privilege of
-burial in their cemetery of an American Ship master
-{Capt Wells of the Brig Charlotte of New York}  who
-died in the Congo River on the 13th Sept whose body
-
+or Arbitrator (Mr E. Gabriel) for the privilege of
+burial in their Cemetery of an American Ship master
+(Capt Wells of the Brig Charlotte of New York) who
+died in the Congo River on the 13th Sept. whose body
 
 <pb facs="teaa.en.letter.0010.002"/>
 
 was placed in a Cask of Rum &#38; and brought to Loanda
-in said Brig but through some misunderstanding Mr. 
+in said Brig. but through some misunderstanding Mr 
 Gabriel finally declined to have the body placed there
 unless it was taken out of the Cask &#38; and placed in a Coffin.
-I requested the Government to give me liberty to employ the 
-Physico Mor to arrange it but on account of some fears
+I requested the Governor to give me liberty to employ the 
+Physico Mor to arrange it, but on account of some fears
 they had in respect to contagion the Government declined
-the body was buried with the Cask in the vicinity.
-If your honor will direct the U. S. Minister at Loanda
+&#38; the body was buried with the Cask in the vicinity.
+If your honor will direct the U.S. Minister at Lisbon
 to apply to the Portuguese Government for a small lot of
 Ground for this purpose, I have no doubt but what they
 would comply with the request. I would add that it
 would not be necessary to go to any expense at present
 as regards fencing &#38;c The English have not as yet expended
-anything on their grounds but I understood there
+anything on their grounds, but I understood there
 had been an application made to Government for an
-Iron fence as a Wood fence would not last any length
+Iron fence, as a Wood fence would not last any length
 of time.</p>
 
 <p>I would request permission in case of sickness,
-to leave my post for a longer time than the two days if necessary.</p>
+to leave my post for a longer time than the ten days if necessary.</p>
 
 <p>I notice in the List of Diplomatic Consular
-&#38; other Agents of the United States that I am the
+&#38; other Agents of the United States, that I am the
 only Coml Agent in the Portuguese Dominions &#38; if the
-Department would make this office a Consulate instead of 
-of Coml Agency it would have a good effect in the Government
+Department would make this office a "Consulate" instead  
+of Coml Agency it would have a good effect on the Government
 at Loanda.</p>
 
 <p>I have also to request the Department to send
-me a flag also a small flag for a Boat &#38; if you think
+me a flag, also a small flag for a Boat, &#38; if you think
 it advisable to change the Office to a Consulate, to
 send me at the same time a Seal of Arms.</p>
 
 <p>The Slave Trade has been of late carried on to
 a great extend on the S W Coast of Africa by vessels 
-sailing from Ports in the U States &#38; Havana some of
+sailing from Ports in the U. States &#38; Havana some of
 
 <pb facs="teaa.en.letter.0010.003"/>
 
-
 which are owned by Portuguese living in New York 
 who through some Ship Brokers manage to elude the 
-vigilance of the U. S. authorities in that City.</p>
+vigilance of the U.S. authorities in that City.</p>
 
 <p>This System interferes very much with those engaged
 in legal trade as they in order to make a good appearance
-at the Custom House have a regular Cargo, which
+at the Custom House, have a regular Cargo, which
 when the vessel arrives on the Coast is forced on the
 market at any price.</p>
 
-<p>The English Commanders of Govenment vessels
+<p>The English Commanders of Government vessels
 on the Coast have in many instances taken great liberties
-with American Vessels &#38; the presence of one or
-more U. S. Vessels is very important for legal &#38;
-illegal trade. The weather on the SW Coast is always
-good &#38; the harbour of Loanda is very fine, good
-water &#38; Provisions of all kinds can always be procured
+with American Vessels, &#38; the presence of one or
+more U.S. Vessels is very important <unclear/> for legal &#38;
+illegal trade. The weather on the S W Coast is always
+good &#38; the harbour of Loanda is very fine. good
+Water &#38; Provisions of all kinds can always be procured
 there at much cheaper sales than elsewhere on the Coast.</p>
 
 <p>Any communication you may have to forward 
-me please direct to Salem, Mass.</p>
+me, please direct to Salem, Mass.</p>
 
 <closer><salute>Very Respectfully<lb/>
-Your Obt Servt</salute>
-<signed>John G Willis<lb/>
-U. S. Coml Agent at St Paul de Loanda</signed>
+Your Obt. Servt.</salute>
+<signed>John G. Willis<lb/>
+U.S. Coml Agent, at St Paul de Loanda</signed></closer>
 
+<closer>
 <address><addrLine>To the</addrLine>
 <addrLine>Hon. Lewis Cass</addrLine>
-<addrLine>Secretary of State U. S. A.</addrLine>
-<addrLine>Washington D.C.</addrLine></address></closer>
+<addrLine>Secretary of State. U.S.A.</addrLine>
+<addrLine>Washington D.C.</addrLine></address>
+</closer>
 
 </div1>
 </body>

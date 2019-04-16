@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,14 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Goodridge, John W.</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>England</term>
+<term>St. Paul de Loanda</term>
+<term>St. Thomas</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +93,26 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Goodridge, John W.</persName>
-<placeName>Luanda, Angola</placeName>
+<placeName>St. Paul de Loanda</placeName>
 <date when="1859-07-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Willis, John G.</persName>
-<placeName></placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-16" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,22 +122,24 @@
 
 <pb facs="teaa.en.letter.20004"/>
 
-<div1 type="letter">
-
+<div1 type="document" xml:lang="en">
 
 <opener><dateline>Loanda July 29th 1859</dateline> 
 
-<salute>John G Willis Esq<lb/>
-U. S. Commercial Agent</salute></opener>
+<address>
+<addrLine>John G Willis Esq.</addrLine>
+<addrLine>U.S. Commercial Agent</addrLine>
+</address></opener>
 
-<p>Sir<lb/>
-The <sic>inclosed</sic> abstract 
-from my ship's log will sufficiently
+<salute>Sir</salute>
+
+<p>The <sic>inclosed</sic> abstract 
+from my ship's log will <sic>sufficiontly</sic>
 explain itself.</p>
 
 <p>While on this coast last
-voyage in 1857 &#38; 8 we were chased,
-fired into with shot guns hove to
+voyage in 1857 &#38; 8, we were chased,
+fired into with shot guns, hove to
 and detained on our voyage on two
 different occasions by English
 Cruisers. Since then our government
@@ -153,7 +153,7 @@ seas under any circumstances or
 pretense whatever and the English
 Government having assented to it
 and disclaimed all such right
-we had not anticipated being
+we had not anticipated, being
 again subjected to such <sic>shamefull</sic>
 
 <pb facs="teaa.en.letter.20005"/>
@@ -162,20 +162,20 @@ again subjected to such <sic>shamefull</sic>
 disagreeable delays involving loss
 of time to the ships and pecuniary
 loss to her owners which latter is especially
-the case on the occasion as our commission
-was urgent its success depending
+the case on this occasion as our 
+mission was urgent its success depending
 upon our reaching "Principi" in
 time to anticipate the advices for
 there <unclear>per</unclear> mail steamer "Estephania"
 to sail the day after us from Loanda
 for St Thomas with mails for "Principi"
-to be forwarded from there.</p>
+to be forwarded from there</p>
 
 <p>You therefore realise in some measure
 how vexatious was the delay to
 which we were subjected and the
 pecuniary loss involved may be very
-considerable.</p>
+considerable</p>
 
 <p>With full assurance that
 we shall meet with welcome and
@@ -185,8 +185,8 @@ I have the honor to be</p>
 
 <closer><salute>Sir<lb/>
 Respectfully<lb/>
-Yr Mo Obt Svt</salute>
-<signed>Signed John W. Goodridge<lb/>
+Yr Ms Obt Svt</salute>
+<signed>Signed John. W. Goodridge<lb/>
 Master of Barque Hazard</signed></closer>
 
 </div1>

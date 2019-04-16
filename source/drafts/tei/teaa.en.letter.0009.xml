@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,14 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Silva, Augustus A.</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda</term>
+<term>United States</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,17 +93,12 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
-
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-16" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
 
@@ -113,37 +111,37 @@
 
 <pb facs="teaa.en.letter.0009.001"/>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
+<p>Department of State,<lb/>
+Washington, November 16 1857.</p>
 
-<ab>Department of State,<lb/>
-Washington, November 16 1857</ab>
-
-<ab>Memorandum<lb/>
+<p>Memorandum.<lb/>
 U.S. Commercial Agency,<lb/>
-St. Paul de Loanda</ab>
+St Paul de Loanda.</p>
 
-<p>Mr. J G Willis, the present Commercial Agent 
+<p>Mr J. G. Willis, the present Commercial Agent 
 was appointed to this office August 23, 1853.
 He is now in the United States and asks an
 extension of his leave of absence for the reasons
 mentioned in his letter which is hereto annexed.</p>
 
-<p>The salary which was not affixed
-to the office till the 1st of January 1857 is only
+<p>The salary, which was not affixed
+to the office till the 1st of January 1857, is only
 $1000.</p>
 
-<p>The fees in 1854 were $142.00
-            "       "    1855     "      132.35
+<p>The fees in 1854 were $142.00<lb/>
+            "       "    1855     "      132.25<lb/>
             "       "    1856     "      193.50</p>
 
 <p>Mr Willis appears to have discharged his duties
 quite efficiently in an unhealthy climate; he
-returned to the United States to recount his health,
+returned to the United States to recruit his health,
 after an attack of the African fever.</p>
 
 <p>There is but a single applicant for the place,
-<unclear>Mr. Silva</unclear>, whose papers are hereto annexed.</p>
+Mr. Silva, whose papers are hereto annexed.</p>
+
 </div1>
 </body>
 </text>

@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,24 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</term>
+<term>Gabriel, Edmund</term>
+<term ref="http://viaf.org/viaf/11863869">Huntley, H. V. (Henry Vere), Sir, 1795-1864</term>
+<term ref="http://viaf.org/viaf/74921314">O'Sullivan, John L. (John Louis), 1813-1895</term>
+<term>Totten, Benjamin J.</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Ambriz (Congo)</term>
+<term>Congo River</term>
+<term>England</term>
+<term>Kinsembo (Congo)</term>
+<term>Lisbon (Portugal)</term>
+<term>Netherlands</term>
+<term>Portugal</term>
+<term>St. Paul de Loanda</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +103,28 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
-<placeName>Luanda, Angola</placeName>
+<placeName>St. Paul de Loanda</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <date when="1859-01-26"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</persName>
-<placeName></placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-16" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,126 +134,123 @@
 
 <pb facs="teaa.en.letter.0012.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note><unclear/></note>
+<note>No 2.</note>
 
-<opener><dateline>No 2. United States Commercial Agency<lb/>
-St. Paul Loanda January 26 1859</dateline></opener>
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul d Loanda January 26, 1859</dateline></opener>
 
-<p>Sir,<lb/>
-I last had this honor under date of
-October 11, '58, informing you that I had arrrived
+<salute>Sir,</salute>
+
+<p>I last had this honor, under date of
+October 11th '58, informing you that I had arrived
 at this Port &#38; had entered upon the duties of this 
 office. I also informed you that the American Yacht
-Wanderer was then in the Congo River during the
+Wanderer was then in the Congo River, during the
 latter part of the month She left the River &#38; it is
-said, with a Cargo of Slaves. </p>
+said, with a Cargo of Slaves.</p>
 
-<p>Since the capture &#38; burning of the Brig Rufus 
-Soulé off the Congo by H.B. M. Steamer Viper
+<p>Since the capture &#38; burning of the Brig "Rufus 
+Soulé" off the Congo by H.R.M. Steamer "Viper",
 in October last, a statement of which was given
-to Capt. Totten of the U.S.S. Vincennes I have
-heard of four or five shipments being made, the last
-one a few days since in which the thousand Slaves
+to Capt. Totten of the U.S.S. "Vincennes" I have
+heard of four or five Shipments being made, the last
+one a few days since in which one thousand Slaves
 were placed on board one vessel. The Trade has now
-gone in part from the Congo River to the North of
+gone in part, from the Congo River to the North of
 that river. Owing to the French Apprentice System,
 Slaves are rather scarce &#38; the price has advanced.
 It is said there are a number of vessels off the
-Coast waiting for the Consigned to arrange a
+Coast waiting for their Consignees to arrange a
 Congo.</p>
 
 <p>On the 8th December Sir Henry 
-Huntley, H. B. M. Consul for this Port arrived
+Huntley, HRM Consul for this Port arrived
 now. He came out as a Consul &#38; Clerk to the
 
 <pb facs="teaa.en.letter.0012.002"/>
 
-
 English Slave Commission presuming that Mr 
-Gabriel, H B M Arbitatior would return to England,
-&#38; then he would be acting Arbitatror &#38; Consul; but as
+Gabriel, HRM Arbitrator would return to England,
+&#38; then he would be acting Arbitrator &#38; Consul; but as
 Mr Gabriel does not intend leaving this at present, Sir
 Henry is officiating as Consul without accepting the
-post as Clerk to the Commission &#38; waiting for further
+post as Clerk to the Commission, &#38; waiting for further
 instructions from his Government.</p>
 
 <p><sic>Accompaning</sic> this I enclose the Returns 
 from this Commercial Agency for the Quarter ending 
 December 31, 1858 &#38; have drawn on Your Honor for 
-Two Hundred forty-four &#38; 07/100 dollars being balance
+Two Hundred forty-four &#38; 07/100 dollars, being balance
 of my Salary for that Quarter. I am not able to 
 fill up the blanks with the exact value of the Inward
-&#38; Outward cargoes for the reason that a vessel entering
-to clearing at this Custom House is not obliged to place
+&#38; Outward Cargoes, for the reason that a vessel entering
+or clearing at this Custom House is not obliged to place
 on her Manifest the value thereof. For a year estimate
-of the American Business done at this Port I should
-say that at the present time I will not exceed
+of the American Business done at this Port. I should
+say that at the present time it will not exceed
 One hundred thousand dollars. Two or three years
 ago it would amount to one hundred &#38; fifty thousand
-dollars but since that time the Crop of Palm
-Oil has failed &#38; the Natives are obliged to eat the
-Palm Nut to keep from starvation.  Palm Oil it 
-is now thought will this year prove very fair &#38; if so
+dollars, but since that time the Crop of Palm
+Oil has failed &#38; the Natives were obliged to eat the
+Palm Nut to keep from starvation. Palm Oil it 
+is now thought will this year prove very fair. &#38; if so
 it will enable the Portuguese Merchants here to pay
-their Debts which in may instances have been standing
+their Debts, which in may instances have been standing
 
 <pb facs="teaa.en.letter.0012.003"/>
 
-
-very long-- their debts once settled will cause the two 
+very long. their debts once settled will cause the two 
 American Houses here to order larger Invoices &#38; then of 
 course the Business will again increase.</p> 
 
-<p>It is the wish of the Governor General of the Province
+<p>It is the wish of the Governor General of this Province
 to take possession of the River Congo, but I understand the
 English Government will not allow them to go North of
-Ambriz. If Portugal should take that River there will
-be no more Slave Trade there &#38; perhaps England may in
+Ambriz. If Portugal should take that River, there will
+be no more Slave Trade there, &#38; perhaps England may in
 time change her views in this respect as it will save her
 considerable expense in taking of the African Squadron.</p>
 
 <p>The occupation of Ambriz by the Portuguese has not
 yet resulted favorably. They have been at considerable expense
 &#38; there is now only one foreign House there &#38; that
-an American- The one English House that formerly done business
-at Ambriz, have now left on account of the
-high duties &#38; {which are more than Mr O'Sullivan the
-late U. S. Minister at Gabon was given to understand
-by the Portuguese Minister} &#38;  have gone to a place
-called "Kisembo" 7 miles north of Ambriz, together
+an American. The two English Houses that formerly done 
+business at Ambriz, have now left on account of the
+high duties (which are more than Mr O'Sullivan the
+late U.S. Minister at Lisbon was given to understand
+by the Portuguese Minister) &#38; have gone to a place
+called "Kisembo", 7 miles north of Ambriz, together
 with a Branch of the American House &#38; a Dutch
-House where they got a clear of all Custom House charges
+House, where they get a clear of all Custom House charges
 &#38; at the same time do considerable Trade with the Natives.</p>
-
 
 <p>The Copper Mines at Ambriz have not proved
 so favorable as they were at first expected &#38; it is said
-will result in a great less to those concerned.</p>
+will result in a great loss to those concerned.</p>
 
 <p>Some time since, I wrote the Department in
 
 <pb facs="teaa.en.letter.0012.004"/>
 
-
 respect to a Burial Place in Loanda for deceased
-Americans &#38; under date of February 15 1858 I am
+Americans, &#38; under date of February 15th 1858 I am
 informed by the Department that the United States
-Minister at the court of Lisbon will be informed of
+Minister at the Court of Lisbon will be informed of
 my request. As yet nothing relating thereto has been
-received at this agency &#38; I now take the liberty of 
+received at this Agency, &#38; I now take the liberty of 
 again calling the attention of the Department to this
 subject.</p>
 
 <closer><salute>Very Respectfully<lb/>
-Your Obt Servt<lb/></salute>
-<signed>John G Willis</signed>
+Your Obt. Servt<lb/></salute>
+<signed>John G. Willis</signed>
 
 <address>
 <addrLine>Hon Lewis Cass</addrLine>
-<addrLine>Secretary of State U S A</addrLine>
-<addrLine>Washington D C</addrLine></address></closer>
+<addrLine>Secretary of State USA.</addrLine>
+<addrLine>Washington D.C.</addrLine></address></closer>
 </div1>
 </body>
 </text>

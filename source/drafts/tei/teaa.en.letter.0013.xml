@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from John G. Willis to Lewis Cass, </title>
+<title level="a">Dispatch from John G. Willis to Lewis Cass</title>
 <date when="1859-05-05">May 5, 1859</date>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
@@ -70,12 +71,21 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Brent, Thomas H.</term>
+<term>Burton, Robert Hern</term>
+<term ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</term>
+<term>Huntley, H. V. (Henry Vere), Sir, 1795-1864</term>
+<term>Miller</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>England</term>
+<term>Havana (Cuba)</term>
+<term>Mazula Bay</term>
+<term>New York</term>
+<term>St. Helena</term>
+<term>St. Paul de Loanda</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,17 +100,13 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
-<placeName>Luanda, Angola</placeName>
+<placeName>St. Paul de Loanda</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <date when="1859-05-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
@@ -112,9 +118,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-16" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,93 +130,100 @@
 
 <pb facs="teaa.en.letter.0013.001"/>
 
-<div1 type="letter">
-
+<div1 type="document" xml:lang="en">
 
 <opener><dateline>United States Commercial Agency<lb/>
-St. Paul Loanda May 5 1859</dateline></opener>
+St Paul d Loanda May 5, 1859</dateline></opener>
 
-<p>Sir<lb/>
-On the 26 January last I had
+<salute>Sir.</salute>
+
+<p>On the 26th January last, I had
 the honor of addressing you, enclosing the Returns
 of the Commercial Agency for the Quarter ending
-Dec 31 1858 &#38; at same time drawing for
+Dec 31st 1858 &#38; at same time drawing for
 $244.07 being balance of my Salary for that
 Quarter.</p>
 
 <p>In that Despatch I gave some particulars
-respecting this Coast the arrivals of Sir
-Henry V Huntley H B M Consul for this Port
-Slave Trade &#38;c which I trust has been received.</p>
+respecting this Coast, the arrival of Sir
+Henry V Huntley, HRM Consul for this Port,
+Slave Trade &#38;c. which I trust has been received.</p>
 
 <p><sic>Accompaning</sic> this I enclose the Returns from
 this Commercial Agency for the Quarter ending
-March 31 59 &#38; have drawn on your Honor for
+March 31st 59 &#38; have drawn on your Honor for
 $238.89 being balance of my Salary for that
 Quarter.</p>
 
 <p>In my last I gave an estimate of the 
-American Trade at this Port which I trust
+American Trade at this Port, which I trust
 will serve the same purpose as if I entered the
-amount of the Inward &#38; Outward cargoes in the
-Returns which estimate can be now placed at
-One hundred thousand dollars per annum</p>
+amount of the Inward &#38; Outward Cargoes in the
+Returns, which estimate can be now placed at
+One hundred thousand dollars per annum.</p>
 
-<p>It is reported now that the U. S. S. "Marion"
+<p>It is reported now that the U.S.S. "Marion"
 has taken as Prizes in the Congo River a Bark
 
 <pb facs="teaa.en.letter.0013.002"/>
 
 called the "Orion" of New York &#38; another Bark
-name not reported. H B M Steamer "Triton"  
-Comr Burton had the "Orion" in tow one or two
+name not reported. HRM Steamer "Triton"  
+Comr Burton had the "Orion" in tow, one or two
 days previous to the arrivals there of the "Marion", while
 at the same time the "Orion" had the American Ensign
 flying. Capt Brent of the "Marion" will undoubtedly
 inform his Department of the particulars in
 this case.</p>
 
-<p>It is also reported that the U. S. Government
+<p>It is also reported that the U.S. Government
 have made a proposition to England, that they
-will place on this Coast Ten Steamers of two Guns each
+will place on this Coast Ten Steamers of two Guns each,
 instead of the Eighty Guns in large vessels. If so, it
-will do much in stopping the Slave Trade on this Coast
-As a Depot for Coals or Provisions  Loanda has 
-not its equal on the Coast of Africa. For further 
-particular respecting the advantages of this place. I 
-respectfully refer you to my former despatches.</p>
-<p>I have the honor to acknowledge the receipt of
-a despatch from your Department under date of Dec
-13 1858 advising me of the resignation of Mr Miller
-&#38; requesting me to continue in the discharge of the
-duties of the office till the further pleasure of the
-President is ascertained which request I respectfully
-comply with.</p>
-<closer><salute>I have the honor to be<lb/>
-Your Most Obdt Servant</salute>
-<signed>John G Willis</signed>
+will do much in stopping the Slave Trade on this Coast.</p>
 
+<p>As a Depot for Coals or Provisions, Loanda has 
+not its equal on the Coast of Africa. For further 
+particulars respecting the advantages of this place, I 
+respectfully refer you to my former despatches.</p>
+
+<p>I have the honor to acknowledge the receipt of
+a despatch from your Department under date of Dec.
+13th 1858 advising me of the resignation of Mr Miller
+&#38; requesting me to continue in the discharge of the
+duties of the office, till the further pleasure of the
+President is ascertained, which request I respectfully
+comply with.</p>
+
+<closer><salute>I have the honor to be<lb/>
+Your Most Obt. Servt</salute>
+<signed>John G. Willis.</signed></closer>
+
+<closer>
 <address><addrLine>Hon Lewis Cass</addrLine>
-<addrLine>Secretary of State</addrLine></address>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine></address>
 </closer>
+
 </div1>
 
 <pb facs="teaa.en.letter.0013.003"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<opener><dateline>May 6</dateline></opener>
+<opener><dateline>May 6.</dateline></opener>
 
 <p>A small topsail Schooner name not
-yet given was towed in here yesterday by H B M
-Steamer "Triton" which vessel was taken off Mazula
-about 40 Miles to the North of Loanda without flag
+yet given, was towed in here yesterday by HRM
+Steamer "Triton", which vessel was taken off Mazula
+about 40 Miles to the North of Loanda, without flag
 or papers. She was 3 months from Havana &#38; had
 Six hundred doubloons on board. I have not
-seen any person belonging to her but get my information
-from H B M acting Commissioner. The
-"Triton" after coaling here will leave with her Prize
+seen any person belonging to her; but get my information
+from HRM acting Commissioner. The
+"Triton" after coaling here, will leave with her Prize
 for St. Helena.</p>
+
 </div1>
 
 </body>
