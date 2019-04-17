@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,12 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Postell, William Ross</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda</term>
+<term>St. Thomas</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,88 +91,91 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
-<placeName>Luanda, Angola</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>St. Paul de Loanda</placeName>
 <date when="1860-01-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</persName>
-<placeName></placeName>
+<roleName>U.S. Secretary of State</roleName>
 <date when="1860-03-14"/>
 </correspAction>
 </correspDesc>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-17" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+
 <pb facs="teaa.en.letter.0015.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
 <note>Recd 14 Mar</note>
 <note>Mr Abbott</note>
+<note>No 8.</note>
 
 <opener><dateline>United States Commercial Agency<lb/>
-St Paul de Loanda Jany 24 1860</dateline></opener>
+St Paul d Loanda Jany 24 1860.</dateline></opener>
 
-<p>Sir<lb/>
-Herewith I enclose Returns
+<salute>Sir</salute>
+
+<p>Herewith I enclose Returns
 from this Commercial Agency for the Quarter 
-ending December 31 1859. The A/C Current
+ending December 31 1859. The a/c Current
 for same I have directed to the Fifth Auditor
-of the Treasury &#38; have drawn on the Hon.
+of the Treasury, &#38; have drawn on the Hon.
 Secretary of the Treasury for the Balance due
-me as the Circular of your Department dated October
+me, as per Circular of your Department dated October
 1st 1859.</p>
 
 <p>My last despatch addressed to Your Honor
 was under date of November 19th enclosing the
-Register &#38;c of Bark E A Rawlins which
+Register &#38;c of Bark E A Rawlins, which
 vessel left St Thomas in June 1859 without a
-proper clearance from the Custom House also
+proper clearance from the Custom House. also
 informing you the particulars of said case in
 connection with a person calling himself Wm.
-Ross Postell</p>
+Ross Postell.</p>
 
 <p>Having now been in this Port the past 17
 months, &#38; as it will be 5 or 6 months more
-before I can receive an answer to this. I now very
+before I can receive an answer to this, I now very
 respectfully request Your Honor to grant me
-leave of absence to take effect as soon as prac-
-<catchwords>ticable</catchwords>
+leave of absence to take effect as soon as <fw type="catch">practicable</fw>
+
+<fw type="address">
+<address><addrLine>Hon Lewis Cass</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>U.S.A.</addrLine></address>
+</fw>
 
 <pb facs="teaa.en.letter.0015.002"/>
 
-practicable after the receipt as it may be advisable
+practicable after the receipt, as it may be advisable
 for me to return to the States in the course
 of Six Months.</p>
+
 <closer>
 <salute>Very Respectfully<lb/>
 Your Obt Servt</salute>
 <signed>John G. Willis</signed>
-
-<address><addrLine>Hon Lewis Cass</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>U. S. A.</addrLine></address>
 </closer>
+
 </div1>
+
 </body>
 </text>
 

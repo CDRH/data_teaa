@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,13 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Brookhouse, R.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Lisbon (Portugal)</term>
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,28 +92,27 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
-<placeName>Luanda, Angola</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>St. Paul de Loanda</placeName>
 <date when="1860-10-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1860-12-24"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-17" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
 
@@ -122,65 +123,69 @@
 
 <body>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0017.001"/>
 
 <note>Rec 24 Decr</note>
 <note>Ans 22 Feb</note>
 <note>Mr Abbott</note>
+<note>No 11.</note>
 
-<opener>No 11<lb/>
+<opener>
 <dateline>United States Commercial Agency<lb/>
-Loanda Octo 23 1860</dateline></opener>
+Loanda Octo 23, 1860.</dateline></opener>
 
-<p>Sir<lb/>
-Herewith I enclose Returns
+<salute>Sir.</salute>
+
+<p>Herewith I enclose Returns
 from the Commercial Agency for the Quarter
 ending Sept 30 '60. The General accounts &#38;
-Certificates I have directed to the Treasury Deptartment
-I have drawn on the Hon Secretary
-of the Treasury for $189.12 &#162; being balance of
+Certificates I have directed to the Treasury Department,
+&#38; have drawn on the Hon. Secretary
+of the Treasury for $189.12&#162; being balance of
 my Salary for that Quarter.</p>
 
 <p>I last had the honor of addressing you
-under date of Sept 15th enclosing returns for
-the Quarter ending June 30th 60_ Under this
+under date of Sept 15th enclosing Returns for
+the Quarter ending June 30th 60. Under this
 date I informed your Honor that a large number
-of Troops had arrived here from Libson_ I now
-have to add that a fever  resembling the Yellow
+of Troops had arrived here from Lisbon. I now
+have to add that a Fever resembling the Yellow
 Fever has broken out among them &#38; nearly one
 hundred have died within the past month.
 As yet it is mostly confined to the Hospital among
 the Soldiers, although there have been cases outside.
-All who have as yet died with the disease have
-lately arrived here &#38;  it may possibly be Ship Fever
-I <sic>inclose</sic> the <sic>Bolletin</sic> in which you will perceive
+All who have as yet died with this disease have
+lately arrived here &#38; it may possibly be Ship Fever.
+I enclose the <sic>Bolletin</sic> in which you will perceive
 the Government are endeavoring by cleanliness
-<catchwords>&amp;c.</catchwords>
+<fw type="catch">&amp;c</fw>
 
-
-<pb facs="teaa.en.letter.0017.002"/>
-
-&#38;c to prevent the disease from spreading.</p>
-
-<p>This Agency is very much in want of a
-new flag, also Forms Nos 14, 30, &#38; 44.  Will you
-be pleased to direct them to be sent. Vessels belonging
-to the House of Brookhouse &#38; co Salem,
-Mass, leave there every two months for the Port &#38;
-will forward anything the Department may desire.</p>
-
-<closer><salute>Very Respectfully,<lb/>
-Your Obt Servt</salute>
-<signed>John G Willis<lb/>
-U S Com Agent</signed>
-
+<fw type="address">
 <address>
 <addrLine>Hon Lewis Cass</addrLine>
 <addrLine>Secretary of State</addrLine>
 <addrLine>Washington DC</addrLine>
 </address>
-</closer>
+</fw>
+
+<pb facs="teaa.en.letter.0017.002"/>
+
+&#38;c to prevent the disease from spreading.</p>
+
+<p>This Agency is very, much in want of a
+new flag,. also Forms Nos 14, 30, &#38; 44. Will you
+be pleased to direct them to be sent. Vessels belonging
+to the House of Brookhouse &#38; Co Salem,
+Mass. leave there every two months for this Port &#38;
+will forward anything the Department may desire.</p>
+
+<closer><salute>Very Respectfully<lb/>
+Your Obt Servt</salute>
+<signed>John G. Willis<lb/>
+US Coml Agent</signed></closer>
+
 </div1>
 </body>
 </text>
