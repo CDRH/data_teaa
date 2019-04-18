@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,12 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,18 +91,19 @@
 <term/>
 </keywords>
 
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Cunningham, Robert</persName>
-<placeName>St. Paul de Loanda</placeName>
+<roleName>Acting U.S. Commercial Agent for Loanda</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1861-06-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName></placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1861-09-30"/>
 </correspAction>
 </correspDesc>
@@ -109,9 +111,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-18" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -121,21 +123,21 @@
 
 <pb facs="teaa.en.letter.0021.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Recd 30th Sept</note>
-<note>Return to <unclear/></note>
+<note>Recd 30th Sept.</note>
+<note>No 17</note>
 
+<opener><dateline>United States Commercial Agency
+Loanda June 30/61</dateline></opener>
 
-<opener>No 17 <dateline>United States Commercial Agency
-Loana June 30/61</dateline></opener>
+<salute>Sir</salute>
 
-<p>Sir<lb/>
-Herewith I enclose
+<p>Herewith I enclose
 Returns from this Commercial
 Agency for the Quarter ending
 30th June 1861. The several
-accounts and Certificates I have
+Accounts and Certificates I have
 directed to the Treasury Department
 and have drawn on the Hon.
 Secretary of the Treasury for $228 36/100
@@ -143,22 +145,28 @@ being Balance of my Salary for
 that Quarter.</p>
 
 <p>My Predecessor John
-G Willis last addressed you under
+G. Willis last addressed you under
 date of 29th April informing you
 of his return to the United States
 on leave of absence he having appointed
 me acting commercial Agent
 at Loanda and being informed
 of his not returning I beg to solicit
-the appointment as U S Commercial
+the appointment as US Commercial
 Agent.</p>
 
 <p>I beg to acknowledge
 the receipt of your Despatch
 
+<fw type="address">
+<address><addrLine>Honble</addrLine>
+<addrLine>H Seward</addrLine>
+<addrLine>Secty of State</addrLine></address>
+</fw>
+
 <pb facs="teaa.en.letter.0021.002"/>
 
-under date of 22nd March last 
+under date of 22d March last 
 accompanying one Tin Case
 Containing one Flag and
 Consular Forms.</p>
@@ -166,12 +174,7 @@ Consular Forms.</p>
 <closer><salute>Very Respectfully<lb/>
 Your Obet Servant</salute>
 <signed>Robert Cunningham<lb/>
-Actg U. S. Com Agents</signed>
-
-<address><addrLine>Honble</addrLine>
-<addrLine>H Seward</addrLine>
-<addrLine>Sect of State</addrLine></address></closer>
-
+Actg U.S. Coml Agent</signed></closer>
 
 </div1>
 </body>

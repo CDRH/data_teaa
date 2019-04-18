@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Slave Trade and Slavery</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +72,20 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Birnie, Edward A.</term>
+<term>Birnie, William</term>
+<term>Inman</term>
+<term>Oliveira</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Angola</term>
+<term>England</term>
+<term>Mossâmedes (Angola)</term>
+<term>Portugual</term>
+<term>St. Paul de Loanda (Angola)</term>
+<term>United States</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -95,21 +105,23 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
-<placeName>St. Paul de Loanda</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1861-04-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-18" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -119,98 +131,105 @@
 
 <pb facs="teaa.en.letter.0019.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
+<note>No 13.</note>
 
-<opener>No 13<lb/>
-<dateline>United States Commercial Agency<lb/>
-Loanda April 5 1861</dateline></opener>
+<opener><dateline>United States Commercial Agency<lb/>
+Loanda April 5, 1861.</dateline></opener>
 
-<p>Sir,<lb/>
-I last had the honor of addressing
+<salute>Sir,</salute>
+
+<p>I last had the honor of addressing
 the State Department under date of January 22nd
 enclosing Returns from this Commercial Agency
-for the Quarter ending Dec 31 1861 also giving
-some information in respect to the disposition made
+for the Quarter ending Dec 31st 1860, also giving
+some information in respect to the "disposition made
 by the British Government of the Africans captured
-from slavers by the British Army &#38; also as to the
-disposition made by that Government of the officers
-&#38; Crews of the slavers which I trust has ere
+from slavers by the British Navy" &#38; also as to the
+"disposition made by that Government of the officers
+&#38; Crews of those Slavers", which I trust has ere
 this been received.</p>
 
 <p>I have now to inform your Honor that
 there is a prospect of a very serious affair occurring
 between this Government of Angola &#38; that of
-the United States owing to the imprisonment of
-Mr E A Birnie Naval Storekeeper for the U 
-S Squadron on this Coast.  The facts as near 
-as I can accertain from Mr Birnie, his brother
-&#38; two Cabindas who were in the storehouse at the 
-time are that on the 9 March a Portuguese
-named Oliveira who had sold Mr. Birnie
-some wood, went into Mr B house to get the payment
-<catchwords>of</catchwords>
+the United States, owing to the imprisonment of
+Mr E A Birnie, Naval Store Keeper for the US 
+Squadron on this Coast. The facts as near 
+as I can <sic>accertain</sic> from Mr Birnie, his Brother,
+&#38; two Cabindas who were in the store house at the 
+time are, that on the 9th March a Portuguese
+named Oliveira who had sold Mr Birnie some
+wood, went into Mr B house to get the payment
+<fw type="catch">of</fw>
+
+<fw type="address">
+<address><addrLine>To the</addrLine>
+<addrLine>Hon. Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine></address>
+</fw>
 
 <pb facs="teaa.en.letter.0019.002"/>
 
 of his account. Mr B told him he would 
 pay if Oliveira would deduct the price of 100
-sticks {value $1.25&#162;} which he had not received.
+Sticks (value $1.25&#162;) which he had not received.
 Oliveira said he could not deduct anything as he
-thought he had delivered the number according to
+thought he had delivered the number, according to
 his bill. Birnie told him he would not pay
-unless Oliveira made the deduction. Oliveira
-being ready to leave for <unclear>Mossamedes</unclear> in the Steamer
+unless Oliveira made the deduction. Oliveira 
+being ready to leave for Mossamedes in the Steamer
 then about to start &#38; not wishing to go before settling
 the Bill began talking very loud &#38; calling
 Birnie harsh names. Birnie then told him to
-leave the office which he refused to do till he
-received his money Birnie sent for the Police
+leave the office which he refused to do 'till he
+received his money. Birnie sent for the Police,
 but they could not come without an order from
-the Chief who was not then to be found. Oliveira
-continued his insulting remarks when Birnie took
-hold of him to put him out when Oliveira struck
-Birnie with his Cane &#38; Birnie returned the blow-
+the Chief, who was not then to be found. Oliveira
+continued his insulting remarks, when Birnie took
+hold of him to put him out, when Oliveira struck
+Birnie with his Cane &#38; Birnie returned the blow.
 several blows passed between them &#38; Oliveira was
 considerably hurt in his head &#38; had his arm broke.
 Oliveira went to the Judge &#38; entered his complaint
-against Birnie &#38; his brother William {who says he
-did not strike Oliveira but only helped his Brother
-Edward put Oliveira out of the room}. Although
-the complaint was made on the 9th March the warrant
-for the arrest of E A and William Bernie was not
-<catchwords>served</catchwords>
+against Birnie &#38; his Brother William (who says he
+did not strike Oliveira, but only helped his Brother
+Edward put Oliveira out of the room) Although
+the complaint was made on the 9th March, the warrant
+for the arrest of E A &#38; Wm Bernie was not
+<fw type="catch">served</fw>
 
 <pb facs="teaa.en.letter.0019.003"/>
 
-served till the 25th __ on which day Mr Birnie 
+served till the 25th. on which day Mr Birnie 
 went to the Judge in company with myself
 in order to get Bail. After an examination
-{part of which was forced &#38; without the aid
-or liberty of obtaining Counsel} Mr B was
-ordered to be taken to prison -which although
-may do to keep Portuguese is not fit for Americans
-in the situation of Mr Birnie in this country.-
-Mr B having been in the habit of corresponding
-with flag officer Inman wrote him that he
-had been ordered to prison &#38; requesting advice
-the flag officer requested me to obtain Counsel
-for Mr B which I did but as yet the Counsel
-has not been able to get Mr B out in bail although
+(part of which was forced &#38; without the aid
+or liberty of obtaining Counsel) Mr B was
+ordered to be taken to prison, which although
+may do to keep Portuguese, is not fit for Americans
+in the situation of Mr Birnie, in this country.
+Mr B, having been in the habit of corresponding
+with flag officer Inman, wrote him that he
+had been ordered to prison &#38; requesting advice.
+The flag officer requested me to obtain Counsel
+for Mr B. which I did, but as yet the Counsel
+has not been able to get Mr B. out on bail, although
 the Doctor has pronounced Oliveira in no
 danger of his life. Several Communications
 have passed between the Governor &#38; flag officer,
 &#38; I now understand flag officer Inman had
-<hi rend="underline">demanded</hi> the release of Mr Birnie by 12 N 
+<hi rend="underline">demanded</hi> the release of Mr Birnie by 12 M 
 this day.</p>
 
 <p>There is considerable excitement on
-board the "Constellation," Portsmouth, Mystic
+board the "Constellation," "Portsmouth," "Mystic"
 &#38; Sumpter" which vessels are now lying in
-this harbor. The San Jacinto left this on
+this harbor. The "San Jacinto" left this on
 the 3rd inst to meet the "Mohican" which latter
 vessel has the Mails from the States via
-<catchwords>England</catchwords>
+<fw type="catch">England</fw>
 
 <pb facs="teaa.en.letter.0019.004"/>
 
@@ -219,20 +238,17 @@ will probably return here by the 10th inst.</p>
 
 <closer><salute>Very Respectfully<lb/>
 Your Obt Servt</salute>
-<signed>John G Willis<lb/>
-U S Com Agency</signed>
+<signed>John G. Willis<lb/>
+US Com. Agenct</signed></closer>
 
-<address><addrLine>To the</addrLine>
-<addrLine>Hon. Secretary of State</addrLine>
-<addrLine>Washington DC</addrLine></address></closer>
-
-<postscript><ab>2 PM</ab>
+<postscript><p>2 PM.</p>
 
 <p>I now learn what I have stated 
-in respect to Mr Birnie being released at 12 N
-this day is without foundation &#38; that the flag
-ship goes to sea tomorrow.</p>
+in respect to Mr Birnie being released at 12 M
+this day is without foundation, &#38; that the "flag
+ship" goes to sea tomorrow.</p>
 </postscript>
+
 </div1>
 </body>
 </text>

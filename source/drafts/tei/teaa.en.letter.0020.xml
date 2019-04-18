@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Slave Trade and Slavery</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +72,15 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Birnie, Edward A.</term>
+<term>Cunningham, Robert</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Lisbon (Portugal)</term>
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda (Angola)</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,27 +95,29 @@
 <term/>
 </keywords>
 
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
-<placeName>St. Paul de Loanda</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1861-04-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName></placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1861-07-05"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-18" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -120,65 +127,66 @@
 
 <pb facs="teaa.en.letter.0020.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
 <note>Recd July 5</note>
+<note>No 14.</note>
 
-<ab>No 14<lb/>
-United States Commercial Agency<lb/>
-Loanda April 29 1861</ab>
+<opener><dateline>United States Commercial Agency<lb/>
+Loanda April 29 1861</dateline></opener>
 
-<p>Sir,<lb/>
-Under date of April 5th I
+<salute>Sir,</salute>
+
+<p>Under date of April 5th I
 had the honor of addressing you under care
-of the U S Minister at Lisbon.</p>
+of the US Minister at Lisbon.</p>
 
 <p>I now enclose Returns from this
 Commercial Agency to the Quarter ending
-March 31 '61. The several accounts &#38;
+March 31, '61. The several accounts &#38;
 certificates I have directed to the Treasury
-Department I have drawn on the Honorable
-Secretary of the Treasury for $223.39
+Department, &#38; have drawn on the Honorable
+Secretary of the Treasury for $223.39&#162;
 being balance of my Salary for that Quarter.</p>
 
-<p>In my Letter of April 5 I informed
+<p>In my Letter of April 5th I informed
 you of the particulars respecting Mr E A 
-Birnie, U S Naval Shopkeeper &#38; have now
-to add that he still remains in Prison without
-as yet any evident signs of a quick
-despatch of his cases by the Judicial author-
-<catchwords>ities</catchwords>
+Birnie, US Naval Shop Keeper, &#38; have now
+to add that he still remains in Prison, without
+as yet, any evident signs of a quick
+despatch of his case by the Judicial author-
+<fw type="catch">ities</fw>
 
+<fw type="address">
+<address><addrLine>To The</addrLine>
+<addrLine>Honorable</addrLine>
+<addrLine>Secretary of State, USA</addrLine></address>
+</fw>
 
 <pb facs="teaa.en.letter.0020.002"/>
 
 ities of this place.</p>
 
-<p>I having received some time since
-Leave of Absence from the State Department
+<p>I having received some time since,
+Leave of Absence from the State Department,
 it is my intention to take passage for Salem
-Mass in a few days &#38; have placed the Business
+Mass. in a few days, &#38; have placed the Business
 relating to the Commercial Agency in charge
-of Mr Robert Cunningham who has been
-recognised as Acting U S Com Agent by
-the Govenor General of this Province.</p>
+of Mr. Robert Cunningham who has been
+recognised as Acting US Coml Agent by
+the Governor General of this Province.</p>
 
 <p>On my arrival at Salem I will
-inform the Department &#38; if required will
+inform the Department, &#38; if required will
 visit Washington in order to give further
 particulars respecting Slave Trade. Imprisonment
 of Mr Birnie &#38; Removal of the
-U S Depot for the African Squadron.</p>
+US Depot for the African Squadron.</p>
 
 <closer><salute>Very Respectfully<lb/>
 Your Obt Servt</salute>
-<signed>John G Willis<lb/>
-U S Com Agent</signed>
-
-<address><addrLine>To the</addrLine>
-<addrLine>Honorable</addrLine>
-<addrLine>Secretary of State U S A</addrLine></address>
-</closer>
+<signed>John G. Willis<lb/>
+US Coml Agent</signed></closer>
 
 </div1>
 

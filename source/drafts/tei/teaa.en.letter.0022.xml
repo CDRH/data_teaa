@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -74,8 +75,9 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda (Angola)</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,27 +92,28 @@
 <term/>
 </keywords>
 
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>Salem, Massachusetts</placeName>
 <date when="1861-07-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-18" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -120,17 +123,17 @@
 
 <pb facs="teaa.en.letter.0022.001"/>
 
-<div1 type="letter">
-
+<div1 type="document" xml:lang="en">
 
 <opener><dateline>Salem Mass July 1, 1861</dateline></opener>
 
-<p>Sir,<lb/>
-I now have the honor to inform 
-you that I have arrived at this Port from St
+<salute>Sir,</salute>
+
+<p>I now have the honor to inform 
+you that I have arrived at this Port from St.
 Paul de Loanda.</p>
 
-<p>By refering to my No 14 enclosed Your
+<p>By <sic>refering</sic> to my No 14 enclosed Your
 Honor will perceive I am on Leave of Absence
 &#38; if it should be the desire of the State or Navy
 Departments that I should proceed to Washington,
@@ -141,14 +144,14 @@ power so to do.</p>
 
 <closer><salute>Very Respectfully<lb/>
 Your Obt Servt</salute>
-<signed>John G willis<lb/>
-U S Com Agent</signed>
+<signed>John G. willis<lb/>
+US Com. Agent</signed></closer>
 
-<address>
-<addrLine>Hon Wm H Seward</addrLine>
+<fw type="address"><address>
+<addrLine>Hon Wm. H Seward</addrLine>
 <addrLine>Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
-</closer>
+</fw>
 
 </div1>
 </body>
