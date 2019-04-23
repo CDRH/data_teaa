@@ -1,82 +1,120 @@
-<?xml version="1.0" encoding="utf-8"?> <?oxygen
-RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.
-3.0.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0022">
 
-<teiHeader> <fileDesc> <titleStmt> <title>Dispatch from John G. Willis
-to William H. Seward, July 1, 1861</title> <principal n="Jones,
-Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal> <respStmt>
-<resp>transcription and encoding</resp> <name n="Nash, Kaci L."
-xml:id="kln">Kaci L. Nash</name> <name n="Schirf, Kayla"
-xml:id="ks">Kayla Schirf</name> <name n="Weakly, Laura K."
-xml:id="lkw">Laura Weakly</name> </respStmt> </titleStmt>
+<teiHeader> 
+<fileDesc> 
+<titleStmt> 
+<title>Dispatch from John G. Willis to William H. Seward, July 1, 1861</title> 
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal> 
+<respStmt>
+<resp>transcription and encoding</resp> 
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> 
+<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name> 
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name> 
+</respStmt> 
+</titleStmt>
 
-<editionStmt> <edition> <date>2018</date> </edition> </editionStmt>
+<editionStmt>
+<edition>
+<date>2018</date>
+</edition>
+</editionStmt>
 
-<publicationStmt> <authority>"To Enter Africa from America"</authority>
-<publisher>University of Nebraska-Lincoln</publisher> <distributor>
-<name>Center for Digital Research in the Humanities</name> <address>
-<addrLine>319 Love Library</addrLine> <addrLine>University of
-Nebraska–Lincoln</addrLine> <addrLine>Lincoln, NE 68588-4100</addrLine>
-<addrLine>cdrh@unl.edu</addrLine> </address> </distributor> <idno
-type="project">teaa.en.letter.0022</idno> <availability>
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0022</idno>
+<availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
-<p>Licensed under a Creative Commons
-Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives
-must be credited to To Enter Africa from America, made available
-non-commercially, and distributed under the same terms. Requests for
-permission for commercial publication or other use should be emailed to
-the project team.</p> </availability> </publicationStmt>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
 
-<sourceDesc> <bibl> <title level="a">Dispatch from John G. Willis to
-William H. Seward</title> <date when="1861-07-01">July 1, 1861</date>
-<title level="m" type="microformat">Despatches from United States
-consuls in St. Paul de Loanda, 1854-1893</title> <publisher>United
-States Department of State</publisher> <biblScope
-unit="roll">1</biblScope> </bibl> </sourceDesc> </fileDesc>
+<sourceDesc> 
+<bibl> 
+<title level="a">Dispatch from John G. Willis to William H. Seward</title> 
+<date when="1861-07-01">July 1, 1861</date>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">1</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
 
-<profileDesc> <langUsage> <language ident="en">English</language>
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
 </langUsage>
 
-<textClass> <keywords scheme="original" n="theme"> <term>Commerce and
-Trade</term> </keywords>
-
-<keywords scheme="original" n="type"> <term>Texts</term> </keywords>
-
-<keywords scheme="original" n="subtype"> <term>Correspondence</term>
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Commerce and Trade</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
 </keywords>
 
-<keywords scheme="viaf" n="people"> <term/> </keywords>
-
-<keywords scheme="original" n="places"> <term>Salem (Mass.)</term>
-<term>St. Paul de Loanda (Angola)</term>
-<term>Washington (D.C.)</term> </keywords>
-
-<keywords scheme="original" n="ethnic_group"> <term/> </keywords>
-
-<keywords scheme="original" n="language"> <term>English</term>
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
-
-<keywords scheme="original" n="religion"> <term/> </keywords>
+    
+<keywords scheme="original" n="places">
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda</term>
+<term>Washington (D.C.)</term>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
 
 </textClass>
 
-<correspDesc> <correspAction type="sentBy"> <persName>Willis, John
-G.</persName> <roleName>U.S. Commercial Agent for Loanda</roleName>
-<placeName>Salem, Massachusetts</placeName> <date when="1861-07-01"/>
-</correspAction> <correspAction type="deliveredTo"> <persName
-ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry),
-1801-1872</persName> <roleName>U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName> </correspAction> </correspDesc>
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Willis, John G.</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>Salem, Massachusetts</placeName>
+<date when="1861-08-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+</correspAction>
+</correspDesc>
 
 </profileDesc>
 
-<revisionDesc> <<<<<<< HEAD <change when="2019-04-18" who="kln">Reviewed
-and edited encoding.</change> 
-<change when="2018" who="lkw">Creation of individual xml files, review,
-and addition encoding</change> <change when="2017"
-who="ks">Transcription and initial encoding</change> </revisionDesc>
+<revisionDesc>
+<change when="2019-04-18" who="kln">Reviewed and edited encoding.</change>
+<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
+<change when="2017" who="ks">Transcription and initial encoding</change>
+</revisionDesc>
 </teiHeader>
 
 <text>
@@ -91,11 +129,12 @@ who="ks">Transcription and initial encoding</change> </revisionDesc>
 
 <salute>Sir,</salute>
 
-<p>I now have the honor to inform <<<<<<< HEAD you that I have arrived
-at this Port from St. Paul de Loanda.</p>
+<p>I now have the honor to inform 
+you that I have arrived at this Port from St. 
+Paul d Loanda.</p>
 
-<p>By <sic>refering</sic> to my No 14 enclosed, Your Honor will perceive
-I am on Leave of Absence,
+<p>By <sic>refering</sic> to my No 14 enclosed, Your 
+Honor will perceive I am on Leave of Absence,
 &#38; if it should be the desire of the State or Navy Departments that I
 should proceed to Washington, I will on receipt of Instructions to that
 effect at once avail myself of the opportunity to impart such
@@ -104,9 +143,14 @@ information as it may be in my power so to do.</p>
 <closer><salute>Very Respectfully<lb/> Your Obt Servt</salute> 
 <signed>John G. Willis<lb/> US Coml Agent</signed></closer>
 
-<fw type="address"><address> <addrLine>Hon Wm. H Seward</addrLine>
-<addrLine>Secretary of State</addrLine> <<<<<<< HEAD
-<addrLine>Washington D.C.</addrLine></address> </fw> 
-</div1> </body> </text>
+<fw type="address"><address> 
+<addrLine>Hon Wm. H Seward</addrLine>
+<addrLine>Secretary of State</addrLine> 
+<addrLine>Washington D.C.</addrLine>
+</address></fw> 
+
+</div1> 
+</body> 
+</text>
 
 </TEI>

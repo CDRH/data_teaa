@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -74,8 +75,8 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +91,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Cunningham, Robert</persName>
+<roleName>Acting U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1862-01-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1862-04-26"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +111,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-23" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,33 +123,36 @@
 
 <pb facs="teaa.en.letter.0028.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note><unclear/>Recd Apr 26</note>
+<note>Recd Apr 26</note>
 
 <opener><dateline>United States Commercial Agency<lb/>
 Loanda 9th January 1862</dateline></opener>
 
-<p>Sir,<lb/>
-I have had the honor to
+<salute>Sir</salute>
+
+<p>I have had the honor to
 receive your Circular Despatch dated
 Washington 28th August, referring me to
 the Oath of Allegiance passed by an Act
 of Congress and approved the <sic>6st</sic> Inst. to
-each and every Officer, Clerk, or Employe
+each and every Officer, Clerk, or Employé
 now in their respective Departments:
-To the said act I have complied and
+To the said act I have complied; and
 enclose it herewith.</p>
 
 <closer><salute>Very Respectfully<lb/>
 Your Obdt Servant</salute>
 <signed>Robert Cunningham<lb/>
-Acting U.S. Com Agent</signed>
+Acting U.S. Coml Agent</signed></closer>
 
-<address><addrLine>The Honble</addrLine>
-<addrLine>W H Seward</addrLine>
+<fw type="address"><address>
+<addrLine>The Honble</addrLine>
+<addrLine>W. H. Seward</addrLine>
 <addrLine>Secty of State</addrLine>
-<addrLine>D. C.</addrLine></address></closer>
+<addrLine>D.C.</addrLine>
+</address></fw>
 
 </div1>
 </body>

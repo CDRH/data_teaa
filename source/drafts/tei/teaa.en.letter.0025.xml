@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,11 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,27 +90,28 @@
 <term/>
 </keywords>
 
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Cunningham, Robert</persName>
+<roleName>Acting U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1861-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-23" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -118,17 +119,18 @@
 
 <body>
 
-<pb facs="teaa.en.letter.40007-2"/>
+<pb facs="teaa.en.letter.0025.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Recd 19 <unclear/></note>
+<note>Recd 19 Dec</note>
 
-<opener><dateline>United States Commercial Agency<lb/>
+<opener><dateline>United States Commercial Agency.<lb/>
 Loanda 30th September 1861</dateline></opener>
 
-<p>Sir<lb/>
-Herewith I enclose Returns
+<salute>Sir</salute>
+
+<p>Herewith I enclose Returns
 from this Commercial Agency for the
 Quarter ending 30th September 1861.
 The several accounts and Certificates
@@ -138,20 +140,23 @@ Honorable Secretary of the Treasury for
 $205. 84/100 being balance of my Salary 
 for that Quarter.</p>
 
-<p>I have the honor to 
-acknowledge receipt of Despatches
-of 16 &#38; 17th July last addressed to
-J. G. Willis Esq having Reference to
+<p>I have the honor 
+to acknowledge receipt of Dispatches
+of 16th &#38; 17th July last addressed to
+J. G. Willis Esq. having reference to
 Salary and Consular fees.</p>
 
 <closer><salute>Very Respectfully<lb/>
 Your Obdt Servant</salute>
 <signed>Robert Cunningham<lb/>
-acting U S Com Agent</signed>
+Acting US Coml Agent</signed></closer>
 
-<address><addrLine>To the Honble</addrLine>
-<addrLine>W H Seward</addrLine>
-<addrLine>Secretary of State</addrLine></address></closer>
+<fw type="address"><address>
+<addrLine>To the Honble</addrLine>
+<addrLine>W. H. Seward</addrLine>
+<addrLine>Secty of State.</addrLine>
+</address></fw>
+
 </div1>
 </body>
 </text>

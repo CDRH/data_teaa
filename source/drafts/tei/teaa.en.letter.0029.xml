@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,27 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Borges, John</term>
+<term>Fields, Lucius</term>
+<term>Henry, James</term>
+<term>Maxwell, William K.</term>
+<term>Rees, Benjamin</term>
+<term>Sampson, Anthony Field</term>
+<term>Symonds, John</term>
+<term>Thackster, John</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Baltimore (Md.)</term>
+<term>Bath (England)</term>
+<term>Boston (Mass.)</term>
+<term>Bristol (England)</term>
+<term>Brunswick (Me.)</term>
+<term>England</term>
+<term>New York</term>
+<term>Portugual</term>
+<term>St. Paul de Loanda</term>
+<term>Suffolk County (Mass.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +106,28 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Cunningham, Robert</persName>
+<roleName>Acting U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1862-03-13"/>
 </correspAction>
 <correspAction>
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-23" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,63 +137,68 @@
 
 <pb facs="teaa.en.letter.0029.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Recd 26 <unclear>May</unclear></note>
+<note>Recd 26 May</note>
 
-<opener>No 25<lb/>
-<dateline>United States Commercial Agency<lb/>
+<note>No 25</note>
+
+<opener><dateline>United States Commercial Agency<lb/>
 at Loanda 13th March 1862</dateline></opener>
 
-<p>Sir,<lb/>
-In compliance to Instructions
+<salute>Sir,</salute>
+
+<p>In compliance to Instructions
 Chap 19 &#167; 315 I have transmitted
 to the Department of State copies of
 an original correspondence I had
 the honor to forward to the United
 State Attorney of the County of
-Suffolk Mass having reference to
+Suffolk Mass, having reference to
 the murder recently took place
 on board the American Ship "Clara
 L. Preble"</p>
 
-<closer>
-<salute>Very respectfully<lb/>
+<closer><salute>Very respectfully<lb/>
 Your Obdt Servant</salute>
 <signed>Robert Cunningham<lb/>
-Actg U S Com Agt</signed>
+Actg US Coml Agt</signed></closer>
 
-<address><addrLine>To the Honble</addrLine>
-<addrLine>W H Seward</addrLine>
+<fw type="address"><address>
+<addrLine>To the Honble</addrLine>
+<addrLine>W. H. Seward</addrLine>
 <addrLine>Secretary of State</addrLine>
-<addrLine>&#38;c &#38;c &#38;c</addrLine></address></closer>
+<addrLine>&#38;c &#38;c &#38;c</addrLine>
+</address></fw>
+
 </div1>
 
 <pb facs="teaa.en.letter.0029.002"/>
 
-<div1 type="affadavits">
+<div1 type="document" xml:lang="en">
+
 <note>True Copy</note>
 
-<p>Affadavit of Witnesses taken by
+<p>Affidavit of Witnesses taken by
 Robert Cunningham Acting United
 States Commercial Agent at Loanda
 for the Murder of Lucius Fields by
 John Borges both Seamen on board the
-American Ship "Clara L. Preble" of Bath
-Mr William K Maxwell Master.</p>
+American Ship "Clara L Preble" of Bath
+Mr William K. Maxwell Master</p>
 
-<p>1st Witness William K Maxwell
-Master of Ship "Clara L. Preble".</p>
+<p>1st Witness William K. Maxwell
+Master of Ship "Clara L Preble."</p>
 
 <p>On Sunday
 2 March 1862 John Borges American
 Citizen with Lucius Fields and three
 others was on shore, gave them liberty
-until 6 O'Clock P.M. a little over their
+until 6 o'clock P.M. a little over their
 time they came back to the Boat
 together being in liquor went on board
 the Ship "Clara L. Preble" and went to the
-forecastle about half an hour after I was
+forecastle, about half an hour after, I was
 called by the mate, saying there is a
 quarrel in the forecastle and having
 Knives out, I immediately went to
@@ -193,19 +211,19 @@ the deceased with a Razor in his
 hand being stabbed in the left breast
 bleeding freely I asked John Borges for
 the Knife he immediately gave it to me
-I also asked the deceased to give me his
-razor he refused was obliged to take it
+I also asked the deceased to give me the
+Razor he refused, was obliged to take it
 from him by force, soon after I saw
 him lying on the deck, I gave orders for
 him to be taken up and carried to the
 forecastle I sent for the Doctor from the
-Portuguese Steamer "Zaire" then Coaling
-from my Ship and he was of the opinion that
-the Stab was mortal, I went aft and
+Portuguese Steamer "Zaire," then Coaling
+from my Ship and he was of opinion that
+the Stab was mortal; I went aft and
 then came forecastle in a few minutes,
 the man was still alive I went aft again
 and shortly after was told that he was
-dead during the voyage I have no reason
+dead: during the voyage I have no reason
 to suppose any ill feeling existed 
 between the prisoner and deceased 
 previously that should lead him to
@@ -213,16 +231,15 @@ commit the assault nor was he a
 disorderly man nor was the deceased 
 after the deceased had been stabbed he
 threatened to cut the prisoner being very
-much intoxicated.</p>
+much intoxicated</p>
 
-<p>(Signed) Wm K Maxwell of Brunswick
-Maine Master Ship "Clara L. Preble"</p>
+<p>(Signed) Wm K Maxwell of Brunswick Maine<lb/>
+Master Ship "Clara L. Preble"</p>
 
 <pb facs="teaa.en.letter.0029.004"/>
 
-
-<p>2d Witness Anthony F. Sampson British
-Subject, Chief Officer Ship "Clara L. Preble"</p>
+<p>2d Witness. Anthony F. Sampson British
+Subject, Chief Officer Ship "Clara L. Preble</p>
 
 <p>Prisoner and deceased
 went on shore with Captain Maxwell and
@@ -230,14 +247,14 @@ returned on board a little after Sun Set,
 the Carpenter Benjamin Rees reported to me
 that two of the men were quarrelling in the
 forecastle I went foreward and saw the
-brandishing and open Razor and swore that
+brandishing an open Razor and swore that
 he would cut any person who interfered
-or came near near him using at the same
+or came near him using at the same
 time very abusive language: the prisoner
 asked me to take him away or he should
 hurt him I could not say whether the
 prisoner had or had not a Knife in his hand
-I went and reported to Captain Maxwell that,
+I went and reported to Captain Maxwell that
 the men were quarreling the Captain then
 came foreward and went into the forecastle
 Witness and Carpenter Benjamin Rees
@@ -254,23 +271,22 @@ him down, the Captain sent for the Doctor
 of Steamer "Zaire" then Coaling from us, I
 asked the prisoner if he was sorry for what
 he did, he replied no and would do it again
-dam him let him die like a dog and I
+dam him, let him die like a dog and I
 will hang like a man, Witness said you
 have done this under the influence of Liquor
 and tomorrow you will be sorry for it
-prisoner, replied and said I am perfectly
+prisoner replied and said I am perfectly
 sober. I have no reason to suppose any
 ill feeling existed between the deceased
 and prisoner previously.</p>
 
-<p>(Signed) Anthony Field Sampson of Bristol
+<p>(Signed) Anthony Field Sampson of Bristol<lb/>
 Resident of New York, Chief
-Officer Ship "Clara L. Preble".</p>
+Officer Ship "Clara L. Preble.</p>
 
 <pb facs="teaa.en.letter.0029.006"/>
 
-
-<p>3 Witness Benjamin Rees British
+<p>3. Witness Benjamin Rees British
 Subject Carpenter Ship "Clara L. Preble"</p>
 
 <p>Prisoner Came aft and
@@ -282,21 +298,20 @@ Captain and mate went foreward, I also
 followed I then saw the deceased with a
 Razor in his hand, and also noticed that
 he had been stabbed I forced the Razor
-out of the decased hand, the Captain then
+out of the deceased hand, the Captain then
 sent for medical aid from the Steamer
 "Zaire" then Coaling from the Ship the
 Doctor announced the Stab mortal, and
 within half an hour the deceased received the 
-wound he died.  I do not know whether any
+wound he died. I do not know whether any
 ill feeling existed between the prisoner and
 deceased previous the latter was intoxicated</p>
 
-<p>(signed) Benjamin Rees of Bristol Hot Wells
-8 Victoria Place England
-Carpenter of Ship "Clara L. Preble".</p>
+<p>(signed) Benjamin Rees of Bristol Hot Wells<lb/>
+8 Victoria Place, England<lb/>
+Carpenter of Ship "Clara L. Preble."</p>
 
 <pb facs="teaa.en.letter.0029.007"/>
-
 
 <p>4th Witness James H Hawkins
 American Citizen Seamen of Ship
@@ -315,21 +330,20 @@ Razor and made two cuts on prisoners
 left thumb (on his examination were visible) 
 prisoner reached to a bunk and then with a
 knife in his hand stabbed the deceased in
-his left side, I then left the forecastle: I 
-saw the surgeon of the Steamer "Zaire"
+his left side, I then left the forecastle. I 
+saw the Surgeon of the Steamer "Zaire"
 there; shortly after saw Lucius Fields
-dead. Knew of no ill feeling existing between
+dead: Knew of no ill feeling existing between
 the deceased and prisoner I am not aware
 if they were sober or not.</p>
 
-<p>(Signed) James H <add place="above">his</add>&#8224;<add place="below">mark</add> Hawkins of Balt
-Maryland Federal Hall Chas St U.S.A
+<p>(Signed) James H. <add place="above">his</add>&#8224;<add place="below">mark</add> Hawkins of Balt
+Maryland Federal Hill Chas St USA<lb/>
 Seaman Ship "Clara L. Preble"</p>
 
 <pb facs="teaa.en.letter.0029.008"/>
 
-
-<p>1 Ques by Prisoner</p>
+<p>1 Ques: by Prisoner.</p>
 
 <p>2. Did you hear me ask the mate to
 take the deceased out of the forecastle?</p>
@@ -340,18 +354,18 @@ to do with the deceased who was still
 brandishing the Razor</p>
 
 <p>(Signed) James H <add place="above">his</add>&#8224;<add place="below">mark</add> Hawkins of Balt.
-Maryland Federal Hall Chas St U.S.A</p>
+Maryland Federal Hill Chas St U.S.A</p>
 
-<p>5th Witness John Symonors Navigator
-Island Seaman Ship "Clara L.Preble".</p>
+<p>5th Witness. John Symonds Navigator<lb/>
+Island Seaman Ship Clara L Preble.</p>
 
 <p>Witness spoke English extremely
-imperfectly but <sic>courborated</sic> all the main
+imperfectly but corroborated all the main
 points of the previous evidence as far as
 could be possibly understood.</p>
 
 <p>(Signed) John <add place="above">his</add>&#8224;<add place="below">mark</add> native South Sea
-Islands, Seamen Ship "Clara L. Preble"</p>
+Island, Seamen Ship "Clara L Preble"</p>
 
 <pb facs="teaa.en.letter.0029.009"/>
 
@@ -367,7 +381,7 @@ Razor is positive that it was opened I
 left my seat when he was brandishing
 the Razor for fear of getting cut, prisoner
 came in at the time, deceased addressing
-him saying, I will cut the liver out of
+him, saying, I will cut the liver out of
 you, the prisoner said go away my man I
 dont want speak with you, you are in liquor
 to night tomorrow morning if you
@@ -377,10 +391,10 @@ he held out his hand to the deceased
 and said see how you have cut me, one
 of the Crew James Henry came into the
 forecastle and persuaded the prisoner to
-leave him in hopes the deceased would
+leave him, in hopes the deceased would
 go to sleep. Witness thinks the prisoner
 remained out about half an hour, he then
-came in leaning over his bunk, the deceased
+came in, leaning over his bunk, the deceased
 
 <pb facs="teaa.en.letter.0029.010"/>
 
@@ -388,15 +402,15 @@ deceased still abusing him and laid
 hold of him with the Razor still opened in 
 his hands prisoner said leave me alone I
 dont want to have anything to do with you
-we will settle it in the morning
-prisoner then went following the deceased the
+we will settle it in the morning prisoner 
+then went followed by the deceased the
 latter still holding the Razor open in his
 hand, they went out by the Starboard
 door and both entered the forecastle again
-by the Port door the deceased continued
+by the Port door, the deceased continued
 the same irritating abusive and threatening
 language, prisoner asked John
-Symonds to lend him his Knife to cut
+Symonds to lend him his knife to cut
 some meat the deceased continued in
 the same manner abusing and brandishing
 the Razor: when the prisoner stabbed the
@@ -406,18 +420,18 @@ assistance was immediately sent for
 he survived only about half an hour, I
 have no reason to suppose any ill feeling
 existed between the deceased and prisoner
-when the prisoner went out as before <unclear></unclear>
-he came back with his knife, the knife
-<catchwords>tried</catchwords>
+when the prisoner went out as before stated
+he came back with the mate, the mate
+<fw type="catch">tried</fw>
 
 <pb facs="teaa.en.letter.0029.011"/>
 
 tried to pacify the deceased but 
 quite unable to do so.</p>
 
-<p>(signed) John Thackster of Boston Mass
-Seaman of Ship "Clara L. Preble"</p>
-
+<p>(signed) John Thackster of Boston Mass<lb/>
+Seaman of Ship "Clara L. Preble.")</p>
+<!-- start here -->
 <p>7th Witness William Boston American
 Citizen Seaman of Ship "Clara L. Preble".</p>
 

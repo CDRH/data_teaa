@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,12 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Essex, George S.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,27 +91,28 @@
 <term/>
 </keywords>
 
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Cunningham, Robert</persName>
+<roleName>Acting U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1861-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <orgName>Department of State</orgName>
-<placeName>Washington, D. C.</placeName>
+<placeName>Washington, D.C.</placeName>
+<date when="1861-12-19"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-23" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -120,30 +122,35 @@
 
 <pb facs="teaa.en.letter.0026.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Recd 19 <unclear/></note>
+<note>Recd 19 Dec</note>
 
-<ab>United States Commercial Agency<lb/>
-Loanda 30th September 1861</ab>
+<opener><dateline>United States Commercial Agency<lb/>
+Loanda 30th September 1861</dateline></opener>
 
-<p>Sir<lb/>
-I have the honor to acquaint
-you that the United States Commercial
+<salute>Sir</salute>
+
+<p>I have the honor to acquaint
+you, that the United States Commercial
 Agency at Loanda require the
 undermentioned viz
-forms Nos. 8 and 14 also Flag and
+Forms Nos. 8 and 14, also Flag and
 Stationary</p>
-<p>Very Respectfully<lb/>
-Your Obdt Servant<lb/>
-Robert Cunningham<lb/>
-Acting U S Com Agent</p>
 
-<fw>To the<lb/>
-Department of State<lb/>
-Washington D.C.</fw>
-<ab>I certify to the Above<lb/>
-George S. Essex</ab>
+<closer><salute>Very Respectfully<lb/>
+Your Obdt Servant</salute>
+<signed>Robert Cunningham<lb/>
+Acting US Coml Agent</signed></closer>
+
+<fw type="address"><address>
+<addrLine>To the</addrLine>
+<addrLine>Department of State</addrLine>
+<addrLine>Washington D.C.</addrLine>
+</address></fw>
+
+<note>I certify to the above<lb/>
+George S. Essex</note>
 
 </div1>
 </body>
