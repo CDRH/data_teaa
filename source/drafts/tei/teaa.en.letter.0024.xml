@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,9 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,18 +92,19 @@
 <term/>
 </keywords>
 
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>Salem, Massachusetts</placeName>
 <date when="1861-09-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1861-09-11"/>
 </correspAction>
 </correspDesc>
@@ -109,9 +112,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-22" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -121,24 +124,23 @@
 
 <pb facs="teaa.en.letter.0024.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Rec 11 Sept</note>
-<note>Ansd 12 Sept</note>
+<note>Rec 11 Septr</note>
+<note>Ansd 12 "</note>
 <note>Mr Abbott<lb/>
 Loanda</note>
 
-<note>Sept 19th sent Stationary &amp; forms</note>
-
 <opener><dateline>Salem Mass<lb/>
-Sept 9 1861</dateline></opener>
+Sept 9, 1861</dateline></opener>
 
-<p>Sir,<lb/>
-I last wrote your Honor under date
-of August 14th informing you that the U S Commercial
-Agency at St Paul de Loanda was very much
+<salute>Sir</salute>
+
+<p>I last wrote your Honor under date
+of August 14th informing you that the US Commercial
+Agency at St Paul d Loanda was very much
 in want of a flag &#38; Sign, &#38; requesting they might
-be sent to my care at Salem for me to foward.</p>
+be sent to my care at Salem for me to forward.</p>
 
 <p>I now have to inform you that the Barks
 "Ann &#38; Mary" belonging to Brookhouse &#38; Co of this place

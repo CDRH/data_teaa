@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,9 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -95,22 +97,23 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>Salem, Massachusetts</placeName>
 <date when="1861-08-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
-<date when="1861-09-16"/>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-22" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -120,18 +123,16 @@
 
 <pb facs="teaa.en.letter.0023.001"/>
 
-<div1 type="letter">
-
-<note>Recd <unclear/> and 16 Sept</note>
-<note>St. Paul de Loanda</note>
+<div1 type="document" xml:lang="en">
 
 <opener><dateline>Salem Mass<lb/>
 August 14 1861</dateline></opener>
 
-<p>Sir<lb/>
-Under Date of July 1, I
+<salute>Sir</salute>
+
+<p>Under Date of July 1st, I
 informed Your Honor that I had returned from
-St Paul Loanda on Leave of Absence &#38; at same
+St Paul d Loanda on Leave of Absence, &#38; at same
 date sent my Returns for the Quarter ending March
 31st 1861.</p>
 
@@ -143,15 +144,13 @@ their proper destination.</p>
 
 <closer><salute>Very Respectfully<lb/>
 Your Obt Servt</salute>
-<signed>John G Willis<lb/>
-U S Com Agency</signed>
+<signed>John G. Willis<lb/>
+US Coml Agency</signed></closer>
 
-<address><addrLine>Hon Wm H Seward</addrLine>
+<fw type="address"><address><addrLine>Hon Wm H Seward</addrLine>
 <addrLine>Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
+<addrLine>Washington D.C.</addrLine></address></fw>
 
-<note><unclear/> sent Sept 12 Large &amp; Small <unclear/> Form</note></closer>
-<note>A <unclear/> ordered sent G. L. B.</note>
 </div1>
 </body>
 </text>
