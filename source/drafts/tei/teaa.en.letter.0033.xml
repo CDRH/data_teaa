@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +90,26 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Cunningham, Robert</persName>
+<roleName>Acting U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1862-03-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName></placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-24" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,35 +119,39 @@
 
 <pb facs="teaa.en.letter.0033.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
 <note>Recd <unclear>July</unclear> 19</note>
 
-<opener><dateline>No. United States Commercial Agency at<lb/>
+<opener><dateline>United States Commercial Agency at<lb/>
 Loanda 31st March 1862</dateline></opener>
 
-<p>Sir,<lb/>
-Herewith I enclose Returns
-from this Commercial Agency for the
-Quarter ending 31st March 1862.</p>
+<salute>Sir</salute>
 
-<p>The several accounts and
+<p>Herewith I enclose Returns
+from this Commercial Agency for the
+Quarter ending 31st March 1862</p>
+
+<p>The several Accounts and
 Certificates I have directed to the
 Treasury Department and have drawn
 on the Honble Secretary of the Treasury
-for $232 87/100 being balance of my Salary
+for $232. 87/100 being balance of my Salary
 for that Quarter.</p>
 
 <closer><salute>Very Respectfully<lb/>
-your Obdt Servant</salute>
+Your Obdt Servant</salute>
 <signed>Robert Cunningham<lb/>
-Actg U. S. Consul Agt</signed>
+Actg U.S. Coml Agt</signed></closer>
 
-<address><addrLine>The Honble</addrLine>
-<addrLine>W. H. Seward</addrLine>
+<fw type="address"><address>
+<addrLine>The Honble</addrLine>
+<addrLine>W H Seward</addrLine>
 <addrLine>Secretary of State</addrLine>
-<addrLine>U. S. America</addrLine></address>
-</closer>
+<addrLine>&amp;c &amp; &amp;</addrLine>
+<addrLine>U.S. America</addrLine>
+</address></fw>
+
 </div1>
 </body>
 </text>

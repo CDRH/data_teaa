@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,17 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Andrews, S. A.</term>
+<term>Cunningham, Robert</term>
+<term>Sumner, Charles, 1811-1874</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Africa</term>
+<term>Albion (N.Y.)</term>
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,11 +96,6 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
@@ -105,7 +106,8 @@
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1862-05-02"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +115,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-24" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,61 +127,61 @@
 
 <pb facs="teaa.en.letter.0034.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Redc <del>Ap</del> May 24</note>
+<note>Redc <del>Ap.</del> May 24</note>
 <note>Mr Abbott</note>
 
 <opener><dateline>Salem Mass<lb/>
-April 30 1862</dateline></opener>
+April 30, 1862.</dateline></opener>
 
-<p>Sir<lb/>
-I have the honor to acknowledge
+<salute>Sir,</salute>
+
+<p>I have the honor to acknowledge
 the receipt of yours of the 28 inst making the
-enquiry if Mr R Cunningham is authorised to draw
-Drafts on your Department to the compensation provided
-for the Agency &#38;c to which I have to reply
+enquiry if "Mr R Cunningham is authorised to draw
+Drafts on "your" Department to the compensation provided
+for the Agency &#38;c", to which I have to reply
 in the affirmative.</p>
 
 <p>I have now to respectfully
-request you to inform me whether I have been superceded
-in the office of U S Coml Agent at St Paul de
+request you to inform me whether I have been superseded
+in the office of US Coml Agent at St Paul d
 Loanda. My reasons for which I trust you will
-excuse as during the month of January last I received
-a Letter from Mr S A Andrews of Albion. Orange
-Co New York stating he had been appointed U S
+excuse, as during the month of January last I received
+a Letter from Mr S A Andrews of Albion, Orange
+Co New York, stating he had been appointed U.S.
 Coml Agent in my stead. After some correspondence
 he offered to resign the office on certain conditions to
 part of which I complied. I now learn from him that
-he misunderstood my purpose &#38; that he intended going 
+he misunderstood my purpose &#38; that he intends going 
 to Africa.</p>
 
 <p>Several months since I was in Washington 
-&#38; handed a Letter to Hon <unclear>Chas Sumner</unclear> who informed
-<catchwords>me</catchwords>
+&#38; handed a Letter to Hon Chas. Sumner, who informed
+<fw type="catch">me</fw>
 
-<pb facs="teaa.en.letter.50006-2"/>
+<fw type="address"><address>
+<addrLine>F. W. Seward Esq</addrLine>
+<addrLine>Assistant Secretary State Department</addrLine>
+<addrLine>Washington D.C.</addrLine>
+</address></fw>
 
-me he would give it his attention which led me to presume
+<pb facs="teaa.en.letter.0034.002"/>
+
+me he would give it his attention, which led me to presume,
 that as I had always to the best of my knowledge given satisfaction 
 to the several Administrations during the time I 
-held the office that as it was a place where I was well &#38; favorably
+held the office, that as it was a place where I was well &#38; favorably
 known that I would still sustain it.</p>
 
 <p>As the only notice I have received of my Removal comes 
-from Mr Andrews will you please inform me if the same is 
+from Mr Andrews, will you please inform me if the same is 
 correct.</p>
 
 <closer><salute>I have the honor to be<lb/>
 Your Obt Servt</salute>
-<signed>John G Willis</signed>
-
-<address><addrLine>F. W. Seward Esq</addrLine>
-<addrLine>Assistant Secretary State Department</addrLine>
-<addrLine>Washington DC</addrLine></address>
-
-</closer>
-
+<signed>John G. Willis.</signed></closer>
 
 </div1>
 </body>
