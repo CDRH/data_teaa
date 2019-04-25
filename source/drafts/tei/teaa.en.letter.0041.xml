@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,16 +90,12 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Cunningham, Robert</persName>
+<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1862-12-31"/>
 </correspAction>
@@ -112,9 +108,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,34 +120,37 @@
 
 <pb facs="teaa.en.letter.0041.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Recd Asd</note>
+<note>Recd <unclear>Ap</unclear> 6</note>
+<note>No 15</note>
 
-<opener><dateline>No 15 United States Commercial Agency<lb/>
+<opener><dateline>United States Commercial Agency<lb/>
 at Loanda 31st December 1862</dateline></opener>
 
-<p>Sir<lb/>
-Herewith I enclose Returns from
+<salute>Sir</salute>
+
+<p>Herewith I enclose Returns from
 this Commercial Agency for the Quarter
-ending 31st December 1862.</p>
-<p>The several accounts and 
+ending 31st December 1862</p>
+
+<p>The several Accounts and 
 Certificates I have directed to the Treasury 
 Department and have drawn on the 
 Honble Secty of the Treasury for 240 83/100
 Dollars being balance of my Salary for 
-that Quarter.</p>
+that Quarter</p>
 
 <closer><salute>Very respectfully<lb/>
 Your Obdt Servant<lb/>
-Vice Consul Agent</salute>
+Vice Coml Agent</salute></closer>
 
-<address><addrLine>To the Honble</addrLine>
+<fw type="address"><address>
+<addrLine>To the Honble</addrLine>
 <addrLine>W H Seward</addrLine>
-<addrLine>Washington D C</addrLine>
-<addrLine>U S A</addrLine>
-</address>
-</closer>
+<addrLine>Washington D.C.</addrLine>
+<addrLine>USA</addrLine>
+</address></fw>
 
 </div1>
 </body>

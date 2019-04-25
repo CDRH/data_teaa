@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -74,8 +75,11 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Africa</term>
+<term>New York (N.Y.)</term>
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +94,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Bradberry, John L.</persName>
-<placeName>Washington, D. C.</placeName>
+<persName>Bradberry, John T.</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1863-03-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName></placeName>
+<roleName>U.S. Secretary of State</roleName>
 <date when="1863-03-20"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +113,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,58 +125,58 @@
 
 <pb facs="teaa.en.letter.0044.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
 <note>Recd March 20</note>
-<note>Ad " 21 </note>
-<note><unclear/></note>
+<note>As " 21 </note>
 
 <opener><dateline>Washington D.C. March <unclear>11th</unclear> 1863</dateline></opener>
 
-<p>Sir,<lb/>
-On the third day of March 1863.
+<salute>Sir,</salute>
+
+<p>On the third day of March 1863.
 I had the Honor of receiving the notice of my
 appointment as Commercial Agent at 
-"St-Paul de Loanda Africa" said appointment
+"St Paul De Loanda Africa" said appointment
 Dated February 21st 1863, together with the 
-"Regulations of U S Consulate" and blanks 
-appertaining to said appointment.</p>
+"Regulations of U.S. Consulate" and blanks 
+appertaining to said appointment;</p>
 
 <p>I now have the Honor to notify you 
-of my acceptance of that Office and of my 
+of my acceptance of that Office, and of my 
 readiness to leave for Africa in the first 
-vessel that sails for the Port of St Paul
-and according to present advices will leave 
+vessel that sails for the Port of St Paul.
+And according to present advices will leave 
 Salem Mass about or before the first of 
 May next; Be kind enough to grant
-Me a Passport and Certificate as soon
-as practicable that I may be in a position 
+me a Passport and Certificate as soon
+as practicable; that I may be in a position 
 to leave at an earlier day than above
-indicated should an opportunity occur.</p>
+indicated, should an opportunity occur.</p>
 
-<p>I also have the Honor to communicate 
-to the Department that I was born in the
-city of New York, was
+<p>I also Have the Honor to communicate 
+to the Department that I was Born in the
+City of New York, State of N.Y. was
 appointed from the state of Maryland
 and have never Resided in Portugal or 
-any of its dependencies</p>
+any of its Dependencies.</p>
 
 <p>Enclosed please find the Oath marked
 No. 1 also the Official Bond marked No 2
-which I trust will receive your approbation.</p>
+which I trust will receive your approbation</p>
 
 <closer><salute>I am Sir Respectfully<lb/>
 Your Obedient Servant</salute>
-<signed>John L Bradberry<lb/>
+<signed>John T Bradberry<lb/>
 Commercial Agent<lb/>
-St Paul de Loanda</signed>
+St Paul de Loanda</signed></closer>
 
-<address><addrLine>Hon</addrLine>
-<addrLine>W H Seward</addrLine>
+<fw type="address"><address>
+<addrLine>Hon W. H. Seward</addrLine>
 <addrLine>Sec State</addrLine>
-<addrLine>U S</addrLine>
-</address>
-</closer>
+<addrLine>U.S.</addrLine>
+</address></fw>
+
 
 </div1>
 </body>

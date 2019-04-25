@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -59,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,12 +72,17 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bernie, E. A.</term>
+<term>Innman</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Angola</term>
+<term>Brazil</term>
+<term>Portugal</term>
+<term>Spain</term>
+<term>St. Paul de Loanda</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -91,22 +97,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Cunningham, Robert</persName>
+<roleName>Acting U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1862-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1863-01-02"/>
 </correspAction>
 </correspDesc>
@@ -114,9 +117,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,16 +129,19 @@
 
 <pb facs="teaa.en.letter.0040.001"/>
 
-<div1 type="letter">
-<note>Recd <del>Dec</del> Jan 2</note>
+<div1 type="document" xml:lang="en">
 
-<opener><dateline>No 12 United States Commercial Agency at<lb/>
+<note>Recd <del>Dec</del> Jan 2</note>
+<note>No 12</note>
+
+<opener><dateline>United States Commercial Agency at<lb/>
 Loanda 30th September 1862</dateline></opener>
 
-<p>Sir<lb/>
-Herewith I have the honor to
+<salute>Sir</salute>
+
+<p>Herewith I have the honor to
 forward to the Department of State in
-conformity to Sections 153 and 154
+conformity to Sections 153 and 154 of
 the General Instructions to Consular Officers
 the Annual General Report for the Years
 1861 and 1862.</p>
@@ -143,51 +149,59 @@ the Annual General Report for the Years
 <p>Commerce</p>
 
 <p>The Greater part of the commerce of this
-place is with Portgual, Untied States,
+place is with Portugal, Untied States,
 and the Brazils.</p>
 
 <p>Imports from Portugal consisting
-principally in Wines <unclear>Liver</unclear> Oil, and 
-English Manufactured Goods. $250000:00
-Exports, Palm, Fish, and Ground <unclear>nut</unclear>
-Oil, Wax, Hides, Ivory, Copal, and Coffee $400,000.00
-United States Imports Rum &#38; Provisions
-Lumber
+principally in Wines <unclear>Liver &#38;</unclear> Oil, and 
+English Manufactured Goods $250000:00</p>
 
+<p>Exports, Palm, Fish, and Ground <unclear>nut</unclear>
+Oil, Wax, Hides, Ivory, Copal, and Coffee. $400,000:00</p>
+
+<p>United States Imports, Rum Provisions
+<fw type="catch">Lumber</fw>
+
+<fw type="address"><address>
+<addrLine>To the Honble</addrLine>
+<addrLine>W. H. Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0040.002"/>
 
-Lumber, Powder and Cotton manufactured
-goods, the importation of the latter article
-having entirely fallen off these last nineteen
-months, owing to the Civil War in America
+Lumber, Powder, and Cotton manufactured
+Goods, the importation of the latter Article
+having entirely fallen off these last eighteen
+months; owing to the Civil War in America
 causing the great advance in the price
 of Cotton. $150.000.00</p>
 
-<p>Exports Palm and Fish Oil, Coffee, Copal,
-Ivory, and Ground Nuts. $250,000.</p>
+<p>Exports. Palm and Fish Oil, Coffee, Copal,
+Ivory and Ground Nuts. $250,000:00</p>
 
-<p>Brazils, Imports Rum, Sugar, &#38; Tobacco $100,000:00</p>
+<p>Brazils, Imports, Rum, Sugar, &#38; Tobacco. $100,000:00</p>
 
 <p>Exports, Palm and Ground Nut Oil, Wax
-and Hides. $20,000:</p>
+and Hides. $20,000:00</p>
 
 <p>Great Britain. The principal Article
-imported has been coals abouts 5000 tons
+imported has been Coals abouts 5000 tons
 freighted in American bottoms at the
-low rate of 25 and <unclear>28/0</unclear> per ton valuation
-including freight laid down here is $55000</p>
+low rate of 25 and <unclear>28/0</unclear> per Ton, Valuation
+including freight laid down here is $55000.00</p>
 
 <p>The great draw back 
 to the Commerce of this place is the
 exorbitant high duties, which is levied 
 on all merchandise imported more 
 particularly on American which 
-according to Treaty had to pay two thirds 
+according to Treaty has to pay two thirds 
 (2/3) and national vessels on third (1/3) on 
 an average I may safely estimate it at
-35 per cent ad valorem on all merchandise
-<catchwords>imported</catchwords>
+35 pr cent ad valorem on all merchandise
+<fw type="catch">imported</fw>
 
 <pb facs="teaa.en.letter.0040.003"/>
 
@@ -195,7 +209,7 @@ imported from the United States</p>
 
 <p>The Currency of this Province of Angola
 was formerly Fourteen hundred reis to the 
-American or Spanish Dollar but in July 1861 
+American or Spanish Dollar, but in July 1861 
 on the arrival of the new Governor the Currency 
 was changed to the same rate as Lisbon which
 is nine hundred &#38; twenty reis to the American or 
@@ -205,56 +219,51 @@ Dollar nine Quarter Cents ($1. 9 1/4)</p>
 <p>The Sanitary condition of this place for
 the past eighteen months has been rather
 unfavorable, the yellow fever and black 
-vomit having made its apperance for the
+vomit having made its appearance for the
 first time supposed to have been brought
 from the Brazils, cases which has terminated 
-fatally has been principally newcomers.</p>
+fatally has been principally new comers.</p>
 
 <p>Before closing this I cannot let pass 
 without commenting on the late affair which 
 occurred in April 1861 the Imprisonment 
-of the U S Naval Store Keeper Mr E A Bernie
+of the U.S. Naval Store Keeper Mr E A Bernie
 for a trivial offence and the brutal treatment 
 he received at the hands of the Authorities 
-of this place.</p>
+of this place</p>
 
 <p>To think an official in the Employ of the
-U. S. Government in a foreign Port should be
+U.S. Government in a foreign Port should be
 
 <pb facs="teaa.en.letter.0040.004"/>
 
 shut up in a filthy prison for Seventy
 days is shameful and contrary to 
-the Treaty with Portugal, ratified in 
-1840 art 10 wherein it says (and it is 
-hereby declare in case of offence 
+the Treaty with Portugal ratified in 
+1840 art: 10 wherein it says (and it is 
+hereby declared that in case of offence 
 against the laws such Consul, Vice
 Consul, Agent, or Commissary may 
 either be punished according to law, 
 or be sent back the offended Government 
-assigning to the other seasons for the Same.</p>
+assigning to the other reasons for the Same.</p>
 
 <p>The American Squadron was on 
-the Coast at the time of this occurence 
-Flag Officer <unclear>Innman</unclear> demanded he
+the Coast at the time of this occurrence 
+Flag Officer Innman demanded the
 said E A Bernie but was refused
-consequently E A Bernie was left to
+consequently E. A. Bernie was left to
 his fate and the result of the trial was 
 deportation for 2 years. I hope after 
 the termination of the rebellion in
-America the U S Government will
+America the U.S. Government will
 demand satisfaction from Portugal 
-for so gross an insult.</p>
+for so gross an insult</p>
 
-<closer><salute>Very Respectfully<lb/>
-Yur Obdt Servant</salute>
+<closer><salute>Very respectfully<lb/>
+Your Obdt Servant</salute>
 <signed>Robert Cunningham<lb/>
-Actg U. S. Consl Agt</signed>
-
-<address><addrLine>To the Honble</addrLine>
-<addrLine>W H Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D. C.</addrLine></address></closer>
+Actg U.S. Coml Agt</signed></closer>
 
 </div1>
 </body>

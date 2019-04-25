@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,13 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Cunningham, Robert</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>England</term>
+<term>St. Paul de Loanda</term>
+<term>Washington, D.C.</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +92,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
+<roleName>Acting U.S. Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1863-01-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1863-04-06"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +112,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,36 +124,40 @@
 
 <pb facs="teaa.en.letter.0043.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Recd Ap 6 + Mr. Abbot</note>
+<note>Recd Ap. 6</note>
+<note>No 1</note>
 
-<opener><dateline>No 1 United States Commercial Agency<lb/>
-St Paul de Loanda January 15 1863</dateline></opener>
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul d Loanda January 15, 1863</dateline></opener>
 
-<p>Sir<lb/>
-By request of Mr R Cunningham
+<salute>Sir</salute>
+
+<p>By request of Mr R Cunningham
 who returns to the States via England in account of 
 ill health. I have taken charge of this office which 
 I shall endeavor to hold to the satisfaction of your
-Department till the return of Mr Cunningham or
+Department 'till the return of Mr Cunningham, or
 to such time as it may please you to allow me to retain 
 the same.</p>
 
 <p>Mr Cunningham intends on his 
-arrival to visit Washington, there he will give you 
+arrival to visit Washington, where he will give you 
 such further particulars as you may desire in respect 
 to the duties of this Agency.</p>
 
 <closer><salute>Very Respectfully<lb/>
 Your Obt Servt</salute>
-<signed>John G Willis<lb/>
-Acting Vice Com Agent</signed>
+<signed>John G. Willis<lb/>
+Acting Vice Coml Agent</signed></closer>
 
-<address><addrLine>Hon Wm H Seward</addrLine>
+<fw type="address"><address>
+<addrLine>Hon Wm. H. Seward</addrLine>
 <addrLine>Secretary of State</addrLine>
-<addrLine>Washington D. C.</addrLine></address>
-</closer>
+<addrLine>Washington D.C.</addrLine>
+</address></fw>
+
 </div1>
 </body>
 </text>

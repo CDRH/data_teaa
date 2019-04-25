@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -59,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,12 +72,12 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -91,11 +92,6 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
@@ -106,7 +102,8 @@
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1862-09-09"/>
 </correspAction>
 </correspDesc>
@@ -114,9 +111,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,46 +123,48 @@
 
 <pb facs="teaa.en.letter.0038.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
 <note>Recd Sept 9.</note>
 <note>Ans " 19</note>
-<note>+ Mr Abbot &#x2713; </note>
 
+<opener><dateline>Salem Mass Sept 6, 1862</dateline></opener>
 
-<p>Salem Mass Sept 6 1862</p>
-<note><unclear/> is agent</note>
-<p>Sir<lb/>
-Enclosed please find Draft for 
-Twenty one &#38; <unclear>11/100</unclear> dollars being balance due me as
-per a/c of Treasury Department which I would
+<salute>Sir,</salute>
+
+<p>Enclosed please find Draft for 
+Twenty one &#38; 7/100 dollars, being balance due me as
+pr a/c of Treasury Department, which I would
 respectfully request sent me in Draft on the Sub-
 Treasury in Boston payable to my order.</p>
 
 <p>I would also request sent me previous
-to the 18th inst that being the time I intend leaving
-this Port for St Paul de Loanda for the use of the
-Commercial Agency the following vis.</p>
+to the 18th inst. that being the time I intend leaving
+this Port for St Paul d Loanda for the use of the
+Commercial Agency the following viz.</p>
 
-<p>Forms No 8. 14. 15. 16. 17. 24. 25. 30. 31. 33.
-41. 44. 88. 94. 105. 109.</p>
+<p>Forms Nos 8, 14, 15, 16, 17, 24, 25, 30, 31, 33,
+41, 44, 88, 94, 105, 109.</p>
 
-<p>Bills of Exchange or Drafts_ Exchange
-Vouchers Nos 1 &#38; 2 also one Large flag.</p>
+<p>Bills of Exchange or Drafts. Exchange
+Vouchers Nos 1 &#38; 2. also one Large flag.</p>
 
 <p>Trusting that my communication addressed
-under date of Sept 1 to Hon F W Seward 
+under date of Sept 1st to Hon F W Seward 
 assistant Secretary of State has received your Kind
 attention &#38; that I may expect a favorable reply 
-previous to my departure at above.</p>
+previous to my departure as above</p>
 
 <p>I have the honor to be<lb/>
 Your Obt Servt<lb/>
-John G Willis</p>
+John G. Willis.</p>
 
-<fw>Hon Wm H Seward<lb/>
-Secretary of State<lb/>
-Washington D.C.</fw>
+<fw type="address"><address>
+<addrLine>Hon Wm H Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine>
+</address></fw>
+
 </div1>
 
 </body>
