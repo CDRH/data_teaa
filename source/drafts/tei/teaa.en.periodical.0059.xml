@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0059.xml">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>A New World (1886)</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Reynolds,Peyton" xml:id="pr">Peyton Reynolds</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.periodical.0059</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">A New World</title>
+<title level="j">African Repository</title>
+<biblScope unit="volume"><!-- VOLUME NUMBER --></biblScope>
+<biblScope unit="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1886-01">January 1886</date>
+<biblScope unit="page"><!-- PAGE NUMBERS --></biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Journal</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Ahmed, Mohammed</term>
+<term>Anderson, Benjamin</term>
+<term>Andraide, Paiva, Capt.</term>
+<term>Blyden, Edward W., Rev. Dr.</term>
+<term>Bublitz</term>
+<term>Capello, Capt.</term>
+<term>Carbonier</term>
+<term>Casati</term>
+<term>Cecchi, Capt.</term>
+<term>Clapperton</term>
+<term>Davidson, D., Rev.</term>
+<term>Day, David D., Rev.</term>
+<term>Denham</term>
+<term>El Mahdi</term>
+<term>Emperor William</term>
+<term>Falkenthal, Commissioner</term>
+<term>Flegel, W.</term>
+<term>Gardner</term>
+<term>Giraud, Lieut.</term>
+<term>Gordon</term>
+<term>Goring</term>
+<term>Grenfell, George, Rev.</term>
+<term>Hanford</term>
+<term>Hannington, Bishop</term>
+<term>Haven, Gilbert, Bishop</term>
+<term>Hawes, Albert G.S., Lieut.</term>
+<term>Ivens, Comm.</term>
+<term>Johnston, H.H.</term>
+<term>Joss</term>
+<term>Junckee</term>
+<term>King Bell</term>
+<term>Last, J.T.</term>
+<term>Lenz, Oscar, Dr.</term>
+<term>Lirinhac</term>
+<term>Livingstone</term>
+<term>Lobengolo</term>
+<term>Mabile, A., Rev.</term>
+<term>Malamine</term>
+<term>Maples, Chauncey, Rev.</term>
+<term>Massari, Lieut.</term>
+<term>Milurn, John, Rev.</term>
+<term>Mirambo</term>
+<term>Mtese</term>
+<term>Murchison, Roderick</term>
+<term>O'Neill, H.E.</term>
+<term>Park</term>
+<term>Parkinson, W.C.</term>
+<term>Pinto, Serpa, Maj.</term>
+<term>Puttkamer, Chancellor Von</term>
+<term>Rohlfs, Gerhard</term>
+<term>Saker, Alfred, Rev.</term>
+<term>Samudu, Alimami</term>
+<term>Sanankodu, Ibrahima</term>
+<term>Sanford</term>
+<term>Schmidt</term>
+<term>Schulz, Aurel, Dr.</term>
+<term>Schweinfurth, Dr.</term>
+<term>Sims, James L.</term>
+<term>Sissi, Ibrahima</term>
+<term>Soden, Baron Von</term>
+<term>Stanley</term>
+<term>Sultan of Gando</term>
+<term>Sultan of Sokotu</term>
+<term>Sultan of Zanzibar</term>
+<term>Taylor, William, Bishop</term>
+<term>Thompson, Joseph</term>
+<term>Umzila</term>
+<term>Weissman, Lieut.</term>
+<term>Wolseley, Garnet</term>
+<term>Wray</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Abyssinia</term>
+<term>Accra</term>
+<term>Algiers</term>
+<term>Algoa Bay</term>
+<term>Amaramba lake</term>
+<term>Ambas Bay</term>
+<term>Angoche</term>
+<term>Angola</term>
+<term>Angra Pequena</term>
+<term>Appolonia</term>
+<term>Ashantee</term>
+<term>Atlantic Ocean</term>
+<term>Austria</term>
+<term>Banana</term>
+<term>Bangeweolo lake</term>
+<term>Bassa</term>
+<term>Bathurst</term>
+<term>Belgium</term>
+<term>Bell Town</term>
+<term>Benguela</term>
+<term>Beri</term>
+<term>Berlin</term>
+<term>Bihe</term>
+<term>Binue river</term>
+<term>Bissao</term>
+<term>Blantyre lake</term>
+<term>Boporo</term>
+<term>Boure</term>
+<term>Bullama</term>
+<term>Cabinda Bay</term>
+<term>Cadiz</term>
+<term>Cameroons</term>
+<term>Canary Isles</term>
+<term>Cape Blauco</term>
+<term>Cape Bogador</term>
+<term>Cape Coast</term>
+<term>Cape Colony</term>
+<term>Cape of Good Hope</term>
+<term>Cape Mesurado</term>
+<term>Cape Mount</term>
+<term>Cape Palmas</term>
+<term>Cape Town</term>
+<term>Central Africa</term>
+<term>Chad</term>
+<term>Chagga highlands</term>
+<term>Chenta lake</term>
+<term>Chihian</term>
+<term>Chiloango</term>
+<term>Coba</term>
+<term>Congo</term>
+<term>Dahomey</term>
+<term>Dead Sea</term>
+<term>De Beer</term>
+<term>De Brazza</term>
+<term>Delagoa Bay</term>
+<term>Denmark</term>
+<term>Devil's Kettle</term>
+<term>Damaraland</term>
+<term>Delagoa Bay</term>
+<term>Dubreka River</term>
+<term>Edinburgh</term>
+<term>Egypt</term>
+<term>England</term>
+<term>Europe</term>
+<term>Fernando Po</term>
+<term>France</term>
+<term>Freetown</term>
+<term>Gaboon</term>
+<term>Gambia</term>
+<term>Gananganja</term>
+<term>Germany</term>
+<term>Gold Coast</term>
+<term>Grand Popo</term>
+<term>Great Britain</term>
+<term>Greenwich</term>
+<term>Gulf of Guinea</term>
+<term>Hamburg</term>
+<term>Hickory Town</term>
+<term>Holland</term>
+<term>Ibi</term>
+<term>Inhambane Bay</term>
+<term>Italy</term>
+<term>Japan</term>
+<term>Kabatai</term>
+<term>Kassaia river</term>
+<term>Khartoum</term>
+<term>Kiel</term>
+<term>Kileme river</term>
+<term>Kimawanza</term>
+<term>Kimberley</term>
+<term>Kivamouth</term>
+<term>Konamouth</term>
+<term>Koniah</term>
+<term>Kwilu</term>
+<term>Kwango</term>
+<term>Lagos</term>
+<term>Leopold lake</term>
+<term>Liberia</term>
+<term>Lidedi lake</term>
+<term>Likuga river</term>
+<term>Limpopo river</term>
+<term>Lindi</term>
+<term>Linyanti</term>
+<term>Lisbon</term>
+<term>Liverpool</term>
+<term>London</term>
+<term>Luapala</term>
+<term>Lubilash river</term>
+<term>Lujenda river</term>
+<term>Lulna river</term>
+<term>Manayunga</term>
+<term>Manchester</term>
+<term>Manica</term>
+<term>Mantara</term>
+<term>Masasi</term>
+<term>Massabe</term>
+<term>Massowah</term>
+<term>Matabeleland</term>
+<term>Matambanje</term>
+<term>McCarthy's Island</term>
+<term>Medina</term>
+<term>Melembo</term>
+<term>Mere Mere</term>
+<term>Mobangi river</term>
+<term>Moero lake</term>
+<term>Mombasa</term>
+<term>Monrovia</term>
+<term>Morocco</term>
+<term>Mossamedes</term>
+<term>Mount Kilimanjaro</term>
+<term>Mozambique</term>
+<term>Muhlenburg</term>
+<term>Muni river</term>
+<term>Musardu</term>
+<term>Nagardi lake</term>
+<term>Namaqualand</term>
+<term>Namulli Hills</term>
+<term>Natal colony</term>
+<term>Nhangepepe</term>
+<term>Niadi</term>
+<term>Niger</term>
+<term>Nile river</term>
+<term>Nokki</term>
+<term>Nova</term>
+<term>Nyassa district</term>
+<term>Ogove</term>
+<term>Pangani</term>
+<term>Parapato</term>
+<term>Paris</term>
+<term>Portugal</term>
+<term>Port Nolloth</term>
+<term>Pretoria</term>
+<term>Quango</term>
+<term>Quillimane</term>
+<term>Quizungu</term>
+<term>Redona</term>
+<term>Red Sea</term>
+<term>Rio Campo</term>
+<term>Rio del Rey river</term>
+<term>Rio Nunez</term>
+<term>Rovuma</term>
+<term>Russia</term>
+<term>Sankaru river</term>
+<term>Santa Lucia Bay</term>
+<term>Saudana</term>
+<term>Shire</term>
+<term>Shirwa Lake</term>
+<term>Sierra Leone</term>
+<term>Sikona river</term>
+<term>Simon's Bay</term>
+<term>Sinou</term>
+<term>Sofaia</term>
+<term>Soudan</term>
+<term>Southampton</term>
+<term>South Africa</term>
+<term>South America</term>
+<term>Spain</term>
+<term>Stanley Falls</term>
+<term>Stanley Pool</term>
+<term>St. Helena</term>
+<term>St. Louis</term>
+<term>St. Paul de Loando</term>
+<term>St. Thiago</term>
+<term>St. Thomas</term>
+<term>St. Vincent</term>
+<term>Suendu</term>
+<term>Switzerland</term>
+<term>Table Bay</term>
+<term>Tanganyika lake</term>
+<term>Taveita</term>
+<term>Timbuctoo</term>
+<term>Transvaal territory</term>
+<term>Uemba</term>
+<term>Umzilla's Kraal</term>
+<term>United Kingdom of Sweden and Norway</term>
+<term>Usagaea</term>
+<term>Victoria</term>
+<term>Victoria Falls</term>
+<term>Victoria Nyanza</term>
+<term>Walfish Bay</term>
+<term>Welli</term>
+<term>Whydah</term>
+<term>Yoruba</term>
+<term>Zambezi</term>
+<term>Zanzibar</term>
+</keywords>
+
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term>Baptist</term>
+<term>Christian</term>
+<term>Islamism</term>
+<term>Lutheran</term>
+<term>Methodist</term>
+<term>Presbyterian</term>
+<term>Protestant</term>
+<term>Roman Catholic</term>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term>Arabic</term>
+<term>Chinyanja</term>
+<term>Swahili</term>
+<term>Vey</term>
+</keywords>
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-04-25" who="pr">transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb xml:id="PAGENUMBER" facs="PDFNAME"/>
+
+<div2 type="titles">
+
+<p>A New World</p>
+
+</div2>
+
+<div2 type="article">
+
+<p><!-- BEGIN TRANSCRIBING --></p>
+
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>
+
