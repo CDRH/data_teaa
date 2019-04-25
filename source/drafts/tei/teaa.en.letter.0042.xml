@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,14 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>England</term>
+<term>St. Paul de Loanda</term>
+<term>United States</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +93,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Cunningham, Robert</persName>
+<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1863-01-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1863-04-06"/>
 </correspAction>
 </correspDesc>
@@ -113,27 +113,29 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+
 <pb facs="teaa.en.letter.0042.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Recd <unclear>Apr 6th</unclear></note>
-<note>Mr Abbot</note>
+<note>Recd Apl 6th</note>
+<note>No 16</note>
 
-<p>No 16 United States Commercial Agency at<lb/>
-Loanda 13th January 1863</p>
+<opener><dateline>United States Commercial Agency at<lb/>
+Loanda 13th January 1863</dateline></opener>
 
-<p>Sir<lb/>
-As I am compelled to return 
+<salute>Sir,</salute>
+
+<p>As I am compelled to return 
 to the Untied States in consequence of ill 
 health, I beg to inform you that I leave 
 in charge of this United States Commercial 
@@ -151,7 +153,15 @@ said Mr Willis having held the Office from
 its first Appointment as United States 
 Commercial Agent and during that 
 period, to the best of my knowledge he
-<catchwords>has</catchwords>
+<fw type="catch">has</fw>
+
+<fw type="address"><address>
+<addrLine>To The Honble</addrLine>
+<addrLine>W. H. Seward</addrLine>
+<addrLine>Secty of State</addrLine>
+<addrLine>Washington D.C.</addrLine>
+<addrLine>U.S.A.</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0042.002"/>
 
@@ -159,32 +169,24 @@ has given satisfaction in the discharge of
 his official duties.</p>
 
 <p>Mr Willis had some objections 
-to take charge of the office but by my urgent 
+to take charge of the office, but by my urgent 
 request he will hold it until the Department 
-deem it necessary to appointment a Sucessor 
+deem it necessary to appointment a Successor, 
 if the appointment I have made does not meet
-your views.</p>
+your views</p>
 
 <p>I take passage to the
 United States via England and on my 
 arrival in the United States will present 
 myself at Washington and then will be 
 better able to give further particulars 
-respecting the Agency.</p>
+respecting the Agency</p>
 
 <closer><salute>Very respectfully<lb/>
 Your Obdt Servant</salute>
 <signed>Robert Cunningham<lb/>
-Vice Consul Agt</signed>
+Vice Coml Agt.</signed></closer>
 
-
-<address><addrLine>To the Honble</addrLine>
-<addrLine>W H Seward</addrLine>
-<addrLine>Secty of State</addrLine>
-<addrLine>Washington D C</addrLine>
-<addrLine>U S A</addrLine>
-</address>
-</closer>
 </div1>
 </body>
 </text>
