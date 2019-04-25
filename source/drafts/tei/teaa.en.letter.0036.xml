@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,11 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Andrews, Silas</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +90,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Cunningham, Robert</persName>
+<roleName>Acting U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1862-06-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1862-09-25"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-24" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,55 +122,56 @@
 
 <pb facs="teaa.en.letter.0036.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
 <note>Recd Sept 25</note>
 <note>Ansd " 26</note>
+<note>No 8</note>
 
-<opener><dateline>No 8 United States Commercial Agency<lb/>
+<opener><dateline>United States Commercial Agency<lb/>
 at Loanda 30th June 1862</dateline></opener>
-<p>Sir<lb/>
-I have the honor to inform 
+
+<salute>Sir</salute>
+
+<p>I have the honor to inform 
 you that Silas Andrews Esq the
 newly appointed Commercial Agent 
 has not yet arrived. In 
 consequence of this Gentlemans 
-non- arrival I beg to solicit the 
+non-arrival I beg to solicit the 
 appointment as Vice Commercial 
 Agent so as to enable me to be
 officially acknowledged by the 
-Govenment of the Most Faithful 
+Government of His Most Faithful 
 Majesty, which I have not as
 yet been.</p>
 
-<p>By the nn- appearance here 
+<p>By the non-appearance here 
 of the Commercial Agent I still 
 hold the office as Acting, it 
 therefore would be very necessary to
 be informed, whether the above 
 named Gentleman has taken the 
-<catchwords>office</catchwords>
+<fw type="catch">office</fw>
 
-
+<fw type="address">
+<address><addrLine>The Honble</addrLine>
+<addrLine>W. H. Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine>
+<addrLine>&amp;c &amp;c &amp;c </addrLine>
+</address>
+</fw>
 
 <pb facs="teaa.en.letter.0036.002"/>
 
 office to which he is appointed 
-and of his intentions in coming </p>
+and of his intentions in coming</p>
 
-<closer>
-<salute>Very respectfully<lb/>
+<closer><salute>Very respectfully<lb/>
 Your Obdt Servant</salute>
 <signed>Robert Cunningham<lb/>
-Actg U S Com Agt</signed>
-
-<address><addrLine>The Honble</addrLine>
-<addrLine>W H Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D. C.</addrLine>
-<addrLine>&amp;c &amp;c &amp;c </addrLine>
-</address>
-</closer>
+Actg U.S. Coml Agt</signed></closer>
 
 </div1>
 </body>
