@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0060">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>L.A. Maynard, "The Congo Question"</title>
+
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Akyeampong, Chelsea" xml:id="CAA">CAA</name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.periodical.0060</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">The Congo Question</title>
+<author n="Maynard, L.A.">L.A. Maynard</author>
+<title level="j">African Repository, The New York Observer></title>
+<biblScope unit="volume"><!-- VOLUME NUMBER --></biblScope>
+<biblScope unit="issue"><!-- ISSUE NUMBER --></biblScope>
+<date when="1884-10">October 1884</date>
+<biblScope unit="page">2</biblScope>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Journal</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+</keywords>
+
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-04-26" who="#CAA">transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb xml:id="2" facs="African Repository 1884.10.1-The Congo Question.pdf"/>
+
+<div2 type="titles">
+<p>From the New York Observer.
+  The Congo Question.
+    By L.A. Maynard.
+  It will be remembered that President Arthur, in his last Message
+to Congress, suggested that measures be taken to protect our interests
+in the Congo region in Africa, in common with those of other nations,</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>and that recognition be accorded to Stanley and the Association he
+   represents, in their work of suppressing the slave trade in that country.
+   In accordance with this suggestion, the Senate has recently passed a 
+   resolution concurring in the views expressed by the President, and
+   formally recognizing the flag of the African International Association.
+   The justice and the importance of this action will be apparent when
+   the aims and character of the organization referred to are understood.
+
+        Among the various societies that have been formed in years past
+   for the promotion of civilization in ther interior of Africa, few have 
+   been more broadly and practically philanthropic, and none have
+   achieved such wide spread and beneficent results in a brief time as the
+   African International Association, organized at Brussels, Belgium, in
+   September, 1876, and confirmed in its action by a Congress at the
+   same place in the following year, at which representatives from the
+   United States, England and other leading nations were present. King
+   Leopold, of Belgium, was made its President, in his private, not 
+   in his sovereign capacity. The stated objects of the Association are
+   of a purely international and philanthropic character. It proposes to 
+   form stations throughout the central portion of the African Continent
+   as centres of civilizing influence and as the nuclei of future free States,
+   which shall ultimately be left to elect their own rulers and provide for
+   their own maintenance. In the meantime the work of education, Chris-
+   tianization and material development will go on under the auspices
+   of the Association. The traders as well as the missionaries and trav-
+   elers of all nations, having legitimate objects in view, are welcomed
+   by the Association and afforded equal rights, advantages and pro-
+   tection.
+
+        The work already accomplished by the Association has been very
+   great. It has acquired possession, by treaty or purchase from the
+   native chiefs, of a large tract of territory in the Congo valley and its
+   branches, extending over two thousand miles of river bank, containing
+   many hundreds of thousands of people, and has established twenty-
+   five stations under the flag of the Association-a banner with a blue
+   field and a golden star in the center. The authority of the Association
+   is generally recognized by the natives and its rights respected. Un-
+   der its auspices commerce has greatly revived, the slave trade has 
+   sensibly diminished, and numerous missionary organizations have
+   been established with success.
+
+        But now that under the wise and efficient methods of the Asso-
+   ciation this portion of Africa is assuming a commercial and general
+   importance, the jealousies and conflicting interests of certain civilized
+   nations seems likely to embarrass further progress, and to partially, if
+   not wholly, defeat the ulterior objects of the movement itself.</p>
+
+<p>     Portugal asserts her claim to the region around the mouth of the
+   Congo and commanding the entrance to the interior. This claim is
+   based on a discovery made by Diego Cam, a Portuguese, about the
+   year 1484. The discovery was followed by a nominal possession, and
+   Christianity was established by the Jesuits as the national religion. But
+   through the duplicity, ignorance and cruelty of the Portuguese settlers
+   no substantial benefits followed, either to the natives or to the na-
+   tion claiming possession. The Portuguese gradually withdrew south-
+   ward into Angola and Benguela, and it was not until recent years
+   that they asserted any authority over the region north of the Ambriz
+   river. But a treaty has just been concluded between England and
+   Portugal which recognizes the sovereignty of the latter over that part
+   of the West Coast of Africa situated between 8 deg. and 5 deg, 11 min.
+   of south latitude, including the region around the mouth of the Congo.
+   The terms of the treaty seem fair enough on their face. Freedom of
+   trade, navigation, settlement and religion are guaranteed to citizens
+   of all nations, within the limits mentioned, and solemn pledges are 
+   given to suppress the slave trade not only in the Congo country, but
+   in all other Portuguese possessions in Africa.
+
+        This compact, however, seems to create great dissatisfaction in
+   all quarters. A vigorous protest has been made against it by various
+   commercial bodies in Great Britain, which claims that the rule of the
+   Portuguese is corrupt and inefficient, that their pledges will not be
+   kept, and that their control will greatly retard if not entirely defeat the
+   movement for the development of the interior. It is asserted on good 
+   authority that domestic slavery exists in the African colonies of Por-
+   tugal, and that slaves are shipped every month at her port of Catum-
+   bella to labor and to die at St. Thomas on the line. Opposition to 
+   the treaty has also arisen in Holland on account of the interests which
+   the Dutch have on the South African coast; and France comes for-
+   ward with her claims and insists that there shall be a tripartite treaty,
+   and that France shall be represented in the Congo commission with
+   Portugal and England. On the other hand, a certain faction at Lis-
+   bon is dissatisfied, asserting that Portugal has conceded too much,
+   and that she has placed herself in a ruinous and humiliating position
+   before England. The formal recognition by our Government of the
+   International Association may also be constructed as a protest against
+   the action of England in assuming to herself the protectorate of a
+   territory over which she has no stronger claims than any other civili-
+   zed country.
+
+        It is difficult to see how any material advantages to the region
+   in question can result from this coalition. The great object of every</p>
+
+<p>movement in that country at present is or ought to be, to suppress
+   the slave traffic, to elevate the native tribes, and promote the general
+   interests of civilization. This is precisely the work being done by the
+   International Assocation, and in a far more vigorous manner than 
+   ever before. The question is, why not allow it to pursue this grand
+   work unembarrassed by the selfish interests of any nation?</p>
+
+
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>
