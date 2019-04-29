@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,15 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Cunningham, Robert</term>
+<term>Vredenburg, Watson</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>England</term>
+<term>Fernando Po (Spanish Guinea)</term>
+<term>St. Paul de Loanda</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -89,11 +93,6 @@
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
@@ -112,8 +111,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-29" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Transcription and initial encoding</change>
-
+<change when="2017" who="ks">Transcription and initial encoding</change>
 </revisionDesc>
 </teiHeader>
 
@@ -121,36 +121,34 @@
 
 <body>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0046.001"/>
 
-<note>Recd <unclear>July 11</unclear> <unclear/></note>
+<note>Recd July 11</note>
+<note>No 2</note>
 
-<opener>
-No. 2
-<dateline>United States Commercial Agency<lb/>
-St. Paul de Loanda April 7th 1863</dateline>
-</opener>
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda April 7th 1863.</dateline></opener>
 
-<p>
-Sir,<lb/>
-Under date of January 15th, I
+<salute>Sir,</salute>
+
+<p>Under date of January 15th, I
 had the honor to address you stating
 that I had at the request of Mr
 Cunningham taken charge of this
 Agency.</p>
 
-<p>I now inclose Returns for the
+<p>I now enclose Returns for the
 Quarter ending March 31st 1863. The
-several accounts and certificates I have
+several Accounts and Certificates I have
 directed to the Treasury Department and
 have drawn on the Honorable Secretary of
-the Treasury for $219. 14 &#162; being balance
+the Treasury for $219.14 &#162; being balance
 of my Salary for that Quarter.</p>
 
 <p>I also enclose one half of the Register
-of the American Bark "S. S. Cobb" which
+of the American Bark "S. S. Cobb," which
 I found in this office on my taking
 charge and am therefore unable to give
 you any further particulars respecting
@@ -159,44 +157,42 @@ the same.</p>
 <p>The War in the States is now being
 felt much in the advanced price of
 
+<fw type="address"><address>
+<addrLine>To the Honble</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0046.002"/>
 
-cottons and certain kinds of Provisions
-which American vessels were accustomed to
+Cottons and certain kinds of Provisions
+which American Vessels were accustomed to
 bring here for Trade. The recall of the United
-States Squadron from the Coast is also much
+States Squadron from this Coast is also much
 felt and it is hoped that circumstances may so
 change as to warrant their being again placed
 where there is so much need of their presence.</p>
 
-<p>The mails via England and Fernando
+<p>The Mails via England and Fernando
 Po for the months of January and February
-have not yet arrived here consequently this
+have not yet arrived here, consequently this
 Agency is not in receipt of any advices from
 the State Department for those months.</p>
 
 <closer>
 <salute>Very Respectfully<lb/>
-Your Obd. Servt</salute>
+Your Obdt Servt</salute>
 <signed>John G. Willis<lb/>
-U.S. <unclear/>Coml Agent</signed>
+U.S. <unclear/> Coml Agent</signed>
 </closer>
 
 <postscript>
-<ab>May 6</ab>
+<p>May 6.</p>
 <p>Nothing new of interest
-to add save that Mr. Watson Vredenburg
+to add, save that Mr. Watson Vredenburg
 the newly appointed English Commissioner &amp; Consul
-<unclear>arrived some three weeks since.</unclear></p>
-
+<unclear>arrived</unclear> some three weeks since.</p>
 </postscript>
-
-
-
-
-
-
 
 </div1>
 </body>

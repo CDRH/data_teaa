@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from John L. Bradberry to William H. Seward, March 23, 1863</title>
+<title>Dispatch from John T. Bradberry to William H. Seward, March 23, 1863</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from John L. Bradberry to William H. Seward</title>
+<title level="a">Dispatch from John T. Bradberry to William H. Seward</title>
 <date when="1863-03-23">March 23, 1863</date>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,11 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Maryland</term>
+<term>New York (N.Y.)</term>
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +94,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Bradberry, John L.</persName>
-<placeName>Washington, D. C.</placeName>
+<persName>Bradberry, John T.</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1863-03-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName></placeName>
+<roleName>U.S. Secretary of State</roleName>
 <date when="1863-03-24"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +113,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-29" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,47 +125,50 @@
 
 <pb facs="teaa.en.letter.0045.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
-<note>Recd March 24 + Mr. Abbot</note>
+<note>Recd March 24</note>
+<note>No 2</note>
 
-<opener>No 2
-<dateline>Washington March 23rd 1863</dateline></opener>
+<opener><dateline>Washington March 23rd 1863</dateline></opener>
 
-<p>Sir<lb/>
-This day I had the Honor to receive
+<salute>Sir</salute>
+
+<p>This day I had the Honor to receive
 your Despatch dated March 20th 1863
 enclosing my Certificate of Appointment
 to the Commercial Agency of St Paul De
-Loanda, also my passport, for which
-those receive my acknowledgements.</p>
+Loando, also my passport, for which
+Please receive my acknowledgements</p>
 
 <p>In my Despatch Marked No 1 Dated
-March 17th 1863 I had the Honor to inform
-you that I was Born in the City of New York
-and was appointed from the
+March 17th 1863. I had the Honor to inform
+you that I was Born in the City of New 
+York and was appointed from the
 State of Maryland.</p>
 
 <p>Also that I expected to sail from
-Salem about or before the 14th of May
-next - I have received no advices 
+Salem about or before the 1st of May
+next. I have received no advices 
 since that time that indicates an 
-earlier day of Departure.</p>
+earlier day of Departure</p>
 
 <p>I shall leave for my station by the 
-first opportunity and when that occurs 
-will acquaint you with the facts.</p>
+first opportunity, and when that occurs 
+will acquaint you with the facts</p>
 
-<closer><salute>I have the Honor to be
-Most Respectfully
+<closer><salute>I have the Honor to be<lb/>
+Most Respectfully<lb/>
 Your Obdt Servant</salute>
-<signed>John L Bradberry
-Commercial Agent</signed>
+<signed>John T. Bradberry
+Commercial Agt</signed></closer>
 
+<fw type="address">
 <address><addrLine>Honorable</addrLine>
-<addrLine>W.H. Seward</addrLine>
+<addrLine>W. H. Seward</addrLine>
 <addrLine>Secretary of State</addrLine></address>
-</closer>
+</fw>
+
 </div1>
 </body>
 </text>
