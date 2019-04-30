@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from John L. Bradberry to William H. Seward, July 31, 1863</title>
+<title>Dispatch from John T. Bradberry to William H. Seward, July 31, 1863</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from John L. Bradberry to William H. Seward</title>
+<title level="a">Dispatch from John T. Bradberry to William H. Seward</title>
 <date when="1863-07-31">July 31, 1863</date>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
@@ -59,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,12 +72,19 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Birney</term>
+<term>Cunningham, Robert</term>
+<term>de Andrade, José Baptista</term>
+<term>Flores, Francisco Antonio</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Angola</term>
+<term>Boston (Mass.)</term>
+<term>Havre de Grace (Md.)</term>
+<term>St. Paul de Loanda</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -91,22 +99,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Bradberry, John L.</persName>
+<persName>Bradberry, John T.</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1863-07-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1863-11-05"/>
 </correspAction>
 </correspDesc>
@@ -124,83 +129,80 @@
 
 <body>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0048.001"/>
-<fw>1</fw>
 
-<note>Recd 5 Nov. - (No. 4)</note>
-<note>Mr Abbot</note>
+<note>Recd 5 Nov.</note>
+<note>(No. 4)</note>
 
 <opener>
 <dateline>July 31/63<lb/>
 Commercial Agency of the United States<lb/>
-at St Paul De Loanda
-</dateline>
+at St Paul De Loanda</dateline>
 </opener>
 
+<salute>Sir</salute>
 
-<p>Sir<lb/>
-I have the honour of advising you
+<p>I have the honour of advising you
 of my arrival at my Post of Duty on the 15th
 day of July 1863. After a passage (by sea) of
-Sixy Days, and ten days occupied in transit
-between my Place of Residence (Havre De Grace M.D)
+Sixty Days, and ten days occupied in transit
+between my Place of Residence (Havre De Grace M.d)
 and detention in Boston Harbor by contrary
-minds the latter occupying nine days, makeing
-in all seventy Days transit; -
-</p>
+minds, the latter occupying nine days, <sic>makeing</sic>
+in all Seventy Days transit;</p>
 
 <p>I have drawn upon the Hon Secretary of
 the Treasury for the amount due me for transit
-Viz $ 217.56 being obliged to allow 15 pr cent
+viz $217.56. being obliged to allow 15 pr cent
 upon the face of the Draft, netting me $186.93
 the net amount due me after deducting $2.28
 for internal revenue tax, and $3.00 for Passport
-forgotton while in Washington; -</p>
+forgotten while in Washington;</p>
 
-<p>I was unable to wait upon his Exelency
+<p>I was unable to wait upon his <sic>Exelency</sic>
 "Sr. José Baptista D' Andrade" Governor
 General of the Province of Angola, until the 30th
 of July, in consequence of formalities necessary
-to be observed; -</p>
+to be observed;</p>
 
 <p>Having complied with the customary
-Etiquette of the Country, on the said 30th of July
+Etiquette of the Country, on the said 30th of July,
 I called upon his excellency, accompanied by
 John G. Willis, Esq. and Snr. Francisco Antonio Flores
 as interpreter and presented my commission
 for his inspection, he was entirely satisfied
-that it was Genuine. -</p>
+that it was Genuine.</p>
 
-<p>But it having been customary for agts
-here to be furnished with an Exequatur in accordance
+<p>But it having been customary for Agts
+here to be furnished with an Exequatur, in accordance
 with the 10th article of the Treaty of 1840. He
-could not recognize me in the official "<unclear>Boletin</unclear>
+could not recognize me in the official "Boletin
 
 <gap reason="missing" extent="1 page"/>
 
 <pb facs="teaa.en.letter.0048.002"/>
-<fw>3</fw>
-furniture viz Chairs, settee &amp;c. and a book
-case or "escretoir, obtained by me by receipting
-for it to Mr Willis (a copy enclosed) for
-the purpose of keeping the archives and books
-belonging to this agency safe;-</p>
 
-<p>The said property was in possesion
+furniture viz Chairs, settee, &amp;c. and a book
+case or "Escritoir" obtained by me by Receipting
+for it to Mr Willis (a copy enclosed) for
+the purpose of keeping the Archives and Books
+belonging to this agency safe;</p>
+
+<p>The said property was in possession
 of Mr Birney, formerly U. States Naval Store
 keeper here, left with Mr Cunningham by
 Mr Birney as property of the United States, and
-by him left - with Mr Willis, each of the
+by him left with Mr Willis, each of the
 last named Gentlemen giving their receipts
-to their predesessors for the property;-</p>
+to their <sic>predisessors</sic> for the property;</p>
 
 <p>When I presented the Order of your
 Honour upon Mr Cunningham for articles in
 his possession, to Mr Willis, I called his
 attention to the latter clause of said Order
-"namely and all other property in your possession
+namely "and all other property in your possession
 belonging to the United States" Mr. Willis
 informed me that the said property was not
 intended to be included by said order, because
