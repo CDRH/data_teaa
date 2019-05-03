@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -62,7 +63,7 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,12 +75,27 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bradberry, John T.</term>
+<term>Brookhouse, R.</term>
+<term>Frank, George</term>
+<term>Goodridge, John W.</term>
+<term>Ridsont</term>
+<term>Roberts</term>
+<term>Robison</term>
+<term>Silva, Augustus Archer</term>
+<term>Silva, Frederic A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Boston (Mass.)</term>
+<term>England</term>
+<term>Fernando Po</term>
+<term>Kisembo (Angola)</term>
+<term>Lisbon (Portugal)</term>
+<term>Portugal</term>
+<term>Salem (Mass.)</term>
+<term>St. Paul de Loanda (Angola)</term>
+<term>West India</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -94,16 +110,12 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
+<roleName>Acting U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1864-08-25"/>
 </correspAction>
@@ -117,9 +129,9 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-03" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and additional encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -127,7 +139,7 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0054.001"/>
 
@@ -135,60 +147,62 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 <note>Duplicate</note>
 
 <opener><dateline>United States Coml Agency<lb/>
-St Paul de Loanda August 25 1864</dateline>
+St Paul d Loanda Aug 25, 1864.</dateline></opener>
 
-<address>
-<addrLine>Wm H Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D. C.</addrLine>
-</address>
-</opener>
+<salute>Sir,</salute>
 
-<p>Sir,<lb/>
-I have the honor to acknowledge
-the receipt of Your despatches of May 13 &#38;14th 
-one requesting me to "continue to act as U. S. 
-Commercial Agent for this Post," the one informing
+<p>I have the honor to acknowledge
+the receipt of Your despatches of May 13th &#38; 14th 
+one requesting me to "continue to act as U.S. 
+Commercial Agent for this Port," the one informing
 me that the President had appointed
-Mr A A Silva as Coml Agent.</p>
+Mr A A Silva as Coml Agent."</p>
 
 <p>Mr Silva not having signed any
 Bonds, nor taken the oath &#38; also not having 
 yet received his Commission, the Portuguese 
 Authorities here could not recognise 
-him as U S C Agent. Neither do they recognise
-me as such but allow me to act as far as 
+him as US C Agent. Neither do they recognise
+me as such, but allow me to act as far as 
 may be necessary in respect to the wants of 
 American Vessels arriving at this port &#38; to 
-keep charge of the Archives, seal, flags &#38;c</p>
+keep charge of the Archives, Seal, flags &#38;c.</p>
 
 <p>I now enclose the Returns from the 
 Agency from Jany 1st to June 30th 1864. My 
-reason for not doing so previous was that as 
-Mr. Bradberry had died without appointing any
-one to act for him. I was uncertain whether 
-I had authority to make out the Returns but
-<catchwords>since the</catchwords>
+reason for not doing so previous was, that as 
+Mr Bradberry had died without appointing any
+one to act for him, I was uncertain whether 
+I had authority to make out the Returns, but
+<fw type="catch">since the</fw>
+
+<fw type="address">
+<address>
+<addrLine>Hon. Wm. H. Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine>
+</address>
+</fw>
 
 <pb facs="teaa.en.letter.0054.002"/>
 
-since the receipt of Your despatch of May 13th 
-I have given it my attention as per the enclosed.
-The several accounts &#38; certificates I have directed 
+since the receipt of your despatch of May 13th 
+I have given it my attention as pr the enclosed.
+The several Accounts &#38; Certificates I have directed 
 to the Treasury Department &#38; have drawn on 
-the Hon Secretary of the Treasury two Bills-
-one for $84.16 &#162; the other for $247.00 being 
+the Hon. Secretary of the Treasury two Bills,
+one for $84.16&#162; the other for $247.00, being 
 balance of Salary for the Quarter ending March 
 31 &#38; June 30th 1864.</p>
 
 <p>At the time Mr Bradberry died he was 
 in debt to several persons here, but they do 
 not expect to receive anything from his Estate.
-I enclose to the Fifth auditor an account current 
+I enclose to the Fifth Auditor an Account Current 
 with vouchers showing that my demands 
-amount to <unclear>RS 300$975</unclear> in this currency, or in U. S.
+amount to <unclear>RS</unclear> 300$975 in this currency, or in U.S.
 Coin $201.32&#162; With the exception of my 
-private a/c <unclear>RS 127$625</unclear> the rest is for Cash paid 
+private a/c <unclear>RS</unclear> 127$625 the rest is for Cash paid 
 by me for his Medical Attendance &#38; Burial Expenses.
 I have drawn on the Hon. Secretary of 
 the Treasury for the Balance due Mr Bradberry 
@@ -199,16 +213,15 @@ a manner that the Draft will be duly honored.</p>
 
 <p>Mr Bradberry in the Month of January 
 last received $29.92&#162; Balance Wages &#38; $31.91&#162; Extra
-
-<catchwords>Wages</catchwords>
+<fw type="catch">Wages</fw>
 
 <pb facs="teaa.en.letter.0054.003"/>
 
 Wages on account of a Colored Seaman named 
 George Frank who was shipped in England on 
 board the American Ship "Cumberland" &#38; was discharged 
-here on account of sickness- By the Relief 
-Book I notice he had paid on a/c $3.93&#162; As I 
+here on account of sickness. By the Relief 
+Book I notice he had paid on a/c $3.93&#162;. As I 
 was not authorised to pay the balance of this 
 amount to Geo. Frank who was a West Indian,
 the English Counsul took him in charge &#38; sent 
@@ -222,46 +235,46 @@ not one cent was found in money &#38; I presume
 the money he received from Geo. Frank was 
 remitted to Mr Bradberry family by a vessel 
 that left this in January bound for Boston 
-Mass- Mr B calculating of course to make it 
+Mass. Mr B. calculating of course to make it 
 up from the sale of his draft for the Quarter
 ending March 31, 1864.</p>
 
 <p>Circular No 44 is received &#38; in reply
 will inform the Department that Commercial 
-agents as such, are not required to pay taxes
-in this port.  Circulars No 45 &#38; 46 are also recieved.
+Agents as such, are not required to pay Taxes
+in this port.  Circulars Nos 45 &#38; 46 are also received.
 No vessel hailing from the Insurgent 
-<catchwords>States</catchwords>
+<fw type="catch">States</fw>
 
 <pb facs="teaa.en.letter.0054.004"/>
 
 States has made their appearance in this 
 port, neither is there anything shipped 
-from here to those states.</p>
+from here to those States.</p>
 
 <p>There has been only one American 
-Merchant vessel arrived at this Port 
-during the Quarter ending June 30th- the 
+Merchant Vessel arrived at this Port 
+during the Quarter ending June 30, the 
 cause of which is the high prices of 
-Cotton Gords Rum, Powder, &#38;c in the States- 
+Cotton Goods Rum, Powder &#38;c in the States, 
 these being the principal articles formerly 
 imported here. Two or three years since 
-<unclear>we used</unclear> to have 8 or 10 vessels engaged 
+we used to have 8 or 10 vessels engaged 
 in this Trade, but it has finally become 
 reduced to this deplorable extent. The 
 Merchants here &#38; on the Coast, who used 
 to be very prompt in payment are now 
 very backward, caused by Wars in the 
-interior, overshadowing &#38; undertaking more 
-than they can carry out- a few merchants 
+interior, overtrading &#38; undertaking more 
+than they can carry out. a few Merchants 
 of old standing continue to keep their 
 credit good, but they do nothing near the 
-amount of Business now that they need 
-do.  Loanda &#38; all <sic>allong</sic> this Coast has 
+amount of Business now that they used 
+do. Loanda &#38; all <sic>allong</sic> this Coast has 
 suffered severely from the Small Pox 
 which first made its appearance in 
 February last about 70 miles North of this 
-<catchwords>at a</catchwords>
+<fw type="catch">at a</fw>
 
 <pb facs="teaa.en.letter.0054.005"/>
 
@@ -273,36 +286,36 @@ decreasing.</p>
 
 <p>Mr Brookhouse of Salem Mass, the 
 largest American Trader of this Coast has concluded 
-to close his Business here Messers <unclear>Robson</unclear>
-<unclear>Pudsont</unclear> &#38; Roberts of Boston are left, but
+to close his <sic>Buisness</sic> here. Messers Robison
+<unclear>Ridsont</unclear> &#38; Roberts of Boston are left, but
 from present appearances they will not send 
 another vessel till the prospect is more promising.</p>
 
 <p>The Mails from the States to this port 
-are very irregular- for a few years past there 
+are very irregular. for a few years past there 
 has been a Line of Steamers from Lisbon to 
-this Coast, but they are now discontinued- 
-the Portuguese Government are endeavoring 
+this Coast, but they are now discontinued. 
+The Portuguese Government are endeavoring 
 to get up another Line. The Mails via 
-<unclear>"Fernando Po"</unclear> are brought here by the English 
-vessels of War but no certainty can be placed 
+"Fernando Po" are brought here by the English 
+vessels of War, but no certainty can be placed 
 on their arrival.</p>
 
 <p>It is my intention to leave this for the 
-States in the couse of two months. I understand 
-Mr. Silva intends leaving for England 
+States in the course of two months. I understand 
+Mr Silva intends leaving for England 
 about the same time, with the intention of 
-<catchwords>again</catchwords>
+<fw type="catch">again</fw>
 
 <pb facs="teaa.en.letter.0054.006"/>
 
 again returning here. On my departure 
 I shall place the Archives &#38;c in charge of 
-Mr. Silva if he is here, but should he leave 
-before me, or if we leave at same time time, I 
+Mr Silva if he is here, but should he leave 
+before me, or if we leave at same time, I 
 shall then deliver the property of the United 
 States now under my charge to the care of 
-Mr. F A Silva , Brother of the appointed U. S. 
+Mr. F A Silva, Brother of the appointed U.S. 
 Commercial Agent.</p>
 
 <p>John W Goodridge of Salem Mass, late
@@ -314,9 +327,7 @@ Small Pox &#38; was buried at Loanda on the
 <closer><salute>Very Respectfully
 Your Obt Servt</salute>
 <signed>John G Willis
-Acting U S C Agent</signed></closer>
-
-
+Acting US C Agent</signed></closer>
 
 </div1>
 </body>
