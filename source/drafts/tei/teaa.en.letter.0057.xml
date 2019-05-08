@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,15 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Ambriz (Angola)</term>
+<term>Congo River</term>
+<term>Europe</term>
+<term>Gambia River</term>
+<term>Lisbon (Portugal)</term>
+<term>Sierra Leone River</term>
+<term>St. Paul de Loanda (Angola)</term>
+<term>United States</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +98,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1864-11-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1865-01-16"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +118,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-07" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,7 +128,7 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0057.001"/>
 
@@ -131,64 +136,66 @@
 <note>Recd Jan 16</note>
 <note>Ack Feb. 4</note>
 
-<opener><dateline>United States Com Agency
-St Paul de Loanda Nov 21 1864</dateline>
-
-<address><addrLine>Hon William H Seward</addrLine> 
-<addrLine>Secretary of State</addrLine> 
-<addrLine>Washington</addrLine></address>
-
+<opener><dateline>United States Coml Agency<lb/>
+St Paul de Loanda Nov 21st 1864</dateline>
 </opener>
 
-<p>Sir<lb/>
-On the 20th ultimo the 
+<salute>Sir</salute>
+
+<p>On the 20th ultimo the 
 Portuguese War Steamer Mendello 
 arrived here from Lisbon with 
 authority from Her Portuguese 
-Majestys Government to the 
+Majesty's Government to the 
 Governor General of this Province 
 to recognize me as Commercial 
 Agent of the United States, 
-Which authority has been 
-published on the official 
-<sic>Baletin</sic> of this city.</p>
+which authority has been 
+published in the official 
+"<sic>Baletim</sic>" of this city.</p>
 
 <p>The Commerce of this 
 Province is still prostrated from 
 the effects of the late epidemic 
 of Small Pox. Transportation 
-<catchwords>to</catchwords>
+<fw type="catch">to</fw>
+
+<fw type="address"><address>
+<addrLine>Hon William H Seward</addrLine> 
+<addrLine>Secretary of State</addrLine> 
+<addrLine>Washington</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0057.002"/>
 
 to and from this interior has 
-not as yet been resumed causing
+not as yet been resumed, causing
 serious inconvenience to 
 business in general. The market 
 is overstocked with imported merchandise 
 particularly of Dry
-goods, creating serious apprehensions
+Goods, creating serious apprehensions
 to holders of them fearing 
 a decline in the cotton market 
-by a sudden upturn of hostilities
+by a sudden cessation of hostilities
 in the United States.</p>
 
 <p>Notwithstanding business 
 in this Province has been very 
-dull-- the Pea nut crop between 
+dull. the Pea Nut crop between 
 Ambriz and Congo River 
 has been very large amounting 
 to over Two thousand tons, double 
-the amount of last years yield
-<catchwords>should</catchwords>
+the amount of last year's yield
+<fw type="catch">should</fw>
 
 <pb facs="teaa.en.letter.0057.003"/>
 
 should it continue to increase 
 in a like proportion from year 
 to year which I think will be 
-the case in a very short time 
-it will <unclear>spread</unclear> the Pea Nut crop
+the case. in a very short time 
+it will exceed the Pea Nut crop
 of Sierra Leone and Gambia 
 River. They are obtained here 
 shelled.</p>
@@ -198,27 +205,24 @@ trade here for the articles of
 produce not obtainable now
 have been very fortunate to 
 find charters for their vessels
-to freight pea nuts to 
+to freight Pea Nuts to 
 Europe.</p>
 
 <p>Five years ago only 
-about four hundred tons now
+about four hundred tons were
 raised on this part of the
-<catchwords>coast</catchwords>
+<fw type="catch">coast</fw>
 
 <pb facs="teaa.en.letter.0057.004"/>
 
 coast and found purchases only 
-for the United States market</p>
+for the United States' market</p>
 
-<closer><salute>I have the honor<lb/>
+<closer><salute>I have the honor
 to be<lb/>
-Your Most Obedt Servant</salute>
+Your Most Obed't Servt</salute>
 <signed>Augustus Archer Silva<lb/>
 Commercial Agent</signed></closer>
-
-
-
 
 </div1>
 </body>

@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -60,7 +61,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,12 +73,16 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bradberry, John T.</term>
+<term>Frank, George</term>
+<term>Lloyd, William H.</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>England</term>
+<term>St. Paul de Loanda (Angola)</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -92,31 +97,29 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1864-12-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, Frederick William, 1830-1915</persName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1864-02-23"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-08" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,38 +127,43 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0058.001"/>
 
-<note>Recd Feb 28</note>
+<note>No 21</note>
+<note>Recd Feb. 23</note>
 <note>Ack " 29</note>
 <note>Copy to Mr Burnley 29 March 1865</note>
-<note>Mr Jones Mr Pratt</note>
-<note>No 21</note>
-<note><unclear/>offer to pay sent herein <unclear/> but not <unclear/> precendent</note>
 
-<opener><dateline>United States Commercial Agency
+<opener><dateline>United States Commercial Agency<lb/>
 St Paul de Loanda Dec 13 1864</dateline></opener>
 
-<p>Sir<lb/>
-I have the honor to acknowledge 
+<salute>Sir,</salute>
+
+<p>I have the honor to acknowledge 
 the reception of your 
-Despatch No 2 with enclosures, requesting
+Despatch No 2. with enclosures, requesting
 information on a claim 
 preferred by a British Seaman 
 named George Frank, for the sum
-of &#163; 9.17.6</p>
+of &#163;9.17.6.</p>
 
-<p>To facilitate this information
+<p>To facilitate the information,
 I enclose George Frank's 
 Account Current with the late 
-Commercial Agent taken from 
+Commercial Agent, taken from 
 the Relief Book which shows 
 a balance due him of $35.50 
-and not &#163;9.17.6 as represented 
+and not &#163;9.17.6. as represented 
 by the British Consul at this 
-<catchwords>city.</catchwords>
+<fw type="catch">city</fw>
+
+<fw type="address"><address>
+<addrLine>Hon. Wm H Seward</addrLine>
+<addrLine>Secretary of State</addrLine> 
+<addrLine>Washington</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0058.002"/>
 
@@ -166,12 +174,12 @@ arise from not deducting one
 month's extra wages in accordance 
 with the laws of United States' 
 Consulates, and for not charging 
-George Frank with Vouch No 3 &#38; 4.</p>
+George Frank with Vouch No. 3 &#38; 4.</p>
 
 <p>I respectfully enclose 
-Voucher No 1 to 5. Number 5 being 
+Vouchers No 1 to 5. Number 5 being 
 only a copy the original having 
-been misplaced by my predecessor
+been misplaced by my predecessor,
 as every place in the 
 Agency has been searched for 
 it the past two days. As 
@@ -179,36 +187,68 @@ the British Vice Consul took
 a copy of the original as seen 
 by the enclosures forwarded 
 to this Agency by the Depart
-<catchwords>ment</catchwords>
+<fw type="catch">-ment</fw>
 
 <pb facs="teaa.en.letter.0058.003"/>
 
-ment there cannot be any 
+-ment, there cannot be any 
 doubt as to its correctness.</p>
 
-
-<closer><salute>I have the honor<lb/>
+<closer><salute>I have the honor
 to be<lb/>
-Your Most Obdt Servt</salute>
+Your Most Obd't Serv't</salute>
 <signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed>
-
-<address><addrLine>Hon Wm H Seward</addrLine>
-<addrLine>Secretary of State</addrLine> 
-<addrLine>Washington</addrLine></address>
-</closer>
-
-<gap reason="duplicate"/>
+Commercial Agent</signed></closer>
 
 </div1>
 
-<div1 type="attachment">
-<ab>Copy of Voucher No 5</ab>
-<p>Loanda Feb 20th 1864 Received of John L. Bradberry One coat &amp; two pair of Pants valued at Seven dollars.</p>
-<closer>
-<signed>George Frank his x mark</signed>
-<signed>Witness Wm. H Lloyd</signed>
-</closer>
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.en.letter.0058.004"/>
+
+<p>Inventory of property belonging
+to the United States of America,
+in the Commercial Agency of the
+United States, at St Paul de Loanda,
+delivered to Augustus Archer Silva 
+by John G Willis viz</p>
+
+<p>One Flag staff (Injured by lightning, useless)</p>
+<p>Five large Flags.</p>
+<p>One Boat do</p>
+<p>One Seal</p>
+<p>One Press</p>
+<p>One Coat of Arms</p>
+<p>Nine Volumes of Commercial Relations</p>
+<p>Ten Volumes of Statutes at large (bound)</p>
+<p>Six Pamphlets do do</p>
+<p>Archives of the Agency</p>
+<p>One United States Consuls Manual</p>
+<p>One Regulation of U.S. Consulates</p>
+<p>Two Inkstands</p>
+<p>Two Cases Stationary in use of the Commercial Agency.</p>
+
+<p>Done in triplicate
+at St Paul de Loanda October 1st 1864</p>
+
+<closer><signed>Augustus Archer Silva</signed><lb/>
+<signed>John G. Willis.</signed></closer>
+
+</div1>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.en.letter.0058.005"/>
+
+<p>Copy of Voucher No 5</p>
+
+<p>Loanda Feb 20th 1864 Received of John T. Bradberry One coat &amp; two pair of Pants valued at Seven dollars.</p>
+
+<p>George Frank<lb/>
+his x mark</p>
+
+<p>Witness<lb/>
+Wm H Lloyd</p>
 
 </div1>
 </body>

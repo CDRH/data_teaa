@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,14 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Silva, Frederick A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>England</term>
+<term>Lisbon (Portugal)</term>
+<term>St. Paul de Loanda (Angola)</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,32 +93,29 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
-<placeName>Luanda, Africa</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1865-01-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
-<date when="1865-01-01"/>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1865-04-10"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-08" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,43 +123,42 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">  
 
 <pb facs="teaa.en.letter.0059.001"/>
 
-<note>Red Apr 10</note>
+<note>No 6</note>
+<note>Recd Apr 10.</note>
 <note>Ack " 12</note>
 
-<note>No 6</note>
-
 <opener><dateline>United States Commercial Agency<lb/>
-St. Paul de Loanda January 1st 1865</dateline>
-<address>
-<addrLine>Hon Wm H Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington</addrLine>
-</address>
+St. Paul de Loanda January 1st 1865</dateline></opener>
 
-</opener>
+<salute>Sir</salute>
 
-<p>Sir<lb/>
-Agreeably to my Despatch
+<p>Agreeably to my Despatch
 No 1 and 2 wherein I informed
-your Excellency of my intended
+Your Excellency of my intended
 departure for England, I am
 now about to carry it into effect
 I shall take passage on the
-Dutch mail steamer "Earlde Grey"
+Dutch Mail Steamer "Earlde Grey"
 for Lisbon in a few days from
-where I shall procees to Enland.
+whence I shall proceed to England.
 My detention in England
 will be about thirty
 or forty days when I shall
- return to my post of duty.</p>
+return to my post of duty.</p>
 
-<p>As heretofore adressed
+<p>As heretofore advised
 this involuntary absence 
-<catchwords>from</catchwords>
+<fw type="catch">from</fw>
+
+<fw type="address"><address>
+<addrLine>Hon Wm H Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0059.002"/>
 
@@ -168,10 +167,10 @@ engagement of a commercial nature
 entered into before I was aware
 of my appointment as Commercial
 Agent, on which my commercial
-properity depends. I would therefore
+prosperity depends. I would therefore
 request that indulgence of the
 Department to my case as one
-of exception to Circular No 48 on
+of exception to Circular No 46 on
 file in this Agency.</p>
 
 <p>As also advised I
@@ -180,14 +179,14 @@ Frederick A Silva a native citizen
 of the United States to represent
 this office as Acting Commercial
 Agent during my absence, which
-appointment has been recognized
+appointment has been <sic>recognize</sic>
 by His Excellency the Governor
-<catchwords>General</catchwords>
+<fw type="catch">General</fw>
 
 <pb facs="teaa.en.letter.0059.003"/>
 
 General. In accordance with
-Circular Regulations I enclose
+Consular Regulations I enclose
 Oath of Allegiance (Form 131) Inventory
 of Agency and Form No 134.</p>
 
@@ -196,18 +195,17 @@ on my part will be satisfactory
 to the Department.</p>
 
 <closer>
-
-<salute>
-I have the honor<lb/>
+<salute>I have the honor
 to be<lb/>
 You most Obd't Serv't</salute>
 <signed>Augustus Archer Silva<lb/>
 Commercial Agent</signed>
 </closer>
 
-</div1>
 
-<div1 type="attachment">
+</div1>
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0059.004"/>
 
 <opener><dateline>United States Coml Agency<lb/>
@@ -219,26 +217,28 @@ Augustus Archer Silva ceased
 and he is entitled to his salary
 including said day; and that
 the services of Frederick A Silva
-commenced the day following he
+commenced the day following, he
 having received the Archives
-as required by the Counsular
+as required by the Consular
 Regulations, as Acting Commercial
 Agent during the temporary
 absence of Augustus Archer Silva
-the Commcercial Agent.</p>
+the Commercial Agent.</p>
 
 <closer><signed>Frederick A. Silva</signed>
 <signed>Augustus Archer Silva</signed></closer>
+
 </div1>
 
-<div1 type="attachment">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0059.005"/>
 
 <p>Inventory of property belonging to
 the United States of America at
 the Commercial Agency of the United
-States at St-Paul de Loanda delivered
-to Frederick A. Silva during the temporary
+States at St Paul de Loanda delivered
+to Frederick A. Silva, during the temporary
 absence of Augustus Archer
 Silva viz</p>
 
@@ -246,22 +246,23 @@ Silva viz</p>
 <ab>Five large and one Boat Flag</ab>
 <ab>One seal, one Press</ab>
 <ab>One Coat-of Arms</ab>
-<ab>Five volumes of Commercial Relatives</ab>
-<ab>Four Volumens of Statutes at large (bound)</ab>
+<ab>Nine volumes of Commercial <unclear>Relations</unclear></ab>
+<ab>Ten Volumes of Statutes at large (bound)</ab>
 <ab>Six Pamplets do do</ab>
 <ab>Archives of the Agency</ab>
 <ab>One U.S. Consular Manual</ab>
 <ab>One Regulation of U.S. Consulates</ab>
-<ab>Two In stands and Two Cases containing
+<ab>Two <sic>Instands</sic> and Two Cases containing
 stationary in use of the Commercial Agency</ab>
 
 <p>Done in duplicate</p>
 
 <closer>
-<dateline>St. Paul de Loanda December 31 1864</dateline>
+<dateline>St Paul de Loanda December 31 1864</dateline>
 <signed>Augustus Archer Silva</signed>
 <signed>Frederick A. Silva</signed>
 </closer>
+
 </div1>
 
 </body>
