@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,12 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Silva, Frederick A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +91,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1865-07-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1865-10-05"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +111,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-09" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,48 +121,44 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0064.001"/>
 
-<note>Recd Oct 5</note>
-<note>Ack Dec 27</note>
-<note>Mr Jones</note>
+<note>Recvd. Oct. 5.</note>
+<note>ack Dec 27</note>
+<note>No 8.</note>
 
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda July 28th 1865.</dateline></opener>
 
+<p>Sir</p>
 
-<opener>No 8<lb/>
-<dateline>United States Commercial Agency<lb/>
-St Paul de Loanda July 28th 1865</dateline>
-
-<address>
-<addrLine>Hon WIlliam H Seward</addrLine>
-<addrLine>Secretary of State </addrLine>
-<addrLine>Washington</addrLine>
-</address>
-</opener>
-
-<p>Sir<lb/>
-I have the honor to report 
+<p>I have the honor to report 
 my return to this City and that 
-I reassumed the duties of my 
+I <sic>reassumed</sic> the duties of my 
 Office on the 1st Inst.</p>
 
-<p>Despatches No 3 4 and 5 have 
+<p>Despatches Nos 3, 4 and 5 have 
 been received at this Agency as also
 Circular No 56 and the orders of the 
 Department of April 17th to wear 
-mourning in honor of the memory of 
+mourning in honor to the memory of 
 our illustrious Chief Magistrate.</p>
 
-<p>Mr F A Silva has made up 
+<p>Mr F. A. Silva has made up 
 the accounts of the two previous 
 Quarters and has drawn on 
 the Hon Secretary of 
-<catchwords>the</catchwords>
+<fw type="catch">the</fw>
+
+<fw type="address"><address>
+<addrLine>Hon William H. Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0064.002"/>
-
 
 the Treasury for the balance of 
 Salary awarded by Government 
@@ -172,15 +166,15 @@ to this Agency as if regularly
 appointed by the Department.</p>
 
 <p>I observe however by Despatch 
-No 5 the Department expects his 
+No 5. the Department expects his 
 compensation to be taken out of 
-the enrollment of this office 
+the enrollments of this office 
 which only amounted during 
 the two Quarters to $36.66.</p>
 
 <p>This Province has completely 
 recovered from the effects of the 
-late Native War and epidemic
+late Native War and Epidemic
 of Small Pox. Trade has revived and 
 very nearly approached the 
 prosperity of the few years previous 
@@ -198,13 +192,10 @@ considerable importance and on
 the increase.</p>
 
 <closer><salute>I have the honor<lb/>
-to be<lb/>
-Your most Obed Servt</salute>
+To be,<lb/>
+Your most Obed' Servt</salute>
 <signed>Augustus Archer Silva<lb/>
 Commercial Agent</signed></closer>
-
-
-
 
 </div1>
 </body>

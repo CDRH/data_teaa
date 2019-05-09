@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,12 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>de Santos, Stamizo Luis</term>
+<term>St. Paul de Loanda (Angola)</term>
+</keywords>
 
+<keywords scheme="original" n="empires">
+<term>Brazil</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,11 +95,6 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
@@ -105,17 +105,15 @@
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
-<date when="1865-12-02"/>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-09" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Transcription and initial encoding</change>
-
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,39 +121,20 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0065.001"/>
 
-<note>
-<unclear>as stated
-to complying
-take temporary charge of
-Consulate after the death of the
-by the Dept. which deserves
-action toward Brazil
-</unclear></note>
+<note>Recd Dec 2<unclear/></note>
+<note>ack " 2<unclear/></note>
+<note>No. 12</note>
 
-<note>+ Mr. Jones</note>
-<note>Recd Dec 2</note>
-<note>ack " 2</note>
+<opener><dateline>United States Commercial Agency.<lb/>
+St Paul de Loanda Sept 14th 1865</dateline></opener>
 
-
-<opener>
-<dateline>United States Commercial Agency.<lb/>
-St Paul de Loanda Sept 14th 1865</dateline>
-
-<address>
-<addrLine>Hon William H. Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D. C.</addrLine>
-</address>
-</opener>
-
-<p>
-On the 7th inst. I received  an <unclear/>
+<p>On the 7th inst. I received an <unclear>invitation</unclear>
 from one of the Chief Justices of the
-City to assist as witness the sealing
+City to assist, as witness, the sealing
 up of the Brazilian Consular Archives
 in few hours after the death of the
 Acting Brazilian Consul of this City. I
@@ -163,24 +142,29 @@ found the Judge with two Brazilian
 Gentlemen perusing and commenting upon
 the Brazilian Consular Regulations. My
 attention was called to an article of the
-Regulations wherin it was written
-that whenever a Brazilian Counsul
-<catchwords>should</catchwords>
+Regulations wherein it was written
+that whenever a Brazilian Consul
+<fw type="catch">should</fw>
+
+<fw type="address"><address>
+<addrLine>Hon William H. Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0065.002"/>
 
 should die, it was requested of the
-competent Authority to cull together five
+competent Authority to cull together two
 Brazilian subjects and a Consul of some
 friendly nation, to witness the sealing
 up of the Archives and to invite said
-Consular officer to take charge of
+Consular Officer to take charge of
 the duties of the Brazilian Consulate
 until His Imperial Majesty should
 be pleased to fill the vacancy.</p>
 
-<p>
-I considered it my duty
+<p>I considered it my duty
 under the circumstances to cheerfully
 accept the duty thus assigned to me
 and in my Despatch to His Excellency
@@ -202,40 +186,31 @@ also the honor to enclose.</p>
 <p>I am confident the Department
 will approve of my proceedings
 in this case founded as I
-suppose they are upon the correct
+suppose they are, upon the correct
 principle of International Courtesy.</p>
 
-
-<closer>
-<salute>I have the honor<lb/>
-to be<lb/>
+<closer><salute>I have the honor<lb/>
+To be<lb/>
 Your most obedt Servant</salute>
 <signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed>
-</closer>
+Commercial Agent</signed></closer>
 
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0065.004"/>
 
 <opener><dateline>United States Commercial Agency<lb/>
-St Paul de Loanda Sept 14th 1865</dateline>
-<address>
-<addrLine>His Excellency</addrLine>
-<addrLine>The Minister of Foreign Affairs</addrLine>
-<addrLine>Empire of Brazil</addrLine>
-</address>
+St Paul de Loanda Sept 14th 1865</dateline></opener>
 
-</opener>
+<salute>Sir</salute><!-- START HERE -->
 
-<p>Sir<lb/>
-It devolves upon me the unpleasant 
-duty to inform your excellency of the 
-death of <unclear>Ramizo Luis de Santos</unclear> the 
+<p>It devolves upon me the unpleasant 
+duty to inform Your Excellency of the 
+death of <unclear>Stamizo</unclear> Luis de Santos the 
 Acting Representative of the Brazilian 
-Native in this City which took place 
+Nation in this City which took place 
 on the 7th of the present month.</p>
 <p>In compliance with an 
 invitation received from Dr <unclear>Carlos Pacheco</unclear>
@@ -244,6 +219,12 @@ this District. I assisted the sealing of
 the Archive and accepted the invitation 
 to assume charge of the duties of the 
 <catchwords>Brazilian</catchwords>
+
+<fw type="address"><address>
+<addrLine>His Excellency</addrLine>
+<addrLine>The Minister of Foreign Affairs</addrLine>
+<addrLine>Empire of Brazil</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0065.005"/>
 
