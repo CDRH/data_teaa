@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Slave Trade and Slavery</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,14 +72,18 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Baxter, Edward</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Westport (R.I.)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -90,21 +96,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1865-10-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1865-12-22"/>
 </correspAction>
@@ -113,9 +116,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-14" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,24 +126,20 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0066.001"/>
 
-<note>+ Mr Jones</note>
 <note>Recd Dec 22</note>
 <note>ack " 27</note>
+<note>No. 13</note>
 
-<opener>No. 13<lb/>
-<dateline>United States Commercial Agency<lb/>
-St Paul de Loanda October 19th 1865</dateline>
-<address><addrLine>Hon William H Seward</addrLine> 
-<addrLine>Secretary of State </addrLine>
-<addrLine>Washington D.C.</addrLine></address>
-</opener>
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda October 19th 1865.</dateline></opener>
 
-<p>Sir<lb/>
-On the 24th of September, one Edward Baxter 
+<salute>Sir</salute>
+
+<p>On the 24th of September, one Edward Baxter 
 presented himself to this Commercial Agency and requested 
 protection as a destitute American Seaman. He reported 
 having deserted from the American Whaling Barque
@@ -152,33 +151,37 @@ slaves at that port.</p>
 Provincial Government to the case and requested the 
 favor of the Government to send this Seaman to 
 Little Fish Bay on board of the Portuguese 
-corvette "Infanto D. <unclear>Soao</unclear>" that the Commander
-<catchwords>might</catchwords>
+Corvette "Infanto D. <unclear>João</unclear>" that the Commander
+<fw type="catch">might</fw>
+
+<fw type="address"><address>
+<addrLine>Hon William H. Seward</addrLine> 
+<addrLine>Secretary of State </addrLine>
+<addrLine>Washington, D.C.</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0066.002"/>
 
-on the spot investigate the true merits of the 
+might on the spot investigate the true merits of the 
 case that both the honor of Portugal and the United 
 States might be properly vindicated. My request was 
-complied with and Baxter sailed in said corvette 
-on the 12th inst. </p>
+complied with and Baxter sailed in said Corvette 
+on the 12th inst.</p>
 
 <p>Notwithstanding my apprehension of 
-the veracity of this statement, I took all the 
+the veracity of this Statement, I took all the 
 necessary steps to sift out the truth and by the 
-following month's mail I will forward to the Department 
+following month's mail, I will forward to the Department 
 copies of all correspondence bearing on this 
-case; In the meantime the corvette will return 
+case; In the meantime the Corvette will return 
 better qualifying me to place before you reliable 
 information.</p>
 
 <closer><salute>I have the honor<lb/>
-to be<lb/>
-Your Most Obedt Servant</salute>
-<signed>Augustus Archer Silva 
+To Be<lb/>
+Your most obedt Servant,</salute>
+<signed>Augustus Archer Silva<lb/>
 Commercial Agent</signed></closer>
-
-
 
 </div1>
 </body>

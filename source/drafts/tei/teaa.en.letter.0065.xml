@@ -71,11 +71,14 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
+<term>Andrade, José Baptista de</term>
 <term ref="http://viaf.org/viaf/99317554">Bettencourt, Carlos Pacheco de</term>
-<term>Santos, Stamizo Luis de</term>
+<term>Pinto, Manoel Sobral</term>
+<term>Santos, Ramizo Luis de</term>
 </keywords>
     
 <keywords scheme="original" n="places">
+<term>Lisbon (Brazil)</term>
 <term>St. Paul de Loanda (Angola)</term>
 </keywords>
 
@@ -101,11 +104,13 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1865-09-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -113,7 +118,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-05-09" who="kln">Reviewed and edited encoding</change>
+<change when="2019-05" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Transcription and initial encoding</change>
 </revisionDesc>
 </teiHeader>
@@ -259,12 +264,12 @@ General of the Province, informing him of
 the fact for his Government: I have the 
 honor to enclose a copy of this note and 
 His Excellency's reply, and also a "Public 
-Instrument" of the "<unclear>Aide de Diliquencia</unclear>"<!-- ddd -->
+Instrument" of the "<unclear>Aide de Deligencia</unclear>" 
 drawn up by the "Juiz de Direito" soon after 
-<unclear>Mr Ramizo Luis de Santos</unclear> expired signed by 
-several Brazilian witnesses and others including 
+Mr Ramizo Luis de Santos expired, signed by 
+several Brazilian witnesses and others, including 
 myself, wherein is also stated the 
-Authority which confer upon me the 
+Authority which confers upon me the 
 honor to address Your Excellency.</p>
 
 <p>Not having in my possession
@@ -275,62 +280,61 @@ carry out exactly the wishes of the
 <pb facs="teaa.en.letter.0065.007"/>
 
 Brazilian Government, but nevertheless 
-will endeavour by the Consular 
+will endeavour, guided by the Consular 
 Regulations of the United States to protect 
-the interests of your nation and <unclear></unclear> of 
+the interests of your nation and <unclear>arm</unclear> of 
 its subjects requiring assistance.</p>
 
 <p>A copy of this Despatch 
 I have considered proper to send to His 
 Excellency the Brazilian Minister at 
-Lisbon, that he may inform <unclear>Snr Manuel
-Sebral Pinto</unclear> of the circumstances who I 
-understand still holds this Imperial 
-Majesty's Commission, as Consul for 
+Lisbon, that he may inform Snr Manoel
+Sobral Pinto of the circumstances who I 
+understand still holds His Imperial 
+Majesty's Commission as Consul for 
 the Empire of Brazil in this City.</p>
 
 <p>With the assurance of my 
 highest respect.</p>
 
 <closer><salute>I have the Honor to be<lb/>
-Your Most Obedt Servant </salute>
+Your most obedt Servant,</salute>
 <signed>Augustus Archer Silva<lb/>
 Commercial Agent</signed></closer>
 
-
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0065.008"/>
 
 <opener><dateline>United States Commercial Agency<lb/>
-St Paul de Loanda Sept 14 1865</dateline>
-<address>
-<addrLine>His Excellency</addrLine>
-<addrLine>José Saptista de Andrade</addrLine>
-<addrLine>Governor General of the</addrLine>
-<addrLine>Province of Angola</addrLine>
-</address>
+St Paul de Loanda Sept 14th 1865.</dateline></opener>
 
-</opener>
-<p>Sir<lb/>
-I was invited on the 7th inst by
-<unclear>Dr Carlos Pacheco de Bettoncourt</unclear>, 
-Juiz de Direito of this district to meet him 
-him at the house of the late <unclear>Ramizo
-Luiz de Santos</unclear> the acting representative
-of the Brazilian nation, who died
+<salute>Sir,</salute>
+
+<p>I was invited on the 7th inst by
+Dr Carlos Pacheco de Bettencourt, 
+Juiz de Direito of this district to meet  
+him at the house of the late Ramizo
+Luiz de Santos, the acting representative
+of the Brazilian Nation, who died
 on that day, to assist as witness
 the sealing of the Archives of the 
-Brazilian Consulate and to assume 
+Brazilian Consulate, and to assume 
 charge of the duties and interests of 
 the Brazilian Nation in this city 
 until his Imperial Majesty 
-<catchwords>should</catchwords>
+<fw type="catch">should</fw>
+
+<fw type="address"><address>
+<addrLine>His Excellency</addrLine>
+<addrLine>José Baptista de Andrade</addrLine>
+<addrLine>Governor General of the</addrLine>
+<addrLine>Province of Angola.</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0065.009"/>
-
 
 should be pleased to appoint another.</p>
 
@@ -353,13 +357,13 @@ to be of service to a nation so
 
 <pb facs="teaa.en.letter.0065.010"/>
 
-
 friendly to my country.</p>
 
 <p>I have the honor to 
-enclose a copy of the "Acto" de
-Diliquencia" for your information 
-and trusting to <unclear>unveil</unclear> the same attention
+enclose a copy of the "<unclear>Auto</unclear> de
+<unclear>Deligencia</unclear>" for your information 
+and trusting to merit at the hands 
+of your Excellency, the same attention
 and consideration in the discharge
 of my additional duties 
 as it has been my good fortune 
@@ -368,10 +372,9 @@ the United States.</p>
 
 <closer><salute>I have the Honor<lb/>
 To Be<lb/>
-Your Most Obedt Servant</salute>
-<signed>(Sg.) Augustus Archer Silva
+Your most obedt Servant</salute>
+(Sg) <signed>Augustus Archer Silva<lb/>
 Commercial Agent</signed></closer>
-
 
 </div1>
 
