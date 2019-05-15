@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,14 +71,19 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Andrade, José Baptista de</term>
+<term>Calheiros</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Lisbon (Portugal)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -90,21 +96,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1865-10-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1866-03-05"/>
 </correspAction>
@@ -113,9 +116,8 @@
 </profileDesc>
 
 <revisionDesc>
-
+<change when="2019-05-14" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,69 +125,66 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0067.001"/>
 
-<note><unclear/> has been read <unclear/></note>
-<note>+ Mr. Jones</note>
 <note>Recd Mch 5</note>
 <note>ack " 17</note>
+<note>No. 14</note>
 
-<opener>No. 14
-<dateline>United States Commercial Agency<lb/>
-St Paul de Loanda October 25 1865</dateline>
-<address>
-<addrLine>Hon William H. Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington. D. C.</addrLine>
-</address>
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda October 22 1865</dateline></opener>
 
-</opener>
+<salute>Sir;</salute>
 
-<p>
-Sir<lb/>
-On the 29th ult José Baptista de Andrade who had
-been Governor General of the Province for the first three years
-delivered over to the Government Council the temporary charge
-of this Government until his successor should arrive out
-and sailed for Lisbon on board of the Steamer Lincolnshire on the 3d inst.</p>
+<p>On the 29th ult José Baptista de Andrade who had
+been Governor General of the Province for the past three years
+delivered over to the Government Council, the temporary charge
+of this Government, until his successor should arrive out;
+and sailed for Lisbon, on board of the Steamer "Lincolnshire" on the 3d inst.</p>
 
-<p>
-Three years ago this Province was in a 
+<p>Three years ago this Province was in a 
 most deplorable state, the consequence of two years war
 with the Native tribes on the frontier. The distance from
 Loanda to that locality was about three hundred miles,
- making it extremly difficult to transport munitions
+making it extremely difficult to transport munitions
 of war, and the sickly climate, made it absolutely
-<catchwords>impossible</catchwords>
+<fw type="catch">impossible</fw>
+
+<fw type="address"><address>
+<addrLine>Hon William H. Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington. D.C.</addrLine>
+</address>
+</fw>
 
 <pb facs="teaa.en.letter.0067.002"/>
 
-impossible to <unclear>preserve</unclear> good, disciplined, <unclear></unclear>
+impossible to preserve good, disciplined, <unclear/>
 troops to force these tribes into subjection. Overwhelming
-numbers of Natives seriously hindered the safety
-of what few troops were sent there and On two occasions
-were defeated by them, in a general Engagement. During
+numbers of Natives seriously threatened the safety
+of what few troops were sent there and on two occasions
+were defeated by them, in a general engagement. During
 this state of affairs, the Commerce of the Provence
 decreased very much indeed, and at one time almost
 stopped. The then acting Governor General
 (Calheiros) was seriously cautioned by the Public
 and charged with imprudence and misjudgement
 in allowing the war to reach such a climax when it
-was not in his power to end the emergencies of
-the moment. His Majestry the King of Portugal
+was not in his power to meet the emergencies of
+the moment. His Majesty the King of Portugal
 wisely appointed Captain José Baptista de Andrade
 of the Portuguese Navy to relieve him; He arrived
 here in September 1862. Governor Andrade
 instituted the Olive Branch policy at the commencement
- of his administration, and with
-<catchwords>a</catchwords>
+of his administration, and with
+<fw type="catch">a</fw>
 
 <pb facs="teaa.en.letter.0067.003"/>
 
-a firmness of action worthy of the highest praise
-he was enabled during his term of service to accomplish
+a firmness of action, worthy of the highest praise
+he was enabled, during his term of service to accomplish
 more real good than a force of 20,000 men
 could have done. He brought the Native chiefs
 to his feet imploring pardon. Confidence was
@@ -193,7 +192,7 @@ restored, Commerce blossomed afresh &amp; happiness
 substituted misery. He established for himself
 a name that many would envy. He left here
 deeply regretted by all. I had the honor of
-officially cogratulating him, on his successful
+officially congratulating him, on his successful
 administration. He was highly esteemed by all
 loyal Americans, on this Coast, for his devotion
 to the Federal cause &amp; during the darkest days
@@ -201,14 +200,10 @@ of the Rebellion was always ready to <unclear/> us all
 and to predict the final inglorious of defeat of the Confederates
 and when this took place, no foreigner rejoiced more than he did.</p>
 
-<closer>
-<salute>I have the Honor to be<lb/>
+<closer><salute>I have the Honor to be<lb/>
 Your most Obdt Servt</salute>
 <signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed>
-</closer>
-
-
+Commercial Agent</signed></closer>
 
 </div1>
 </body>
