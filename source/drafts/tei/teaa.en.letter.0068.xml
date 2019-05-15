@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,11 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Baxter, Edward</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,32 +90,27 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1865-11-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
-<date when="1866-03-05"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-
+<change when="2019-05-15" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,78 +118,67 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0068.001"/>
 
-<note>Recd Mach 5</note>
+<note>Recd <unclear/> 5</note>
+<note>No. 18</note>
 
-<opener>
-No. 18<lb/>
-<dateline>United States Commercial Agency<lb/>
-St. Paul de Loanda Nov 30 1865</dateline>
-<address>
-<addrLine>Hon William H. Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington</addrLine>
-<addrLine>D.C.</addrLine>
-</address>
+<opener><dateline>United States Commercial Agency<lb/>
+St. Paul de Loanda Novr 30th 1865</dateline></opener>
 
-</opener>
+<salute>Sir;</salute>
 
-<p>
-Sir,<lb/>
-
-I have the honor to enclose Form No. <unclear>14</unclear>.
-</p>
+<p>I have the honor to enclose Form No. 14.</p>
 
 <p>I have made up the accounts of the Agency for
-the period ending September 30th 1865 and forward them by
-this opportunity to the Hon Secretary of the Treasury and
-<unclear>Fifth Auditor</unclear> in accordance with Consular Instructions.</p>
+the Quarter ending September 30th 1865, and forward them by
+this opportunity, to the Hon Secretary of the Treasury and
+Fifth Auditor, in accordance with Consular Instructions.</p>
 
-<p>My account to the <unclear>Fifth Auditor</unclear> shows a
+<p>My account current to the Fifth Auditor shows a
 balance in my favor of $240.45. for which amount under
 date of September 30th, I have shown on the Hon Secretary
 of the Treasury.</p>
 
 <p>There is every prospect that American
 Commerce will soon return to this Consul. The Barque
-"William M. Shailer" reported in Form N. 14 is one
+"William M. Shailer," reported in Form No 14 is one
 <catchwords>of</catchwords>
+
+<fw type="address"><address>
+<addrLine>Hon William H. Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington</addrLine>
+<addrLine>D.C.</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0068.002"/>
 
+of the many vessels who frequented this Coast, previous to
+the Rebellion and I understood she will be followed by
+others.</p>
 
-of the many vessels who frequented the Coast, previous to
-the Rebellion and understood she will be followed by
-<unclear>them</unclear>
-</p>
-
-<p>
-Despatches, No 3, 4, 5, &amp; 6 respectively from the
+<p>Despatches, No 3, 4, 5, &amp; 6 respectively, from the
 Department, have been received at this Agency, as well as
-the President's proclamation of May 10th, 20th and 29th
-and also June 23rd, together with Consular of June 2nd
+the President's proclamation of May 10th, 22nd and 29th
+and also June 15th, together with Circular of June 2nd
 and Consular and Diplomatic list of July of the 
 present year.</p>
 
 <p>I take the liberty of reminding the Department
-of my request to create this Commercial Agency of the
-Consulate the permission to trade as I have seen
-recently during the case of Baxter the urgent necessity
-of doing so.</p>
+of my request to create this Commercial Agency to
+a Consulate, with permission to trade, as I have seen
+recently, during the case of Baxter the urgent necessity
+of so doing.</p>
 
-<closer>
-
-<salute>I have the Honor<lb/>
-to be<lb/>
-Your most Obdt Servant.</salute>
+<closer><salute>I have the Honor<lb/>
+To be<lb/>
+Your most obdt Servant.</salute>
 <signed>
 Augustus Archer Silva<lb/>
 Commercial Agent</signed></closer>
-
-
 
 </div1>
 </body>

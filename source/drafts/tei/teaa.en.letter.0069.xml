@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Slave Trade and Slavery</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +72,19 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Baxter, Edward</term>
+<term>Mason, Charles</term>
+<term>Vredenburg, Watson</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Mossâmedes (Angola)</term>
+<term>Westport (R.I.)</term>
+</keywords>
 
+<keywords scheme="original" n="empires">
+<term>England</term>
+<term>Portugal</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +99,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1865-11-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1866-03-05"/>
 </correspAction>
@@ -113,9 +119,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-15" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,106 +129,107 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0069.001"/>
 
-<note>+ Mr Jones</note>
 <note>Recd Mch 5</note>
 <note>Ack March 14</note>
-<note>File</note>
+<note>No 15.</note>
 
-<opener>No. 15<lb/>
-<dateline>United States Commercial Agency
-St Paul de Loanda 25 November 1865</dateline>
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda 25th November 1865.</dateline></opener>
 
-<address><addrLine>Hon WIlliam H Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington</addrLine>
-<addrLine>D. C.</addrLine>
-</address>
-</opener>
+<salute>Sir;</salute>
 
-<p>Sir<lb/>
-In my despatch No 13 I had the honor of informing the 
+<p>In my despatch No 13, I had the honor of informing the 
 Department that an American Seaman calling himself Edward
-Baxter presented himself to me, on the 24th of September, requesting
-protection as a destitute seaman. He responded to me that he
-departed from the American Barque "Governor Carver" Captain
+Baxter, presented himself to me, on the 24th of September, requesting
+protection as a destitute seaman. He represented to me that he
+departed from the American Barque "Governor Carver" <unclear>Captain</unclear>
 Charles Mason of Westport, R.I. at Mossamedes (Little Fish Bay)
 for the reason that said Barque had taken in at that place slaves
 and that he assisted taking on board the first seventy five and on
-returning for more ran away and after the Barque had proceeded to
-sea he came down to the town and made arrangements <unclear>so the</unclear> Captain
-<unclear>Service</unclear> of the British Mail Steamer "Lincolnshire" and came to
-this place and presented himself to me as stated I listened to 
+returning for more, ran away and after the Barque had proceeded to
+sea, he came down to the town and made arrangements with Captain
+<unclear/> of the British Mail Steamer "Lincolnshire" and came to
+this place and presented himself to me, as stated. I listened to 
 <catchwords>his</catchwords>
 
+<fw type="address"><address>
+<addrLine>Hon William H Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington,</addrLine>
+<addrLine>D.C.</addrLine>
+</address></fw>
+
 <pb facs="teaa.en.letter.0069.002"/>
+
 his story with apprehension and doubt, but not wishing to show, that 
-I entertained such a feeling, I<unclear></unclear> for a time with
+I entertained such a feeling, I treated the subject, for a time with
 seeming indifference, and set Baxter to work, about my house
 with some light jobs. My anxiety to sift out the truth of this case
 increased from day to day and I questioned and cross-questioned
-him frequently on the subject with a view to confirm said statement
-with another and I was surprised to find them always correspond
-On one of those days, I met at the house of a friend Watson
-Vredenburg Esquire, H B M Commissioner for the Slave Trade 
-We conferred together and I promised to send Baxter to him
-that he might take his desposition, with an object to compare with
-the one that I should require of him when I should consider it 
-proper to take a formal one before me. I sent Baxter to Mr
-Vredenburg and to my surprise two days after I learned  at
+him frequently on the subject with a view to compare one statement
+with another and I was surprised to find them always correspond.
+On one of these days, I met at the house of a friend, Watson
+Vredenburg Esquire, H B M's Commissioner for the Slave trade. 
+We conversed together and I promised to send Baxter to him,
+that he might take his deposition, with an object to compare with
+the one that I should require of him, when I should consider it 
+proper to take a formal one, before me. I sent Baxter to Mr
+Vredenburg, and to my surprise, two days after, I learned at
 a late hour that Baxter had been sent on board the British 
-Brig "Elizabeth" as a British subject and which vessel was that
-day <unclear>depart</unclear> for England I was still under excitement <unclear/>
-<unclear>of this extraordinary</unclear> <unclear/> Captain <unclear>Jorge de Vargas</unclear>
+Brig "Elizabeth," as a British subject, and which vessel was that
+day sail for England. I was still under excitement on account
+of this extraordinary occurrence. Captain <unclear/>
 <catchwords>of</catchwords>
 
 <pb facs="teaa.en.letter.0069.003"/>
-of the Portuguese Corvette <unclear>"Infanto de Soao"</unclear> came into
-my office and in a few words I explained to him the course of
+
+of the Portuguese Corvette "Infanto D. João" came into
+my office, and in a few words I explained to him the course of
 my <unclear/>. He made a remark of dissatisfaction and said
-he would not imagine what motive could have caused Mr Vredenburg
-to not <unclear/> and doubted <unclear/> if Baxter had been properly 
+he could not imagine what motive could have caused Mr Vredenburg
+to act so, and doubted very much if Baxter had been properly 
 cleared by the Police Authorities, according to the local laws of 
-the Province. <unclear>I rejoiced</unclear> that same evening to learn that through 
-Commander de O's influence Baxter was taken out of the  
-vessel by order of the police authorities for not having been 
+this Province. I <unclear/> that same evening to learn that through 
+Commander de <unclear>D's</unclear> influence Baxter was taken out of the  
+vessel by order of the Police Authorities for not having been 
 cleared from that department and sent on board of the Portuguese
- Corvette <unclear>"Infanto de Soao"</unclear> Two days afterwards Baxter 
-was sent to the British Consul Mr Vredenburg is also Consul 
-<unclear></unclear> also I addressed a note to Mr Vredenburg <note>Enclosure No. 1</note> who
-immediately sent Baxter to my office with a despatch <note>Enclosure No. 2</note> and a 
-certified copy of the deposition of Baxter <note>Enclosure No. 3</note> taken before him In
-the mean time, the Portuguese Government had heard of the report
-made by Baxter of an embarcation of slaves in a Portuguese 
-port and addressed me a note,  <note>Enclosure No. 4</note>requesting me the kindness to 
+Corvette "Infanto D. João." Two days afterwards Baxter 
+was sent to the British Consul (Mr Vredenburg is also Consul) 
+on the 9th ult. I addressed a note to Mr Vredenburg, who
+immediately sent Baxter to my office with a despatch and a 
+certified copy of the deposition of Baxter, taken before him. In
+the mean time the Portuguese Government had heard of the report
+made by Baxter of an <sic>embarcation</sic> of slaves in a Portuguese 
+port, and addressed me a note requesting me the kindness to 
 <catchwords>inform</catchwords>
 
 <pb facs="teaa.en.letter.0069.004"/>
 
-inform them fully on the subject. The following morning I 
-invited three witnesses to my house and before them took the 
-deposition of Baxter and the same day sent a despatch <note>Enclosure</note>
-to the Colonial Secretary General <unclear/> certified copies of both 
-depositions. I also addressed Mr Vredenburg again You will 
-<unclear></unclear> by inclosure No 6 that I requested of the Provincial Government
-to send Baxter to Mossamedes as I thought that on the <unclear>way port</unclear>
-they would be better able to get at the truth of this <unclear>spare</unclear> subject.
-I recieved a reply in the affirmative and on the 12th ult. I sent
-Baxter with a despatch on board of the Portuguese Corvette
-<unclear>Infanto de Soao</unclear> On the 14th ulto I recieved a despatch from 
-the British Consul On the 30th ult the Corvette  returned and 
-on that day I received a communication from Commander de <unclear>O</unclear>
+inform them fully on the subject. The following evening, I 
+invited three witnesses to my house and before them, took the 
+deposition of Baxter and the same day sent a despatch 
+to the Colonial Secretary General <unclear>&amp;</unclear> <unclear>other</unclear> certified copies of both 
+depositions. I also addressed Mr Vredenburg again. You will 
+observe by inclosure No 6 that I requested of the Provincial Government
+to send Baxter to Mossamedes, as I thought that on the <unclear>very</unclear> <unclear>spot</unclear>
+they would be better able to get at the truth of this <unclear/> subject.
+I received a reply in the affirmative and on the 12th ult. I sent
+Baxter with a despatch, on board of the Portuguese Corvette
+"Infanto D. João". On the 14th ulto I received a despatch from 
+the British Consul. On the 30th ulto the Corvette returned, and 
+on that day I received a communication from Commander de <unclear>D</unclear>
 and on the 3rd inst a despatch from the acting Governor General 
 both informing me that the evidence obtained at Mossamedes found
 Baxter guilty of basest falsehood and that he had been committed
-to Prison by order of the Government to be tried on 
-the charge of the false <unclear></unclear> I replied on the 3 inst 
-requesting
+to Prison by order of the Government, to be tried on 
+the charge of the false <unclear/>. I replied on the 3rd inst 
+<catchwords>requesting</catchwords>
 
-<pb facs="teaa.en.letter.0069.005"/>
+<pb facs="teaa.en.letter.0069.005"/><!-- HERE -->
 
 requesting copies of the depositions taken at Mossamedes In 
 the meantime Baxter was brought up before the provincial 
@@ -295,7 +302,7 @@ should have been extremely serious. He offered me
 an apology for acting thus, alleging that he supposed I 
 had done with him but which I had never thought a 
 justifiable excuse; Nevertheless I considered it proper to 
-let the subject stop with him, after this apology.</p>
+let the subject stop with him, after this apology.
 
 <p>You will perceive by the numerous enclosures 
 that I have enclosed to do <unclear></unclear> upon me 
