@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Joaquin Olavo Gamboa to Augustus Archer Silva, April 13, 1867</title>
+<title>Correspondence from Joaquim Olavo Gamboa to Augustus Archer Silva, April 13, 1867</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Joaquin Olavo Gamboa to Augustus Archer Silva</title>
+<title level="a">Correspondence from Joaquim Olavo Gamboa to Augustus Archer Silva</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">2</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,16 +71,15 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Gamboa, Joaquim Olavo</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Kroomen</term>
 </keywords>
     
 <keywords scheme="original" n="language">
@@ -90,21 +90,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Gamboa, Joanquin Olavo</persName>
+<roleName>Chief of the Police, </roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1867-04-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +109,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-28" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,20 +119,25 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0077"/>
 
 <note>Copy</note>
-<p>Sir<lb/>
-It becomes my duty to call your 
+<note>Series of 1864.</note>
+<note>Administration of the Council<lb/>
+No. <unclear>149</unclear>.</note>
+
+<salute>Sir</salute>
+
+<p>It becomes my duty to call your 
 attention to the fact that there is a great 
 number of Kroomen negroes about the streets 
 of this city, who were left here by the 
-American Corvette "Sacramento" these men 
-give great annoyance to some of the inhabitants 
+American Corvette "Sacramento". these men 
+give great annoyance to some of the inhabitants, 
 principally those of the Bungo neighborhood 
-by reason of great noise they make having 
+by reason of great noise they make, having 
 no regard for the police regulations of the city.</p>
 
 <p>I beg therefore that you will take 
@@ -145,12 +147,12 @@ these men. </p>
 
 <p>God preserve you.</p>
 
-<closer><dateline>Loanda 13th April 1864</dateline>
+<closer><dateline>Loanda 13th, April 1864.</dateline><lb/>
 <address><addrLine>To the Commercial Agent</addrLine> 
 <addrLine>of the United States</addrLine></address>
 
-<signed>(Signed) Joaquin Olavo Gamboa<lb/>
-Chief of the Police</signed></closer>
+(Signed) <signed>Joaquim Olavo Gamboa</signed><lb/>
+Chief of the Police</closer>
 
 </div1>
 </body>

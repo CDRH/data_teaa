@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Augustus Archer Silva to J. H. Allard, April 9, 1867</title>
+<title>Correspondence from Augustus Archer Silva to J. H. Allard, April 9, 1867</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Augustus Archer Silva to T. S. Helard</title>
+<title level="a">Dispatch from Augustus Archer Silva to the Commander of H.M.S. Dromedary</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">2</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,16 +71,16 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/31332982">Collins, Napoleon, 1814-1875</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Monrovia (Liberia)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Kroomen</term>
 </keywords>
     
 <keywords scheme="original" n="language">
@@ -90,31 +91,27 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1867-04-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Allard, J. H.</persName>
-<placeName></placeName>
+<roleName>Staff Commander, H.M.S. Dromedary</roleName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-28" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,24 +119,21 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0075.001"/>
-<note>Copy</note>
-<opener><dateline>St Paul de Loanda April 9 1864</dateline>
-<address>
-<addrLine>To the</addrLine>
-<addrLine>Commander of H. M. S.</addrLine>
-<addrLine>"Dromedary"</addrLine>
-</address>
-</opener>
 
-<p>Sir<lb/>
-The Kroomen left here by 
-U. S. S. "Sacramento" have requested 
-me to address you on the subject of 
+<note>Copy</note>
+
+<opener><dateline>St. Paul de Loanda April 9, 1864</dateline></opener>
+
+<salute>Sir</salute>
+
+<p>The Kroomen left here by 
+U.S.S. "Sacramento" have requested 
+me to address you on the Subject of 
 their obtaining passage to their 
-home in the vessel under your Command&#8212;
+home in the vessel under your command.
 complying with this desire I would 
 beg first to day a few words in 
 correction of any misapprehension which 
@@ -147,58 +141,62 @@ you may be under in consequence
 of possible misrepresentation on their 
 part.</p>
 
-<p>Those men were shipped by 
-Captain Collins Commanding U.S. 
+<p>These men were shipped by 
+Captain Collins, Commanding U.S. 
 Ship "Sacramento" with the distinct 
 understanding that they were to be 
-discharged on arrival in this port, 
+discharged on arrival in this port; 
 of course neither Captain Collins nor 
 the Kroomen were aware of the 
 <catchwords>extreme</catchwords>
 
+<fw type="address"><address>
+<addrLine>To the</addrLine>
+<addrLine>Commander of H.M.S.</addrLine>
+<addrLine>"Dromedary"</addrLine>
+</address></fw>
+
 <pb facs="teaa.en.letter.0075.002"/>
+
 extreme difficulty of returning from this 
 port to Monrovia, else the men in 
 question would never have been Shipped.
 They are now here in an almost 
-destitute condition, and without work
-should one of U. S. Ships arrive here 
+destitute condition, and without work.
+Should one of U.S. Ships arrive here 
 from the European Squadron, there would 
 be an opportunity of their returning to 
-Monrovia, but as there is no probability 
+Monrovia. but as there is no probability 
 of such arrival for some months
 to come it would be an act 
 of the greatest kindness and charity on 
 your part toward these men should 
 you feel disposed to grant them a 
-passage&#8212; I believe they have 
+passage. I believe they have 
 sufficient money to supply such necessaries 
 as they would consume on the 
 passage; so that you would be at no 
-trouble concerning their maitenance.</p>
+trouble concerning their maintenance.</p>
 
 <p>In conclusion I would beg 
 leave to say that in addressing you on 
-the point I have done so solely on behalf 
+this point I have done so solely on behalf 
 of the Kroomen with whose unhappy 
 circumstances here I am too well 
-acquainted, and by no means in an 
-
+acquainted, and by no means in an offi-
 
 <pb facs="teaa.en.letter.0075.003"/>
+
 official capacity, nor as fulfilling a 
-duty to-wards them for they know 
+duty to-wards them for they knew 
 perfectly well before being shipped 
 that they would be discharged in 
 this port.</p>
 
-<closer><salute>I have the honor 
-to be
-Yours Respectfully</salute>
-<signed>Signed, Augustus A. Silva</signed></closer>
-
-
-
+<closer><salute>I have the honor<lb/> 
+to be<lb/>
+Yours Respectfully</salute><lb/>
+Signed, <signed>Augustus A. Silva</signed></closer>
 
 </div1>
 </body>

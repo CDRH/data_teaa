@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,21 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/104452403">Hornby, Geoffrey Phipps, Sir, 1825-1895</term>
+<term>Wickes, Harvey</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Ambrizette (Angola)</term>
+<term>New York</term>
+<term>St. Paul de Loanda (Angola)</term>
+</keywords>
 
+<keywords scheme="original" n="empires">
+<term>Brazil</term>
+<term>France</term>
+<term>Great Britain</term>
+<term>Portugal</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +100,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1866-06-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1866-08-17"/>
 </correspAction>
@@ -113,6 +120,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-28" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
 
@@ -123,52 +131,52 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0073.001"/>
 
 <note>Recd Aug 17</note>
-<note>Acked Sept <unclear>21</unclear></note>
-<note>Mr. J Smith</note>
-<note><unclear>Acknowledge &amp; file</unclear></note>
+<note>Ackd Sept 21</note>
+<note>No 23</note>
 
-<opener>
-No 23
-<dateline>United States Commercial Agency<lb/> 
-St Paul de Loanda June 24, 1866</dateline>
-<address><addrLine>Hon William H Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington</addrLine></address>
-</opener>
+<opener><dateline>United States Commercial Agency<lb/> 
+St Paul de Loanda June 24, 1866.</dateline></opener>
 
+<salute>Sir,</salute>
 
-<p>Sir,<lb/>
-I have the honor to inform the 
+<p>I have the honor to inform the 
 Department that on the 22nd ultimo 
 I visited the British Flag Ship
 "Bristol" to resent my respect to 
 Commodore Hornby who received 
 me with cordial attention and 
-saluted me with seven Guns on my 
-depature. In consequence of information 
+saluted me with Seven Guns on my 
+departure. In consequence of information 
 received from the British 
 Consul some time since that 
 the rank of Commercial Agent was
 not known in the British Navy. I 
 announced myself on board as United 
-States Consul. The Next day 
-Commodore
+States Consul. The next day 
+<catchwords>Commodore</catchwords>
+
+<fw type="address"><address>
+<addrLine>Hon: William H. Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+<addrLine>Washington.</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0073.002"/>
+
 Commodore Hornby returned my
 visit and referring to the subject 
 he confirmed the British Consul's
-statement and further added if 
+Statement and further added if 
 I had sent him my card as 
 Commercial Agent he would not 
 have known how to act and most 
 assuredly would not have saluted 
-me.  The Department will please 
+me. The Department will please 
 note that I am not in the habit of 
 seeking salutes as this was my first. 
 Nearly two years in office, I felt it
@@ -179,15 +187,15 @@ my appointment as Commercial Agent.
 The Commanders of British Vessels 
 of War have been very kind to
 
-
 <pb facs="teaa.en.letter.0073.003"/>
+
 American Merchants established along 
-this coast and not long since 
+this Coast and not long since 
 H M Steam Tender Pioneer, landed
-at Ambrizette, Forty Armed Men 
-and protected the Trading Factory 
+at Ambrizette Forty Armed Men 
+and protected the trading Factory 
 of Mr Harvey Wickes (of New York State) 
-for six days from destruction by 
+for six days, from destruction by 
 the natives. The "palana" was subsequently 
 settled and Mr Wickes lives 
 peaceably among them.</p>
@@ -196,19 +204,20 @@ peaceably among them.</p>
 show the Department the unpleasant 
 situation of Commercial Agents when 
 they come in contact with foreign 
-vessels of War more especially the 
+vessels of War, more especially the 
 Commercial Agency of St Paul de 
-Loanda, which from its Commercial
+Loanda, which, from its Commercial
 <catchwords>importance</catchwords>
 
 <pb facs="teaa.en.letter.0073.004"/>
+
 importance, and locality frequently  
 visited by the squadrons of 
 England, France, and Portugal; 
 and together from the fact, England 
 and Brazil support full Consuls 
 here, I am in hope the Department 
-will consider the expedency of 
+will consider the expediency of 
 creating the agency to a Consulate 
 and thus avert the possibility of 
 it's official character being 
@@ -216,20 +225,20 @@ misunderstood.</p>
 
 <closer><salute>I have the Honor<lb/>
 to be<lb/>
-Your Most Obt Servt</salute>
-<signed>Augustus Archer Silva
+Your Most Obt Servt</salute><lb/>
+<signed>Augustus Archer Silva<lb/>
 Commercial Agent</signed></closer>
 
-<note type="label"><unclear>To T</unclear> Coml Agency<lb/>
+<note type="label">US Coml Agency<lb/>
 St Paul de Loanda<lb/>
 June 24, 1866</note>
 
 <note type="label">No 23</note>
 
-<note type="label">Recommending this<lb/>
-agency <unclear>to be</unclear> created<lb/>
-a Consulate --<lb/>
-reasons given.</note>
+<note type="label">Recommending this
+agency to be created
+a Consulate&#8212;
+reasons given</note>
 
 </div1>
 </body>
