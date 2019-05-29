@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,15 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Miller, George E.</term>
+<term>Miller, Henry</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Cuanza River</term>
+<term>Delaware River</term>
+<term>Philadelphia (Penn.)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +94,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1867-11-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +113,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-29" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,57 +123,57 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0082.001"/>
 
+<note>No 36.</note>
 
-<note>Mr <unclear/></note>
-<note>Ack <unclear/></note>
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda 18th Novr 1867.</dateline></opener>
 
-<opener>No 36<lb/>
-<dateline>United States Commercial Agency<lb/>
-St Paul de Loanda 18th Nov 1867</dateline>
+<salute>Sir</salute>
 
-<address><addrLine>Wm H Seward </addrLine>
-<addrLine>Secretary of State </addrLine>
-<addrLine>Washington </addrLine>
-<addrLine>D.C.</addrLine></address>
-
-</opener>
-
-<p>Sir<lb/>
-I have the honor to inform the 
+<p>I have the honor to inform the 
 Department that on the 4th of September 
 the American Ship "Wm Cummings" of 
 Philadelphia, George E Miller, master; 
 arrived at this port with a cargo of 
 coal for the United States Naval Store 
 House. On the night previous I had gone 
-up the Cuanza River on a business connected
-with a line of steamers I have established 
+up the Cuanza River on business connected
+with a line of Steamers I have established 
 there. The water on the river having fallen 
 very much while I was up there I was 
 detained four days longer than I expected 
-to be absent I arrived at Loanda on 
-my return early on the 20th, September, when 
+to be absent. I arrived at Loanda on 
+my return early on the 20th September, when 
 I was informed that the entire crew, twelve 
 in number, of the said ship "Wm 
-Cumm-<catchwords>ings</catchwords>
+Cumm-
+<catchwords>ings</catchwords>
+
+<fw type="address"><address>
+<addrLine>Wm H. Seward</addrLine>
+<addrLine>Secretary of State </addrLine>
+<addrLine>Washington</addrLine>
+<addrLine>D.C.</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0082.002"/>
+
 ings" had refused duty and in consequence 
-now imprisoned by the Captain; 
+were imprisoned by the Captain; 
 the crew preferring to go to jail until
 I would return, to lay their grievances before 
 me. I heard from different persons 
 that the treatment they had received on 
-board was horrible in the extreme I 
+board was horrible in the extreme. I 
 at once visited them at the prison, when the
 representation they made to me excited my 
-empathy as well as to prompt me to 
+sympathy, as well as to prompt me to 
 thoroughly examine the case. I commenced 
-to do so five days afterwards and the examination 
+to do so two days afterwards and the examination 
 lasted through ten days.</p>
 
 <p>The circumstances resulting 
@@ -184,12 +185,12 @@ down river in tow of two tug
 boats. The ship was six days getting 
 down the Delaware. During the first 
 three days the crew reports that the 
-chief oficer, Mr Henry Miller, brother to 
+chief officer, Mr Henry Miller, brother to 
 the master, struck and kicked several of 
 <catchwords>the</catchwords>
 
+<pb facs="teaa.en.letter.0082.003"/><!-- START ENCODING HERE -->
 
-<pb facs="teaa.en.letter.0082.003"/>
 the crew. The harsh treatment very much 
 displeased them and they resolved 
 among themselves to refuse duty until 
