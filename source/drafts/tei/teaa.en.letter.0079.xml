@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,16 +71,15 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Allard, J. H.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Kroomen</term>
 </keywords>
     
 <keywords scheme="original" n="language">
@@ -90,21 +90,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Peile, Mountford S. L.</persName>
+<roleName>Commander Senior Officer, South Division</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1867-04-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +109,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-29" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,21 +119,18 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0079.001"/>
 
 <note>Copy</note>
-<opener><dateline>H. M. S. "Espoir"
-Loanda 13th April 1864</dateline>
-<address><addrLine>Augustus A Silva</addrLine>
-<addrLine>Commercial Agent </addrLine>
-<addrLine>United States of America</addrLine></address>
 
-</opener>
+<opener><dateline>H.M.S. "Espoir"<lb/>
+Loanda 13th April 1867.</dateline></opener>
 
-<p>Sir<lb/>
-I have the honor to acknowledge the
+<salute>Sir</salute>
+
+<p>I have the honor to acknowledge the
 receipt of your letter of this day's date 
 and to inform you that I shall give 
 directions to Staff Commander Allard to 
@@ -149,21 +143,27 @@ already received from the Commander in chief.</p>
 
 <p>2. Staff Commander Allard
 will have directions to acquaint the 
-Account General of the Navy of his 
+Accountant General of the Navy of his 
 having given these 26 Kroomen a passage, 
 in order that their victualling may be 
 <catchwords>arranged</catchwords>
 
+<fw type="address"><address>
+<addrLine>Augustus A. Silva</addrLine>
+<addrLine>Commercial Agent</addrLine>
+<addrLine>United States of America</addrLine>
+</address></fw>
+
 <pb facs="teaa.en.letter.0079.002"/>
+
 arranged between the two Governments.</p> 
 
 <closer><salute>I have the honor to be<lb/>
 Sir<lb/>
 Your Obt Servant</salute>
-<signed>Signed, M. S. L. Peile<lb/>
-South Division</signed></closer>
-
-
+Signed, <signed>M. S. L. Peile</signed><lb/>
+Commander Senior Officer<lb/>
+South Division.</closer>
 
 </div1>
 </body>
