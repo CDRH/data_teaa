@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,9 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Boston (Mass.)</term>
+<term>St. Paul de Loanda (Angola)</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +92,28 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
-<placeName>Luanda, Africa</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1865-01-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
-<date when="1865-01-01"/>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1865-04-10"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-08" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,22 +121,19 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en"> 
 
 <pb facs="teaa.en.letter.0060"/>
-
 
 <note>Recd April 10</note>
 <note>Ack " 12</note>
 <note>No 7</note>
-<note><unclear/>and return
-<unclear/> completion</note>
 
 <opener><dateline>United States Commercial Agency<lb/>
 St Paul de Loanda January 1st 1865</dateline></opener>
 
 <p>I have the honor to
-enclose you this Consular Bond
+enclose you the Consular Bond
 required of me by the Department
 which was returned from Boston
 for my signature, I had
@@ -151,12 +147,12 @@ in my Despatch No 1.</p>
 <closer>
 <salute>I have the honor<lb/>
 to be<lb/>
-You most Obdt Servt</salute>
+Your most Obd't Serv't</salute>
 <signed>Augustus Archer Silva<lb/>
 Commercial Agent</signed>
 
 <address>
-<addrLine>Hon. Wm H Seward</addrLine>
+<addrLine>Hon Wm H Seward</addrLine>
 <addrLine>Secretary of State</addrLine>
 <addrLine>Washington</addrLine>
 </address>

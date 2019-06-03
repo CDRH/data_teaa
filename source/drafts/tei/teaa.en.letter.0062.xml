@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,15 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Harvey</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Brazil</term>
+<term>England</term>
+<term>Lisbon (Portugal)</term>
+<term>London (England)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,30 +94,27 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
-<placeName>Luanda, Africa</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>London, England</placeName>
 <date when="1865-05-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-08" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -121,79 +122,76 @@
 
 <body>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en"> 
 
 <pb facs="teaa.en.letter.0062.001"/>
-<note>File</note>
-<note><unclear/></note>
 
 <opener>
-<dateline>Loanda May 10th 1865</dateline>
-<address>
-<addrLine>The</addrLine>
-<addrLine>Hon Secretary of State</addrLine>
-<addrLine>Washington</addrLine>
-<addrLine>D.C.</addrLine>
-</address>
-
+<dateline>London May 10th 1865</dateline>
 </opener>
 
-<p>Sir<lb/>
-In accordance with my Dispatch
+<salute>Sir</salute>
+
+<p>In accordance with my Dispatch
 to the Department of State
 dated St Paul de Loanda December
-21st 1864 informing you of my
+31st 1864 informing you of my
 unavoidable visit to this country
-and my reasons for so doing I
+and my reasons for so doing. I
 have the honor to say I arrived
 here on the 4th ultimo and on
 the 20th inst I return to my
-port of duty upon Steamer <unclear/>
-via Lisbon</p>
+post of duty upon Steamer <unclear/>
+via Lisbon.</p>
 
 <p>While at Lisbon on my
 way here I had the honor of
 an interview with our minister Mr
 Harvey and explained to him my
-views on the <unclear/> of creating
+views on the necessity of creating
 a Consulate at St Paul de Loanda
 instead of a Commercial Agency.
 I recommend this <unclear>alteration</unclear> not
 with any motive of personal <unclear/>
-<unclear/> or <unclear>fiduciary</unclear> benefit but
+<unclear/> or <unclear>pecuniary</unclear> benefit, but
 only that the representative of the
 United States should at least rank
 with Consuls of other nations</p>
 
 <p>The British and
-<catchwords>Brazilian</catchwords>
+<fw type="catch">Brazilian</fw>
+
+<fw type="address"><address>
+<addrLine>The Hon Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0062.002"/>
 
 Brazilian nations have first class
 consuls there. The Portuguese
 officials do not consider a Commercial
-Agent <unclear>significant</unclear> to a Consular
-Agent and it does not appear
+Agent <unclear/> to a Consular
+Agent, and it does not appear
 to me to be in conformity
 with the dignity of the United
-States as a first class power
-to rank last and least in an
-country situated so long or distant
-from its government or its
+States as a first class power,
+to rank last and least in a
+country situated so long or <unclear>distance</unclear>
+from its Government, or its
 representative in Portugal. Mr
 Harvey impressed with the importance
 of my representation
-proceeded to <unclear>address</unclear> your attention
+<unclear>promised</unclear> to draw your attention
 to the subject. I therefor submit
-their remarks in addition
+these remarks in addition,
 feeling convinced as now our unhappy
 war is over. Commercial
-Prosperity with our part of the
+prosperity with our part of the
 coast of Africa and the United States
 will be resumed on as prosperous a
 <unclear>note</unclear> as before the war fully
-justifying the <unclear>from there</unclear> of Office
+justifying the <unclear/> of Office
 herein requested.</p>
 
 <closer>
@@ -202,10 +200,9 @@ to be<lb/>
 Your most Obdt Servt</salute>
 <signed>Augustus Archer Silva<lb/>
 Commercial Agent<lb/>
-at<lb/>
+at
 St. Paul de Loanda</signed>
 </closer>
-
 
 </div1>
 </body>

@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,14 +71,40 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Beaton</term>
+<term>Beaty</term>
+<term>Beckwith, Henry</term>
+<term>Calden, James</term>
+<term>da Silveira d' Avila, José Pimentel</term>
+<term>Henwright, Andrew</term>
+<term>Little, John</term>
+<term>Miller, George E.</term>
+<term>Miller, Henry</term>
+<term>Perez, Edward</term>
+<term>Powers, Charles H.</term>
+<term>Robbins, C. H.</term>
+<term>White, Bernard</term>
+<term>Woodbury, William E.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Angola</term>
+<term>Bahia (Brazil)</term>
+<term>Boston (Mass.)</term>
+<term>Cuanza River</term>
+<term>Delaware River</term>
+<term>Gloucester (Mass.)</term>
+<term>Lisbon (Portugal)</term>
+<term>Philadelphia (Penn.)</term>
+<term>Salem (Mass.)</term>
+<term>St. Helena</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -90,31 +117,28 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1867-11-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-29" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,57 +146,57 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0082.001"/>
 
+<note>No 36.</note>
 
-<note>Mr <unclear/></note>
-<note>Ack <unclear/></note>
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda 18th Novr 1867.</dateline></opener>
 
-<opener>No 36<lb/>
-<dateline>United States Commercial Agency<lb/>
-St Paul de Loanda 18th Nov 1867</dateline>
+<salute>Sir</salute>
 
-<address><addrLine>Wm H Seward </addrLine>
-<addrLine>Secretary of State </addrLine>
-<addrLine>Washington </addrLine>
-<addrLine>D.C.</addrLine></address>
-
-</opener>
-
-<p>Sir<lb/>
-I have the honor to inform the 
+<p>I have the honor to inform the 
 Department that on the 4th of September 
 the American Ship "Wm Cummings" of 
 Philadelphia, George E Miller, master; 
 arrived at this port with a cargo of 
 coal for the United States Naval Store 
 House. On the night previous I had gone 
-up the Cuanza River on a business connected
-with a line of steamers I have established 
+up the Cuanza River on business connected
+with a line of Steamers I have established 
 there. The water on the river having fallen 
 very much while I was up there I was 
 detained four days longer than I expected 
-to be absent I arrived at Loanda on 
-my return early on the 20th, September, when 
+to be absent. I arrived at Loanda on 
+my return early on the 20th September, when 
 I was informed that the entire crew, twelve 
 in number, of the said ship "Wm 
-Cumm-<catchwords>ings</catchwords>
+Cumm-
+<catchwords>ings</catchwords>
+
+<fw type="address"><address>
+<addrLine>Wm H. Seward</addrLine>
+<addrLine>Secretary of State </addrLine>
+<addrLine>Washington</addrLine>
+<addrLine>D.C.</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0082.002"/>
+
 ings" had refused duty and in consequence 
-now imprisoned by the Captain; 
+were imprisoned by the Captain; 
 the crew preferring to go to jail until
 I would return, to lay their grievances before 
 me. I heard from different persons 
 that the treatment they had received on 
-board was horrible in the extreme I 
+board was horrible in the extreme. I 
 at once visited them at the prison, when the
 representation they made to me excited my 
-empathy as well as to prompt me to 
+sympathy, as well as to prompt me to 
 thoroughly examine the case. I commenced 
-to do so five days afterwards and the examination 
+to do so two days afterwards and the examination 
 lasted through ten days.</p>
 
 <p>The circumstances resulting 
@@ -184,12 +208,12 @@ down river in tow of two tug
 boats. The ship was six days getting 
 down the Delaware. During the first 
 three days the crew reports that the 
-chief oficer, Mr Henry Miller, brother to 
+chief officer, Mr Henry Miller, brother to 
 the master, struck and kicked several of 
 <catchwords>the</catchwords>
 
-
 <pb facs="teaa.en.letter.0082.003"/>
+
 the crew. The harsh treatment very much 
 displeased them and they resolved 
 among themselves to refuse duty until 
@@ -203,8 +227,8 @@ least to comply with the crew's just
 request; but did by his actions defend 
 the mate by locking up the 
 twelve seamen in the forecastle for 
-thirty-six hours without food or water 
-I cannot detect the least sign of 
+thirty six hours without food or water 
+I can not detect the least sign of 
 mutinous conduct, on the part of the 
 crew, beyond the simple refusal of 
 duty, to receive a promise of better 
@@ -213,16 +237,17 @@ any justifiable motive to oppress
 these unfortunate seamen, whose only 
 object evidently was to defend their 
 personal safety, during the contemplated 
-long voyage before them.</p>
+long voyage before them.
 
 <pb facs="teaa.en.letter.0082.004"/>
-<p>Thirty six hours these men <sic>where</sic> forced 
+
+Thirty six hours these men <sic>where</sic> forced 
 to suffer from hunger &#38; thirst and according 
 to their representation some were 
 forced to quench their parched throats 
 in a deplorable manner. At the end 
 of this period desperation caused them 
-to burst open the forecastle door when 
+to burst open the forecastle door; when 
 the captain, mates, steward, cook and 
 boy all now forward  armed, threatening 
 to blow the first man's brains out that 
@@ -233,22 +258,22 @@ in irons and the others had their
 hands tied behind them, and some 
 again locked up in the forecastle. 
 They in irons and tied were distributed 
-some to the hatch house- cabin state 
+some to the hatch house, cabin state 
 rooms &#38;c. Four or five of them were 
 put into close confinement in a 
-narrow closet or passage about three (3)
-feet long, two and a half (2 1/2) wide and 
+narrow closet or passage, about three (3)
+feet long, two and a half (2&#189;) wide and 
 seven (7) high. These closets are situated 
 in the house on deck at both
 
-
 <pb facs="teaa.en.letter.0082.005"/>
-sides inside of which there is a little 
-hatch, which when passed and the outside 
+
+sides; inside of which there is a little 
+hatch, which when raised and the outside 
 door open ventilates the hold.  On 
 these occasions the hatch was closed and 
-<unclear></unclear> sailor forced in and the outside 
-door closed upon him. I went on board 
+a poor sailor forced in and the outside 
+door closed upon him. I went onboard 
 and examined these places and found 
 them just as they had been represented 
 to me: places without the least 
@@ -256,30 +281,30 @@ ventilation. Some of the crew were
 kept in these places of confinement from 
 one to four hours, although the testimony 
 varies as to the length of time. The 
-sufferings of these poor creaturee must have 
-been terrible as when taken out of 
+sufferings of these poor creatures must have 
+been terrible, as, when taken out of 
 these places of confinement they would 
 fall down from exhaustion. Their inhuman
 persecutors even gagged one 
-while confined and another was dragged 
+while thus confined and another was dragged 
 out of his berth with a lame 
 shoulder and arm, and in this state 
 his arms were forced behind him and 
-tied.  His groans and cries did not 
+tied. His groans and cries did not 
 move the pity of his persecutors for an 
 <catchwords>hour</catchwords>
 
-
 <pb facs="teaa.en.letter.0082.006"/>
-hour and a half. Hunger, thirst, sweat boxes
-and threats forced them all to 
-submit even to the humiliation of begging 
+
+hour and a half. Hunger, thirst, sweat 
+boxes and threats forced them all to 
+submit, even to the humiliation of begging 
 the Captain's pardon.</p>
 
 <p>The Department will please 
 observe that all these cruelties were inflicted 
 within a few hours sail of 
-Philadelphia and in sight of the Revenue
+Philadelphia, and in sight of the Revenue
 Cutter, which the Captain refused to 
 call along side even at the joint request 
 of the men. The Captain pretends 
@@ -291,71 +316,73 @@ was.</p>
 <p>Captain Miller tries to represent 
 that his crew mutinied but, I cannot 
 see the least sign of anything 
-of the sort... It was a joint refusal of 
+of the sort. It was a joint refusal of 
 duty, with the object to get a simple 
 promise of being better treated in the 
 future. The evidence of the manner in 
 which the seamen were used previous 
 to refusing duty, is not very clear be-
-<catchwords>yond </catchwords>
+<catchwords>yond</catchwords>
 
 <pb facs="teaa.en.letter.0082.007"/>
+
 yond their own complaints, but I have
 a right to suppose that it was very severe 
 from the brutal manner they were subsequently 
-abused and on this supposition I 
+abused; and on this supposition I 
 think the men had a right, if not justified, 
 in making a request which ought 
 to have been complied with instead of 
 torturing them into submission. Captain 
 Miller fails to explain to me, why he 
-did not return to Philadelphia&#8212; to return 
+did not return to Philadelphia, to return 
 his men would have been glad to weigh 
-anchor&#8212; and his refusal to seek assistance 
+anchor, and his refusal to seek assistance 
 from the Revenue Cutter, proves his preference 
 to his own way of settling such 
 difficulties.</p>
 
 <p>I have the honor to enclose 
-seventeen depositions properly authenticated <note>Enclosure Nos. <unclear/></note>
-by me. The department is reading over 
+seventeen depositions properly authenticated 
+by me. The Department in reading over 
 some of these will feel equally as indignant 
 as I did when taking the 
-depositions.  The brutality of the mate 
+depositions. The brutality of the mate 
 was more excessive than the Captain, 
 although the latter has several very serious  
 charges against him. Several of the 
 <catchwords>crew</catchwords>
 
 <pb facs="teaa.en.letter.0082.008"/>
+
 crew had their heads broken by iron 
-or wooden belaying pins another with a 
+or wooden belaying pins, another with a 
 hatchet, another wounded severely in the 
 face, from a kick from the mate, while 
 at work on the ship's side, another 
 tossed overboard for 15 minutes for losing 
-a scraper another severely beaten 
+a scraper, another severely beaten 
 with a piece of wood for the slight 
 offence of contradiction, others severely 
 kicked in the side while at the 
 wheel and other horrible brutalities 
 all stated in the enclosed depositions.</p>
 
-<p>Notwithstandiing the denial 
-of the mate I am convinced of the 
-truth of crew's complaint, that nearly 
+<p>Notwithstanding the denial 
+of the mate, I am convinced of the 
+truth of crew's complaint, that, nearly 
 the entire passage they only received 
 one bucket of water per day for the use 
 of twelve men, besides their tea &#38; coffee 
 and meals, which of itself was a torture 
 particularly as the vessel neared 
-this coast and also there appears no 
+this coast, and also there appears no 
 cause to have justified them in 
 giving this short allowance of water 
 as there was plenty of water in the 
 
-
 <pb facs="teaa.en.letter.0082.009"/>
+
 ship's tanks and much rain was caught 
 during passage.</p>
 
@@ -370,7 +397,7 @@ duty prompted me at once to discharge
 the entire crew of twelve men and
 to demand of Captain Miller three months
 extra pay to each man. I accordingly
-addressed him a note to that effect on <note>Enclosure No 18</note>
+addressed him a note to that effect on 
 the 7th ultimo to which I have received
 no written reply. He called at my office
 and intimated to me that he was not
@@ -384,13 +411,13 @@ for Philadelphia as he wish to sail
 on the 20th of the same month. I received 
 <catchwords>this</catchwords>
 
-
 <pb facs="teaa.en.letter.0082.010"/>
+
 this information on the 14th ultimo, and 
 the same day Captain Miller told me that 
 he intended to go to sea under protest.
 I therefore lost no time in sending the 
-<note>Enclosure No 19</note> Governor General the enclosed despatch in 
+Governor General the enclosed despatch, in 
 accordance with authority derived from the 
 closing clause of the 28th section of the 
 act of Congress approved August 18th 
@@ -406,15 +433,16 @@ would not have placed his ship in difficulty.
 He has hinted to me several times 
 the certainty of judicial proceedings being 
 taken against me when the ship arrives home; 
-with a view to intimadate me, I nevertheless 
+with a view to <sic>intimadate</sic> me, I nevertheless 
 persist in the performance of my duty 
 as I consider it absolutely necessary that 
 these unfortunate seamen should be 
-protected from further inhumanity more 
-especially
+protected from further, inhumanity more 
+<catchwords>especially</catchwords>
 
 <pb facs="teaa.en.letter.0082.011"/>
-especially now as since what has occurred 
+
+especially now as since what has <sic>occured</sic> 
 it is reasonable to suppose that a greater 
 spite would he held against them, rather 
 than expect more moderate treatment.</p>
@@ -422,7 +450,7 @@ than expect more moderate treatment.</p>
 <p>The chief motive which caused 
 me to discharge the entire twelve men, was 
 the manner they all were treated when 
-they combined to ask of the Captain a 
+they combined to ask of the captain a 
 promise of better treatment. Captain Miller 
 in his defence pretends to make out a 
 case of mutiny to justify his proceedings 
@@ -432,34 +460,35 @@ The depositions of the Captain and the Mate,
 taken last, assert that the men drew 
 their knives, but from subsequent communication 
 with the men I learn, they did draw 
-their knives, one by one, and deliver them to 
+their knives, one by one and deliver them to 
 the Captain, who broke the blade of each 
 knife and returned the part with the 
 handle. The deposition of the Captain 
-and mate particularly the former have been 
+and Mate particularly the former have been 
 consider by me with due caution and from 
 whatever weak point they may wish to 
 fab-
 <catchwords>ricate</catchwords>
 
 <pb facs="teaa.en.letter.0082.012"/>
+
 ricate a different version to the case. The 
 case in general as it appears to me is 
 one of a serious nature and entitled to 
 special attention that a check may be put 
 on inhuman ship matters who trusting to 
 the aversion consuls generally have to assume 
-grave responsibilities and thus escape 
+grave responsibilities, and thus escape 
 without even a reprimand for their 
 brutality and inhumanity to seamen.</p>
 
 <p>I deemed it proper to have 
 the wounds of the crew examined before the 
 Chief medical officer of this city who sent 
-me a certificate of an authenticated translation 
-<note>Enclosure No. 20</note> of which I have the honor to enclose 
+me a certificate an authenticated translation 
+of which I have the honor to enclose 
 I also have the honor to enclose an extract 
-<note>Enclosure No. 21</note> from the ship's log book which 
+from the ship's log book which 
 contains an observation made with different 
 Ink indicating its having been written 
 at this port.</p>
@@ -472,6 +501,7 @@ such payment would deprive him of the
 
 
 <pb facs="teaa.en.letter.0082.013"/>
+
 privilege of proceeding against the crew for 
 mutiny. I reminded him that he would 
 be obliged to pay or otherwise I should 
@@ -479,14 +509,15 @@ detain his ship. I pointed out and
 read to him several consular regulations 
 and advised him to comply at 
 once and proceed on his voyage to 
-Babia for which port I could assist 
+Bahia, for which port I could assist 
 him to get a few men sufficient to 
 navigate his vessel by asking them from 
 a Portuguese Corvette stationed at this province. 
-Captain Miller made a proposition which I at once refused to entertain, 
+Captain Miller made a proposition 
+which I at once refused to entertain; 
 that he should appoint his second mate 
 master, he and the mate go as passengers 
-and me to return the crew-on board. For 
+and me to return the crew on board. For 
 three weeks or more Captain Miller never 
 again mentioned the subject or made any 
 allusion to what he intended to do, notwithstanding
@@ -494,49 +525,49 @@ he frequently visited my office.</p>
 
 <p>On the 13th inst. the British 
 Bark "Ionic" under the Command of Wm 
-E Woodbury, native of Gloucester, Mass;
+E. Woodbury, native of Gloucester, Mass;
 and Charles H. Powers of Salem, Mass; as 
-mate
-
+<catchwords>mate</catchwords>
 
 <pb facs="teaa.en.letter.0082.014"/>
+
 mate arrived here enroute for Boston  
 from which post said vessel had 
 originally sailed on this voyage.</p>
 
 <p>On the 14th inst. I met Capts.
 Woodbury and Miller under the Custom 
-House shed, Captain Millers' case was 
+House shed, Captain Miller's case was 
 again <sic>brough</sic> up when he suggested 
-that if I would send the man on board 
-he would appoint Mr Charles H Powers  
-mate of the "Ionic", as master of the 
-Ship "Wm Cummings". and his mate 
-Mr Henry Miller go mat&#233; in the 
+that if I would send the men on board 
+he would appoint Mr Charles H. Powers  
+mate of the "Ionic" as master of the 
+Ship "Wm Cummings" and his mate 
+Mr Henry Miller go mate in the 
 "Ionic" while he would go passenger 
-in the ship. I thought the matter 
+in the Ship. I thought the matter 
 over and concluded to approve of the 
 proposition in defence of the interest of 
-said ship's <unclear>crews</unclear>. During the afternoon
+said ship's <unclear/>. During the afternoon
 I met Mr Powers on shore who expressed 
 to me in the presence of my 
-brother and Bookkeeper Mr. Beaton that 
+brother and Book Keeper Mr. Beaton that 
 he would like the chance very much to 
 take the ship home. I made known my 
-approval to Captain Miiller Woodbury 
-the consented to make the exchange 
+approval to Captains Miller &amp; Woodbury 
+who consented to make the exchange 
 <catchwords>of</catchwords>
 
-
 <pb facs="teaa.en.letter.0082.015"/>
+
 of mates. The consent of Mr Powers was then  
 said to be required and it was not until 
-the afternoon of the 16th received a 
+the afternoon of the 16th I received a 
 note from Mr Powers saying that he had thought 
 the matter over and concluded to remain by 
-the "Ionic". </p>
+the "Ionic".</p>
 
-<p>The sudden revulsion of consent 
+<p>This sudden revulsion of consent 
 leads me to suppose that my willingness to 
 accede to his own proposition did not afterwards 
 appear so convenient. It would have 
@@ -558,7 +589,8 @@ that he will wait here until the
 <catchwords>arrival</catchwords>
 
 <pb facs="teaa.en.letter.0082.016"/>
-arrival of an United States Vessel-of-War. 
+
+arrival of an United States' Vessel-of-War. 
 I have been unsuccessful in convincing him 
 that the presence of such a vessel would not
 avail him further than provide him with 
@@ -571,12 +603,12 @@ with a boarding house on shore, and I
 am anxious for their sake to have this 
 question settled that I may send them 
 away as this is the commencement of our 
-sickly season, whenever this takes place 
-they will be sent if necessary <sic>to to</sic> the 
+sickly season. Whenever this takes place 
+they will be sent if necessary to <sic>to</sic> the 
 United States.</p>
 
 <p>Under this date I address 
-<note>Enclosure No. 22</note>an official letter to Captain Miller, a 
+an official letter to Captain Miller, a 
 copy of which I enclose for the information 
 of the Department.</p>
 
@@ -588,6 +620,7 @@ my demands. I reminded him that the
 <catchwords>responsibility</catchwords>
 
 <pb facs="teaa.en.letter.0082.017"/>
+
 responsibility of such step would rest 
 on him individually, and expressed my 
 regret that his owners should be made 
@@ -606,31 +639,31 @@ I be prosecuted.</p>
 
 <closer><salute>I have the honor<lb/>
 to be<lb/>
-Your Most Obt Sert</salute>
-<signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed></closer>
+Your Most Obt Sert</salute><lb/>
+<signed>Augustus Archer Silva</signed><lb/>
+Commercial Agent</closer>
     
-
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0082.018"/>
-<opener>
-<unclear/>
-Don José Pimentel da Silveira d' Avila<lb/>
-Physico <unclear/> da Provincia d' Angola<lb/>
 
-<dateline>United States Commercial Agency<lb/>
-St. Paul de Loanda 23rd Dec 1864</dateline>
-</opener>
+<p>(<unclear/>)</p>
 
-<p>I, the undersigned Commercial Agent
+<p>Dor José Pimentel da Silveira d' Avila<lb/>
+Physico-Mór da Provincia d' Angola</p>
+
+<p>United States Commercial Agency<lb/>
+St Paul de Loanda 23rd Decr 1867.</p>
+
+<p>I, the undersigned Commercial Agent,
 do hereby certify that the foregoing certificate
 signed Dr. José Pimentel
 da Silveira d' Avila, Chief Medical
 officer of this city, hereto annexed
 is a true and faithful copy of
-the original filed in this commercial
+the original filed in this Commercial
 Agency, the same having been carefully
 examined by me and compared
 with the said original and found to
@@ -639,43 +672,43 @@ figure for figure.</p>
 
 <p>Given under my hand and the seal
 of this Commercial Agency, the day
-and year above written.
-</p>
+and year above written.</p>
 
-<closer>
-<signed>Augustus Archer Silva<lb/>
-U.S. Commercial Agent</signed>
-</closer>
-
+<p>Augustus Archer Silva<lb/>
+U.S. Commercial Agent.</p>
 
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0082.019"/>
+
 <p>Translation</p>
+
 <p>I attest that the Crew of the Ship William 
-Cummings <del/> having been brought before 
+Cummings having been brought before 
 me by the respected Mr Augustus Archer 
 Silva Consular Agent of the United States 
 of America in order that they should be 
 examined as to wounds and ailings brought 
 on them during their voyage from Philadelphia 
 to this port, I examined Henry 
-Beckwith James Calden John Little
-Edward Perez, Andrew Henwright
-&#38; Bernard White. During the 
+Beckwith James Calderi John Little
+Edward Perez Andrew Henwright
+&#38; Bernardo White during the 
 proceedings on examining Henry Beckwith 
-he showed various scars on the right-<unclear></unclear> 
+he showed various scars on the right parietal 
 which by their color indicated they were 
 the result of blows given by some bruising 
-weapon and producing moreover hypertrophy 
-of the nasal region which seemed 
+weapon and producing <unclear/> hyper
+trophy of the nasal region which seemed 
 owing to a heavy blow from which it had 
-not yet recovered &#8212; on examining James 
+not yet recovered. on examining James 
 Caldera, twenty years of age, he showed a 
 scar above the left eye brow of the size of a  
 
-<pb facs="teaa.en.letter.0082.020"/>
+<pb facs="teaa.en.letter.0082.020"/> <!-- p20 IMAGE MISSING, has not been reviewed -->
+
 thumb, somewhat more or less, and
 sundry others about the hand owing
 to blows with some blunt instrument
@@ -702,7 +735,8 @@ complains of the joint of the ring finger
 of the left hand which seems the result
 <gap/> blunt weapon, and
 
-<pb facs="teaa.en.letter.0082.021"/>
+<pb facs="teaa.en.letter.0082.021"/> <!-- p21 IMAGE MISSING, has not been reviewed -->
+
 on the left shoulder signs of bruises.
 Andrew Henright 19 years old, on
 the left brow and right parietal two 
@@ -728,30 +762,33 @@ and sealed with, my seal.</p>
 
 <p>Dr José Pimentel da Silveira
 d' Avila - Chief Physician -</p>
+
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0082.022"/>
+
 <p>Translation</p>
 
 <p>The following named men of the crew
 of the ship Wm Cummings having
 been presented to me by Augustus 
-Archer Silva, Commericial Agent of 
+Archer Silva, Commercial Agent of 
 the United States, viz. Henry Beckwith
 James Calden John Little Edward 
-Perez, Andrew Hewright and
+Perez, Andrew Henwright, and
 Bernard White in order that I might 
 examine several wounds alleged to have
-been recieved during a voyage from
+been received during a voyage from
 Philadelphia to this port. I testify 
 that having examined Henry Beckwith
-I discerned sudry scars, over
-the right parietal lobe which by
+I discerned sundry scars over
+the right parietal bone which by
 their colour, seemed to be recent and 
 due to wounds made by contusing
 instruments, and there is also a 
-hypertropy of the nasal region
+hypertrophy of the nasal region
 which seemed due to a heavy blow
 and which is not yet cured.</p>
 
@@ -761,51 +798,53 @@ scar over the left eye brow of
 <catchwords>about</catchwords>
 
 <pb facs="teaa.en.letter.0082.023"/>
+
 about an inch in size and several
 others, upon the head due to wounds
 made by crushing weapons and
-fuller ecchymosis in the right leg
-the result of contusion and he also
+further <sic>eccymosis</sic> in the right leg
+the result of contusion, and he also
 experiences some difficulty with the
 use of the right hand from having 
-suffered inflammmation in the finger
+suffered inflammation in the finger
 joints</p>
 
 <p>On examining John Little aged
-47years there werer found sundry
+47 years there were found sundry
 scars upon the head, resulting from
 deep and large wounds made by
 a crushing instrument and near
-the left parietal lobe one wound
+the left parietal bone one wound
 just healing, sundry ecchymosis
-on the right leg and signs of a 
-contusion on the left side in the
+on the right leg, and signs of a 
+contusion on the left side, in the
 lumbar parts. He complains more
-over of giddines of the head.</p>
+over of giddiness of the head.</p>
 
 <p>Edward Perez aged 31 years who 
 says he is a native of <unclear>Corcuma</unclear>
 showed several scars near the
-left front parietal lobe on the
+left front parietal bone on the
 right side of the neck and 
 <catchwords>cheek</catchwords>
 
 <pb facs="teaa.en.letter.0082.024"/>
+
 cheek bone and on the joints of the
 fourth finger of the left hand all
 of which seem to be the result of
-wounds made with a <unclear>sharpened</unclear>
+wounds made with a sharp edged
 instrument, there are also signs of 
 contusion on the left shoulder</p>
 
 <p>Andrew Henwright aged 19 years
 showed a scar on the left eyebrow
 and another on the right parietal
-lobe, both <unclear/> but recent</p>
+bone, both small but recent</p>
 
-<p>Bernard White shows signs on
+<p>Bernard White, shews signs on
 the left hand of having been
-bound with rope and contusions on
+bound with rope, and contusions on
 the left side near the spleen.</p>
 
 <p>All these men declare that
@@ -816,26 +855,27 @@ instruments, and this appears to
 me to be the truth because the
 greater part of the scars, I have
 examined indicate the same <sic>becides</sic>
-thier not having been fitly and property
+their not having been fitly and properly
 treated.</p>
 
 <p>And in witness that this is
 <catchwords>the</catchwords>
 
 <pb facs="teaa.en.letter.0082.025"/>
+
 the truth, and that I have examined
 them and that I have questioned them
-I give this document wich I sign
+I give this document which I sign
 and seal with my seal</p>
 
 <p>Office of the Physician in
 charge of the Province
 of Angola the 8th day of
-October on the year 1867.</p>
+October in the year 1867.</p>
 
 <p>(signed) J Pimentel da Sa d' Avila
-Phycian in Chief of the Province
-of Angola </p>
+Physician in Chief of the Province
+of Angola</p>
 
 <p>I the undersigned Commercial Agent 
 of the United States do hereby certify
@@ -848,157 +888,164 @@ compared it with said original and
 find it to be correct.</p>
 
 <p>Given under my hand and
-seal of this agency this 18th day
+seal of this Agency this 18th day
 of November 1867 years</p>
 
-<p>Augustus Archer Silva
+<p>Augustus Archer Silva<lb/>
 Commercial Agent</p>
 
-<note type="label">with despatch No. 36<lb/>
-Translation of Medical Certificate<lb/>
-No 20<lb/>
-8th Oct. 1867<lb/>
-St Paul de Loanda</note>
 </div1>
 
+<div1 type="document" xml:lang="en">
 
-<div1 type="enclosure">
 <pb facs="teaa.en.letter.0082.026"/>
-<opener><dateline>United States Commercial Agency.<lb/>
-St. Paul de Loanda 11th Jany 1868</dateline>
-<address><addrLine>To</addrLine>
-<addrLine>Mr. George E. Miller</addrLine>
-<gap/>
-</address>
-</opener>
 
-<p>Sir<lb/>
-Captain C H Robbins of the
+<opener><dateline>United States Commercial Agency<lb/>
+St. Paul de Loanda 11th Jany 1868</dateline></opener>
+
+<salute>Sir</salute>
+
+<p>Captain C. H. Robbins of the
 American Brig "M Shepard" has told
 me that he offered you to exchange
 his mate with yours that you might
-take advantge of the opportunity
-to get your ship home to her owner.
+take advantage of the opportunity
+to get your ship home to her owners.
 Two days having elapsed since that
-proposition was made with any decisions
- on your part and as the
+proposition was made with any decision
+on your part and as the
 "M Shepard" will sail in a couple
-of days for St Helena. I address
+of days for St. Helena I address
 you this letter to suggest the 
 propriety of your accepting this
 offer on behalf of the interest
-of your owner who must be at 
-a heavy loss by the detentions of 
+of your owners who must be at 
+a heavy loss by the detention of 
 their ship at this port.
 <catchwords>Captain</catchwords>
 
+<fw type="address"><address>
+<addrLine>To</addrLine>
+<addrLine>Mr. George E. Miller</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0082.027"/>
+
 Captain Robbins mentioned that
 one of your reasons which checked
-your decisions was your objection to 
+your decision was your objection to 
 pay the expenses incurred by the
-crew since they have been on shore.
+crew since they have been on shore
 In consideration of the uncertainty
 of when another opportunity may
 offer to get the ship home and
 for the interest of your owners I
 will yield to your determination not
 to pay, and refer the amount to the
-United States Government for Collection
-on the arrivial of the ship home.</p>
+United States Government for collection
+on the arrival of the ship home.</p>
 
 <p>Should you thus wish to make
 me the same proposition in respect
 to Mr Beaty  as you did with Mr. 
-Powers mate of the Bark "Ionic" I
+Powers, mate of the Bark "Ionic". I
 will send your former crew on board
-of the Wm Cumming or otherwise
+of the "Wm Cummings" or otherwise
 I will send them away by the first
 opportunity offering.</p>
 
-<p> You are perfectly aware that a recent Royal Decree
-of Portugal prohibts the shipment <catchwords>of</catchwords>
+<p>You are perfectly 
+aware that a recent Royal Decree
+of Portugal prohibits the shipment
+<catchwords>of</catchwords>
 
 <pb facs="teaa.en.letter.0082.028"/>
-of Portugese sailors onboard of
+
+of Portuguese sailors onboard of
 foreign vessels, unless provided
 with a certificate of exemption 
-from military service and as
+from military service, and as
 those certificates can only be
-obtained at Lisbon this circumstance
+obtained at Lisbon, this circumstance
 will prevent your
 getting a crew when you
-feel disposed to proceed on your voyage.</p>
+feel disposed to proceed on 
+your voyage.</p>
 
 <p>Whatever difference of
-opinion you may have reguarding
+opinion you may have regarding
 my official action will
 be better decided with the
 crew at home than otherwise.</p>
 
-<closer><salute>I have the honor
-to be
-Sir
-Your Mo obt Sert</salute>
-<signed>(Sg) Augustus Archer Silva
-Comercial Agent </signed></closer>
+<closer><salute>I have the honor<lb/>
+to be<lb/>
+Sir<lb/>
+Your Mo: obt: Sert:</salute><lb/>
+(Sg) <signed>Augustus Archer Silva</signed><lb/>
+Commercial Agent</closer>
+
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0082.029"/>
+
 <note>(Copy)</note>
 
-<opener><dateline>Ship Wm Cummings
+<opener><dateline>Ship 'Wm Cummings'<lb/>
 Loanda January 12th, 1868</dateline></opener>
 
-<p>Sir<lb/>
-Your letter dated 11th January 1868
-recieved this 10 am, and in which you 
-say Capt Robbins offered to exhange his 
-mate for mine if I understand the matter
-right, <unclear>isnt</unclear> correct and it is strange that 
+<salute>Sir</salute>
+
+<p>Your letter dated 11th January 1868
+received this 10 am, and in which you 
+say Capt Robbins offered to exchange his 
+mate for mine, if I understand the matter
+right, is not correct and it is strange that 
 you who detained this ship here would
 at this time refer this matter for my 
 consideration, when you know the Brig
-"M Sheppard" arrived here on the 27th
-Dec 1864, and at this date Jany 12th
+'M Sheppard' arrived here on the 27th
+Decr 1867, and at this date Jany 12th
 1868, is actually cleared from the 
 custom house. If you had ever given
 me in your correspondence any reason
-to support that I would be allowed
+to suppose that I would be allowed
 any alternative, but to comply with
-your demands I would have been
+your demands, I would have been
 very happy to make any sacrifice
 to enable this ship to leave this port
-<gap/> 
+<gap extent="one or two lines"/> 
 
 <pb facs="teaa.en.letter.0082.030"/>
-this ship now how do I know that his
+
+this ship now how do I know, that his
 orders to the Captain of the Port, the
-Customshouse, the forts, and the ship of
+Custom house, the forts, and the ship of
 war at his command have been
-rescinded how do I know that Mr Beaty
+rescinded, how do I know that Mr Beaty
 is competent to navigate the ship in case
 of my sickness or death, which may
 occur from the debilitating effects of
 this climate, you are aware that 
-<unclear>halfway</unclear> <unclear/> crew, as you call them
-are at this time sick in hopspital or
-boardinghouse and not able to do duty.
-Now sir I thank you for the interest
-you take in the owners whose property
-you detain here perishing under a hot
-sun for four months because you consider
+half my former crew, as you call them
+are at this time sick in hospital or
+boardinghouse, and not able to do duty
+Now, sir, I thank you for the interest
+you take in the owners, whose property
+you detain here, perishing under a hot
+sun for four months, because you consider
 the criminal charges brought against
-my mate and Iproved, I am
+my mate and I proved, I am
 not aware that trial by Jury is abolished
 in the United States yet, except in 
 time of war. You say you will send
-my crew away. <unclear>Mind</unclear> I say they owe
-<gap/>
+my crew away. Mind, I say they owe
+<gap extent="one or two lines"/> 
 
-<pb facs="teaa.en.letter.0082.031"/>
+<pb facs="teaa.en.letter.0082.031"/><!-- START REVIEWING HERE -->
+
 I offered another Master, Mr <unclear>Polaur</unclear>
 you refused three times. Now after
 four earnest attempts on my part

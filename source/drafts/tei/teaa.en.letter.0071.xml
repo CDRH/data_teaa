@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,14 +71,18 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Baxter, Edward</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Mossâmedes (Angola)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -90,22 +95,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
-<placeName>Luanda, Africa</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1866-03-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H. (William Henry), 1801-1872</persName>
-<placeName></placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1866-06-12"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +115,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-24" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,30 +125,27 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0071.001"/>
 
 <note>Recd June 12</note>
 <note>Ackd " 14</note>
-<opener>No 20<lb/>
-<dateline>United States Com Agency<lb/>
-St Paul de Loanda March 28 1866</dateline>
+<note>No 20</note>
 
-<address>
-<addrLine>Hon Wm H. Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-</address>
-</opener>
-<p>Sir<lb/>
-I had the honor in 
+<opener><dateline>United States Coml Agency<lb/>
+St Paul de Loanda March 28th 1866</dateline></opener>
+
+<salute>Sir</salute>
+
+<p>I had the honor in 
 my despatch No 15 to place before 
 the Department a full statement 
 regarding a case of an alleged 
 American Seaman by the name 
 of Edward Baxter who deserted 
 from the American Bark "Governor 
-Carver" of Mossamedes, and 
+Carver" at Mossamedes, and 
 accused the said <sic>vessl</sic> of 
 having embarked a cargo of 
 slaves at that port; for which 
@@ -154,6 +153,11 @@ failing to prove the accusation
 was thrown into prison by the 
 Portuguese authorities to await 
 <catchwords>his</catchwords>
+
+<fw type="address"><address>
+<addrLine>Hon Wm H. Seward</addrLine>
+<addrLine>Secretary of State</addrLine>
+</address></fw>
 
 <pb facs="teaa.en.letter.0071.002"/>
 
@@ -172,12 +176,14 @@ that the imprisonment
 he had already suffered was 
 the punishment they should 
 impose upon him. He was therefore 
-set out at liberty and 
+set out at liberty, and 
 presented himself to me.</p>
-<p>I am concious
+
+<p>I am conscious
 <catchwords>of</catchwords>
 
 <pb facs="teaa.en.letter.0071.003"/>
+
 of its being my duty to inflict 
 upon him an additional 
 punishment for deserting the 
@@ -188,7 +194,7 @@ the hardship of a Portuguese
 prison in Africa which he 
 suffered for nearly five months, 
 when he had been seriously 
-sick with fever on two occasions 
+sick with fever on two occasions, 
 humanity directed me to allow 
 him to be at liberty to 
 recruit his health which being 
@@ -197,31 +203,34 @@ him to suffer a moderate
 imprisonment that he may 
 have impressed upon him the 
 
-
 <pb facs="teaa.en.letter.0071.004"/>
+
 consequences of deserting an 
 American vessel in a foreign 
 port without justifiable reason.</p>
 
 <closer><salute>I have the honor<lb/>
-to be <lb/>
-Your Most Obedt Servt</salute>
-<signed>Augustus Archer Silva
-Commercial Agent</signed>
+to be<lb/>
+Your Most Obedt Servt</salute><lb/>
+<signed>Augustus Archer Silva<lb/>
+Commercial Agent</signed></closer>
 
+<note type="label">
+<p>U S Com Agency<lb/>
+St Paul de Loanda<lb/>
+March 28 1866</p>
 
-<note type="label">U S Com Agency<lb/>
-St Paul de Loanda <lb/>
-March 28 1865 <lb/>
-Augustus Archer Silva <lb/>
-No 20</note>
+<p>Augustus Archer Silva</p>
 
-<note>Relating to<lb/>
-Edward Baxter<lb/>
-a deserter from<lb/>
-the American Bark<lb/> 
-Governor Carver</note>
-</closer>
+<p>No 20</p>
+
+<p>Relating to
+Edward Baxter
+a deserter from
+the American Bark 
+Governor Carver</p>
+
+</note>
 
 </div1>
 </body>

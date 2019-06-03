@@ -73,6 +73,7 @@
     
 <keywords scheme="viaf" n="people">
 <term>Birney</term>
+<term>Brookhouse, R.</term>
 <term>Cunningham, Robert</term>
 <term>de Andrade, José Baptista</term>
 <term>Flores, Francisco Antonio</term>
@@ -83,7 +84,12 @@
 <term>Angola</term>
 <term>Boston (Mass.)</term>
 <term>Havre de Grace (Md.)</term>
-<term>St. Paul de Loanda</term>
+<term>Lisbon (Portugal)</term>
+<term>New York</term>
+<term>Portugal</term>
+<term>Salem (Mass.)</term>
+<term>St. Helena</term>
+<term>St. Paul de Loanda (Angola)</term>
 <term>Washington (D.C.)</term>
 </keywords>
     
@@ -119,9 +125,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-29" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -207,9 +213,9 @@ belonging to the United States" Mr. Willis
 informed me that the said property was not
 intended to be included by said order, because
 it is property under the exclusive control of
-the Navy Department;-</p>
+the Navy Department;</p>
 
-<p>Not being prepared in the absense of
+<p>Not being prepared in the <sic>absense</sic> of
 instructions in the premises to controvert this
 position, I leave it; simply calling the
 attention of the Department to the facts, to the
@@ -221,20 +227,20 @@ not now, or ever has been in my possession;</p>
 
 <p>I beg leave to call your attention
 to a custom (or Practice) that has obtained here,
-<unclear>regarding</unclear> the place of Deposit of Ships Papers,
+regarding the place of Deposit of Ships Papers,
 
 <pb facs="teaa.en.letter.0048.003"/>
-<fw>4</fw>
-namely by Sec 479 manuel of 1863 it is made
-the Duty of every Master of an American vessel
+
+namely by Sec 479 <sic>manuel</sic> of 1863 it is made
+the Duty of every Master of an American Vessel
 to deposit the papers (ships Papers) with the Consular
 Officer, and in default heavy Penalties;
 but here the ships papers are retained by the
 Custom House authorities, consequently no
-Consulor Certificates (as per instructions) can
-be given; -</p>
+Consular Certificates (as per instructions) can
+be given;</p>
 
-<p>Mr. Willis assures me that he has attempted
+<p>Mr Willis assures me that he has attempted
 to induce an abandonment of said practice.
 but without effect, and from present information
 upon the subject, I am induced to believe that
@@ -242,19 +248,19 @@ the services of one having higher powers than
 myself, (probably our Minister to Portugal) is
 necessary to accomplish the desired reformation
 and enable ship masters and Commercial agents
-to comply with the United States Law;-</p>
+to comply with the United States Law;</p>
 
 <p>By schedule no 1 (herewith enclosed) it
 will be perceived that this Post has no Books
-of Record as required by section 391-392 of
-manuel of 1863. Consequently, the Records are 
-<unclear>ofen</unclear> unbound detached peices of paper, very 
+of Record as required by sections 391-392 of
+<sic>manuel</sic> of 1863. Consequently the Records are 
+upon unbound detached <sic>peices</sic> of paper, very 
 liable to loss by accident;</p>
 
 <p>Other articles also are much needed as
-per enclosed schedule No. 3. Please send them
+per enclosed schedule No 3. Please send them
 as soon as practicable, the agency being
-absolutely destitute of them;-</p>
+absolutely destitute of them;</p>
 
 <p>Mr Willis informs me that he has
 received notice that a box containing a 
@@ -266,11 +272,11 @@ in that City or entirely lost</p>
 <p>There is no certain way by which articles
 
 <pb facs="teaa.en.letter.0048.004"/>
-<fw>5</fw>
-intended for this Post can be sent, except viz
-Salem Mass, Care of R Brookhouse &amp; Co. and 
+
+intended for this Post can be sent, except via
+Salem Mass, Care of R Brookhouse &amp; co, and 
 viz England, Care of U.S. Consul of St Helena
-and viz Lisbon, care of U.S. Consul of
+and via Lisbon, care of U.S. Consul at
 Lisbon, no vessels sail from the U.S.
 Direct to this Port, except from Salem Mass
 and occasionally one from Boston;</p>
@@ -281,11 +287,11 @@ for Oaths to be administered by the Commercial
 Agents to Citizens of the United States;</p>
 
 <p>By Circular No 8 of Feb 21st 1863, directed
-to me, and by art <unclear>1st</unclear> of said circular, I understand
+to me; and by Art <unclear>1st</unclear> of said Circular, I understand
 that I am instructed to render an account
 for office Rent to the amount attained by General
-instructions, namely, 10 percent on the amount of
-salary which I am thankful for, inasmuch as
+instructions, namely, 10 per cent on the amount of
+salary which I am thankful for; inasmuch as
 the salary allowed is barely adequate to a
 support;</p>
 
@@ -295,14 +301,14 @@ for the business of the agency;</p>
 
 <p>It gives me much pleasure to acknowledge
 the kindness of John G. Willis Esq in
-affording me every desireable facility for
+affording me every <sic>desireable</sic> facility for
 transacting the business of the agency;</p>
 
 <closer>
 <salute>With much Respect<lb/>
 I have the Honour to be<lb/>
-Yours most Obed</salute>
-<signed>John L. Bradberry<lb/>
+Yours Most Obed</salute>
+<signed>John T. Bradberry<lb/>
 Com Agt</signed>
 
 <address>
@@ -312,22 +318,24 @@ Com Agt</signed>
 </address>
 
 </closer>
+
 </div1>
 
+<div1 type="document" xml:lang="en">
 
-<div1 type="enclosure">
 <opener>
 <dateline>Loanda July 30th 1863</dateline>
 </opener>
-<p>Received this day from John G. Willis
+
+<p>Received this day from John G Willis
 Esqr one Escritoir or book case as a 
 Depository for archives, books and
 papers belonging to the United States
 Commercial Agency at St Paul De Loanda,
 and to be returned when called for</p>
-<closer><signed>John L. Bradberry,<lb/>
-Com Agt</signed></closer>
 
+<closer><signed>John T. Bradberry,<lb/>
+Com Agt</signed></closer>
 
 </div1>
 

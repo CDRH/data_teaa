@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -70,12 +71,13 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bradberry, John T.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Angola</term>
+<term>St. Paul de Loanda (Angola)</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +92,28 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
+<roleName>U.S. Acting Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1863-08-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-04-30" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -124,42 +123,43 @@
 
 <pb facs="teaa.en.letter.0049.001"/>
 
-<div1 type="letter">
+<div1 type="document" xml:lang="en">
 
 <note>Recd 5 Nov.</note>
+<note>No 3</note>
 
-<opener>No 3 
-<dateline>St Paul de Loanda<lb/>
-6th August 1863</dateline></opener>
+<opener><dateline>St Pauls de Loanda<lb/>
+6th August 1863.</dateline></opener>
 
-<p>Sir<lb/>
-Under date of April 7th, I had the honor 
+<salute>Sir,</salute>
+
+<p>Under date of April 7th I had the honor 
 to address you and enclosing Returns from this 
-Agency for the Quarter ending March 31st.</p>
+Agency for the Quarter ending March 31st</p>
 
 <p>I now enclose Returns for the Quarter
-ending 30th June also for the thirty days in
+ending 30th June, also for the Thirty days in
 July which I held the Office of United States
-acting Vice Commercial Agent, and have drawn 
-on the Honorable Secretary of the Treasury Two 
-Bills, One for $238.70 &#38; the other for $61.87 &#38; being
+Acting Vice Commercial Agent, and have drawn 
+on The Honorable Secretary of the Treasury Two 
+Bills, One for $238.71&#38; the other for $61.87&#38; being
 balance of my Salary as per Accounts Current 
 forwarded to the Fifth Auditor of the Treasury.</p>
 
-<p>I also enclose memorandum of
-Articles delivered to Mr Bradberry as per Your
-Instructions of February 21st 1863 together with 
+<p>I also enclose Memorandum of
+Articles delivered to Mr Bradberry as per your
+Instructions of February 21st 1863, together with 
 the other half of the Register of the American Bark 
-<unclear>"J. J. Cobb"</unclear> to which I refered to my No 2.</p>
+"J. J. Cobb" to which I referred in my No 2.</p>
 
 <p>I also enclose a map of the Population of
 the Province of Angola for the Year 1861 and a 
-map showing the Exports of Cotton from this 
+Map showing the Exports of Cotton from this 
 Province for the past 4 years.</p>
 
-<closer><salute>Very Respectfully<lb/>
-Your Obdt Servant</salute>
-<signed>John G Willis</signed>
+<closer><salute>Very respectfully<lb/>
+Your Obdt Servt</salute>
+<signed>John G. Willis</signed>
 
 <address>
 <addrLine>The Honble</addrLine>
@@ -167,7 +167,38 @@ Your Obdt Servant</salute>
 <addrLine>Washington D.C.</addrLine>
 </address>
 </closer>
+
 </div1>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.en.letter.0049.002"/>
+
+<opener><dateline>St Paul De Loanda July 31st 1863</dateline></opener>
+
+<p>Received of John G. Willis Vice Com Agent
+the following Articles, Property of the United States
+<unclear>Navy</unclear></p>
+
+<p>1 flag staff, 3 large flags, 1 Boat flag
+1 seal, 1 Press, 1 Coat of Arms,
+10 Volumes Statutes at large Bound, 3 Do in proper
+Archives of the Agency, 1 box letters wafers, 6 Do
+Consular wafers, 2 boxes Notarial wafers,
+2 Reams letter paper, 3 Reams quarto folio paper
+1 Ream Commercial Note paper, 200 <sic>Clarafied</sic> quills,
+6 pen holders, 9 pencils, 4 Dozn Cotton tape,
+2 Volumes Senate Commercial Relations of 1859-1860,
+1 Do House of Rep Commercial Relations of March
+10th 1856 <unclear>Volume</unclear> 3d</p>
+
+<p>Also a lot of Blanks for use of the Agency</p>
+
+<closer><signed>John T. Bradberry<lb/>
+Com Agt</signed></closer>
+
+</div1>
+
 </body>
 </text>
 

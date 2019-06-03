@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from J. H. Allard to Augustus Archer Silva, April 10, 1867</title>
+<title>Correspondence from J. H. Allard to Augustus Archer Silva, April 10, 1867</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from T. S. Helard to Augustus Archer Silva</title>
+<title level="a">Correspondence from J. H. Allard to Augustus Archer Silva</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">2</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,16 +71,16 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Peile, Mountford Stephen Loviele</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Sierra Leone</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Kroomen</term>
 </keywords>
     
 <keywords scheme="original" n="language">
@@ -90,21 +91,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Allard, J. H.</persName>
+<roleName>Staff Commander, H.M.S. Dromedary</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1867-04-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-28" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,26 +120,21 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0076.001"/>
+
 <note>Copy</note>
 
-<opener><dateline>H. M. Ship "Dromedary"<lb/>
-St. Paul de Loanda 10th April 1864</dateline>
-<address>
-<addrLine>Augustus Archer Silva Esquire</addrLine>
-<addrLine>U. S. Commercial Agent</addrLine>
-<addrLine>St Paul de Loanda</addrLine>
-</address>
+<opener><dateline>H.M. Ship "Dromedary"<lb/>
+St. Paul de Loanda 10th April 1864</dateline></opener>
 
-</opener>
+<salute>Sir</salute>
 
-<p>Sir<lb/>
-In reply to your letter of the 
+<p>In reply to your letter of the 
 9th instant relative to giving passage 
 to certain Kroomen to Sierra Leone, 
-I beg to state although willing to 
+I beg to state that although willing to 
 comply with your request as therein stated 
 I should not be able to do so without
 provision being for their sustenance 
@@ -150,14 +143,21 @@ during the period they are on passage
 which may probably occupy some six weeks 
 and for as long a period I do not think 
 I should be justified in trusting to the 
-Kroomen to victual themselves as besides 
-the irregularity of so doing showed they 
-seem short of provisions it would oblige 
-me to supply them, and all stores on 
+Kroomen to victual themselves, as besides 
+the irregularity of so doing. Should they 
+run short of provisions it would oblige 
+me to supply them, and all stories on 
 board being Government property I should 
 <catchwords>have</catchwords>
 
+<fw type="address"><address>
+<addrLine>Augustus Archer Silva Esquire</addrLine>
+<addrLine>U.S. Commercial Agent</addrLine>
+<addrLine>St Paul de Loanda.</addrLine>
+</address></fw>
+
 <pb facs="teaa.en.letter.0076.002"/>
+
 have to account for them.</p> 
 
 <p>It would be also necessary 
@@ -168,16 +168,17 @@ clean.</p>
 <p>In conclusion I would beg to 
 be allowed to suggest that an official 
 application be made through the 
-usual channel, and as Captain <unclear>Peile</unclear>
+usual channel, and as Captain Peile
 the senior officer on this coast is 
-here in H. M. S. "Espoir" I have 
+here in H.M.S. "Espoir" I have 
 no doubt that arrangements may be 
-made for the passage required. </p>
+made for the passage required.</p>
 
 <closer><salute>I have the honor to be<lb/>
 Sir,<lb/>
-Your Obedient Servant</salute>
-<signed>Signed <unclear> J. H. Allard</unclear></signed></closer>
+Your Obedient Servant</salute><lb/>
+Signed <signed><sic>T. S. Helard</sic></signed><lb/>
+Staff Commander</closer>
 
 </div1>
 </body>

@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from John G. Willis to William H. Seward, October 1, 1864</title>
+<title>Dispatch from Augustus Archer Silva to William H. Seward, October 1, 1864</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from John G. Willis to William H. Seward</title>
+<title level="a">Dispatch from Augustus Archer Silva to William H. Seward</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">2</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,18 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Hannan, Robert</term>
+<term>Harvey, James E.</term>
+<term>Silva, Frederic A.</term>
+<term>Willis, John G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>England</term>
+<term>Glasgow (Scotland)</term>
+<term>Lisbon (Portugal)</term>
+<term>Portugal</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +97,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Willis, John G.</persName>
+<persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1864-10-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1864-12-20"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +117,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-03" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, additional transcription, review, and additional encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,83 +127,85 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0055.001"/>
 
-<note>No 2</note>
 <note>Recd Dec 20</note>
-<note>Ams Feb 4</note>
-<note>+ Mr Shrunk</note>
+<note>Asr Feb 4</note>
+<note>No 2</note>
 
 <opener><dateline>United States Commercial Agency<lb/>
-St Paul de Loanda October 1st 1864</dateline>
+St Paul de Loanda October 1st 1864</dateline></opener>
 
-<address><addrLine>Hon Wm H Seward</addrLine> 
-<addrLine>Secretary of State </addrLine>
-<addrLine>Washington D. C.</addrLine></address>
-</opener>
+<salute>Sir</salute>
 
-<p>Sir,<lb/>
-I had the honor on the 15th 
+<p>I had the honor on the 15th 
 of August last to acknowledge the 
-reception of your despatch No 1 informing
+reception of your Despatch No 1; informing
 me that the President 
 had appointed me Commercial Agent
 of the United States at this 
-city. In the same despatch I 
+city. In the same Despatch I 
 replied to several questions requiring
-answers.</p>
+answer.</p>
 
 <p>On the 7th ultimo I received 
 a communication dated July 6th 1864 
-fom the Hon James E Harvey the 
+from the Hon James E Harvey the 
 United States Minister resident at
-Lisbon, enclosing <unclear></unclear> my Certificate
-of Appointment with authority of the 
+Lisbon, enclosing me my Certificate
+of Appointment with authority of His 
 Portuguese Majesty's government to act
 in that capacity.</p>
 
 <p>In consequence of a 
 temporary interruption of steam 
-communication between the Province 
+communication between this Province 
 and Portugal the Governor
-<catchwords>General</catchwords>
+<fw type="catch">General</fw>
+
+<fw type="address">
+<address><addrLine>Hon Wm H Seward</addrLine> 
+<addrLine>Secretary of State </addrLine>
+<addrLine>Washington D.C.</addrLine></address>
+</fw>
 
 <pb facs="teaa.en.letter.0055.002"/>
 
 General has not for the past five 
-months received any any official communication 
-from his government consequently a separate official notice 
+months received any official communication 
+from his government, consequently 
+a separate official notice 
 of my appointment has not arrived 
-yet without which he cannot formally 
-recognize me.- A mail 
+yet, without which he cannot formally 
+recognize me. A mail 
 steamer is momentarily expected here.</p>
 
 <p>I have this day presented 
 to John G. Willis Esq the 
 Acting Commercial Agent, the 
 official order of the Department 
-dated May 14th 1864 for for him to 
-deliver to me the Records and, 
+dated May 14th 1864, for him to 
+deliver to me the Records and 
 Archives of the Commercial Agency 
 together with the Seal Press Flag
-arms statutes at large and other 
+Arms statutes at large and other 
 property of the United States which 
-order was promptly complied with 
-and I herewith enclose a certificate 
-copy of the Inventory.  Wheaton's
+order was promptly complied with, 
+and I herewith enclose a Certificate 
+Copy of the Inventory. Wheaton's
 Digest has never been received at 
-this commercial Agency.</p>
+this Commercial Agency.</p>
 
 <p>I mentioned to you 
-<catchwords>in</catchwords>
+<fw type="catch">in</fw>
 
 <pb facs="teaa.en.letter.0055.003"/>
 
-in my despatch No 1 my intentions
+in my Despatch No 1 my intentions
 to visit Europe in 
-a few weeks, <unclear>in consequence</unclear> of a 
+a few weeks, in consequence of a 
 previous mercantile engagement,
 entered into previous to my
 having any knowledge of my 
@@ -208,8 +214,8 @@ Agent. I regret to say the
 importance of this engagement 
 forces me to carry it out and 
 I hope the Department will 
-wish this involuntary departure 
-from my port of duty an exception 
+make this involuntary departure 
+from my post of duty an exception 
 to Circular of Department
 of State no 46 on file at this 
 office.</p>
@@ -217,20 +223,20 @@ office.</p>
 <p>I shall leave for England
 early in December next 
 my absence will only be of four
-months duration during which 
+months duration, during which 
 time the office will be represented
 as Acting Commercial Agent 
 by my brother Frederic A 
 Silva a native citizen of the 
-<catchwords>United States</catchwords>
+<fw type="catch">United States</fw>
 
 <pb facs="teaa.en.letter.0055.004"/>
 
-United States well qualified for 
+United States, well qualified for 
 the duties that will devolve upon
-him. I notice that the 
+him I notice that the 
 Agency requires an additional 
-supply of blanks No 44, 14, <hi rend="underline">8</hi> 142
+supply of Blanks No 44, 14, <hi rend="underline">8</hi> 142
 143, 144, 130 some of which are entirely
 out.</p>
 
@@ -239,48 +245,52 @@ been great difficulty in forwarding
 packages from the Department 
 to this Agency. The best way 
 would be to address to the care 
-of Messer Robert <unclear>F Cannon &amp; Co 75</unclear>
-<unclear>St</unclear><unclear>Vincent Street</unclear> Glasgow
+of Messer Robert Hannan &amp; Co 75
+St Vincent Street Glasgow
 Scotland and they will forward
 it to me by one of their 
-vessels.</p>
+vessels</p>
 
-<p>My Passport as Commerce 
+<p>My Passport as Commercial 
 Agent has not been received 
-yet.</p>
+yet</p>
 
 <closer><salute>I have the honor<lb/>
 to be<lb/>
-Your most Obdt Servant</salute>
+Your most Obd't Servant</salute>
 <signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed></closer>
+Commercial Agent.</signed></closer>
+
 </div1>
 
-<div1 type="attachment">
+<div1 type="document" xml:lang="en">
+
 <p>Inventory of property belonging
 to the United States of America
 in the Commercial Agency at St
 Paul de Loanda delivered to Augustus
 Archer Silva by John G. Willis viz</p>
 
-<ab>One Flag Staff (Injured by lightning, useless)</ab>
-<ab>Five large flags</ab>
-<ab>One Boat do</ab>
-<ab>One Seal</ab>
-<ab>One Press</ab>
-<ab>One Coat of Arms</ab>
-<ab>Nine Volumes of Commercial Relations</ab>
-<ab>Ten Volumes of Statutes at large (bound)</ab>
-<ab>Six Pamphlets do   do</ab>
-<ab>Archives of the Agency</ab>
-<ab>One United States Consuls' Manual</ab>
-<ab>One Regulation of U.S. Consulates</ab>
-<ab>Two Ink stands</ab>
-<ab>Two Cases Stationary in use of the Commercial Agency</ab>
+<p>One Flag staff (Injured by lightning, useless)</p>
+<p>Five large Flags.</p>
+<p>One Boat do</p>
+<p>One Seal</p>
+<p>One Press</p>
+<p>One Coat of Arms</p>
+<p>Nine Volumes of Commercial Relations</p>
+<p>Ten Volumes of Statutes at large (bound)</p>
+<p>Six Pamphlets do do</p>
+<p>Archives of the Agency</p>
+<p>One United States Consul's Manual</p>
+<p>One Regulation of U.S. Consulates</p>
+<p>Two Inkstands</p>
+<p>Two Cases Stationary in use of the Commercial Agency</p>
 
 <p>Done in triplicate
 at St Paul de Loanda October
-1st 1864 Augustus Archer Silva
+1st 1864.</p>
+
+<p>Augustus Archer Silva<lb/>
 John G. Willis</p>
 
 </div1>

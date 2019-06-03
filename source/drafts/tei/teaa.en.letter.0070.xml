@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Salem (Mass.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +90,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
-<placeName>Luanda, Africa</placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1866-01-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1866-03-25"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-05-24" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,42 +120,45 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0070.001"/>
 
 <note>Recd March 23</note>
 <note>Ack March 23</note>
-<opener>No 18
+<note>No 18</note>
 
-<dateline>United States Coml Agency<lb/>
-St Paul de Loanda January 17 1865</dateline></opener>
+<opener><dateline>United States Coml Agency<lb/>
+St Paul de Loanda January 17th 1866</dateline></opener>
 
-<p>Sir<lb/>
-I have the honor to 
+<salute>Sir</salute>
+
+<p>I have the honor to 
 acknowledge the reception of 
 Your Despatch No 7 and also 
-Communication of October 24 ultimo</p>
+Communication of October 21 ultimo</p>
 
 <p>I shall expect 
-to receive the flags &#38; forms 
+to receive the Flags &#38; Forms 
 by the first vessel from Salem 
-which will be in about five 
-months.</p>
+which will be in about two 
+months</p>
 
 <p>Trade is reviving again 
-The New Palm Oil Crop is already 
+The New Palm Oil crop is already 
 commencing to yield.</p>
 
 <closer><salute>I have the honor<lb/>
 to be <lb/>
-Your Most Obedt Servt</salute>
-<signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed>
+Your Most Obedt Servt</salute><lb/>
+<signed>Augustus Archer Silva</signed><lb/>
+Commercial Agent</closer>
 
-<address><addrLine>To the</addrLine> 
-<addrLine>Hon Secretary of State </addrLine>
-<addrLine>Washington</addrLine></address></closer>
+<fw type="address"><address>
+<addrLine>To the</addrLine> 
+<addrLine>Hon Secretary of State</addrLine>
+<addrLine>Washington</addrLine>
+</address></fw>
 
 </div1>
 </body>
