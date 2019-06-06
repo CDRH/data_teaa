@@ -72,10 +72,12 @@
     
 <keywords scheme="viaf" n="people">
 <term>Beaton</term>
+<term>Beaton, James</term>
 <term>Beaty</term>
 <term>Beckwith, Henry</term>
-<term>Calden, James</term>
+<term>Calden, James</term><!-- also known as James Wells -->
 <term>da Silveira d' Avila, José Pimentel</term>
+<term>Gambôa, Joaquim Olavo</term>
 <term>Henwright, Andrew</term>
 <term>Little, John</term>
 <term>Miller, George E.</term>
@@ -84,18 +86,24 @@
 <term>Polson</term>
 <term>Powers, Charles H.</term>
 <term>Robbins, C. H.</term>
+<term>Smith, Charles</term>
 <term>White, Bernard</term>
+<term>Wickes, H.</term>
 <term>Woodbury, William E.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>Angola</term>
 <term>Bahia (Brazil)</term>
+<term>Belfast (Me.)</term>
 <term>Boston (Mass.)</term>
 <term>Cuanza River</term>
 <term>Delaware River</term>
+<term>Germany</term>
 <term>Gloucester (Mass.)</term>
+<term>Islesboro (Me.)</term>
 <term>Lisbon (Portugal)</term>
+<term>New York (N.Y.)</term>
 <term>Philadelphia (Penn.)</term>
 <term>Salem (Mass.)</term>
 <term>St. Helena</term>
@@ -112,6 +120,7 @@
     
 <keywords scheme="original" n="language">
 <term>English</term>
+<term>Portuguese</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -1423,47 +1432,50 @@ United States Comml. Agent</closer>
 
 </div1>
 
-<div1 type="document" xml:lang="en"><!-- START ENCODING HERE -->
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0082.044"/>
 
 <note>Copy</note>
-<opener>Enclosure<lb/>
-No. 1<lb/>
-<dateline>Ship "Wm Cummings"<lb/>
+<note>Enclosure<lb/>
+No. 1</note>
+
+<opener><dateline>Ship "Wm Cummings"<lb/>
 St Paul de Loanda, Jan 18th 1868</dateline></opener>
 
-<p>Sir,<lb/>
-Your letter of the 14th inst received
+<salute>Sir,</salute>
+
+<p>Your letter of the 17th inst received
 and in which you say you derive your
 authority to detain the ship from the
-26th and 28th, sections of the Act of Congress
+26th &amp; 28th sections of the Act of Congress
 approved August 18th, 1856. Will you
 be kind enough to show me in what
-manner they bear directly on this call
-to I undertand the law, I am individually
+manner, they bear directly on this call
+As I understand the law, I am individually
 responsible for acts of cruelty
 proved to have been committed by me
 or with my consent. You have held
 an examination with closed doors
-like an inquistion, and have not
+like an inquisition, and have not
 shown me how the charges against
 me were proved. Why sir, my life might
-have been <unclear/>  away for what I know
+have been <unclear>sworn</unclear> <unclear>away</unclear> for what I know
 and I have not been allowed to prove
-the statements made against me, to 
-be falsehoods, and exaggerations which
-I contend they are, and and if they 
+the statements, made against me, to 
+be falsehoods, and exaggerations, which
+I contend they are, and <sic>and</sic> if they 
 were proved even, you cannot by law 
 <catchwords>detain</catchwords>
 
 <pb facs="teaa.en.letter.0082.045"/>
+
 detain this ship in the manner in
 which you have done, as a principal
 is not responsible for such acts of an
 Agent, you also to further your own
-ends in this case justify my crew in
-their revolt in the Delware and tell
+ends in this case justify my crew, in
+their revolt in the Delaware, and tell
 me what my duty was, in this case
 you mistake when you think you are
 the proper person to tell me what
@@ -1473,44 +1485,51 @@ decide that I was wrong, I will hold
 that I was right. Where did you get
 the authority to call on foreign Governors
 and their forces to detain an American
-ship until the master replies with
+ship until the master complies with
 demands of yours, against which he
-protests. I dont know but would give
+protests. I dont know, but <unclear>would</unclear> <unclear>give</unclear>
 much to know. I have not got the 
-means to comply with your demands
-and if I had, I would not because
+means, to comply with your demands
+and, if I had, I would not because
 they are unlawful, and you will please
-stop writing on a subject on which
+drop writing on a subject, on which
 you and I cannot agree, I wish to
 have the whole case decided by the
-<catchwords>laws-</catchwords>
+<catchwords>laws</catchwords>
 
 <pb facs="teaa.en.letter.0082.046"/>
+
 laws of the United States not 
 Portugal.</p>
 
 <closer><salute>I have &amp;c</salute>
-<signed>(signed) Geo. E. Miller</signed>
+(signed) <signed>Geo. E. Miller</signed>
 
-<address><addrLine>Aug. A. Silva Esq</addrLine>
-<addrLine>US. Comml Agent</addrLine></address>
+<address><addrLine>Aug. A. Silva Esqr</addrLine>
+<addrLine>US Comml Agent</addrLine></address>
 </closer>
+
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="pt">
+
 <pb facs="teaa.en.letter.0082.047"/>
-<p><gap reason="Portuguese "></gap></p>
+
+<p><gap reason="document in Portuguese"/></p>
+
 </div1>
 
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0082.048"/>
-<opener><dateline>United States Commerical Agency
+
+<opener><dateline>United States Commerical Agency<lb/>
 St Paul de Loanda March 24 1868</dateline></opener>
 
 <p>I the undersigned Augustus Archer Silva
 Commercial Agent of the United States
-of St Paul de Loanda do hereby certify
+at St Paul de Loanda, do hereby certify
 that the forgoing is a true and faithful
 copy of the original certificate, on file
 in this consulate, the same having been
@@ -1518,33 +1537,35 @@ carefully examined and compared with
 the original and found to agree, word
 for word, and figure for figure.</p>
 
-<p>U.S. Commercial Agent</p>
+<p>U.S. Commercial Agency</p>
 
 <p>Given under my hand and seal
-of this Commercial Agent of 
-St Paul de Loanda, Aug 24th
+of this Commercial Agency at 
+St Paul de Loanda, this 24th
 day of March 1868 years</p>
 
-<closer><signed>Augustus Archer Silva
+<closer><signed>Augustus Archer Silva<lb/>
 Commercial Agent</signed></closer>
+
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0082.049"/>
+
 <note>Translation</note>
 
-<p>Joaquin Olavo Gamboa, <gap reason="Portuguese "></gap>
-and
-for His Most Faithful Majesty
-whom God preserve and Chief of the
+<p><gap reason="several lines in Portuguese"/>
+2. And for His Most Faithful Majesty,
+whom God preserve &amp;c Chief of the
 Police and Administrator of the District 
 Council for His Excellency the Governor
-General of this province etc </p>
+General of this province &amp;c</p>
 
 <p>I hereby certify, at the request
-of the Commericial Agent of the 
-United States of America, at
-this city, that, the crew of the American
+of the Commercial Agent of the 
+United States of America, at this
+city, that, the crew of the American
 ship "Wm Cummings" during the time
 they have been on shore, since Sept.
 of last year, have always conducted
@@ -1553,47 +1574,45 @@ respecting the laws, and the
 <catchwords>authorities</catchwords>
 
 <pb facs="teaa.en.letter.0082.050"/>
+
 authorities of the country</p>
 
 <p>Given under my hand and
 seal of this office, this 23
-day of March, 1868.</p>
+day of March 1868.</p>
 
-<closer><signed>(Sg) Joaquim Olavo Gambôa<lb/>
-Col. Chief of the Police and<lb/>
-Admin. of the District Council</signed>
+<closer>(Sg) <signed>Joaquim Olavo Gambôa<lb/>
+Col. Chief of the Police and
+Admt of the District Council</signed>
 
 <signed>James Beaton, Translator.</signed></closer>
 
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0082.051"/>
-<opener>
-<figure n="seal"/>
-<dateline>United States Commercial Agency<lb/>
-St Paul de Loanda 23rd Sept 1867</dateline>
-</opener>
 
-<p>Before me Augustus Archer Silva,
-Commercail Agent of the United States
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda 23rd Sept 1867</dateline></opener>
+
+<p>Before me, Augustus Archer Silva,
+Commercial Agent of the United States
 of America at St Paul de Loanda
-personally appeared Andrew Henwright
-mariner on board the American Ship
-"Wm Cummings" of Philadelphia
+personally appeared Andrew Henwright,
+mariner onboard the American Ship
+"Wm Cummings" of Philadelphia,
 and after being by me duly sworn
-deposes and says as follows.
-</p>
+deposes and says as follows.</p>
 
-<p>
-That I was born in Islesbro 
+<p>That I was born in Ilsebro, 
 Maine, opposite Belfast, am 19 years
-of age and reside at Islesbro, Maine
-opposite Belfast, and on the 8th of
-June shipped in the Ship Wm Cummings
+of age and reside at Ilsebro, Maine
+opposite Belfast; and on the 8th of
+June shipped in the Ship "Wm Cummings"
 and on the 10th embarked and
 proceeded down river in tow of a
-steam tug for about 6.5 miles. Where
+steam tug for about 65 miles. Where
 we anchored for the night, and made
 sail next morning and went down a
 piece further. The captain and mate
@@ -1601,22 +1620,23 @@ ill treating the crew. In consequence
 <catchwords>of</catchwords>
 
 <pb facs="teaa.en.letter.0082.052"/>
+
 of which we refused duty and requested
 the captain to call alongside the Reverend
-<unclear>Cutter</unclear> which he refused to do. He forced
+Cutter which he refused to do. He forced
 us into the forecastle and kept us there
-48 hours with neither food nor water
+48 hours with neither food nor water,
 refusing us even prison fare. My thirst
-was so intense that I was foeced to
+was so intense that I was forced to
 drink my own water which gave temporary
 relief. At last we burst open
 the forecastle door, whereupon the captain
-put us in irons and lashed us to the
+put us in irons and lashed me to the
 bits aft. We left the Delaware about
-the 16th June and proceeded on our voyage
-the captain and mate severely ill-
-treating seceral of the crew. About a month
-out the Captain struck me heavy blows
+the 16th June and proceeded on our voyage.
+the captain and mate severely ill-treating 
+several of the crew. About a month
+out the captain struck me heavy blows
 on my sides with his boots, by swinging
 himself from the eave of the wheel house
 directly on me, with threats of scattering my
@@ -1627,21 +1647,21 @@ the wheel and in consequence gave me
 several severe kicks. On the 26th of July
 <catchwords>when</catchwords>
 
-
 <pb facs="teaa.en.letter.0082.053"/>
+
 when coming out of the forecastle to brace
 up the fore yard, the mate caught me
 by the throat and afterwards let go to
 let me brace up the yard but on
 return the mate came up behind me
 and struck me severe blows on the
-head with an iron belaying <unclear/> inflicting
+head with an iron belaying pin; inflicting
 wounds on my head and over
-my left eye, marks of which you can see yet.
-With the blood running down
+my left eye, marks of which you can 
+see yet. With the blood running down
 my face the mate ordered me up to
 slush down the foretop gallant mast.
-During the passage, I was occupied
+During the passage I was occupied
 with others scraping the ship's side;
 I was working with an old scraper which
 parted in two pieces, one of the pieces
@@ -1656,151 +1676,145 @@ her side with the opposite
 <catchwords>roll</catchwords>
 
 <pb facs="teaa.en.letter.0082.054"/>
+
 roll. I was kept in that position for
-fifteen minutes. I had been previous
-to that punishment for six hours scraping
+fifteen minutes. I had been, previous
+to that punishment, for six hours scraping
 the ship's side in a bowline, I
 was quite exhausted and sick from
 this cruel treatment.</p>
 
-<p>
-We only had two gallons
+<p>We only had two gallons
 of water given for the entire crew
-per day' We had also one pot of tea
+per day; We had also one pot of tea
 in the morning and another at night.</p>
 
 <p>On arrival here we refused duty
 wanting to see the consul, but learned
 he was absent. We preferred to go to
 jail and await his return in preference
-to turning to.
-</p>
+to turning to.</p>
+
 <p>Sworn and subscribed this
-twenty third day of September, AD
-Eighteen hundred and sixty seven.
-Before me,</p>
+twenty third day of September A.D.
+Eighteen hundred and sixty seven.<lb/>
+Before me,<lb/>
+(Signed) Augustus Archer Silva<lb/>
+Commercial Agent</p>\
 
-<closer>
-<signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed>
-<signed>(signed) Andrew Henwright his X mark</signed>
-<salute>Witness to signature</salute>
-<signed>(signed) Jas Beaton</signed>
-<signed>(signed) H. Wickes</signed>
-</closer>
-
+<p>(signed) Andrew Henwright his X mark<lb/>
+Witness to signature<lb/>
+(Signed) Jas Beaton<lb/>
+(Signed) H. Wickes</p>
 
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0082.055"/>
+
 <opener><dateline>United State Commercial Agency<lb/>
 St Paul de Loanda Nov 18 1867</dateline></opener>
 
-<p>
-I the undersigned Commercial
-Agent of the United States of
-America
-do hereby certify that the foregoing
-deposition signed by me Augustus
+<p>I the undersigned Commercial
+Agent of the United States of America
+do hereby certify, that the foregoing
+deposition, signed by me, Augustus
 Archer Silva and by Andrew Henwright
 mariner on board the American ship
 Wm Cummings of Philadelphia is
-a true and fairthful copy of the original
+a true and faithful copy of the original
 filed in this office, the same having
-been carefully examinied by me, and
+been carefully examined by me, and
 compared with said original and found
-to agree word for word, and letter for
+to agree word for word and letter for
 letter.</p>
 
 <p>Given under my hand and seal
 of this agency, day and year as
-aforstated.
-</p>
+aforestated.</p>
+
 <closer><signed>Augustus Archer Silva<lb/>
 Commercial Agent</signed></closer>
 
-
 </div1>
 
-<div1 type="enclosure">
-<pb facs="teaa.en.letter.0082.056"/>
-<opener>
-<figure n="seal"/>
-<dateline>United States Commercial Agency<lb/>
-St Paul de Loanda, 23 Sept 1867</dateline>
-</opener>
+<div1 type="document" xml:lang="en">
 
-<p>
-Before me, Augustus Archer SIlva
+<pb facs="teaa.en.letter.0082.056"/>
+
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda, 23rd Sept 1867.</dateline></opener>
+
+<p>Before me, Augustus Archer Silva
 Commercial Agent of the United
-States of America at St. Paul de
-Loand, personally appeard
+States of America at St Paul de
+Loanda, personally appeared
 James Wells (Caldan) mariner
-on board the American ship Wm
-Cummings of Philadelphia and
+on board the American ship "Wm
+Cummings" of Philadelphia, and
 now being by me duly sworn deposes
-and sayd as follows.</p>
+and says as follows.</p>
 
 <p>That I was born in New York
 and am 23 years of age. I am seaman
-by profession and reside at Caroline
-Street. No. 5 New York. I shipped
+by profession, and reside at Caroline
+Street. No. 5. New York. I shipped
 at Philadelphia on the 8th day of
 June of this year on board the 
-American Ship Wm Cummings of
+American Ship "Wm Cummings" of
 said port and on the 10th went on
 board and proceeded down the
 river in tow of a tug boat, who
 left us about 60 or 65 miles down
-where we anchored. We furled out
+where we anchored. We furled sail
 <catchwords>and</catchwords>
 
 <pb facs="teaa.en.letter.0082.057"/>
 
 and while clearing up the forward
 sails, the mate without any provocation
-or reason took a hands pike
+or reason, took a handspike
 and knocked some of the men down
 and kicked them with heavy boots
 threatening to knock their brains
 out. I was standing on the poop
-abuff the main mast, cleaning
-up the mizzen sails and witnessed
+<unclear extent="one word"/> the main mast, cleaning
+up the mizzen sails, and witnessed
 the above statement. After supper
 all hands were called forward
-to get the Harboard anchor ready
-to let go if needed. THe mate
-helf in his hand an iron belaying
-pipe, threatening to knock my
+to get the starboard anchor ready
+to let go if needed. The mate
+held in his hand, an iron belaying
+pin, threatening to knock my
 brains out because I did not pay
 the chain quick enough over the
 windlass. Next morning the 11th
-we got under weigh again and
+we got under weigh again, and
 proceeded a short distance when
-we came to and in doing so the
+we came to, and in doing so, the
 mate again repeated his harsh
 treatment by knocking down some
 of the crew with hand spikes and
 belaying pins. We came to the
 <catchwords>conclusion</catchwords>
 
-
 <pb facs="teaa.en.letter.0082.058"/>
+
 conclusion that night amongst
 ourselves that we would not
 work any more, on account of such
-cruel tratment, whereupon the
+cruel treatment, whereupon the
 next morning at 4 am the second
 mate came and ordered us to turn
-to which we refused to do unless
+to which we refused to do, unless
 we got a satisfactory promise
-that we would be better treated. The
-captain came forward and asked us
+that we would be better treated The
+Captain came forward, and asked us
 the reason why we did not turn to,
 one of us told him that the continually
-knock us down with handspikes
-and irons belaying pins. The
+knocking us down with handspikes
+and iron belaying pins. The
 speaker was told to sit down, and
 be quiet about it, or, otherwise he
 (the Captain) would shoot him with
@@ -1812,25 +1826,28 @@ turned to. We remained there 48
 hours without food or water. Our
 thirst was so intense that we were forced
 to drink our own water
-<catchwords>only</catchwords>
+<catchwords>with</catchwords>
 
 <pb facs="teaa.en.letter.0082.059"/>
+
 only temporary relief. We asked
 for water and bread, which was
 refused us. We then broke open
 the forecastle door and begged
-again for water, which was refused us not even allowing
+again for water, which was 
+refused us not even allowing
 us to draw a bucket of salt
 water. The captain with revolver
 in hand and hatchet in other the
 mate second mate and boy had
-each an axe, and threatened that if we would move, they would
+each an axe, and threatened that 
+if we would move, they would
 knock our brains out. Three of
-the men were put in irons and
+the men were put in irons, and
 said they could manage the rest
 and loaded the remaining men
 in the forecastle again. About
-15 minutes aftrwards, Captain
+15 minutes afterwards, Captain
 and mate came forward, and opened
 the forecastle door, and told us
 to come out on deck. One of
@@ -1841,9 +1858,10 @@ second mate hauled him out of
 <catchwords>his</catchwords>
 
 <pb facs="teaa.en.letter.0082.060"/>
+
 his berth in a rough manner
 and tied his hands behind his
-back and put him into the
+back, and put him into the
 mizzen hatch house and kept
 him there four hours, during which
 time his sufferings almost made
@@ -1857,10 +1875,10 @@ Perez or myself gave the
 least cause for this treatment. I
 had been in the mizzen hatch
 house about ten minutes, I was
-taken out, and put into a sweat box,
-and kept there about an
-hour. I was <unclear/> and tired
-and would have fainted, if I
+taken out, and put into a sweat 
+box, and kept there about an
+hour. I was nearly smothered
+and would have fainted if I
 had not been released, as it was
 I fell helpless on the deck from
 exhaustion and it was ten minutes
@@ -1869,34 +1887,36 @@ box had not the least ventilation
 <catchwords>completely</catchwords>
 
 <pb facs="teaa.en.letter.0082.061"/>
+
 completely closed up and terrible
 even now for me to think about
-after I came to, I was put in the
+After I came to, I was put in the
 mizzen hatch house again and
 kept in there about three hours when
 I was put in the washing room in
 the cabin with another man, where
 we remained till 4 am next
-morning when I was put in the
-main hatch house and the other
+morning, when I was put in the
+main hatch house, and the other
 man was put into the sweat
 box for four or five hours, during
 which the man suffered terribly
 from want of air, at whose cries
 the captain threatened that if he
-wouldn't make his worse, he would
+wouldnt make his noise, he would
 blow his brains out. The mate was
 ordered by the Captain to put a gag
-in the mans mouth which <unclear/>
+in the mans mouth which <unclear>consisted</unclear>
 of a bar of iron across the mouth
 and secured by a rope around his
 head, and again the door of the
 sweat box was closed upon him
-that night he was taken out and
+That night he was taken out and
 put in the washing room in the 
 <catchwords>Cabin</catchwords>
 
 <pb facs="teaa.en.letter.0082.062"/>
+
 cabin. The following morning we were
 all forced to turn to, except two who
 were still in irons. We got under
@@ -1904,8 +1924,8 @@ weigh, and proceeded some distance
 down the river, and anchored for the
 night, and after supper, I with three
 others were put in irons again and
-confined in the lazarette, until the next
-morning, when we were released to wash
+confined in the lazarette until the next
+morning when we were released to wash
 decks down. We again weighed anchor
 after breakfast and proceeded to work
 down river, when the Captain released
@@ -1913,92 +1933,95 @@ the first two men put in irons
 We came to again at night and as
 before six of us were put in irons
 and next day (16th June) set at liberty
-again, when we made all sail discharged
-the pilot and put to sea
+again. when we made all sail discharged
+the Pilot, and put to sea
 During the whole passage we were treated
 with great cruelty. The mate one day
 as I was coming from the wheel said
-You are the ___ ___ ___ who cant steer
-and saying that he kicked me violently
+You are the _ _ _ who cant steer
+and saying that, he kicked me violently
 four or five times, and struck
-me in the face three times. This
+me, in the face three times. This
 <catchwords>happened</catchwords>
 
 <pb facs="teaa.en.letter.0082.063"/>
+
 happened about a week after
-we left the breakwaters when
-about a month out while putting
+we left the breakwater, when
+about a month out, while putting
 a strop on the starboard fore
 brace, the mate told me I was
 doing my work wrong. I told him
 it was the way I had been taught
 when he took hold of the end
 of the starboard fore brace and
-beet use for over half an hour
+beet me for over half an hour
 leaving black and blue marks
 all over my body for over a month,
 during which time I was perfectly
-<unclear/> The <unclear/> week while
+lame The same week while
 setting up the main rigging with
-others notwithstanding my <unclear>harness</unclear>
-the mate <unclear/> some difference
+others, notwithstanding my <unclear>harness</unclear>,
+the mate from some difference
 of opinion in the manner
 I was doing my work, struck me
 with a mallet he had in his
 hand, and split my head open
-which i now show you the mark
+which I now show you the mark
 About a week before we arrived
 here, four of us were working in
 the hold measuring some timber
 <catchwords>along</catchwords>
 
 <pb facs="teaa.en.letter.0082.064"/>
+
 along with the second mate, and
 the boy. The captain told me to go
-on the portside to get a few small
+on the port side to get a few small
 chains to put them forward out of
 the way. I did as I was ordered and
-then shifted some wood and then
-repeated both jobs due to the Captain
+then shifted some wood, and then
+repeated both jobs done, to the Captain
 who when going forward to inspect
 the work perceived some pieces of
 wood on the top of one of the beef
-barrels, he asked me why I did not
-reuse that wood also. I replied that
+barrels. he asked me why I did not
+remove that wood also. I replied that
 I was not told to do so. He said I
 told a falsehood, which I refuted
 whereupon he took hold of a piece
-of a broken handspike and beat
+of a broken handspike, and beat
 me for several minutes, until I
 cried out "murder" when he came
 to beat me. From exhaustion I
 fell back, and the Captain who
 was still on deck on returning found
-me prostrated he again seized the
+me prostrated, he again seized the
 piece of handspike and beat me
 severely again, and forced me on deck
-to work with my hand and <unclear/>
+to work with my hand and <unclear>ancle</unclear>
 <catchwords>greatly</catchwords>
 
 <pb facs="teaa.en.letter.0082.065"/>
+
 greatly swollen I was ordered on
-another <unclear/> to scrape the paint
-over the ships side on a stage one
+another occasion to scrape the paint
+over the ships side. on a stage one
 of the lanyards I appeared to slip
 longer than the other. When the mate
 saw this, he jumped over the side
-and kicked me severly in the face
+and kicked me severely in the face
 several times, cutting a gash over
 the left eye. The scar of which
 you can see, and afterwards refused
-to allow me to trat the wounds
-he had inflicted on another occasion
-he struck me on the porehead
+to allow me to treat the wounds
+he had inflicted. On another occasion
+he struck me on the forehead
 with a marline spike and cut a
-deep fash on another day while
-pulling at the mainbeace the mate
+deep gash. On another day, while
+pulling at the mainbrace, the mate
 approached me from the rear, and
-dealt me a severe blow on the back
+dealt me a severe blow, on the back
 of the head, which threw me on down
 senseless.</p>
 
@@ -2010,116 +2033,108 @@ discharged. We then refused to work
 <catchwords>until</catchwords>
 
 <pb facs="teaa.en.letter.0082.066"/>
+
 until the coal was discharged
-We them refused to work until
+We then refused to work until
 we could see him. We were told you
-were up country but your brother
-as Vice Commercial Agent, came on
+were up country, but your brother
+as Vice Commercial Agent came on
 board, to whom we represented that
 we had been cruelly treated, who
 advised us to wait your return
 but we would not turn to and
 preferred to wait until your return
 although the captain did put
-us in goal (jail)
-</p>
+us in goal (jail)</p>
 
-<p>
-Sworn and subscribed this
-twenty third day of September
-AD. Eighteen hundred and Sixty
-seven.
-</p>
+<p>Sworn and subscribed this
+twenty-third day of September
+A.D. Eighteen hundred and Sixty
+seven.</p>
 
-<closer>
-<salute>Before me</salute>
-<signed>(Signed) Augustus Archer Silva<lb/>
-Commercial Agent</signed>
-<signed>James Wells (or Calden) His X Mark</signed>
-<signed>(signed) Jas Beaton, Witness</signed>
-<signed>(signed) H Wickes, Witness</signed>
-</closer>
+<p>Before me<lb/>
+(Signed) Augustus Archer Silva<lb/>
+Commercial Agent</p>
+
+<p>James Wells (or Calden) his X mark<lb/>
+(signed) Jas Beaton, Witness
+(signed) H <unclear>Wickes</unclear> Witness</p>
 
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0082.067"/>
-<opener>
-<dateline>United States Commercial Agency<lb/>
-St. Paul de Loanda, Nov. 18 1867</dateline>
-</opener>
 
-<p>
-I the undersigned Commercial Agent
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda, Novr 18 1867.</dateline></opener>
+
+<p>I the undersigned Commercial Agent
 of the United States, do hereby
 certify that the foregoing deposition,
 signed by me Augustus Archer
 Silva, Commercial Agent of the
 United States, and by James
 Wells, or Calden, Mariner on
-board the American Ship Wm
-Cummings of Philadelphia, is
+board the American Ship "Wm
+Cummings" of Philadelphia, is
 a true and faithful copy of the
 original filed in this office
 the same having been carefully
 examined by me and compared with
 the said original, and found to agree
 therewith, work for word, and letter for
-letter.
-</p>
+letter</p>
 
 <p>Given under my hand, and seal
 of this Agency day and year
 as above mentioned</p>
 
-<closer>
-<signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed>
-</closer>
+<closer><signed>Augustus Archer Silva<lb/>
+Commercial Agent</signed></closer>
+
 </div1>
 
 <pb facs="teaa.en.letter.0082.068"/>
-<div1 type="enclosure">
-<opener>
-<dateline>United States Commercial Agency<lb/>
-St Paul de Loanda 23rd Sept 1867</dateline>
-</opener>
 
-<p>
-Before me Augustus Archer Silva
+<div1 type="document" xml:lang="en">
+
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda 23rd Sept 1867</dateline></opener>
+
+<p>Before me Augustus Archer Silva
 Commercial Agent of the United
 States of America at St Paul de Loanda
 personally appeared Charles
-Smith mariner on board of the
-American ship Wm Cummings
-of Philadelphia and after
-being by me duly sworn deposed
-and says as follows.
-</p>
+Smith, mariner on board of the
+American ship "Wm Cummings"
+of Philadelphia, and after
+being by me duly sworn deposes
+and says as follows.</p>
 
 <p>That I was born in Germany
 and went to the United States for
-the first time in 1859 and since
+the first time in 1859, and since
 that period I have been employed
-in America Wessels and during
+in American Vessels and during
 the war served on board 3 different
 US Vessels of war. I am
 26 years of age and reside at No
 90 Broome St New York City I
-shipped on board the Wm Cummings
+shipped on board the "Wm Cummings"
 of Philadelphia on the 8th of June
-last, and reported for duty two
-days aftterwards. On the same
+last, and reported for duty, two
+days afterwards. On the same
 <catchwords>day</catchwords>
 
 <pb facs="teaa.en.letter.0082.069"/>
+
 day at 7 am, the ship proceeded
 down the river in tow of a steam
 tug. Sixty five miles, and during
 the passage down, made sail on the
 ship during three days ending June
-12th. When all hands knocked off
+12th when all hands knocked off
 work, on account of ill usage and
 the cruelty of both master and
 mate, who without cause struck
@@ -2131,56 +2146,57 @@ hours without food or water.
 We in the meantime suffered
 intensely from thirst, obliging
 us to drink our own water.
-Several times during our confinement
+Several times during our confinement,
 we requested to see the Captain,
 to ask him to give us at
 least solitary prison fare, which
-he regused. We requested him to
+he refused. We requested him to
 call alongside the Revenue Cutter
-which he also refused to ndo
+which he also refused to do
 notwithstanding the cutter was
 <catchwords>in</catchwords>
 
 <pb facs="teaa.en.letter.0082.070"/>
+
 in sight, as subsequently reported
 to us. Hunger and thirst obliged us
-to force open the forecastle door, when
+to force open the forecastle door when
 the captain arrived with a Revolver
-and harchet in hand, and the mate
+and hatchet in hand, and the mate
 with an axe. The second mate, Cook
 Steward, and boy were also armed
-with crew belaying pins, I was the
+with iron belaying pins, I was the
 first to come out of the forecastle
 followed by the others, and making
 no resistance, the Captain levelled
-a pistol at my head, and drove the
-rest back into the forcastle. When
-the mate seived hold of me, and took
+a pistol at my head and drove the
+rest back into the forecastle. When
+the mate seized hold of me and took
 me into the Cabin, and put me into
 single irons, besides abusing me with
 scandalous languages, shaking in my
 face an axe, and using threats that
 he would knock my brains out, He
-(the Mate) afterwards confined mein
-a narrow stateroom with another man
+(the Mate) afterwards confined me in
+a narrow stateroom for five hours 
+and then put me with another man
 in two sweat boxes and kept us there
 two hours the first day, and two hours
-the second with only three quarts of
+the second with only three quarters of
 <catchwords>a</catchwords>
 
 <pb facs="teaa.en.letter.0082.071"/>
+
 a pot of water, and one biscuit
 per day. Myself and four others were
-kept in irons three days. Three of
+kept in irons three days, three of
 whom were only confined at night
 While the rest of the crew were forced
 to turn to, who made sail on the
 ship and proceeded down the
-river.
-</p>
+river</p>
 
-<p>
-On the16th the pilot was discharged
+<p>On the 16th the pilot was discharged
 previous to which I was
 taken out of irons. During the
 passage the Captain &amp; mate
@@ -2188,7 +2204,7 @@ abused the crew with unusual
 cruelty, inflicting on several
 severe contusions from the effects
 of heavy blows with belaying
-pins. The Captain one day struck
+pins The Captain one day struck
 one of the men with a hatchet
 inflicting severe wounds. He
 (the Captain) also struck several
@@ -2200,16 +2216,16 @@ part of the wheelhouse, and
 <catchwords>threw</catchwords> 
 
 <pb facs="teaa.en.letter.0082.072"/>
-<fw>12</fw>
+
 threw his feet with full force
 against the side of the man
 below the ribs, and one of the
-men still suggers from this
+men still suffers from this
 harsh treatment. The Captain
-and mate saught every occasion
-to influct barbarous punishment
+and mate <sic>saught</sic> every occasion
+to inflict barbarous punishment
 upon us and thus we
-suggered the enture passage of
+suffered the entire passage of
 about 80 days. From the day
 the pilot left us, up to the day
 we arrived at this port, we had
@@ -2217,75 +2233,77 @@ given to us only two gallons of
 water for the use of twelve men
 for twenty four hours, causing
 us great suffering. When we reached
-the wanter latitudes, notwithstanding
+the warmer latitudes, notwithstanding
 plenty of rain water was caught
 no greater allowance was given
 During the passage one of the crew
-Andrew Henwright which scraping
+Andrew Henwright while scraping
 the barnacles of the ships side
 broke in two parts, the scraper, one
 of the part falling overboard. The
 mate in presence of the Captain
-<catchwords>to-</catchwords>
+<catchwords>to</catchwords>
 
 <pb facs="teaa.en.letter.0082.073"/>
+
 to inflict punishment on Andrew
-Henwright for the loss of the <unclear/>
+Henwright, for the loss of the scraper
 tied round him a rope (a bowline)
 and lowered him into the water
 The velocity was then three knots
 and the ship was rolling considerably
-and at every roll the
+and at every roll, the
 poor seaman would strike the
 side of the vessel violently and
 on the return roll would be completely
 submerged under water
 he was kept in this punishment
-for over half and hour, besides
+for over half an hour, besides
 having previously worked over the
-ships side half a day, when taken
-up he was very exhausted and
+ships side half a day. when taken
+up, he was very exhausted and
 was ten minutes in coming to
-and durint the night was delirious
+and during the night was delirious
 and vomiting salt water. The same
 man had been punished very
 severely with an iron belaying
-pin on a previous occasion --
+pin on a previous occasion,
 breaking his hand in several
-places. The <unclear/> of which are
+places. The marks of which are
 yet quite visible.</p>
 
 <p><catchwords>Two</catchwords>
 
 <pb facs="teaa.en.letter.0082.074"/>
+
 Two days after arrival at this
 port, in consequence of severe threats
 we refused duty, and demanded to
 see the Consul, and as you were
-from here we refused to return to
+<unclear>from</unclear> <unclear>here</unclear> we refused to return to
 duty until we laid our grievances
 before you and preferred to be put
 in jail by the Captain rather
-than return to our work.
-</p>
+than return to our work.</p>
 
 <p>Sworn &amp; Subscribed this twenty
-third day of September, AD eightteen
-hundred and sixy seven</p>
+third day of September, A.D. eighteen
+hundred and sixty seven</p>
 
-<closer>
-<salute>Before me</salute>
-<signed>(Signed) Augustus Archer Sila<lb/>
-Commercial Agent</signed>
-<signed>(Signed) Charly Smith</signed>
-<signed>Witness to signatures<lb/>
-(Sn) Jas Beaton<lb/>
-H Wickes</signed>
-</closer>
+<p>Before me<lb/>
+(Signed) Augustus Archer Silva<lb/>
+Commercial Agent</p>
+
+<p>(Signed) Charly Smith</p>
+
+<p>Witness to signatures<lb/>
+(Sd) Jas Beaton<lb/>
+H <unclear>Wickes</unclear></p>
 
 </div1>
 
-<div1 type="enclosure">
+<div1 type="enclosure"><!-- START ENCODING HERE -->
+
 <pb facs="teaa.en.letter.0082.075"/>
 
 <opener>
