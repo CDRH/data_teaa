@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.178.xml">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from Edward M. Blyden to US Minister of Foreign Affairs</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+
+<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0178.xml</idno>
+
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Letter from Edward M. Blyden to US Minister of Foreign Affairs</title>
+<title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-807, Roll 1</biblScope>
+<date when="1864-03-08">March 08, 1864</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Edward M. Blyden</persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName>Monrovia, Liberia</placeName>
+<date when="1864-03-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName>US Minister of Foreign Affairs</roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-06-17" who="#CAA">transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="teaa.en.letter.0178.xml"/>
+
+<p>To His Excellency
+               The Minister for Foreign
+               Affairs of the United States</p>
+
+<p>Sir,
+               The President of the Republic
+   of Liberia having thought proper
+   to name M. John B. Pinney
+   Chargè d'Affaires of Liberia near
+   the Govenrment of the United States.</p>
+
+<p>            I have now the honor of an-
+   nouncing the same to your Excel-
+   lency, and of paying you to
+   give <unclear/> to whatever he shall
+   say to you on my part.</p>
+
+<p>            He is thoroughly acquainted
+   with the history and condition of 
+   Liberia and bore an active and
+   promenant part in bringing about
+   the amicable international relations
+                                which</p>
+
+<pb facs="teaa.en.letter.0178.xml"/>
+
+<p>which now so happily <unclear/>
+   between the United States and
+   Liberia.</p>
+
+<p>         He knows the earnest
+   desire on our poart to cultivate
+   and perpetuale this friendship
+   of your powerful Republic and
+   to deserve it by all the good 
+   office in our power.</p>
+
+<p>         I have no doubt that
+   Mr. Pinney will so conduct
+   himself as to merit your con-
+   fidence; and I avail myself
+   of this occasion to tender to
+   you the assurances of my 
+   distinguished consideration.</p>
+
+<p>           Edward W. Blyden</p>
+
+<p>Department of State
+   Monrovia, March 8, 1864</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
