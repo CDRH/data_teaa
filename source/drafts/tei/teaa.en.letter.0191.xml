@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0189">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0191">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from M. Johnson and President James Payne to Joseph Jenkins Roberts</title>
+<title>Letter from H.M. Scheiffelin to Hamilton Fish March 31st, 1870</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0189</idno>
+<idno type="project">teaa.en.letter.0191</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from President James Payne to Joseph Jenkins Roberts</title>
+<title level="a">Letter from H.M. Scheiffelin to Hamilton Fish March 31st, 1870</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="1869-06-18">June 18, 1869</date>
+<date when="1870-03-31">March 31, 1870</date>
 </bibl>
 </sourceDesc>
 
@@ -72,7 +72,7 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<term>Admiral Goldsborough</term>
 </keywords>
     
 <keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
@@ -99,15 +99,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>James Payne</persName>
-<roleName>President of Liberia</roleName>
+<persName>H.M. Scheiffelin</persName>
+<roleName>Yonker, N.Y.</roleName>
 <placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="1869-06-18"/>
+<date when="1870-03-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Joseph Jenkin Roberts</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Hamilton Fish</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
@@ -124,25 +124,60 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="teaa.en.letter.0189.001"/>
+<pb facs="teaa.en.letter.0191.001"/>
 
-<p>James Spriggs Payne
-   President of the Republic of Liberia
-   To Joseph Jenkins Roberst: Greeting</p>
+<p>Legation of Liberia
+    Yonkers, N.Y. March 31, 1870</p>
 
-<p>Reposing special trust and confidence in your Integrity, Prudence and Ability
-   I do appoint you the said Joseph Jenkins Roberts a citizen of this Republic, Envoy Extraordinary
-   for the Republic of Liberia, to the government of the United States of America;
-   authorizing you hereby to negotiate and form with the said government of the United 
-   States of America, a Treaty or Treaties of Alliance,and Commercial Repiprocity
-   And to do and perform all such matters and things as may be dully given you
-   in charge hereafterp; and the said office to hold during the pleasure of the President of Liberia.
-   In testimony whereof I have caused the Seal of the Republic be hereto affixed.</p>
+<p>Sir
+        In Jany 1857, an answer to 
+   an application from me, for a U.
+   S. Crusier to visit Monrovia, Liberia,
+   as an uprising of the natives was
+   apprehended, and a combination of
+   of the various tibes was understood
+   or reported to be forming, for the
+   purpose of attacking the Liberian
+   settlements-I received a commu
+   nication from the U.S. State Department,
+   under date of 5th February 1867 stating
+   that Admiral Goldsborouh, commanding
+   the European Squadron had been in a in-
+                                    structed</p>
 
-<p>James Payne</p>
+<p>to Honble Hamilton Fish
+            Secretary of State
+               Washington 
+                    D.C.</p>
 
-<p>M. Johnson
-   Secy of State</p>
+<pb facs="teaa.en.letter.0191.002"/>
+
+<p>to direct the next cruiser sent by
+   him to the coast of Africa, to visit
+   Liberia.</p>
+
+<p>Advices by telegraph from Paris
+   have appeared in the various papers,
+   statiing that the Liberians were en
+   -gaged in war with the natives.</p>
+
+<p>It has heretofore been reported, that
+   the natives have been incited to war
+   by English traders; and the late
+   humilation of Liberia by English men
+   of war would naturally further en
+   -courage them to attack the settlements.</p>
+
+<p>   I have heard no particulars,
+   but if not inconveneient, or inconsist
+   -ent with other requirements. I respect
+   fully ask that the same countenance
+   or support may be afforded as may done in Feby 1857.</p>
+
+<p>   I have the honor to be with
+   the highest consideration
+        Sir, your obedient servant
+                    H.M. Schieffelin</p>
 
 </div1>
 

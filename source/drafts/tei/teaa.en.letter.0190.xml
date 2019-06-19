@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0189">
-
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0190">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from M. Johnson and President James Payne to Joseph Jenkins Roberts</title>
+<title>Letter from J.J. Roberts to Hamilton Fish September 10, 1869</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,20 +32,18 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0189</idno>
-<availability>
+<idno type="project">teaa.en.letter.0190</idno>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
-</availability>
 </publicationStmt>
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from President James Payne to Joseph Jenkins Roberts</title>
+<title level="a">Letter from J.J. Roberts to Hamilton Fish September 10, 1869</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="1869-06-18">June 18, 1869</date>
+<date when="1869-09-10">September 10, 1869</date>
 </bibl>
 </sourceDesc>
 
@@ -99,14 +96,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>James Payne</persName>
-<roleName>President of Liberia</roleName>
+<persName>J.J. Roberts</persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
 <placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="1869-06-18"/>
+<date when="1869-09-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Joseph Jenkin Roberts</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<persName>Hamilton Fish</persName>
+<roleName>Secretary of State</roleName>
 <placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
 </correspAction>
 </correspDesc>
@@ -124,25 +121,41 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="teaa.en.letter.0189.001"/>
+<pb facs="teaa.en.letter.0190.001"/>
 
-<p>James Spriggs Payne
-   President of the Republic of Liberia
-   To Joseph Jenkins Roberst: Greeting</p>
+<p>325. II. Serect
+    Washington 
+     September 10, 1869</p>
 
-<p>Reposing special trust and confidence in your Integrity, Prudence and Ability
-   I do appoint you the said Joseph Jenkins Roberts a citizen of this Republic, Envoy Extraordinary
-   for the Republic of Liberia, to the government of the United States of America;
-   authorizing you hereby to negotiate and form with the said government of the United 
-   States of America, a Treaty or Treaties of Alliance,and Commercial Repiprocity
-   And to do and perform all such matters and things as may be dully given you
-   in charge hereafterp; and the said office to hold during the pleasure of the President of Liberia.
-   In testimony whereof I have caused the Seal of the Republic be hereto affixed.</p>
+<p>Sir
+      The undersigned begs  leave to inform
+   your Honor that he has been duly authorized
+   and charged by the President of the Republic
+   of Liberia to submit to the consideration
+   of the government of the United States certain
+   matters relenting particularly to the interests
+   of Liberia, and which, it is believed, will be
+   promotve of the commercial interest of the two
+   countries.</p>
 
-<p>James Payne</p>
+<p>Honorable
+    Hamilton Fish
+     Secretary of State
+      of the United States</p>
 
-<p>M. Johnson
-   Secy of State</p>
+<pb facs="teaa.en.letter.0190.002"/>
+
+<p>HS therfore, solicits the favor and interview
+   with your Honor for the purpose of stating fully
+   the objects to which he desires to invite your 
+   Honor's attention, and in respect to which he
+   is authorized to negotiate</p>
+
+<p> With sentiments of high esteem
+                I have the honor to be
+                      your Honor's
+                most obedient servant
+                            J.J. Roberts</p>
 
 </div1>
 

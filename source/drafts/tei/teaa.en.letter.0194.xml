@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0189">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0194">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from M. Johnson and President James Payne to Joseph Jenkins Roberts</title>
+<title>Letter from H.M. Scheiffelin to Hamilton Fish Jany 13, 1871</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0189</idno>
+<idno type="project">teaa.en.letter.0194</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from President James Payne to Joseph Jenkins Roberts</title>
+<title level="a">Letter from H.M. Scheiffelin to Hamilton Fish Jany 13, 1871</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="1869-06-18">June 18, 1869</date>
+<date when="1871-01-13">Jany 13th, 1871</date>
 </bibl>
 </sourceDesc>
 
@@ -54,7 +54,7 @@
 
 <profileDesc>
 <langUsage>
-
+<!-- WHAT LANGUAGE IS THE DOCUMENT IN? SEE ALSO: fr, French -->
 <language ident="en">English</language>
 </langUsage>
 
@@ -99,22 +99,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>James Payne</persName>
-<roleName>President of Liberia</roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="1869-06-18"/>
+<persName>H.M. Scheiffelin</persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName>Yonkers, N.Y.</placeName>
+<date when="1871-01-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Joseph Jenkin Roberts</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Hamilton Fish</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-19" who="#CAA">transcribed and encoded</change>
+<change when="2019-06-19" who="#CAA"></change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,26 +124,28 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="teaa.en.letter.0189.001"/>
+<pb facs="teaa.en.letter.0194."/>
 
-<p>James Spriggs Payne
-   President of the Republic of Liberia
-   To Joseph Jenkins Roberst: Greeting</p>
+<p>Legation of Liberia
+            Yonkers, N.Y. jANY 13, 1871</p>
 
-<p>Reposing special trust and confidence in your Integrity, Prudence and Ability
-   I do appoint you the said Joseph Jenkins Roberts a citizen of this Republic, Envoy Extraordinary
-   for the Republic of Liberia, to the government of the United States of America;
-   authorizing you hereby to negotiate and form with the said government of the United 
-   States of America, a Treaty or Treaties of Alliance,and Commercial Repiprocity
-   And to do and perform all such matters and things as may be dully given you
-   in charge hereafterp; and the said office to hold during the pleasure of the President of Liberia.
-   In testimony whereof I have caused the Seal of the Republic be hereto affixed.</p>
+<p>Sir,
+        I have the honor to acknowledge, with 
+    thanks, a copy of the "Finance Report. 1870"
+    also, to send herewith, some fac-simile copies
+    of a letter from the King of Muscadeo to the
+    President of Liberia, written in Arabic, which
+   is believed to be the only language and character
+   in use for written communications, accrop the
+   enitre continent of Africa.</p>
 
-<p>James Payne</p>
+<p>     I have the honor to be,w ith the highest
+   consdieration, Sir, your obedient servant.
+                                H.M. Scheiffelin</p>
 
-<p>M. Johnson
-   Secy of State</p>
-
+<p>Honble Hamilton Fish
+        Secretary of State
+          Washington. D.C.</p>
 </div1>
 
 </body>
