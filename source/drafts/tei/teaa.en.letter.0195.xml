@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0194">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0195">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from H.M. Scheiffelin to Hamilton Fish Jany 13, 1871</title>
+<title>Letter from HM. Scheiffelin to Hamilton Fish February 15, 1872</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0194</idno>
+<idno type="project">teaa.en.letter.0195</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from H.M. Scheiffelin to Hamilton Fish Jany 13, 1871</title>
+<title level="a">Letter from HM. Scheiffelin to Hamilton Fish February 15, 1872</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="1871-01-13">Jany 13th, 1871</date>
+<date when="1872-02-15">February 15, 1872</date>
 </bibl>
 </sourceDesc>
 
@@ -99,22 +99,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>H.M. Scheiffelin</persName>
+<persName>HM. Scheiffelin</persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
 <placeName>Yonkers, N.Y.</placeName>
-<date when="1871-01-13"/>
+<date when="1872-02-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Hamilton Fish</persName>
+<persName>hamilton Fish</persName>
 <roleName>Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-19" who="#CAA"></change>
+<change when="2019-06-20" who="#CAA">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,28 +124,38 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="teaa.en.letter.0194."/>
+<pb facs="teaa.en.letter.0195.001"/>
 
-<p>Legation of Liberia
-            Yonkers, N.Y. jANY 13, 1871</p>
+<p>Legation of Liberia,
+    Yonnkers, N.Y. Feby 15th, 1872</p>
 
-<p>Sir,
-        I have the honor to acknowledge, with 
-    thanks, a copy of the "Finance Report. 1870"
-    also, to send herewith, some fac-simile copies
-    of a letter from the King of Muscadeo to the
-    President of Liberia, written in Arabic, which
-   is believed to be the only language and character
-   in use for written communications, accrop the
-   enitre continent of Africa.</p>
+<p>Sir
+        I have the honor of informing you,
+   that I have received from the State Department
+   of Liberia, a communication dated Jany 5th, 1872.
+   informing me tat on the first of the same month
+   the Hon. J.J. Roberts was inaugurated President
+   of Liberia, and expressing the desire fo the Liberian
+   government to maintain the best understanding
+   with the United States government and to strengthen
+   the bonds of friendship which have for so many
+   years subsisted between itself and foreign governments.</p>
 
-<p>     I have the honor to be,w ith the highest
-   consdieration, Sir, your obedient servant.
-                                H.M. Scheiffelin</p>
+<p>     I send herewith the said communication for
+   your inspection, as it contains the recogntion, under
+   the new administration, of the commission accord
+   ing me as Chargè d'Affaires.
+              I have the honor to be, Sir, with</p>
 
-<p>Honble Hamilton Fish
+<pb facs="teaa.en.letter.0195.002"/>
+
+<p>the highest consideration.
+                        Your obedient servant
+                        H.M. Schieffelin
+To Hon. Hamilton Fish
         Secretary of State
-          Washington. D.C.</p>
+        Washington D.C.</p>
+
 </div1>
 
 </body>
