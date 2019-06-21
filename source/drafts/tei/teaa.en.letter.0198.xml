@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0198">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from G.W. Gibson to F.L. Frelinghuysen February 19th, 1883</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
+
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0198</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Letter from G.W. Gibson to F.L. Frelinghuysen February 19th, 1883</title>
+<title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-807, Roll 1</biblScope>
+<date when="1883-02-19">February 19, 1883</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>G.W. Gibson</persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName>Monrovia, Liberia</placeName>
+<date when="1883-02-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>F.L. Frelinghuysen</persName>
+<roleName>Secretary of State</roleName>
+<placeName>United States of America</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-06-21" who="#CAA>">transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="teaa.en.letter.0198.001"/>
+
+<p>Department of State
+    Monrovia February 19th 1883</p>
+
+<p>Sir
+       I had athe honor to forward you a dispatch last year, asking
+   the consideration of the government of the United States of
+   America to several matters in connection with the welfare and
+   interestes of this Republic.</p>
+
+<p>    Having up to the present recieved no
+   acknowledgement of that communication and in view of the fact
+   that our complications in connection with the North West Boundary
+   Question have increased rather than diminished, I begg to enclose
+   a copy herewith fearing that hte original may have miscarried.</p>
+
+<p>    I have the honor also to forward you a copy of a Resolution
+   of the Senate of this Republci adopted at its late session touching the
+   question of the North West Boundary which it had under consideration
+       The fact that the government of the United States unsolicited
+   by that of Her Majesty the Queen Great Britain and Ireland and
+   this State to act as umpire on this question, and in case of any disagree-</p>
+
+<p>Hon. F.L. Frelinghuysen
+    Secretary of State
+     For the United States of America</p>
+
+<pb facs="teaa.en.letter.0198.002"/>
+
+<p>ment on the part of the Commissioners representing the two governments
+   the decision of the United States would be final. I beg to pull your
+   attention to this understanding and to request that your government
+   will be kind enought to give some expression on the subject, so as to set
+   the matter at rest.</p>
+
+<p>     I need scarcely mention that this perplexing question
+   has been and still is the source of deep concern to this Republic and
+   a terminatioin of the dispute by the kind intervention of your govern-
+   ment would be hailed with great delight and profound gratitude by the
+   citizens generally.</p>
+
+<p>     I have the honor to be
+           your most obedient servant
+                G.W. Gibson</p>
+
+<p>Enclosures
+1. Dispatch dated Feby 2. 1882
+2. Senate Resolution on Draft convention</p>
+</div1>
+
+</body>
+</text>
+
+</TEI>
