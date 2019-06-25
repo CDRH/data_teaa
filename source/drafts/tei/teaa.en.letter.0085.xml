@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +90,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1868-08-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1868-09-30"/>
 </correspAction>
@@ -113,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-24" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,38 +120,42 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0085.001"/>
 
-<opener>No 50<lb/>
-<dateline>United States Coml Agency<lb/>
-St Paul de Loanda Sept 30 1868</dateline></opener>
+<note>ack " 21</note>
+<note>No 50</note>
 
-<p>Sir<lb/>
-I have the honor to 
+<opener><dateline>United States Coml Agency<lb/>
+St Paul de Loanda Sept 30tg 1868</dateline></opener>
+
+<p>Sir</p>
+
+<p>I have the honor to 
 inform the department that there
-were no arrivials or departures
+were no arrivals or departures
 of American vessels of this port
 during the quarter ending this
-day in requiring no fees recieved
+day in requiring no fees received.
 A sworn statement I forward 
-by this opportunity to the fifth
+by this opportunity to the Fifth
 Auditor of the Treasury.</p>
 
-<p> My acct. current
+<p>My acc't current
 shows a balance in my favor
-of $250.00 for which acct. I have
-drawn on this Humble Secretray
+of $250.00 for which acc't I have
+drawn on this Honable Secretray
 of the Treasury.</p>
 
 <closer><salute>I have the honor<lb/>
 to be<lb/>
-Your Most Obedt Sevt</salute>
-<signed>Augustus Archer Silva 
+Your Most Obed't Serv't</salute>
+<signed>Augustus Archer Silva<lb/> 
 Commerical Agent</signed>
+
 <address><addrLine>To the</addrLine>
-<addrLine>Hon. Secretary of State of State</addrLine>
+<addrLine>Hon Secretary of State of State</addrLine>
 <addrLine>Washington</addrLine></address></closer>
 
 </div1>

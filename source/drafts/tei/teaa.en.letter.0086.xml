@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,15 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Newton, Robert S.</term>
+<term>Stevens</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Fernando Po</term>
+<term>Lisbon (Portugal)</term>
+<term>London (England)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +94,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1869-03-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +113,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-24" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,46 +123,82 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0086.001"/>
-<note>Ack July 27</note>
-<opener>No. 53<lb/>
 
-<dateline>United States Coml. Agency<lb/>
-St. Paul de Loanda <unclear>24</unclear>, March 1869</dateline>
-</opener>
-<p>Sir<lb/>
-I have the honor to acknowledge the
-reception of your despatch No. 26 dated October
-17 1868 enclosing a Certificate of Appointment
+<note>Ack July 27</note>
+<note>No. 53.</note>
+
+<opener><dateline>United States Coml. Agency<lb/>
+St. Paul de Loanda <unclear>24</unclear>, March 1869</dateline></opener>
+
+<p>Sir</p>
+
+<p>I have the honor to acknowledge the
+reception of your Despatch No 26 dated October
+17th 1868, enclosing a Certificate of Appointment
 of Robert S. Newton as Vice Commercial Agent
 of the United States at this City.</p>
 
-<p>The above acknowledged despatch
+<p>The above acknowledged Despatch
 lay at Fernando Po four months wasting
 an opportunity to be forwarded here.</p>
 
-<p>I have therefore requested Mr. 
-Stevens the US despatch Agent at London
-to send in the future the despatches for this
+<p>I have therefore requested Mr 
+Stevens the U.S. Despatch Agent at London
+to send in the future the Despatches for this
 Agency via Lisbon from which place a monthly
 line of Steamers are running.</p>
 
-<p>I enclose herewith Mr. Newton's
+<p>I enclose herewith Mr Newton's
 acknowlegement of the Appointment.</p>
 
 <closer><salute>I have the honor<lb/>
 to be<lb/>
-Your most obed Servt</salute>
+Your most obed servt</salute>
 <signed>Augustus Archer Silva<lb/>
-Commericial Agent</signed>
+Commercial Agent</signed>
 
 <address><addrLine>The Honble Secretary of State</addrLine>
 <addrLine>Washington</addrLine></address>
 </closer>
 
 </div1>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.en.letter.0086.002"/>
+
+<note>Ack July 27</note>
+
+<opener><dateline>United States Comml Agency<lb/>
+St Paul de Loanda 24th March 1869</dateline></opener>
+
+<p>Sir</p>
+
+<p>I have the honor to acknowledge 
+receipt of my Certificate of Appointment
+as Vice Commercial Agent for the United
+States for this Port, dated 17th October
+1868.</p>
+
+<p>Thanking the Department for the 
+honor and confidence conferred on me</p>
+
+<closer><salute>I have the honor<lb/>
+to be<lb/>
+Your most obedt Servt</salute>
+<signed>Robt S Newton</signed>
+
+<address><addrLine>The</addrLine>
+<addrLine>Honble Secretary of State</addrLine>
+<addrLine>Washington</addrLine>
+<addrLine>U.S. of America</addrLine></address>
+</closer>
+
+</div1>
+
 </body>
 </text>
 
