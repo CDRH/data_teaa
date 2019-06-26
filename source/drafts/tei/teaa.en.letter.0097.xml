@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert S. Newton</title>
+<title>Dispatch from Robert S. Newton, undated</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,11 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Silva, Augustus Archer</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Lisbon (Portugal)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +90,27 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
-<placeName></placeName>
+<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
 <date/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName ref="http://viaf.org/viaf/232585893">Fish, Hamilton, 1808-1893</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,14 +118,15 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0097.001"/>
 
-<p>Sir,<lb/>
-I am sorry to have to inform the
+<p>Sir,</p>
+
+<p>I am sorry to have to inform the
 department of the death of Commercial
-Agent, Mr. Augustus Archer Silva
+Agent, Mr Augustus Archer Silva
 who died of dropsy on the 22nd June
 on board the S.S. "Benguella" being
 at the time on his way to Lisbon.</p>
@@ -138,7 +135,7 @@ at the time on his way to Lisbon.</p>
 to be<lb/>
 Sir,<lb/>
 Your most obedient Servant</salute>
-<signed>Robt. S. Newton<lb/>
+<signed>Robt S. Newton<lb/>
 Vice Commercial Agent</signed>
 
 <address><addrLine>To the</addrLine>

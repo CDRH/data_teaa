@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Henry W. Dinan, March 1, 1871</title>
+<title>Dispatch from Henry W. Diman, March 1, 1871</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Henry W. Dinan</title>
+<title level="a">Dispatch from Henry W. Diman</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,12 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Carvalho da Silva, José Galdino</term>
+<term>Silva, Augustus Archer</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Lisbon (Portugal)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +91,28 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Dinan, Henry W.</persName>
+<persName>Diman, Henry W.</persName>
+<roleName>U.S. Consul for Lisbon</roleName>
 <placeName>Lisbon, Portugal</placeName>
 <date when="1871-03-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName/>
+<roleName/>
+<placeName/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-26" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,7 +120,7 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0093.001"/>
 
@@ -136,17 +134,21 @@ to the accompanying certificate is true and
 genuine and as such is entitled to full
 faith and credit.</p>
 
-<closer><salute>Given under my hand and
+<p>Given under my hand and
 seal of office on the year and
-day as above.</salute>
-<signed>Henry W. Dinan<lb/>
-U.S. Consul.</signed></closer>
+day as above.</p>
+
+<p>Henry W. Dinan<lb/>
+U.S. Consul.</p>
+
 </div1>
 
-<div1 type="enclosure">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0093.002"/>
+
 <p>Jose Galdino Carvalho da Silva. Commander
-of the Order of Christ and Member of the medical
+of the Order of Christ and Member of the Medical
 Faculty of the Hospital of Saint
 Joseph.</p>
 
@@ -155,15 +157,15 @@ Silva Esquire has been treated by me for
 rheumatism and also for Hepatitis, and 
 that these diseases not yielding readily
 to treatment, I advised him to remain
-a longer time in Europe, so in this way
+a longer time in Europe, as in this way
 his ailments might be overcome, and only
 in the last few days have they showed
 signs of improvement. This being the
-truth I am ready to swear to at on the 
+truth I am ready to swear to it on the 
 Holy Bible.</p>
 
-<closer><dateline>Lisbon 15th of February 1871,</dateline>
-<signed>signed José Galdino da Silva.</signed></closer>
+<p>Lisbon 15th of February 1871.<lb/>
+signed José Galdino da Silva.</p>
 
 </div1>
 </body>

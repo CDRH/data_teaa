@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -75,7 +76,6 @@
     
 <keywords scheme="original" n="places">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +90,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1876-05-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Cadwalader, John L. (John Lambert), 1836-1914</persName>
+<roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1876-07-20"/>
 </correspAction>
@@ -113,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,7 +120,7 @@
 
 <body>
 
-<div1 type="cover">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0101.001"/>
 
@@ -157,7 +154,7 @@ Thomas, and introduction of Coast labour
 from Cape Palmas &amp; other parts.</p>
 </div1>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 <pb facs="teaa.en.letter.0101.002"/>
 <opener><dateline>United States Commercial Agency<lb/>
 20th. May 1876</dateline>

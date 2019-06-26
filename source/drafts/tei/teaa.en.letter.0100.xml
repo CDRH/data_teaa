@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,12 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/80787">Cameron, Verney Lovett, 1844-1894</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Benguela (Angola)</term>
+<term>Zanzibar</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +91,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1875-11-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Cadwalader, John L. (John Lambert), 1836-1914</persName>
+<roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1876-02-16"/>
 </correspAction>
@@ -113,9 +111,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,51 +121,51 @@
 
 <body>
 
-<div1 type="cover">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0100.001"/>
 
-<note>Ack Mch 17 76</note>
+<note>Ack Mch. 17. 76.</note>
 <note>Ack Feb 16</note>
-<note>Mr Wood</note>
-<note>Department Of State Received Feb 16 1876</note>
-<note><unclear>Con E</unclear></note>
+<note>No 107</note>
 
-<opener>No 107
-<dateline>United States Consulate<lb/>
+<opener><dateline>United States Consulate
 at St. Paul de Loanda<lb/>
-25th November 1875</dateline>
-</opener>
+25th November 1875</dateline></opener>
+
 <p>Mr. Robert Scott Newton
 to the Department of State</p>
 
-<p>Subject.__Arrival of Lieut. Cameron.</p>
+<p>Subject. Arrival of Lieut. Cameron.</p>
 
-<p>Abstract of contents
-Arrival at Loanda, on the 19th Novbr.
+<p>Abstract of contents.</p>
+
+<p>Arrival at Loanda, on the 19th Novbr
 1875, of Lieut. Cameron and the East
 Coast Livingstone Expedition. The
 expedition a complete success. Cameron
 trying to purchase a vessel to convey
 his 57 men to Zanzibar.</p>
+
 </div1>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0100.002"/>
+
 <opener><dateline>United States Consulate Loanda<lb/>
 25th November 1875</dateline>
 
 <address><addrLine>The Assistant Secretary of State</addrLine>
-<addrLine>Washington D.C.:</addrLine></address>
-</opener>
+<addrLine>Washington D.C.:</addrLine></address></opener>
 
-<p>Sir, I have the honor to report the
+<p>Sir; I have the honor to report the
 arrival here on the 19th inst. of Lieut.
 Cameron, leader of the East Coast
 Livingstone Expedition, who has successfully
 crossed the African Continent
 from Zanzibar. He reached the West
-Coast on the 7th. inst arriving  at Benguella.
+Coast on the 7th inst arriving  at Benguella.
 He is accompanied by 57 
 natives of Zanzibar, all that are left
 of over 300 with whom he originally
@@ -176,6 +174,7 @@ that the Expedition has been a complete
 success, and that he has made some
 
 <pb facs="teaa.en.letter.0100.003"/>
+
 most important Geographical discoveries.
 I believe that he is in course
 of treaty for the purchase of a vessel
@@ -185,11 +184,9 @@ their departure he, himself will proceed
 to Europe</p>
 
 <closer><salute>I am, Sir<lb/>
-Your obedient Servant</salute>
-<signed>Rob S. Newton<lb/>
+Your obedient Servant</salute><lb/>
+<signed>Robt S Newton<lb/>
 Vice Commercial Agent</signed></closer>
-
-
 
 </div1>
 </body>

@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,7 +76,6 @@
     
 <keywords scheme="original" n="places">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +90,24 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Wood, A. B.</persName>
-<placeName></placeName>
 <date when="1875-07-26"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,37 +115,40 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0098.001"/>
 
-<p>Inst. no. 26 of Oct 17. 68, to Mr. A. A. Silva, informs
+<p>Inst. No. 26 of Oct 17. 68, to Mr. A. A. Silva, informs
 him that Mr. Robert S. Newton has been
-appointed V.C. Agent at St. Paul de Loanda, object
-to the conditions improsed by law and the 
-C.R. and directs him to perform the duties
+appointed V. C. Agent at St. Paul de Loanda, subject
+to the conditions imposed by law and the 
+C. R. and directs him to perform the duties
 of the Agency during Mr. Silva's absence, and
-incloses Cert. of appt. No blank form of
+incloses Cert. of Appt. No blank form of
 bond appears to have been sent to him nor
 does it appear that he executed one. Mr.
 Newton is represented by Mr. Silva to be
 a gentleman of Scotch birth and a member
 of his counting house.</p>
 
-<p>Inst. no 43. of Aprl 6' 72; to which Mr. Newton
-refers in this disp. grants Mr. Silva the
-former C.A. at St. P. de L. leave of absence
+<p>Inst. No. 43. of Apl 6' 72; to which Mr. Newton
+refers in this desp. grants Mr. Silva the
+former C. A. at St. P. de L. leave of absence
 for one year and at the same time standing
-permission to him and the V.C. Agt. to leave
+permission to him and the V. C. Agt. to leave
 the Agency when compelled by circumstances
 to absent themselves, provided measures are taken
 to secure the discharge of the duties of
-the Agency. Attention is called to the 2nd Sec.
+the Agency. Attention is called to the 2d Sec.
 of the Act of Mch. 3. 69. which prohibits the
 payment of salary to Cons. officers when absent on leave longer than 60 days
 including the time usually occupied to and from the U.S. provided the
- journey is actually made.</p>
-<closer><dateline>July 25, 75.</dateline> <signed>A.B. Wood</signed></closer>
+journey is actually made.</p>
+
+<p>July 26, 75.</p>
+
+<p>A. B. Wood</p>
 
 </div1>
 </body>

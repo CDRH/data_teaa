@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,11 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Newton, Robert Scott</term>
 </keywords>
     
 <keywords scheme="original" n="places">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +90,17 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
-<placeName></placeName>
+<roleName>U.S. Commercial Agent for Loanda</roleName>
 <date/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/232585893">Fish, Hamilton, 1808-1893</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +108,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,15 +118,16 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0095.001"/>
 
-<p>Sir,<lb/>
-I have the honor to inform the 
+<p>Sir,</p>
+
+<p>I have the honor to inform the 
 Department that, in conformity with the 
 general leave of absence granted me.
-I have delivered over to Mr. Robert
+I have delivered over to Mr Robert
 Scott Newton, Vice Commercial Agent
 of the United States, the entire control of 
 this Commercial Agency comprehending
@@ -145,6 +142,7 @@ Your obedient Servant</salute>
 <addrLine>Honble Secretary of State</addrLine>
 <addrLine>Washington</addrLine>
 <addrLine>U.S.</addrLine></address>
+
 </closer>
 </div1>
 </body>

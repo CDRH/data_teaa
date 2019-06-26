@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,7 +76,6 @@
     
 <keywords scheme="original" n="places">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -89,11 +89,6 @@
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
@@ -112,9 +107,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,12 +117,13 @@
 
 <body>
 
-<div1 type="dispatch">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0099.001"/>
+
 <opener><dateline><unclear>United States</unclear> Commercial Agency<lb/>
 St Paul de Loanda<lb/>
-26th October1875</dateline></opener>
+26th October 1875</dateline></opener>
 
 <p>Mr. Robert Scott Newton</p>
 
