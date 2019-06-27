@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,9 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Angola</term>
+<term>Lisbon (Portugal)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +92,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1876-10-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Cadwalader, John L. (John Lambert), 1836-1914</persName>
+<roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1876-12-27"/>
 </correspAction>
@@ -113,9 +112,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-27" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -127,12 +126,11 @@
 
 <pb facs="teaa.en.letter.0105.001"/>
 
-<note>Ad. Copy Treasury &#8212; Dec 27</note>
-<note>Ack. Dec 28 76</note>
 <note>Department of State Received Dec 27 1876</note>
-<note>Mr Clements</note>
+<note>Ack. Dec. 28. 76</note>
+<note>No 117.</note>
 
-<opener>No 117. <dateline>U.S. Commercial Agency<lb/>
+<opener><dateline>U.S. Commercial Agency<lb/>
 St. Paul de Loanda</dateline></opener>
 
 <p>Mr. Robert Scott Newton</p>
@@ -140,27 +138,34 @@ St. Paul de Loanda</dateline></opener>
 <p>To<lb/>
 The Department of State</p>
 
-<p>Subject<lb/>
-Failure of Pea nut Crop in
+<p>Subject</p>
+
+<p>Failure of Pea Nut Crop in
 Angola and general trade
 prospects</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0105.002"/>
-<opener>117 <dateline>United States Commercial Agency<lb/>
+
+<note>117</note>
+
+<opener><dateline>United States Commercial Agency<lb/>
 Loanda 17 October 1876</dateline>
 
 <address><addrLine>The Assistant Secretary of State</addrLine>
-<addrLine>Washington D. C.</addrLine></address>
-</opener>
-<p>Sir,<lb/>
-I have the honor to place
+<addrLine>Washington D.C.</addrLine></address></opener>
+
+<p>Sir,</p>
+
+<p>I have the honor to place
 before the Department the 
 following facts which may 
 prove of considerable interest to 
 the Commercial Community of
-the United States who may 
+The United States who may 
 have business relations with 
 this part of the Coast of
 Africa.</p>
@@ -168,84 +173,88 @@ Africa.</p>
 <p>In years past a 
 considerable trade used to be
 done between this Port and 
-America in Pea nuts and
+America in Pea Nuts and
 <catchwords>I</catchwords>
 
 <pb facs="teaa.en.letter.0105.003"/>
+
 I now regret to inform the
 Department that this year there
 has been a total failure of
-the Pea nut crop and I do
+the Pea Nut crop and I do
 not think it likely that any
 will be exported to the states
 this season.</p>
 
 <p>For the last few years
-there has been a very perceptable
-decline in the quantity of Pea nuts
-brought into this market
-for sale, it is supposed by
+there has been a very <sic>perceptable</sic>
+decline in the quantity of Pea 
+Nuts brought into this market
+for sale. it is supposed by
 many that owing to the great 
 want of rain in 1873 the 
 Natives consumed what should
-have  been reserved as seed
+have been reserved as seed
 as means of saving themselves
 from starvation. There is another
 theory which I consider more
 <catchwords>probable</catchwords>
 
 <pb facs="teaa.en.letter.0105.004"/>
+
 probable and which if correct
-will cause Pea nuts gradually
+will cause Pea Nuts gradually
 to disappear from among the
 Exports from Angola, namely 
 that the low price now offered
-does not give sufficient  encouragement
+does not give sufficient encouragement
 to the Natives
 to plant, while on the other
-hand coffee, and more lately
+hand Coffee, and more lately
 Rubber offer them for a less
 modicum of work, far greater
 remuneration. Natives will
 bring the Produce to this
-market often over a hundred
+Market often over a hundred
 miles and it is evident what
 if for a cargo of Rubber they 
 can obtain 24 dollars, or for 
-coffee 9  dollars, they will
-neglect the Pea nuts, as for 
+Coffee 9 dollars, they will
+neglect the Pea Nuts, as for 
 <catchwords>a</catchwords>
 
 <pb facs="teaa.en.letter.0105.005"/>
-a similiar load they would 
+
+a similar load they would 
 only receive 1 dollar 80 cents.
 Coffee and Rubber cost to
-the natives little more trouble 
-to collect than Pea nuts, all
-being indiginous to the country 
+the Natives little more trouble 
+to collect than Pea Nuts, all
+being indigenous to the country 
 and in abundance.</p>
 
-<p>The late absence of Pea nuts
-has greatly affected the 
-Amerian Trade &#8212; in former
+<p>The late absence of Pea 
+Nuts has greatly affected the 
+Amerian Trade. in former
 years several vessels annually
-left this Port loaded with Peanuts
-but during the past year
-only one America vessel the 
-"Joseph Nickerson" has visited
+left this Port loaded with Pea
+Nuts but during the past year
+only one America vessel, the 
+"Joseph Nickerson", has visited
 this Port loaded with a general
 cargo to the value of $9873 32/00
-but there being no Pea nuts in
+but there being no Pea Nuts in
 the market she left this Port
 <catchwords>bound</catchwords>
 
 <pb facs="teaa.en.letter.0105.006"/>
+
 bound homewards in ballast.</p>
 
 <p>There has been a panic
 in Lisbon which has greatly
 affected general business throughout 
-this service and much 
+this Service and much 
 anxiety is still felt as to 
 the ultimate result of the
 crisis. Confidence is lost on 
@@ -260,12 +269,13 @@ healthy business.</p>
 this year large crops were
 expected and a good trading 
 year confidently looked forward
-to &#8212; these hopes have been
+to. these hopes have been
 <catchwords>completely</catchwords>
 
 <pb facs="teaa.en.letter.0105.007"/>
+
 completely disappointed. The 
-Palm oil crop on which
+Palm Oil Crop on which
 much of the prosperity of the
 Colony depends was very
 much smaller than usual.
@@ -273,20 +283,21 @@ Cotton, and all Oil seeds
 are being brought in to the 
 market in very small quantities
 and Traders are being left
-with heavy stocks of gords prepared
+with heavy stocks of goods prepared
 for a large barter
-trade &#8212; this lock-up of Capital 
+trade. this lock-up of Capital 
 will have grievous results and 
 I much fear that this 
 season will prove the most
 disastrous that the Colony
-of Angola has yet encountered.</p>
+of Angola has yet encountered</p>
 
 <p>Coffee has proved a fair 
 crop, but this export is 
 <catchwords>principally</catchwords>
 
 <pb facs="teaa.en.letter.0105.008"/>
+
 principally in the hands of
 the Planters and a comparatively
 small quantity is brought
@@ -296,7 +307,7 @@ relieve stocks.</p>
 <closer><salute>I am, Sir<lb/>
 Your obedient Servant</salute>
 <signed>Robt S Newton<lb/>
-Vice Commericial Agent</signed></closer>
+Vice Commercial Agent</signed></closer>
 
 </div1>
 </body>

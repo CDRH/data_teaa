@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Slave Trade and Slavery</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,10 +76,13 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -90,21 +95,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1876-08-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Cadwalader, John L. (John Lambert), 1836-1914</persName>
+<roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1876-11-09"/>
 </correspAction>
@@ -113,9 +115,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-27" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -129,44 +131,49 @@
 
 <note>Department Of State Received Nov 9 1876</note>
 
-<note> <unclear/> hope that the laws will be enforced
-and slavery actually abol. clearly,</note>
+<note>No. 113</note>
 
-<opener>No. 113<lb/>
-<dateline>United States Commercial Agency<lb/>
-Ack. Nov.10. 76.<lb/>
-Loanda 29th. August 1876</dateline>
-</opener>
-<p>Mr. Robert Scott Newton
+<opener><dateline>United States Commercial Agency<lb/>
+<note>Ack. Nov. 10. 76.</note><lb/>
+Loanda 29th August 1876</dateline></opener>
+
+<p>Mr Robert Scott Newton.<lb/>
 To the Department of State</p>
 
-<p>Subject.__Abolition of domestic
+<p>Subject. Abolition of domestic
 slavery in Angola.</p>
 
-<p>Abstract of contents.
-Domestic Slavery abolished in the 
+<p>Abstract of Contents.</p>
+
+<p>Domestic Slavery abolished in the 
 Portuguese West African Colonies,
-on the 17th July by Royal Decree
+on the 17th July, by Royal Decree
 of 29th April. Probable effects of 
-the Emancipation. </p>
+the Emancipation.</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0103.002"/>
-<opener>No 113. <dateline>United States Commercial Agency<lb/>
+
+<note>No 113.</note> 
+
+<opener><dateline>United States Commercial Agency<lb/>
 Loanda 29th August 1876</dateline>
 
 <address><addrLine>The Assistant Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
-</opener>
-<p>Sir,<lb/>
-I have the honor to report to 
+<addrLine>Washington D.C.</addrLine></address></opener>
+
+<p>Sir,</p>
+
+<p>I have the honor to report to 
 the Department that Domestic Slavery
 ceased to be recognized by the Portuguese
 Government, throughout all
 their possessions on the West Coast of
 Africa, on the 17th July, according
-to the Royal Decree of the 29th, April.</p>
+to the Royal Decree of the 29th April.</p>
 
 <p>As I expected no demonstration 
 of any kind whatever took place
@@ -176,6 +183,7 @@ or the liberated slaves themselves,
 <catchwords>not</catchwords>
 
 <pb facs="teaa.en.letter.0103.003"/>
+
 not a flag was displayed, nor a gun
 fired, to mark the importance of a day
 which gave liberty to thousands.
@@ -190,13 +198,14 @@ any apparent difference in the city.
 The slaves who liked their masters
 have, with few exceptions, remained,
 receiving the price of their services, 
-which has been determined by Goverment.
-An office has been estabished 
+which has been determined by Government.
+An office has been established 
 in Loanda, where all contracts
 made between the planters and the 
 <catchwords>freedmen</catchwords>
 
 <pb facs="teaa.en.letter.0103.004"/>
+
 freedmen are registered, according
 to the rate of wages fixed by law,
 and where they can complain, in 
@@ -206,31 +215,43 @@ with the freedmen; their late owners
 have, according to law, the preference
 to their services for a term of two years
 they paying them, according to the 
-established rate, viz;--</p>
+established rate, viz;</p>
 
-<p>Men and women  per month 3 $00<unclear/> =$3.36
-Youths 15 to 21 years "    " 2 $ 500 = $2.77
-dos. 11 to 15        "        "    " 1 $ 950 = $2.12</p>
+<table>
+<row>
+<cell>Men and women</cell>
+<cell>Per month 3$000 <unclear/> = $3.36</cell>
+</row>
+<row>
+<cell>Youths 15 to 21 years</cell>
+<cell>     "    "    2$500 = $2.77</cell>
+</row>
+<row>
+<cell>dos. 11 to 15</cell>
+<cell>     "    "    1$950 = $2.12</cell>
+</row>
+</table>
 
 <p>If preferred, the contract can be
 made for food and clothing, and
 a smaller amount per month.
-By this plan planters are enabled
+By this plan the planters are enabled
 to retain the services of their
 <catchwords>best</catchwords>
 
 <pb facs="teaa.en.letter.0103.005"/>
+
 best hands, and are thus saved from
 considerable loss and inconvenience.
 Large numbers of the liberated slaves
 from the plantations in the neighbourhood,
-at first left their employmement,
+at first left their employment,
 and came to the city,
 but when they found that liberty
 did not mean idleness, and that
 they were obliged to work for the
 Government until they arranged
-other employment, they have nearby
+other employment, they have nearly
 all returned.</p>
 
 <p>From the interior I have
@@ -242,6 +263,7 @@ scarcity of labour in proportion
 <catchwords>to</catchwords>
 
 <pb facs="teaa.en.letter.0103.006"/>
+
 to the increase of the plantations;
 but there has been no outbreak nor
 is there any anticipated. It will
@@ -256,7 +278,7 @@ competition in consequence of a
 number of small planters having
 recently sprung up, who can now
 procure labour, without a large
-outlay of capital in the purchase
+outlay of Capital in the purchase
 of Slaves.</p>
 
 <closer><salute>I have the honor to be,<lb/>
