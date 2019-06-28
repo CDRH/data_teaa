@@ -3,18 +3,19 @@
 <?oxygen
 RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"
 ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0013">
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>
-Henry M. Turner, "Will it be Possible for the Negro to Attain, in this Country, Unto the American Type of Civilization" (1902)
+George W. Williams, "1862--Emancipation Day--1884; The Negro as a Political Problem"
 </title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 </respStmt>
 </titleStmt>
 <editionStmt>
@@ -34,7 +35,7 @@ Henry M. Turner, "Will it be Possible for the Negro to Attain, in this Country, 
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.book.0001</idno>
+<idno type="project">teaa.en.book.0013</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>
@@ -44,18 +45,13 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </publicationStmt>
 <sourceDesc>
 <bibl>
-<title level="a" type="main">
-Will it Be Possible for the Negro to Attain, in this Country, Unto the American Type of Civilization
-</title>
-<title level="m">
-Apropos of Africa: Sentiments of Negro American Leaders on Africa from the 1800s to the 1950s
-</title>
-<author n="Turner, Henry McNeal, 1834-1915">Henry M. Turner</author>
-<editor n="Kilson, Martin">Martin Kilson</editor>
-<editor n="Cromwell, Adeleide">Adeleide Cromwell</editor>
-<pubPlace>London</pubPlace>
-<publisher>Frank Cass &amp; Co. LTD.</publisher>
-<date when="1969">1969</date>
+<title level="a" type="main">1862--Emancipation Day--1884; The Negro as a Political Problem</title>
+<title level="m">Apropos of Africa: Sentiments of Negro American Leaders on Africa from the 1800s to the 1950s</title>
+<author n="Williams, George W.">George W. Williams</author>
+<editor/>
+<pubPlace>Boston, MA</pubPlace>
+<publisher>A. Mudge &amp; Son, printers, 1884</publisher>
+<date when="1884">1884</date>
 <biblScope unit="page">44-47</biblScope>
 </bibl>
 </sourceDesc>
@@ -68,94 +64,141 @@ Apropos of Africa: Sentiments of Negro American Leaders on Africa from the 1800s
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="type">
 <term>Document</term>
 </keywords>
+
 <keywords scheme="original" n="subtype">
 <term>Book</term>
 </keywords>
+
 <keywords scheme="viaf" n="people">
 <term/>
 </keywords>
+
 <keywords scheme="original" n="places">
-<term>Africa</term>
-<term>Liberia</term>
-<term>North America</term>
-<term>South America</term>
-<term>United States</term>
+<term/>
 </keywords>
+
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
-<term>Chinaman</term>
-<term>Indian</term>
-<term>Mexican</term>
-<term>Negro</term>
-<term>White</term>
+<term/>
 </keywords>
+
 <keywords scheme="original" n="language">
 <term>English</term>
 </keywords>
+
 <keywords scheme="original" n="religion">
-<term>Christianity</term>
+<term/>
 </keywords>
+
 </textClass>
+
 </profileDesc>
 <revisionDesc>
-<change when="2019-03-12" who="#kln">edited encoding</change>
-<change when="2017" who="ks">scanned, OCRed, and encoded</change>
+<change when="2019" who="sab">encoding and transcription.</change>
 </revisionDesc>
 </teiHeader>
+
 <text>
+
 <body>
+
 <div1 type="document" xml:lang="en">
-<pb xml:id="p44" facs="teaa.en.book.0001.001.jpg"/>
-<div2 type="title">
-<p>
-Will it be Possible for the Negro to Attain, in this Country, Unto the American Type of Civilization*
-</p>
-<p>Bishop H. M. Turner D.D., LL.D., D.C.L.</p>
-</div2>
-<div2 type="text">
-<p>
-This interrogatory appears to presuppose that the seventeen or more millions of colored people in North and South America are not a part of the American population, and do not constitute a part of its civilization. But the term "this country" evidently refers to the United States of America, for this being the largest and the most powerful government on the American continent, not infrequently, is made to represent the entire continent. So the Negro is regarded as a foreign and segregated race. The American people, therefore, who grade the type of American civilization are made up of white people, for the Indian, Chinamen, and the few Mexicans are not taken in account any more than the Negro is, by reason of their diminutive numbers, and not because they are regarded wanting in intellectual capacity, as the Negro is.
-</p>
-<p>
-The above is an interrogatory that can be easily answered if the term "American" is to include the United States and the powers that enact its laws and proclaim its judicial decisions, as we have no civilization in the aggregate. Civilization contemplates that fraternity, civil and political equality between man and man, that makes his rights, privileges and immunities inviolable and sacred in the eyes and hearts of his fellows, whatever may be his nationality, language, color, hair texture, or anything else that may make an external variation.
-</p>
-<p>
-Civility comprehends harmony, system, method, complacency, urbanity, refinement, politeness, courtesy, justice, culture, general enlightenment and protection of life and person to any man, regardless of his color or nationality. It is enough for a civilized community to know that you are a human being, to pledge surety of physical and political safety to you, and this has been the sequence in all ages
-<fw type="footnote">
-<note>
-* From D. W. Culp,
-<bibl>
-Twentieth Century Negro Literature or A Cyclopedia of Thought on the Vital Topics Relating to the American Negro
-</bibl>
-, 1902, pp. 42-45.
-</note>
-</fw>
-<pb xml:id="p45" facs="teaa.en.book.0001.002.jpg"/>
-among civilized people. But such is not the condition of things as they apply to this country, I mean the United States. True, we have a National Congress, State Legislature, Subordinate and Supreme Courts, and almost every form of government, necessary to regulate the affairs of a civilized country. But above these, and above law and order, which these legislative and judicial bodies have been organized to observe, and execute justice in the land, we are often confronted through the public press with reports of the most barbarous and cruel outrages, that can be perpetrated upon human beings, known in the history of the world. No savage nation can exceed the atrocities which are often heralded through the country and accepted by many as an incidental consequence. Men are hung, shot and burnt by bands of murderers who are almost invariably represented as the most influential and respectable citizens in the community, while the evidences of guilt of what is charged against the victims, who are so inhumanly outraged, are never established by proof in any court, and all we can learn about the guilt and horrible deeds charged upon the murdered victims comes from the mouth of the bloody handed wretches who perpetrate the murders, yet they are not known according to published accounts. But enough is known to get from their mouths some horrible statements as to why this and that brutal murder was done, and invariably, it is told with such oily tongues, and the whole narrative is polished over and glossed with such skillfully constructed lies, that the ruling millions lift up their hands in holy horror and exclaim "they done him right."
-</p>
-<p>
-Why, the very judges surrounded with court officers are powerless before these bloody mobs. Prisoners are cruelly, fiendishly and inhumanly dragged from their very custody. Sheriffs are as helpless as newborn babes. I do not pretend to say that in no instance have the victims been guilty as a whole or in part of some blood-curdling crime, for men perpetrate lawless acts, revolting deeds, disgraceful and brutal crimes, regardless of nationality, language or color, at times. But civilization presurmises legal adjudication and the intervention of that judicial authority which civilized legislation produces. And when properly administered the accused is innocent till he gets a fair trial; no verdict of guilt from a drunken lawless mob should be accepted by a civilized country; and when they do accept it they become a barbarous people. And a barbarous people make a barbarous nation. Civilization knows no marauders, mobs or lynchers and any one adjudged guilty by a drunken band of freebooters is not guilty in the eyes of a civilized people. For the ruthless and violent perpetrators of lawless deeds, especially when they are incarnate, are
-<pb xml:id="p46" facs="teaa.en.book.0001.003.jpg"/>
-murderers to all intents and purposes, and popular approval does not diminish the magnitude of the crime. Millions may say, "Well done", but God, reason and civilization stamp them as culprits.
-</p>
-<p>
-I confess that the United States has the highest form of civilized institutions that any nation has had. Let us take a cursory glance at the institutions of this country. It has common schools by the tens of thousands; colleges and universities of every grade by the hundred; millions of daily newspapers are flying from the press, and weekly papers and monthly magazines on all imaginary subjects; it has a Congress and President, Governors and State Legislatures without end, judges, various courts and law officers in countless numbers. Hundreds of thousands of school teachers, professors, and college presidents, and Doctors of Divinity, thousands of lecturers and public declaimers on all subjects, railroads, telegraphs and telephones in such vast numbers as stagger imagination itself, churches and pulpits that are filled by at least a hundred and twenty-five thousand ministers of the gospel, and Bibles enough to build a pyramid that would almost reach to heaven; a land of books upon every subject scattered among the people by the billions, and in short, we have all the forms and paraphernalia of civilization. But no one can say, who has any respect for truth, that the United States is a civilized nation, especially if we will take the daily papers and inspect them for a few moments, and see the deeds of horror that the ruling powers of the nation say "well done" to.
-</p>
-<p>
-I know that thousands, yea millions and tens of millions would not plead guilty of having a part in the violent and gory outrages which are often perpetrated in this country upon human beings, chiefly because they are of African descent, and are not numerically strong enough to contend with the powers in governmental control. But that is no virtue that calls for admiration. As long as they keep silent and fail to lift up their voices in protestation and declaim against it, their very silence is a world-wide acquiescence. It is practically saying, well done. There are millions of people in the country who could not stand to kill a brute, such is their nervous sensitiveness, and I have heard of persons who would not kill a snake or a bug. But they are guilty of everything the drunken mobs do, as long as they hold their silence. Men may be ever so free from the perpetration of bloody deeds, personally, but their failure to object to any outrageous crime makes them
-<hi rend="italic">particeps crimines.</hi>
-</p>
-<p>
-I forgot to say in cataloguing the crimes committed in the United States that persons for the simple color of their skins are thrust into what are called Jim Crow cars on the public highways and charged
-<pb xml:id="p47" facs="teaa.en.book.0001.004.jpg"/>
-as much as those who are riding in rolling palaces with every comfort that it is possible for man to enjoy. This is simple robbery on the public highways and the nine United States judges have approved of this robbery and said, "well done", by their verdict.
-</p>
-<p>
-Such being the barbarous condition of the United States, and the low order of civilization which controls its institutions where right and justice should sit enthroned, I see nothing for the Negro to attain unto in this country. I have already admitted that this country has books and schools, and the younger members of the Negro race, like the younger members of the white race, should attend them and profit by them. But for the Negro as a whole, I see nothing here for him to aspire after. He can return to Africa, especially to Liberia where a Negro government is already in existence, and learn the elements of civilization in fact; for human life is there sacred, and no man is deprived of it or any other thing that involves his manhood, without due process of law. So my decision is that there is nothing in the United States for the Negro to learn or try to attain to.
-</p>
-</div2>
+
+<pb xml:id="p00" facs="teaa.en.book.0013.000"/>
+
+<p>1862--EMANCIPATION DAY--1884</p>
+
+<p>The Negro as a Political Problem.</p>
+
+<p>ORATION
+BY THE
+HON. GEORGE W. WILLIAMS,
+OR MASSACHUSETTES,
+AT THE
+ASBURY CHURCH, WAHSINGTON, D.C.,
+APRIL 16, 1884.</p>
+
+<ab>UNIVERSITY OF NORTH CAROLINA
+PROPERTY OF 
+LIBRARY
+AT CHAPEL HILL</ab>
+
+<p>"From every hill instict with life is sent
+Gratitude-- a mental saerament,
+That from their neck they loosen'd felt the yoke--
+That the first link in slavery's chain was broke."</p>
+
+<p>BOSTON:
+ALFRED MUDGE &amp; SON, PRINTERS,
+No. 24 FRANKLIN STREET.
+1884.</p>
+
+<pb xml:id="p01" facs="teaa.en.book.0013.001"/>
+
+<p>ORATION.</p>
+
+<p>THE NEGRO AS A POLITICAL PROBLEM.</p>
+
+<p>Mr. President, Ladies and Gentlemen:
+From the waters of the Potomac to the liberty-
+crowned dome of the Capitol of the nation the bells of
+liberty have been ringing. The prayer of gratitude has
+been said, and the dirge has been sung at the tomb of
+slavery. The stirring strains of martial music, the
+swinging battalions of troops, the citizens in holiday at-
+tire, the bright faces and glad voices of the day, proclaim
+this an occasion of more than ordinary interest. And
+now, at the close of this anniversary day, while the
+pride, pomp, and circumstance of the occasion pass to
+their place in history, let us turn to the muse of medita-
+tion. Under this sacred shelter, whose platform has
+been the fortress of every honest and humane interest,
+we may find all the conditions friendly to reflection and
+instruction. Experience holds in lifted hand the flam-
+ing torch of knowledge, while our hearts know full
+well the serious lessons this day would teach us. There
+are but two rational reasons for going back into the
+past: one is where we can gather the fadeless flowers</p>
+
+<pb xml:id="p02" facs="teaa.en.book.0013.002"/>
+
+<p>2
+
+of memory whose aroma may yet cheer the present ;
+the other is where the bitter herbs of experience may
+act as a tonic upon a debilitated moral effort amid the
+living issues of the present.
+Few, indeed, and odorless and colorless, are the flowers of memory that we as a race care to turn back and
+pluck. Passion flowers innumerable we might find.
+But were we to turn and touch them, every stamen and
+petal would instantly become vocal with a thousand
+tongues. They would tell the story of tribes cheated,
+villages burned, and murder perpetrated by the remorseless hand of gain. They would relate the story
+of the middle passage, of young men and innocent
+maidens, of old men and helpless women, forced into
+the horrible middle passage; how that the ocean
+became a voracious sepulchre for hundreds of thousands of the hapless victims of the slave-trade, and will
+forever chant a ceaseless requiem over their watery
+grave; they would voice the deep plaint of innocent
+womanhood led into captivity, of broken hearts and
+sundered families; they Would tell the long and mournful story of a race's wrongs and sufferings, — of hope
+and piety, love and fear ; we should hear how the race
+was mobbed in the Korth and sold at the South ; how
+malice and vengeance, lash, knife, gun, dungeon, fire,
+water, and insanity, performed their hateful work. God
+forbid that we should undertake so dreadful a task!
+For were we thus to review the past we would find little else save a cemetery. And as we walked abroad we
+should find naught but graves of buried rights, hopes,</p>
+
+<pb xml:id="p03" facs="teaa.en.book.0013.003"/>
+
 </div1>
 </body>
 </text>
