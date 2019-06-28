@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,7 +76,6 @@
     
 <keywords scheme="original" n="places">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +90,17 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1877-03-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName/>
 <placeName>Washington, D.C.</placeName>
 <date when="1877-06-18"/>
 </correspAction>
@@ -113,9 +109,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-28" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -127,25 +123,25 @@
 
 <pb facs="teaa.en.letter.0109.001"/>
 
-<note>Mr Clements</note>
-
 <note>Department of State Received Jun 18 1877</note>
 <note>Akd July 3</note>
+<note>No 123</note>
 
-<opener>No 123<lb/>
-<dateline>United States Commercial Agency<lb/>
+<opener><dateline>United States Commercial Agency
 at St Paul de Loanda</dateline></opener>
+
 <p>To the Department of State</p>
 
 <p>Mr Robert Scott Newton</p>
 
-<p>Subject, Accounts</p>
+<p>Subject. Accounts</p>
 
-<p>Abstract of Contents
-Enclosing Form No 120 and advising Accounts
-of 31st March 1877.</p>
+<p>Abstract of Contents</p>
+
+<p>Enclosing Form No 120 and advising Accounts
+<unclear>to</unclear> 31st March 1877.</p>
+
 </div1>
-
 
 </body>
 </text>

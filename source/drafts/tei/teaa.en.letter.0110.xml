@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,28 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/169080269">Albuquerque, Caetano Alexandre de Almeida e, 1824-1916</term>
+<term ref="http://viaf.org/viaf/80787">Cameron, Verney Lovett, 1844-1894</term>
+<term>Capello, Brito</term>
+<term>Pinto, Serpa</term>
+<term>Pocock, Frank</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry M. (Henry Morton), 1841-1904.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Boma (Congo)</term>
+<term>Cabinda (Angola)</term>
+<term>Congo (River)</term>
+<term>Liverpool (England)</term>
+<term>Lualaba River</term>
+<term>Nyangme (Congo)</term>
+<term>St. Paul de Loanda (Angola)</term>
+<term>Yellala Falls</term>
+</keywords>
 
+<keywords scheme="original" n="empires">
+<term>England</term>
+<term>Portugal</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +107,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1877-08-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Cadwalader, John L. (John Lambert), 1836-1914</persName>
+<roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +126,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-28" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,20 +140,21 @@
 
 <pb facs="teaa.en.letter.0110.001"/>
 
+<note>No 132.</note>
 
-<opener>No 132<lb/>
-<dateline>United States Commercial Agency,<lb/>
+<opener><dateline>United States Commercial Agency,<lb/>
 St Paul de Loanda, 24th August 1877.</dateline></opener>
 
-<p>Sir,<lb/>
-I have the honor to report to 
+<p>Sir,,</p>
+
+<p>I have the honor to report to 
 the Department the arrival at this
 Port of the distinguished African
 traveller Henry M. Stanley.</p>
 
 <p>He reached here on the 21st inst.
 on board the Portuguese Man of War
-"Rio Tamega" from Cabinda where he 
+"Rio Tamega" from Cabenda where he 
 arrived on the 11th idem, having been
 successful in the discovery of the source
 of the River Congo which, he proves
@@ -152,12 +167,13 @@ to fight his way in several places the
 <catchwords>natives</catchwords>
 
 <pb facs="teaa.en.letter.0110.002"/>
+
 natives being in some parts extremely
 unfriendly not even allowing him to 
 trade for food, but considering he and 
 his men more as wild animals, fit
 only to be shot at, than human beings.
-He passed 57 cataracts or Rapids above
+He passed 57 Cataracts or Rapids above
 which the River Congo is navigable 
 for vessels of large size for 2000 miles.
 After passing all the falls to below
@@ -168,12 +184,13 @@ Boma where, he first met English
 and Portuguese Traders. From Boma
 he proceeded to Cabenda in a steamer
 belonging to one of the English houses
-at which place he was recieved on board
+at which place he was received on board
 the "Rio Tamega". He brings with him
 115 natives being all that are left of 
 <catchwords>about</catchwords>
 
 <pb facs="teaa.en.letter.0110.003"/>
+
 about 350 he started with, many having
 been lost in the Cataracts. The young
 Englishman Frank Pocock who had
@@ -182,15 +199,15 @@ also drowned in passing one of the
 Cataracts only some 2 months before their
 arrival at Boma. It was at a 
 place called Nyangme that he first 
-learnt of Captn. Camerons having
+learnt of Captn Cameron's having
 accompanied Portuguese Traders to the 
 West Coast. </p>
 
-<p>Mr. Stanley speaks in the 
+<p>Mr Stanley speaks in the 
 very highest terms of gratitude for
 the kind treatment which he and
-his men received from the commander
-and officers of the "Rio Tamega".</p>
+his men received from the Commander
+and Officers of the "Rio Tamega".</p>
 
 <p>Since his arrival here he has
 been treated with the greatest of kindness
@@ -198,13 +215,14 @@ by the Portuguese and is staying at
 <catchwords>present</catchwords>
 
 <pb facs="teaa.en.letter.0110.004"/>
+
 present with Major Serpa Pinto 
 and Mr. Brito Capello who are
 also about to start for the interior
 on a scientific expedition.</p>
 
 <p>Governor Albuquerque is doing 
-everything in his power to assist Mr. 
+everything in his power to assist Mr 
 Stanley, all his men being kept as
 guests of the Government.</p>
 
@@ -213,18 +231,19 @@ translation of an official despatch
 received from His Excellency The
 Governor congratulating me as 
 representative of the American
-nation on the highly successful termination 
+Nation on the highly successful termination 
 of the arduous journey just
-accomplished by <unclear>here</unclear> distinguished
+accomplished by her distinguished
 explorer and offering all the assistance
 in his power. Herewith I send
 copy of my reply.</p>
 
 <pb facs="teaa.en.letter.0110.005"/>
+
 <p>I have telegraphed the news of
-Mr. Stanley's arrival to the consul
+Mr Stanley's arrival to the Consul
 at Liverpool to be forwarded to the
-department.</p>
+Department.</p>
 
 <closer><salute>I have the honor<lb/>
 to be,<lb/>
@@ -237,7 +256,6 @@ Vice Commercial Agent.</signed>
 </closer>
 
 </div1>
-
 
 </body>
 </text>

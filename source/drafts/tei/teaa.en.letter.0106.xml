@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,14 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Porterfield, Robert</term>
+<term>Yates, Joseph W.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Gaboon</term>
+<term>New York</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +93,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1876-12-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Cadwalader, John L. (John Lambert), 1836-1914</persName>
+<roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1877-03-02"/>
 </correspAction>
@@ -113,9 +113,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-06-28" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -127,51 +127,53 @@
 
 <pb facs="teaa.en.letter.0106.001"/>
 
-<note>Mr Wood</note>
-<note>Ack Mch 2 77</note>
 <note>Department of State Received Mar 2 1877</note>
+<note>Ack. Mch. 2. 77.</note>
+<note>No. 119</note>
 
-<opener>No.119
+<opener><dateline>United States Commercial Agency<lb/>
+St Paul de Loanda</dateline></opener>
 
-<dateline>United States Commercial Agency<lb/>
-St Paul de Loanda</dateline>
-</opener>
-<p>Mr. R. S. Newton</p>
+<p>Mr R. S. Newton<lb/>
+To the Department of State</p>
 
-<p>To the Department of State</p>
-
-<p>Subject__ Asking for 2 national
+<p>Subject. Asking for 2 national
 ensigns.</p>
 
-<p>Abstract of contents.<lb/>
-Advising that the National flags
+<p>Abstract of contents.</p>
+
+<p>Advising that the National flags
 of this Agency are very much worn
 and requesting new ones. Suggesting
-sending per. Yates &amp; Porterfields ships
+sending per Yates &amp; Porterfields ships
 to Gaboon, thence to Loanda per
 Steamer.</p>
+
 </div1>
+
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0106.002"/>
-<opener>No. 119.<lb/>
 
-<dateline>United States Commercial Agency<lb/>
-St. Paul de Loanda 12th Dec. 1876</dateline>
+<note>No. 119.</note>
+
+<opener><dateline>United States Commercial Agency<lb/>
+St. Paul de Loanda 12th Decr 1876</dateline>
+
 <address><addrLine>To the Assistant Secretary of State</addrLine>
-<addrLine>Washington, D.C.</addrLine></address>
-</opener>
+<addrLine>Washington, D.C.</addrLine></address></opener>
 
-<p>Sir,<lb/>
-I have the honor to request
+<p>Sir,</p>
+
+<p>I have the honor to request
 the Department the favor to send
 to the Commercial Agency two
 National flags, of a large size say
-13 ft. by 10 ft.</p>
+15 ft. by 10 ft.</p>
 
 <p>As it is customary here to 
 hoist all consulate flags on Sundays
-and all public hollidays those now
+and all public holidays; those now
 in use at this Agency are considerably
 worn. A large flag is necessary
 on account of the height of the flag
@@ -179,14 +181,15 @@ staff at my residence
 <catchwords>Messrs</catchwords>
 
 <pb facs="teaa.en.letter.0106.003"/>
-Messrs. Yates and Porterfield of 
+
+Messrs Yates and Porterfield of 
 New York have often vessels to 
 Gaboon which would be a good way
 to send them as there are two
 steamers a month from that port 
 to this</p>
 
-<closer><salute>I have the honor to be<lb/>
+<closer><salute>I have the honor to be,<lb/>
 Your most obedient Servant</salute>
 <signed>Robt S. Newton<lb/>
 Vice Commercial Agent</signed></closer>
