@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,8 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Detroit (Mich.)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +91,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Jackson, Joseph E.</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>Detroit, Michigan</placeName>
 <date when="1877-09-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, Frederick William, 1830-1915</persName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-01" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,14 +124,18 @@
 
 <pb facs="teaa.en.letter.0111.001"/>
 
-<opener>[No 3] <dateline>Detroit September 11. 1877</dateline>
+<note>[No 3]</note>
 
-<address><addrLine>Hon F.W. Seward,</addrLine>
+<opener><dateline>Detroit September 11, 1877.</dateline>
+
+<address><addrLine>Hon F. W. Seward,</addrLine>
 <addrLine>Assistant Secretary of State,</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </opener>
-<p>Sir,<lb/>
-By my instructions. I am directed 
+
+<p>Sir,</p>
+
+<p>By my instructions, I am directed 
 to proceed to my post at the 
 expiration of thirty days from the
 date of my oath of office. I find it 
@@ -141,10 +143,10 @@ impossible to arrange my business so
 soon, and beg the indulgence of the 
 department for two weeks.</p>
 
-<closer><salute>I am Sir. your obedient servant</salute>
-<signed>Joseph E. Jackson,<lb/>
-Consul at St<lb/>
-Paul de Loanda.</signed></closer>
+<closer><salute>I am Sir, your obedient servant,</salute>
+<signed>Joseph E. Jackson</signed>,<lb/>
+Consul at St
+Paul de Loanda.</closer>
 
 </div1>
 </body>

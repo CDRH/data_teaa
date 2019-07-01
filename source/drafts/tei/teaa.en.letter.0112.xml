@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,12 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Jackson, Joseph E.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Michigan</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,32 +91,28 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1877-10-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, Frederick William, 1830-1915</persName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Acting U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
-
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-01" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -127,23 +124,25 @@
 
 <pb facs="teaa.en.letter.0112.001"/>
 
-<opener>No 135<lb/>
-<dateline>United States Commercial Agency<lb/>
+<note>No 135.</note>
+
+<opener><dateline>United States Commercial Agency<lb/>
 St Paul de Loanda<lb/>
 16th October 1877.</dateline></opener>
 
-<p>Sir,<lb/>
-I have the honor to 
+<p>Sir,</p>
+
+<p>I have the honor to 
 acknowledge the receipt of your
 communication dated 15th August
 1887, informing me that the President
 of the United States had appointed
-Mr. Jospeh E. Jackson of 
+Mr. Joseph E. Jackson of 
 Michigan to be consul of the 
 United States for this place, and 
 instructing me to deliver over to 
-him all the records archives  &amp;c
-of the consulate which instructions 
+him all the records, archives &amp;c
+of the Consulate. Which instructions 
 I will promptly carry out on the 
 arrival of that gentleman.</p>
 
@@ -152,9 +151,10 @@ to bring to the notice of His Honor
 <catchwords>the</catchwords>
 
 <pb facs="teaa.en.letter.0112.002"/>
+
 the President, that I have
 faithfully carried out the duties 
-of this consulate as sometimes
+of this Consulate as, sometimes
 Acting Commercial Agent, and at
 others as Vice Commercial Agent, for
 8 years with, I trust, dignity to 
@@ -162,19 +162,20 @@ the State, that I have at all
 times assisted and entertained American
 subjects who have been in distress or
 visited this place, and I feel acutely
-this unexpected action of being superceded. 
+this unexpected action of being <sic>superceded</sic>. 
 I would also most respectfully
 point out the peculiarly unhealthy
 nature of the climate here, which it
 requires many years to become accustomed
 to, many fevers and much sickness
 must be passed through before one
-becomes acclimatized and it is not
+becomes acclimatized, and it is not
 everyone whose strength can bear it
 
 <pb facs="teaa.en.letter.0112.003"/>
-as our rapidly increasing <sic>cemetry</sic>
-can show. I would also mention
+
+as our rapidly increasing <sic>Cemetry</sic>
+can shew. I would also mention
 that house rent and food have 
 increased of late years to such
 an alarming extent that no one,
@@ -183,17 +184,17 @@ hand, could exist on the pay
 at present allotted to the
 Representatives of the United States
 here. I merely mention these facts
-for your consideration so that the 
+for your consideration, so that the 
 gentleman coming out here may
 be made acquainted with what he 
-will have to put up with in Loanda. </p>
+will have to put up with in Loanda.</p>
 
-<closer><salute>I have the honor to be<lb/>
-Your most obedt sert.</salute>
+<closer><salute>I have the honor to be,<lb/>
+Your most obedt Servt.</salute>
 <signed>Robt S Newton<lb/>
-Vice Commercial Agent</signed>
+Vice Commercial Agent.</signed>
 
-<address><addrLine>To Wm. Seward Esqr</addrLine>
+<address><addrLine>F. W. Seward Esqr</addrLine>
 <addrLine>Acting Secretary</addrLine>
 <addrLine>Department of State</addrLine>
 <addrLine>Washington.</addrLine></address>
