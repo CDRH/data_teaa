@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,11 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Boston (Mass.)</term>
+<term>Liverpool (England)</term>
+<term>New York (N.Y.)</term>
+<term>Philadelphia (Penn.)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +94,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Thomas, William H.</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>Philadelphia, Pennsylvania</placeName>
 <date from="1879-03-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, Frederick William, 1830-1915</persName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +113,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-02" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,14 +123,13 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0118.001"/>
 
-<opener><note>St Paul de Loanda</note>
-<note>Mr Wood</note>
+<note>St Paul de Loanda</note>
 
-<dateline>Philadelphia, Pa.<lb/>
+<opener><dateline>Philadelphia, Pa.<lb/>
 March 21st 1879.</dateline>
 
 <address><addrLine>Hon. F. W. Seward</addrLine>
@@ -138,53 +138,54 @@ March 21st 1879.</dateline>
 </opener>
 
 <p>Sir, your letter dated the 18th inst, received.
-In reply. I beg to state that I am now enroute
+In reply, I beg to state that I am now en route
 via Liverpool England, to St Paul De Loanda, my
 next letter to you will be dated from that Port,
 though I must inform you that the passage money
-alone, will execed one fourth of the consular salary
+alone, will exceed one fourth of the consular salary
 for the current year.</p>
 
-<p>My departure, hitherto has been delayed
-by an illness of some duration&#8212;, and
-<unclear>I </unclear> await confirmation by the senate, though I 
+<p>My departure, hitherto, has been delayed
+by an illness of some duration, and
+I await confirmation by the senate, though I 
 have not been idle, I have secured the cooperation
 of a number of merchants in Boston and New York
-in the African Trade and as a direct result
-three vessels with free cargoes have been
-sent to St Paul de Loanda with orders to bring
-back African goods from the Port. More 
+in the African Trade, and as a direct result
+three vessels with <unclear extent="one word"/> cargoes have been
+sent to St Paul De Loanda with orders to bring
+back African goods from that Port. More 
 vessels will follow, and the indication
 
 <pb facs="teaa.en.letter.0118.002"/>
-<unclear>is</unclear> that a number of vessels, heretofore
+
+<unclear extent="one word"/>, that a number of vessels, heretofore
 engaged in the Cape, and South East African
-Trade will find their way up the west
-coast, and that  St Paul De Loanda will be
+Trade, will find their way up the west
+coast, and that, St Paul De Loanda will be
 the leading Port of Trade with the United States
 on the south west coast, over one hundred 
-thousand dollars have been received for commercial
-purposes  at and around this Port.
-I will write at length of the result of their
-enterprise, in the consular disphatches, and
-I trust it may be satisfactorly shown
+thousand Dollars have been received for commercial
+purposes at and around this Port.
+I will write at length of the result of this
+enterprise, in the consular dispatches, and
+I trust it may be satisfactorily shown
 that my presence in this country has 
-not been unproductive of good, to both countries
-especially in satisfactory trade with the Port
-to <unclear/> I was assigned.</p>
+not been reproductive of good, to both countries
+especially in stimulating trade with the Port
+to <unclear>which</unclear> I was assigned.</p>
 
-<p>Leave here Tomorrow, and will spend a
-week in England before taking the Liverpool
+<p>Leave here tomorrow, and will spend a
+week in England, before taking the Liverpool
 steamer for South Africa.</p>
 
 <p>With thanks for your kindness, and 
 with the highest consideration of respect.</p>
 
-<closer><salute>I am very truly your obedient Servent</salute>
-
+<closer><salute>I am very truly your obedient Servant</salute>
 <signed>William H Thomas<lb/>
-United States consul<lb/>
-St Paul de Loanda Africa</signed></closer>
+United States Consul
+St Paul de Loanda 
+Africa</signed></closer>
 
 </div1>
 </body>

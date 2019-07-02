@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,12 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/46011687">Fairchild, Lucius, 1831-1896</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Liverpool (England)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +91,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>Acting U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1878-09-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, Frederick William, 1830-1915</persName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-02" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,34 +120,36 @@
 
 <body>
 
-<div1 type="document">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0116.001"/>
 
-<opener>No. 27<lb/>
-<dateline>United States Consulate<lb/>
-at St. Paul de Loanda<lb/>
+<note>No. 27.</note>
+
+<opener><dateline>United States Consulate
+at St Paul de Loanda<lb/>
 18th September 1878.</dateline></opener>
 
-<p>Sir,<lb/>
-I have the honor to 
+<p>Sir,</p>
+
+<p>I have the honor to 
 acknowledge receipt of a Box
-of stationary &amp; flags forwarded
-from Liverpool by Consul
-Fairchild for the use of this 
+of Stationary &amp; Flags forwarded
+from Liverpool, by Consul
+Fairchild, for the use of this 
 Consulate.</p>
 
 <p>I have to remind the 
 Department the necessity of
 sending a new Consular
-seal of office now that this
+Seal of Office now that this
 post had been made a 
-consulate. That at present
+Consulate. That at present
 in use bears the impression
 U.S. Commercial Agency. St
 Paul de Loanda.</p>
 
-<closer><salute>I have the honor to be<lb/>
+<closer><salute>I have the honor to be,<lb/>
 Sir,<lb/>
 Your obedt. Servt.</salute>
 <signed>Robt S. Newton<lb/>
@@ -158,6 +158,7 @@ Acting Consul.</signed>
 <address><addrLine>To The Assistant Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </closer>
+
 </div1>
 </body>
 </text>

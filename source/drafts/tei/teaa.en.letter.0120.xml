@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,10 +75,19 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Ambriz (Angola)</term>
+<term>Benguela (Angola)</term>
+<term>Cuanza River</term>
+<term>Mossamedes (Angola)</term>
+<term>Novo Redondo (Angola)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>English</term>
+<term>Portuguese</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -90,31 +100,27 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1879-04-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName/>
+<placeName/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-02" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,7 +128,7 @@
 
 <body>
 
-<div1 type="report">
+<div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0120.001"/>
 
@@ -141,7 +147,7 @@ from January 1878 to March
 
 <p>Trade during the 
 past year has shown considerable 
-improvements over the two
+improvement over the two
 preceding years although not
 sufficient to renew the old 
 prosperous condition. Provisions
@@ -152,6 +158,7 @@ present year native provisions
 <catchwords>of</catchwords>
 
 <pb facs="teaa.en.letter.0120.002"/>
+
 of all descriptions abound
 owing to the regular and
 plentiful rains. During the 
@@ -171,16 +178,18 @@ this year.</p>
 stopped payment and there
 still exists a general want
 of confidence. Prices of all 
-kinds of produce in the 
+kinds of Produce in the 
 European markets have been
 very low, only about equivalent
 to what has been paid for it
 here, thereby causing heavy losses
 which still continue, to fall
-on this market. </p>
+on this market.</p>
+
 <p><catchwords>As</catchwords>
 
 <pb facs="teaa.en.letter.0120.003"/>
+
 As stated above, since
 the beginning of the year the 
 rains have been regular, and 
@@ -200,53 +209,116 @@ goods.</p>
 goods principally used in this 
 market will be useful for
 the guidance of those manufacturers
-who may wish to try this market;&#8212;
-Grey Domestics of heavy quality&amp; starched
+who may wish to try this market;
+Grey Domestics of heavy quality &amp; starched
 each piece 30 yards by 25 inches. Selling price $2.70 per piece<lb/>
-____________do___________________________do__________<lb/>
-                _______do__30____,,_____,,_22___,,__$2.45__,,_____<lb/>
-American stripes or Denims, 18 yds x 25 inches. $2.22____,,_____<lb/>
-__________do__________do________18 x 31. $2.93____,,_____<lb/>
-<catchwords>Blue</catchwords>
+____________ do ___________________________ do ____________<lb/>
+____________ do __ 30 __________ 22 ____ $2.45 ____________<lb/>
+American stripes or Denims, 18 yds x 25 inches. $2.22 ____________<lb/>
+____________ do __ 30 __________ 18 x 31 $2.93  ____________<lb/>
+<catchwords>Blue</catchwords></p>
 
 <pb facs="teaa.en.letter.0120.004"/>
-Blue &amp; White Checks 18 yds x 25 inches. Selling price per piece $2.22.<lb/>
-                            do                  18       x 31                                                  $2.93.<lb/>
-Blue Baft, heavy,                      18       x 40                                                  $4.56.<lb/>
-Fancy Prints, clear ground.        26       x 30                                                  $3.80.<lb/>
-Morim or White Shirting            24       x 35                                                  $3.80.</p>
+
+<table>
+<row>
+<cell/>
+<cell>yds inches</cell>
+<cell>Selling price per <unclear>piece</unclear></cell>
+</row>
+<row>
+<cell>Blue &amp; White Checks</cell>
+<cell>18 x 25</cell>
+<cell>$2.22</cell>
+</row>
+<row>
+<cell>do</cell>
+<cell>18 x 31</cell>
+<cell>$2.93</cell>
+</row>
+<row>
+<cell>Blue Baft, heavy</cell>
+<cell>18 x 40</cell>
+<cell>$4.56.</cell>
+</row>
+<row>
+<cell>Fancy Prints, clear ground.</cell>
+<cell>26 x 30</cell>
+<cell>$3.80</cell>
+</row>
+<row>
+<cell><unclear>Morim</unclear> or White Shirting</cell>
+<cell>24 x 35</cell>
+<cell>$3.80</cell>
+</row>
+</table>
 
 <p>The above are for the local 
 market, and should be of
 good quality. Duties are 
-about 20%- on cash price. These
+about 20% on cash price. These
 goods when they come from England
 via Lisbon, where they are transhipped
-into Portuguese vessels only pay
-70% of the duties whereas if they 
+into Portuguese Vessels only pay
+70% of the duties, whereas if they 
 come in English or American
 vessels they have to pay full
 duties.</p>
 
-<p>For the barter trade.<lb/>
-American stripes or Denims  18 yds x 24 inches selling price $1.20 pr price<lb/>
-Checks                                  18        x 24                                $1.30.<lb/>
-Blue Baft                                18        x 30                                $1.64.<lb/>
-Satin Stripes                          18        x 30                                $1.64.<lb/>
-Chilloes                                  17        x 27                                $1.20.<lb/>
-Dark Blue Fancy Stripes        18        x 24                                $1.52.<lb/>
-All these should be well starched.<lb/>
-The prices quoted are for a medium
+<p>For the barter trade.</p>
+
+<table>
+<row>
+<cell/>
+<cell>yds inches</cell>
+<cell>selling price</cell>
+</row>
+<row>
+<cell>American Stripes or Denims</cell>
+<cell>18 x 24</cell>
+<cell>$1.20 pr price</cell>
+</row>
+<row>
+<cell>Checks</cell>
+<cell>18 x 24</cell>
+<cell>$1.30 "</cell>
+</row>
+<row>
+<cell>Blue <unclear>Baft</unclear></cell>
+<cell>18 x 30</cell>
+<cell>$1.64 "</cell>
+</row>
+<row>
+<cell>Satin Stripes</cell>
+<cell>18 x 30</cell>
+<cell>$1.64 "</cell>
+</row>
+<row>
+<cell>Chilloes</cell>
+<cell>17 x 27</cell>
+<cell>$1.20 "</cell>
+</row>
+<row>
+<cell>Dark Blue fancy Stripes</cell>
+<cell>18 x 24</cell>
+<cell>$1.52 "</cell>
+</row>
+</table>
+
+<p>All these should be well starched.</p>
+
+<p>The prices quoted are for a medium
 <catchwords>quality</catchwords>
 
 <pb facs="teaa.en.letter.0120.005"/>
-quality of goods but even a
+
+quality of goods, but even a
 lower quality of cloth is used
 here with advantage.</p>
 
 <p>Many qualities of Handkerchiefs
 are also in use, ranging from
-12 to 15 Hdkfs per piece.</p>
+12 to 15 Hdkfs per <unclear>piece</unclear>.</p>
 
 <p>In Cotton goods, the 
 above mentioned cloth may be
@@ -255,22 +327,23 @@ of Trade.</p>
 
 <p>I have several times
 procured samples of these
-goods for Captains of vessels
+goods for Captains of Vessels
 and Traders that have been
 here in order to encourage the
 Trade as I am of opinion
-that American manufacturers
+that American Manufacturers
 are quite able to compete
 with the English at least in
 the better qualities. Several
 years ago American goods were
-preferred in this market.
+preferred in this Market.
 Particular attention should be
 paid to the regularity &amp; sizes
-of the pieces - One hundred (100)
+of the <unclear>pieces</unclear>. One hundred (100)
 <catchwords>pieces</catchwords>
 
 <pb facs="teaa.en.letter.0120.006"/>
+
 pieces is about the usual 
 quantity put up in each 
 bale.</p>
@@ -278,7 +351,7 @@ bale.</p>
 <p>In former years
 large quantities of Molasses
 Rums were shipped from
-America to this Port but
+America to this Port, but
 of late this Colony has almost
 produced sufficient for its
 own consumption. There are 
@@ -300,12 +373,13 @@ more or less destroyed causing
 <catchwords>great</catchwords>
 
 <pb facs="teaa.en.letter.0120.007"/>
+
 great loss to the planters.
 The small quantity distilled
 during the latter months of 
 1878, sold for the high price
-of Rs 90$000 to Rs 95$000 per
-pipe of <unclear>130</unclear> Gall. &amp;, equal to 
+of Rs 90$000 to Rs 95$000 per<!-- review here -->
+pipe of 130 Gall. &amp;, equal to 
 $97.82 to $103.26. This year
 the crop is expected to be much
 better. Great care should 
