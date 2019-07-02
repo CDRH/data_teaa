@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,14 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Monteith, St. Clair</term>
+<term>Tripp, Alexander</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Liverpool (England)</term>
+<term>Mossâmedes (Angola)</term>
+<term>New Bedford (Mass.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +93,27 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>Acting U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1878-05-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, Frederick William, 1830-1915</persName>
-<placeName>Washington, D.C.</placeName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-01" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -130,8 +129,9 @@
 St Paul de Loanda<lb/>
 27th May 1878.</dateline></opener>
 
-<p>Sir,<lb/>
-I have the honor to 
+<p>Sir,</p>
+
+<p>I have the honor to 
 report to the Department that
 on the 21st of April last there
 arrived here from Mosamedes
@@ -139,28 +139,29 @@ arrived here from Mosamedes
 American Seaman named 
 St. Clair Monteith who states
 according to the signed statement 
-in my possesion that he shipped
-on board the Bark  "Pioneer"
+in my possession "that he shipped
+on board the Bark "Pioneer"
 at New Bedford, Captain 
 Alexander Tripp, on the 14th
 August 1877, and sailed the 
 same day for the coast of
-Africa on a Whaling trip &#8212; that 
+Africa on a Whaling trip. that 
 he was obliged to leave her at
 Mossamedes owing to questions
 he had on board with the crew,
-thro the kindness of the Captain
+Thro the kindness of the Captain
 of the Port at Mossamedes he 
 obtained a passage on board a
-schooner bound for this city &amp; 
+Schooner bound for this city" &amp; 
 on his arrival presented himself
-at this consulate declaring
+at this Consulate declaring
 himself to be perfectly destitute
 and without any means of 
 returning to America or Europe
 <catchwords>After</catchwords>
 
 <pb facs="teaa.en.letter.0114.002"/>
+
 After being here a few days
 he has taken sick with fever &amp;
 on the 10th day it was found necessary
@@ -169,31 +170,31 @@ where he recovered. As there
 was not any likelihood of an 
 American Vessel arriving here
 for some time and as keeping
-him here incured large expenses. I
+him here incurs large expenses. I
 determined upon sending him
 home to Liverpool per the 
 African Steam Ship Compys
-steamer "Biafra", whichs sailed
+steamer "Biafra", which sailed
 hence on the 18th inst. and as
 the Captain consented to take 
-him for  &#163;10.. and I have
+him for  &#163;10, and I have
 consequently drawn on the Department,
 in favor of the African
-Steam Ship Gov for $48.60/100 at 
+Steam Ship Co for $48.60/100 at 
 15 days sight, under date 18th
 May 1878.</p>
 
 <p>When rendering my
-quartely &amp;c I will send the 
+Quarterly <unclear/> I will send the 
 necessary vouchers pertaining to 
 this.</p>
 
 <closer><salute>I have the honor to be<lb/>
-your most obedt servt</salute>
+Your most obedt Servt</salute>
 <signed>Robt S Newton<lb/>
-Acting Consul</signed>
+Acting Consul.</signed>
 
-<address><addrLine>To the Hon:</addrLine>
+<address><addrLine>To The Hon:</addrLine>
 <addrLine>The Assistant</addrLine>
 <addrLine>Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>

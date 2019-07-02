@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -90,11 +91,6 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
@@ -114,7 +110,6 @@
 <revisionDesc>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,8 +121,9 @@
 
 <pb facs="teaa.en.letter.0115.001"/>
 
-<opener>No 26.<lb/>
-<dateline>United States Consulate<lb/>
+<note>No 26.</note>
+
+<opener><dateline>United States Consulate<lb/>
 at St Paul de Loanda<lb/>
 18th September 1878.</dateline></opener>
 
