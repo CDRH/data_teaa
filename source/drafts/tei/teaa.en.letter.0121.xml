@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,16 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Colville, Andrew Galbraith</term>
+<term>Thomas, William H.</term>
+<term>Silva, Frederick A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Boston (Mass.)</term>
+<term>England</term>
+<term>Lisbon (Portugal)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +95,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1879-04-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, Frederick W.</persName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +114,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-08" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -127,44 +129,46 @@
 <pb facs="teaa.en.letter.0121.001"/>
 
 <opener><dateline>United States Consulate
-at St Paul de Loanda
+at St Paul de Loanda<lb/>
 23rd April 1879</dateline></opener>
 
-<p>Sir,
-I have the honor to
+<p>Sir,</p>
+
+<p>I have the honor to
 inform the Department that
 I leave this day for England 
 via Lisbon per steamer
-Benguella in conformity with
+"Benguella" in conformity with
 licence granted me for six
 months in your Despatch No.
 71 of 22nd November 1878.</p>
 
 <p>As Mr. Thomas the 
 newly appointed Consul has
-not yet arrived. I have --
+not yet arrived, I have 
 delivered over the Archives to 
-the care of Mr. Andrew
+the care of Mr Andrew
 Galbraith Colville who will
 act during my absence.</p>
 
 <p>I have made up 
-the accounts of this consulate
+the accounts of this Consulate
 to todays date according to 
-consular instructions and have
-to advise my draft on the 
+consular instructions, and have
+to advise my Draft on the 
 <catchwords>Secretary</catchwords>
 
 <pb facs="teaa.en.letter.0121.002"/>
+
 Secretary of the Treasury
 for $56.19 in favor of 
-Mr. Frederick A. Silva of
+Mr Frederick A. Silva of
 Boston. Enclosed is form No. 120.</p>
 
 <closer><salute>I have the honor to be<lb/>
 Sir,<lb/>
 Your most obedient Servant</salute>
-<signed>Rob S Newton<lb/>
+<signed>Robt S Newton<lb/>
 Vice Consul</signed>
 
 <address><addrLine>To the</addrLine>
@@ -172,6 +176,7 @@ Vice Consul</signed>
 <addrLine>Assistant Secretary of State</addrLine>
 <addrLine>Washington, D.C.</addrLine></address>
 </closer>
+
 </div1>
 </body>
 </text>

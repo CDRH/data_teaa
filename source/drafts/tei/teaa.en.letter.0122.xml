@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt> 
-<title>Letter from Andrew Galbraith Colville to Assistant Secretary of State, April 23, 1879</title>
+<title>Letter from Andrew Galbraith Colville to Frederick W. Seward, April 23, 1879</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,11 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Newton, Robert Scott</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +90,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Colville, Andrew Galbraith</persName>
+<roleName>Acting U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1879-04-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, Frederick William</persName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when= "1879-06-14"/>
 </correspAction>
@@ -113,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-08" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -128,38 +125,43 @@
 <pb facs="teaa.en.letter.0122.001"/>
 
 <note>Ackgd June 18</note>
-<note>Mr Wood</note>
 <note>Department of State Received Jun 14 1879</note>
 
-<p>No. 40</p>
+<note>No. 40</note>
 
 <p>United States Consulate<lb/>
 St Paul de Loanda</p>
 
-<p>Mr. Andrew Galbraith Colville</p>
+<p>Mr Andrew Galbraith Colville</p>
 
 <p>To the Department of State</p>
 
 <p>Subject. Advising taking over
 charge of this consulate from Mr.
 Robert Scott Newton.</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0122.002"/>
+
+<note><unclear>No. 40</unclear></note>
 
 <opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
 23rd April 1879</dateline></opener>
 
-<p>Sir,
-I have the honor to inform
+<p>Sir,</p>
+
+<p>I have the honor to inform
 the Department that on
 account of Mr. Robert Scott Newton's 
 departure for Europe I have
 this day taken over charge of
 this consulate together with the
 archives records &amp; other effects.</p>
+
 <closer>
 <salute>I have the honor to be<lb/>
 Sir<lb/>
@@ -171,6 +173,7 @@ Acting Vice Consul</signed>
 <addrLine>Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </closer>
+
 </div1>
 </body>
 </text>

@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to the Assistant Secretary of State, July 23, 1880</title>
+<title>Dispatch from Robert Scott Newton to John Hay, July 23, 1880</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,11 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Colville, Andrew Galbraith</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +90,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1880-07-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +109,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-08" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -127,10 +124,10 @@
 <pb facs="teaa.en.letter.0123.001"/>
 
 <note>Ackgd Mch. 31</note>
-<note>Mr Wood</note>
 <note>Department of State Received Mar 22 1880</note>
+<note>No 41</note>
 
-<p>No. 41 United States Consulate<lb/>
+<p>United States Consulate<lb/>
 St. Paul de Loanda</p>
 
 <p>To the <lb/>
@@ -140,36 +137,41 @@ Department of State</p>
 
 <p>Subject. Accounts</p>
 
-<p>Abstract of Contents
-Enclosing Form No 120 and
+<p>Abstract of Contents</p>
+
+<p>Enclosing Form No 120 and
 advising Draft for $142.08 on
 the Secretary of the Treasury</p>
+
 </div1>
+
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0123.002"/>
 
-<note>No. 55</note>
+<note>No 55</note>
 
 <opener><dateline>United States Consulate<lb/>
-St. Paul de Loanda<lb/>
-23rd July 1880</dateline></opener>
+St Paul de Loanda<lb/>
+23rd July 1880.</dateline></opener>
 
-<p>Sir,<lb/>
-I have the honor to inform
-the Department that despatch
-No. 75, and circular No. 18,
+<p>Sir,</p>
+
+<p>I have the honor to inform
+the Department that, despatch
+No 75, and circular No 18,
 and circulars dated Feby 18th 
 and 24th, and March 19th marked
 separate, have been duly received
-at this consulate and will have
+at this Consulate and will have
 due attention.</p>
 
 <p>Circular of Feby 24th referring
-to my not-having sent
-in the weekly report required by
+to my not having sent
+in the weekly reports required by
 the National Board of Health.
-The reason of my not-having
-done so it that it is difficult
+The reason of my not having
+done so is that it is difficult
 to get correct information, and
 that since my return to my post
 I have not been able to attend
@@ -177,10 +179,11 @@ to it owing to illness, but will
 see to it in the future.</p> 
 
 <p>Circular 19th March, referring
- to Cotton yarns. No yarns
+to Cotton Yarns. No Yarns
 <catchwords>of</catchwords>
 
 <pb facs="teaa.en.letter.0123.003"/>
+
 of the quality mentioned are
 used in this market, but I will
 get samples of Cotton goods
@@ -190,9 +193,9 @@ soon as possible.</p>
 
 <closer><salute>I have the honor<lb/>
 to be Sir<lb/>
-Your most Obedient<lb/>
+Your most Obedient
 Servant</salute>
-<signed>Rob S Newton<lb/>
+<signed>Robt S Newton<lb/>
 Vice Consul<lb/>
 <del>Acting Consul</del></signed>
 
@@ -200,6 +203,7 @@ Vice Consul<lb/>
 <addrLine>Assistant Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </closer>
+
 </div1>
 </body>
 </text>

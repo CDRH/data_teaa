@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,18 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Ambriz (Angola)</term>
+<term>England</term>
+<term>Germany</term>
+<term>Lisbon (Portugal)</term>
+<term>Liverpool (England)</term>
+<term>London (England)</term>
+<term>Manchester (England)</term>
+<term>St. Paul de Loanda (Angola)</term>
+</keywords>
 
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -84,27 +95,25 @@
     
 <keywords scheme="original" n="language">
 <term>English</term>
+<term>Portuguese</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Newton, Robert S.</persName>
+<persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1880-09-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C</placeName>
 <date when="1880-11-29"/>
 </correspAction>
@@ -113,9 +122,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-08" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -127,211 +136,367 @@
 
 <pb facs="teaa.en.letter.0124.001"/>
 
-<note>Mr Wood &amp; Mr Scanlon</note>
 <note>Department of State Received Nov 29 1880</note>
-
 <note>No 57</note>
 
-<opener>United States Consulate<lb/>
+<opener>United States Consulate
 at St Paul de Loanda<lb/>
 to the Department of State</opener>
 
 <p>Mr. Robert Scott Newton</p>
 
-<p>Subject: Cotton Goods</p>
+<p>Subject: Cotton Goods:</p>
 
-<p>Abstract of Contents:
-General information concerning Cotton
+<p>Abstract of Contents:</p>
+
+<p>General information concerning Cotton
 Goods with full particulars as 
-to Prices qualities etc and 
-samples sent per Book Post</p>
+to Prices, qualities &amp;c and 
+Samples sent per Book Post</p>
 
 <note>(Copied for the Review of Statistics, Dec. 1880)
 Commpared with proof. Oct. 3/81</note>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0124.002"/>
+
 <note>No 57</note>
 
 <opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
 14 September 1880</dateline></opener>
 
-<p>Sir<lb/>
-With reference to circular of March
-19th marked separate. I have the honor to say
-that the yarns principally referred to are not
-imported into this market.</p>
+<p>Sir</p>
+
+<p>With reference to circular of March
+19th marked Separate, I have the honor to say
+that the Yarns principally referred to are not
+imported into this Market.</p>
 
 <p>The goods principally used in this
 trade are as follows, and I beg to submit the
 following information in reference to same as
-it may be useful to merchants &amp; manufacturers
-actions to cultivate this trade.</p>
+it may be useful to Merchants &amp; Manufacturers
+anxious to cultivate this trade</p>
 
 <p>Sample No 1</p>
 
-<p>Grey Domestics   Portuguese name Algodoes
-of good quality 30 yards  long by 25 inches wide
-put in Bales of 100 pcs each piece weighing
+<p>Grey Domestics. Portuguese name Algodões
+of good quality 30 yards long by 25 inches wide
+put up in Bales of 100 pcs, each piece weighing
 from 7 1/2 tts to 9 tts. To be doubled in 40 folds or
-laps. They generally have a good deal of starch
+laps. They generally have a good deal of Starch
 which makes them sell better.</p>
 
-<p>Best price in England.             Selling price in Loanda<lb/>
-6/ to  6/10 per piece                       Rs 2400 or 2 dolls 60 cents<lb/>
-pieces of 30 yds by  22 inches:-<lb/>
-of per piece                                    Rs 1900 or 2$ 06 cents fee<lb/>
-                        30 yards by 30 inches<lb/>
-weight per piece 8 3/4 to 9 1/2 tts    only small quantity
-<catchwords>used</catchwords>
+<table>
+<row>
+<cell>Cost price in England</cell>
+<cell>Selling price in Loanda</cell>
+</row>
+<row>
+<cell>6/ to 6/10 per piece</cell>
+<cell>Ro 2400 or 2 dolls 60 cents</cell>
+</row>
+<row>
+<cell>pieces of 30 yards by 22 inces</cell>
+<cell/>
+</row>
+<row>
+<cell>5/ per piece</cell>
+<cell>Rs 1900 or 2$ 06 cents <unclear>fee</unclear></cell>
+</row>
+<row>
+<cell>30 yards by 30 inches</cell>
+<cell/>
+</row>
+<row>
+<cell>wright pr pce 8 3/4 to 9 1/2 tts</cell>
+<cell>only small quantity <catchwords>used</catchwords>
 
 <pb facs="teaa.en.letter.0124.003"/>
-used </p>
 
-<p>Cost price in England      Selling price in Loanda<lb/>
-1/2 to 8/6                                Rs 3000 or 3$ 26c per piece</p>
+used</cell>
+</row>
+<row>
+<cell>Cost price in England</cell>
+<cell>Selling price in Loanda</cell>
+</row>
+<row>
+<cell>7/2 to 8/6</cell>
+<cell>Rs 3000 or 3$ 26c per piece</cell>
+</row>
+</table>
 
-<p>                                    Sample No 2<lb/>
-Striped Denims or Blue &amp; White Stripes
-Portuguese name Riscaos Americanos Estrecto</p>
+<p>Sample No 2</p>
 
-<p>pieces 18 yards long by 25 inches wide-- noted colours
-60 pieces per Bale                Weighing per piece 4 to 4 1/2 tts</p>
+<p>Striped Denims or Blue &amp; White Stripes<lb/>
+Portuguese name Riscados Americanos Estreito</p>
 
-<p>Cost price in England     Selling price in Loanda<lb/>
-5/2 to 5/6 per piece               Rs 2040 or 2$ 22cts per piece<lb/>
-Striped Denims      Portuguese term Riscados<lb/>
-Americanos largos</p>
+<p>pieces 18 yards long by 25 inches wide, no red colours</p>
 
-<p>pieces 18 yards long by 30 inches no Red colors<lb/>
-60 pieces per Bale.     Weighing per pieces 4 1/2 to 5tts</p>
+<table>
+<row>
+<cell>60 pieces per Bale</cell>
+<cell>Weighing per pce 4 to 4 1/2 tts</cell>
+</row>
+<row>
+<cell>Cost price in England</cell>
+<cell>Selling price in Loanda</cell>
+</row>
+<row>
+<cell>5/2 to 5/6 per pce</cell>
+<cell>Rs 2040 or 2$ 22cts per pce</cell>
+</row>
+</table>
 
-<p>Cost England                 Selling price in Loanda<lb/>
-6/10 to 7/2 per price             Rs 2640 or 2$ 87c per price</p>
+<p>Striped Denims Portuguese term Riscados Americanos largos:</p>
 
-<p>                         Sample No 3<lb/>
-Blue &amp; White checks Portuguese name Riscados<lb/>
-Clemnbos or Maclussos</p>
+<p>pieces 18 yards long by 30 inches no Red colors</p>
 
-<p>Length &amp; width, selling prices, weight etc. same as
-Striped Denims both wide &amp; narrow quality used
-These generally come out a <unclear>penny</unclear> or so dearer than
-the stripes</p>
+<p>60 pieces per Bale. Weighing per piece 4 1/2 to 5tts</p>
 
-<p>                          Sample No 4<lb/>
-Blue Raft                       Portuguese name Zuarte<lb/>
-<catchwords>pieces</catchwords>
+<table>
+<row>
+<cell>Cost England </cell>
+<cell>Selling price in Loanda</cell>
+</row>
+<row>
+<cell>6/6 to 7/2 pr pce</cell>
+<cell>Rs 2640 or 2$ 87c pr pce</cell>
+</row>
+</table>
+
+<p>Sample No 3</p>
+
+<p>Blue &amp; White checks Portuguese name Riscados
+<unclear>Chumbos</unclear> or Maclussos</p>
+
+<p>Length &amp; width, selling prices, weight &amp;c same as
+Striped Denims, both wide &amp; narrow quality used.
+These generally come out a penny or so dearer than
+the stripes.</p>
+
+<p>Sample No 4</p>
+
+<p>Blue Raft Portuguese name Zuarte</p>
+
+<p><catchwords>pieces</catchwords>
 
 <pb facs="teaa.en.letter.0124.004"/>
-pieces 28 yards in length by 40 inches wide. Weight per
-piece 7 to 8 1/2 tts 100 pieces per Bale</p>
 
-<p>Cost in England        Selling price Loanda<lb/>
-9/3 to 10/ per piece                  Rs 4200 or 4$ 56c per piece</p>
+pieces 18 yards in length by 40 inches wide. Weight per
+piece 7 to 8 1/2 tts, 100 pieces per Bale</p>
 
-<p>                         Sample No 5<lb/>
-Fancy prints        Portugese name Clutas<lb/>
-with clear ground and fast colors- 25 to 26<lb/>
-yards long, by 30 inches wide - 60 pieces pere case<lb/>
-Weight  per piece 5tts</p>
+<table>
+<row>
+<cell>Cost in England</cell>
+<cell>Selling price Loanda</cell>
+</row>
+<row>
+<cell>9/3 to 10/ pr pce</cell>
+<cell>Rs 4200 or 4$ 56c pr pce</cell>
+</row>
+</table>
 
-<p>Cost price in England        Selling price in Loanda<lb/>
-8/6 to 9/ per piece                   Rs 3600 or 3$ 91c per piece</p>
+<p>Sample No 5</p>
 
-<p>                         Sample No 6<lb/>
-Brilliantes Portugueses name Illusselinas<lb/>
-Pieces 26 yards long &amp; 30 inches wide- 100 pieces per case<lb/>
-Weight 4 3/4 tts per piece</p>
+<p>Fancy prints Portugese name <unclear>Chitas</unclear></p>
 
-<p>Cost price in England       Selling price in Loanda<lb/>
-8/6 to 9/ per piece                   Rs 3600 or 3$ 91c per piece</p>
+<p>with clear ground and fast colors, 25 to 26
+yards long, by 30 inches wide, 60 pcs per case</p>
 
-<p>                         Sample No 7<lb/>
-While Shirtings     Portugueses name Morium<lb/>
-or kammo kalente<lb/>
-prices 24 yards long, by 35 to 36 inches wide<lb/>
-Weight about 5 1/4 tts per piece</p>
+<p>Weight per pce 5 tts</p>
 
-<p>Cost price in England       Selling price Loanda<lb/>
-8/ to 8/9 per piece                   Rs 3800 or 4$ 13c per piece<lb/>
-All the above goods are sold in Loanda<lb/>
+<table>
+<row>
+<cell>Cost price in England</cell>
+<cell>Selling price in Loanda</cell>
+</row>
+<row>
+<cell>8/6 to 9/ per piece </cell>
+<cell>Rs 3600 or 3$ 91c per piece</cell>
+</row>
+</table>
+
+<p>Sample No 6</p>
+
+<p>Brilliantes Portuguese name Musselinas</p>
+
+<p>Pieces 26 yards long &amp; 30 inches wide, 100 pcs per case</p>
+
+<p>Weight 4 3/4 tts per pce</p>
+
+<table>
+<row>
+<cell>Cost price in England</cell>
+<cell>Selling price in Loanda</cell>
+</row>
+<row>
+<cell>8/6 to 9/ per piece</cell>
+<cell>Rs 3600 or 3$ 91c per pce</cell>
+</row>
+</table>
+
+<p>Sample No 7</p>
+
+<p>While Shirtings Portuguese name <unclear>Morium</unclear>
+or panno patente</p>
+
+<p>prices 24 yards long, by 35 to 36 inches wide</p>
+
+<p>Weight about 5 1/4 tts pr pce</p>
+
+<table>
+<row>
+<cell>Cost price in England</cell>
+<cell>Selling price Loanda</cell>
+</row>
+<row>
+<cell>8/ to 8/9 per pce</cell>
+<cell>Rs 3800 or 4$ 13c er pce</cell>
+</row>
+</table>
+
+<p>All the above goods are sold in Loanda<lb/>
 <catchwords>retail</catchwords>
 
 <pb facs="teaa.en.letter.0124.005"/>
+
 retail by the piece to the better class of natives.</p>
 
 <p>A considerable quantity is also used up 
-country in the Barter trade for coffee
+country in the Barter Trade for Coffee
 and Rubber although the following are the 
 staple goods used in the Barter Trade.</p>
 
 <p>In 1877 several pieces of goods of very
 good quality were brought in American
 Vessels as samples but they were unsaleable 
-on account of the sizes being different.
-The Cloth was good and if it had been 
+on account of the sizes being different.</p>
+
+<p>The Cloth was good and if it had been 
 put up in proper sizes would have sold well.</p>
 
-<p>                     Sample No 8<lb/>
-Common Striped Denims       Portuguese name<lb/>
-Riscados Americanos ordinarios<lb/>
-pieces of 16 to 17 yards long &amp; 23 to 24 inches<lb/>
-wide- doubled in 18 folds or laps. 100 pieces<lb/>
+<p>Sample No 8</p>
+
+<p>Common Striped Denims, Portuguese name
+Riscados Americanos ordinarios</p>
+
+<p>pieces of 16 to 17 yards long, &amp; 23 to 24 inches
+wide. doubled in 18 folds or laps. 100 pieces
 per Bale</p>
 
-<p>Cost price in England        Selling price in Loanda<lb/>
-2/28 2/6 to 3/ per price             Rs 850 to 1000 or 92ct to $1.02c</p>
+<table>
+<row>
+<cell>Cost price in England</cell>
+<cell>Selling price in Loanda</cell>
+</row>
+<row>
+<cell>2/28 2/6 to 3/ pr pce</cell>
+<cell>Rs 850 to 1000 or 92 cts to $1.02c</cell>
+</row>
+</table>
 
-<p>                     Sample No 9<lb/>
-Common Blue &amp; White Checks.     Portuguese<lb/>
-name Rescados churnlos ordinarios<lb/>
-Price, length width etc same as above</p>
+<p>Sample No 9</p>
 
-<p>                     Sample No 10<lb/>
-Common Blue Baft.       Portuguese name<lb/>
-zuarte ordinario<lb/>
-<catchwords>16</catchwords>
+<p>Common Blue &amp; White Checks. Portuguese
+name Rescados churnlos ordinarios</p>
+
+<p>Price, length width &amp;c same as above</p>
+
+<p>Sample No 10</p>
+
+<p>Common Blue Baft. Portuguese name
+Zuarte ordinario</p>
+
+<p><catchwords>16</catchwords>
 
 <pb facs="teaa.en.letter.0124.006"/>
-16 yards long by 26 inches wide- 100 pieces per bale
+
+16 yards long by 26 inches wide, 100 ps per bale
 to be doubled in 18 folds or laps.</p>
 
-<p>Cost price in England               Selling price in Loanda <lb/>
-2/2 per piece                                   Rs 900 to 1000 or 97c to $1.08c</p>
+<table>
+<row>
+<cell>Cost price in England </cell>
+<cell>Selling price in Loanda</cell>
+</row>
+<row>
+<cell>2/2 per piece</cell>
+<cell>Rs 900 to 1000 or 97c to $1.08c</cell>
+</row>
+</table>
 
-<p>                     Sample No 11<lb/>
-Satin Stripes               Portuguese name Pilados<lb/>
-pieces of lb to 17 yards long by 25 inches wide<lb/>
-100 pieces per Bale -- to be doubled in 18 folds<lb/>
+<p>Sample No 11</p>
+
+<p>Satin Stripes, Portuguese name <unclear>Puitados</unclear></p>
+
+<p>pieces of 16 to 17 yards long by 25 inches wide</p>
+
+<p>100 pcs per Bale, to be doubled in 18 folds
 or laps</p>
 
-<p>Cost price in England            Selling price in Loanda<lb/>
-Blue White 3/ per piece                Rs 1100 or $1.12cts per piece<lb/>
-Yellow 3/5      ,,    ,,                       Rs 1000 or $1.41cts ,,    ,,</p>
+<table>
+<row>
+<cell>Cost price in England</cell>
+<cell>Selling price in Loanda</cell>
+</row>
+<row>
+<cell>Blue &amp; White 3/ pr pce</cell>
+<cell>Rs 1100 or $1.12 cts pr pce</cell>
+</row>
+<row>
+<cell>Yellow 3/5 " "</cell>
+<cell>Rs 1800 or $1.41 cts " "</cell>
+</row>
+</table>
 
-<p>                 Sample No 12<lb/>
-Chilloes           Portueguese name<lb/>
-Fazecida de Lei<lb/>
-15 to 17 yards long by 27 inches wide- 120 pieces<lb/>
+
+<p>Sample No 12</p>
+
+<p>Chilloes Portueguese name
+Fazenda de Leia</p>
+
+<p>15 to 17 yards long by 27 inches wide, 120 pieces
 per Bale. To be doubled in 17 folds or laps.</p>
 
-<p>Cost in England                  Selling price in Loanda<lb/>
-2/3, 2/6 to 3/ per piece              Rs 1000 to 1050 or $1.08cts<lb/>
-                                                                                       to $1.14cts</p>
+<table>
+<row>
+<cell>Cost in England</cell>
+<cell>Selling price in Loanda</cell>
+</row>
+<row>
+<cell>2/3, 2/6 to 3/ pr pce </cell>
+<cell>Rs 1000 to 1050 or $1.08 cts to $1.14 cts</cell>
+</row>
+</table>
 
-<p>             Sample No 13<lb/>
-Striped Florentenes.    Portuguese name<lb/>
-Riscados azues ordinarios<lb/>
-pieces of 16 to 17 yards long by 23 inches wide--<lb/>
-100 pieces per Bale -- to be doubled in 18 folds<lb/>
-or laps:
-<catchwords>cost</catchwords>
+<p>Sample No 13</p>
+
+<p>Striped Florentines. Portuguese name
+Riscados azues ordinarios</p>
+
+<p>pieces of 16 to 17 yards long by 23 inches wide,
+100 pcs per Bale, to be doubled in 18 folds
+or laps:</p>
+
+<p><catchwords>Cost</catchwords></p>
 
 <pb facs ="teaa.en.letter.0124.007"/>
-Cost price in England           Selling price in Loanda<lb/>
-2/9 to 3/10 per piece             Rs 1200 to 1500 or $1.30cts</p>
+
+<table>
+<row>
+<cell>Cost price in England</cell>
+<cell>Selling price in Loanda</cell>
+</row>
+<row>
+<cell>2/9 to 3/10 pr pce</cell>
+<cell>Rs 1200 to 1500 or $1.30 cts to $1.63 cts</cell>
+</row>
+</table>
 
 <p>All these should be well starched or sized
 much more so than the finer goods as they
@@ -343,7 +508,7 @@ narrow, but all doubled to imitate goods of
 length</p>
 
 <p>Great attention should be paid to the 
-regularity of the pieces in each Bale and to 
+regularity of the pieces in each Bale, and to 
 the packing.</p>
 
 <p>Many qualities of Handkerchiefs also
@@ -353,9 +518,10 @@ these as the quality is so varied, and nearly
 all styles and qualities pass.</p>
 
 <p>The duty on the above mentioned Cotton
-Goods is as follows:<lb/>
-85 Rs = 90 cts per Kello are Sample No 1<lb/>
-230 Rs = 25 ,,  ,,    ,,        ,,    ,,          No 2/13<lb/>
+Goods is as follows:</p>
+
+<p>85 Rs = 90 cts per Killo are Sample No 1<lb/>
+230 Rs = 25 "  "  "  "  "  Nos 2/13<lb/>
 and 4% more on the value here, which is
 usually calculated at about 30% over the 
 <catchwords>Invoice</catchwords>
@@ -375,7 +541,7 @@ of duty as previously stated.</p>
 
 <p>Shortly a new Tariff is to be brought
 into force which will increase the duty on
-better goods considerably.</p>
+Cotton goods considerably.</p>
 
 <p>As soon as I can obtain a copy I will
 send it to the Department with a translation.</p>
@@ -388,34 +554,36 @@ here paying only 70% of the duty.</p>
 
 <p>The expenses via Lisbon from England 
 including carriage from Manchester to Liverpool
-Sury &amp; Cartage freight <unclear>passage</unclear> by steamers
-to Lisbon &amp; afterwards to this port.</p>
+Entry &amp; Cartage, freight &amp; <unclear extent="one word"/> by Steamers
+to Lisbon, &amp; afterwards to this port.</p>
 
 <p>Duty in Lisbon without commission is
-about 14% to 15%
-<catchwords>all</catchwords>
+about 14% to 15%.</p>
+
+<p><catchwords>All</catchwords>
 
 <pb facs ="teaa.en.letter.0124.009"/>
+
 All these goods are used in the
 Province of Angola, but at Ambriz and the 
 North the sizes vary, and the trade is different.</p>
 
 <p>My information is taken from different
-Invoices received by <del/> mercantile Houses
-established  here.</p>
+Invoices received <del>from</del> by Mercantile Houses
+established here.</p>
 
-<p>The Portuguese steamers leave Lisbon 
+<p>The Portuguese Steamers leave Lisbon 
 on the 5th of every month for this port
-touching at the other Portuguese colonies.</p>
+touching at the other Portuguese Colonies.</p>
 
-<p>There are also two lines of steamers
+<p>There are also two lines of Steamers
 from Liverpool, but it does not suit to ship
-Cotton goods by these on account of the extra
-30% duty the Consigners would have to pay.</p>
+Cotton Goods by these on account of the extra
+30% duty the Consignees would have to pay.</p>
 
 <p>Nearly all goods that come here are 
-in execution of orders on acount and
-risk of the merchants here.</p>
+in execution of orders on account and
+risk of the Merchants here.</p>
 
 <p>Consignments are not large although
 a well assorted establishment might do a 
@@ -429,8 +597,8 @@ however do the whole business for 5%
 commission without guarantee &amp; 8%
 <catchwords>with</catchwords>
 
-
 <pb facs ="teaa.en.letter.0124.010"/>
+
 with guarantee.</p>
 
 <p>It is difficult to give the number of
@@ -442,25 +610,26 @@ House.</p>
 use from 40 to 50,000 pieces in a year.</p>
 
 <p>The trade is nearly all in the hands
-of the Portuguese-, and it would be difficult
+of the Portuguese, and it would be difficult
 to get orders from this market.</p>
 
 <p>Lately travellers have been here from
-England and Germany to solicit orders but
+England and Germany to Solicit orders but
 have done little or nothing.</p>
 
 <p>The Exchange is Rs 4500 per &#163;1
-sterling, or 920 Reis per Dollar-</p>
+sterling, or 920 Reis per Dollar.</p>
 
 <closer><salute>I have the honor to be,<lb/>
 Your most obedient servant,</salute>
-<signed>Robert S Newton<lb/>
-US Vice Consul</signed>
+<signed>Robt S Newton<lb/>
+U.S. Vice Consul</signed>
 
 <address><addrLine>To the</addrLine>
 <addrLine>Assistant Secretary of State</addrLine>
 <addrLine>Washington, D.C.</addrLine></address>
 </closer>
+
 </div1>
 </body>
 </text>
