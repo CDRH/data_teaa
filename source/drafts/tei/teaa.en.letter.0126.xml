@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,17 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>da Costa e Silva, Francisco Joaquim</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Benguela (Angola)</term>
+<term>Mossâmedes (Angola)</term>
+<term>St. Paul de Loanda (Angola)</term>
+</keywords>
 
+<keywords scheme="original" n="empires">
+<term>Portugual</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -84,37 +90,34 @@
     
 <keywords scheme="original" n="language">
 <term>English</term>
+<term>Portuguese</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Braamcamp, Anselmo José, 1817-1885</persName>
-<placeName></placeName>
+<persName ref="http://viaf.org/viaf/99296813">Braamcamp, Anselmo José, 1817-1885</persName>
+<roleName>Prime Minister of Portugal</roleName>
+<placeName>Portugal</placeName>
 <date when="1880-07-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName></placeName>
+<persName/>
+<placeName/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-09" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,9 +128,10 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0126.001"/>
-<opener>Custom House Tariff
+
+<p>Custom House Tariff
 for Loanda, Benguella, and 
-Mossamedes</opener>
+Mossamedes.</p>
 
 <p>Translation:</p>
 
@@ -136,7 +140,7 @@ imported from foreign ports into
 the Custom Houses of Loanda,
 Benguella, &amp; Mossamedes, will
 pay the Duties as established
-in tables A &amp; B.</p>
+in tables A &amp; B</p>
 
 <p>Goods exported from said Custom
 Houses will pay duties as in 
@@ -151,50 +155,53 @@ referred to us Article 1, 30%
 of the duties as established
 in the tables A &amp; B</p>
 
-<p>Article 3: Goods Merchandise re-exported 
+<p>Article 3: Goods and Merchandise re-exported 
 from Portugal or, adjacent
 Islands to the Custom Houses
-mentioned in Articles, will
+mentioned in Article 1, will
 <catchwords>pay</catchwords>
 
 <pb facs="teaa.en.letter.0126.002"/>
+
 pay 70 percent of the duties, as 
 established in tables A &amp; B</p>
 
 <p>Article 4: In order that goods and Merchandise
 to which Articles 2 &amp; 3 refer
 can avail of the differential 
-duties there etablished, they 
+duties there established, they 
 must be accompanied with
 the despatches of the Custom
-House from whence  they were
+House from whence they were
 exported, or re-exported</p>
 
 <p>Article 5: It is permitted the re-exportation
 of goods from the Custom House
 of Loanda, paying an ad-valorem
-duty of 2 percent, without
+duty of 2 per cent, without
 regard to the nationality of
 the exporting vessel.</p>
 
 <p>Article 6: The transit of goods and Merchandise
 is permitted in "Franquia"
-from one to, another Custom
+from one to another Custom
 House in the province, the 
 necessary duty being paid
 according to the usage of the
 <catchwords>Custom</catchwords>
 
-
 <pb facs="teaa.en.letter.0126.003"/>
+
 Custom House where the goods
 are despatched</p>
 
 <p>Article 7: Goods or Merchandise, provincial
 or naturalised, having paid
 import duties according to 
-Article 1, are allowed fee transit
+Article 1, are allowed free transit
 throughout the province</p>
+
+<p>Article 8: Articles produced by that Industry of the province, being exported abroad, will be treated as foreign should they return to the province from a foreign port; but national should they come from a Portuguese port, always being accompanied with the necessary documents to prove the same</p>
 
 <p>Article 9: Colonial produce from the ports to the 
 North of Loanda, is free of import
@@ -205,15 +212,16 @@ referred to in Article 1</p>
 <catchwords>from</catchwords>
 
 <pb facs="teaa.en.letter.0126.004"/>
+
 from the deposits of other colonial
 or provincial Custom Houses
-mentioned in Article I will be
+mentioned in Article 1 will be
 entitled to benefit by the rules
-in Articles No 2 and 3, according
+in Articles Nos 2 and 3, according
 to where they come from and those
 taken out for consumption or 
-naturalized in the same provinces
-except <unclear/> will enjoy the
+naturalised in the same provinces
+except <unclear>Guiné</unclear> will enjoy the
 favor established by Article No 2</p>
 
 <p>Article 11: Ad valorem duties will be calculated
@@ -226,8 +234,8 @@ wish to despatch will sign a
 declaration with a description
 and value of said goods, in the 
 sum which they may consider
-convienent.  The declaration
-muist include all necessary
+convenient. The declaration
+must include all necessary
 information for the levying of duties</p>
 
 <p>2nd. If the Custom House judge the
@@ -235,6 +243,7 @@ declared value to be insufficient
 <catchwords>they</catchwords>
 
 <pb facs="teaa.en.letter.0126.005"/>
+
 they will have the right to retain
 the goods, paying to the importer
 or exporter within the space of 
@@ -245,28 +254,29 @@ declared.</p>
 <p>3rd. When however the Custom House
 do not find it convenient to have
 recourse to their rights, they can
-proceed to the  valuation of the 
+proceed to the valuation of the 
 Goods by Exports, who will be
 named, one by the Director of the 
 Custom House, the other by the 
 Declarer; &amp; in the event of their
-not being  able to agree the 
+not being able to agree the 
 Director of the Custom House
 will name a third expert from
 whose decision there will be no
 further appeal on either side</p>
 
-<p>4th. If on examination of the experts
-they should show that the value
+<p>4th. If on examination of the experts,
+they should show, that the value
 of the merchandise does not exceed
-10% over what had been declared 
+10% over what had been declared, 
 the Custom House can in their
-choice excercise their right, or have
+choice exercise their right, or have
 <catchwords>the</catchwords>
 
 <pb facs="teaa.en.letter.0126.006"/>
+
 the duties paid according to the
-value determined by the Exports.</p>
+value determined by the Experts.</p>
 
 <p>5th. This duty will be increased 50%
 if the valuation of the exports 
@@ -277,13 +287,13 @@ declared.</p>
 of the exports will be paid by 
 the declarer, if the value 
 determined on by the decision
-of the admistrators should exceed
+of the arbitrators should exceed
 10% of the declared value; if 
 the contrary, they will be paid
 by the Custom House</p>
 
 <p>Article 12: All baggage is duty free; by baggage
-is understood <unclear/> in use
+is understood <unclear extent="one word"/> in use
 personal and other objects, such
 as instruments for personal use
 showing his respective profession.
@@ -295,6 +305,7 @@ vessel with description of the
 <catchwords>number</catchwords>
 
 <pb facs="teaa.en.letter.0126.007"/>
+
 number of packages, and the name
 of the person to whom they belong.
 The Director of the Custom House
@@ -310,10 +321,10 @@ Custom House will pay besides
 the respective duties at the end
 of six months from entrance, a
 storage rent each month equal
-to 50 Reis per 100mKilos when
+to 50 Reis per 100 Kilos when
 dry goods; and 20 Reis per
-decaliter when in liquid.
-The greatest price allowed for the 
+decalitre when in liquid.
+The greatest time allowed for the 
 deposit of cargo will be one year,
 to be counted from date of entry.
 At the end of this time the
@@ -323,6 +334,7 @@ thirty days previously; it is
 <catchwords>however</catchwords>
 
 <pb facs="teaa.en.letter.0126.008"/>
+
 however allowed to the owners
 or their representatives to retire
 the goods prepaying the respective
@@ -351,6 +363,7 @@ goods to be despatched except
 <catchwords>in</catchwords>
 
 <pb facs="teaa.en.letter.0126.009"/>
+
 in the case referred to in the
 following article.</p>
 
@@ -359,8 +372,8 @@ House with sea damage exceeding
 3 percent of the original value,
 not of the object damaged but over
 all the package of which it forms
-part, if owners or receives should
-require it a proportional statement
+part, if owners or receivers should
+require it a proportional abatement 
 will be made in the duties 
 according to true difference between
 the original value and present state
@@ -371,7 +384,7 @@ not be comprehended in this
 article but must be immediately
 destroyed, when the owners, or 
 receivers of the goods, do not protest
-against this act but protesting
+against this act, but protesting
 against it they can only be destroyed
 according to the decisions of the
 Surveyors in which case the Board
@@ -379,15 +392,16 @@ of Health of the Province will be duly
 <catchwords>represented</catchwords> 
 
 <pb facs="teaa.en.letter.0126.010"/>
+
 represented.</p>
 
 <p>Article 16: In order to determine the statement
 to be made on damaged goods, the 
 Chief of the Custom House will
-name, as valuator one of the 
+name, as Valuator one of the 
 employees of the said Custom
-House, and the owner or consigner
-will name another valuator who
+House, and the owner or consignee
+will name another Valuator who
 will declare the cause of damage
 and the difference between the
 value of the Goods in their
@@ -396,7 +410,7 @@ ought to have been before being
 damaged, and according to this
 declaration the papers can be 
 altered by the competent clerk
-and duties paid on the <unclear>desired</unclear>
+and duties paid on the desired
 abatement.</p>
 
 <p>In case the Valuators should
@@ -406,7 +420,8 @@ valuator who will decide without
 further appeal for one of the sides
 
 <pb facs="teaa.en.letter.0126.011"/>
-Article 17: Vessel of any nation exclusively
+
+Article 17: Vessels of any nation exclusively
 employed in fishing on the high
 sea are permitted to deposit in
 the Custom Houses of which
@@ -420,50 +435,53 @@ not permitted without a new licence</p>
 
 <p>1. For the collection of this duty
 it not having been paid in due
-time proceedings will be taken 
+time, proceedings will be taken 
 in terms marked 1 &amp; 2 in
 Article 13.</p>
 
 <p>Article 18: All goods will pay duties due by
-well weight admitting the <unclear>boxe</unclear>
-marked in table D.
-1. It shall be allowed to <unclear>parties</unclear>
+well weight admitting the <unclear>vare</unclear>
+marked in table D.</p>
+
+<p>1. It shall be allowed to parties
 clearing goods to weigh them
-separate from the <unclear>boxes</unclear> in
-which they come except wollen
-and silk, goods which shall
+separate from the <unclear>vares</unclear> in
+which they come except woollen
+and silk goods which shall
 <catchwords>always</catchwords>
 
 <pb facs="teaa.en.letter.0126.012"/>
+
 always be weighed separately, and
 will pay duties on their exact
 weight. Common cotton goods
-for the uses of the Interior of the 
+for the use of the Interior of the 
 Province such as Chilloes, handkerchiefs
-pammos da Costa. Stripes
-Unbleached cotton goods. Satin
+pannos da Costa. Stripes
+Unbleached cotton goods, Satin
 Stripes and blue baft will be
 weighed in the Custom Houses
-with their respective <unclear>boxes</unclear> being
+with their respective <unclear>vares</unclear> being
 verified by and opening made
 in the covers of the bales, unless
-the verificador deems it necessary
-to have them opened.</p>
+the Verificador deems it necessary
+to have them opened</p>
 
 <p>2. When however the boxes in 
 which the goods come are
 objects that can be sold in
-the market, these boxes shall
+the market, these <unclear>vares</unclear> shall
 pay their respective duties;
 casks, pipes, barrels, cases, bale
 covers, bags and such others
 are excepted.</p>
 
-<p>Article 19: Goods once in the possesion
+<p>Article 19: Goods once in the possession
 of the Custom House cannot be
 <catchwords>delivered</catchwords>
 
 <pb facs="teaa.en.letter.0126.013"/>
+
 delivered without being duly
 despatched, and without payment
 of the respective duties.</p>
@@ -482,7 +500,7 @@ with a clearance from the
 Director of the Custom House.</p>
 
 <p>Before taking charge of the
-goods they must be entered into
+goods, they must be entered into
 a book kept for this purpose, 
 and a bond signed by the two
 employees and by the receiver, in
@@ -495,6 +513,7 @@ respective, duties, and the condition
 <catchwords>that</catchwords>
 
 <pb facs="teaa.en.letter.0126.014"/>
+
 that they will be paid within
 8 days from date</p>
 
@@ -506,24 +525,25 @@ arbitrary denominations or compensations
 even if considered to the 
 benefit of the revenue.</p>
 
-<p>Article 21. There shall be a permamemt commission
+<p>Article 21. There shall be a permanent commission
 of Custom House Tariffs to be
 consulted about any alteration
 that it may be necessary to be
 made for the future in the 
-tariff now put in execution
+tariff now put in execution,
 and about any doubts or controversies
 that may occur in its
 execution.</p>
 
-<p>1. The, decisions of this Committee
+<p>1. The decisions of this Committee
 will be submitted to the Government
 of the province whose duty
 it is to decide, remaining nevertheless
 dependant on the approval 
-<catchwords>of the </catchwords>
+<catchwords>of the</catchwords>
 
 <pb facs="teaa.en.letter.0126.015"/>
+
 of the Government in the Metropolis,
 what may have reference
 to any alterations in the tariff.</p>
@@ -538,19 +558,21 @@ goods and also the respective
 verificadores must give a clear
 description in the tickets of all
 goods despatched to serve, as a
-basis for organising the statistics according to the adjoining
-forms No 1 to 5.</p>
+basis for organising the statistics 
+according to the adjoining
+forms Nos 1 to 5.</p>
 
 <p>Article 24: Smuggling will be punished
 with the loss of the goods
 smuggled, and with a fine not
 to exceed the value of said goods
-nor inferior to 25% of their value.</p>
+nor inferior to 25% of their value</p>
 
 <p>Article 25: The owner, receiver, or in their
 <catchwords>place</catchwords>
 
 <pb facs="teaa.en.letter.0126.016"/>
+
 place, the conductor of smuggled
 goods is liable to a fine at
 least double the duties on the
@@ -561,27 +583,28 @@ of the goods smuggled.</p>
 
 <p>1. When however the goods are
 found in false bottoms, or in 
-any other places of concealment
+any other place of concealment
 such as wrapped up in other
 goods subject to less duty, or free
 of them or taken on shore after
 having been taken out of the 
 Custom House with a despatch
-for transit or for re-exportation
+for transit or for re-exportation,
 the fine shall be equal to the 
-value of the goods smuggled
+value of the goods smuggled,
 besides five times the duties
 for the maximum provided
 it does not exceed the value of 
-said goods and for the minimum
+said goods, and for the minimum
 with double the duties </p>
 
 <p>Article 26: The transgressors of regulations
 <catchwords>that</catchwords>
 
 <pb facs="teaa.en.letter.0126.017"/>
+
 that will not produce a loss of
-duty to the Goverment, will be
+duty to the Government, will be
 punished with a fine from
 Rs 2,000 to Rs 200,000 according
 to the estimating, or aggravating
@@ -591,14 +614,14 @@ them</p>
 <p>Article 27: In case of Embezzlement of 
 duties, the goods as well as the
 respective consequences will be
-apprehended as caution to the
+apprehended, as caution to the
 payment of the fine when it is
 not immediately paid, or at 
 the moment deposited</p>
 
 <p>Article 28: The owners of the goods or of the
 conveyances will be answerable 
-for the acts of their clerks
+for the acts of their clerks,
 conductors, agents, in everything
 with respect to the payment
 of the duties and infractions of
@@ -608,6 +631,7 @@ regulations</p>
 <catchwords>observed</catchwords>
 
 <pb facs="teaa.en.letter.0126.018"/>
+
 observed what is determined by
 the law in vigour; the judgment
 however belonging to the Director
@@ -622,7 +646,7 @@ Ships that will furnish
 incorrect manifests, and lists
 of extras being considered as
 smuggled; all goods that may
-be found less. or above after the
+be found less, or above after the
 ship has been completely unloaded;
 and that the cargo 
 landed has been compared with
@@ -635,10 +659,11 @@ with the fine applied to the
 embezzlement of duties</p>
 
 <pb facs="teaa.en.letter.0126.019"/>
+
 <p>Article 31: Produce subject to export duty
 shipped without despatch, or 
 found, on board the quantity
-being above the, declaration
+being above the declaration
 in the despatch; shall also
 be considered as an embezzlement 
 of duties</p>
@@ -649,41 +674,45 @@ in packages entered in the
 Custom House, shall be
 seized if such packages do
 not externally contain a
-declaration to that effect
+declaration to that effect;
 besides such declaration
 being made, in the act of 
-entry in the Custom House
-The owners or whoever
+entry in the Custom House.
+The owners, or whoever
 represents them are besides
 liable for the damages that
 may occur owing to this
 omission</p>
 
-<p>Article 33: All additional duties advalorem
+<p>Article 33: All additional duties ad-valorem
 <catchwords>now</catchwords>
 
 <pb facs="teaa.en.letter.0126.020"/>
+
 now existing in the Custom Houses
 of Loanda, Benguella &amp; Mossamedes
 are abolished</p>
 
-<p>Of the general receipt of the
+<p>1. Of the general receipt of the
 said Custom Houses 20% of the
 duties recovered will be applied
-to Public Works.</p>
+to Public Works</p>
 
 <p>Article 34: It is prohibited and shall be
 punished with the punishment
 applied to extortioners, any
 demand for duties not specified
-in this law.</p>
-<closer>
-<salute>Minister of Marine at home
-and abroad 1st July 1880</salute>
-<signed>(Signed) Auselmo Jose Braamcamp</signed>
-<salute>Approved</salute>
-<signed>Francisco Joaquim da Costa Silva
-General Director</signed></closer>
+in this law</p>
+
+
+<p>Minister of Marine at home
+and abroad 1st July 1880</p>
+
+<p>(Signed) Anselmo José Braamcamp</p>
+
+<p>Approved<lb/>
+Francisco Joaqm da Costa e Silva
+General Director</p>
 
 </div1>
 </body>

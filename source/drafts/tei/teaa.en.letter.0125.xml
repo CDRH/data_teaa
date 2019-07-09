@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to the Assistant Secretary of State, September 14, 1880</title>
+<title>Dispatch from Robert Scott Newton to John Hay, September 14, 1880</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +90,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1880-09-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName>Washington, U.S.</placeName>
+<persName ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C</placeName>
 <date when="1880-11-29"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-09" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,52 +123,54 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0125.001"/>
-<note>Mr. Wood</note>
-<note>Ackd Feb.16.81</note>
 
+<note>Ackd Feb. 16. '81</note>
 <note>Department of State Received Nov 29 1880</note>
-
 <note>No 58</note>
 
-<opener>United States Consulate<lb/>
-...at St Paul de Loanda</opener>
+<opener>United States Consulate
+... at St Paul de Loanda</opener>
 
 <p>To the Department of State</p>
 
 <p>Mr. Robert Scott Newton</p>
 
-<p>Subject:
-Ordering two House Flags:</p>
+<p>Subject:</p>
+
+<p>Ordering two House Flags:</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0125.002"/>
+
 <note>No 58</note>
 
-<p>United States Consulate<lb/>
+<opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-14 September 1880</p>
+14 September 1880</dateline></opener>
 
-<p>Sir<lb/>
-I have the honor to request
+<p>Sir</p>
+
+<p>I have the honor to request
 that the Department will give orders for
-two House Flags to be sent to this Comsulate
+two House Flags to be sent to this Consulate
 as those at present in use are in a very 
 bad state.</p>
 
 <closer><salute>I have the honor to be,<lb/>
 Your most obedient servant,</salute>
-<signed>Robert S Newton<lb/>
-US Vice-Consul</signed>
+<signed>Robt S Newton<lb/>
+U.S. Vice-Consul</signed>
 
 <address><addrLine>To the</addrLine> 
 <addrLine>Assistant Secretary of State</addrLine>
-<addrLine>Washington, U.S.</addrLine></address>
+<addrLine>Washington U.S.</addrLine></address>
 </closer>
+
 </div1>
 </body>
 </text>
 
 </TEI>
-
-
