@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to the Asisstant Secretary of State, February 18, 1881</title>
+<title>Dispatch from Robert Scott Newton to John Hay, February 18, 1881</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to the Asisstant Secretary of State</title>
+<title level="a">Dispatch from Robert Scott Newton to John Hay</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,14 +71,18 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>de São Januário, Visconde (Januário Correia de Almeida)</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Macau (China)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -90,21 +95,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Newton, Robert S</persName>
+<persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1881-02-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +114,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-09" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,14 +127,16 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0128.001"/>
+
 <note>No 109</note>
 
 <opener>United States Consulate<lb/>
 St Paul de Loanda<lb/>
 18 February 1881</opener>
 
-<p>Sir<lb/>
-I have the honor to
+<p>Sir</p>
+
+<p>I have the honor to
 forward to the Department herewith
 Extract Translation of the Royal Decree
 (published in the Loanda "Boletin
@@ -143,14 +147,149 @@ Ocean going or Coasting.</p>
 <closer><salute>I have the honor to be,<lb/>
 Sir,<lb/>
 Your obedient Servant</salute>
-<signed>Rob S Newton<lb/>
-U.S. Vice Consul</signed>
+<signed>Robt S Newton<lb/>
+U.S. Vice-Consul</signed>
 
 <address><addrLine>To</addrLine>
 <addrLine>the Assistant Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </closer>
 </div1>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.en.letter.0128.002"/>
+
+<p>Extract of Royal Decree of
+21st October 1880</p>
+
+<p>Having heard the Council of 
+the Foreign Office and the Cabinet Council
+I have decreed the following:</p>
+
+<p>Article 1: A tonnage due is hereby
+established in the Colonies of
+Portugal leviable on Foreign &amp;
+National Vessels either on
+Ocean going or Coasting in the 
+manner prescribed in the 
+following Articles:</p>
+
+<p>Article 2: National or foreign vessels
+either sailing or steam entering
+the ports of the Portuguese
+Colonial Provinces are subject to
+the tonnage dues laid down in
+the annexed Table signed by
+the Minister and Secretary
+of Marine &amp; Colonies</p>
+
+<p>This due is collected by 
+the Custom House of the first
+port of the Colonial Province or
+by the "Posto Fiscal" where
+<catchwords>there</catchwords>
+
+<pb facs="teaa.en.letter.0128.003"/>
+
+there is no Custom House. The
+vessel continuing the same 
+voyage can enter any other port
+or ports of the said Province
+without paying fresh tonnage
+dues.</p>
+
+<p>Article 3: All dues that may now be in
+force collected on Foreign or
+National Vessels in the ports
+of the Colonial Provinces under
+the title of Anchorage, tonnage
+or light dues are hereby revoked.</p>
+
+<p>Provisional Article: The rules established
+in the port of Macau with
+regard to the dues actually
+collected on shipping and the 
+mode of collection remain
+provisionally in force: the
+stipulations of this decree,
+however, applies to all other
+shipping to which, on the date
+of publication of the said decree
+in the Gazette of Macau, shall
+not have been applied the
+system of licences, agreements,
+<catchwords>and</catchwords>
+
+<pb facs="teaa.en.letter.0128.004"/>
+
+and other rules in force</p>
+
+<p>Table of Tonnage dues referred to in
+Article 2 of this Decree</p>
+
+<table>
+<row>
+<cell/>
+<cell/>
+<cell>Reis</cell>
+</row>
+<row>
+<cell>Ocean going sailing vessels per Ton measurement = 2m 83</cell>
+<cell>150</cell>
+<cell>$0.15 cts</cell>
+</row>
+<row>
+<cell>Ocean going steam ships per<lb/>
+ton measurement</cell>
+<cell>50</cell>
+<cell>" 5</cell>
+</row>
+<row>
+<cell>Ocean going Steam ships plying regularly between the Metropolis and the Colonial provinces, per ton measurement</cell>
+<cell>25</cell>
+<cell>" 2 1/2</cell>
+</row>
+<row>
+<cell>Coasting vessels in each Province per ton measurement, and only once a year counting from date of each payment</cell>
+<cell>150</cell>
+<cell>" 15</cell>
+</row>
+</table>
+
+<p>Exemptions:</p>
+
+<p>The following are not subject to
+Tonnage dues:</p>
+
+<p>Vessels of War of whatever
+nacionality, Merchant
+vessels compelled by stress
+of weather to enter any of the
+Colonial ports.</p>
+
+<p>Merchant vessels, having
+special Contract or by 
+<catchwords>International</catchwords>
+
+<pb facs="teaa.en.letter.0128.005"/>
+
+International Treaties and special 
+laws, are exempt from payment
+of the said dues.</p>
+
+<p>Foreign or National Vessels
+employed exclusively in fishing</p>
+
+<p>Secretary of State for Marine
+&amp; Colonial affairs</p>
+
+<p>21st October 1880</p>
+
+<p>(Signed) Visconde de S. Januario</p>
+
+</div1>
+
 </body>
 </text>
 
