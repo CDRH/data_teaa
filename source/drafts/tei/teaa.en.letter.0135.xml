@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to the Assistant Secretary of State, September 30, 1881 </title>
+<title>Dispatch from Robert Scott Newton to Robert R. Hitt, September 30, 1881 </title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to the Assistant Secretary of State</title>
+<title level="a">Dispatch from Robert Scott Newton to Robert R. Hitt</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,12 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Griffiths, William H.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>New Bedford (Mass.)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +91,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Newton, Robert S.</persName>
+<persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1881-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/41403558">Hitt, Robert R. (Robert Roberts), 1834-1906</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 <date when="1881-12-14"/>
 </correspAction>
@@ -113,9 +111,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-10" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,46 +124,49 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0135.001"/>
-<note>Ackd<lb/>
-Jan. 16/81</note>
-<note>Dr St Clair</note>
 <note>Department of State Received Dec 14 1881</note>
+
+<note>Ackd Jan. 16/81</note>
 
 <note>No 81</note>
 
-<opener>United States Consulate
-St Paul de Loanda</opener>
+<p>United States Consulate
+St Paul de Loanda</p>
 
 <p>Mr Robert Scott Newton</p>
 
-<p>Subject
-Extra wages of N. H. Griffiths
+<p>Subject</p>
+
+<p>Extra wages of W. H. Griffiths
 discharged from the "Platina"</p>
 
 <p>To the Department of State</p>
+
 </div1>
 
-
 <pb facs="teaa.en.letter.0135.002"/>
+
 <div1 type="document" xml:lang="en">
+
 <note>No 81.</note>
 
 <opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
 30th September 1881</dateline></opener>
 
-<p>Sir<lb/>
-I have the honor to 
+<p>Sir,</p>
+
+<p>I have the honor to 
 acknowledge receipt of your
 Despatch No 81 stating that
-you enclosed copy of N. H. 
+you enclosed copy of W. H. 
 Griffith's letter which however
 did not come to hand as 
 there was no enclosure whatever
 in the Despatch.</p>
 
 <p>In reply I have to state
-that N. H. Griffith's was duly
+that W. H. Griffiths was duly
 discharged before me from the
 Whaler "Platina" of New Bedford,
 the Master paying into my hands
@@ -173,34 +174,46 @@ three months extra wages equal
 to $45:</p>
 
 <p>The expenses incurred with 
-N.H. Griffiths, were the following.
+W. H. Griffiths, were the following.
 viz:</p>
 
-<p>Board &amp; Lodging          24.00<lb/>
-Passage per "Bengo"<lb/>
-as per Despatch No 68               24.30<lb/>
-                                                  $48.30
-<catchwords>so</catchwords>
+<table>
+<row>
+<cell>Board &amp; Lodging</cell>
+<cell>24.00</cell>
+</row>
+<row>
+<cell>Passage per "Bengo" as per Despatch No 68</cell>
+<cell>24.30</cell>
+</row>
+<row>
+<cell/>
+<cell>$48.30</cell>
+</row>
+</table>
+
+<p><catchwords>so</catchwords>
 
 <pb facs="teaa.en.letter.0135.003"/>
+
 so that as his expenses amounted
 to more than his 3 months 
-extra wages. I did not consider
+extra wages, I did not consider
 that he was entitled
 to receive anything from this
 Consulate.</p>
 
 <closer><salute>I have the honor to be<lb/>
 Sir<lb/>
-Your most Obedient<lb/>
-Servant</salute>
+Your most Obedient Servant</salute>
 <signed>Robt S Newton<lb/>
 Vice Consul</signed>
 
-<address><addrLine>To the </addrLine>
+<address><addrLine>To the</addrLine>
 <addrLine>Assistant Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </closer>
+
 </div1>
 </body>
 </text>

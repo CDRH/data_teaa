@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to the Assitant Secretary of State, March 31, 1881</title>
+<title>Dispatch from Robert Scott Newton to John Hay, March 31, 1881</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +90,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1881-03-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1881-06-16"/>
 </correspAction>
@@ -113,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-10" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,7 +123,7 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0130.001"/>
-<note>Mr. Wood</note>
+
 <note>Department of State Received June 16 1881</note>
 <note>Ackd June 30</note>
 
@@ -138,26 +135,31 @@ to the Department of State</opener>
 
 <p>Mr Robert S. Newton</p>
 
-<p>Abstract of Contents<lb/>
-Requesting two new House Flags</p>
+<p>Abstract of Contents</p>
+
+<p>Requesting two new House Flags</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0130.002"/>
+
 <note>No 72</note>
 
-<p>United States Consulate<lb/>
+<opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-31 March 1881</p>
+31 March 1881</dateline></opener>
 
-<p>Sir,<lb/>
-I have the honor to 
+<p>Sir,</p>
+
+<p>I have the honor to 
 request of the Department the
 favor to send to this Consulate
 Two full-sized Flag's, as these
 at present in use are quite
-wore out and cannot be repaired
-further--</p>
+worn out and cannot be repaired
+further.</p>
 
 <closer><salute>I have the honor<lb/>
 to be<lb/>

@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to the Assistant Secretary of State, May 24th, 1881</title>
+<title>Dispatch from Robert Scott Newton to Robert R. Hitt, May 24th, 1881</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to the Assistant Secretary of State</title>
+<title level="a">Dispatch from Robert Scott Newton to Robert R. Hitt</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,11 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Colville, Andrew Galbraith</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +90,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1881-05-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/41403558">Hitt, Robert R. (Robert Roberts), 1834-1906</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1881-08-23"/>
 </correspAction>
@@ -113,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-10" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -129,14 +126,9 @@
 
 <note>Department of State Received Aug 23 1881</note>
 
-
-<note><unclear>Refered to Cons Pow. his fund, 6th</unclear> <unclear/> Dept. does comply with law &amp; his accts. Hitt <unclear/></note>
-
-<note>Dr St Clair</note>
+<note>Ansd Aug 25 '81</note>
 
 <note>No 74</note>
-<note>Ansd<lb/>
-Aug 25, 81</note>
 
 <p>United States Consulate at St Paul de Loanda<lb/>
 To the Department of State</p>
@@ -145,47 +137,71 @@ To the Department of State</p>
 
 <p>Subject: Salary of Mr Colville</p>
 
-<p>Abstract of Contents:
-Draws attention to the Department
-of Mr. Colville's bills not having been
+<p>Abstract of Contents</p>
+
+<p>Draws attention to the Department
+of Mr Colville's bills not having been
 paid: Mr Newton responsible for same</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0131.002"/>
+
 <note>No 74</note>
 
-<p>United States Consulate<lb/>
+<opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-24th May 1881</p>
+24th May 1881</dateline></opener>
 
-<p>Sir<lb/>
-I have the honor to
+<p>Sir</p>
+
+<p>I have the honor to
 again draw your attention to my
 Despatch No 56 dated as far back as
 23rd July 1880, and I hear from
 Mr Colville that the Bills drawn by
-him have not been accepted as yet
+him have not been accepted as yet.
 consequently I am obliged to pay to
 this gentleman the amount of Salary
 he ought to have received during my
-absence in England viz:--</p>
+absence in England viz:</p>
 
-<p>June 30th 1879      $172.08<lb/>
-Sept 30th         --           $250.00<lb/>
-Dec  31st         --           $231.61<lb/>
-Jany 12th 1880             $32.96<lb/>
-                Total              $686.65</p>
+<table>
+<row>
+<cell>June 30th 1879</cell>
+<cell>$172.08</cell>
+</row>
+<row>
+<cell>Sept 30th " </cell>
+<cell>$250.00</cell>
+</row>
+<row>
+<cell>Dec  31st " </cell>
+<cell>$231.61</cell>
+</row>
+<row>
+<cell>Jany 12th 1880</cell>
+<cell>$32.96</cell>
+</row>
+<row>
+<cell>Total</cell>
+<cell>$686.65</cell>
+</row>
+</table>
 
 <p>I therefore beg to draw the 
-attention of the Department to this
+attention of the Department to this;
 and to place the matter before them 
 if they think it just that I should
 pay this amount without receiving
-any recompense from the Government
-<catchwords>Mr</catchwords>
+any recompense from the Government</p>
+
+<p><catchwords>Mr</catchwords>
 
 <pb facs="teaa.en.letter.0131.003"/>
+
 Mr Colville was appointed
 with the sanction of the Department,
 and with the understanding that he

@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to the Department of State, September 16, 1881</title>
+<title>Dispatch from Robert Scott Newton to Robert R. Hitt, September 16, 1881</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to the Department of State</title>
+<title level="a">Dispatch from Robert Scott Newton to Robert R. Hitt</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,13 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Silva, João José da</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Benguela (Angola)</term>
+<term>Mossâmedes (Angola)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,22 +92,19 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1881-09-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<placeName>Washington D.C.</placeName>
+<persName ref="http://viaf.org/viaf/41403558">Hitt, Robert R. (Robert Roberts), 1834-1906</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1881-11-10"/>
 </correspAction>
 </correspDesc>
@@ -113,9 +112,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-10" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -127,7 +126,6 @@
 
 <pb facs="teaa.en.letter.0132.001"/>
 
-<note>Dr St Clair</note>
 <note>Received Nov 10 1881 </note>
 
 <note>No 78</note>
@@ -139,30 +137,36 @@ at St Paul de Loanda</opener>
 
 <p>To the Department of State</p>
 
-<p>Subject-- <unclear/> Vessels</p>
+<p>Subject. Whaling Vessels</p>
 
-<p>Abstract of Contents
-Enclosing translation of 
-Govenor General's Despatch
+<p>Abstract of Contents</p>
+
+<p>Enclosing translation of 
+Governor General's Despatch,
 relating to Fees and Charges
 on Whaling Vessels</p>
 
 <note>(Copied for Bu. Statutes Nov. 18th 1881.)</note>
+
 <note>Compared with Copy for publication 
 in Consular Notes No 13.
 Nov. 17. 1881</note>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0132.002"/>
+
 <note>No 78</note>
 
-<p>United States Consulate<lb/>
+<opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-16th September 1881</p>
+16th September 1881.</dateline></opener>
 
-<p>Sir,<lb/>
-I have the honor to 
+<p>Sir,</p>
+
+<p>I have the honor to 
 enclose a translation of a 
 Despatch received from His
 Excellency the Governor General
@@ -184,6 +188,7 @@ than in any other port
 <catchwords>on</catchwords>
 
 <pb facs="teaa.en.letter.0132.003"/>
+
 on the coast.</p>
 
 <closer><salute>I have the honor to be<lb/>
@@ -201,6 +206,7 @@ Vice Consul</signed>
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0132.004"/>
+
 <p>Translation of Governor
 General Dantes's Despatch
 dated 3rd August 1881.</p>
@@ -209,27 +215,28 @@ dated 3rd August 1881.</p>
 dated the 14th July, His
 Excellency the Governor General
 has ordered me to communicate
-the following:--</p>
+the following:</p>
 
-<p>1st that Whalers are allowed 
-to come into port for the span
-of 6 days or for a longer time
+<p>1st That Whalers are allowed 
+to come into Port for the space
+of 6 day's or for a longer time
 when requested, free of all expenses
 with the exception of 
 400 Reis or 40 cents a day while
 in port; for a Custom House
 Guard and 1500 Reis or 1.62 Cents
 for the Health Visit; all the
-captain of the Port charges will
+Captain of the Port charges will
 be abolished for this class of
 Vessels, except when a Pilot is
 asked for, the expenses of which
 will be 1,500 Reis or 1.62 Cents for
-bringing the ship into port, and 
+bringing the ship into Port, and 
 1,500 Reis or 1.62 cents for her
-<catchwords>pilotage</catchwords>
+<catchwords>Pilotage</catchwords>
 
 <pb facs="teaa.en.letter.0132.005"/>
+
 Pilotage out.</p>
 
 <p>2nd That the said Whalers can
@@ -238,8 +245,8 @@ House, paying 2% ad valorem on
 re-shipment; keeping it in the 
 Custom House for another 6 
 months it will pay 20 Reis or 
-2 cents for every 10 letres. Ships
-gear &amp;c. stored in the Custom
+2 cents for every 10 Letres. Ships
+gear &amp;c stored in the Custom
 House are free from this last
 charge. You must take note
 that these advantages are only
@@ -251,7 +258,7 @@ are not adapted to store large
 quantities of Casks.</p>
 
 <p>3rd Lastly, Whalers can receive
-Provisions &amp;c from the ships that
+Provisions &amp;c from the Ships that
 come usually every 6 months from
 America with their supplies, trans-shipping
 Oil to them without paying 
@@ -261,6 +268,7 @@ any duties whatever.</p>
 <catchwords>remarks</catchwords>
 
 <pb facs="teaa.en.letter.0132.006"/>
+
 remarks to make on what His
 Excellency the Governor General
 has ordered me to communicate
@@ -268,7 +276,7 @@ to you, will you kindly do so,
 as His Excellency is willing to 
 do all in his power, within the
 Law, to facilitate Whalers coming
-into this port, and harmonising
+into this Port, and harmonising
 the interests of these with the
 Laws to which they are subject</p>
 
@@ -279,6 +287,7 @@ Acting Secretary</signed>
 <addrLine>Vice Consul of the</addrLine> 
 <addrLine>United States</addrLine>
 <addrLine>St Paul de Loanda.</addrLine></address>
+
 </closer>
 </div1>
 </body>
