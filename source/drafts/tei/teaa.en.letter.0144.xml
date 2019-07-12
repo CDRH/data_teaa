@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from du Verge to J. C. Bancroft Davis, June 13, 1882</title>
+<title>Dispatch from L. de R. du Verge to Bancroft Davis, June 13, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from du Verge to J. C. Bancroft Davis</title>
+<title level="a">Dispatch from L. de R. du Verge to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,8 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>England</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -94,12 +95,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-06-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 <date when="1882-08-10"/>
 </correspAction>
@@ -108,9 +111,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-12" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,8 +125,7 @@
 
 <pb facs="teaa.en.letter.0144.001"/>
 
-<note>File</note>
-<note>No <unclear>32</unclear>.</note>
+<note>No <del>3</del>. 2</note>
 <note>Department of State Received Aug 10 1882</note>
 
 <p>United States Consulate<lb/>
@@ -133,35 +135,42 @@ S.W.C. Africa</p>
 <p>L. de R. du Verge<lb/>
 To State Depart.</p>
 
-<p>Subject<lb/>
-Entering upon official duty</p>
+<p>Subject</p>
 
-<p>Encloses<lb/>
-Despatch of same and
+<p>Entering upon official duty</p>
+
+<p>Encloses</p>
+
+<p>Despatch of same and
 departure of Vice Consul
-Robert S.Newton</p>
+Robert S. Newton</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0144.002"/>
 
-<note>No. 2</note>
+<note>No. <del>4</del> 2</note>
+
 <opener><dateline>United States Consulate<lb/>
 at St. Paul de Loanda S.W.C. Africa<lb/>
-June 13th, 1882</dateline>
+June 13th 1882</dateline>
 
-<address><addrLine>The Honorable J.C. Bancroft Davis</addrLine>
-<addrLine>Assistant Sectry. of State</addrLine>
+<address><addrLine>The Honorable J. C. Bancroft Davis</addrLine>
+<addrLine>Asst Secty of State</addrLine>
 <addrLine>Washington D.C.</addrLine>
 </address>
 </opener>
-<p>Sir
-I have the honor to state 
-that I arrived at my post in England
-On the 12th day of June 1882 and
-Entered upon my official duty
-this date, and that Mr. Robert
-S. Newton my vice consul leave
+
+<p>Sir</p>
+
+<p>I have the honor to state 
+that I arrived at my post via England
+on the 12th day of June 1882 and
+entered upon my official duty
+this date, and that Mr Robert
+S. Newton my Vice Consul leave
 by steamer tomorrow by reason 
 of failing Health.</p>
 

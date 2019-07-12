@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to the Assistant Secretary of State, November 18, 1881</title>
+<title>Dispatch from Robert Scott Newton to Robert R. Hitt, November 18, 1881</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert S. Newton to the Assistant Secretary of State</title>
+<title level="a">Dispatch from Robert S. Newton to Robert R. Hitt</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,16 +71,27 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bent, W. S.</term>
+<term>Botha, Peter J.</term>
+<term>Botha, Josephius F.</term>
+<term>Matta, Sebastias Runes de</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Huíla (Angola)</term>
+<term>Humpata (Angola)</term>
+<term>Mossâmedes (Angola)</term>
+<term>St. Paul de Loanda (Angola)</term>
+</keywords>
 
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Boers</term>
+<term>Gambos</term>
+<term>Hottentot</term>
 </keywords>
     
 <keywords scheme="original" n="language">
@@ -90,21 +102,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1881-11-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/41403558">Hitt, Robert R. (Robert Roberts), 1834-1906</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +121,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-11" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,254 +134,265 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0136.001"/>
+
 <note>No 84</note>
 
-<opener>United States Consulate<lb/>
+<opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-November 18th, 1881.</opener>
+November 18th, 1881.</dateline></opener>
 
-<p>Sir,<lb/>
-Thinking the following
-particular may prove of interest,
+<p>Sir,</p>
+
+<p>Thinking the following
+particular may prove of Interest,
 I have the honor to lay before
 the Department the following 
 extracts of a letter received from
-Mr N. S. Beut, an Englishman
+Mr W. S. Bent, an Englishman
 at present at Mossamedes,
 with reference to the Boers
 who have lately settled at 
 Humpata, under Portuguese
 rule, where he visited them.</p>
 
-<p>" The Boers left the Transvaal
-" about 5 years ago, and arrived
-" at a place called Humpata,
-" a distance of 120 miles from
-" Mossamedes or Little Fish Bay.
-" They left the Transvaal membering
-" about 700 persons, men
-" women and children, and 
-" have been traveling the
-" Country in all directions for
-<catchwords>5 years"</catchwords>
+<p>"The Boers left the Transvaal
+about 5 years ago, and arrived
+at a place called Humpata,
+a distance of 120 miles from
+Mossamedes or Little Fish Bay.
+They left the Transvaal numbering
+about 700 persons, men
+women and children, and 
+have been traversing the
+Country in all directions for
+<catchwords>5 years</catchwords>
 
 <pb facs="teaa.en.letter.0136.002"/>
-" 5 years in the hope of hitting
-" upon a suitable place to gain
-" a reasonable likelihood. In
-" February 1881 they arrived at
-" Humpata, a place up to that
-" date <unclear>unacquainted</unclear> by the Portuguese
-" but appertaining to
-" the Province of Angola, and
-" decided to take up their abode
-" there, and have now corn (wheat) 
-" in large quantities, Potatoes and
-" Vegetables of all descriptions, and
-" intend to grow vines for the
-" production of wine, and 
-cotton, as the means of gaining
-" their livelihood.</p>
 
-<p>" They number today 420
-" people about 200 of whom are
-" women and children, the remainder
-" having died on the journey.
-" They seem to be a very hardworking
-" peacible set of people.
-" and have placed, themselves
-" entirely under Portuguese law
-" and protection, and have a 
-<catchwords>Portuguese"</catchwords>
+5 years in the hope of hitting
+upon a suitable place to gain
+a reasonable likelihood. In
+February 1881 they arrived at
+Humpata, a place up to that
+date unfrequented by the Portuguese
+but appertaining to
+the Province of Angola, and
+decided to take up their abode
+there, and have now Corn (Wheat) 
+in large quantities, Potatoes and
+Vegetables of all descriptions, and
+intend to grow vines for the
+production of Wine, and 
+Cotton, as the means of gaining
+their livelihood.</p>
+
+<p>They number to-day 420
+people about 250 of whom are
+women and children, the remainder
+having died on the journey.
+They seem to be a very hardworking
+<sic>peacible</sic> set of people,
+and have placed themselves
+entirely under Portuguese law
+and protection, and have a 
+<catchwords>Portuguese</catchwords>
 
 <pb facs="teaa.en.letter.0136.003"/>
-" Portuguese Officer and 1/2 dozen
-" soldiers residing amongst them
-" in a sort of hut termed a fort,
-" where the Portuguese Flag flies.
-" the land is free from any tax
-" for 10 years. The Boers have
-" executed a wonderful piece
-" of work in the shape of a
-" canal, the ingenuity of which
-" the Portuguese marvel at, they
-" having brought water into the
-" place, which was the first thing
-" they did after they settled, bringing
-" it from a distance of 3 1/4  miles,
-" and now a running stream of 
-" pure Iron water passes by the
-" front of each house. There are
-" 44 different houses today, the
-" construction of all of which
-" being very similar, having a
-" thatched roof and walls composed
-" of stone sand and clay.
-" The land of Humpata is pretty
-" fertile, and Copper and Iron
+
+Portuguese Officer and 1/2 dozen
+soldiers residing amongst them
+in a sort of hut termed a Fort,
+where the Portuguese Flag flies.
+The land is free from any tax
+for 10 years. The Boers have
+executed a wonderful piece
+of work in the shape of a
+canal, the ingenuity of which
+the Portuguese marvel at, they
+having brought water into the
+place, which was the first thing
+they did after they settled, bringing
+it from a distance of 3 1/4 miles,
+and now a running stream of 
+pure Iron water passes by the
+front of each house. There are
+44 different houses to-day, the
+construction of all of which
+being very similar, having a
+thatched roof and walls composed
+of stone sand and clay.
+The land of Humpata is pretty
+fertile, and Copper and Iron
 abounds in large quantities, but
-<catchwords>no"</catchwords>
+<catchwords>no</catchwords>
 
 <pb facs="teaa.en.letter.0136.004"/>
-" no person has troubled themselves
-" as yet about either.</p>
 
-<p>" Lions, Leopards, Elephant,
-" Camel, Wolf, Ostrich, Giraffe,
-" Hippopatmus, Aligator, Wild
-" Goat; and many beautiful birds
-" are found in great abundance
-" close to this district; and the
-" Boers have every hopes of being
-" able to carry on a good business
-" in the export of Ivory and
-" Ostrich feathers to England
-" and the Cape. They have about
-" 70 Horses and 2500 head of
-" cattle, but are losing day by
-" day horses and bullocks, owing
-" to the scarcity of proper pasture.
-" the natives (Gambos) being in the 
-" habit of daily setting fire in 
-" all parts to the good grass.</p>
+no person has troubled themselves
+as yet about either.</p>
 
-<p>" The Boers have frequently
-" complained to the Governor of 
-" Mossamedes, Senhor Sebastian
-" Rumes de Matta, but up to 
-" date that gentleman has not 
+<p>Lions, Leopards, Elephant,
+Camel, Wolf, Ostrich, Giraffe,
+Hippopotamus, <sic>Aligator</sic>, Wild
+Goat, and many beautiful birds
+are found in great abundance
+close to this district, and the
+Boers have every hopes of being
+able to carry on a good business
+in the export of Ivory and
+Ostrich feathers to England
+and the Cape. They have about
+70 Horses and 2500 head of
+Cattle, but are losing day by
+day horses and bullocks, owing
+to the scarcity of proper pasture.
+the natives (Gambos) being in the 
+habit of daily setting fire in 
+all parts to the good grass.</p>
+
+<p>The Boers have frequently
+complained to the Governor of 
+Mossamedes, Senhor Sebastias
+Runes de Matta, but up to 
+date that gentleman has not 
 <catchwords>been</catchwords>
 
 <pb facs="teaa.en.letter.0136.005"/>
-" been able to move in the matter,
-" except in two cases where the
-" natives had to compensate the 
-" Boers for the death of 4 bullocks,
-" and where the Boers received
-" compensation in cattle from
-" the natives for having willfully
-" stabbed several valuable horses.</p>
 
-<p>" The Tribe of the Gambos
-" have attacked the Boers on two 
-" different occassions, with the
-" view to driving them out of the
-" place, but repulsed; and the
-" Gambos are now gradually
-" settling down to the idea that
-" they must submit to the "White-dogs,"
-" as they call them, having
-" taken possession of part of their 
-" country.</p>
+been able to move in the matter,
+except in two cases where the
+natives had to compensate the 
+Boers for the death of 4 bullocks,
+and where the Boers received
+compensation in Cattle from
+the natives for having willfully
+stabbed several valuable horses.</p>
+
+<p>The Tribe of the Gambos
+have attacked the Boers on two 
+different <sic>occassions</sic>, with the
+view to driving them out of the
+place, but repulsed; and the
+Gambos are now gradually
+settling down to the idea that
+they must submit to the "White-dogs,"
+as they call them, having
+taken possession of part of their 
+country.</p>
 
 <p>The Portuguese Goverment
-" has arranged with the Boers to 
-" to give them R 2,500 for the purpose
-" of opening a Carriage road from 
-" Humpata to Little Fish Bay
-<catchwords>and"</catchwords>
+has arranged with the Boers to 
+to give them &#163;2,500 for the purpose
+of opening a Carriage road from 
+Humpata to Little Fish Bay
+<catchwords>and</catchwords>
 
 <pb facs="teaa.en.letter.0136.006"/>
-" and the Boers commenced the
-" work on the 20th September last.
+
+and the Boers commenced the
+work on the 20th September last.
 This work I hear was calculated
 by some Portuguese Engineers
-to cost about R 20,000.</p>
+to cost about &#163;20,000.</p>
 
-<p>" It is calculated that the
-" road will take 6 months to 
-" make, when the Boers will
-" have communication by cars
-" with the Merchants in the Bay.
-" At present it is impossible to 
-" travel by car, the only way 
-" being by Hammock or on
-" Horse-back, there being at about
-" 4 Leagues from Humpata, a very 
-" steep ascent called Shella, the
-" only available passsage, and
-" where no person can ascend on
-" horse-back, or even in a Hammock
-" but is obliged to ascend on
-" foot, the ascent taking 3 1/2 hours.</p>
+<p>It is calculated that the
+road will take 6 months to 
+make, when the Boer's will
+have communication by Cars
+with the Merchants in the Bay.
+At present it is impossible to 
+travel by Car, the only way 
+being by Hammock or on
+Horse-back, there being at about
+4 Leagues from Humpata, a very 
+steep ascent called Shella, the
+only available passage, and
+where no person can ascend on
+horse-back, or even in a Hammock
+but is obliged to ascend on
+foot, the ascent taking 3 1/2 hours.</p>
 
-<p>" The waters in this
-" district (Shella and Bruco)
-" is beautiful, there being such a 
-" quantity of Iron in the district,
-<catchwords>and"</catchwords>
+<p>The water in this
+district (Shella and Bruco)
+is beautiful, there being such a 
+quantity of Iron in the district,
+<catchwords>and</catchwords>
 
 <pb facs="teaa.en.letter.0136.007"/>
-" and it is even better in Humpata
-" and Huilla, the latter place being
-" about 18 to 20 miles S.E. of Humpata.</p>
 
-<p>" The writer, the first Englishman
-" who has visited the colony of the
-" Boers, was wonderfully well received
-" and was able to give them
-" all the news of the war in the
-" Transvaal, and the news he communicated
-" to them of the conclusion
-" of the war created great excitement,
-" and for 24 hours after, succeeded
-" a series of thanksgiving's to the
-" Almighty for having brought
-" to a conclusion such an unhappy
-" war. Almost all these people
-" had relations who fought in
-" the war, and up to date do
-" not know who was killed or
-" saved, they having had all
-" their letters stopped since the 
-" commencement. It is not known 
-" where this happened.</p>
+and it is even better in Humpata
+and Huilla, the latter place being
+about 18 to 20 miles S.E. of Humpata.</p>
 
-<p>" Humpata is a most
-" healthy locality, and at this 
-<catchwords>time"</catchwords>
+<p>The writer, the first Englishman
+who has visited the colony of the
+Boers, was wonderfully well received,
+and was able to give them
+all the news of the War in the
+Transvaal, and the news he communicated
+to them of the conclusion
+of the War created great excitement,
+and for 24 hours after, succeeded
+a series of thanksgiving's to the
+Almighty for having brought
+to a conclusion such an unhappy
+War. Almost all these people
+had relations who fought in
+the War, and up to date do
+not know who was killed or
+saved, they having had all
+their letters stopped since the 
+commencement. It is not known 
+where this happened.</p>
+
+<p>Humpata is a most
+healthy locality, and at this 
+<catchwords>time</catchwords>
 
 <pb facs="teaa.en.letter.0136.008"/>
-" time of the year (November) is 
-" almost as cold as November in
-" England. It lies in a valley
-" almost entirely surrounded by
-" rocky montains the country
-" on all sides for 3 Leagues being 
-" mountainous. The name of the
-" Commander is Josephino. F. Botha,
-" and the secretary Peter S. Botha.
-" Each man is supposed to have
-" about £ 50 in English Gold they
-" are said to have altogether
-" about £ 7000</p> 
 
-<p>"It is expected that another
-" Colony will shortly arrive termed
-" by the Boers, Bastards, being
-" the children of a Boer Father
-" and a Hottentot Mother. They
-" number some 1000 people, and it
-" is reported by a Swedish hunter,
-" that they intend to travel down
-" here, with a view to settling
-" about 20 Leauges S.E. of Humpata
-" with the same intention as the Boers
+time of the year (November) is 
+almost as cold as November in
+England. It lies in a valley
+almost entirely surrounded by
+rocky mountains, the country
+on all sides for 3 Leagues being 
+mountainous. The name of the
+Commander is Josephius F. Botha,
+and the secretary Peter J. Botha.
+Each man is supposed to have
+about &#163;50 in English Gold Coin 
+to-day and his horse, and they
+are said to have altogether
+about &#163;7,000</p> 
+
+<p>It is expected that another
+Colony will shortly arrive termed
+by the Boers, Bastards, being
+the children of a Boer Father
+and a Hottentot Mother. They
+number some 1000 people, and it
+is reported by a Swedish hunter,
+that they intend to travel down
+here, with a view to settling
+about 20 Leagues S.E. of Humpata
+with the same intention as the Boers.
 <catchwords>These"</catchwords>
 
 <pb facs="teaa.en.letter.0136.009"/>
-" These people at present are said
-" to be near Cape Town, but are being
-" driven away into the interior
-" Through the English farmers
-" there buying ground daily.</p>
 
-<p>" The Portuguese hold great
-" expectations from the Establishment
-" of the Boers at Humpata on
-" account of the export of Ivory,
-" Feathers, and Cotton, and the 
-" production of Wine and Flour."</p>
+These people at present are said
+to be near Cape Town, but are being
+driven away into the interior
+through the English farmers
+there buying ground daily.</p>
+
+<p>The Portuguese hold great
+expectations from the Establishment
+of the Boers at Humpata on
+account of the export of Ivory,
+Feathers, and Cotton, and the 
+production of Wine and Flour."</p>
 
 <closer><salute>I have the honor to be<lb/>
 Sir<lb/>
@@ -384,10 +404,9 @@ Vice Consul.</signed>
 <addrLine>Assistant Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </closer>
+
 </div1>
 </body>
 </text>
 
 </TEI>
-
-

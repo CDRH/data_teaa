@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to the Assistant Secretary of State, February 17, 1882</title>
+<title>Dispatch from Robert Scott Newton to Bancroft Davis, February 17, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to the Assistant Secretary of State</title>
+<title level="a">Dispatch from Robert Scott Newton to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,14 +71,18 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Coleen, A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
+<term>Suriname</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Great Britain</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -90,21 +95,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-02-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 <date when="1882-04-08"/>
 </correspAction>
@@ -113,9 +115,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-11" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,49 +128,45 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0138.001"/>
-<note>Department of State Received Apr 8 1882</note>
-<note>file <unclear/></note>
-<note>Dr St Clair</note>
 
+<note>Department of State Received Apr 8 1882</note>
 
 <note>No 91</note>
 
-<opener>United States Consulate<lb/>
+<p>United States Consulate
 at St Paul de Loanda<lb/>
-To the Department of State
-
-<address><addrLine>To the</addrLine>
-<addrLine>Assistant Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
-
-</opener>
+To the Department of State</p>
 
 <p>Mr Robert S. Newton</p>
 
 <p>Subject: Leave of absence</p>
 
-<p>Abstract of Contents:<lb/>
-Refers to Despatch No 79 requesting
-leave of absence It is important he 
-should have not later than May.</p>
+<p>Abstract of Contents:</p>
 
-<p>Proposes to leave A Coleen Esq.
+<p>Refers to Despatch No 79 requesting
+leave of absence It is important he 
+should have not later than May.
+Proposes to leave A. Coleen Esq.
 British Consul in charge, &amp; requests
 leave for authority for that gentleman 
 to draw for salary</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0138.002"/>
+
 <note>No 91</note>
 
 <opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
 17th February 1882</dateline></opener>
 
-<p>Sir,<lb/>
-Referring to my Despatch
-No 79 requesting leave of Absence.
+<p>Sir,</p>
+
+<p>Referring to my Despatch
+No 79 requesting leave of Absence,
 I have the honor to state that it
 is of the utmost importance that
 I should go to Europe not later
@@ -181,9 +179,9 @@ leave of absence as soon as possible.</p>
 
 <p>The gentleman I propose
 leaving in charge during my
-absence in A Coleen Esquire
-British Consul at this port who
-has already been acting consul at the
+absence in A. Coleen Esquire
+British Consul at this port, who
+has already been Acting Consul at the
 port of Surinam to the American
 Government.</p>
 
@@ -191,7 +189,14 @@ Government.</p>
 Department to give me permission 
 <catchwords>to</catchwords>
 
+<fw type="address"><address>
+<addrLine>To the</addrLine>
+<addrLine>Assistant Secretary of State</addrLine>
+<addrLine>Washington DC</addrLine>
+</address></fw>
+
 <pb facs="teaa.en.letter.0138.003"/>
+
 to authorize Consul Coleen to 
 draw my Salary during my absence.</p>
 

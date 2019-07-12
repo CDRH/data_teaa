@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to the Assistant Secretary of State, November 23, 1881</title>
+<title>Dispatch from Robert Scott Newton to Robert R. Hitt, November 23, 1881</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to the Assistant Secretary of State</title>
+<title level="a">Dispatch from Robert Scott Newton to Robert R. Hitt</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,8 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Ambriz (Angola)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +91,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1881-11-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/41403558">Hitt, Robert R. (Robert Roberts), 1834-1906</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-11" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,45 +123,45 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0137.001"/>
+
 <note>Department of State Received Jan 30 1882</note>
 
 <note>Ackd Feb.15/81</note>
-
-<note>Copy to Mr. <unclear>DH</unclear>. Feb 6/82</note>
-
-<note>Copy to <unclear/></note>
-
-<note>Dr St Clair</note>
 
 <note>No 87</note>
 
 <opener>United States Consulate<lb/>
 at St Paul de Loanda</opener>
 
-<p>To the Department of State
-Mr Robert Scott Newton</p>
+<p>To the Department of State</p>
 
-<p>Subject-- Advice of Small-pox
+<p>Mr Robert Scott Newton</p>
+
+<p>Subject. Advice of Small-pox
 having broken out at this port,
 and not granting clean Bill of
 Health.</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0137.002"/>
-<note>No 87</note>
+
+<note>No 87.</note>
 
 <opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
 23rd November 1881.</dateline></opener>
 
-<p>Sir<lb/>
-I have the honor to 
+<p>Sir,</p>
+
+<p>I have the honor to 
 report to the Department that
 Small-pox has broken out among
 the natives at this port, and 
-there are great fears that it will 
-extend to the interior. If
+there are great fears that it 
+will extend to the interior. If
 it does it will cause great loss
 both to Merchants and Agriculturists
 as the natives have a 
@@ -172,7 +170,7 @@ will keep away. It was brought
 to Ambriz by the small steamer
 "La Plata" and has now broken
 out here and more or less at
-all the ports of the province.
+all the ports of the Province.
 The Doctors are doing all in 
 their power to keep the disease
 from spreading, and try all
@@ -182,7 +180,8 @@ exceedingly difficult as the
 <catchwords>natives</catchwords>
 
 <pb facs="teaa.en.letter.0137.003"/>
-native hide their sick friends
+
+natives hide their sick friends
 in their houses, as they have a
 great aversion to go to the
 Hospital. All the natives about
@@ -192,7 +191,7 @@ results. It is very rare indeed
 when white people suffer from
 this disease in these climates.
 Any vessel leaving this port
-at presemt will not get a 
+at present will not get a 
 clean Bill of Health.</p>
 
 <closer><salute>I have the honor to be<lb/>
@@ -205,6 +204,7 @@ Vice Consul</signed>
 <addrLine>Assistant Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </closer>
+
 </div1>
 </body>
 </text>

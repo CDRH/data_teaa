@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to  J. C. Bancroft Davis, May 16, 1882 </title>
+<title>Dispatch from Robert Scott Newton to Bancroft Davis, May 16, 1882 </title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to J. C. Bancroft Davis</title>
+<title level="a">Dispatch from Robert Scott Newton to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,18 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Hansen, Niels</term>
+<term>Schmitt, Andrew</term>
+<term>Stegburgh</term>
+<term>Umlandt, Louis</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Benguela (Angola)</term>
+<term>Cape Verde</term>
+<term>Equinina (Angola)</term><!-- not positive it's Angola -->
+<term>New Bedford (Mass.)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -95,11 +102,13 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-05-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 <date when="1882-07-01"/>
 </correspAction>
@@ -108,9 +117,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-11" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -121,51 +130,56 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0142.001"/>
-<note>Approved</note>
 
 <note>Department of State Received July 1 1882</note>
+
 <note>Ackd July 5/82</note>
-<note>Dr. St. Clair</note>
+
 <note>No 96</note>
 
-<p>United States Consulate 
+<p>United States Consulate<lb/> 
 St Paul de Loanda</p>
 
-<p>Mr Robert Scott Newton
-Vice Consul
-To the 
+<p>Mr Robert Scott Newton<lb/>
+Vice Consul<lb/>
+to the<lb/> 
 Department of State</p>
 
-<p>Subject 
-Destitute Seamen
-</p>
+<p>Subject.</p>
+ 
+<p>Destitute Seamen</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0142.002"/>
+
 <note>No 96</note>
 
 <opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
 16th May 1882</dateline></opener>
 
-<p>Sir,<lb/>
-I have to report the arrival here of three
-American sailors on the 13th inst. In the Mail St.
-“Angola”. The Captain of the “Angola" states that 
+<p>Sir,</p>
+
+<p>I have to report the arrival here of three
+American sailors on the 13th inst, in the Mail Str
+"Angola". The Captain of the "Angola" states that 
 he was requested to bring them from Benguella to 
 this port, where they would find a Consular officer
- to understand and look after them.</p>
+to understand and look after them.</p>
 
 <p>The men themselves state that they deserted 
-from the American Whaling Barque “Matta
-Poisette” - Captain Stegburgh- of New Bedford, 
-at the Port of Equimina and walked about
-<gap/></p>
+from the American Whaling Barque "Matta
+Poisette", Captain Stegburgh, of New Bedford, 
+at the Port of Equinnina and walked about
+<gap extent="half a page" reason="incomplete image"/></p>
 
 <pb facs="teaa.en.letter.0142.003"/>
+
 <p>When out whaling, they also complain 
-that the mate refused them water,  and
+that the mate refused them water, and
 made them pull for hours without a drink,
 there being plenty of water in the boat.</p>
 
@@ -179,7 +193,8 @@ for each</p>
 <p>Their names are Andrew Schmitt,
 Louis Umlandt, and Niels Hansen.</p>
 
-<closer><salute>I have the honor to be, Sir,</salute>
+<closer><salute>I have the honor to be, Sir,<lb/>
+Your obedient servant</salute>
 <signed>Robt S Newton<lb/>
 U.S. Vice-Consul</signed>
 
@@ -187,6 +202,7 @@ U.S. Vice-Consul</signed>
 <addrLine>Assistant Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </closer>
+
 </div1>
 </body>
 </text>

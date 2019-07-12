@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from du Verge to J. C. Bancroft Davis, June 29, 1882</title>
+<title>Dispatch from L. de R. du Verge to Bancroft Davis, June 29, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from  du Verge to J. C. Bancroft Davis</title>
+<title level="a">Dispatch from L. de R. du Verge to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,17 +90,18 @@
 <term/>
 </keywords>
 
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-06-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 <date when="1882-08-31"/>
 </correspAction>
@@ -109,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-12" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -122,60 +123,66 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0146.001"/>
-<note>Will  regnze as a chge
-in his <unclear>misc</unclear> <unclear>acct</unclear></note>
-<note>No 5</note>
+
+<note>No <del>6</del> 5</note>
+
 <note>Department of State Received Aug 31 1882</note>
-<note>June 29</note>
 
 <p>United States Consulate<lb/>
 St Paul de Loanda<lb/>
 S.W.C. Africa</p>
 
-<p>L de R. de Verge<lb/>
-To Dept of State<lb/>
+<p>L. de R. du Verge<lb/>
+to Dept of State<lb/>
 Washington D.C.</p>
 
-<p>Subject<lb/>
-Request for blanks Forms, Flags,
-Boat, Flag staff &amp;a</p>
+<p>Subject</p>
 
-<p>Encloses.<lb/>
-Statement of the conditions in which
+<p>Request for blanks Forms, Flags,
+Boat, Flag Staff &amp;a</p>
+
+<p>Encloses.</p>
+
+<p>Statement of the conditions in which
 the Consular archives &amp;a are.</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0146.002"/>
-<note>No 5</note>
+
+<note>No <del>10</del> 5</note>
 
 <opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
 June 29th 1882.</dateline>
 
-<address><addrLine>The Hon. J.C. Bancroft Davis</addrLine>
+<address><addrLine>The Hon. J. C. Bancroft Davis</addrLine>
 <addrLine>Asst. Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </opener>
-<p>Sir<lb/>
-I have the honor most respectfully
+
+<p>Sir</p>
+
+<p>I have the honor most respectfully
 to request that the U.S. Govt. may
 furnish this consulate with a boat
-oars and sail. My seasons for asking
+oars and sail. My reasons for asking
 such are: that a boat here is the most
-essential piece of furniture this consulate
+essential piece of furniture this Consulate
 could have, as to travel by land to the
 places under this jurisdiction, in a
-hammock cost too much, and being
-a seafearing man; I will be able to
+Hammock cost too much, and being
+a seafearing man, I will be able to
 manage a boat to any point of my 
-consular supervision with more speed
+Consular supervision with more speed
 and less expenses, when such is required
 for the benefits of Americans and the
 govt I have the honor to represent here.</p>
 
 <closer><salute>I have the honor to be<lb/>
-Sir <lb/>
+Sir<lb/>
 Your obedient servant</salute>
 <signed>L. de R. du Verge<lb/>
 U.S. Consul</signed></closer>

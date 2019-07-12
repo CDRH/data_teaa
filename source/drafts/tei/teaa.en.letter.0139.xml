@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from du Verge to J. C. Bancroft Davis, March 10, 1882</title>
+<title>Dispatch from L. de R. du Verge to Bancroft Davis, March 10, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from du Verge to J. C. Bancroft Davis</title>
+<title level="a">Dispatch from L. de R. du Verge to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,14 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Verge, L. de R. du</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Baltimore (Md)</term>
+<term>Isle de France</term>
+<term>Portugal</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +93,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-03-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 <date when="1882-03-18"/>
 </correspAction>
@@ -113,9 +113,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-11" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,28 +126,31 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0139.001"/>
-<note>Bond appvd Oath to Bartle</note>
 
 <note>Department of State Received Mar 18 1882</note>
-<note>Dr St Clair</note>
 
-<opener>United States Consulate<lb/>
+<p>United States Consulate<lb/>
 at St Paul de Loanda W.C.A.<lb/>
-March 10th 1882</opener>
+March 10th 1882</p>
 
-<p>L.de R. du Verge<lb/>
+<p>L. de R. du Verge<lb/>
 to Dept of State</p>
 
-<p>Subject
-Acceptance of Appointment</p>
+<p>Subject.</p>
 
-<p>Encloses
-oath of office and official bond.</p>
+<p>Acceptance of Appointment</p>
+
+<p>Encloses</p>
+
+<p>Oath of office and official bond.</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0139.002"/>
-<note>No <unclear>21</unclear></note>
+
+<note>No 2</note>
 
 <opener><dateline>United States Consulate<lb/>
 at St Paul de Loanda W.C.A.<lb/>
@@ -155,18 +158,19 @@ March 10th 1882</dateline>
 
 <address><addrLine>The Honorable</addrLine>
 <addrLine>J. C. Bancroft Davis</addrLine>
-<addrLine>Asst. Sectry. of State</addrLine>
+<addrLine>Asst Sect. of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </opener>
 
-<p>Sir<lb/>
-I have the honor to 
+<p>Sir</p>
+
+<p>I have the honor to 
 acknowledge the receipt of formal
-appointment paper No..  2. &amp; 3. together
-with forms of oath and official
+appointment paper Ns 1, 2, &amp; 3, together
+with forms of oath, and official
 bonds. In reply I have the honor
 to hereby accept the office of 
-Consul of the United States at St.
+Consul of the United States at St
 Paul de Loanda.</p>
 
 <p>I have also to state that I was born
@@ -180,17 +184,19 @@ my residence is the city of
 Baltimore and that I have
 
 <pb facs="teaa.en.letter.0139.003"/>
+
 never resided in Portugal or 
-any of its dependencies</p>
+any of its dependencies.</p>
 
 <closer><salute>I have the honor to be<lb/>
 Sir <lb/>
-Your obt servt.</salute>
+Your obt svt</salute>
 <signed>L. de R. du Verge</signed>
 
 <note>Enclosures<lb/>
 Offical Bond and oath of office.</note>
 </closer>
+
 </div1>
 </body>
 </text>

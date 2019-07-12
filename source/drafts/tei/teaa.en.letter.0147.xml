@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from du Verge to J. C. Bancroft Davis, June 30, 1882</title>
+<title>Dispatch from L. de R. du Verge to Bancroft Davis, June 30, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from  du Verge to J.C. Bancroft Davis</title>
+<title level="a">Dispatch from L. de R. du Verge to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,16 +71,27 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Dantas, António Eleutério</term>
+<term ref="http://viaf.org/viaf/11653727">Mayo, Dermot Robert Wyndham Bourke, Earl of, 1851-1927</term>
+<term ref="http://viaf.org/viaf/85145541737596601775">Neto, José Sebastião 1841-1920</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Cape of Good Hope</term>
+<term>Huíla (Angola)</term>
+<term>Mossâmedes (Angola)</term>
+<term>South America</term>
+<term>St. Helena</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Great Britain</term>
+<term>Portugal</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Boer</term>
 </keywords>
     
 <keywords scheme="original" n="language">
@@ -90,17 +102,18 @@
 <term/>
 </keywords>
 
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-06-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -108,9 +121,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-12" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -121,34 +134,37 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0147.001"/>
-<note>See Instructions
-of 26 Mar -81
-May 83 to 
-Lisbon</note>
-<note>Ackd Oct 20/82</note>
-<note>Department of State  Recieved Aug 31 1882</note>
-<note>No 6</note>
+
+<note>Department of State Received Aug 31 1882</note>
+
+<note>Ackd Oct. 20/82</note>
+
+<note>No <del>11</del> 6</note>
 
 <p>United States Consulate<lb/>
 St. Paul de Loanda<lb/>
-S.W.C. Africa <lb/>
-June 30</p>
+S.W.C. Africa</p>
 
 <p>L. de R. du Verge<lb/>
 to Dept of State<lb/>
 Washington D.C.</p>
 
-<p>Subject<lb/>
-Acting governor &amp;a. and receipt of
-Circulars and unoffical.</p>
+<p>Subject</p>
 
-<p>Encloses<lb/>
-Miscellaneous account of City &amp;a.</p>
+<p>Acting governor &amp;a. and receipt of
+Circulars and unofficial.</p>
+
+<p>Encloses</p>
+
+<p>Miscellaneous account of City &amp;a.</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0147.002"/>
-<note>No 6</note>
+
+<note>No <del>12</del> 6.</note>
 
 <opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
@@ -158,30 +174,32 @@ June 30th 1882.</dateline>
 <addrLine>Asst. Secretary of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </opener>
-<p>Sir<lb/>
-Since the death of General Dantas govt. genl.
-of Angola and the provinces, Joseph, Lord Bishop
-of Angola, has been the acting govenor and
+
+<p>Sir</p>
+
+<p>Since the death of General Dantas Govr Genl
+of Angola and the provinces, "Joseph," Lord Bishop
+of Angola, has been the acting governor and
 President of the Council composed of four;
 Two british gun boats and a corvette left here
-for the Cape of Good Hope, St Helena, and Sth.
-America-- The Irish Earl of Mayo with 
+for the Cape of Good Hope, St Helena, and Sth
+America. The Irish Earl of Mayo with 
 two others, left for Mossamedes and  "Huïlla"
 the new "Boër" settlement in the Portuguese
 possession of the South West Coast of Africa.
 on a supposed shooting and british geographical
 expedition; We have now in Port, one frigate
-two corvettes and a portugese gun boat the 
+two corvettes and a Portuguese gun boat the 
 latter will leave for the Congo on the 5th of 
 July. The city of Loanda is for the present
-in a very sickly state, and the billeous fever
+in a very sickly state, and the billious fever
 now existing is very dangerous for Europeans
 who have resided here for a few years, The
 
-<pb facs="teaa.en.letter.0147.003"/>
-<fw><del>13</del></fw>
+<pb facs="teaa.en.letter.0147.003"/><!-- START HERE -->
+
 change of air further North or South is highly
-recommanded by the principal physicians
+<sic>recommanded</sic> by the principal physicians
 of this place. The living in St Paul de 
 Loanda is very high, and a man; particularly
 a consul here with only $1000. a year, can

@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to J. C. Bancroft Davis, June 12, 1882 </title>
+<title>Dispatch from Robert Scott Newton to Bancroft Davis, June 12, 1882 </title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to J. C. Bancroft Davis</title>
+<title level="a">Dispatch from Robert Scott Newton to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -68,14 +69,18 @@
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
 </keywords>       
-    
+   
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Dantas, António Eleutério</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Lisbon (Portugal)</term>
+<term>St. Paul de Loanda (Angola)</term>
+</keywords>
 
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -95,11 +100,13 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-06-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 <date when="1862-08-31"/>
 </correspAction>
@@ -108,9 +115,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-11" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -121,7 +128,7 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0143.001"/>
-<note>Ack</note>
+
 <note>Department of State Received Aug 31 1882</note>
 
 <note>No 99</note>
@@ -129,22 +136,26 @@
 <p>United States Consulate
 at St Paul de Loanda</p>
 
-<p>Mr Robert S Newton
+<p>Mr Robert S Newton<lb/>
 To the Department of State</p>
 
-<p>Subject<lb/>
-Death of Governor General 
+<p>Subject</p>
+
+<p>Death of Governor General 
 Dantas</p>
 
-<p>Abstract of Contents<lb/>
-Died on 7th. The Bishop
-&amp; others forming a commission
+<p>Abstract of Contents</p>
+
+<p>Died on 7th. The Bishop
+&amp; others forming a Commission
 take charge of the Government
 of the Province until arrival
 of new Governor from Lisbon</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0143.002"/>
 
 <note>No 99</note>
@@ -153,8 +164,9 @@ of new Governor from Lisbon</p>
 St Paul de Loanda<lb/>
 12th June 1882</dateline></opener>
 
-<p>Sir,<lb/>
-I have the honor to
+<p>Sir,</p>
+
+<p>I have the honor to
 advise the death of Governor
 General Dantas who died here
 on the 7th instant from an
@@ -168,17 +180,18 @@ the same.</p>
 
 <p>The Government of
 the Province is now in the
-hands of a commission
+hands of a Commission
 composed of the Bishop
 of the Province, The Supreme
-Judge, The commander of
-the military forces, and
+Judge, The Commander of
+the Military forces, and
 the Secretary General of the
 Province, who will hold
 power until a new
 <catchwords>Governor</catchwords>
 
 <pb facs="teaa.en.letter.0143.003"/>
+
 Governor arrives from
 Lisbon.</p>
 
@@ -189,8 +202,7 @@ is expected.</p>
 Sir,<lb/>
 Your most obedient<lb/>
 Servant,</salute>
-
-<signed>Rob S Newton<lb/>
+<signed>Robt S Newton<lb/>
 Vice Consul</signed>
 
 <address><addrLine>To the</addrLine>
@@ -198,6 +210,7 @@ Vice Consul</signed>
 <addrLine>Washington</addrLine>
 <addrLine>D.C.</addrLine></address>
 </closer>
+
 </div1>
 </body>
 </text>
