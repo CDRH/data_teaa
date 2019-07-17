@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from du Verge to William Hunter, December 14, 1882</title>
+<title>Dispatch from L. de R. du Verge to William Hunter, December 14, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from du Verge to William Hunter</title>
+<title level="a">Dispatch from L. de R. du Verge to William Hunter</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">4</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,10 +75,16 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Ambriz (Angola)</term>
+<term>Benguela (Angola)</term>
+<term>Mossâmedes (Angola)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -90,31 +97,29 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-12-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>William Hunter</persName>
-<placeName>Washington D.C.</placeName>
+<persName>Hunter, William</persName>
+<roleName>Acting U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1883-03-02"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-17" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,44 +130,54 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0157.001"/>
-<note>Hold for <unclear/> of Comd of the <unclear/></note>
-<note>No 30</note>
+
 <note>Received Feb 10 1882</note>
+
+<note>ackd Mch <unclear>3</unclear> '83</note>
+
+<note>No 30</note>
 
 <p>Consulate of the United States of America
 at St. Paul de Loanda S.W.C. Africa</p>
 
-<p>L. de R. du Verge
-to State Department
+<p>L. de R. du Verge<lb/>
+to State Department<lb/>
 Washington D.C.</p>
 
-<p>Subject
-acknowledgment of Despatch No 10</p>
+<p>Subject</p>
 
-<p>Encloses
-Reasons why agents were appointed at 
+<p>Acknowledgment of Despatch No 10</p>
+
+<p>Encloses</p>
+
+<p>Reasons why agents were appointed at 
 Ambriz. Benguella &amp; particularly Mossamedes.</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0157.002"/>
-<p>United States Consulate
+
+<opener><dateline>United States Consulate
 St Paul de Loanda
-December 14th 1882</p>
+December 14th 1882</dateline>
 
-<p>Hon: Wm. Hunter
-Asst. Sectry of State.
-Washington D.C.</p>
+<address><addrLine>Hon: Wm. Hunter</addrLine>
+<addrLine>Asst. Secty of State.</addrLine>
+<addrLine>Washington D.C.</addrLine></address>
+</opener>
 
-<p>Sir
-I have the honor to acknowledge the receipt of 
+<p>Sir</p>
+
+<p>I have the honor to acknowledge the receipt of 
 your desparch No 10, in regard to Agents appointed
-by me until approved by the Hon: Sectry of State;
+by me until approved by the Hon: Secty of State;
 it was and still is with the intention of promoting
 Am: Commerce in this part of the world, beside
-putting a stop to run away seaman, for abuse
-received on board Am: whalers, and while 
-enforcing the U.S. law over this jurisdiction, to 
+putting a stop to runaway seaman, for abuse
+received on board Am: whalers: and while 
+enforcing the U.S. Law over this jurisdiction, to 
 give prompt justice to seamen, masters or officers.
 "Mossamedes" will in a few years become important
 large fields of wheat, corn, sugar cane, and 

@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from du Verge to J.C. Bancroft Davis, November 12, 1882 </title>
+<title>Dispatch from L. de R. du Verge to Bancroft Davis, November 12, 1882 </title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from L de R du Verge to J.C. Bancroft Davis</title>
+<title level="a">Dispatch from L. de R. du Verge to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">4</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,18 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Baxter</term>
+<term>Bolter, J. B.</term>
+<term>Swiss, J. Mac</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Ambriz (Angola)</term>
+<term>Balinbu (Angola)</term>
+<term>Benguela (Angola)</term>
+<term>Gaboon</term>
+<term>Mossâmedes (Angola)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +97,28 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge, L de R.</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-11-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J.C. Bancroft</persName>
-<placeName>Washington D.C.</placeName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-17" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,61 +129,65 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0155.001"/>
-<p>United States Consulate.
-St Paul de Loanda
-November 12th, 1882</p>
 
-<p>Hon: John Davis
-Asst. Sectry of State
-Washington D.C.</p>
+<opener><dateline>United States Consulate.<lb/>
+St Paul de Loanda<lb/>
+Novbr 12th, 1882.</dateline>
 
-<p>Sir
-I have the honor to State theat by reports receoved from the 
+<address><addrLine>Hon: John Davis</addrLine>
+<addrLine>Asst. Secty of State</addrLine>
+<addrLine>Washington D.C.</addrLine></address>
+</opener>
+
+<p>Sir</p>
+
+<p>I have the honor to State that by reports received from the 
 consular agent at Mossamedes that the Am. Whaling
-<unclear/>"Herculus" Capt. J. Mac Smis and "Millou" capt
-J.B. Bolter were at that port during the month of 
-October also that the Millou ran on shore since, but
+<unclear>Rks</unclear> "Herculus" Capt. J. Mac <unclear>Swiss</unclear> and "Milton" Capt
+J. B. Bolter were at that port during the month of 
+October, also that the Milton ran on shore since, but
 got off alright. Mossamedes was infected also with 
 small pox. The report from Benguela is only 
 mentioning that several of the Am: missionaries
-from Balinbu were at Benguela buying some goods 
+from <unclear>Balinbu</unclear> were at Benguela buying some goods 
 to Barter in the interior. The consul agent at 
-Ambriz informs me of the arrival of Mr. Baxter
-an Am missionary from Gaboore who came there by
-reason of ill health: beside writting the following <unclear/>:
+Ambriz informs me of the arrival of Mr Baxter
+an Am Missionary from Gaboon who came there by
+reason of ill health: beside <sic>writting</sic> the following viz:
 "Am: trading vessels may be said to have ceased
 running to this part of the coast altogether with
-their usual cargo such as lumber, tobacco, came
-far &amp;a &amp;a But there is another important hand 
+their usual cargo such as lumber, tobacco, <unclear>came
+far</unclear> &amp;a &amp;a But there is another important hand 
 of our trade and I have no doubt whatever
 if the matter is properly looked into, it 
 might eventually lead to the opening 
 
 <pb facs="teaa.en.letter.0155.002"/>
+
 up of an extensive commerce.</p>
 
 <p>I mean the manufacture of common ordinary cloth
 suitable for this trade, such as greys and stripped 
 Domestics, why cannot the American Mills
-compete with the Manchester, and with the cotton
-ready to their hands. Some few years ago they
+Compete with the Manchester, and with the cotton
+ready to their hands. Some few years ago, they
 did compete successfully with Manchester; actually 
-exporting Am: made greys to Manchester for sale.
-I am at a loss to know why this was never <unclear>encargo</unclear>
-unless, the Manchester men cut their prices of one
+exporting Am: made greys to Manchester for sale!
+I am at a loss to know why this was never <unclear extent="one word"/>
+unless the Manchester men cut their prices of one
 that it discouraged the American manufacturer
 from persevering. Should you deem my idea 
 of any value, I shall be glad to forward you 
 samples of goods indicated, and would feel
 desirous of knowing at what prices in English
 currency they could be delivered to Liverpool for 
-a shipment; or bought <unclear/> direct from the U.S."</p>
+US shipment; or bought and direct from the U.S."</p>
 
-<p>I have the honor to be 
-Sir
-Your obedient servant
-L de R. du Verge
-US Consul.</p>
+<closer><salute>I have the honor to be<lb/>
+Sir<lb/>
+Your most obedient servant</salute>
+<signed>L. de R. du Verge<lb/>
+US Consul.</signed></closer>
 
 </div1>
 </body>

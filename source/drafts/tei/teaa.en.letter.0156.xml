@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from du Verge to William Hunter, December 7 1882</title>
+<title>Dispatch from L. de R. du Verge to William Hunter, December 7 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from du Verge to William Hunter</title>
+<title level="a">Dispatch from L. de R. du Verge to William Hunter</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">4</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,8 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Saint Thomas and Prince</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,31 +91,28 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>de Verge</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-12-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>William Hunter</persName>
-<placeName>Washington D.C.</placeName>
+<persName>Hunter, William</persName>
+<roleName>Acting U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-17" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -123,61 +121,69 @@
 <body>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0156.001"/>
+
 <note>No 29</note>
-<note>Received February 10, 1882</note>
 
-<p>Consulate of the United States of America 
-at St Paul de Loandas W.C.A.</p>
+<note>State Department Received February 10, 1882</note>
 
-<p>L de R. de Verge
-to State Department
+<p>Consulate of the United States of America<lb/> 
+at St Paul de Loanda W.C.A.</p>
+
+<p>L de R. du Verge<lb/>
+to State Department<lb/>
 Washington D.C.</p>
 
-<p>Subject
-Circulars</p>
+<p>Subject</p>
 
-<p>Incloses
-Acknowledgment of the <unclear>same</unclear> and trade on 
+<p>Circulars</p>
+
+<p>Encloses</p>
+
+<p>Acknowledgment of the same and trade on 
 Petroleum.</p>
+
 </div1>
 
 <pb facs="teaa.en.letter.0156.002"/>
+
 <div1 type="document" xml:lang="en">
 
-<p>United States Consulate
-St Paul de Loanda
-December 7th 1882</p>
+<opener><dateline>United States Consulate<lb/>
+St Paul de Loanda<lb/>
+December 7th 1882</dateline>
 
-<p>Hon: W: Hunter
-Acting Secretary of State
-Washington D.C.</p>
+<address><addrLine>Hon: W: Hunter</addrLine>
+<addrLine>Acting Secretary of State</addrLine>
+<addrLine>Washington D.C.</addrLine></address>
+</opener>
 
-<p>Sir
-I have the honor to acknowledge the receipt of your 
+<p>Sir</p>
+
+<p>I have the honor to acknowledge the receipt of your 
 2 circulars dated Sept 5th and 13th 1882. In 
 answer to your circular of Sept. 13th I would 
 respectfully state that I have already brought
 the subject before the civil and military goods of 
-Angola with the Islands of St. Thome and <unclear>Princess</unclear>
+Angola with the Islands of St. Thomé and Princess
 included, offering them the best of refined Petroleum
 for city and military use, as mentioned to the state
-Dept. in my despatch No 6. that Kerosene oil was
+Dept. in my despatch No 6. "That Kerosene oil was
 in great demand here and all over this coast.
-But the shippers and masters of am: vessels should 
-be very careful how they deal with the whites and 
-blacks of this part of the country, Am: commerce
-has almost been down by Am: shippers and <unclear/>
-own fault, as reported in my despatch no 17.
+But the shippers and masters of Am: vessels should 
+be very careful how they deal with the Whites and 
+Blacks of this part of the country, Am: commerce
+has almost run down by Am: shippers and <unclear extent="one word"/>
+own fault, as reported in my despatch No 17.
 Another important trade will soon be of 
 farming implements of all kinds.</p>
 
-<p>I have the honor to be 
-Sir
-Your obedient servant
-L de R. du Verge
-U.S. Consul.</p>
-
+<closer><salute>I have the honor to be<lb/>
+Sir<lb/>
+Your obedient servant</salute>
+<signed>L. de R. du Verge<lb/>
+US Consul</signed></closer>
 
 </div1>
 </body>
