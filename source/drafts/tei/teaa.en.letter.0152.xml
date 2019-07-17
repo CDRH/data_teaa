@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from du Verge to J. C. Bancroft Davis, August 14, 1882</title>
+<title>Dispatch from L. de R. du Verge to Bancroft Davis, August 14, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from du Verge to J. C. Bancroft Davis</title>
+<title level="a">Dispatch from L. de R. du Verge to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +58,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,10 +74,14 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Bailundu (Angola)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -90,21 +94,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-08-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +113,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-16" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,40 +127,44 @@
 
 <pb facs="teaa.en.letter.0152.001"/>
 
-<note>File</note>
-<note><unclear/></note>
-<note><del>32</del> No 12</note>
 <note>Department of State Received Oct 7 1882</note>
 
-<p>United States Consulate<lb/>
+<note><del>32</del> No 12</note>
+
+<p>United States Consulate
 at St Paul de Loanda</p>
 
 <p>L. de R. du Verge<lb/>
 to Dept of State</p>
 
-<p>Subject<lb/>
-American mission at Bailundo</p>
+<p>Subject</p>
 
-<p>Encloses.<lb/>
-News received from the same.</p>
+<p>American mission at Bailundu</p>
+
+<p>Encloses.</p>
+
+<p>News received from the same.</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0152.002"/>
-<note>33</note>
 
 <opener><dateline>United States Consulate<lb/>
 St Paul de Loanda<lb/>
 August 14th 1882</dateline>
 
-<address><addrLine>To Honoble. J.C. Bancroft Davis</addrLine>
-<addrLine>Asst. Secty, of State</addrLine>
+<address><addrLine>To Honoble. J. C. Bancroft Davis</addrLine>
+<addrLine>Asst. Secty of State</addrLine>
 <addrLine>Washington D.C.</addrLine></address>
 </opener>
-<p>Sir
-I have the honor to state that I have
-just received a letter dated Bailundo S.W.
-Africa signed Francis D. Nichols secty. of 
+
+<p>Sir</p>
+
+<p>I have the honor to state that I have
+just received a letter dated Bailundu S.W.
+Africa signed Francis <unclear>O.</unclear> Nichols secty. of 
 the Am: Mission in which he states that
 he and all his friends there are well and 
 enjoying good health, also that the country 
@@ -168,17 +173,17 @@ the natives very kind, beside abundant
 game.</p>
 
 <p>The Portuguese authorities agree with Mr.
-Nichols statement and told me about
+Nichols statement, and told me about
 that country few weeks ago.</p>
 
 <closer><salute>I have the honor to be Sir<lb/>
 Respectfully<lb/>
 Your obedient servant</salute>
-<signed>L de R de Verge<lb/>
-U.S. Consul.</signed></closer>
+<signed>L de R du Verge<lb/>
+US Consul.</signed></closer>
+
 </div1>
 </body>
 </text>
 
 </TEI>
-

@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from du Verge to J. C. Bancroft Davis, August 7, 1882</title>
+<title>Dispatch from L. de R. du Verge to Bancroft Davis, August 7, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from du Verge to J.C. Bancroft Davis</title>
+<title level="a">Dispatch from L. de R. du Verge to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,14 +71,25 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Simonds</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry M. (Henry Morton), 1841-1904</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>Banana (Congo)</term>
+<term>Loango</term>
+<term>Madeira</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Belgium</term>
+<term>Germany</term>
+<term>Great Britain</term>
+<term>Netherlands</term>
+<term>Portugal</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -94,12 +106,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-08-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C. </placeName>
 </correspAction>
 </correspDesc>
@@ -107,9 +121,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-16" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -121,63 +135,66 @@
 
 <pb facs="teaa.en.letter.0148.001"/>
 
-<note>Ackd<lb/>
-Oct. 20/82</note>
-<note>Mr Clements</note>
 <note>Department of State Received Oct 7 1882</note>
-
+<note>Ackd Oct. 20/82</note>
 <note>No 8</note>
 
-<p>United States Consulate<lb/>
+<p>United States Consulate 
 at St Paul de Loanda</p>
 
 <p>L. de R. du Verge<lb/>
-to Depart. of State</p>
+to Departt of State</p>
 
-<p>Subject<lb/>
-Arrival of Henry M. Stanley &amp; wreck
+<p>Subject</p>
+
+<p>Arrival of Henry M. Stanley &amp; wreck
 of British African Mail S.S. "Ethiopia"</p>
 
-<p>Encloses<lb/>
-Accounts of the same</p>
+<p>Encloses</p>
+
+<p>Accounts of the same</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0148.002"/>
+
 <note>20.</note>
 
 <opener><dateline>United States Consulate<lb/>
 at St Paul de Loanda S.W.C. Africa<lb/>
-Augt. 7th 1882</dateline>
+Augt. 7th 1882.</dateline>
 
 <address><addrLine>To</addrLine>
-<addrLine>Honorable J.C. Bancroft Davis</addrLine>
+<addrLine>Honorable J. C. Bancroft Davis</addrLine>
 <addrLine>Asst. Secty. of State</addrLine>
 <addrLine>Washington D.C.</addrLine>
 </address>
 </opener>
-<p>Sir<lb/>
-I have the honor to state that Mr. Henry 
+
+<p>Sir</p>
+
+<p>I have the honor to state that Mr. Henry 
 M. Stanley arrived here on board the Belgian
 Steamer "Heron" from Banana, very ill on
 the 25th of July, and has resided since at
 the Netherland and German Consulate.
-He wll leave by the Portuguese Mail steamer
-for Maderia, and perhaps Europe.
+He will leave by the Portuguese Mail steamer
+for Madeira, and perhaps Europe.
 His sickness has prevented me so far 
 obtaining from him any information that 
-may be of value to the State Depart.</p>
+may be of value to the State Dept.</p>
 
 <p>I have also the honor to report that the 
 loss of the British African Mail S.S.
 "Ethiopia" Capt Simonds, which struck
 on the Indian Rocks off Indian point
-Latt. 4'" 32' South, and 11" 45' long East
+Latt. 4" 32' South, and 11" 45' long East
 on the 29th of July 1882 7 a.m.
 The steamer was abandoned by force
 
 <pb facs="teaa.en.letter.0148.003"/>
-<fw><unclear>21</unclear></fw>
 
 to the natives by her Capt. officers and crew
 comprising 79. souls.</p>
@@ -188,27 +205,27 @@ she had on board 2 packages addressed
 to this consulate which are lost; and
 having not received any news from the
 U.S. last month I am afraid that it
-might have been some blanks forms or
-others sent to me by the state Dept.
+might have been some blank forms or
+others sent to me by the State Dept.
 The Indian point, and shoal which run in
 a W.S.W. direction to a distance of 1 3/4
 miles has at its furthermost end many
 sharp pointed rocks on which the 
 "Ethiopia" was wrecked: The loss
-of said steamer happening in day 
-time, calm weather and smooth seas
+of said Steamer happening in day 
+time, calm weather and smooth sea
 cannot but be attributed to gross 
 carelessness, and rather too much
 trust in the part of the master to 
 some African white traders of Loango
 a Trading settlement 3 miles off Indian
-point passengers with him and 
+Point passengers with him and 
 representing themselves as thoroughly
 acquainted with the coast and
 
 <pb facs="teaa.en.letter.0148.004"/>
-<fw>22.</fw>
-particulary the Indian point and shore.
+
+particularly the Indian Point and shore.
 The crew now here under the British
 Consul's care are far from behaving
 themselves and are daily and nightly
@@ -221,7 +238,8 @@ of them may soon be in the hospital</p>
 Sir<lb/>
 Your obedient servant</salute>
 <signed>L de R. du Verge<lb/>
-U.S. Consul.</signed></closer>
+US Consul.</signed></closer>
+
 </div1>
 </body>
 </text>

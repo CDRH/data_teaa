@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from du Verge to J. C. Bancroft Davis, August 12, 1882</title>
+<title>Dispatch from L. de R. du Verge to Bancroft Davis, August 12, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from du Verge to J. C. Bancroft Davis</title>
+<title level="a">Dispatch from L. de R. du Verge to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,8 +75,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
-
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +90,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-08-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 <date when="1882-10-07"/>
 </correspAction>
@@ -113,9 +110,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-16" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -127,29 +124,34 @@
 
 <pb facs="teaa.en.letter.0151.001"/>
 
-
-<note>ansd flag &amp; arms 
-ordered 
-Oct 20/82</note>
 <note>State Department Received Oct 7 1882</note>
+
+<note>ansd<lb/>
+flag &amp; arms ordered<lb/> 
+Oct. 20/82</note>
 
 <note>No <del>30</del> 11</note>
 
 <p>United States Consulate<lb/>
 at St Paul de Loanda</p>
 
-<p>L de R. du Verge <lb/>
+<p>L. de R. du Verge<lb/>
 to Dept. of State</p>
 
-<p>Subject <lb/>
-Consider Regulations, Flags &amp;a.</p>
+<p>Subject</p>
 
-<p>Encloses<lb/>
-Request and purpose for the same</p>
+<p>Consider Regulations, Flags &amp;a.</p>
+
+<p>Encloses</p>
+
+<p>Request and purpose for the same</p>
+
 </div1>
 
 <div1 type="document" xml:lang="en">
+
 <pb facs="teaa.en.letter.0151.002"/>
+
 <opener><dateline>United States Consulate<lb/>
 St. Paul de Loanda<lb/>
 Augt. 12th 1882</dateline>
@@ -160,27 +162,29 @@ Augt. 12th 1882</dateline>
 <addrLine>Washington D.C.</addrLine></address>
 </opener>
 
-<p>Sir<lb/>
-I have the honor most respectfully to 
-request that blank forms and stationary <note>send</note>
+<p>Sir</p>
+
+<p>I have the honor most respectfully to 
+request that blank forms and stationary 
 be forwarded to this consulate as soon as
-possible besides Eight U.S. Flags; <del>Two </del> <note>one for consulate only</note>
+possible besides Eight U.S. Flags; Two
 for this consulate which is in need of the 
-same, and six other for the Consular <note>send</note>
-agents on this coast, together with six
-Consular Regulations; for which this <note>send</note>
+same, and six other for the Consular 
+Agents on this coast, together with six
+Consular Regulations; for which this
 consulate will be responsible.</p>
 
-<p>I would also respectfully ask that 
-another U.S. Coat of arms be forwarded <note>send</note>
+<p>I would also respectfully aske that 
+another U.S. Coat of arms be forwarded
 to me, as the old one is now unfit for
 use</p>
 
 <closer><salute>I have the honor to be Sir<lb/>
 Respectfully<lb/>
 Your obedient servant</salute>
-<signed>L de R. du Verge<lb/>
-U.S. Consul</signed></closer>
+<signed>L de R du Verge<lb/>
+US Consul</signed></closer>
+
 </div1>
 </body>
 </text>
