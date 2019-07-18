@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from du Verge to J. C. Bancroft Davis, December 14, 1882</title>
+<title>Dispatch from L. de R. du Verge to Bancroft Davis, December 14, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from du Verge to J. C. Bancroft Davis</title>
+<title level="a">Dispatch from L. de R. du Verge to Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">4</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +71,24 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Fernandes, Augusto</term>
+<term>Foster, Thomas</term>
+<term>Howland, Walter F.</term>
+<term>Jason, Augustus</term>
+<term>Miller, David</term>
+<term>Sims, Charles</term>
+<term>Torres, João L.</term>
+<term>Williams, Henry</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Lisbon (Portugal)</term>
+<term>Mossâmedes (Angola)</term>
+<term>St. Paul de Loanda (Angola)</term>
+</keywords>
 
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +103,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-12-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +122,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-17" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -126,38 +136,145 @@
 
 <pb facs="teaa.en.letter.0158.001"/>
 
-<p>United States Consulate
-St Paul de Loanda
-December 14th 1882</p>
+<p>United States Consulate<lb/>
+St Paul de Loanda<lb/>
+Dec 14th 1882.</p>
 
-<p>To Hon John Davis
-Asst. Sectry. of State
+<p>To Hon John Davis<lb/>
+Asst. Secty. of State<lb/>
 Washington D.C.</p>
 
-<p>Sir
-I have the honor to enclose herewith a translated copy of the 
-letter from P.L. Jones Esq. of the one of Thomas Foster's master
-of <unclear/> Alice Knowles given to Henry Williams, sent on
+<p>Sir</p>
+
+<p>I have the honor to enclose herewith a translated copy of the 
+letter from J. L. Torres Esqr one of Thomas Foster's master
+of Bark Alice Knowles given to Henry Williams, sent on
 shore at Mossamedes for sickness. I also enclose his
 affidavit, and those of David Miller, Charles Sims,
-&amp; Augustus Jasan; runaway am: seamen; Charles Sims
+&amp; Augustus Jasan; runaway Am: seamen; Charles Sims
 and Augustus are also sick at present, and the
 Capt of the Portuguese steamer does not care to
 take them on board in their present condition.
-They are now upon this consualte for over a month, and
-not expecting any am: vessel for the present, I shall be
-obliged to send them by some portuguese merchant, vessel
+They are now upon this consulate for over a month, and
+not expecting any Am: vessel for the present, I shall be
+obliged to send them by some Portuguese merchant, vessel
 to Lisbon, if the Capt will take them, these men have not
 any clothes or shoes, but those given to them by this 
 consulate</p>
 
-<p>I have the honore to be Sir
-Respectfully
-Your obedient Servant
-L de R du Verge
-US Consul.</p>
+<closer><salute>I have the honor to be Sir<lb/>
+Respectfully<lb/>
+Your obedient servant</salute>
+<signed>L. de R. du Verge<lb/>
+US Consul</signed></closer>
 
 </div1>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.en.letter.0158.002"/>
+
+<p>Translation<lb/>
+To L. de R. du Verge Esqre<lb/>
+United States Consul Loanda.</p>
+
+<p>Mossamedes 1st of November 1882.</p>
+
+<p>Without any favor from you to answer, I satisfy my last of the
+8th of october per S.S. "Benguella." "Samples of produce
+from the district": Enclosed please find a bill of lading
+for a box of samples of the produce of Mossamedes, which
+will be sent on by the first packet, due in a few days, the
+said samples consist of:</p>
+
+<p>Orchilla<lb/>
+Beans<lb/>
+Indn Corn<lb/>
+Rum<lb/>
+Wheat<lb/>
+Almeidina</p>
+
+<p>With regard to these samples, I must say 
+that Almeidina, is a produce from which
+50 P.C. of good Indian Rubber is 
+<unclear>exhacted</unclear>, <unclear>what</unclear> regards to wheat, this 
+country has not produced anything to 
+speak of, as they have not turned their 
+attention to its cultivation, but lately and it has been
+sown to considerable extent, and they sanguinely expect
+a great result.</p>
+
+<p>Produce exported from this Dispatch: as follows</p>
+
+<p>Hides<lb/>
+Wax<lb/>
+Ivory<lb/>
+Dried Fish<lb/>
+Brine Do<lb/>
+Orchilla<lb/>
+Almeidina<lb/>
+Cotton<lb/>
+Vegetables<lb/>
+Fruits<lb/>
+Oxen<lb/>
+Cows<lb/>
+Sheep<lb/>
+Rum<lb/>
+Garden produce, Beans
+peas, &amp;a &amp;a Wheat sown as stated 
+above</p>
+
+<pb facs="teaa.en.letter.0158.003"/>
+
+<p>"American Shipping" The Am: Ship "Shelton" Capt. S.B.
+Potter, entered this port on the 7th of october sailed on 
+the 19th of the same month; Whaling?
+On the 12th of the same month entd America Bark
+"Alice Knowles" Capt Thomas Foster, came in to request
+and returned  Whaling on the 19th of the same. 
+On the 10th of the same month entered Am. Ship
+"Eliza Adams" Capt Walter F. Howland; also came in
+to refresh and returned Whaling on the 27th ditto.
+From the Bark "Alice Knowles" the Sailor Henry
+Williams was landed sick, and who will go 
+on to your City by the first packet, leaving a 
+Certificate from this agency dated october 26th 1882.
+The "Eliza Adams" shipped  on the 25th ult. 4 sailors,
+2 of which ran away immediately after signing
+their articles and receiving 8 dollars and 50 cents
+in advance; they were arrested 2 days after 
+the sailing of the ship, and I intend
+sending them on to your consulate by first
+favorable opportunity that you may dispose
+of them as you may think fit; It is probable
+that I shall have to advance the money for
+their passage of which I will duly advise
+you. Their names are "David Miller" and
+"Charles Sims". Another sailor, by name of 
+"Augusto Fernandes" ran away from the said 
+ship, and came to day to present himself to 
+me; I shall send him also to you with 
+
+<pb facs="teaa.en.letter.0158.004"/>
+
+with the other 2. and advise the amount of passages
+and expences which I have advanced them here
+It seems to me proper to send them to Loanda
+that it may be known hereafter to all others
+coming here in future, that such acts will not 
+be countenanced without being punished
+according to Law.</p>
+
+<p>Being all for the present, I remain with all
+due respect and consideration<lb/>
+"Signed" João L. Torres<lb/>
+U.S. Consul Agent</p>
+
+<p>P.S. The sailor above described as "Augustus Fernandes,
+is Augustus Jason".</p>
+
+</div1>
+
 </body>
 </text>
 
