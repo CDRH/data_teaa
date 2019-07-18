@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0109">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0104">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert S. Newton, August 24, 1877</title>
+<title>Despatch from Custódio José Duarte, September 28, 1876</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0109</idno>
+<idno type="project">teaa.en.letter.0104</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,11 +43,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert S. Newton</title>
+<title level="a">Despatch from Custódio José Duarte</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">3</biblScope>
-<date when="1877-08-24">August 24, 1877</date>
+<date when="1876-09-28">September 28, 1876</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -71,13 +71,19 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/169080269">Albuquerque, Caetano Alexandre de Almeida e, 1824-1916</term>
+<term></term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Angola</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
-    
+
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>    
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -94,22 +100,21 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Newton, Robert Scott</persName>
-<roleName>U.S. Vice Commercial Agent for Loanda</roleName>
+<persName>Duarte, Custódio José</persName>
 <placeName>St. Paul de Loanda, Angola</placeName>
-<date when="1877-03-31"/>
+<date when="1876-09-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName/>
-<placeName>Washington, D.C.</placeName>
-<date when="1877-06-18"/>
+<placeName/>
+<date when="1876-09-29"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-28" who="kln">Reviewed and edited encoding</change>
+<change when="2019-06-27" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
 </revisionDesc>
@@ -123,23 +128,40 @@
 
 <pb facs="teaa.en.letter.0109.001"/>
 
-<note>Department of State Received Jun 18 1877</note>
-<note>Akd July 3</note>
-<note>No 123</note>
+<p>Translation of Despatch received
+from the office of the Secretary
+General of the Province of Angola
+on the 29th September 1876.</p>
 
-<opener><dateline>United States Commercial Agency
-at St Paul de Loanda</dateline></opener>
+<p>Illustrious Sir,</p>
 
-<p>To the Department of State</p>
+<p>His Excellency the Governor
+General has requested me to 
+inform you, that in accordance with
+the tenor of the Order No. 404 of 
+the 21st instant, and published in
+the Official Gazette No. 39, at six 
+months from that date foreign vessels
+cannot be employed in the Coasting
+Trade between any of the Ports of
+this Province whether they be occupied
+by the Portuguese Authorities or are
+comprised within the territory over
+<catchwords>which</catchwords>
 
-<p>Mr Robert Scott Newton</p>
+<pb facs="teaa.en.letter.0109.002"/>
 
-<p>Subject. Accounts</p>
+which the Crown of Portugal has 
+reserved its rights.</p>
+<p>God guard you.</p>
 
-<p>Abstract of Contents</p>
+<closer><dateline>Office of the Secretary General
+in Loanda, 28th September 1876.</dateline>
 
-<p>Enclosing Form No 120 and advising Accounts
-<unclear>to</unclear> 31st March 1877.</p>
+<address><addrLine>Illustrious Senhor American Consul</addrLine></address>
+
+<signed>Signed Custodio Jose Duarte<lb/>
+<unclear>P.</unclear> G.</signed></closer>
 
 </div1>
 

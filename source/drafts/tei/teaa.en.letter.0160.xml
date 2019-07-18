@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from L de R. du Verge to J.C. Bancroft Daivs, September 30, 1882</title>
+<title>Dispatch from L. de R. du Verge to J. C. Bancroft Davis, September 30, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from L de R. du Verge to J.C. Bancroft Daivs</title>
+<title level="a">Dispatch from L. de R. du Verge to J. C. Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">4</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,7 +76,6 @@
     
 <keywords scheme="original" n="places">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,21 +90,18 @@
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>du Verge</persName>
+<persName>Verge, L. de R. du</persName>
+<roleName>U.S. Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1882-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>J.C. Bancroft Davis</persName>
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,9 +109,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-07-17" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
-
 </revisionDesc>
 </teiHeader>
 
@@ -125,18 +122,21 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="teaa.en.letter.0160.001"/>
-<note>No 13</note>
 
-<p>United States Consulate
-St Paul Loanda
-September 30th 1882.</p>
+<note>No <del>35</del> 13</note>
 
-<p>Hon. J.C. Bancroft DAivs
-Asst. Sectry. of State
-Washington D.C.</p>
+<opener><dateline>United States Consulate<lb/>
+St Paul de Loanda<lb/>
+September 30th 1882.</dateline>
 
-<p>Sir
-I have the honor most respectfully to state that
+<address><addrLine>Hon. J.C. Bancroft Davis</addrLine>
+<addrLine>Asst. Sectry. of State</addrLine>
+<addrLine>Washington D.C.</addrLine></address>
+</opener>
+
+<p>Sir,</p>
+
+<p>I have the honor most respectfully to state that
 Capt. of Frigate, Ferreira do Amaral Francison
 Joaquim has been appointed governor general
 of Angola and arrived here by the last mail
