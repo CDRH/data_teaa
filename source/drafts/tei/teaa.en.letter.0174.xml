@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0174"
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0174">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Stephen A. Benson to Secretary of State W.H. Seward</title>
+<title>Dispatch from Stephen A. Benson to William H. Seward, July 9, 1862</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
-
+<name n="Akyeampong, Chelsea" xml:id="caa">Chelsea A. Akyeampong</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -43,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Stephen A. Bennery to Secretary of State W.H. Seward<</title>
+<title level="a">Dispatch from Stephen A. Bennery to William H. Seward</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -63,29 +62,32 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/30335611">Adams, Charles Francis, 1807-1886</term>
 </keywords>
-    
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+ 
+<keywords scheme="original" n="places">
+<term>Liberia</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -96,26 +98,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="from">
-<persName>Stephen A. Benner</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName>Hamburg</placeName>
+<persName>Benson, Stephen A.</persName>
+<roleName/>
+<placeName>Hamburg (Germany)</placeName>
 <date when="1862-07-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>W.H. Seward</persName>
-<roleName>Secretary of State</roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-17" who="#CAA">transcribed and encoded</change>
+<change when="2019-09-12" who="#kln">reviewed</change>
+<change when="2019-06-17" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -125,101 +126,106 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="teaa.en.letter.0174.001.jpg"/>
+<pb n="teaa.en.letter.0174.001"/>
 
-<p>Hôtel de Russie, State
-   Hamburg, July 9, 1862</p>
+<p>Hôtel de Russie,<lb/> 
+Hamburg, July 9, 1862</p>
 
-<p>Sir,
-        Having left Liberia in March
-   duly vested with authority to transact
-   any necessary official business for the
-   government of Liberia with any other
-   government, it wasw my original
-   purpose to visit the United States
-   of America, after having finished
-   any business with Her Britannic
-   Majesty's government,. Being anxious
-   to negotiate a treaty on behalf of the
-   government of Liberia with the United
-   States government, I have for nearly
-   three months been watching the
-   progress of the passage of the bill</p>
+<p>Sir,</p>
 
-<p>To Hon. W.H. Seward,
-        Sec. of State,
-            <unclear/></p>
+<p>Having left Liberia in March
+duly vested with authority to transact
+any necessary official business for the
+government of Liberia with any other
+government, it was my original
+purpose to visit the United States
+of America, after having finished
+any business with Her Britannic
+Majesty's government. Being anxious
+to negotiate a treaty on behalf of the
+government of Liberia with the United
+States government, I have for nearly
+three months been watching the
+progress of the passage of the bill
+<catchwords>by</catchwords>
 
-<pb facs="teaa.en.letter.0174.002.jpg"/>
+<fw type="address">To Hon. W. H. Seward,
+Sec. of State,
+&amp;c., &amp;c., &amp;c.</fw>
 
-<p>by Congress recognizing and
-   establishing diplomatic relations between
-   the United States government and 
-   the government of Liberia, the
-   passage of whcih I was highly 
-   gratified to see announced in the 
-   papers a week or two before I left
-   London;p and I would have
-   immediately gone over to the United
-   States for the purpose aforesaid, but was
-   deterred by the consideration that very
-   likely the great pressure of business
-   upon, and the prosperity and anxiety
-   of the government of the United States,
-   growing out of the unrighteous rebellion
-   of some of the States, might render
-   such a proposition inopportune, just
-   now, to secure such speedy action by
-   the government of the United States
-   as the necessary shortness of my 
-   visit there would require.</p>
+<pb n="teaa.en.letter.0174.002"/>
 
-<pb facs="teaa.en.letter.0174.003.jpg"/>
+by Congress recognizing and
+establishing diplomatic relations between
+the United States government and 
+the government of Liberia, the
+passage of which I was highly 
+gratified to see announced in the 
+papers a week or two before I left
+London; and I would have
+immediately gone over to the United
+States for the purpose aforesaid, but was
+deterred by the consideration that very
+likely the great pressure of business
+upon, and the prosperity and anxiety
+of the government of the United States,
+growing out of the unrighteous rebellion
+of some of the States, might render
+such a proposition inopportune, just
+now, to secure such speedy action by
+the government of the United States
+as the necessary shortness of my 
+visit there would require.</p>
 
-<p> As I purpose returning to
-   London, and shallf probably then
-   decide whether I will visit the
-   United States early in August, or
-   return to Liberia from London, the
-   object of this communication is
-   simply to enquire what will be Your 
-   Excellency's pleasure in teh promises;
-   first, whether Your Excellency favors the
-   negotiation, on behalf of the United States
-   government, of a treaty of amity and
-   commerce with the govenrment of 
-   Liberia: if so, then through what 
-   medium do you suggest that it shall
-   be affected? by my visiting the United 
-   States for that purpose, or your
-   govenrment empowering some one to
-   affect that object with me in London?
-   Either method will be agreeable to
-   me. I and my <unclear/> and
-   I think it very imnportant, that</p>
+<p><catchwords>As</catchwords>
 
-<pb facs="teaa.en.letter.0174.004.jpg"/>
+<pb n="teaa.en.letter.0174.003"/>
 
-<p>a treaty should be negotiated between
-   the two governmentsw before my return 
-   to LIberia andd the commencement of
-   the session of the Liberian Legislature.
-   The Hon. Mr. Adams, your minister 
-   at the COurt of St. James, has
-   already signified to me the pleasure
-   it would afford him to do so, if duly
-   authorized by his government.</p>
+As I purpose returning to
+London, and shall probably then
+decide whether I will visit the
+United States early in August, or
+return to Liberia from London, the
+object of this communication is
+simply to inquire what will be Your 
+Excellency's pleasure in the promises;
+first, whether Your Excellency favors the
+negotiation, on behalf of the United States
+government, of a treaty of amity and
+commerce with the government of 
+Liberia: if so, then through what 
+medium do you suggest that it shall
+be affected? by my visiting the United 
+States for that purpose, or your
+government empowering some one to
+effect that object with me in London?
+Either method will be agreeable to
+me. I am very desirous, and
+I think it very important, that
 
-<p> I shall feel particularly obliged
-   if Your Excellency can, amid the
-   pressure of business, conveniently 
-   place one in possession of a reply
-   to this communication in all of 
-   next month (August).</p>
+<pb n="teaa.en.letter.0174.004"/>
+
+a treaty should be negotiated between
+the two governments before my return 
+to Liberia and the commencement of
+the session of the Liberian Legislature.
+The Hon. Mr. Adams, your minister 
+at the Court of St. James, has
+already signified to me the pleasure
+it would afford him to do so, if duly
+authorized by his government.</p>
+
+<p>I shall feel particularly obliged
+if Your Excellency can, amid the
+pressure of business, conveniently 
+place one in possession of a reply
+to this communication in all of 
+next month (August).</p>
 
 <p> I have the honor to be
-     Your obdt. servant,
-        Stephen "A" Benson</p>
+Your obdt. servant,<lb/>
+Stephen A. Benson</p>
+
 </div1>
 
 </body>

@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch form Jon S. Johnson to WM. H. Seward</title>
+<title>Dispatch from John D. Johnson to William H. Seward</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Akyeampong" xml:id="CAA">Chelsea A. Akyeampong</name>
-
+<name n="Akyeampong" xml:id="caa">Chelsea A. Akyeampong</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch form Jon S. Johnson to WM. H. Seward</title>
+<title level="a">Dispatch from John D. Johnson to William H. Seward, August 22, 1862</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -62,29 +62,28 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
+</keywords> 
+ 
 <keywords scheme="viaf" n="people">
-<term>John D. Johnson, Rev. James Mitchell, Stephen Allen Benson</term>
+<term ref="http://viaf.org/viaf/51556067">Benson, Stephen Allen, 1816-1865</term>
+<term>Mitchell, James</term>
 </keywords>
-    
+ 
 <keywords scheme="original" n="places">
-<term>Republic of Liberia</term>
+<term>Liberia</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -95,26 +94,26 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>John S. Johnson</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Johnson, John D.</persName>
+<roleName>Special Commissioner of the Republic of Liberia</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1862-08-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Wm. H. Seward</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washington</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1862-08-25"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-17" who="#CAA">transcribed and encoded</change>
+<change when="2019-09-12" who="#kln">reviewed</change>
+<change when="2019-06-17" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,102 +123,109 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="teaa.en.letter.0175.001"/>
+<pb n="teaa.en.letter.0175.001"/>
 
-<p>Recu 25th Aug. <unclear/>
-   <unclear/> August 25/62 Washington</p>
-<p>Hon Wm. H. Seward.
-                Sec. of State
-                       Respected Sir:
-                                Permit
-   the undersigned to inquire,
-   whether there would be any
-   breach of propriety, in 
-   bringing to your notice
-   the commercial wants, and
-   defects of teh existing
-   intercvvourse, between this
-   country and the infant
-   Republic of Liberia; and
-   whether consistent with
-   the rules regulating dip-
-   lomatic intercourse-I
-   may not, in person, as 
-   the bearer of a Commission
-   from the Government of
-   Liberia, empowering me
-   as "Special Commission,"
-   preperatory to opening
-   the way for the recognition
-   of my country, and the 
-   formation of a commercial
-   Treaty therewith, couched
-   in the language and words</p>
+<note>Recd 25th Aug.</note>
+<note>Answered August 25/62</note>
 
-<pb facs="teaa.en.letter.0175.002"/>
+<p>Washington, August 22nd/62</p>
 
-<p>following, to wit:
-            "Therefore, I, Stephen 
-   Allen Benson, President
-   as aforesaid have ordained,
-   constituted, and appointed,
-   and by these presents, do
-   hereby ordain,m constitute,
-   and appoint him, the said John D. Johnson
-   Esquire, Special Com-
-   missioner on behalf of
-   the Republic of Liberia
-   afresaid to open a 
-   communication with the 
-   government of the United
-   States-and to otherwise
-   afford the necessary in-
-   formation, preparatory
-   to securing the contemplated
-   objects as aforesaid.</p>
+<p>Hon Wm. H. Seward,<lb/>
+Sec. of State.</p>
 
-<p>     And further, I, 
-   Stephen Allen Benson
-   President as aforesaid
-   do hereby further authorize
-   and empower the said 
-   John D. Johnson, Esquire,
-   to appoint one or more
-   persons-citizens of</p>
+<p>Respected Sir:</p>
 
-<pb facs="teaa.en.letter.0175.003"/>
+<p>Permit
+the undersigned to inquire,
+whether there would be any
+breach of propriety, in 
+bringing to your notice
+the commercial wants, and
+defects of the existing
+intercourse, between this
+country and the infant
+Republic of Liberia; and
+whether consistent with
+the rules regulating diplomatic 
+intercourse. I
+may not, in person, as 
+the bearer of a Commission
+from the Government of
+Liberia, empowering me
+as "Special Commissioner,"
+preparatory to opening
+the way for the recognition
+of my country, and the 
+formation of a Commercial
+Treaty therewith, couched
+in the language and words
 
-<p>of the United States, as
-   Commissioners to be
-   associated with himself 
-   for the furtherance of
-   the objects herein
-   contemplated;"
-   being to your notice
-   those wants and give
-   such information as
-   may enalbe you to
-   meet the demands in
-   the case.</p>
+<pb n="teaa.en.letter.0175.002"/>
 
-<p> I am in this city 
-   for the above purposes
-   and as empowered, I
-   have requested my 
-   friend, Rev. James Mitchell
-   to aid me in these
-   negotiations; I therefore
-   await your pleasure,
-   and will be pleased at
-   your call to present my
-   credentials in the premises.</p>
+following, to wit:</p>
 
-<p> I remain, with sentiments
-        of Respect your
-            humble <unclear/>
-         John D. Johnson,
-           Special Commissioner of
-            the Republic of Liberia</p>
+<p>"Therefore, I, Stephen 
+Allen Benson, President
+as aforesaid have ordained,
+constituted, and appointed,
+and by these presents, do
+hereby ordain, constitute,
+and appoint him, the 
+said John D. Johnson
+Esquire, Special Commissioner 
+on behalf of
+the Republic of Liberia
+aforesaid to open a 
+communication with the 
+Government of the United
+States, and to otherwise
+afford the necessary information, 
+preparatory
+to securing the contemplated
+objects as aforesaid.</p>
+
+<p>And further, I, 
+Stephen Allen Benson
+President as aforesaid
+do hereby further authorize
+and empower the said 
+John D. Johnson, Esquire,
+to appoint one or more
+persons, citizens of
+
+<pb n="teaa.en.letter.0175.003"/>
+
+of the United States, as
+Commissioners to be
+associated with himself 
+for the furtherance of
+the objects herein
+contemplated;" <del>may not</del>
+bring to your notice
+those wants and give
+such information as
+may enable you to
+meet the demands in
+the case.</p>
+
+<p>I am in this city 
+for the above purposes
+and as empowered, I
+have requested my 
+friend, Rev. James Mitchell
+to aid me in these
+negotiations; I therefore
+wait your pleasure,
+and will be pleased at
+your call to present my
+credentials in the premises.</p>
+
+<p>I remain, with sentiments<lb/>
+of Respect your<lb/>
+humble servt. &amp;c.<lb/>
+John D. Johnson,<lb/>
+Special Commissioner of
+the Republic of Liberia</p>
 </div1>
 
 </body>

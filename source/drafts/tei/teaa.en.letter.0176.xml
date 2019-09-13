@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0177.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0176">
+
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from J. B. Pinney to William H. Seward, March 17, 1863</title>
+<title>Dispatch from James Mitchell to William H. Seward, August 23, 1862</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0177</idno>
+<idno type="project">teaa.en.letter.0176</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from J. B. Pinney to William H. Seward</title>
+<title level="a">Dispatch from James Mitchell to William H. Seward, August 23, 1862</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="1863-03-17">March 17, 1863</date>
+<date when="1862-08-23">August 23, 1862</date>
 </bibl>
 </sourceDesc>
 
@@ -59,7 +60,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Emigration</term>
 </keywords>
  
 <keywords scheme="original" n="type">
@@ -71,15 +73,10 @@
 </keywords> 
  
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Johnson, John D.</term>
 </keywords>
  
 <keywords scheme="original" n="places">
-<term>Liberia</term>
-<term>London</term>
-</keywords>
-
-<keywords scheme="original" n="empires">
 <term/>
 </keywords>
 
@@ -99,16 +96,16 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Pinney, J. B.</persName>
-<roleName>Chargè d'Affaires of Liberia</roleName>
-<placeName>New York (N.Y.)</placeName>
-<date when="1863-03-17"/>
+<persName>Mitchell, James</persName>
+<roleName/>
+<placeName>Washington (D.C.)</placeName>
+<date when="1862-08-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
 <roleName>U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1863-03-18"/>
+<date when="1862-08-25"/>
 </correspAction>
 </correspDesc>
 
@@ -116,7 +113,7 @@
 
 <revisionDesc>
 <change when="2019-09-12" who="#kln">reviewed</change>
-<change when="2019-06-17" who="#caa">transcribed and encoded</change>
+<change when="2019-06" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,38 +123,66 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="teaa.en.letter.0177.001"/>
+<pb n="teaa.en.letter.0176.001"/>
 
-<note>Recd 18 Mar</note>
-<note>Ansd 26 "</note>
-
-<p>Office of the Consul-General of the Republic of Liberia,<lb/>
-Room 27, Bible-House.</p>
-
-<p>New York, March 17, 1863</p>
-
-<p>Honorable Wm. H. Seward<lb/>
-Secretary of State</p>
-
-<p>Dear Sir,</p>
+<note>Recd 25th Aug</note>
  
-<p>The daily
-papers of this city announced a few days since that
-there had been an exchange of the ratified Treaty with
-Liberia through our Minister at London.</p>
+<p>Washington, Aug 23rd, 1862</p>
 
-<p>I would like to publish the Treaty in the <unclear>forthcoming</unclear>
-number of the New York Colonization Journal and write
-ask for a copy of it for that purpose. Will you oblige
-me by directing a copy to me if it is in print?</p>
+<p>Hon. Wm. H. Seward,
+ Secretary of State,</p>
 
-<p>I see steady development of the military organization
-of the freed slaves &amp; conclude that until the rebellion is 
-conquered it will not be a part of the Government policy
-to encourage emigration anywhere.</p>
+<p>Sir,</p>
 
-<p>I am Very Respectfully Yours<lb/>
-J. B. Pinney</p>
+<p>Permit me to
+state that I have been requested
+and empowered by John D. Johnson
+Esq., Special Commissioner of 
+the Republic of Liberia, to aid
+him in bringing to your
+notice the wants and conditions
+of the commerce between this
+country and that.</p>
+
+<p>The power to associate
+some citizen of this country
+with him, in this matter, is
+stated in the within note,
+as will more fully appear
+on the presentation of this
+communication.</p>
+
+<p>I will therefore
+respectfully represent that we
+are ready to receive the
+draft of a treaty, or to
+suggest one, just as you
+may elect.</p>
+
+<p>The importance of a
+
+<pb n="teaa.en.letter.0176.001"/>
+
+favorable Treaty with that
+young Republic, can not be
+too strongly stated, it is
+one of the places of refuge
+and repose for the oppressed
+of this land, its commerce
+if developed would cut out
+a deep and wide channel
+to which a flood of inexpensive 
+colored emigration
+would flow; nor could
+other nations murmur,
+if we extended special
+privileges to the creature
+of our own effort and enterprise.</p>
+
+<p>Relying on your well
+honor liberality,<lb/>
+I remain Yours with much Respect,<lb/>
+James Mitchell</p>
 
 </div1>
 
