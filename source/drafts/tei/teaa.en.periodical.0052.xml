@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>African Repository, Late From Liberia (1861)</title>
+<title>The African Repository, "Late From Liberia. Return of the Ship Mary Caroline Stevens. Letters. Extracts from Liberian papers." (1861)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
@@ -41,12 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main">Late From Liberia</title>
-<title level="j">African Repository</title>
-<biblScope unit="volume"><!-- VOLUME NUMBER --></biblScope>
-<biblScope unit="issue"><!-- ISSUE NUMBER --></biblScope>
+<title level="a" type="main">Late From Liberia. Return of the Ship Mary Caroline Stevens</title>
+<title level="j">The African Repository</title>
+<biblScope unit="volume">37</biblScope>
+<biblScope unit="issue">5</biblScope>
 <date when="1861-05">May 1861</date>
-<biblScope unit="page">9-10</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -58,7 +58,10 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Emigration</term>
+<term>Missionaries</term>
+<term>Slavery and Slaver Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -66,52 +69,138 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Periodicals</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Benson, President</term>
-<term>Clark, M.M., Rev.</term>
-<term>Crummell, Rev.</term>
-<term>Hall, James, Dr.</term>
-<term>Hoffman, C.C., Rev.</term>
-<term>Officer, Rev.</term>
-<term>Pickett, Major</term>
-<term>Rambo, Rev.</term>
-<term>Roberts, Dr.</term>
-<term>Seys, John, Rev.</term>
-<term>Seys, Mrs.</term>
+<term>Anderson</term>
+<term>Beardslee, L. A.</term>
+<term>Benedict</term><!-- Mrs. -->
+<term>Benson, Nancy</term>
+<term ref="http://viaf.org/viaf/51556067">Benson, Stephen Allen, 1816-1865</term>
+<term ref="http://viaf.org/viaf/54942091">Blyden, Edward Wilmot, 1832-1912</term>
+<term>Brooks, Nathaniel</term>
+<term>Burton, George</term>
+<term>Campbell</term><!-- Doctor -->
+<term>Carpenter, J. N.</term>
+<term>Clark, M. M.</term>
+<term>Cooper</term><!-- Doctor -->
+<term>Cross, R. H.</term>
+<term>Crummell, Alexander</term>
+<term>Dalton, H. H.</term>
+<term>Delany</term><!-- Doctor -->
+<term>Dennis, J. H.</term>
+<term>Farquhar, N. H.</term>
+<term>Frankland, G. w.</term>
+<term>Fuller, S. C.</term>
+<term>Fuller, Thomas</term>
+<term>Gibson, J. T.</term>
+<term>Gibson, G. W.</term>
+<term>Green, Hezekiah</term>
+<term>Gurley, R. R.</term>
+<term>Guthrie, J. J.</term>
+<term>Hall, Caroline</term>
+<term>Hall, James</term>
+<term>Hansford</term><!-- Judge -->
+<term>Hanson, John</term>
+<term>Harris, Robert</term>
+<term>Hayes, C. W.</term>
+<term>Hoffman, C. C.</term>
+<term>James, B. V. R.</term>
+<term>Jeffery, R. W.</term>
+<term>Lawrence, Isaac</term>
+<term>Lindsay, J. E.</term>
+<term>Manna</term><!-- Prince of Gallinas -->
+<term>Marmora</term><!-- Prince -->
+<term>Matthews, A. P.</term>
+<term>McGill, S. P.</term>
+<term>McLain, W.</term>
+<term>Morris</term><!-- Superintendent -->
+<term>Officer</term><!-- Reverend -->
+<term>Owen, E. K.</term>
+<term>Payne</term><!-- Bishop -->
+<term>Pickett</term><!-- Major -->
+<term>Rambo</term><!-- Reverend -->
+<term>Ramsay, F. M.</term>
+<term>Rand, M. A.</term>
+<term ref="http://viaf.org/viaf/63021631">Roberts, Joseph J. (Joseph Jenkins), 1809-1876</term>
+<term>Roberts</term><!-- Mrs. -->
+<term>Rodgers, E. P.</term>
+<term>Rogers, Lewis</term>
+<term>Rowe, F. G.</term>
+<term>Seys, John</term>
+<term>Seys</term><!-- Mrs. -->
 <term>Sheppard, Moses</term>
-<term>Sumner, Miss</term>
-<term>White, Rev.</term>
-<term>Yates, capt.</term>
+<term>Skerrett, J. S.</term>
+<term>Smith, George</term>
+<term>Spekell, Benjamin R.</term>
+<term>Stimson, J. W.</term>
+<term>Stokes, E. W.</term>
+<term>Stryker, R. L.</term>
+<term>Sumner</term><!-- Miss -->
+<term>Taylor, Alfred</term>
+<term>Tyler, H. B.</term>
+<term>Washington</term><!-- Mr. -->
+<term>White</term><!-- Reverend -->
+<term>Williams, A. D.</term>
+<term>Wilson, B. R.</term>
+<term>Yates</term><!-- Captain -->
+<term ref="http://viaf.org/viaf/48476852">Yates, Beverly Page, approximately 1811-approximately 1883</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Baltimore</term>
-<term>Boston</term>
-<term>Cape Palmas</term>
+<term>Baltimore (Md.)</term>
+<term>Bassa (Liberia)</term>
+<term>Boston (Mass.)</term>
+<term>Cape Henry (Va.)</term>
+<term>Cape Mount (Liberia)</term>
+<term>Cape Palmas (Liberia)</term>
+<term>Careysburg (Liberia)</term>
+<term>Cavalla River</term>
 <term>Gaboon River</term>
+<term>Gallinas River</term>
+<term>Grand Bassa (Liberia)</term>
+<term>Haiti</term>
+<term>Harrisburg (Liberia)</term>
+<term>Leeward Islands</term>
 <term>Liberia</term>
-<term>Maryland County</term>
+<term>Maryland County (Liberia)</term>
 <term>Mesurado River</term>
-<term>Monrovia</term>
-<term>New York</term>
-<term>Ocean Eagle brig</term>
-<term>Palmas brig</term>
+<term>Millsburg (Liberia)</term>
+<term>Monrovia (Liberia)</term>
+<term>Mount Tubman (Liberia)</term>
+<term>New Cess (Liberia)</term>
+<term>New York (N.Y.)</term>
+<term>Robertsport (Liberia)</term>
+<term>San Pedro River</term>
 <term>Sierra Leone</term>
-<term>Sinou</term>
+<term>Sinou (Liberia)</term>
+<term>Solyma River</term>
+<term>St. Paul's River</term>
+<term>St. Thomas (West Indies)</term>
+<term>Stockton Creek</term>
 </keywords>
 
-    
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Annagoes</term>
+<term>Argis</term>
+<term>Barabas</term>
+<term>Congoes</term>
+<term>Gallinas</term>
+<term>Housas</term>
+<term>Mobis</term>
+<term>Naffau</term>
+<term>Padae</term>
+<term>Po River</term>
+<term>Solyma</term>
+<term>Yoruba</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term>Dutch Reformed Church</term>
 <term>Episcopal</term>
 <term>Methodist</term>
+<term>Presbyterian</term>
 </keywords>
 
 <keywords scheme="original" n="language">
@@ -122,6 +211,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-09-10" who="kln">reviewed encoding, added letters</change>
 <change when="2019-04-11" who="pr">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -132,14 +222,16 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="PAGENUMBER" facs="PDFNAME"/>
+<pb xml:id="p129" n="teaa.en.periodical.0052.001"/>
 
 <div2 type="titles">
 
-<p>Late from Liberia
-Return of the Stevens-Letters-Extracts from
-Liberian papers.
-Return of the Ship Mary Caroline Stevens.</p>
+<p>Late from Liberia.</p>
+
+<p>Return of the Stevens&#8212;Letters&#8212;Extracts from
+Liberian papers.</p>
+
+<p>Return of the Ship Mary Caroline Stevens.</p>
 
 </div2>
 
@@ -147,14 +239,15 @@ Return of the Ship Mary Caroline Stevens.</p>
 
 <p>This fine ship, returning form her ninth voyage to Liberia, after a
 passage of thirty days, arrived at Baltimore on the 4th of last month.</p>
-<p>She left in the port of Monrovia the brig Palmas, of Baltimore,
+
+<p>She left in the port of Monrovia the brig <hi rend="italics">Palmas</hi>, of Baltimore,
 soon to sail for the leeward; a schooner from Boston, for sale, about
-to leave for Sierra Leone; and the Liberia schooners Moses Sheppard,
-James Hall, and the Liberia- all soon to leave for the leeward trade.
-Several smaller Liberia vessels were also inside the bar in the Mesu-
-rado River. The American brig Ocean Eagle, Capt. Yates, sailed
-for New York on the 27th of February, with several missionary pas-
-sengers to the Gaboon River.</p>
+to leave for Sierra Leone; and the Liberia schooners <hi rend="italics">Moses Sheppard</hi>,
+<hi rend="italics">James Hall</hi>, and the <hi rend="italics">Liberia</hi>&#8212;all soon to leave for the leeward trade.
+Several smaller Liberia vessels were also inside the bar in the Mesurado River. The American brig <hi rend="italics">Ocean Eagle</hi>, Capt. Yates, sailed
+for New York on the 27th of February, with several missionary passengers 
+to the Gaboon River.</p>
+
 <p>Among the articles brought home in the ship we notice 145 casks
 of palm oil, over 100 tons of camwood, 53 blocks of cedar, 6 packages
 of ground-nuts, sundry bags and boxes of coffee and ginger, 24 bbls.
@@ -163,51 +256,1138 @@ passengers, Dr. James Hall, his daughter and her friend Miss Sumner,
 Mrs. Seys, wife of the Rev. John Seys; the Rev. Mr. Rambo and
 lady, Rev. Mr. Crummell and family, of the Episcopal Mission; Rev.
 Mr. White, of the Methodist Mission; Rev. Mr. Officer, of the
-Mission of the Dutch Reformed Church, and Dr. Roberts, of Mon-
-rovia, and the Rev. M.M. Clark, of the Methodist Mission. There
-were also one or two stecrage passengers.</p>
+Mission of the Dutch Reformed Church, and Dr. Roberts, of Monrovia, 
+and the Rev. M. M. Clark, of the Methodist Mission. There
+were also one or two steerage passengers.</p>
+
+<pb xml:id="p130" n="teaa.en.periodical.0052.002"/>
+
 <p>The main features of news in Liberia were the operations of the
 Liberia troops under President Benson, in settling a long difficulty
 between two native tribes in the County of Maryland. It seems that
-a powerful and warlike tribe. emerging from the interior. drove a
-coast tribe from their towns and took forcible possession. The Libe-
-rian Government have vainly endeavored to settle the matter ami-
-cably, and to persuade the invaders to surrender their ill-gotten spoils
+a powerful and warlike tribe, emerging from the interior, drove a
+coast tribe from their towns and took forcible possession. The Liberian 
+Government have vainly endeavored to settle the matter amicably, 
+and to persuade the invaders to surrender their ill-gotten spoils
 and territory and retire. The only reply has been, "Might makes
 right," setting the Liberian authorities at defiance. President Benson
 found it necessary to take one hundred and fifty men and go down
 and bring them to terms. Some pretty serious fighting was the
-result, and an ultimate yielding on the part of the native chiefs, pay-
-ment of expenses of the war, and retiring again to the bush. The
-Liberians lost three men only, two privates and Major Pickett. of
+result, and an ultimate yielding on the part of the native chiefs, payment
+ of expenses of the war, and retiring again to the bush. The
+Liberians lost three men only, two privates and Major Pickett, of
 Maryland County, who fell while storming a barricaded town.</p>
+
 <p>It was thought Mr. Benson would be re-elected to the Presidency,
 though he is warmly opposed by Mr. Yates, formerly Vice President.</p>
+
 <p>The "Congo question," as the Liberians term the introduction of
 recaptured Africans, has caused no little excitement. All, however,
 is quiet now on that score. Those landed at Sinou have proved
 somewhat refractory, but President Benson will no doubt settle all
 difficulties.</p>
+
 <p>The Republic is reported to be in a prosperous condition. The
 sugar-making is on the increase, as also the culture of coffee, cotton,
-and other tropical productions. The multiplication of interior settle-
-ments is now under consideration, and a measure so important will
+and other tropical productions. The multiplication of interior settlements 
+is now under consideration, and a measure so important will
 not, we trust, be left long unaccomplished.</p>
+
 <p>No letters from the Liberian authorities arrived by this ship, owing,
 it is presumed, to the absence of President Benson, who was engaged
 successfully in repelling the hostilities of a native tribe near Sinou.</p>
+
 <p>In our last number we mentioned the negotiation of a treaty with
 the Government of Liberia, by our able Commissioner, Dr. James
 Hall, under instructions from the Board of Directors, by which the
-management of recaptured Africans, after their arrival in that Re-
-public, is confided to that Government; which, we are happy to be-
-lieve, will adopt a wise and hamane policy for their civilization and
-welfare, in preparation for their admission to all the duties and im-
-munities of citizenship. We are very happy to publish the following
-extracts from a letter from the Rev. John Seys, U.S. Agent; obser-
-vations made by that excellent Missionary of the Episcopal Church
-the Rev. C.C. Hoffmn, who returned in the <unclear/> to Cape
+management of recaptured Africans, after their arrival in that Republic, 
+is confided to that Government; which, we are happy to believe, 
+will adopt a wise and humane policy for their civilization and
+welfare, in preparation for their admission to all the duties and immunities 
+of citizenship. We are very happy to publish the following
+extracts from a letter from the Rev. John Seys, U.S. Agent; observations 
+made by that excellent Missionary of the Episcopal Church
+the Rev. C. C. Hoffman, who returned in the <hi rend="italics">Stevens</hi> to Cape
 Palmas, and other communications.</p>
+
+</div2>
+
+
+<pb xml:id="p131" n="teaa.en.periodical.0052.003"/>
+
+<div2 type="titles">
+
+<p>Letters from Liberia.</p>
+
+<p>From Rev. John Seys.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>U.S. Agency for Liberated Africans,<lb/>
+Monrovia, February 20, 1861</p>
+
+<p>Rev. W. McLain,<lb/>
+Financial Secretary A. C. S,</p>
+
+<p>Dear Sir&#8212;</p>
+
+<p>* * * * * * *</p>
+
+<p>I now have the pleasure to inform you that the negotiation between
+your special commissioner and the Liberian Government ended in
+the ratification of the proposed contract, by which the latter becomes
+the disburser of all expenditures for the support of liberated Africans.
+You will doubtless received a copy of the said contract, and perceive
+that, in perfect keeping with the duties assigned by the U.S. Government
+to their Agent here for liberated Africans, no portion of the
+said appropriation can be realized without certificates from the said 
+Agent that the conditions named in the contract with the American
+Colonization Society, and by them transferred to this Government,
+have been fully and faithfully met.</p>
+
+<p>It would have been very desirable if an Agent representing the
+American Colonization Society here could have been appointed,
+between whom and the U.S. Agent for liberated Africans, a better
+and more perfect understanding of the nature of both contracts could
+have been had. For good and weighty reasons, however, under the
+existing circumstances, no such Agent was appointed by your special 
+Commissioner, and yet all the arrangements for the transfer of the
+Africans, and all their provisions and stores yet on hand, were most
+amicably made and completed between the proper authorities of this 
+Government and the U.S. Agent for Liberated Africans.</p>
+
+<p>It was deemed better, after mature reflection and consultation, that
+I should continue to disburse to the end of the year 1860. This has
+been done, and a transfer made to the Liberian Government, on the
+faith of your contract with them, by which they meet all expenses
+accruing from January 1, 1861.</p>
+
+<p>I have also prepared a very lucid and explicit account book, in
+which all the Africans, their guardians, the clothes given out, board
+money paid to the close of the year, and every thing else connected 
+with them is fairly set forth. This appears to be appreciated, as well 
+as the readiness with which I render every facility necessary for the 
+carrying on of thew work thus taken out of my hands. A matter
+which is much appreciated by the authorities here, is the economy
+with which I was enabled to meet the expenses of these Africans
+during the four months I had the disbursements under my own
+control. * * * * * *</p>
+
+<p>I have the pleasure to be,<lb/>
+Your obedient servant,<lb/>
+John Seys,<lb/>
+U.S. Agent Liberated Africans.</p>
+
+</div2>
+
+<pb xml:id="p132" n="teaa.en.periodical.0052.004"/>
+
+<div2 type="titles">
+
+<p>Letters from Liberia.</p>
+
+<p>From Rev. C. C. Hoffman.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Ship M. C. Stevens,<lb/>
+December 11, 1860.</p>
+
+<p>Rev. R. R. Gurley,</p>
+
+<p>My Dear Brother:&#8212;You will be glad to learn of our safe arrival
+on the coast of Africa.</p>
+
+<p>After a voyage of thirty-three days from Cape Henry, we made, 
+on Monday at noon, the high and beautiful land at Camp Mount.
+We cast anchor in the evening, and this morning the Captain, Dr.
+Hall, and a few of the passengers, went on shore. I conversed with
+a number of the settlers, and without exception found them contented 
+and happy. Both they, as well as the Doctor (Cooper,) spoke of the
+healthfulness of the settlement. I saw nothing to render it unhealthy.
+The town, now numbering about eighty houses, appears well from the
+sea. The houses are scattered amid the green trees, along the hill
+side. The hill rises to the height of nearly 1,100 feet. The water is
+excellent, and the land fertile.</p>
+
+<p>I visited the Receptacle where now most of the recaptured slaves
+live. Of those landed in Liberia, 289 have been sent to Cape
+Mount: of these 31 have died, (most of them were sick when they
+landed;) and 24 had run away, been enticed away by the natives.
+Those remaining seemed in a pretty good condition. They were
+under daily instruction, both in school and in the cultivation of the 
+land. The teacher spoke of them as being docile, and many of them
+as showing a desire for instruction.</p>
+
+<p>The arrival of all these recaptives should make an important feature
+in future missionary operations. A portion, at least, of the representatives 
+from different tribes should be taken to the mission schools,
+in the hope and with the object of training them for teachers and
+ministers for their own distant people.</p>
+
+<p>I shall make an application for the three native children who were
+taken in the <hi rend="italics">Kibby</hi> and detained some months in New York, and
+who are now on board our vessel. They are intelligent little fellows.</p>
+
+<p>We have had a good voyage and a pleasant one: no accident has
+occurred, and no serious sickness. We have had, daily, morning and
+evening prayer, both in the cabin and among the emigrants. our
+passengers are all well, and my little daughter has enjoyed the
+voyage and improved in health. The captain and officers have been
+faithful to duty and kind and attentive to all.</p>
+
+<p>I shall continue my letter as I reach other ports.</p>
+
+<p>On the 12th of December we reached Monrovia, landed thirteen
+of our emigrants, and sent twenty-five to Careysburg. As most of 
+the freight was to be landed, and Dr. Hall had business with the 
+Government, we remained here a fortnight. During this time we
+made frequent visits on shore. The people were polite and attentive.
+We had the pleasure of dining with the President, and taking breakfast
+with the ex-President, Mr. Roberts. The legislature was in 
+session, and we attended occasionally the sittings. I was pleased to
+
+<pb xml:id="p133" n="teaa.en.periodical.0052.004"/>
+
+meet the Senators and Representative from Cape Palmas. The
+Steamer <hi rend="italics">Seth Grosvenor</hi> came in while we were there, bringing the
+mails from the Leeward Settlements. Letters from our missionaries
+gave us the glad news of their good health and happiness.</p>
+
+<p>Just before we left our ladies, with Dr. Hall and our Captain, 
+accompanied by Dr. McGill, Mrs. Benedict, Ex-President Roberts 
+and Mrs. Roberts, took a trip up the St. Paul's River, as far as Washington's,
+just above Millsburg. We were all delighted with the beautiful
+river, but most with the thriving farms and comfortable houses along
+its banks. We stopped at Mr. Anderson's, and visited his sugar
+mill. He was preparing to grind: last year he made 60,000 pounds,
+and expects to make 80,000 next year. On ascending the river, we
+stopped at Mr. Roberts' farm, and took lunch under the trees; and
+coming down, we drew our three boats together, and under the shady
+bank refreshed ourselves again. our time did not allow us to accept
+the invitations which we received to stop and dine. Instead of returning
+through Stockton Creek we continued down the St. Paul's,
+and passed out of the bar, which we did without any difficulty.</p>
+
+<p>We were all delighted with the trip, and rejoiced to observe the
+prosperity of the settlers. It was Saturday, market-day, and we
+counted upwards of sixty canoes taking produce to market at Monrovia.
+Most of the farmers cultivate the cane. The Coopers have
+another steam mill for grinding it. They made on their own farm
+last season 40,000 pounds of sugar.</p>
+
+<p>You will be glad to learn that I visited Careysburg. In company
+with the Rev. G. W. Gibson, I left Monrovia at 7 o'clock in the 
+morning. We reached Mr. Washington's at one, and then started
+off in a southeast direction to  travel twelve miles. The road was 
+rough, and much overgrown: some six or eight bridges are still
+needed, in place of the logs which are now the only means of crossing
+the streams. There are three good bridges made near Careysburg,
+but unfortunately the contracts made with the road makers and the
+bridge makers were such that both considered their work done,
+before they had made the road on the level with the bridges, and as
+a consequence the three good bridges which are built are from three
+to six feet above the road level! The road is from ten to fifteen feet
+wide; in the midst of it, among the stumps, is a foot-path, along
+which we traveled. It was evening when we reached there. We 
+were kindly received by Mr. Dennis, who has a good frame building
+on the hill near the Receptacle. We remained till the next day at
+noon. we had sufficient opportunity of viewing the place and visiting
+some of the people. * * * The land seems fertile
+and good, but the difficulty is to get produce to market: freight and
+transportation would more than swallow up the profits. The settlers,
+however, seemed to be contented and happy. The twenty-five who
+left our ship were all pleased with the place, as well as those who
+had been there a longer period. I saw George Burton, of the
+McDonogh Estate, who reported his company well pleased; four had
+died. Many who came out last spring have settled on the road,
+
+<pb xml:id="p134" n="teaa.en.periodical.0052.005"/>
+
+towards the St. Paul's, for the distance of six miles. I visited a
+number of them, and found them all well satisfied, though in one 
+house I found three members of the family sick. * * *</p>
+
+<p>The Congoes in this county seem to have been well managed by
+Mr. Seys. They have been placed out in families, both in Monrovia
+and the country. Some who have taken them are, it is true, persons
+of no responsibility; but still, on the whole, under the circumstances,
+I do not see that any thing better could have been done for them.
+Now, if they rightly managed, they will become useful members of society.
+The same pan has been pursued at Bassa, with equal success.</p>
+
+<p>But at Sinou things are different. I think there were 380 landed
+here. They are not Congoes, who seem a quiet, docile race, but the
+representatives of half a dozen tribes&#8212;men of resolute and determined
+spirit. There are Annagoes, Argis, Mobis, Barabas, and 
+Housas. They have been kept together, and are living in thatched
+houses at the entrance of the town. * * *</p>
+
+<p>Neither of these [Bassa and Sinou] are places, in my opinion, for new 
+settlers. Acclimated persons can occupy such places with advantage. If
+an interior station could really be established, at a point (where the inhabitants
+would not be buried by its inaccessibility,) of easy access, it
+would be of vast importance to the interests of Liberia. Such a
+place as, say Harrisburg, or the site of the Lutheran Mission, on the
+St. Paul's; both of which places I visited. There is a fine hilly
+country back of Bassa, but the bar of the river is almost always so
+dangerous that it would be an objection. Of the interior from Sinou
+I know little. The neighborhood of Cape Mount might afford some
+such locality, for his settlement is decidedly a healthy one, comparatively
+so at least. Cape Palmas also would furnish such positions.
+Our interior station, near the Cavalla, sixty miles from its mouth, is
+surrounded by fine hills&#8212;a rich and fertile soil.</p>
+
+<p>Thirty-nine of the emigrants in this expedition go now to Palmas.
+Among them, Robert Harris, the Phillipses, Parkers, Copeland, Tate,
+Stewarts, and others. This settlement, next to the St. Paul's, seems
+to me most important and prosperous. I hope you will direct the
+attention of emigrants toward it. The Methodist Conference is to
+be held there this month.</p>
+
+<p>Dr. Hall is pretty well, but his daughter is not much improved in
+health. My wife and Miss Marrion, with our babe, are all well.
+We expect to reach Palmas to-morrow.</p>
+
+<p>Palmas, January 9.&#8212;We arrived on the 4th. Things look well
+and more thriving in Harper than I have ever known before. Dr. 
+Hall and myself went as far as Tubman town to-day. We had unexpected
+news on our arrival,&#8312;the expected departure of Mr. and 
+Mrs. Rambo, on account of Mrs. R.'s health. Mr. and Mrs. Crummell
+also return with their family, and Miss Ball expects to be married to
+a German missionary, and to leave on the 16th in the steamer for Accra.</p>
+
+<p>18th.&#8212;The <hi rend="italics">Stevens</hi> sails to-day, and I must close, with assurance
+of Christian love, in which my wife joins.</p>
+
+<p>I am, dear sir, yours faithfully in Christ<lb/>
+C. C. Hoffman.</p>
+
+</div2>
+
+<pb xml:id="p135" n="teaa.en.periodical.0052.006"/>
+
+<div2 type="titles">
+
+<p>Letters from Liberia.</p>
+
+<p>From Rev. B. R. Wilson.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Monrovia, February 26, 1861.</p>
+
+<p>Rev. R. R. Gurley:</p>
+
+<p>Dear Friend and Brother:&#8212; * * It affords me the
+highest gratification to hear from you at all times, or to receive a line
+from you; and I sincerely hope that you will not fail to favor me as
+you have done, and whenever opportunity offers I will not fail to give
+you all the information of our country in my power.</p>
+
+<p>As to myself, from exposure in traveling among the native tribes 
+in 1859, my health commenced declining, so much so that in 1860 
+I was compelled to retire from the public service of the Church, for
+the purpose, if possible, to recover my health; and would have visited
+the United States for that purpose if my circumstances would have
+justified it. For the most part of lats year, I was under a physician,
+and my health has partially returned. But I doubt whether I shall
+ever be able to enter fully into the work of the Church again, but I 
+do not intend to be idle or to cease to be a missionary in Africa; and
+for that purpose I have selected forty native children or youths, of
+both sexes, upon whom I intend to bestow as much of my time 
+and labor as my circumstances will admit of. My object is to civilize and 
+christianize them, and learn them to work for their living.</p>
+
+<p>In your communication you requested me to give you my views of
+colonization, and things growing out of that operation; and if, after
+twenty-seven years residence in this country, I entertain the same
+favorable views of the whole scheme as I formerly did. In the first
+place, I must say that I am not competent for the task. The cause
+demands a much abler hand than mine; but, however, I am fully
+convinced, (more now than ever before,) that the whole scheme was
+and is one of the great operations of Divine Providence. This is to
+me more and more developed every year, and must bet to every
+unprejudiced mind of eye, which is favored with the knowledge of
+things as they exist in Liberia or on the Western Coast of Africa.
+Civilization is extending its gracious influence along the coast more
+and more every year, and also penetrating the interior to an immense 
+distance. There are more natives than emigrants from the United 
+States and other countries, who speak the English language. Almost
+every day new fields are opening up for missionary operations, and it 
+can be plainly seen that God is preparing the way for a great and
+glorious revival of religion in Africa. Two natives have entered the
+Liberia Annual Conference this yea, one of whom I brought in from
+the interior when he was only eight years of age. Others are occupying
+lower stations in the Church. So far, our labor is not in vain.</p>
+
+<p>And a great deal is being done in the way of civilization by the
+individual families of Liberia; for there are from one to twenty
+native children and adults, almost, in every family in Liberia. They
+are with us in Church and State, around the Sacrament Table and at 
+the family altar: they are speaking the same language, governed by
+the same laws, and worshipping the same God with ourselves; and
+
+<pb xml:id="p136" n="teaa.en.periodical.0052.007"/>
+
+it is the pride of our best citizens to elevate them to a seat in their 
+social circles.</p>
+
+<p>The Congoes brought into this Republic by the United States
+squadron, at first created some little excitement with some of our
+citizens, but the course adopted by the United States Agent, Rev.
+John Seys, in placing them in the families of the citizens, as far as
+it was practicable, has banished all their fears, and seems to work
+gloriously. Numbers of the children are attending Sabbath schools
+and public service every Sabbath, and are learning rapidly. To me
+this is another evidence of the workings of Divine Providence.</p>
+
+<p>I was happy to have the honor of taking a part in the arduous
+labors, with my old friend Mr. Seys, in his disposition of the great 
+number of these recaptives which were placed under his care. Mrs.
+Seys, wife of the Rev. John Seyes, has distinguished herself in assisting
+her husband in taking care of the miserable thousands which
+were placed here. Her labors have been astonishing to all, and one
+could be led to believe that God had sent her here for the special
+crisis. The noble act of the United States Congress in their very
+liberal appropriation, has enabled this Government and its citizens
+to bestow upon these miserable sufferers that care which their 
+condition demands:&#8212;all of which I hope will work to the glory
+of God and the up-building of our down-trodden race.</p>
+
+<p>I cannot close this very short communication without some 
+expression in relation to yourself and the great work in which you so
+long have been engaged; and it is my firm belief that there will be
+many to rise up in the Day to come and call you blessed. your
+labors in this good work have been and are such as will win for you
+laurels which Angels might covet:&#8212;you having been among the first
+to advocate the great scheme of Colonization.</p>
+
+<p>We have had another visit from our old and tried friend, Mr. Hall;
+we are always glad to see him. I have to close, and leave much unsaid
+that I wish to say; but I will save it for the next time.</p>
+
+<p>With much respect, I remain your most humble servant in Christ<lb/>
+B. R. Wilson.</p>
+
+<p>Mr. H. W. Dennis, Agent of the Society, writes to the Financial 
+Secretary, under date of Monrovia, February 28, 1861:</p>
+
+<p>"Yours by the <hi rend="italics">M. C. Stevens</hi> came duly to hand, and contents
+noted. A number of the emigrants went to Cape Palmas, and a
+family to Grand Bassa. One family stops at this place, and the 
+remainder are located at Careysburg. The road is in progress, and 
+may be completed before the return of the ship. The Government
+was pleased, after Dr. Hall's arrival here, to contract for it with Dr.
+Daniel Laing, and not at a public auction. I am very glad,
+however, that the road is going ton, and the prospect is fair that we 
+will be able to use our wagon and cart upon it before the year is out.
+
+<pb xml:id="p137" n="teaa.en.periodical.0052.008"/>
+
+"The two sugar mills have been disposed of, as well as the four
+cauldrons. * * Quite a number of persons have requested
+me to order for them a small sugar mill and two boilers, just like the
+ones you sent this time, and to cost the same. our people often call
+for the above articles, and some have requested me to order some for
+them. And now, since they have so many Congoes to help them 
+work, their calls are more frequent and urgent."</p>
+
+<p>Also, from Mr. J. H. Dennis, dated Careysburg, February 20, 1861:</p>
+
+<p>"Many who were expected by the last arrival to come here, were
+persuaded to go with those who came out for Sinou and Cape Palmas,
+which lessened our number to twenty-four. Though few in number,
+they are a great addition to our settlement, and will become good
+citizen, having been very industrious since their arrival, in cleaning
+their lands and erecting their houses. Two families have moved into 
+their houses this month, and three or four more expect to move within 
+two weeks. There have been no deaths up to this date, and but  
+little sickness. I hope they will suffer less than the previous 
+company. The Cuthbert family are getting along as well as could be 
+expected."</p>
+
+<p>From J. H. Deputie.</p>
+
+<p>Tracy Receptacle, Robertsport, February 12, 1861.</p>
+
+<p>Rev. and Dear Sir: * * *</p>
+
+<p>"We were once more greatly disappointed, on the arrival of the 
+ship, by receiving no emigrants for our almost forsaken settlement.
+We hope, and look forward with blessed anticipation, that the day is
+not far distant when our little settlement shall flourish by the accession
+of emigrants, and the work of civilization be promoted; and not
+only that we but others around us may realize a glorious result. I respectfully
+solicit your attention to this momentous point, and hope
+that you will use your influence towards the promotion of our settlement,
+and let us have a few more people among us, and see what can
+be done towards opening settlements up the rivers that surround us.</p>
+
+<p>* * * The recaptives are now in the hands of this
+Government, which is to carry out the agreement of the Society and
+the U.S. Government, and of which you will shortly hear.</p>
+
+<p>"While the recaptives were under the auspices of the Society,
+they attended school under my supervision, and I am glad to say I
+could report progress. At the expiration of my last quarter, many
+of them could read in primary readers and spell in two, three and
+four letters. you will perceive by the roll containing their names
+and ages, that they are mostly young, which renders their minds
+
+<pb xml:id="p138" n="teaa.en.periodical.0052.009"/>
+
+more susceptible of receiving instruction. The Echoites are doing
+well, and of the twenty-five that came to this place none have died.</p>
+
+<p>"In conclusion, I would recommend to you the necessity of having 
+the Receptacle reshingled, as the rains will soon commence and the
+house is in a very lakey condition." * *</p>
+
+<p>From Nathaniel Brooks.</p>
+
+<p>"Mt. Tubman, Cape Palmas, January 1, 1861.</p>
+
+<p>"Reverend Sir:</p>
+
+<p>"I received your letter on the 16th ult., which found me in good
+health: I hope that these few lines when they reach you may find
+you the same. I feel thankful for your continuation of correspondence.
+When I read your letter I was astonished to hear of the unbelief
+of my colored friends.</p>
+
+<p>"Our crops are prosperous for the ensuing year, and great 
+tranquility prevails at present. There is a great revival in the Methodist
+Church.</p>
+
+<p>"I will send you twelve canes, in the care of Dr. Hall; please
+walk with one of them yourself, and please give on to Mr. &#8212;,
+and distribute the others to the rest of the Patriarchs of the Society.</p>
+
+<p>"The Episcopal Mission has built a house up the Cavalla River,
+about eighty or ninety miles distant. It is a beautiful river, and I
+think it would make an excellent settlement for emigrants, as it is
+well timbered, mountainous and healthy. There is room enough
+here to accommodate thousands of my colored friends.</p>
+
+<p>"I have been in this country so long, that I expect the people of
+Georgetown and Washington think that I am dead; but tell them
+that I am well, and doing well, and invite all to come. Please send
+me a journal occasionally."</p>
+
+<p>Extracts from message of President Benson.</p>
+
+<p>The <hi rend="italics">Liberia Herald</hi> of December 5, 1860, says:</p>
+
+<p>We publish in this number the Message of the President, delivered
+to-day to the Legislature, which convened on the 3d instant. The
+Message was listened to attentively by a full house; and it seemed
+that there was general satisfaction with the views and policy contained in it.
+We hope the Legislature will give to each subject contained
+in the Message that consideration which its importance demands.</p>
+
+<pb xml:id="p139" n="teaa.en.periodical.0052.010"/>
+
+<p>Fellow Citizens of the Senate and House of Representatives:</p>
+
+<p>* * * *<lb/>
+Your last and highly commendable short session afforded me the
+necessary time to have prosecuted, before the termination of the dry
+season, the purpose which I signified to you in my last annual
+message, "of effecting, during the last dry season, a demolition of the 
+barricades of some of our aborigines, especially at Cape Mount and
+New Cess; and of establishing peace among them, as far as could be,
+on a permanent basis." I am pleased to say, that my expectations
+were more than met, without the least hostile demonstration; and the
+fruits have been eminently manifested in the unusual and profitable 
+increase of our commerce during the past year.</p>
+
+<p>There are one or two chiefs living in the interior, some instance
+north of Cape Mount, whose misunderstandings remain yet to be
+adjusted, which, for want of time, could not be attended to last dries.
+But as they are anxious for government interposition, and have sent
+several solicitations, I apprehend no difficulty in having them all
+arranged early in the dries, provided the Superintendent at Robertsport
+shall not have previously succeeded. In fact, though there are
+some minor misunderstandings among several clans along the coast,
+yet the only case that seems to have particularly assumed such an
+aspect as now to require prompt action on the part of this government,
+is the misunderstanding and hostile relations subsisting between the
+Po River and Padae people, living thirty or forty miles to the northwest
+of Cape Palmas, to which, and especially the obligations of the 
+government to the latter, growing out of treaty stipulations, I have 
+more than once invited your attention. The efforts of which I made
+mention in my last annual message, that were being employed by the
+Superintendent of Maryland County, and the bright prospect he then 
+had of success in adjusting the difficulties between those tribes, (the
+former having promised to remove to their own domain,) have all 
+proved abortive; and I am informed that the impression of the leading 
+men of that County is that nothing short of the employment of 
+force will effect the object, which they regard as indispensable. I
+have therefore to request, that if what you may learn in addition on 
+this subject, from the representatives from that County now present,
+be such as to justify it, you will authorize the coercive removal of the
+aggressors, and that you make appropriation sufficient for employing
+the requisite military force.</p>
+
+<p>Should you deem it necessary to employ a force for the purpose
+aforesaid, it will no doubt be the mans also of quieting two or three
+factious tribes in that vicinity, and of putting an effectual stop to the
+cruel, heathenish practice of administering the poison of saucy wood,
+which still obtains among some of the aborigines living in the vicinity
+of our settlements in that County. Several cases of a most revolting 
+nature occurred this year, for which the perpetrators should be punished. 
+The time has come when such homicidal practices by natives
+living (at least) within the vicinity of our settlements, should be
+promptly checked. If this government has the right and power to
+stop it, (which I presume no one will deny,) then it becomes a moral
+
+<pb xml:id="p140" n="teaa.en.periodical.0052.011"/>
+
+duty, and the neglect of such a duty involves moral delinquency and
+national guilt.</p>
+
+<p>I am gratified to be able to state, that this new Representative Hall,
+commenced the latter part of last year, is now completed, at a cost of
+$4,389, and is acknowledged to be the best public building in the
+Republic. The second story has been laid off into commodious public
+offices, which saves the expense of the rent of two buildings for that 
+purpose, to which government was previously subjected. * *</p>
+
+<p>The spirit of agricultural industry has increased most encouragingly. 
+Several of the leading articles of domestic provisions have never in
+the history of Liberia been more abundant and cheap, than they
+were last, and have been the present year. And the production
+of exportable articles by our civilized communities this year, will be
+more than two hundred per cent. in advance of the preceding year.
+It affords me pleasure to say that the National Fair, instituted a few
+years ago by your patriotism and wisdom, has, as was but reasonable
+to suppose, largely contributed to the industrial interest of the Republic.
+It is an institution which every intelligent patriot will ever
+duly appreciate; an institution in which the great masses&#8212;particularly
+the laboring classes of our citizens&#8212;take the liveliest interest,
+because they regard it particularly as their own; one at which they
+can (though occupying an humble position in life) honorably demonstrate
+their manliness and patriotism, by an exhibition of samples
+of what they are doing, not only for the comfort of themselves and
+families, but also for the substantial prosperity of Liberia. And I
+cordially endorse the very judicious and patriotic sentiment of the
+respected chairman of the intelligent Adjudicating Committee of the
+last Fair,&#8212;'That every cent expended on the National Fair yields
+to Liberia a thousand fold." Much is due to several warm friends
+of Liberia in the United States, for contributing so liberally in 
+facilitating the development of the productive industry of this Republic,
+by the timely supply of machinery, &amp;c., &amp;c., on very accommodating
+terms. * * * *</p>
+
+<p>I have already intimated that there has been a manifest increase
+during the year in our commerce, at an advance of nearly fifty per
+cent. over the preceding year. This has arisen from the increased 
+production by our aborigines, as well as civilized communities. While
+the former have unusually devoted themselves to the production of
+palm oil, dye-woods, cotton cloths, &amp;c., the latter have been equally
+diligent in the production of sugar, syrup, molasses and coffee. And
+though the quantity may as yet be regarded as comparatively small,
+yet the annual increase is very encouraging. And if government 
+should continue to be so fortunate in its efforts for the preservation
+of peace and the suppression of the slave trade among the aborigines,
+there is no doubt that their devotion to legitimate industrial pursuits
+will most gratifyingly increase with each succeeding year.</p>
+
+<p>By reference to statistics in the Report of the Secretary of the
+Treasury, it will be seen that more than fifty per cent. of the commerce 
+of this Republic is carried on with the United States of
+America. Considering that Liberia is the offspring of American
+
+<pb xml:id="p141" n="teaa.en.periodical.0052.012"/>
+
+benevolence, and the fact that we have brought with us to these
+shores the language, religion, and to some extent the customs and
+manners of that people, it were natural to suppose that the avenues
+to the development of our commerce, so far as foreign instrumentality
+was expected to operate, would first emanate from and lead to that
+country. And it cannot be denied that Liberia has striven earnestly,
+and struggled hard, during the entire length of time we have existed
+as a sovereign state, to establish and perpetuate that comity, that 
+international and commercial intercourse of reciprocity, so indispensable
+for successfully promoting the commercial interest of the citizens of
+both nations. These efforts on the part of this government, instead
+of being seconded in a spirit of just reciprocity by that government,
+have, up to this date, been treated indifferently, if not contemptuously, 
+either by silence to the appeals of this government, or by an indirect 
+assurance, that while the administration of that government entertains 
+the best feeling toward Liberia, and would be happy to do whatever
+it consistently can to promote our national interests, finds it impracticable
+and impolitic, in the present agitated state of that country
+on the all-absorbing "peculiar institution" question, to treat with us 
+fully as a sovereign state, or even to temporarily regulate the 
+commercial intercourse of the citizens of the two countries under the 
+act of Congress which invests the President of that Republic with
+the prerogative, in the absence of treaties subsisting with any government,
+to admit and treat the citizens and vessels of such nation,
+within the jurisdiction of the United States, on terms of reciprocity.</p>
+
+<p>It is for you to determine at this session, if after its close it cane be 
+regarded any longer as politic, or even just, for this government to
+accord such commercial privileges to citizens of the United States,
+as are accorded to citizens of the most favored nations with which we
+have treaties of friendship and commerce, based upon principles of
+reciprocity, when the United States Government refuses to accord to
+us similar privileges. Can this government any longer, in justice to 
+itself, to its citizens, and to those nations with which we have treaties
+of reciprocity, consistently recognize the pursuit of such a policy of
+commercial intercourse with the United States as virtually prevents
+our citizens, in their own vessels, from profitably participating in the
+commerce of that country, and throws open our ports and line of sea
+coast of the citizens and ships of that nation, for an unrestricted and
+profitable trade within the jurisdiction of this Republic?</p>
+
+<p>Infant and feeble nation as we are, and emanating form them, it
+was to be expected that the magnanimity of that government would
+have voluntarily consented to accord to us, in our struggle for national
+life amidst great difficulties, commercial privileges more favorable
+than those received from us. It is impossible for Liberian merchants,
+in their own vessels, to succeed in honest competition in the United
+States, under the great pressure of existing discriminating duties.</p>
+
+<p>* * * * * *</p>
+
+<p>Agreeably to your resolution, approved January 14, 1860, a 
+contract for one year has been entered into between the Secretary of the
+Treasury and the owners of the steamer <hi rend="underline">Seth Grosvenor</hi>, to go into
+
+<pb xml:id="p142" n="teaa.en.periodical.0052.013"/>
+
+effect the 1st of January proximo, for monthly, and when practicable,
+semi-monthly, cruises from this port to the river San Pedro,  touching 
+at the ports of entry and the principal intermediate points, each trip
+up and down the coast, to convey the mails, also government officers,
+troops and property, when required, and to assist in guarding our
+line of coast against infractions of the navigation, commerce and
+revenue laws of this Republic, and especially the revival of the nefarious
+slave trade. I will not here attempt to enumerate the items
+of service stipulated to be rendered, as a copy of the contract, if 
+desired, will be transmitted to you. In consideration of the service
+stipulated to be rendered, the government has agreed to pay them
+the sum of three thousand dollars per annum; government reserving
+to itself the privilege of abrogating the contract, provided the line of 
+British Mail Steamers should, at any time during the year, cease to
+touch at Cape Palmas. The <hi rend="underline">Quail</hi> will be kept, during the year,
+cruising for the same purpose, mostly between this port and Shebar,
+our northwestern boundary. This has become highly necessary, since 
+the vigilance and late success of American cruisers, in making 
+captures on the south coast have resulted in the attempt to revive that
+piratical traffic, the slave trade, on our coast.</p>
+
+<p>On the 2d of November, and within four hours after the receipt of 
+the despatch from Mr. Superintendent Stryker, of Cape Mount, informing 
+me of the fact, I despatched the <hi rend="underline">Quail</hi> to Gallinas and 
+Solyma, in search of a slaver reported to have been cruising off those 
+notorious slave marts of past days, and had been seen for a week or 
+more, running into land each afternoon and going to sea in the morning. 
+The <hi rend="underline">Quail</hi> was ordered to call via Cape Mount, and take up 
+Mr. Superintendent Stryker to Gallinas and Solyma, whom I had 
+instructed to land and visit the chiefs, of whom and the places at 
+which it was reported slaves were being accumulated; and to gather a
+ll the information he could as to the fact, and to threaten the chiefs 
+with severe punishment if a slave was permitted to be shipped from 
+that region. The Superintendent had interviews with the principal 
+chiefs: Prince Manna, of Gallinas, professed to know nothing about 
+the slaver, except from report. He said that he had permitted none 
+to land or operate in Gallinas territory. The chiefs of Solyma 
+acknowledged that a number of doubloons had been landed from the 
+vessel, which had proceeded to the leeward to be back in a week or 
+two; but that they never intended to pay a farthing of the money 
+they had received; that they never intended a slave to be shipped off 
+from there, because they knew it would bring on them a chastisement 
+by this government. The Superintendent learned that some few 
+Spaniards had been landed from the vessel and were on shore, 
+secreted up some of the rivers, and he reported to me soon after the 
+result of his mission.</p>
+
+<p>I immediately, under date of 12th November, wrote to Prince 
+Manna, in positive terms, that he was implicated in the matter, and 
+his pleading ignorance amounted to nothing; that the Spaniards, 
+and such slaves, if any, as may have been accumulated, must be given 
+up to the Commissioner; and in the event of his refusing to do so,
+
+<pb xml:id="p143" n="teaa.en.periodical.0052.014"/>
+
+or allowing a slave to be shipped off from that region, he would be 
+severely punished, and perhaps driven entirely out of that country by 
+a military force, which this government would feel compelled, in 
+such case, to employ. * * * That part of our coast 
+snail be diligently guarded, especially until that vessel has been either 
+captured or left our coast. And Prince Manna and other chiefs will 
+be held accountable for any implication or delinquency in the present 
+as well as future cases. He must be taught, by whatever means will 
+prove most effectual, the obligations of allegiance he is under to this 
+government. Had the affair not occurred within a few days of your 
+session, I would have sent up a sufficient force and brought those 
+Spaniards down. My reason for presenting this matter in detail to 
+you, is simply that you may be cognizant of a case that may be 
+attempted to be repeated within the jurisdiction of this Republic more 
+than once within the next twelve months, and to invite your attention 
+to the propriety of making a sufficient appropriation, and authorizing 
+the raising of a sufficient force, military or otherwise, in the rainy or 
+dry season, for the purpose of demanding and arresting such pirates 
+in future, upon a moment's warning of Liberia's soil being polluted 
+by such incarnate demons. Prompt, and when necessary, summary 
+action on shore, both with the chiefs and foreign slavers, will be the 
+only effectual means of causing a cessation of future piratical visits to 
+our coast.</p> 
+
+<p>I have repeatedly invited the attention of the Legislature to the 
+necessity of providing a criminal code of laws for this Republic. 
+Until within the last eighteen months, the criminal law of England, 
+so far as was applicable to our republican form of government, was in 
+general use. But since that period it has been decided by the judges 
+that the criminal law of England is not enforcible in this Republic, 
+since there is no existing statute adopting it as a part of our laws.</p>
+
+<p>The House of Representatives did, in 1858, adopt a resolution, 
+appointing three gentlemen to draft a criminal code; but the resolution 
+being the exclusive action of the House, could not be regarded 
+as law, and consequently the gentlemen designated declined serving. 
+It will greatly endanger the security of life, property and liberty, in 
+this Republic, to defer this matter any longer. I recommend the 
+immediate adoption of the criminal law of the United States, or of 
+England, so far as applicable to our condition—at least until a criminal 
+code can be drafted, for which I hope you will make provision 
+without delay.</p> 
+
+<p>The Journals of the Senate and House of Representatives, 
+commencing from the Declaration of Independence, up to your last session, 
+have been, during the year, corrected and legibly transcribed, in 
+excellent substantial books, in conformity to your resolution, approved 
+February 24,1859, authorizing and requesting the same. I shall be 
+pleased to have you appoint a committee for their inspection.</p> 
+
+<p>I shall transmit to you, in a day or two, a communication from the 
+State Department, inviting your attention to the equal, if not paramount, 
+propriety of authorizing an immediate transcription, in permanent 
+books, of the old Colonial records and documents of interest,
+
+<pb xml:id="p144" n="teaa.en.periodical.0052.015"/>
+
+which will embrace a period of about a quarter of a century. Those 
+records have been, for years, in a very shattered condition, and will, 
+in a few more years, be entirely lost to us, if not transcribed very 
+soon; the loss of which would be deeply lamented throughout the 
+future of Liberia. * * *</p>
+
+<p>Nothing to my knowledge has occurred during the year, to interrupt 
+the tranquility of our foreign relations. In view of the great 
+anxiety and expense to which this infant State was subjected, (at 
+least for three or four years,) immediately after the Declaration of 
+our Independence, which trouble and expense grew mainly, if not 
+entirely, out of misrepresentations made to foreign governments, 
+respecting the policy of this infant State in matters which affected the 
+interest of their citizens, I have striven earnestly during my entire 
+administration to prevent, as far as I could, even the possibility of 
+misrepresentation; and I am pleased to say, that excepting the 
+misstatements in the Regina Cœli's case, which have been long since 
+corrected, and the policy and character of this government satisfactorily 
+vindicated, this government has succeeded in its cherished desire.</p>
+
+<p>No honorable means will be neglected during my future administration 
+to cultivate, strengthen and perpetuate the most friendly 
+feelings in our foreign relations; and if I should be thwarted, it will 
+only be by a well studied plan of mischievous misrepresentation, 
+which may be for a time beyond my control.</p> 
+
+<p>I feel unwilling to close this communication without an allusion to 
+the sad loss Liberia has sustained during the year, in the death of 
+the Hon. A. D. Williams, ex Vice President of this Republic, and at 
+the time of his death Superintendent at Robertsport; as also of the 
+Hon. ex Senator John Hanson, Senator M. A. Rand, of Grand Bassa 
+County, and Hon. Judge Hansford, of Sinou County. The loss of 
+those faithful and patriotic public servants is very severely felt 
+in Liberia. In fact, the rapid passing away annually of our leading 
+men, would almost depress us beyond endurance, if we were not so 
+encouragingly relieved by the brilliant genius, and the moral and 
+patriotic characteristics, manifested by a respectable number of the 
+young men, either born or raised up among us, who, I have no doubt, 
+will by the blessing of a benign Providence, be fully prepared, in 
+due time, to occupy our places, and acquit themselves honorably and 
+creditably as public functionaries.</p> 
+
+<p>I close this communication, gentlemen, with the assurance 
+that you shall have my cordial co-operation, as far as may be required, 
+in the discharge of the duties of this session.</p>
+
+<p>Stephen Allen Benson.</p>
+
+<p>Government House,<lb/>
+Monrovia, December 5, 1860.</p>
+
+<pb xml:id="p145" n="teaa.en.periodical.0052.016"/>
+
+<p>The <hi rend="italics">Liberia Herald</hi> of December 19, 1860, publishes the 
+proceedings of the Board of Directors of the American Colonization Society 
+of October 25th, on the subject of the Recaptured Africans, and 
+says, in relation to the visit of the bearer of these proceedings to the 
+Government of Liberia, Dr. James Hall:</p>
+
+<p>Doctor James Hall, of Baltimore, than whose name none other stands 
+more prominent on the long list of Liberia's foreign friends, is at this time 
+paying us a visit: The Doctor is an old, thoroughly tried and well proved 
+friend of Liberia. He has ever evinced an unswerving energy, as well in the 
+organizing and founding of measures tending to promote Liberia's welfare, as 
+a sterling zeal in carrying forward and promoting every possible plan aiming 
+at her real interest. This character, so worthily deserved, is universally 
+accorded to the Doctor by the entire Liberian public.</p>
+
+<p>The name of Dr. James Hall will occupy no small place in the future history 
+of Liberia. Thirty years the Doctor has been variously and most intimately 
+connected with Liberia and Liberian affairs.</p> 
+
+<p>The Resolutions copied in another column of this present issue, will give 
+information as to the ostensible object of the Doctor's present visit to us; thus, 
+although now the evening of his days draws upon him, he is still actively 
+giving himself to his cherished cause—the interest of Liberia.</p>
+
+<p>The Doctor is accompanied by his daughter, Miss Caroline, who, as also 
+the Doctor, is in feeble health, and visits this climate with the hope of improving. 
+We wish for them both a full realization of this hope.</p>
+
+<p>From the <hi rend="italics">Herald</hi> of the same date we select the following articles:</p>
+
+<p>Rev. E. W. Blyden intends paying a visit to his mother and family in his 
+native place, St. Thomas, West Indies. Mr. Blyden will probably leave in 
+the next month's mail steamer, and will spend a short time in visiting some of 
+the principal parts of England, before going to the West Indies. He will also 
+visit the Canadas and the United States. The Presbyterian Church here have
+commissioned Mr. B. a delegate to the General Assembly to be held in 
+Philadelphia in May next.</p>
+
+<p>We have been informed that the Rev. E. W. Stokes has received a call from 
+the Episcopal Church in the United States, inviting him to go to Hayti to take 
+part in the organization of an independent Episcopal Diocese, intended to be 
+established there.</p> 
+
+<p>Death.&#8212;Rev. H. Green, Sinou. By the Seth Grosvenor we have received 
+the sad intelligence of the demise of the Rev. Hezekiah Green, within the month, 
+minister in charge of the Protestant Episcopal Church in Sinou. Mr. Green 
+died of consumption, from which he had been suffering for several years.</p>
+
+<p>From the same paper, of January 2, 1861, we copy the following:</p>
+
+<p>Prince Marmora, or Boatswain.&#8212;This chief, after a lapse of five years, 
+has made another visit to our capital; arriving here on the 29th ult., he immediately 
+waited on the President and made known the object of his visit. From 
+
+<pb xml:id="p146" n="teaa.en.periodical.0052.017"/>
+
+this same chief we procured some of our allies in the Sinou war, and his 
+present visit, also, is in some way connected with aiding the Government in
+carrying out its purposes. Marmora was sent as a deputy by a number of 
+chiefs in the interior, to confer with this Government in reference "to keeping
+the path open," to the interior, and to obtain the promise of the Government to 
+assist him in procuring property that may be fraudulently brought away by 
+his subjects, and also to provide that subjects committing other crimes be not 
+allowed to escape justice. The chief is followed by a retinue exceeding 
+one hundred; of which his band, composed of five horns, (four of ivory and one of 
+wood,) two drums, and three cymbals, with several vocal singers to accompany
+the cymbals, forms a part. The chief is noble in appearance, although not as
+tall as many of his subjects. When visiting, either on business of State or 
+privately, he is accompanied, not by his whole retinue, but only his principal
+officers, and his demeanor is in accordance with the dignity of his position. 
+The last was a year for the visits of princes, and Liberia has had her share of 
+the visits.</p>
+
+<p>The Dinner.&#8212;To-day we were present at a dinner given by our fellow-citizen, 
+Dr. S. P. McGill, at his residence; there were many gentlemen of high 
+standing present; and it is easy to imagine our glad surprise when, on entering 
+the reception room, we saw the Chief of whom we have just spoken, Marmora, 
+present also. At the table there was a toast drank in honor of the Chief, who 
+replied in English, in a very appropriate manner. The presence of the Chief 
+seemed to have given the guests as much pleasure as the good things under 
+which the table (and some of the guests afterwards) groaned. We were delighted 
+with this feature of the dinner, and the attempt to pay honor to our 
+princely visitor was suggested by a noble idea. The dinner was completed at 
+8 o'clock, and the company dispersed, all well pleased with the enjoyment of 
+the day.</p>
+
+<p>The "Saratoga" again.&#8212;We are pleased to announce the appearance in 
+our harbor of this man-of-war. It has been sixteen or seventeen years since 
+we first saw this vessel here, on her mission of assisting to break up the slave 
+trade on the west coast of Africa. The Commander, Captain Taylor, who 
+visited Liberia in the Cyane about twenty years ago, is the same good-hearted 
+gentleman that he then was, and appears to be a man of determined energy and 
+zeal. His officers, also, appear to be of the right kind. We wish for this
+vessel also the good fortune of gathering her "New Year's gift," in the 
+capture of slavers.</p>
+
+<p>Officers of the U.S. Sloop of War Saratoga.&#8212;Commander, Alfred Taylor;
+First Lieutenant, J. J. Guthrie; Second Lieutenant, C. W. Hayes; Third 
+Lieutenant, J. S. Skerrett; Fourth Lieutenant, F. M. Ramsay; Surgeon, R. 
+W. Jeffery; Assistant Surgeon, J. E. Lindsay; Paymaster, J. N. Carpenter; 
+Master, H. H. Dalton; Marine Officer, 1st Lieut. H. B. Tyler; Midshipman, 
+N. H. Farquhar; Carpenter, J. W. Stimson; Gunner, R. H. Cross; Sailmaker, 
+G. W. Frankland; Boatswain, George Smith; Captain's Clerk, Benjamin R. 
+Spekell; Paymaster's Clerk, F. G. Rowe; Master's Mates, Lewis Rogers, A. 
+P. Matthews. Passengers, Lt. E. K. Owen, Lt. L. A. Beardslee.</p>
+
+<pb xml:id="p147" n="teaa.en.periodical.0052.018"/>
+
+<p>Also, from the same, dated February 6, 1861:</p>
+
+<p>Padee Expedition.&#8212;Agreeably to an act passed by the Legislature at its 
+last session, authorizing the employment of an armed force to quell the rebellious 
+movements of the Po River or Naffau Tribes, in Maryland County, a
+detachment from the First Regiment of 225 men, left this place on the 4th inst. 
+under the command of Lieut. Col. Isaac Lawrence, for Harper, Maryland: 
+this detachment will also be joined by 50 men from the Second Regiment at 
+Bassa.</p> 
+
+<p>The troops went down on board of the Government Schooner Quail, 
+the Steamer Seth Grosvenor, and the Schooner Randall. His Excellency President 
+Benson accompanied the troops. Capt. S. C. Fuller, of the Johnson Guard, 
+and the Hon. J. T. Gibson, Superintendent of Maryland County, will be Aids 
+to His Excellency.</p>
+
+<p>We wish for the expedition a highly successful issue.</p>
+
+<p>Death or the Rev. E. P. Rodgers.&#8212;We have learned, with deep regret, 
+of the death of the Rev. E. P. Rodgers, at Cape Palmas, about the 19th ult.</p>
+ 
+<p>Mr. Rodgers will be remembered as one of the three gentlemen who recently 
+touched at this port, on board of Captain Alexander's vessel, on their way to 
+prosecute the exploration in the Yoruba Country begun by Dr. Delany 
+and Mr. Campbell, in behalf of the African Civilization Society. It was Mr. 
+Rodgers who so agreeably entertained our townsfolks on the evening of the 
+12th of December, in the M. E. Church, by the rehearsal of his Poem&#8212;"A 
+man's a man for a' that."</p> 
+
+<p>Mr. Rodgers and his co-travelers were awaiting the arrival of the packet at 
+Cape Palmus.</p>
+
+<p>During Mr. R.'s short stay at this place he expressed himself as deeply 
+interested in our interest, and much attached to our people, who evinced great 
+pleasure in welcoming and introducing him among all. We had the pleasure 
+of his company on several occasions, and twice at our office, and discovered in 
+him an appreciableness of character and ability.</p> 
+
+<p>We join our sympathies with his friends in his native land, in mourning his loss.</p>
+
+<p>The M. C. Stevens returned to this port on the 3d inst., from the leeward. 
+After a stay of from three to four weeks, she will leave for the United States.</p> 
+
+<p>Dr. Hall, and the Sinou River Falls.&#8212;During the stay of the Stevens, 
+upward bound, at Sinou, Dr. Hall paid two visits to the Sinou River Falls 
+or Rapids; first as a visit of curiosity, and second, in order to be with and assist 
+Superintendent Morris in selecting, laying out, and making general arrangements 
+for the new settlement, designed to be made there by this Government, 
+to which the recaptives now at Sinou are to be transferred.</p> 
+
+<p>Lower Buchanan.&#8212;Bishop Payne, writing of Lower Buchanan, (Fishtown, 
+Bassa,) calls it the "Fines! Port in Liberia," and regrets that it is "going rapidly 
+to decay." We endorse both sentiments.</p>
+
+<p>Cape Palmas.&#8212;We extract the following from the "Cavalla Messenger"
+for November last:</p>
+
+<p>Business is brisk as yet here; the oil season is now coming on, and we look
+
+<pb xml:id="p148" n="teaa.en.periodical.0052.019"/>
+
+soon to see long lines of native caravans of rice and oil. If cotton could be one 
+of our staples also, how soon would we command a large trade all along our 
+coast! God speed the day when all our farmers will look to the raising of 
+cotton in Liberia.</p> 
+
+<p>We copy from the <hi rend="italics">Herald</hi> of February 20th, the following notice 
+of the death of Mrs. Benson:</p>
+
+<p>"Yet mourn her not—the voice of wo 
+Befits not this, her triumph-hour; 
+Let Sorrow's tears no longer flow, 
+For life eternal is her dower! 
+Freed from the earth's corrupt control, 
+The trials of a world like this, 
+Joy! for her disembodied soul 
+Drinks at the fount of perfect bliss!"</p> 
+
+<p>At 8 o'clock, A. M., 16th inst., at the Mansion House, after considerable 
+illness, died Mrs. Nancy Benson, the wife of His Excellency President Benson. 
+As soon as the news of her death was heard, the public offices were closed, and 
+the doors draped in mourning. The flags in town and on the vessels in harbor 
+were half-masted the rest of the day. The funeral ceremonies commenced on 
+the 17th, (Sunday,) at 11 o'clock. Previous to that time, the flags in the town 
+and the harbor were again half-masted. A large concourse of citizens were 
+present, officers of Government, and foreign Consuls.</p> 
+
+<p>The religious ceremonies at the Mansion were conducted by Revs. Thomas 
+Fuller, B. R. Wilson, and G. W. Gibson; after which, the Mayor of the city, 
+Hon. B. V. R. James, formed the procession in the following order:</p> 
+
+<p>1. The Clergy; 2. The Physicians; 3. The Foreign Consuls; 
+4. The Members of the Cabinet; 
+5. Pall-Bearers. } Corpse. { Pail-Bearers. 
+6. Family of Deceased; 7. Ladies' Benevolent Society; 
+8. Officers of the General Government and City Council; 
+9. Citizens in general.</p>
+
+<p>This long procession moved in solemn order to the grave-yard; and the 
+corpse was deposited near where sleep many of the pioneers of Liberia&#8212;to 
+remain there until the trumpet of the archangel shall summon it to arise, and 
+put on a glorious immortality.</p>
+
+<p>The ladies of Monrovia showed their appreciation of the worth of this noble 
+woman, in arranging the drapery of the house, of the corpse, and doing willingly 
+whatever female hands could find to do: for which they have our sincere 
+thanks, and through us, the thanks of the husband of the deceased.</p>
+
+<p>It was sad, when on the morning of the ]6th inst., at the Mansion House, 
+Mrs. Nancy Benson departed this life. It was sad, because we were so reluctant 
+to part with her; and because we knew not that death would have so 
+soon deprived us of such a friend. Mrs. Benson, in her last illness, as in most 
+other cases of extreme sickness, was not favored with the presence of her husband; 
+public duty&#8212;an inexorable master&#8212;had called him away. When on 
+the morning of the 5th inst., he embarked with the troop's for the seat of war, 
+there was something that rested heavily on his mind, though he hoped for Mrs. 
+Benson's recovery, from the signs of her improvement that were then manifest.</p>
+
+ 
+<p>Mrs. Benson was in her fortieth year when she died; and for years she had 
+been an acceptable member of the M. E. Church. From her earliest youth to
+
+<pb xml:id="p149" n="teaa.en.periodical.0052.020"/>
+
+the grave, she was endued with a calm, holy spirit. Nothing of frivolity, 
+nothing of vanity, was seen in her whole life. Her being seemed formed not 
+for this world; for in the midst of the bustle of life, in prosperity and in 
+adversity, in sickness and in health, she seemed as one unmoved by the affairs of 
+life, (only so far otherwise as God required,) seeking something that was not to 
+be found in the hollow joys of earth. Do we speak too much? Let her bitterest 
+enemies testify to the truth of what we have said.</p> 
+
+<p>Lecture.&#8212;On the evening of the 15th instant, at the Representative Hall, 
+Rev. Alexander Crummell lectured on "The English Language in Liberia." 
+The subject was ably treated, and the discussion betrayed great depth of 
+thought. After the lecture, it was resolved that the audience show their 
+appreciation of the lecture by contributing an amount of money to be placed at 
+the disposal of the lecturer. The sum of $32.42 was subscribed. We are 
+happy to see this appreciation of literary merit; not because wisdom can be 
+purchased with money, or because money is a fair equivalent for literary 
+attainments; but because this spirit of appreciation has been so long and so sadly 
+wanting in Liberia; and because this want has tended, as much as any other 
+cause, to stifle literary aspirations.</p>
+
+<p>We beg to repeat our request, made in the last number, that our friends will 
+endeavor to procure and send us natural curiosities of Africa, for the Museum 
+in the Exhibition at London early next year. We repeat the request, because 
+the object aimed at in forming the African Aid Society, and in procuring in 
+the Exhibition a place for its African Museum, is one that deserves and demands 
+the furtherance of every friend of the African Races. We hope Liberians 
+will not be the last to manifest an interest in such matters.</p>
 
 </div2>
 
