@@ -11,7 +11,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Akyeampong, Chelsea" xml:id="CAA">CAA</name>
+<name n="Akyeampong, Chelsea" xml:id="caa">CAA</name>
 <!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
 </respStmt>
 </titleStmt>
@@ -73,7 +73,7 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
@@ -98,7 +98,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-04-26" who="#CAA">transcribed and encoded</change>
+<change when="2019-04-26" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 

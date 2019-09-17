@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from H.M. Scheiffelin to Hamilton Fish Jany 13, 1871</title>
+<title>Letter from H. M. Schieffelin to Hamilton Fish, January 13, 1871</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
-
+<name n="Akyeampong, Chelsea" xml:id="caa">Chelsea A. Akyeampong</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from H.M. Scheiffelin to Hamilton Fish Jany 13, 1871</title>
+<title level="a">Letter from H. M. Schieffelin to Hamilton Fish</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="1871-01-13">Jany 13th, 1871</date>
+<date when="1871-01-13">January 13, 1871</date>
 </bibl>
 </sourceDesc>
 
@@ -62,29 +62,28 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
-    
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+ 
+<keywords scheme="original" n="places">
+<term>Liberia</term>
+<term>Masadu</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -95,26 +94,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>H.M. Scheiffelin</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName>Yonkers, N.Y.</placeName>
+<persName>Schieffelin, H. M.</persName>
+<roleName>Chargè d'Affaires of Liberia</roleName>
+<placeName>Yonkers (N.Y.)</placeName>
 <date when="1871-01-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Hamilton Fish</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<persName ref="http://viaf.org/viaf/232585893">Fish, Hamilton, 1808-1893</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-19" who="#CAA"></change>
+<change when="2019-09-17" who="#kln">reviewed</change>
+<change when="2019-06-19" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,26 +124,30 @@
 
 <pb n="teaa.en.letter.0194."/>
 
-<p>Legation of Liberia
-            Yonkers, N.Y. jANY 13, 1871</p>
+<note>Department of State Received Jan 13 1871</note>
 
-<p>Sir,
-        I have the honor to acknowledge, with 
-    thanks, a copy of the "Finance Report. 1870"
-    also, to send herewith, some fac-simile copies
-    of a letter from the King of Muscadeo to the
-    President of Liberia, written in Arabic, which
-   is believed to be the only language and character
-   in use for written communications, accrop the
-   enitre continent of Africa.</p>
+<p>Legation of Liberia<lb/>
+Yonkers, N.Y. Jany 13, 1871</p>
 
-<p>     I have the honor to be,w ith the highest
-   consdieration, Sir, your obedient servant.
-                                H.M. Scheiffelin</p>
+<p>Sir,</p>
 
-<p>Honble Hamilton Fish
-        Secretary of State
-          Washington. D.C.</p>
+<p>I have the honor to acknowledge, with 
+thanks, a copy of the "Finance Report. 1870"
+also, to send herewith, some fac-simile copies
+of a letter from the King of Musadu to the
+President of Liberia, written in Arabic, which
+is believed to be the only language and character
+in use for written communications, <sic>accross</sic> the
+entire continent of Africa.</p>
+
+<p>I have the honor to be, with the highest
+consideration, Sir, Your obedient servant.<lb/>
+H. M. Schieffelin</p>
+
+<fw type="address">Honble Hamilton Fish<lb/>
+Secretary of State<lb/>
+Washington. D.C.</fw>
+
 </div1>
 
 </body>

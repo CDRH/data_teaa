@@ -5,13 +5,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from H.M. Sheiffelin to William H. Seward</title>
+<title>Letter from H. M. Schieffelin to William H. Seward, June 11, 1868</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
-
+<name n="Akyeampong, Chelsea" xml:id="caa">Chelsea A. Akyeampong</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from H.M. Sheiffelin to William H. Seward</title>
+<title level="a">Letter from H. M. Schieffelin to William H. Seward</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -62,29 +61,27 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term>Payne, James Spriggs</term>
 </keywords>
-    
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+ 
+<keywords scheme="original" n="places">
+<term/>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -95,25 +92,26 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>H.M. Sheiffelin</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName>Yonkers, N.Y.</placeName>
+<persName>Schieffelin, H. M.</persName>
+<roleName>Chargè d'Affaires of Liberia</roleName>
+<placeName>Yonkers (N.Y.)</placeName>
 <date when="1868-06-11"/>
+</correspAction>
 <correspAction type="deliveredTo">
-<persName>William H. Seward</persName>
-<roleName>US Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1868-06-15"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-18" who="#CAA">transcribed and encoded</change>
+<change when="2019-09-17" who="#kln">reviewed</change>
+<change when="2019-06-18" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -125,25 +123,25 @@
 
 <pb n="teaa.en.letter.186.jpg"/>
 
-<p>Legation of Liberia
-        Yonkers, N.Y. June 11, 1868</p>
+<p>Legation of Liberia<lb/>
+Yonkers, N.Y. June 11, 1868</p>
 
-<p>Sir
-       I have the honor to inform you
-   that I have received from His Excellency
-   James Spriggs Payne, President of Liberia,
-   a new commission as Chargè d'Affaires of
-   the Republic of Liberia, which is herewith
-   trasnmitted for our inspection.</p>
+<p>Sir</p>
 
-<p>     I have the honor to be, with the highest
-   consideration, Sir, your most obedient servant
-                            H.M. Sheiffelin</p>
+<p>I have the honor to inform you
+that I have received from His Excellency
+James Spriggs Payne, President of Liberia,
+a new commission as Chargè d'Affaires of
+the Republic of Liberia, which is herewith
+transmitted for your inspection.</p>
 
-<p>Honble William H. Seward
-            Secretary of State
-            Washington
-                D.C.l</p>
+<p>I have the honor to be, with the highest
+consideration, Sir, your most obedient servant
+H. M. Schieffelin</p>
+
+<p>Honble William H. Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</p>
 
 </div1>
 

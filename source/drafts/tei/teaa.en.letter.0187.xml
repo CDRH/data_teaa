@@ -2,16 +2,14 @@
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0187">
-
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from H.M. Scheiffelin to William H. Seward</title>
+<title>Letter from J. N. Lewis to William H. Seward, July 10, 1868</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +40,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from H.M. Scheiffelin to William H. Seward</title>
+<title level="a">Letter from J. N. Lewis to William H. Seward</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -60,31 +58,36 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Emigration</term>
+<term>Slave Trade and Slavery</term>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
-    
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+ 
+<keywords scheme="original" n="places">
+<term>Liberia</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -95,26 +98,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<persName>Lewis, J. N.</persName>
+<roleName>Secretary of State for Liberia</roleName>
+<placeName>Monrovia (Liberia)</placeName>
 <date when="1868-07-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName>The Secretary of State of the United States of America</roleName>
-<placeName>Washington City, D.C. U.S.A</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1868-08-12"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-19" who="#CAA">transcribed and encoded</change>
+<change when="2019-09-17" who="#kln">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,143 +128,150 @@
 
 <pb n="teaa.en.letter.0187.001"/>
 
-<p>Department of State
-    Monrovia August 12, 1869</p>
+<note>Recd 12 Aug</note>
 
-<p>Sir
-        I have the honor
-   to announce to you for 
-   the informaton of the
-   government of the United
-   States of America, the
-   fact, that too the Terri-
-   torial jurisdiction of this
-   Republic, commencing on the
-   Northwest at the River
-                    Long</p>
+<p>Department of State,<lb/>
+Monrovia July 10, 1868</p>
 
-<p>Honorable Hamilton Fish
-   Secretary of State of the
-   United State of America
-                   Washington</p>
+<p>Excellency,</p>
+
+<p>The undersigned, Secretary of State for the Republic 
+of Liberia, has the honor to
+communicate with your Excellency,
+and to represent that the President
+of the Republic of Liberia appreciating
+very highly the friendly relations
+which exist between the Government
+of the United States and Liberia,
+is desirous that this relation may
+<catchwords>be</catchwords>
+
+<fw type="address">His Excellency,<lb/>
+The Secretary of State of the United States of
+America<lb/>
+Washington City D.C.<lb/>
+U.S.A.</fw>
 
 <pb n="teaa.en.letter.0187.002"/>
 
-<p>be made to yield the greatest
-   amount of benefit to both governments.
-   He considers that the affinity of the
-   respective governments should
-   encourage a disposition to strengthen
-   this realtion when an opportunity
-   offers, so as to secure the mutual
-   advantages which tis calculated
-   to promote. He is not forgetful in
-   this solicitation of the disparity,
-   in point of ability, between the
-   government Liberia, the offspring,
-   and that of the mother Republic.</p>
+be made to yield the greatest
+amount of benefit to both Governments.
+He considers that the affinity of the
+respective Governments should
+encourage a disposition to strengthen
+this relation when an opportunity
+offers, so as to secure the mutual
+advantages which it is calculated 
+to promote. He is not forgetful, in
+this solicitation, of the disparity,
+in point of ability, between the
+Government of Liberia, the offspring,
+and that of the mother Republic.</p>
 
-<p>     Nevertheless he is
-   of the opinion that the capability
-   of Liberia to administer importantly
-   to the commerce of the United States
-   would justify an arrangement between
-   the two governments by which
-                                they</p>
+<p>Nevertheless, he is
+of the opinion that the capability
+of Liberia to administer importantly
+to the commerce of the United States
+would justify an arrangement between
+the two Governments by which
+<catchwords>they</catchwords>
 
 <pb n="teaa.en.letter.0187.003"/>
 
-<p>they could be mutually benefited
-   to an unprecedented extent.</p>
+they could be mutually benefited
+to an unprecedented extent.</p>
 
-<p>     These considerations
-   have prompted the President of
-   Liberia to direct, that an inquiry
-   be enactt respectfully communicated
-   to Your Excellency of the following
-   character.</p>
+<p>These considerations
+have prompted the President of
+Liberia to direct, that an inquiry 
+be most respectfully communicated
+to Your Excellency of the following
+character:</p>
 
-<p>     Whether the commercial
-   transactions of the citizens of the
-   United States with Liberians
-   might not be expanded by a
-   proper discrimination between
-   the products of free and slave
-   labor in the form of a moderation
-   of the duties on sugar, coffee,
-   canwood and Palm Oil imported into
-   the United States by Liberian
-   vessels on the vessels of citizens of
-                                       the</p>
+<p>Whether the commercial 
+transactions of the citizens of the 
+United States with Liberians
+might no be expanded by a
+proper discrimination between
+the products of free and slave
+labor, in the form of a moderation
+of the duties on Sugar, Coffee,
+Camwood and Palm Oil imported into
+the United States by Liberian
+vessels or the vessels of citizens of
+<catchwords>the</catchwords> 
 
 <pb n="teaa.en.letter.0187.004"/>
 
-<p>United States.
-   Second. Whether in view of the
-   necessity in Liberia of the proper
-   class of immigrants to build up and
-   strengthen her, and to contribute
-   to the development of her resources
-   and in view of the necessity of 
-   the emigration of the colored people
-   of the United States the government
-   of the U. States would consent to
-   facilitate an undertaking by
-   LIberia to attract and bring
-   to her shores, such of these
-   people as might be willing to emigrate.</p>
+United States.</p>
 
-<p>         Referring to the first
-   querry, it is only necessary to invite
-   Your Excellency's attention to
-   these facts: that the commerce
-   of Libera, yet in its inciperiency,
-                            cannot,</p>
+<p>Second. Whether in view of the
+necessity in Liberia of the proper
+class of immigrants to build up and 
+strengthen her, and to contribute
+to the development of her resources
+and in view of the necessity of 
+the emigration of the colored people
+of the United States, the Government
+of the U. States would consent to
+facilitate an undertaking by
+Liberia to attract and bring
+to her shores, such of these
+people as might be willing ti emigrate.</p>
+
+<p>Referring to the first
+query, it is only necessary to invite
+Your Excellency's attention to
+these facts: that the Commerce 
+of Liberia, yet in its incipiency,
+<catchwords>cannot,</catchwords>
 
 <pb n="teaa.en.letter.0187.005"/>
 
-<p>cannot, ofr some years, render
-   the influence of a competition
-   witht he products of older states,
-   especially those of slave labor,
-   because as vigorous and profitable
-   as it would that the work of
-   enfranchisement and the abrogation
-   of the slave trade,m in which the
-   government of the United States
-   takes preeminentlly the lead,
-   would be promoted by the difficulty
-   of introducing the products of
-   slave labor into the U. States;
-   and the fact, known too all
-   to be named, that the government
-   of H.R. Majesty impose no duty
-   on Palm Oil introduced into her
-                            dominions</p>
+cannot, for some years, under
+the influence of a competition
+with the products of older states,
+especially those of slave labor,
+became as vigorous and profitable
+as it would: that the work of
+enfranchisement and the abrogation
+of the slave trade, in which the
+Government of the United States
+takes preeminently the lead,
+would be <unclear extent="one word"/> by the difficulty
+of introducing the products of
+slave labor into the U. States;
+and the fact, known too well
+to be named, that the Government
+of H. B. Majesty impose no duty
+on Palm Oil introduced into Her
+<catchwords>dominion</catchwords>
 
 <pb n="teaa.en.letter.0187.006"/>
 
-<p>dominions from the Coast of Africa.</p>
+dominion from the Coast of Africa.</p>
 
-<p>         On the subject of the
-   account query, it is proper to
-   remark that the difficulty of
-   procurring a class of immigrants
-   much needed in the whole country,
-   and especially to occupy contested
-   points clearly within the political
-   jurisdiction of the Republic of Liberia,
-   will constrain the government of
-   Liberia, herself, to invite an emigrate
-   them by the permission and aid
-   of the Mother Republci.</p>
+<p>On the subject of the 
+second query, it is proper to
+remark that the difficulty of 
+procuring a class of immigrants
+much needed in the whole country
+and especially to occupy contested
+points clearly within the political
+jurisdiction of the Republic of Liberia,
+will constrain the Government of
+Liberia herself, to invite and emigrate
+them by the permission of and aid 
+of the Mother Republic.</p>
 
-<p>         With sentiments of the
-   highest consideration.
-            I have the honor to be
-            Your Excellency's
-            most obedient servant
-                <unclear/></p>
+<p>With sentiments of the
+highest consideration.</p>
+
+<p>I have the honor to be
+Your excellency's
+most obedient servant<lb/>
+J. N. Lewis</p>
+
 </div1>
 
 </body>

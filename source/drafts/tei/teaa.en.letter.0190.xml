@@ -5,12 +5,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from J.J. Roberts to Hamilton Fish September 10, 1869</title>
+<title>Letter from J. J. Roberts to Hamilton Fish, September 10, 1869</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
-
+<name n="Akyeampong, Chelsea" xml:id="caa">Chelsea A. Akyeampong</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -39,7 +39,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from J.J. Roberts to Hamilton Fish September 10, 1869</title>
+<title level="a">Letter from J. J. Roberts to Hamilton Fish</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -57,31 +57,29 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
-    
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+ 
+<keywords scheme="original" n="places">
+<term/>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -92,26 +90,26 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>J.J. Roberts</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<persName>Roberts, J. J.</persName>
+<roleName/>
+<placeName>Washington (D.C.)</placeName>
 <date when="1869-09-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Hamilton Fish</persName>
-<roleName>Secretary of State</roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName ref="http://viaf.org/viaf/232585893">Fish, Hamilton, 1808-1893</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1869-09-10"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-19" who="#CAA">transcribed and encoded</change>
+<change when="2019-09-17" who="#kln">reviewed</change>
+<change when="2019-06-19" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -123,39 +121,44 @@
 
 <pb n="teaa.en.letter.0190.001"/>
 
-<p>325. II. Serect
-    Washington 
-     September 10, 1869</p>
+<note>Department of State Sep 10 1869</note>
 
-<p>Sir
-      The undersigned begs  leave to inform
-   your Honor that he has been duly authorized
-   and charged by the President of the Republic
-   of Liberia to submit to the consideration
-   of the government of the United States certain
-   matters relenting particularly to the interests
-   of Liberia, and which, it is believed, will be
-   promotve of the commercial interest of the two
-   countries.</p>
+<p>325. II. Street<lb/>
+Washington<lb/>
+September 10, 1869</p>
 
-<p>Honorable
-    Hamilton Fish
-     Secretary of State
-      of the United States</p>
+<p>Sir</p>
+
+<p>The undersigned begs leave to inform
+your Honor that he has been duly authorized
+and charged by the President of the Republic
+of Liberia to submit to the consideration
+of the Government of the United States certain
+matters relenting particularly to the interests
+of Liberia, and which, it is believed, will be
+promotive of the commercial interest of the two
+countries.</p>
+
+<p><catchwords><unclear>HS</unclear></catchwords>
+
+<fw type="address">Honorable
+Hamilton Fish<lb/>
+Secretary of State
+of the United States</fw>
 
 <pb n="teaa.en.letter.0190.002"/>
 
-<p>HS therfore, solicits the favor and interview
-   with your Honor for the purpose of stating fully
-   the objects to which he desires to invite your 
-   Honor's attention, and in respect to which he
-   is authorized to negotiate</p>
+<unclear>HS</unclear> therefore, solicits the favor and interview
+with your Honor for the purpose of stating fully
+the objects to which he desires to invite your 
+Honor's attention, and in respect to which he
+is authorized to negotiate</p>
 
-<p> With sentiments of high esteem
-                I have the honor to be
-                      your Honor's
-                most obedient servant
-                            J.J. Roberts</p>
+<p> With sentiments of high esteem<lb/>
+I have the honor to be<lb/>
+Your Honor's
+Most obedient servant<lb/>
+J.J. Roberts</p>
 
 </div1>
 

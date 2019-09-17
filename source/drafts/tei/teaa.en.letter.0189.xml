@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from M. Johnson and President James Payne to Joseph Jenkins Roberts</title>
+<title>Appointment of Joseph Jenkins Roberts as Envoy Extraordinary of Liberia, June 18, 1869</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
-
+<name n="Akyeampong, Chelsea" xml:id="caa">Chelsea A. Akyeampong</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from President James Payne to Joseph Jenkins Roberts</title>
+<title level="a">Appointment of Joseph Jenkins Roberts as Envoy Extraordinary of Liberia</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -62,29 +62,33 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term>Johnson, J. H.</term>
+<term>Payne, James Spriggs</term>
+<term ref="http://viaf.org/viaf/63021631">Roberts, Joseph J. (Joseph Jenkins), 1809-1876</term>
 </keywords>
-    
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+ 
+<keywords scheme="original" n="places">
+<term>Monrovia (Liberia)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empire">
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -95,26 +99,11 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
-<correspDesc>
-<correspAction type="sentBy">
-<persName>James Payne</persName>
-<roleName>President of Liberia</roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="1869-06-18"/>
-</correspAction>
-<correspAction type="deliveredTo">
-<persName>Joseph Jenkin Roberts</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
-</correspAction>
-</correspDesc>
-
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-19" who="#CAA">transcribed and encoded</change>
+<change when="2019-09-17" who="#kln">reviewed</change>
+<change when="2019-06-19" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,25 +113,29 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="teaa.en.letter.0189.001"/>
+<pb n="teaa.en.letter.0189.001 .002"/>
 
-<p>James Spriggs Payne
-   President of the Republic of Liberia
-   To Joseph Jenkins Roberst: Greeting</p>
+<p>James Spriggs Payne<lb/>
+President of the Republic of Liberia,<lb/>
+To Joseph Jenkins Roberts: Greeting.</p>
 
 <p>Reposing special trust and confidence in your Integrity, Prudence and Ability
-   I do appoint you the said Joseph Jenkins Roberts a citizen of this Republic, Envoy Extraordinary
-   for the Republic of Liberia, to the government of the United States of America;
-   authorizing you hereby to negotiate and form with the said government of the United 
-   States of America, a Treaty or Treaties of Alliance,and Commercial Repiprocity
-   And to do and perform all such matters and things as may be dully given you
-   in charge hereafterp; and the said office to hold during the pleasure of the President of Liberia.
-   In testimony whereof I have caused the Seal of the Republic be hereto affixed.</p>
+I do appoint you the said Joseph Jenkins Roberts a citizen of this Republic, Envoy Extraordinary
+for the Republic of Liberia, to the government of the United States of America;
+authorizing you hereby to negotiate and form with the said government of the United 
+States of America, a Treaty or Treaties of Alliance, and Commercial Reciprocity;
+And to do and perform all such matters and things as may be dully given you
+in charge hereafter; and the said office to hold during the pleasure of the President of Liberia.
+In testimony whereof I have caused the Seal of the Republic be hereto affixed.</p>
 
-<p>James Payne</p>
+<p>Given under my hand at the city of Monrovia this eighteenth
+day of June, in the year of Our Lord, one thousand eight hundred
+and sixty nine and of the Republic of Twenty Second.</p>
 
-<p>M. Johnson
-   Secy of State</p>
+<p>James S. Payne</p>
+
+<p>J H Johnson<lb/>
+Secy of State</p>
 
 </div1>
 

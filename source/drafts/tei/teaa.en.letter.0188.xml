@@ -6,12 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from JH Johnson to Hamilton Fish</title>
+<title>Letter from J. H. Johnson to Hamilton Fish, August 2, 1869</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from JH Johnson to Hamilton Fish</title>
+<title level="a">Letter from J. H. Johnson to Hamilton Fish</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="1869-09-10">September 10, 1869</date>
+<date when="1869-08-02">August 2, 1869</date>
 </bibl>
 </sourceDesc>
 
@@ -62,29 +61,33 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
-    
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+ 
+<keywords scheme="original" n="places">
+<term>Jong River</term>
+<term>San Pedro River</term>
+<term>Settra Kroo (Liberia)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -95,26 +98,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>JH Johnson</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="1869-09-10"/>
+<persName>Johnson, J. H.</persName>
+<roleName>Secretary of State for Liberia</roleName>
+<placeName>Monrovia (Liberia)</placeName>
+<date when="1868-07-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Hamilton Fish</persName>
-<roleName>Secretary of State</roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName ref="http://viaf.org/viaf/232585893">Fish, Hamilton, 1808-1893</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1868-06-15"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-19" who="#CAA">transcribed and encoded</change>
+<change when="2019-09-17" who="#kln">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,62 +128,65 @@
 
 <pb n="teaa.en.letter.0188.001"/>
 
-<p>325. II. Serect
-   Washington
-   September 10, 1869</p>
+<note>Department of State Received Sept 15 1869</note>
 
-<p>Sir
-      The undersigned begs leave to inform
-   your Honor that he has been duly authorized
-   and charged by the President of the Republic
-   of Liberia to submit to the consideration
-   of the government of the United States certain
-   matters relenting, particularlly to the interests
-   of Liberia, and which, it is believd, will be
-   promotive of the commercial interest of the two
-   countries.</p>
+<p>Department of State,<lb/>
+Monrovia August 2d, 1869</p>
 
-<p>Honorable
-    Hamilton Fish
-     Secretary of State
-      of the United States</p>
+<p>Sir</p>
 
-<pb n="teaa.en.letter.0188.002"/>
+<p>I have the honor
+to announce to you for 
+the information of the
+government of the United
+States of America, the
+fact, that to the Territorial 
+jurisdiction of this
+Republic, commencing on the
+Northwest at the River
+<catchwords>Jong</catchwords>
 
-<p>Long and extending to the
-   River San Pedro on the 
-   Southeast as published
-   many years in the defintions
-   of its boundaries in its
-   statue Laws pages 120, 221,
-   this government has acquired,
-   by peaceful and voluntary
-   cession by its inhabitants,
-   the intermediate territory
-   known as Settra Keroo.</p>
+<fw type="address">Honorable Hamilton Fish<lb/>
+Secretary of State of the
+United State of America<lb/>
+Washington</fw>
 
-<p>     I have teh honor also
-   to request of your most 
-   respecfully, that you will 
-   cause the Territorial jurisdic-
-   tion of this Republic to 
-   be made known that the
-   ships and citizens of the 
-                        United</p>
+<pb n="teaa.en.letter.0187.002"/>
 
-<pb n="teaa.en.letter.0188.003"/>
+Jong and extending to the
+River San Pedro on the
+Southeast as published
+many years in the definitions
+of its boundaries in its
+Statute Laws, pages 120, 221,
+this Government has acquired
+by peaceful and voluntary
+cession by its inhabitants,
+the intermediate territory
+known as Settra Kroo.</p>
 
-<p>United States may avoid all
-   acts of inrignment which 
-   might give rise to unpleasant
-   nefs.</p>
+<p>I have the honor also
+to request of you most 
+respectfully, that you will
+cause the Territorial jurisdiction
+of this Republic to 
+be made known that the
+ships and citizens of the
+<catchwords>United</catchwords>
 
-<p>     With sentiments of the
-   most distinguished regard
-             I have the honor
-                to be
-              Your obedient servant
-            J.H. Johnson</p>
+<pb n="teaa.en.letter.0187.003"/>
+
+United States may avoid all
+acts of infringement which
+might give rise to unpleasantness.</p>
+
+<p>With sentiments of the most distinguished regard</p>
+
+<p>I have the honor
+to be<lb/>
+Your obedient servant<lb/>
+J H Johnson</p>
+
 </div1>
 
 </body>

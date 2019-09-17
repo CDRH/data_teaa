@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from HM. Scheiffelin to Hamilton Fish May 11, 1870</title>
+<title>Letter from H. M. Schieffelin to Hamilton Fish, May 11, 1870</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
-
+<name n="Akyeampong, Chelsea" xml:id="caa">Chelsea A. Akyeampong</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from HM. Scheiffelin to Hamilton Fish May 11, 1870v</title>
+<title level="a">Letter from H. M. Schieffelin to Hamilton Fish</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -60,31 +60,30 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/17091224">Radford, William, 1809-1890</term>
+<term ref="http://viaf.org/viaf/43550852">Roye, Edward James, 1815-1871</term>
 </keywords>
-    
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+ 
+<keywords scheme="original" n="places">
+<term/>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -95,26 +94,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Hm. Scheffelin</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName>Yonkers, N.Y.</placeName>
+<persName>Schieffelin, H. M.</persName>
+<roleName>Chargè d'Affaires of Liberia</roleName>
+<placeName>Yonkers (N.Y.)</placeName>
 <date when="1870-05-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Hamilton Fish</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<persName ref="http://viaf.org/viaf/232585893">Fish, Hamilton, 1808-1893</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-19" who="CAA">transcribed and encoded</change>
+<change when="2019-09-17" who="#kln">reviewed</change>
+<change when="2019-06-19" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,43 +124,46 @@
 
 <pb n="teaa.en.letter.0192.001"/>
 
-<p>Legation of Liberia
-   Yonkers, N.Y. May 11, 1870</p>
+<note>Rec 12 May</note>
 
-<p>Sir
-      I have the honor to acknowledge
-   the receipt of your note of the 10th ult, enclosing
-   a communication from the Secretary of 
-   the Navy, stating that a copy of my lettter,
-   in reference tothe apprehension of an attack
-   of the natives on the settlements of Libera,
-   will be forwarded to Rear Admiral Rad-
-   ford commanding the European fleet, for 
-   which please receive thanks.</p>
+<p>Legation of Liberia<lb/>
+Yonkers, N.Y. May 11, 1870</p>
 
-<p>Honble Hamilton Fish
-        Secretary of State
-            Washington
-                    D.C.</p>
+<p>Sir</p>
+
+<p>I have the honor to acknowledge
+the receipt of your note of the 19th ult, enclosing
+a communication from the Secretary of 
+the Navy, stating that a copy of my letter,
+in reference to the apprehension of an attack
+of the natives on the settlements of Liberia,
+will be forwarded to Rear Admiral Radford 
+commanding the European fleet, for 
+which, please receive thanks.</p>
+
+<p>The telegram, that Liberia
+was engaged in war with the natives proves
+untrue, letters dated there later, make
+
+<fw type="address">Honble Hamilton Fish<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
 
 <pb n="teaa.en.letter.0192.002"/>
 
-<p>no mention of it. On the contrary, a 
-   letter from President Roye states,
-   that they are about extending a road
-   into the interior for commerce etc.</p>
+no mention of it. On the contrary, a 
+letter from President Roye states,
+that they are about extending a road
+into the interior for commerce &amp;c.</p>
 
-<p>         I regret the trouble oc-
-   casioned by this false report.</p>
+<p>I regret the trouble occasioned 
+by this false report.</p>
 
-<p>         I have the honor to be
-   with the highest consideration</p>
-
-<p>         Sir
-               Your obedient servant
-                    H.M. Scheiffelin</p>
-
-
+<p>I have the honor to be
+with the highest consideration<lb/>
+Sir<lb/>
+Your obedient servant<lb/>
+H. M. Schieffelin</p>
 
 </div1>
 

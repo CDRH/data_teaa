@@ -10,7 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, encoding, and translation</resp>
-<name n="Akyeampong,Chelsea" xml:id="CAA">Chelsea Animwaa Akyeampong</name>
+<name n="Akyeampong,Chelsea" xml:id="caa">Chelsea Animwaa Akyeampong</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
@@ -74,12 +74,12 @@
 <term>Correspondence</term>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term/>
 </keywords>
 
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -115,7 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-02-13" who="CAA">transcription, translation, encoding</change>
+<change when="2019-02-13" who="#caa">transcription, translation, encoding</change>
 <change when="2019-02-12" who="#kln">named file, inserted header template</change>
 </revisionDesc>
 </teiHeader>

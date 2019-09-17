@@ -12,7 +12,7 @@
 <resp>transcription, translation, and encoding</resp>
 <name n="Dawson, Kendall C." xml:id="kcd">Kendall C. Dawson</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea Animwaa Akyeampong</name>
+<name n="Akyeampong, Chelsea" xml:id="caa">Chelsea Animwaa Akyeampong</name>
 <name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
@@ -76,12 +76,12 @@
 <term>Correspondence</term>
 </keywords>
 
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
 
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term/>
 </keywords>
 
 <!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
@@ -119,7 +119,7 @@
 <revisionDesc>
 <change when="2019-01-10" who="#kln">renamed file, inserted correct header template</change>
 <change when="2017" who="kcd">Transcribed.</change>
-<change when="2019" who="CAA"> Translated.</change>
+<change when="2019" who="#caa"> Translated.</change>
 <change when="2019" who="sab"> Edited Encoding.</change>
 </revisionDesc>
 </teiHeader>
