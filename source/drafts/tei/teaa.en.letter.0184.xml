@@ -6,12 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from H.M. Scheifflein to William H. Seward Jany. 11 1867</title>
+<title>Letter from H. M. Schieffelin to William H. Seward, January 11, 1867</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from H.M. Scheifflein to William H. Seward Jany. 11 1867</title>
+<title level="a">Letter from H. M. Schieffelin to William H. Seward</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="1867-01-11"></date>
+<date when="1867-01-11">January 11, 1867</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Slave Trade and Slavery</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,15 +70,18 @@
 <term>Correspondence</term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Bassa County (Liberia)</term>
+<term>Sinou County (Liberia)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empire">
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,26 +97,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>H.M. Scheiffelin</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName>Yonkers, N.Y.</placeName>
+<persName>Schieffelin, H. M.</persName>
+<roleName>Vice Consul of Liberia for New York</roleName>
+<placeName>Yonkers (N.Y.)</placeName>
 <date when="1867-01-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>William H. Seward</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1867-01-14"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-21" who="#CAA">transcribed and encoded</change>
+<change when="2019-09-16" who="#kln">encoded, transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,9 +125,60 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="teaa.en.letter.0184.001"/>
+<pb n="teaa.en.letter.0184.001"/>
 
-<p></p>
+<note>Received Jan 14 1867</note>
+
+<p>Legation of Liberia,<lb/>
+Yonkers, N.Y. Jany 11th 1867</p>
+
+<p>Sir</p>
+
+<p>It having been ascertained that
+there is no suitable sailing vessel in the United
+States Navy, nor any suitable steam vessel that
+can (in the judgment of the Secry of the Navy)
+be spared for the purpose of being transferred to
+the Government of Liberia, according to the late act
+of Congress, their liberal act towards Liberia cannot
+be mad available; of this fact the Liberian Government
+was not yet, at last dates, apprised;
+while, in addition to former pressing reasons for
+desiring it, another still more imminent has
+arisen.</p>
+
+<p>The Government has information
+that the several tribes along the sea board
+
+<fw type="address">To the Honble William H. Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
+
+<pb n="teaa.en.letter.0184.002"/>
+
+being dissatisfied with the interference of
+"Port of Entry" laws with trade with foreign
+vessels on the coast, have concerted plans
+for attacking and carrying by force of
+arms, and starvation, Sinou and Bassa
+Counties, (about two thirds of all the Liberian
+coast). And the government of 
+Liberia, not yet aware of the disappointment,
+which next mail, probably ere this,
+has brought them, instructs me, that it is
+urgently necessary, that the gun Boat should
+be there as early as possible; and to put
+forth all my endeavours that no time
+may be lost.</p>
+
+<p>Under these circumstances may I 
+ask if the United States Government will
+extend to Liberia the assistance of one
+of her cruizers on that coast.</p>
+
+<p>I have the honor to be with the highest
+consideration Sir your most obedient Servant<lb/>
+H. M. Schieffelin</p>
 
 </div1>
 

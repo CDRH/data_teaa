@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from H.M. Scheiffelin to W.H. Seward</title>
+<title>Letter from H. M. Schieffelin to William H. Seward, April 7, 1866</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Akyeampong, Chelsea" xml:id="CAA">Chelsea A. Akyeampong</name>
-
+<name n="Akyeampong, Chelsea" xml:id="caa">Chelsea A. Akyeampong</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from H.M. Scheiffelin to W.H. Seward</title>
+<title level="a">Letter from H. M. Schieffelin to William H. Seward</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -60,31 +60,34 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Slave Trade and Slavery</term>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/56523802">Warner, Daniel Bashiel 1815-1880</term>
 </keywords>
-    
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+ 
+<keywords scheme="original" n="places">
+<term>Liberia</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empire">
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -95,26 +98,26 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>H.M. Scheiffelin</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName>Yonkers, N.Y.</placeName>
+<persName>Schieffelin, H. M.</persName>
+<roleName>Vice Consul of Liberia for New York</roleName>
+<placeName>Yonkers (N.Y.)</placeName>
 <date when="1866-04-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>W.H. Seward</persName>
-<roleName>US Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1866-04-09"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-06-18" who="#CAA">transcribed and encoded</change>
+<change when="2019-09-16" who="#kln">reviewed</change>
+<change when="2019-06-18" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,101 +127,105 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="teaa.en.letter.0183.001"/>
+<pb n="teaa.en.letter.0183.001"/>
 
-<p>Legation of the Republic of Liberia
-                    Yonkers, N.Y.
-                     April 7, 1866</p>
+<note>Recd 9th April</note>
 
-<p>    I have the honor to acknowledge
-   receipt of your lettersof 26th ult. and of
-   5th instant, the latter recognizing Mr. Wm
-   Coppinger as Chief of this Legation.</p>
+<p>Legation of the Republic of Liberia,<lb/>
+Yonkers, N.Y.</p>
 
-<p>    I beg to inform you that I have received
-   from the Liberian government a special com
-   mission, iwht full powers to negotiate with
-   the government of the United States for
-   the purchase of a steam gun boat of not 
-   over 150 tons. One of not over 120 tons
-   with one eighteen pound pivot gun would
-   be most suitable.</p>
+<p>April 7, 1866</p>
 
-<p>     The govt. of Liberia is particularly
-   anxious to have such a vessel for other
-   reasons besides teh suppression of the slave
-   trade, having, (since the disability of the
-   schooner Quail theirs only gun vessel) suffered</p>
+<p>Sir</p>
 
-<pb facs="teaa.en.letter.0183.002"/>
+<p>I have the honor to acknowledge
+receipt of your letters of 26th ult. and of
+5th instant, the latter recognizing Mr. Wm
+Coppinger as Secty of this Legation.</p>
 
-<p>for many monthsdgreat inconvenience in the
-   collection of revenue and the enforcement of
-   order among the tribes on different parts of
-   their coast, and much annoyance <unclear/>
-   out of difficulties between foreigners and
-   the natives within their jurisdiction <unclear/>
-   they would have been saved from had
-   not the Quail been disabled.</p>
+<p>I beg to inform you that I have received
+from the Liberian government a special Commission, with full powers to negotiate with
+the government of the United States for
+the purchase of a steam gun boat of not 
+over 150 tons. One of not over 120 tons
+with one eighteen pound pivot gun would
+be most suitable.</p>
 
-<p> Libera having been colonized <unclear/>
-   exclusively by persons without capital, <unclear/>
-   (unlike any country newly sealed by whites
-   not having the benefit of foreign capital <unclear/>
-   into it (for their )race in other countries,
-   few excpetions, have but little) is compelled 
-   to much economy and yet its great 
-   need of a vessel, renders the government
-   of LIberia willing to incur a debt for <unclear/></p>
+<p>The govt. of Liberia is particularly
+anxious to have such a vessel for other
+reasons besides the suppression of the slave
+trade, having, (since the disability of the
+schooner Quail, their only gun vessel) suffered
 
-<p>     The government Liberia is
-   conscious that pecuniary considerations
-   could not move the government of >
-   United States to transfer a gun boat
-   and yet the bill, as it has passed</p>
+<pb n="teaa.en.letter.0183.002"/>
 
-<pb facs="teaa.en.letter.0183.003"/>
+for many months great inconvenience in the
+collection of revenue and the enforcement of
+order among the tribes on different parts of
+their coast, and much annoyance growing
+out of difficulties between foreigners and
+the natives within their jurisdiction <unclear>which</unclear>
+they would have been saved from had
+not the Quail been disabled.</p>
 
-<p>Senate, seems to me to restrict and limit the
-   discretion of the Executive Department so that 
-   no other consideration can be admitted in arranging for the transfer.</p>
+<p>Liberia having been colonized almost
+exclusively by persons without capital, and
+(unlike any country newly settled by whites
+not having the benefit of foreign capital <unclear>flowing</unclear>
+into it (for their race in other countries, with
+few exceptions, have but little) is compelled 
+to much economy and yet its great 
+need of a vessel, renders the government
+of Liberia willing to incur a debt for it</p>
 
-<p>     It would be happy for Liberia and more 
-   in accordance wiwth her pecunniary resources,
-   if the bill would be modified so as to allow 
-   other considerations to be admitted in fiding 
-   the coast, for instance, the convenience she would
-   afford to the United States govenrment in pro-
-   viding more frequent communications with
-   any fleet or vessels on her coast s she
-   would be kept in as frequent intercourse as
-   possible with all parts of it, and as the
-   Liberians (as President Warner in a late
-   letter says) "are in feelings, sentiment and
-   disposition, America.</p>
+<p>The Government of Liberia is
+conscious that pecuniary considerations <unclear>all</unclear>
+could not move the government of the
+United States to transfer a gun boat
+and yet the bill, as it has passed <unclear>the</unclear>
 
-<p>     The United States being engaged with
-   Great Britain in the suppression of the
-   slave trade, could effect much with such
-   a boat in the hands of the Libera Government
-   without the expense of keeping her in</p>
+<pb n="teaa.en.letter.0183.003"/>
 
-<pb facs="teaa.en.letter.0183.004"/>
+Senate, seems to me to restrict and limit the
+discretion of the Executive Department, so that 
+no other consideration can be admitted in 
+arranging for the transfer.</p>
 
-<p>commission, an expense probably annually
-   equally to her value, possibly England was
-   induced by some such considerations in <unclear/>
-   to generosity in the gift of the Qual.</p>
+<p>It would be happy for Liberia and more 
+in accordance with her pecuniary resources,
+if the bill would be modified so as to allow 
+other considerations to be admitted in fixing the 
+cost; for instance, the convenience she would
+afford to the United States government in providing
+more frequent communications with
+any fleet or vessels on her coast s she
+would be kept in as frequent intercourse as
+possible with all parts of it, and as the
+Liberians (as President Warner in a late
+letter says) "are in feelings, sentiment and
+disposition, America.</p>
 
-<p>     I have the honor to be with the
-   highest consideration. Sir
-   your most obedient servant.
-            H.M. Scheiffelin</p>
+<p>The United States being engaged with
+Great Britain in the suppression of the
+slave trade, could effect much with such
+a boat in the hands of the Liberian Government
+without the expense of keeping her in
 
-<p>     Hon. W.H. Seward
-               Secretary of State
-                Washington
-                    D.C.</p>
+<pb n="teaa.en.letter.0183.004"/>
+
+commission, an expense probably annually
+equal to her value, possibly England was
+induced by some such considerations in <unclear>addition</unclear>
+to generosity in the gift of the Quail.</p>
+
+<p>I have the honor to be with the
+highest consideration. Sir<lb/>
+Your most obedient servant,<lb/>
+H. M. Schieffelin</p>
+
+<p>Honble Wm H. Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</p>
 
 </div1>
 
