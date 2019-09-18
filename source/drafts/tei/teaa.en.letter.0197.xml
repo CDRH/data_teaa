@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Akyeampong, Chelsea" xml:id="caa">Chelsea A. Akyeampong</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -34,8 +34,10 @@
 </address>
 </distributor>
 <idno type="project">teaa.en.letter.0197</idno>
+<availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
 </publicationStmt>
 
 <sourceDesc>
@@ -44,7 +46,7 @@
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<date when="1880-01-01">January 1, 1880</date>
 </bibl>
 </sourceDesc>
 
@@ -60,29 +62,32 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
+</keywords> 
+ 
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/43228211">Shufeldt, Robert W. (Robert Wilson), 1850-1934</term>
 </keywords>
-    
+ 
 <keywords scheme="original" n="places">
-<term/>
+<term>Liberia</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -93,26 +98,11 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
-<correspDesc>
-<correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
-</correspAction>
-<correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
-</correspAction>
-</correspDesc>
-
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2019-09-18" who="#kln">reviewed</change>
+<change when="2019-06" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -125,54 +115,57 @@
 <pb n="teaa.en.letter.0197.001"/>
 
 <p>Join Resolution
-   of thanks to the government of the
-   United States of America,
-   and an expression of gratitude to
-   Commodore. Rg. W. Shufeldt, U.S.N.</p>
+of thanks to the government of the
+United States of America,
+and an expression of gratitude to
+Commodore. R. W. Shufeldt, U.S.N.</p>
 
 <p>Whereas the government of the United
-   States of America at the request of the
-   governments of Great Britain and
-   Liberia readily consented to act as 
-   <unclear/> in the settlement of the Liberian
-   North West Boundary Question and
-   appionted Commodore R. W. Shu-
-   feldt. U.S.N. of the flagship "Ticonde
-   roga" to act on their part in the adjust-
-   ment of the Liberian North West Bound-
-   ary called in question by the English
-   government and in view of the remark-
-   able patience with which the Commodore
-   and his officers waited upon the move-
-   ments of the Commissioners to their adjournment
-   Therefore Resovled by the Senate and
-   House of Representatives of the Republic
-   of Liberia in Legislature assembled-
-   That the Legislature of Liberia by this resolu-
-   tion render them thanks of the People of
-   Liberia to the Presidents of the United States
-                                            and</p>
+States of America, at the request of the
+governments of Great Britain and
+Liberia readily consented to act as 
+Umpire in the settlement of the Liberian
+North West Boundary Question and
+appointed Commodore R. W. Shufeldt,
+U.S.N. of the Flagship "Ticonderoga" 
+to act on their part in the adjustment 
+of the Liberian North West Boundary 
+called in question by the English
+Government and in view of the remarkable 
+patience with which the Commodore
+and his officers waited upon the movements 
+of the Commissioners to their adjournment.
+Therefore Resolved by the Senate and
+House of Representatives of the Republic
+of Liberia in Legislature assembled:</p>
+
+<p>1. That the Legislature of Liberia by this resolution 
+tender the thanks of the People of
+Liberia to the Presidents of the United States
+<catchwords>and</catchwords>
 
 <pb n="teaa.en.letter.0197.002"/>
 
-<p>and to the American National <unclear/>
-   the cheerful manner in which the
-   accepted the joint solicitation of
-   the governments of England and -
-   Liberia to use their choice of so-
-   cialbe naval officer as Commodore
-   Shufeldt to perform this important
-   Mission.</p>
+and to the American Nation for
+the cheerful manner in which they
+accepted the joint solicitation of
+the governments of England and
+Liberia to use their good offices and Umpire,
+as well as for their choice of so
+able a naval officer as Commodore
+Shufeldt to perform this important
+Mission.</p>
 
-<p>     Resolbed that the government
-   of Liberia express their entire satisfac-
-   tion witht he efforts of the Commodore
-   to have the final and satisfactory
-   adjustment of this vexed question,
-   and they would record their grati
-   tude to Commodore R.W. Shufeldt
-   U.S.N, and his gallant officers.
-    Approved Jany. 1st, 1880.</p>
+<p>Resolved, That the government
+of Liberia express their entire 
+satisfaction with the efforts of the Commodore
+to have the final and satisfactory
+adjustment of this <unclear>vexed</unclear> question;
+and they would record their gratitude 
+to Commodore R. W. Shufeldt,
+U.S.N., and his gallant officers.</p>
+
+<p>Approved Jany. 1st: 1880.</p>
 
 </div1>
 
