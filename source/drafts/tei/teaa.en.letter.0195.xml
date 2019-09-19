@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from HM. Scheiffelin to Hamilton Fish February 15, 1872</title>
+<title>Letter from H. M. Schieffelin to Hamilton Fish, February 15, 1872</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Akyeampong, Chelsea" xml:id="caa">Chelsea A. Akyeampong</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from HM. Scheiffelin to Hamilton Fish February 15, 1872</title>
+<title level="a">Letter from H. M. Schieffelin to Hamilton Fish</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -62,29 +62,31 @@
 <keywords scheme="original" n="theme">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Correspondence</term>
-</keywords>    
-    
+</keywords> 
+ 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Roberts, J. J.</term>
 </keywords>
-    
+ 
 <keywords scheme="original" n="places">
-<term/>
+<term>Liberia</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empire">
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -95,25 +97,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>HM. Scheiffelin</persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName>Yonkers, N.Y.</placeName>
+<persName>Schieffelin, H. M.</persName>
+<roleName>Chargè d'Affaires of Liberia</roleName>
+<placeName>Yonkers (N.Y.)</placeName>
 <date when="1872-02-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>hamilton Fish</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<persName ref="http://viaf.org/viaf/232585893">Fish, Hamilton, 1808-1893</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1872-02-17"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2019-09-18" who="#kln">reviewed</change>
 <change when="2019-06-20" who="#caa">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -126,35 +128,41 @@
 
 <pb n="teaa.en.letter.0195.001"/>
 
-<p>Legation of Liberia,
-    Yonnkers, N.Y. Feby 15th, 1872</p>
+<note>Department of State Received Feb 17 1872</note>
 
-<p>Sir
-        I have the honor of informing you,
-   that I have received from the State Department
-   of Liberia, a communication dated Jany 5th, 1872.
-   informing me tat on the first of the same month
-   the Hon. J.J. Roberts was inaugurated President
-   of Liberia, and expressing the desire fo the Liberian
-   government to maintain the best understanding
-   with the United States government and to strengthen
-   the bonds of friendship which have for so many
-   years subsisted between itself and foreign governments.</p>
+<p>Legation of Liberia,<lb/>
+Yonkers, N.Y. Feby 15th, 1872</p>
 
-<p>     I send herewith the said communication for
-   your inspection, as it contains the recogntion, under
-   the new administration, of the commission accord
-   ing me as Chargè d'Affaires.
-              I have the honor to be, Sir, with</p>
+<p>Sir</p>
+
+<p>I have the honor of informing you,
+that I have received from the State Department
+of Liberia, a communication dated Jany 5th, 1872,
+informing me tat on the first of the same month
+the Hon. J. J. Roberts was inaugurated President
+of Liberia, and expressing the desire of the Liberian
+government to maintain the best understanding
+with the United States Government and to strengthen
+the bonds of friendship which have for so many
+years subsisted between itself and foreign Governments.</p>
+
+<p>I send herewith the said communication for
+your inspection, as it contains the recognition, under
+the new administration, of the commission according
+me as Chargè d'Affaires.</p>
+
+<p>I have the honor to be, Sir, with
 
 <pb n="teaa.en.letter.0195.002"/>
 
-<p>the highest consideration.
-                        Your obedient servant
-                        H.M. Schieffelin
-To Hon. Hamilton Fish
-        Secretary of State
-        Washington D.C.</p>
+the highest consideration</p>
+
+<p>Your obedient servant<lb/>
+H. M. Schieffelin</p>
+
+<fw type="address">To Hon. Hamilton Fish<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
 
 </div1>
 
