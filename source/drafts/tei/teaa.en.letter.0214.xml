@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.fr.letter.0001 -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-807, Roll 1</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<!-- WHAT LANGUAGE IS THE DOCUMENT IN? SEE ALSO: fr, French -->
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+
+<!-- BEGIN TRANSCRIBING -->
+(Document Repeated in 0215)
+
+O'eloek we were told by outside officials, much to own disappointment, that the 
+Secretary would not be at his office that day; so I left my card and went away.
+I called after the next day, and after waiting until after twelve o'clock. I was
+ushered into the presence of the Secretary whom I found standing up, and he 
+said to me wen on entering the room. "I can only give you a few moments, as the new 
+Spanish Minister is now waiting, by appointment to be conducted over, to be 
+introduced to the President". I then said, "The Secretary then asked once to call
+again the next day and he told his usher to 'bring one ripher* in", as soon as he got to the 
+office". I called the next day, but the Secretary did not go to his office that day 
+which was a Saturday, and I called the following Monday and Tuesday with the 
+same *sesul that then left Washington, and from Philadephia I had written
+a letter to Secretary to which was expecting an answer".
+
+They then said that I had not been treated nicely by the Secretary, and that, "If you
+had a commissioner from one of the Great Powers, the Secretary would have
+found time to attend to you. The gentlemen, whom I went to see then said to
+his friend was connected with the Press, and that something ought to be said about 
+N. Heis friend replied."Yes I'll show Blaine up" ! I replied, "I beg that you will 
+do us such thing, as consider that Mr. Blaine treated me very courteous 
+and I consider that he showed me special honor in granting once our 
+interior at all, under all the circumstances, and when so many others 
+had been waiting so much longer than I to get an interview with him"
+"One of the gentlemen found waiting to see the Secretary told me that he had
+been visiting the Department for fourteen days consectively, and had 
+mayor been favored with an interview; on of the officials told me that the 
+Secretary was conferring with Delegations from the South American Pl**
+about commercial treaties that he wished to make with them and if
+they often went to his residence to confer, and thus caused them to be 
+when from thr Department for several days consentiality. I said I felt quite sure 
+that if the Spanish Minister had not then been waiiting Mr. Blaine would have 
+heard all that I had to say on the subject of my mission. "Here the communication
+about my visit to Washington ended, the other reason left, and the gentlemen and 
+went on to talk of the matters, about which I had called his office.
+
+From my conversation with those men, judged that they were both, political opponents 
+of yourself and your division that; and when I saw that *artileiu "The World" I
+at once wrote a letter to the Editor repredmating* the article as being false in every 
+essential statement, and if I were now in the U.S. I think I should endevaur* to 
+bring on action against the Editor for liked in publishing it. I sent that 
+letter to Mr. Rothery of 116 Walnut Street, Philadelphia and have requested him, if "The World"
+will not publish it, to have it published in some paper of that city, and to see
+that it be brought to your notice, so that you might see that I have done what
+I could do to remove any wrong impression that may have been made about you, 
+by this *aporshy misquoting and mistating, what I said, and what I did ***
+say about yourself.
+
+Enclosed, please find a copy of my official report made to my Government on 
+my arrival home and hope I was aware of the exsistence of that lying article 
+in "The World", which I hope will convince you that I could not have made
+the false statements which that article represents me as making 
+
+With profound respect,
+I have the honor to be 
+
+Sir, 
+Your obident servant
+Nelley Davis
+Late Liberian Commpr***
+
+   
+</div1>
+
+</body>
+</text>
+
+</TEI>
