@@ -1,27 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatches from United States Consuls in Zanzibar, British Africa 1836-1906</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name><!-- last half -->
+<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2018</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>"To Enter Africa from America"</authority>
+<authority>To Enter Africa from America</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -32,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">en.zanzibar</idno>
+<idno type="project"><!--FILENAME--></idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,15 +43,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
-<title level="m" type="microformat">Despatches from U.S. Consuls in Zanzibar, Br. Africa, 1836-1906</title>
+<title level="a" type="main">Despatches from United States Consuls in Zanzibar, British Africa 1836-1906</title>
 <publisher>United States Department of State</publisher>
-<biblScope unit="microfilm">M468</biblScope>
-<biblScope unit="roll">4</biblScope>
-<date when="1886-07-01">July 1, 1886</date>
+<biblScope type="vol">8 and 9</biblScope>
+<biblScope type="roll">4</biblScope>
+<date from="1886-07-01" to="1895-11-15">July 1, 1886-November 15, 1895</date>
+<note>National Archives Microfilm Publications, Microcopy No. 468, The National Archives National Archives and Records Service General Services Administration, Washington: 1969.</note>
 </bibl>
 </sourceDesc>
-
 </fileDesc>
 
 <profileDesc>
@@ -57,10 +58,52 @@
 <language ident="en">English</language>
 </langUsage>
 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Consulate Activity</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term><!-- Journal --></term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Barghash bin Said</term>
+<term>F. M. Cheney</term>
+<term>Kanji Ragjah</term>
+<term>E. D. Roper</term>
+<term>Seth A. Pratt</term>
+<term>James D. Porter</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+
+</textClass>
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-02" who="#pr">Transcribed</change>
+<change when="2018" who="lw">Review and additional encoding</change>
+<change when="2017" who="ks">Transcription and initial encoding</change>
+
 </revisionDesc>
 </teiHeader>
 
@@ -68,1279 +111,1224 @@
 
 <body>
 
-<div1 xml:lang="en" type="document">
+<div1 type="document" xml:lang="en">
 
-<pb facs="130809.jpg"/>
+<pb facs="131306"/>
 
-<p>Introduction</p>
+<div2 type="document">
 
-<p>On the 5 rolls of this microfilm publication are reproduced
-11 volumes that contain mainly despatches, with enclosures, ad-
-dressed to the Department of State by U.S. consular officials
-at Zanzibar, Zanzibar, British Africa, between April 27, 1836,
-and June 7, 1906.</p>
+<ab>No 96<lb/>
+United States Consulate<lb/>
+Zanzibar, July 5th, 1886.<lb/>
+F. M. Cheney Counsul<lb/>
+to the<lb/>
+Department of State<lb/>
+Washington D.C.<lb/>
 
-<p>The despatches, with few exceptions, are arranged in chron-
-ological order. At the beginning of Roll 1 are reproduced se-
-lected pages from 23 State Department registers of correspondence
-that constitute a register of despatches from Zanzibar between
-April 27, 1836, and June 7, 1906.</p>
+Subject<lb/>
+New treaty</ab>
 
-<p>Interspersed throughout the series are such documents as
-occasional memoranda prepared by other State Department offi-
-cials and letters from private citizens of the United States.</p>
-
-<p>The consular post at Zanzibar was established on March 11,
-1836, and the appointment of Richard P. Waters as the first con-
-sul was confirmed on the same day. During the period 1836-1906
-several special agents from the Department of State were sent to
-the consulate: Robert W. Shuffeldt, 1878; Frederic M. Cheney,
-1886; and Augustus C. B. Govea, 1888. The post was closed tempo-
-rarily between November 1894 and August 1895.</p>
-
-<p>Some of the subjects to which the despatches relate are
-shipwrecks, desertions, and mutinies and other disturbances on
-U.S. vessels; the repression of the slave trade and the aboli-
-tion of slavery, 1846-97; concessions granted on the East Afri-
-can Coast to foreign governments; the establishment of the
-British Protectorate, 1890; and the African expiditions of
-John H. Speke and James A. Grant, 1862-63; Baron Karl K. von der
-Decken, 1865; David Livingstone, 1866-73; and Henry M. Stanley,
-1871-72 and 1874-89. Included also are photographs of Zanzibar
-taken during a skirmish between the Sultan's forces and the
-British forces, 1896, and issues of the Gazette for Zanzibar and
-East Africa and the Bombay Government Gazette.</p>
-
-<p>Many despatches are transmittal letters for enclosures of
-a routine nature forwarded by consular officials to the Depart-
-ment of State, such as reports on consular fees received and on
-trade. In accordance with departmental policy adopted in 1870,
-however, most statistical enclosures were removed from their
-covering letters and distributed among other records of the De-
-partment of State or sent to other departments of the Government.</p>
-
-<p>The records reproduced in this microcopy are part of the
-records in the National Archives designated as Record Group 59,
-General Records of the Department of State.</p>
-
-<pb facs="130913.jpg"/>
-
-<p>National Archives Microfilm Publications</p>
-
-<p>In the same record group are several series of volumes con-
-taining additional documents on relations between posts in the
-western aread of the Indian Ocean and the United States. There
-are microcopies available on despatches from U.S. consular offi-
-cials at Aden, Aden, 1880-1906 (T-503); Bombay, India, 1838-1906
-(Microcopy 168); Lourenco Marques, Mozambique, Prtuguese Africa,
-1854-1906 (T-171); Mahe, Seychelles Islands, Indian Ocean,
-1868-88 (T-437); Muscat (Masqat), Oman, 1880-1906 (T-638), for 
-1836-57 see Zanzibar (Rolls 1-3 of Microcopy 468); Port Louis,
-Mauritius, Mascarene Islands, Indian Ocean, 1794-1805, 1817-1906
-(Microcopy 462); St. Denis, Réunion Island, Mascarene Islands,
-Indian Ocean, 1880-92 (Microcopy 463); and Tamatave, Madagascar,
-1853-1906 (T-60). Complementary to the despatches are instruc-
-tions to the consuls. Other related records are notes from the 
-foreign mission of Zanzibar in the United States to the Depart-
-ment of State, 1843-1905 (Roll 3 of T-953).</p>
-
-<p>The method of arranging the consular and diplomatic series
-cited above was discontinued in 1906 when the Department of
-State adopted the practice of filing incoming and outgoing cor-
-respondence, memoranda, and other documents by subject.</p>
-
-<p>In the Department of State decimal file, 1910-29, also in
-Record Group 59, are additional documents relating to Zanzibar.
-Some documents are in the series relating to internal affairs of
-British Africa (Roll 33 of Microcopy 583), and other documents
-are in the series concerning political relations between British
-Africa and other states (Microcopies 584 and 585).</p>
-
-<p>In Record Group 84, Records of the Foreign Service Posts
-of the Department of State, in the National Archives, are rec-
-ords originally kept at U.S. diplomatic and consular posts.
-Among them are records of the post at Zanzibar, 1834-1918, and
-at other posts in the western area of the Indian Ocean. One vol-
-ume of documents from Zanzibar is included in records of the 
-post at Mombasa, Kenya, British Africa, 1901-26.</p>
-
-<p>The records reproduced in this microcopy were prepared for
-filming by Ralph E. Huss, who also wrote these introductory re-
-marks and provided the other editorial material.</p>
-
-<pb facs="131306.jpg"/>
-
-<p>No 96
-United States Consulate
-Zanzibar, July 5th 1886.</p>
-
-<p>F. M. Cluney Consul
-<unclear/>
-Department of State
-Washington D.C.</p>
-
-<p>Subject
-New treaty</p>
-
-<p>Enclosures:
-New treaty between the U.S.
-Government and <unclear/>
-<unclear/> of Zanzibar</p>
-
-<pb facs="131313.jpg"/>
-
-<p>United States Government
-Zanzibar July 5th 1886
-To the <unclear/>
-<unclear>Fluid</unclear> Assistant Secretary of State
-Washington D.C.</p>
-
-<p>Sir.
-I have the honor to acknowledge
-dispatch no 43, dated May 6th
-1886 from the Department of State
-incosing a draft of a new treaty
-and a "Full Power" from the Pres-
-ident for me to conclude the
-same.</p>
-
-<p>I at <unclear/> placed myself in
-communication with His High-
-ness the Sultan of Zanzibar and
-sent him a draft of the proposed
-treaty.</p>
-
-<p>His Higness expressed himself
-as very <unclear/> gratified that the
-United States Government was
-willing to make a new treaty
-to his advantage. The treaty was
-immediately drawn up in the <unclear/></p>
-
-<pb facs="131322.jpg"/>
-
-<p>English and <unclear/> languages, and
-on the third July it was signed
-by myself and H. H. <unclear/> Sec-
-retary, who was H. H. Plenipotentiary.</p>
-
-<p>The treaty was made in du-
-plicatel one copy is inclosed
-with this dispatch and the other
-is in His Higness possession.</p>
-
-<p>I have <unclear/> over <unclear/> the
-English <unclear/> treaties and I
-cannot see that thus in any ad-
-vantages that they get that is not
-<unclear/> us.</p>
-
-<p>His Highness the Sultan did
-not <unclear/> one question, but ordered
-the treaty got ready.</p>
-
-<p>I am greatly indebted to one
-Kanji Ragpah, a native <unclear/>
-new who is an intimate friend
-of the Sultan, in getting the treaty
-through so quickly.</p>
-
-<p>I have the honor to be Sir
-Your obedient servant
-F. M. Cheney
-US Consul</p>
-
-<p>Enclosures
-Treaty between the US of America
-and the Sultan of Zanzibar</p>
-
-<pb facs="131413.jpg"/>
-
-<p>No 98
-United States Consulate
-Zanzibar, August 15th 1886</p>
-
-<p>To the Hon.
-Third Assist. Secretary of State.
-Washington D.C.</p>
-
-<p>Sir:
-I have the honor to request the
-Department of State to inform me
-if any allowance will be made <unclear/>
-for making the new treaty with the
+<ab>Enclosures</ab>
+<p>New treaty between the U. S. 
+Government  &#38; H. H. the
 Sultan of Zanzibar.</p>
 
+<pb facs="131313"/>
+
+<ab>No 96<lb/>
+United States Consulate<lb/>
+Zanzibar July 5th 1886...<lb/>
+To the Hon.<lb/>
+Third Assistant Secretary of State<lb/>
+Washington D.C.</ab>
+
+<p>Sir,<lb/>
+I have the honor to acknowledge 
+dispatch no 43, dated May 6th,
+1886 from the Department of State
+involving a draft of a new treaty 
+and a "Full Power" from the President
+for you to conclude the
+same.</p>
+<p>I at once placed myself in
+communication with His Highness
+the Sultan of Zanzibar and
+sent him a draft of the proposed
+treaty.</p>
+<p>His Highness expressed himself
+as very much gratified that the
+United States Goverment was
+willing to make a new treaty
+to his advantage.  The treaty was
+immediately drawn up in the
+<catchwords>English</catchwords>
+
+<pb facs="131322"/>
+
+English and Arabic languages, and
+on the third July <sic>is was</sic> signed
+by myself and H. H. Plenipotentiary.</p>
+<p>The treaty was made in duplicate; 
+our copy is inclosed
+with this dispatch the other
+is in His Highness possession.</p>
+<p>I have read over carefully the
+English &#38; German treaties and I
+cannot see that there are any advantages.
+that they get that is not afforded
+us.</p>
+<p>His Highness the Sultan did
+not raise our question but ordered
+the treaty got ready.</p>
+<p>I am greatly indebted to our
+<unclear>Kanji Ragjah</unclear>, a native gentleman
+how who is an intimate friend
+of His Sultan, in getting the treaty
+through so quickly.</p>
+<p>I have the honor to be</p>
+<p>Your obedient servant</p>
+<p>F.M. Cheney
+U.S. Consul</p>
+<p>Enclosures<lb/>
+Treaty between this U. S. of America
+and His Sultan of Zanzibar</p>
+</div2>
+
+<pb facs="131413"/>
+
+<div2 type="document">
+
+<ab>No 98.<lb/>
+United States Consulate<lb/>
+Zanzibar, August 15th, 1886<lb/>
+To the Hon.<lb/>
+Third Assist. Secretary of State<lb/>
+Washington D.C.</ab>
+
+<p>
+Sir:<lb/>
+I have the honor to request the
+Department of State to inform me
+if any allowance will be made me
+for making the new treaty with the
+Sultan of Zanzibar.</p>
 <p>I consider that such work is
 outside of the line of a Consul's duty
 and it made a great deal of extra
 work and trouble, as is always the
 case in these Oriental countries.</p>
-
 <p>The Treaty was to be got through
 in a great hurry and it was only
-from my being a very old friend of
-the Sultan that it was finished
-in so short a time.</p>
+from my being as any old friend of
+the Sultan's that it was finished
+in as short a time.</p>
+<p>The salary of this Consulate is only $1000 per annum and I
+consider that $500 would be a fair
+recompense for my outside work on this 
+new treaty</p>
 
-<p>The salary of this Consulate
-is only $1000. for <unclear/> and I
-consider that $500 would be a fiar
-recompense for my outside work on this
-new treaty.</p>
+<pb facs="131420"/>
 
-<pb facs="131420.jpg"/>
+<p>My address in the United States
+is C/O Messr. Arnold <unclear>Himes Sr.</unclear>
+<unclear>158</unclear> Water St. 
+New York, N.Y.<lb/>
+I have the honor to be Sir<lb/>
+Your Obedient Servant,<lb/>
+F. M. Cheney<lb/>
+US Consul
+</p>
+</div2>
 
-<p>My address is the United States
-in <unclear/>
-<unclear/> Av.
-New York, NY
-I have the honor to be Sir
-Your obedient servant
-F. M. Cheney
-US Consul</p>
+<pb facs="131815"/>
 
-<pb facs="131815.jpg"/>
+<div2 type="document">
 
-<p>No. 101
-US Consulate
-Zanzibar Sept 8 1886</p>
+<note>
+Ansd Nov 11/86
+</note>
 
-<p>E.C. Roper Jr.
-actg US Consul</p>
+<ab>No 101<lb/>
+US Consulate<lb/>
+Zanzibar Sept 8, 1886</ab>
 
-<p>To The Department of State
-Washington D.C.</p>
+<ab>E. D. Roper Jr. <lb/>
+actg US Consul</ab>
 
-<p>Subject.
-Enclosing letter from the
-Sultan of Zanzibar</p>
+<ab>To The Department of State<lb/>
+Washington DC</ab>
 
-<p>Enclosures</p>
+<ab>Subject<lb/>
+Enclosing Letter fron the Sultan of Zanzibar</ab>
 
-<pb facs="131831.jpg"/>
+<ab>Enclosures
+Two.</ab>
 
-<p>No. 108.
-United States Consulate
-Zanzibar Sept 8 1886
-To the Hon
-Third Assist. Secy of State
-Washington DC</p>
+<pb facs="131831"/>
 
-<p>Sir:
-I have the honor to enclose
+<ab>No 101.<lb/>
+United States Consulate<lb/>
+Zanzibar Sept 8, 1886</ab>
+
+<ab>To the Hon.<lb/>
+Third Assist. Sec of State<lb/>
+Washington, D.C.</ab>
+
+<p>Sir:<lb/>
+I have the honor to enclose 
 herewith a letter from the
 Sultan of Zanzibar to the
-Department of State, a copy of 
-which he has sent to this Consulate
+Department of State a copy of
+which he has sent to the Consulate
 and which I have translated
-and also enclose herewith.</p>
+and also enclosed herewith. </p>
 
 <p>The sum and substance of
-this communication is, a request
+the communication is, a request 
 of our Government to sanction
 a tax on his own subjects, which
 I have assured His Highness will
-be undoubtedly granted time.</p>
+be undoubtedly granted him.</p>
 
-<p>The Germans and English as
-a pretence for making trouble with
+<p>The Germans &#38; English as
+a pretense for making trouble with
 the Sultan, claim that he has no
 right to levy any taxes or duties
-or any produce rained in the Sultanate</p>
+on any produce raised in the 
+<catchwords>Sultanate</catchwords>
 
-<pb facs="131837.jpg"/>
+<pb facs="131837"/>
 
-<p>Sultanate of Zanzibar other
-tahn is specified in the new
-treaties, or on his own subjects.
-The Sultan claims that he has
-a right to tax his own subjects
-as he pleases and produce belong-
-ing to them.</p>
+Sultanate of Zanzibar other
+than is specified in new
+treaties, even on his own subjects.
+The Sultan claims that he has a right to tax his own subjects
+as he pleases and produce belonging
+to them--</p>
 
-<p>This is a matter which
-does not in the <unclear/> concern
-Americans or American interests
-in any way and which I
+<p>This is a matter which does not in the least concern
+Americans or American interests in any way and which I
 assume that our Government
 will not care for me to take any
-part in troubles likely to arise
+part in the troubles likely to arrive
 from this dispute.</p>
 
-<p>I have the honor to be
-Sir
-Your obdeiant servant
-E. D. Roper Jr.
-actg US Consul</p>
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your Obedient Servant<lb/>
+E.D. Roper Jr.<lb/>
+actg U.S. Consul</p>
 
-<p>Enclosures
-1/ Letter from the Sultan of Zanzibar
-2/ Translation of above letter.</p>
+<p>Enclosures<lb/>
+1. Letter from the Sultan of Zanzibar<lb/>
+2.  Translation of above letter.</p>
 
-<pb facs="131906.jpg"/>
+<pb facs="131906"/>
 
 <p>Translation of a Letter from the
 Sultan of Zanzibar to the Secretary of State
-Washinton-Sept 7 1886
-Verbatim.</p>
+Washington Sept 7. 1886.</p>
+<ab><choice><orig>Ver batim</orig><reg>Verbatim</reg></choice></ab>
+<ab>In the Name of God the merciful  &#38; lenient</ab>
 
-<p>In the name of God the <unclear/></p>
-
-<p>To His Excellency the noble, the liberal
-and learned minister of Foreign Affairs of
+<p>To his Excellency the noble the liberal and the learned minister of Foreign Affairs of 
 the United States of America, may God prolong
-his life in unblemished glory!</p>
+his life in unblemished Glory!</p>
 
-<p>We had the honor to inform you in a
-telegram of the 6th of August that we directed
+<p>We had the honor to inform you in a telegram of the 6th August that we directed
 a letter to your Excellency, this is the letter.</p>
 
-<p>We have the pleasure to inform your
-Exellency, that the new treaties with England
-and Germany and the new clauses of duplicate
+<p>We have the pleasure to inform your Excellency, that the new treaties with England 
+and Germany and the new clauses about <unclear>spirits</unclear>
 concluded with your country entered in force
 on the 19th of August 1886 corresponding to the
-<unclear/> New Year and that the Custom
-Hour is in our own hands.</p>
-
+<choice><orig>Kisawahili</orig><reg>Kiswahili</reg></choice> New Year and that the Custom 
+House is in our own hands.</p>
 <p>I have to inform you that in the new
 treaties are not mentioned fifty five articles
-of produce of our grant and on which we al-
-ways had 5% duty- this produce has nothing
-to do with the imports and exports by Europeans
-<unclear/></p>
+of produce of our <unclear>coast</unclear> and on which we always 
+had 5% duty. This produce has nothing
+to do with the imports and exports by Europeans.
+<catchwords>It concerns</catchwords></p>
 
-<pb facs="131924.jpg"/>
+<pb facs="131924"/>
 
-<p>it concerns only my own people, who
+<p>It concerns only my own people who 
 do not pay any other taxes, so we continue
 to tax the fifty-five articles of produce as before
 at 5%.</p>
 
-<p>We send you the names of the fifty-
-five articles of the named produce in a list
+<p>We send you the names of the fifty-five 
+articles of named produce in a list
 joined to the letter and ask you to consider
-it and sanction it. Salaam!</p>
-
+it and sanction it.  Salaam!</p>
 <p>This letter was composed on the 7th
-of September corresponding to the 6th of Jul-Hay
-1303 of the Hejira.
+ of September corresponding to the 6th of <unclear>Til-Hay</unclear> 1303 of the <choice><orig>Hejira</orig><reg>Hegira</reg></choice></p>
 
-Signed- <unclear/>
+<p>Signed Barghash bin Said<lb/>
 Sultan</p>
 
-<pb facs="131945.jpg"/>
+<pb facs="131945"/>
 
 <p>List of articles of Produce which are not
 mentioned in the tariffs in the new treaties
-and coming from the African Coast.
-1. Sugar and everything concercing its manufacture
-2. Cocoa nuts
-3. David <unclear/> nuts
-4. Honey
-5. Rope
-6. Wax
-7. Stems and doors
-8. Flour
-9. <unclear>Camphor</unclear>
-10. Grass to make mats
-11. Mats
-12. Woven pieces of mats
-13. Hair from Date Palms
-14. Grass matting
-15. ,, <unclear>brackets</unclear>
-16. Vegetable ointment (ghou)
-17. Birds of all kinds
-18. Ghou and Clarified Butter
-19. Gum
-20. Myrrh
-21. Resin
-22. Aloe</p>
+and <unclear>coming</unclear> from the African Coast</p>
 
-<pb facs="131950.jpg"/>
+<list>
+<item>1 Sugar &amp; everything concerning its manufacture</item>
+<item>2 Cocoa Nuts</item>
+<item>3 Dried Coca Nuts.</item>
+<item>4. Honey</item>
+<item>5 Rope</item>
+<item>6 Wax</item>
+<item>7 <unclear>Stems</unclear> &amp; Cloves</item>
+<item>8 Flour</item>
+<item>9 Camphor</item>
+<item>10 Grass to make mats.</item>
+<item>11. Mats.</item>
+<item>12. Woven pieces of Mats.</item>
+<item>13. Hair from Date Palms</item>
+<item>14. Grass matting</item>
+<item>15. " Baskets</item>
+<item>16. Vegetable ointment [Ghee]</item>
+<item>17 Birds of all Kinds.</item>
+<item>18. Ghee &amp; clarified Butter</item>
+<item>19. <unclear>Germ</unclear></item>
+<item>20. Myrrh</item>
+<item>21. Resin</item>
+<item>22. Aloes.</item>
 
-<p>
-23. Birnds feathers and Peacocks
-24. Thin wood with long stems (ufits)
-25. Firewood
-26. Lime
-27. Bees Honey
-28. Shells
-29. Sea produce
-30. Arrack
-31. Stone for building
-32. Liguid Sugar
-33. Fruit of all kinds
-34. Shark miat
-35. Wood for building
-36. Beams
-37. Bags for grain
-38. Oil of Uta
-39. Cocoa nut oil
-40. Spears and Shields
-41. Sives
-42. Sives for cleaning <unclear>mtamura</unclear>
-43. Chain and things of wood
-44. Dragons wood (Arab medicine literal translation)
-45. Fat and grans
-46. White Amber
-47. Charcoal
-48. Mhogo (Potatoes native)
-49. Bhang
-50. Poles
-51. Donkeys
-52. Animals
-53. Bark
-54. Cotton
-55. Everything produced
-on East Coast of Africa</p>
+<pb facs="131945"/>
 
-<pb facs="132003.jpg"/>
+<item>23 Birds feathers &amp; Peacocks</item>
+<item>24 Thin wood with long stems [ufito]</item>
+<item>25. Firewood</item>
+<item>26 Lime</item>
+<item>27 Bees Honey</item>
+<item>28 Shells</item>
+<item>29 Sea Produce</item>
+<item>30. Arrack</item>
+<item>31. Stone for building</item>
+<item>32 Liquid Sugar</item>
+<item>33 Fruit of all Kinds</item>
+<item>34 Shark meat</item>
+<item>35 Wood for building</item>
+<item>36. Beams</item>
+<item>37. Bags for Grain.</item>
+<item>38 Oil of <unclear>Uta</unclear></item>
+<item>39. Cocoa nut oil.</item>
+<item>40. Spears &amp; Shields</item>
+<item>41. Seives</item>
+<item>42. Seives for cleaning <unclear>mitawawa</unclear></item>
+<item>43. Chairs &amp; things of wood.</item>
+<item>44. Dragons blood [Arab medicine literal translation]</item>
+<item>45. Fat &amp; grease</item>
+<item>46 White amber.</item>
+<item>47 Charcoal</item>
 
-<!--this document is in Arabic-->
+<item>48 Mhogo [Potatoes native]</item>
+<item>49 Bhong</item>
+<item>50 Poles</item>
+<item>51 Donkeys.</item>
+<item>52. Animals</item>
+<item>53. Bark</item>
+<item>54 Cotton</item>
+<item>55. Everything produced on East Coast of Africa</item>
 
-<pb facs="132044.jpg"/>
+</list>
 
-<p>No 108
-US Consulate
-Zanzibar Dec 20 1886</p>
+<gap reason="Arabic"><!--20170620_132003--></gap>
 
-<p>E. D. Roper Jr
-Actg US Consul</p>
+</div2>
+<!-- start -->
+<pb facs="132044"/>
 
-<p>To the
-Department of State
-Washington DC</p>
+<div2 type="document">
 
-<p>Subject-
-German encroachment in
+<note>DH Clair</note>
+<note>ack copy to Secy of the Navy. J.O.P.</note>
+<note><unclear/> Feb. 7/87</note>
+<note>Special <unclear/></note>
+
+<ab>No 108<lb/>
+U. S. Consulate.<lb/>
+Zanzibar. Dec. 20.1886</ab>
+
+<ab>E.D. Roper Jr.<lb/>
+Actg US Consul<lb/>
+To the Department of State<lb/>
+Washington D.C.</ab>
+
+<ab>Subject-<lb/>
+German encroachments in
 Zanzibar- Necessity of
-American man-of-war at
-Zanzibar.
+American man of war at
+Zanzibar</ab>
 
-Enclosures
-None</p>
+<ab>
+Enclosures<lb/>
+None
+</ab>
 
-<pb facs="132119.jpg"/>
+<pb facs="132119"/>
 
-<p>No 108
-United States Consulate
-Zanzibar. Dec. 20. 1886
-To the Hon.
-Third Assist. Secy of State
-Washington DC</p>
+<ab>No 108.<lb/>
+United States Consulate<lb/>
+Zanzibar. Dec. 20.1886<lb/>
+To the Hon.<lb/>
+Third Assist Secr. of State<lb/>
+Washington, D.C.</ab>
 
-<p>Sir!
-I have the honor to in-
-form you that the 14th inst.
-a fleet of six German Men-
-of-war under Admiral Knorr
-arrived at this port, followed
-on the 15th by two French,
+<p>Sir:<lb/>
+I have the honor to inform
+you that the 14th inst.
+a fleet of six German Man-of-war
+under Admiral Knorr
+arrived at this fort followed
+on the 15th by two French
 and one English is now
 lying in the harbor.</p>
 
-<p>The object of this movement
-has not yet been made pub-
-lic but it is understood that
-the Sultan has been compelled
+<p>The object of this movement has not yet been made public
+but it is understood that
+the Sultan has been compelled 
 to cede a large portion of his
 Coast territory to Germany and
 one seaport to England.</p>
 
-<p>This, of course is the end
-of Arab power on this Coast power.</p>
+<p>This, of course, is the end
+of Arab power on this Coast forever.</p>
 
-<pb facs="132125.jpg"/>
+<pb facs="132125"/>
 
 <p>In my opinion American
-interests and all foreign in-
-terests but Germany, will suffer
-greatly bu these changes and
+interests and all foreign interests
+but Germany, will suffer
+greatly by these changes and
 it is greatly to be regretted
-that some Government would
-not assist the Sultan's Gov-
-ernment against this German
+that some government would
+not assist the Sultan's government against this German
 robbery.</p>
 
-<p>Considering that the Sultan's
+<p>Considering that the Sultan's 
 power to control the various
-wild and lawless tribes which are
-under his <unclear>surcrainty</unclear>, will be
+wild &#38; lawless tribes which are
+under his scrutiny, will be
 materially weakened and that
 our large American interests
-are absolutely without protec-
-tion in case of riot or bom-
-bardment, and that as the
+are absolutely without protection 
+in case of riot or bombardment, 
+and that as the
 first treaty power with the
 Sultan we should be in some
-way represented in the impor-
-tant changes and transfers sure
-to take place- I recommend
+way <unclear>represented</unclear> in the important
+changes and transfers soon
+to take place. I recommend
 that an American man-of-war
-of good sire be sent to remain</p>
+of good sire be sent to remain
 
-<pb facs="132131.jpg"/>
+<pb facs="132131"/>
 
-<p>here at Zanzibar until this
-trouble is definitely settled.</p>
+here at Zanzibar until this trouble is definitely settled.</p>
 
-<p>I trust that the Govern-
-ment will take immediate
+<p>I trust that the government
+will take immediate
 action in this matter as it
-is one which admits of no
+is one which admits of no 
 delay.</p>
 
-<p>As representation of the
+<p>As representative of the
 two largest houses in Zanzibar
 I feel very anxious about the
-large amount of property be-
-longing to me being exposed
-to fire or any incidiary acts.
-also the future of the American
+large amount of property belonging
+to me lying exposed
+to fire or any incindiary acts.
+Also the future of the American
 trade seems very uncertain and
-I fear will be much injured
-by the precedence which this
-affair will give Germany-</p>
+I fear will be very much injured
+by the precedence which this affair will give Germany--</p>
 
-<p>I have the honor to be
-Sir:
-Your obedient Servant
-E. D. Roper Jr
-Actg US Consul</p>
+<ab>I have the honor to be<lb/>
+Sir<lb/>
+Your Obedient Servant<lb/>
+E. D. Roper Jr.<lb/>
+Actg U. S. Consul.<lb/>
+</ab>
+</div2>
 
-<pb facs="132153.jpg"/>
+<pb facs="132153"/>
 
-<p>No 109
-United States Consulate
-Zanzibar, December 27 1886
-To the Hon.
-Third Assist. Secy. of State.
-Washington DC</p>
+<div2 type="document">
 
-<p>Sir:
-I have the honor to -
-receive the Department's des-
-patches No 47-48-49 inclosing
+
+<ab>No 109<lb/>
+United States Consulate<lb/>
+Zanzibar, December 27, 1886<lb/>
+To the Hon.<lb/>
+Third Assit. Secy. of State.<lb/>
+Washington D.C.</ab>
+
+<p>Sir:<lb/>
+I have the honor to--
+receive the Department despatches
+Nos. 47-48-49 including
 a letter to the Sultan, which
-has been forwarded and a form
+has been fowarded, and a form
 of a Bond which I have fully
-executed and inclose herewith.</p>
+executed and included herewith</p>
+<ab>I have the honor to be, Sir,<lb/>
+Your obedient servant<lb/>
+E D. Roper Jr.<lb/>
+Actg U.S. Consul </ab>
 
-<p>I have the honor to be, Sir:
-Your obedient servant
-E.D. Roper Jr
-Actg US Consul</p>
+<ab>Enclosure<lb/>
+1/ Bond, executed</ab>
 
-<p>Enclosure
-1/ Bond, executed</p>
+</div2>
 
-<pb facs="132318.jpg"/>
+<pb facs="132318"/>
 
-<p>Zanzibar
+<div2 type="document">
 
-158 Wake Street-
-New York, Jany 10 1889
-To the Hon.
-Secretary of State
-Washington DC</p>
+<note>Copy <unclear/> J.O.P.</note>
+<note>Zanzibar</note>
 
-<p>Sir-
+<ab>158 Water Street-<lb/>
+New York, Jan'y 10th <del rend="strikethrough">1886</del>1887</ab>
+
+<p>To the Hon.<lb/>
+Secretary of State.<lb/>
+Washington D.C.</p>
+
+<p>Sir,<lb/>
 I had the honor to address
 you on the 15th August 86 from
 Zanzibar asking an allowance
-of $500 for making a treaty with
-the Sultan. On the 28th Sep 86 you
+of  $500 for making a treaty with
+his Sultan.  On the 28th Feb. 86 you
 replied that there was no authority
 of law to make an allowance.</p>
 
-<p>I had hoped as the claim was just
-something would be allowed and I went
+<p>I had hoped as the claim was just 
+something would <add place="above">be</add>allowed me. I went
 to considerable expense to get the treaty
 through quickly which I could not
-afford out od $1000. per <unclear/> salary.</p>
+afford out of $1000 per annum salary.</p>
 
 <p>The climate of Zanzibar is a very
-<unclear/> one for white men and my
-health has been impaired by a <unclear>widower</unclear>
-there. I take the liberty to ask of the
+trying one for whitemen and my
+health has been impaired by a residence
+there.  I take the liberty to ask of the
 Hon. Secretary that some consideration
-of my case will be taken.</p>
+of my care will be taken.</p>
 
-<p>I have the honor to be Sir-
-Your obedient servant
-F.M. Cluney
-Law US Consul Zanzibar</p>
+<ab>I have the honor to be Sir-<lb/>
+Your Obedient Servant<lb/>
+F. M. Cheney<lb/>
+<unclear>Law</unclear> U. S. Consul Zanzibar. </ab>
+</div2>
 
-<pb facs="132447.jpg"/>
+<pb facs="132447"/>
 
-<p>No 114
-US Consulate
-Zanzibar, January 30 1887</p>
+<div2 type="document">
 
-<p>Mr. Roper
-To
-The Dept. of State.
-Washington DC</p>
+<note><unclear></unclear></note>
 
-<p>Subject.
-German operations at Zanzibar.
-Death of Consular Interpreter.</p>
+<ab>No 114<lb/>
+US Consulate<lb/>
+Zanzibar, January 30, 1887</ab>
 
-<p>Enclosures.
-None.</p>
+<ab>Mr. Roper<lb/>
+To<lb/>
+The Dept of State<lb/>
+Washington DC.</ab>
 
-<pb facs="132453.jpg"/>
+<p>Subject<lb/>
+German operations at Zanzibar. Death of Consular Interpreter</p>
 
-<p>No 114.
-United States Consulate
-Zanzibar. January 30th, 1887
-To the Hon.
-Third Assist Secretary of State
-Washington DC</p>
+<ab>Enclosures<lb/>
+None</ab>
 
-<p>Sir:
-I have the honor to in-
-form you that the German
+<pb facs="132453"/>
+
+
+<ab>No 114<lb/>
+United States Consulate<lb/>
+Zanzibar January 30th 1887</ab>
+
+<ab>To the Hon.<lb/>
+Third Assit. Secretary of State<lb/>
+Washington D.C.</ab>
+
+<p>Sir:<lb/>
+I have the honor to inform
+you that the German
 operations on this Coast have
-so far resulted in the acqui-
-sition of a strip of mangrove
+so far resulted in the acquistion 
+of a strip of mangrove
 swamp and marsh land some
 forty miles long, situated on the
 Coast about two hundred miles
-North of Zanzibar, also a Ger-
-man protectorate is acknowledged
-for <unclear>Witu</unclear>, and the lease of two
-Custom Houses on the Coast to 
-the German East African Tra-
-ding Company- the Sultan's
-authority is restricted to a strip
-of Coast Land ten miles wide 
-extending from Jungs Bay to
-<unclear>Kaperniz</unclear>, and ten miles around
-each of</p>
+North of Zanzibar, also a German
+protectorate is acknowledged
+for Witu, and the lease of two
+Custom Houses on the Coast
+to the German East African Trading
+Company- the Sultan's authority is restricted to a strip
+of coast land ten miles wide extending from <unclear>Tunge Bay</unclear> to 
+<unclear>Kapermie</unclear> and ten miles around
+<catchwords>Each of</catchwords>
 
-<pb facs="132501.jpg"/>
+<pb facs="132501"/>
 
-<p>each of his Bin Addah tourns,
+Each of his Bin Addah towns 
 but the terms of this agreement
-are I suppose more familiar
+are I suppose more familiar 
 to the Department than to me.</p>
 
 <p>At the time of writing my
-Despatch No 108. in which I
+Despatch No. 106 in which I
 suggest that a man-of-war
 be sent here on account of this
-German incident- feeling against
+German incident  - feeling against
 white-men in town was very
-bitter and there was every pros-
-pect of trouble, but at present the
-negotiations are progressing fa-
-vorably and quietly and there
-is now no necessity for a man-
-of-war to call here, although
-it always has a good effect, and
-I should very much like to
-see one of our gun-bouts in
+bitter and there was every prospect
+of trouble, but at present the
+negotiations are progressing favorably
+&#38; quietly and there
+is now no necessity for a man-of-war
+to call here, although it always <add place="above">has</add>a good effect, and 
+I should very much like to 
+see one of our gun-boats in
 the harbor for a month or two
-just at present.</p>
+just at present. </p>
 
-<p>The workings of the new
-tariff on articles imported in
-to the Island of Zanzibar
+<p>The workings of the new 
+tarriff on articles imported in 
+to the island of Zanzibar
 from the mainland are not
-wholly</p>
+<catchwords>wholly</catchwords>
 
-<pb facs="132507.jpg"/>
+<pb facs="132507"/>
 
-<p>wholly satisfactory- this is
-especially applicable to Ivory,
+wholly satisfactory - this is
+especially applicable to Ivory, 
 the market price of which it
-is very difficult to fit, and the
+is very difficult to fit and the
 Sultan's Collector of Customs
 at present is a most unsuitable
 man for the place and who
-uses his position unfairly to 
+uses his position unfairly to
 further his own business; he
 also, by buying small lots at
 high prices keeps the price of
 Ivory far above what it should
-be- as my commercial position
-in Canzibar is principally to
+be -- as my commercial position
+in Zanzibar is principally to
 buy Ivory this affects me directly.</p>
 
 <p>As soon as the German
 affair is settled, the Sultan
-will be forced to remove this
-Collector and observe the spirit
-as well as the letter of the treaties.
+will be forced to summon this
+Collector and observe the spirit as well as the letter of the treaties.
 I am personally in sympathy
-with the Germans and English
-in this movement although
-I am aware that our Govern-
-ment does not wish to interfere
-in any way</p>
+with the Germans &#38; English
+in this moment although
+I am aware that our goverment
+does not wish to interfere
+<catchwords>in any way</catchwords>
 
-<pb facs="132514.jpg"/>
+<pb facs="132514"/>
 
-<p>in any way with the internal
-affairs of the Sultan's Government
-but I think that a joint pro-
-test of the German, English and
-American consuls against this
+in any way with the internal
+affairs of the Sultan's government
+but I think that a joint protest 
+of the German, English and
+American Consuls against this
 man's continuing in office will
-benefit all natinalities without
-unpleasant complications.</p>
+benefit all nationalities without
+unpleasant complications.</p> 
 
 <p>I have to report the death
 of the Interpreter of this Consulate
-Joharris bin Saif, on the 29th inst.
+<unclear>Joharri bin Saif</unclear> on the 29th inst.
 after a service of nearly forty years:
 his place will probably be filled
-by an appointer of Consul Pratt's
-after he takes ove the office-
-I have the honor to be Sir
-Your obedient Servant
-E.D. Roper Jr.
-Actg. US Consul</p>
+by an appointee of Consul Pratts
+after he takes over the office.</p>
 
-<pb facs="132521.jpg"/>
+<ab>I have the honor to be Sir<lb/>
+Your Obedient Servant,<lb/>
+E. D. Roper Jr.<lb/>
+Actg U.S. Consul.</ab>
+</div2>
 
-<p>No 115
-Department of State
-May 7 1887
-Received</p>
+<pb facs="132521"/>
 
-<p>US Consulate
-Zanzibar, March 16, 1887
-Mr. Roper
-To the
-Dept. of State
-Washington DC</p>
+<div2 type="document">
 
-<p>Subject-
-Movement of men-of-war
+<note><unclear/></note>
+
+<ab>No 115<lb/>
+U.S. Consulate<lb/>
+Zanzibar March 16, 1887</ab>
+
+<ab>Mr. Roper<lb/>
+To the<lb/>
+Dept of State<lb/>
+Washington D.C.</ab>
+
+<ab>Subject.<lb/>
+Movement of Man-of-war</ab>
 
 
-Enclosure
-none</p>
+<ab>Enclosure<lb/>
+none</ab>
 
-<pb facs="132616.jpg"/>
+<pb facs="132616"/>
 
-<p>No 115. 
-US Consulate
-Zanzibar, March 16 1887
-To the Hon.
-Third Assist Secy of State
-Washington DC</p>
 
-<p>Sir:
+<ab>No 115<lb/>
+US Consulate<lb/>
+Zanzibar, March 16, 1887</ab>
+
+<ab>To the Hon.<lb/>
+Third Assit Sec. of State<lb/>
+Washington D.C.</ab>
+
+<p>Sir:<lb/>
 I have the honor to report
-the arrival of the USS "Alliance"
-at Zanzibar on the 23rd ult. and
+the arrive of the U.S.S. "Alliance"
+at Zanzibar on the 23rd ult. &#38;
 departure for Johanna on the
-27th ult, having received the usual
+27th ult, having acquired the usual
 civilities from the Sultan.</p>
 
-<p>The German squadron of
+<p>The German squadron of 
 five vessels sailed for Europe
-on the 4th inst., leaving two
-small gun-boats on this station-
+on the 4th inst. leaving two
+small gun-boats on this station
 political affairs are now quiet.</p>
 
 <p>I have to acknowledge receipt
 of three volumes of "Wharton's Digests"
 which have been placed in the
-Consular Library.
-I have the honor to be Sir,
-Your obedient Servant
-ED Roper Jr.
-Actg US Consul</p>
+Consular Library.</p>
 
-<pb facs="132902.jpg"/>
+<ab>I have the honor to be Sir,<lb/>
+Your Obedient Servant<lb/>
+E. D. Roper Jr.<lb/>
+Actg U. S. Consul</ab>
 
-<p>No 11. United States Consulate
-Zanzibar. July 4 1887
-To the Hon:
-Third Asst. Secretary of State
-Washington DC</p>
+</div2>
 
-<p>Sir:
+<pb facs="132902"/>
+
+<div2 type="document">
+
+<note><unclear/></note>
+
+<ab>No. 11 United States Consulate<lb/>
+Zanzibar July 4, 1887</ab>
+
+<ab>To the Hon.<lb/>
+Third Assit Secretary of State<lb/>
+Washington D.C.</ab>
+
+<p>Sir:<lb/>
 I have the honor to inform
-you that this the 111th anni-
-versary of the Declaration of 
-the Independence of the Unit-
-ed States of America has been
+you that this the 111th Anniversary
+of the Declaration of
+the Independence of the United
+States of America. has been 
 observed in a becoming manner
-at this port.</p>
+at this post.</p>
 
 <p>All of the European
 Consuls have honored the
 occasion by paying an
-official visit to his Con-
-sulate.</p>
+official visit to this Consulate.</p>
 
-<p>B. M. Shipper "<unclear/>
-and</p>
+<p> <del></del>B. M. Ship "Turquoise"
+<catchwords>and</catchwords>
 
-<pb facs="132908.jpg"/>
+<pb facs="132908"/>
 
-<p>and "Reindeer" (the only foreign
-men of war in port) are detected
-<unclear/> the American Ensign
-al the main. As also are the
+and "Reindeer" the only foreign
+men-of-war in port are decked
+out with the American Ensign 
+at the main As also are the
 ships of His Majesty the
 Sultan of Zanzibar.</p>
 
 <p>A royal salute of
-<unclear/>-one guns was fired
+twenty-one guns was fired
 at noon from His Majesty's
-man <unclear/> "Seasgow".</p>
+Man-of-war <unclear>"Glasgow"</unclear>.</p>
 
-<p>This evening a dinner
-will be given at the Con-
-sulate to which all of
+<p>This evening a dinner will
+be given at the Consulate
+to which all of 
 the Americans are invited.</p>
 
-<p>A marked event of
-the day has been the throw-
-ing to the <unclear/> of the large
+<p>A marked event of 
+the day has been the throwing
+to the <!--unclear--> of the large
 American Ensign from the
-new staff, which was only
-yesterday</p>
+new staff which was only
+<catchwords>yesterday</catchwords>
 
-<pb facs="132914.jpg"/>
+<pb facs="132914"/>
 
-<p>yesterday erected over this
-Consulate.</p>
+yesterday erected over this consulate.</p>
 
 <p>I have anticipated the
 permission of the Department
-in respect to the Flag-staff
+in respect to the Flag staff
 and trust that I may be
-<unclear/> in so doing: <unclear/>
+pardoned in so doing since
 it did not seem fitting
-that the flad should be fly-
-ing from a make-shift 
-staff on the great national
-Holiday.</p>
+that the flag should be flying
+from a make-shift
+staff on our great-national
+holiday</p>
 
 <p>I await the sanction of
-the Department before pre-
-senting accounts for the same.
-I have the honor to be
-Sir
-Your obedient servant
-<unclear/> A. Pratt
-US Consul</p>
+the Department before presenting
+accounts for the same.</p>
 
-<pb facs="132951.jpg"/>
+<ab>I have the honor to be,<lb/>
+Sir<lb/>
+Your obedient Servant<lb/>
+Seth A. Pratt<lb/>
+U.S. Consul</ab>
+</div2>
 
-<p>No 13
-United States Consulate
-Zanzibar. August 1 1887
-To the Hon
-Third Asst. Secretary of State
-Washington DC</p>
+<pb facs="132951"/>
 
-<p>Sir:
+<div2 type="document">
+
+<ab>No 13 United States Consulate<lb/>
+Zanzibar, August 1, 1887</ab>
+
+<ab>To the Hon.<lb/>
+Third Assit. Secretary of State.<lb/>
+Washington D.C.</ab>
+
+<p>Sir:<lb/>
 I have the honor to inform
 the Department of some recent
-charges in the Consular Service
-of the different European nations
+changes in the Consular Service 
+of the different European Nations
 represented at Zanzibar.</p>
 
-<p>Dr. <unclear/> Imperial Ser-
-man Consul General at Zanzibar
-has <unclear/> to Butan, and has
-been relieved by Dr. <unclear/>.
-It is presumed that Dr. <unclear/>
-has been recalled by his Government.</p>
+<p>Dr. Arendt late Imperial <unclear>Seaman</unclear>
+Consul General at Zanzibar
+has returned to Britain and has
+been relieved by Dr. <unclear>Michalettes</unclear>.
+It is presumed that Dr. Arendt has been recalled by his government.</p>
 
 <p>It is also understood
-that Mr. <unclear/>, lately
-N.B.M.</p>
+that Mr. Holmwood lately
+<catchwords>N B M</catchwords>
 
-<pb facs="132956.jpg"/>
+<pb facs="132956"/>
 
-<p>N. B. M. acting Consul General
-at Zanzibar who has been
-relieved by Maj. MacDonald
-has been recalled. at the 
-instance of <unclear/> Bismark.</p>
+No B. M. acting Consul General 
+of Zanzibar, who has been relieved by Maj. MacDonald,
+has been recalled at the instance of Prince Bismark. </p>
 
 <p>In this connection the
-resignatin of Sir John Krik
-NBM Political Agent and
-Consul General is significant:
-since it should appear to be
+resignation of Sir John Kirk
+No. B. M. Political Agent and
+Consul General is significant 
+since it would appear to be
 in the direct line of British
-non-inerference with the proj-
-ect of the German government
+non-interference with the project
+of the German Government
 for the colonization of the
 East Coast of Africa.</p>
 
-<p>Diplomative relations
-having been resumed between
+<p>Diplomatic relations
+having been resumed between 
 the Portuguese Government and
-His Majesty the Sultan the
-Portuguese</p>
+His Majesty the Sultan. The
+<catchwords>Portuguese</catchwords>
 
-<pb facs="133002.jpg"/>
+<pb facs="133002"/>
+<fw>(3)</fw>
 
-<p>Portuguese flad has again
-hoisted at Zanzibar on the
-15th ultimo. <unclear>La Uiconte
-de Casticho</unclear> being Consul <unclear/>
-and charge d'affairs.</p>
 
-<p>M. <unclear/> the
-special <unclear/> of the King
+Portuguese flag was again
+hoisted at Zanzibar on the 
+15th ultimo.  Le <unclear>Vicomte 
+de Castacha</unclear> being Consul Gl. 
+and Chargé d'Affaires.</p>
+
+<p><unclear>M. Neumangildo</unclear> the
+special Envoy of the king
 of Portugal is at present
-in Zanzibar, accompanied
-by five ships of war. this
-mission is the delimitation of
-the Northern Frontier of the
-Portuguese possession in
-East Africa.
-I have the honor the be
-Sir,
-Your obedient servant
-<unclear/> A. Pratt
-US Consul</p>
+in Zanzibar accompanied
+by two ships of war. His
+mission is the delimitation of the  Northern frontier of the
+Portuguese possessions in
+East Africa.</p>
 
-<pb facs="133048.jpg"/>
+<ab>I have the honor to be,<lb/>
+Sir,<lb/>
+Your Obedient Servant.</ab>
+<p>Seth A. Pratt.
+U. S. Consul.</p>
 
-<p>this market has for some time
-been over supplied with <unclear/>
-English and Indian goods.
+</div2>
 
-American Imports
+<pb facs="133048"/>
 
-The imports from the United
+<div2 type="document">
+
+
+<p>This market has for some time
+been over-supplied with quantities
+of English and Indian goods.</p>
+
+<p><hi rend="underline">American Imports</hi></p>
+<p>The imports from the United
 States may be said to consist
-<unclear/> of <unclear/> Petroleum,
-unbleached cotton and soap-
-these being the staples handled
-by the American <unclear/> engaged
-in this trade. The former
-of these by its phenomenal cheap-
-ness has completely taken the
-place of the <unclear/> , which
-in former <unclear/> were used
+nominally of refined Petroleum,
+unbleached cotton, and soap--
+These being the staples handled
+by the American houses engaged
+in this trade.  The former
+of these by its phenomenal cheapness
+ has completely taken the
+place of the vegetable oils, which
+in former times were used
 exclusively for illuminating
 purposes.</p>
 
-<pb facs="133057.jpg"/>
+<pb facs="133057"/>
+<fw>18</fw>
 
-<p>all petroleum is often sold in
-this market as low as one dol-
-lar and a quarter- United States
-currency- which fact would
-not commend it to the <unclear/>
-consideration of experts in 
-America. The yearly consump-
-tion of East Africa- Zanzibar
-being the <unclear/> point-
+<p><unclear>Can</unclear> petroleum is often sold in 
+this market as low as one dollar
+and a quarter -- United 
+States currency-- which fact would not
+command it-to- the serious
+consideration of exporters in the
+America.  The yearly consumption
+of East Africa -- Zanzibar
+being the distributing point --
 is upwards of 75,000 cases.</p>
 
-<p>American Consuls have for
-many years been the stand
-and in this market but their
-use has been much curtailed
-within the past the years by
-the <unclear/> of the Cotton
-manufactured in India.</p>
+<p>American cottons have for
+many years been the standards
+in this market but their
+use has been much curltailed
+in the past ten years by
+the introduction of the cottons
+manufactured in India. </p>
 
-<pb facs="133102.jpg"/>
+<pb facs="133102"/>
 
-<p>Standard thirty-six inch sheet-
-ings cannot be sold here at
-better than five <unclear/> per
-<unclear/> of thirty yards.</p>
 
-<p><unclear/> commands a
-ready sale but at unrenumera-
-tive prices.</p>
+<p><unclear>Standard thirty-six inch sheetings</unclear>
+cannot be sold here at
+better than five rupees per 
+piece of thirty yards.</p>
 
-<p>Besides the foregoing, a 
-<unclear/> business is <unclear/> in
-Bleached Cotton. Biscuits. Lum-
-ber. Bar <unclear/>. Soap. Jam. Nails.
-Resin and <unclear/>.</p>
+<p><unclear>Brown</unclear> Soap commands a 
+ready sale but at unremunerative
+price.</p>
 
-<p>As is usually the case the
-imports from the United States
-for the past year are very
-small in comparison to
-the exports for the same
+<p>Besides the foregoing a limited
+ business is done in
+Bleached Cotton, Biscuits, Lumber.
+<unclear>Bar Shacks, Soap</unclear>, Iron. Nails,
+Resin, and Turpentine.</p>
+
+<p>As is usually the case, the
+imports from the United States for the past year are very
+small in comparison to the exports for the same
 period.</p>
+</div2>
 
-<pb facs="133325.jpg"/>
 
-<p>United States Consulate
-Zanzibar. October 24. 1887
-Mr. Pratt 
-To the Department of State</p>
+<pb facs="133325"/>
 
-<p>Subject-
-Bonding goods</p>
+<div2 type="document">
 
-<p>Abstract of Contents
+<note><unclear/>Clair</note>
+
+<ab>No. 24<lb/>
+United States Consulate<lb/>
+Zanzibar, October 24, 1887</ab>
+
+<ab>Mr. Pratt.<lb/>
+To the <unclear>Department of</unclear> State</ab>
+
+<p>Subject</p>
+
+<p><unclear>Bonding</unclear> gards</p>  <!--*3325-->
+
+<p>Abstract of Contents:
 Requesting information as to
-whether the <unclear/> of the
-new treaty in regard to
-bonding goods in bond
+whether the provisions of the
+New Treaty in regard to
+<unclear>landing gards</unclear> in bond
 can be enforced.</p>
+<!--Start -->
+<pb facs="133349"/>
 
-<pb facs="133349.jpg"/>
+<ab>No 24. United States Consulate<lb/>
+Zanzibar October 24, 1887</ab>
 
-<p>No. 24. 
-United States Consulate
-Zanzibar. October 24. 1887
-<unclear/> James D. Porter
-Assistant Secretary of State
-Washinton DC</p>
+<ab><unclear>Honorable</unclear> James D. Porter<lb/>
+Assistant Secretary of State<lb/>
+Washington, D.C.</ab>
 
-<p>Sir:
+<p>Sir:<lb/>
 I have to request of
-the Department instanction
+The Department instructions
 in relation to the Article in
-the New English and German
-treaties, stipulating that
-goods may be landed here
-in bond, for a period not
-exceding six months.</p>
+the English and German
+treaties stipulating that 
+gards may be <unclear>landed</unclear> here
+in bond for a period not 
+exceeding six months.</p>
 
-<p>This question is li-
-able to arise at any time
-and I should be glad to
-know just what rights
-might</p>
+<p>This question is liable
+to arise at any time
+and I should be glad to know just what rights
+<catchwords>might</catchwords>
 
-<pb facs="133404.jpg"/>
+<pb facs="133404"/>
 
-<p>might be claimed by Am-
-ericans under this article.</p>
+might be claimed by Americans under this article.</p>
 
 <p>The clause in the
-new treaties relating to the
-duty of <unclear/>-five per cent
-in <unclear/> liquors, is prac-
-tically a dead-letter. From
+new treaties relating to the 
+duty of twenty-five per cent
+in spiritous liquors is politically
+a dead-letter from
 the fact that France has
-not assinted to the appli-
-cation of the Provised tariff
-of Zanzibar to the experts
-of France <unclear/> this
-country.</p>
+not assented to the application
+of the Revised Tariff
+of Zanzibar to the Exports
+of France cultivating this
+<unclear>country</unclear>.</p> 
 
-<p>Nationally, the English
-and German merchants ob-
-jected to paying any high-
-er duty in <unclear/> liquprs
+<p>Naturally, the English and German merchants objected
+to paying any higher
+duty on spiritous liquers
 than was being paid by
-the French i.c. five per cent
-and</p>
+the French i.e. five per cent
+<catchwords>and</catchwords>
 
-<pb facs="133409.jpg"/>
+<pb facs="133409"/>
 
-<p>and the new rate (257-)
-consequently could not be
+and the new rate (25%) 
+consequently could not be 
 sustained.</p>
 
-<p>The Sultan, doubtless
-having in mind he fact
-that this new rate was in-
-tended in past, as a com-
-pensation for a reduction
-of the duty in certain art-
-icles of Export- is not
-inclined to allow the for-
-eign merchants any priv-
-ilages under the new
+
+<p>The Sultan doubtless
+having in mind the fact
+that this new rate was intended
+in part as a compensation for a reduction
+of the duty in certain articles of the Export is not
+inclined to allow the foreign
+merchants any privileges under the new
 treaties.</p>
 
 <p>It is well known that
-the Sultan does not <unclear/>
-with favor in the idea of
-landing goods in bond
+the Sultan does not look
+with favor on the idea of
+<unclear>landing</unclear> gards in <unclear>Bond</unclear>
 and he might possibly
-object</p>
+<catchwords>object</catchwords>
 
-<pb facs="133414.jpg"/>
+<pb facs="133414"/>
 
-<p>object on the grounds men-
-tioned above.</p>
+object on the grounds mentioned 
+above.</p>
 
 <p>It is often a great
-convenience- as well as a
-saving of expense- to Am-
-ericans engaged in business
-here to land goods in
-bond: since in that way
+convenience -- as well as a
+saving of Expense -- to Americans
+engaged in business
+here. No land gards in
+<unclear>bond</unclear> since in <unclear>that</unclear> way
 a vessel might proceed
-direct to her destination
+direct  to her destination
 without stopping at an
 intermediate port.</p>
 
-<p>I am sir
-Your obedient servant
-Seth A Pratt
-US Consul</p>
+<ab>I am Sir<lb/>
+Your Obedient Servant</ab>
+<p>Seth A. Pratt<lb/>
+U.S. Consul</p>
+</div2>
 
-<pb facs="133431.jpg"/>
+<pb facs="133431"/>
 
-<p>No. 25
-Consulate of the United States
-Zanzibar. November 10 1887
-Mr. Pratt
+<div2 type="document">
+
+<note>Ans'd DFT <unclear/> Jan 13/88 <unclear/></note>
+<note>Further instructed to <unclear/> (Draft J. Taylor) 6 April 88</note>
+
+<ab>No. 25<lb/>
+Consulate to the United States<lb/>
+Zanzibar, November 10, 1887</ab>
+
+<p>Mr. Pratt,<lb/>
 To the Department of State</p>
 
-<p>Subject-:
-Claim of Dr. B. F. <unclear/>
+<p>Subject:<lb/>
+Claim of Dr. B. F. Wilson
 against King of Johanna</p>
 
-<p>Abstract of Contents.
-<unclear/> Dr. B. F. <unclear/>
-grievance and <unclear/>
-evidence bearing in case</p>
+<p>Abstract of Contents<lb/>
+<unclear>Preceeding</unclear> Dr. B. F. Wilson's
+grievance and involving
+evidance bearing in case</p>
 
-<pb facs="133517.jpg"/>
+<pb facs="133517"/>
 
-<p>No 25
-Consulate of the United States
-Zanzibar. November 10. 1887
-Honorable James D. Porter
-Assistant Secretary of State
-Washington DC</p>
+<ab>No. 25<lb/>
+Consulate of the United States<lb/>
+Zanzibar, November 10, 1887.</ab>
 
-<p>Sir:
-I have the honor to ad-
-dress the Department at this
-time in relation to the claim
-of Dr. B. F. <unclear/> against
-Sultan Abdullah. King od
-Johanna.</p>
+<p>Honorable James D. Porter,<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D. C.</p>
+
+<p>Sir:<lb/>
+I have the honor to advise
+the Department at this 
+time in relation to the Claim
+of Dr. B. F. Wilson against
+Sultan Abdallah, King of 
+Johanna.</p> <!-- Based on timing, is this Saidi Abdallah bin Salim? -->
 
 <p>This claim is of long
-standing and the Depart-
-ment has long since been
-made acquainted with par-
-ticulars of the same.</p>
+standing and the Department
+has long since been 
+made acquainted with particulars
+ of the same.</p>
 
-<p>Dr. <unclear/> now appears
-again to the Government at
-the United States. Through
+<p>Dr. Wilson now appeals
+again to the Government of
+the United States through
 the Department of State
 for some relief from the
-burden under which he
-is laboring.</p>
+burden under which he 
+is laboring. </p>
 
-<pb facs="133543.jpg"/>
+<pb facs="133543"/>
 
-<p>To my own knowledge he
-(Dr. <unclear/>) is internally in-
-solvent, and is consquently
-so pressed by his <unclear/>
-on all sides as to be <unclear/>
-ly hampered in the pros-
-ecution of his <unclear/></p>
+<fw>(2)</fw>
+<p>To my own knowledge, he 
+(Dr. Wilson) is virtually insolvent
+and is consequently
+so pressed by his <unclear>creditors</unclear>
+in all sides as to be seriously
+hampered in the prosecution
+of his business.</p>
 
-<p>By his <unclear/> and
+<p>By his <unclear>nurturing</unclear> and
 intelligent efforts he has
-developed his sugar plan-
-tation to such a state of
-perfection as to make it
-(<unclear/>) a most
-desirable property.</p>
+developed his sugar plantation
+to such a state <choice><sic>of of</sic><corr>of</corr></choice> perfection as to make it
+(if unencumbered) a most-desirable
+property.</p>
 
 <p>But with its present debt
 it is quite impossible for
-him to work it to a profit</p>
+him to work it to a profit.</p>
 
 <p>There is no doubt
 that had the King of Johanna
-not taken the contemptable
+not taken the Contemptable
 action he did to injure
 his prospects he (Dr. Wilson)
 would have been now in
 a position to realize large
-benefits from his impier-
-ed Estate.</p>
+benefits from his <unclear>imparted</unclear>
+Estate.</p>
 
-<pb facs="133609.jpg"/>
+<pb facs="133609"/>
 
-<p>In September 1885 when
-Commander J F Barninton
+<fw>(3)</fw>
+<p> 3 September, 1885. When 
+Commander <unclear> P. F. Mannington</unclear>
 visited Johanna in the
-"<unclear/>" he made inquiry
+<unclear>"Jornata"</unclear> he made inquiry
 into the matter as far as
-was possible but it was
-very difficult to get any
-one to go on board he
-"<unclear/>" to testify against
-the King. Knowing that at
-the moment the vessel felt
+was possible and it was
+very difficult to get away
+one to go in board the
+<unclear>"Jornata"</unclear> to testify against
+the King. Knowing that at the moment the vessel left
 they would be punished
-for so doing</p>
+for so doing.</p>
 
 <p>Dr. Wilson has when
-opportunity offered obtain-
-ed what evidence he could
+opportunity offered obtained
+what evidence he could 
 bearing in his case: and
 I am sending the same
-herewith as per the sub-
-joined list of <unclear/>.</p>
+herewith, as per the subjoined list of enclosures.</p>
 
-<p>When Caption Patten
+<p>When Captain Potter
 was at Johanna in the
-'Lancaster' in april of last
+"Lancaster" in April of last
 year he was inclined to
-take some claim in the
-matter</p>
+take some action in the
+<catchwords>matter</catchwords>
 
-<pb facs="133616.jpg"/>
+<pb facs="133616"/>
 
-<p>matter. But the admiral
-of the French gun boat
-"<unclear/>" in the harbor bear-
-ing the Commandant of the
-Mayatta with instan claim
-from his Government to take
+<fw>(4)</fw>
+
+matter. But the arrival 
+of the French gunboat
+<unclear>"Chaeal"</unclear> in the harbor bearing 
+the Commandant of the
+<unclear>Mayatta</unclear> with instructions
+from his government to take
 over the Protectorate of the
-Island. put a new phase
+Island but a new phase
 in the affair and the
-'Lancaster' returned in good
-<unclear/>.</p>
+"Lancaster" <unclear>returned</unclear> in good
+<unclear>order</unclear>.</p>
 
 <p>It would appear that
-the King was cerced into
-signing the treaty with the
+the King was coerced into
+signing the treaty with the 
 French in account of the
 presence of an American
-man of war in port from
+man o'war in port from
 the fact that he afterwards
-protested against receiving
+<unclear></unclear> against receiving
 the French resident who
 was finally landed by
-<unclear/> in april of this year.</p>
+force in April of this year.</p>
 
 <p>I am informed that
 the President has recently
 been negotiating a new
-treaty</p>
+<catchwords>treaty</catchwords>
 
-<pb facs="133632.jpg"/>
+<pb facs="133632"/>
 
-<p>treaty with the King. But I
+<fw>(5)</fw>
+treaty with the King but I
 have no idea what terms
 have been made.</p>
 
 <p>From all that I
-have been able to learn
-Dr. Wilson is a <unclear/>
+have been able to learn,
+Dr. Wilson's actual losses
 by the King's interference
 cannot be less than 300,000.</p>
 
@@ -1353,587 +1341,512 @@ his life.</p>
 <p>Perhaps it would
 not be out of place for
 me to say here that I
-have yet to hear one word
-of derogation of his char-
-acter in business methods
--this among my acquain-
-taince in in Mauritius Réunion
-Madagascar and <unclear/>.</p>
+have yet to hear one word 
+of derogoration of his character
+<unclear>in business methods</unclear>.
+-- This among my acquaintances in
+<unclear>Mauritius</unclear> <unclear></unclear>
+Madagascar and Elsewhere</p>
 
-<p>If this were not the case
+<p>If this were not the case.
 I imagine that he would
 long since have been
-compelled</p>
+<catchwords>compelled</catchwords>
 
-<pb facs="133648.jpg"/>
+<pb facs="133648"/>
+<fw>(6)</fw>
 
-<p>compelled to have retired
+compelled to have retired
 from the field.</p>
 
 <p>Trusting that the
-Department will give this
+Department would give this
 matter the attention to which
-I believe it is <unclear/>.</p>
+I believe it is entitled.</p>
 
-<p>I have the honor to be
-Sir
-Your obedient Servant
-Seth A Pratt
-US Consul</p>
+<ab>I have the right to be,<lb/>
+Sir,<lb/>
+Your Obedient Servant<lb/>
+Seth A. Pratt,<lb/>
+U. S. Consul</ab>
+</div2>
+<gap reason="sampling"></gap>
+<gap reason="French"></gap>
 
-<p>Enclosures
-No 1. M. <unclear/> to Dr. Wilson
-2. <unclear>Bond letter</unclear>
-3. D. Bank <unclear/>
-4. A. B. D. Esta
-5. R. M. <unclear/>
-6. Balidi Chay
-7. D. Dupont to Langlin <unclear/>
-8. <unclear/> of <unclear/> Mitchall
-9. L. Ekamann
-10. L. Weiber
-12. Omer bin Seid Allmi
-13. Cabo Mohamad Fuber
-14. Abderaman bin Abbas
-15. Mohamad bin Allmi</p>
+<gap reason="sampling"></gap>
 
-<pb facs="133703.jpg"/>
+<pb facs="133806"/>
+<div2 type="document">
+<ab>Oriental Bank Corporation in <unclear>Liquidation</unclear> 
+Mauritius 18th July, 1886.</ab>
 
-<p><unclear/>, 27 Avril, 1876</p>
+<ab>B. F. Wilson <unclear></unclear>, M.D.
+of Johanna</ab>
 
-<p>Oui, Docteur, je me souviens parfaitement que le
-si courant, lorsque nous nous sommes rendus auprès du
-Commandant de Mayotts, sur sa demande, vous lui avez
-demandé de la part du Commandant du "Lancaster" de
-vouloir bien se rendre avec vous chez <unclear/> Mohamed
-afin de constater que la lettre reçue par le Commandant
-du "Lancaster" n'était pas de lui et par conséquent était un
-faux.</p>
-
-<p>Le Commandant de Mayotts vous repondre:-
-"laissez cela, ce n'est pas la peine de s'en occuper", malgré
-vos instances d'éclaircir ce fait.</p>
-
-<p>Recevez, cher Docteur, mes sincères compliments
-signé L. Humblot
-Naturaliste, officier d'academie chargé de
-missions par le Ministre de l'Instruction
-publique.</p>
-
-<p>I hereby certify that the foregoing
-is a correct copy of the original
-letter on file at this Consulate.
-Seth A. Pratt
-US Consul</p>
-
-<p>US Consulate
-Zanzibar. November 10. 1887</p>
-
-<pb facs="133712.jpg"/>
-
-<p><unclear/>, 27th April, 1878
-Yes, Doctor, I remember very well that on the <unclear/>, <unclear/>
-both to for the Commandant of Mayotts on this demand
-<unclear/> have asked him, on behalf of the Captain of the SS
-"Lancaster", to be sent enough to call in your <unclear/>
-Mohammed, so the Commandant could maintain that the
-letter received by Captain of "Lancaster" was not written by
-Mohammed, and consequently was a false document.</p>
-
-<p>The Commandant of Mayotts, although you had insisted
-upon him to get the trouble recontained, would give to you any
-other answer than, "let this matter drop: that is of no
-importance."</p>
-
-<p>Signed, L. Humblot, a naturalist, affairs of
-the Academy, and in mission for the Minister of Public
-Instruction.</p>
-
-<p>Correct translation
-signed, L. Humblot
-L. <unclear/>
-<unclear>S.C.L.</unclear></p>
-
-<pb facs="133727.jpg"/>
-
-<p>Mauritius, <unclear/> July, 1886
-<unclear/>
-Johanna</p>
-
-<p><unclear/>
-With <unclear/>
-scandalous reports indicative <unclear/> report than
-have been maliciously <unclear/> in Réunion
-<unclear/> for your mural <unclear/>, have
-pleasure in stating formally that having
-known you intimately for many years post
-both in business and privately we are in a
-position to declare <unclear/> and emphatically
-that all such <unclear/> <unclear/> instant
-foundation and certainty spread with the
-object of assuring you <unclear/>.
-I'll remain, Dear Sir
-Your faithful ally
-(signed) <unclear/>
-Merchant.</p>
-
-<p>I hereby certify that the foregoing
-is a correct copy of the original
-letter on file at this Consulate</p>
-
-<p>Seth A Pratt
-US Consul</p>
-
-<p>US Consulate
-Zanzibar. November 10. 1887.</p>
-
-<pb facs="133806.jpg"/>
-
-<p>Copy
-Oriental Bank Corporation for Liquidation
-Mauritius, 18th July, 1886</p>
-
-<p>B. S. Wilson <unclear/> M.D.
-of Johanna</p>
-
-<p>Dear Sir,
-Regarding your claim against the King of Johanna
+<p>Dear Sir,<lb/>
+Regarding your Claim against the King of Johanna
 for indemnity for the loss you have suffered through his
-interference with you labour supply during the past four
+interference with your labor supply during the past four
 years, we can say that we are well aware of the serious
-injury done to you and <unclear/> by the large reduction in
-the quantity of sugar produce by Patsy Estate resulting
+injury done to you and <unclear>ourselves</unclear> by the large reduction in
+the quanitity of sugarproduced by <unclear>Patsy Estate</unclear> resulting
 from that interference.</p>
 
-<p>It is quite certain that had the Sultan not
-compelled a large number of your labourers to leave your
+<p>It is quite certain that had the Sultan not 
+compelled a large number of your laborers to leave your
 employment with the object of crippling your operations,
-you would see this time have been able to repay as the
-important advances of funds we made to you through <unclear/>
-<unclear/> for the purpose of working your Estate.
-Your claim for an indemnity is therefor clearly just
-and indisputable and we trust the United States Government
-will inforce its payment as soon as possible.</p>
+you would at this time have been able to repay us the
+important advances of funds we made to you through <unclear>Messrs</unclear>
+<unclear></unclear> for the purpose of working your Estate.</p>
 
-<p>With reference to the representations which we
-learn have been made to your government by some evil
-<unclear/> persons, reflecting on your moral character, we can
-only say they are false and malicious. During the last
-year we have been intimatley acquainted with you: we
+<p>Your claim for indemnity is therefore clearly just 
+and indisputable, and we trust the United States Government
+will enforce its payment as soon as possible.</p>
+
+<p>With reference to the representation which we
+learn, have been made to your government by some evil
+<unclear>dispised persons</unclear>, reflecting on your moral character, we can 
+only say they are false and malicious.  During the last
+ten years we have been intimately acquainted with you: we 
 have therefore had every opportunity of observing your
-behavior both here and in Johanna, and we are bound to</p>
+behavior both here and in Johanna, and we <unclear>are found</unclear>
+<catchwords>to</catchwords>
 
-<pb facs="133904.jpg"/>
+<pb facs="133904"/>
 
-<p>to say you have invariantly conducted yourself as a
-gentleman of <unclear/> character.
-We remain, Dear Sir,
-your faithful ally
-(Signed) For official Liquidation
+to say you have invariably conducted yourself as a 
+gentleman of irreproachable character.</p>
+
+<p>We remain Dear Sir,
+Yours Faithfully,
+(Signed), For official Liquidator
 of the Oriental Bank Corporation
 By His Attorneys
-J. A. <unclear/>
-A. <unclear/></p>
+<unclear>J.A. Ferguson</unclear>
+<unclear>A. Wemyss</unclear></p>
 
 <p>I hereby certify that the foregoing
 is a correct copy of the original
-letter on file at this Consulate.
-Seth A Pratt
-US Consul</p>
+letter in a file this Consulate.</p>
+<ab>Seth A. Pratt<lb/>
+U. S. Consul</ab>
 
-<p>US Consulate
-Zanzibar. November 10. 1887</p>
+<ab>U. S. Consulate.
+Zanzibar, November 10, 1887</ab>
+</div2>
 
-<pb facs="133948.jpg"/>
+<pb facs="133948"/>
+<div2 type="document">
+<note>Copy 4/25</note>
 
-<p><unclear/>, Johanna
-May, 1887</p>
+<ab><unclear>Domony</unclear>, Johanna<lb/>
+May, 1887</ab>
 
-<p>Dear Sir Wilson,
-Having been requested to act as an effort in
-estimating the damges you suffered through the acts of Sultan
-Abdallah, and being personally acquainted with the affairs and
-also with the <unclear/> conduct of Sultan Abdallah, towards you,
+<p>Dear Doctor Wilson,<lb/>
+Having been requested to act as an expert in
+estimating the damage you suffered through the acts of Sultan
+Abdallah, and being personally aquainted with the affairs and
+also with the unwarranted conduct of Sultan Abdallah, toward you,
 I hereby state my opinion in the matter.</p>
 
 <p>I know very well that the Sultan threatened
-your life by giving orders to his armed men to short you when
+your life by giving orders to his armed men to shoot you when 
 they would get a chance of doing so; as you did not give
-them the opportunity, the plot failed, but it is nevertheless clear
+them the opportunity the plot failed, but it is nevertheless clear
 that the detention in your house through threats of being shot at,
-prevented you from attending to the work of you plantation, as well
+prevented you from attending to the work of your plantation, as well
 as to any other business you may have had in hand. I have seen
 also in your house several places where the boards had been cut
-through by bullters fired in the night and evidently intended for
-you. I know also of the <unclear/> and sinking of your
-steam launch while at her anchorage, and of the stealing of anchors
-and chains in your boat shed, all acts perpetrated by the Sultan's
+through by bullets fired in the night and evidently intended for
+you.  I know also of the scuttling and sinking of your
+steam launch while at her ancorage, and of the stealing of anchors
+and chains in your boat shed, all acts perpetuated by the Sultan's
 men and by his orders.</p>
 
 <p>Regarding your labour, it is very well known to me and
-to every one in the island that in the year <unclear>1883</unclear> the Sultan took
+to every one in the island that in year <hi rend="underline">1883</hi> the Sultan took 
 away some hundred free men who were working for you, and
-gave orders to the Johanna men to withdraw from your employment
-any and all the places they had in it. His taking place which
-you were in full <unclear/> interfered not only with that <unclear/>, but with
-those that followed, as it prevented you from doing your planting and</p>
+gave orders to the Johannamen to withdraw from your employment
+any and all the slaves they had in it.  This taking place while
+you were in full crop interfered, not only with that crop, but with
+those that followed, as it prevented you from doing your planting
+<catchwords>and</catchwords>
 
-<pb facs="134026.jpg"/>
+<pb facs="134026"/>
 
-<p>and many other important works.</p>
+many other important works.</p>
 
 <p>From the quantities of sugar you made during the
-preceding years, that is from 1879 to 1882 included, it is evident
+preceding years, that is from 1879-1882 included, it is evident
 that during that period your crops were increasing by about
-one hundred tons every year. In the year 1883, <unclear/> of the 
-Sultan's interference, you made only half the quantities of sugar
-of the preceding year, or three hundred tons less than you should
+one hundred tons every year.  In the year <hi rend="underline">1883</hi>, time of the 
+Sultan's interference, you made only <hi rend="underline">half</hi> the quantities of sugar
+of the preceding year or <hi rend="underline">three hundred tons less</hi> than you should
 have made had you not been interfered with by the Sultan.</p>
 
-<p>The following years, 1884 to 1886, show a slight increase
+<p>The following years, 1884-1888, show a slight increase 
 but not in a ratio with the first alluded to (1879-1882), and I should
-say that in those three last years (1884-1886) your yearly loss was
-as heavy as in 1883, or about three hundred tons yearly, making
-a total loss for the four years 1880-1886 of twelve hundred tons
+say that in those last years (1884-1886), your yearly loss was 
+as heavy as 1883, or about <hi rend="underline">three hundred tons yearly</hi> making
+a total loss for the four years <unclear>1883</unclear>-1886, of <hi rend="underline">twelve hundred tons</hi>, 
 which, at the Mauritius market prices during these years would
-be with, with interest, Ro 300,000.</p>
+be worth, with interest, <hi rend="underline">Rs. 300.000.</hi></p>
 
 <p>The above I consider to be as near as possible your losses
-from the Sultan's interference with your labour in 1880 and 1886, not
-speaking of the aforementioned attempts at your life, to, and
-the general inconvenience you were put to by such <unclear/>
+from the Sultan's interference with your labor in 1883 and 1886 not
+speaking of the aforementioned attempts at your life, &#38;c, and
+the general inconvenience you were put to by such unwarrantable
 acts.</p>
 
-<p>Trusting that the US Government will give to your
+<p>Trusting that the U.S. Government will give to your
 case all the attention it deserves, and that you may some day
-be compensated for your losses,
-I remain, Dear Doctor
-very sincerely yours
-(signed) A B d'<unclear/>
-Manager of Pomony Estate, Johanna</p>
+be compensated for your losses,</p>
 
-<pb facs="134115.jpg"/>
+<ab>I remain, Dear Doctor,<lb/>
+Very Sincerely Yours<lb/>
+signed A. B. d'Pate<lb/>
+Manager of Domony State, Johanna</ab>
+</div2>
 
-<p><unclear/>, October 15th 1887
-Dr. Wilson MD
-Patsy</p>
+<pb facs="134115"/>
 
-<p>Dear Sir
-In reply to your
+<div2 type="document">
+<ab>Mohilla, October 15th, 1887 <lb/>
+Dr. Wilson M.D.<lb/>
+Patsy</ab>
+
+<p>Dear Sir,<lb/>
+In reply to your 
 communication asking for any information
 known to me concerning your late troubles
 with the Sultan Abdallah and for which you are
 claiming an indemnity, I can state that
-your labour supply was almost entirely taken
-away from you leaving scarcely sufficiant
+your labor supply was almost entirely taken
+away from you leaving scarely sufficient
 people to gather in your crop, thus neglecting
-all necessary work for Sultan can, such as
-planting, working etc. Knowing as I do the
+all necessary work for future years such as
+planting, hoeing, &#38;c. Knowing as I do the
 progress made in yields during the first ten years
-cultivation of virgin land I can assert that
-your losses must have been enormous.</p>
+cultivation of virgin land. I can assert that
+your loss must <add place="above">have been</add>enormous.</p>
 
 <p>From the bullet holes I have seen in your house
 which were made by the Sultan's soldiers when
 passing through your estate I consider your
 life to have been in great danger. Indeed
-I know that it was so threatened that you
-had to exercise great caution when in moving
-round your house and were entirely prevented
-from attending to your <unclear/> work. No one
+I know that it was so threaten that you
+had to exercise great caution even in moving
+round your house and entirely prevented
+from attending to your outside work. No one
 can entertain any doubt about your
 losses under such circumstances and
-I hope that your government will give you</p>
+I hope that your Government will give
+<catchwords>you</catchwords>
 
-<pb facs="134139.jpg"/>
+<pb facs="134139"/>
 
-<p>you the satisfaction you deserve as I
-<unclear/> that you have been almost ruined
-With best wishes
-I remain
-yours very sincerely
-(signed) Roth M. <unclear/></p>
+you the satisfaction you deserve as I
+consider that you have been almost ruined</p>
+
+<ab>With best wishes<lb/>
+I remain<lb/>
+Yours very sincerely<lb/>
+(signed) <unclear>Robt. M. Dimsley.</unclear></ab>
 
 <p>I hereby certify that the foregoing
 is a correct copy of the original
-letter on file at this Consulate.
-Seth A Pratt
-US Consul</p>
+letter on file at this consulate</p>
+<ab>Seth A. Pratt<lb/>
+U.S. Consul</ab>
+<ab>U. S. Consulate<lb/>
+Zanzibar, November 10, 1887</ab>
+</div2>
 
-<p>US Consulate
-Zanzibar. November 10. 1887</p>
+<gap reason="unclear" extent="2 pages"></gap>
+<gap reason="Arabic"></gap>
+<!-- 4244
+<p>The English words struck out <unclear></unclear> in error.  
+instead of on the opposite page <unclear>(Sm?)</unclear> and
+Signed William Hill <unclear>Witman</unclear>
+<unclear></unclear>
+</p>
+<p>signed Abdallah <unclear>bin Zubar</unclear> Interpreter to
+the President of Johanna</p>
+ -->
+<gap reason="French"></gap>
 
-<pb facs="134233.jpg"/>
+<gap reason="Arabic"></gap>
 
-<p></p>
+<pb facs="134347"/>
+<div2 type="document">
+<note>Copy 6/25</note>
 
-<pb facs="134238.jpg"/>
-
-<p></p>
-
-<pb facs="134244.jpg"/>
-
-<p></p>
-
-<pb facs="134249.jpg"/>
-
-<p></p>
-
-<pb facs="134347.jpg"/>
-
-<p><unclear/> 12th Sept. 1885
-To 
-Dr. B.F. Wilson
-Proprietor of Patsy Estate
+<p>Mohilla, 12th Sept. <unclear>1885</unclear></p>
+<p>To B. F. Wilson,<lb/>
+Proprietor of Patsy Estate<lb/>
 Johanna</p>
-
-<p>Dear Sir
+<p>Dear Sir,<lb/>
 Having been compelled by force when
-imprisoned at <unclear/> by Sultan Abdallah to
-male a false statement concering you, I now
-wish to declare and publish that that statement
-was false, it was written by Sultan Abdallah for
+imprisoned at <unclear>Baumban</unclear> by Sultan Abdallah to 
+make a false statement concerning you. I now 
+wish to declare and publish that that statement 
+was false. It was written by Sultan Abdallah for
 his own purpose and I was forced to sign it under
 penalty of death if I did not. The statement
 that he made me sign was that you had given
-me money to hire men to go and fight for
-Prince Mohamed and that you would pay
-ten dollars per head for slaves and fifty dollars
-for free men an in case a slave died or was
+me money to have his men to go and fight for
+Prince Mohammed <del></del> and that you would pay
+ten dollars per head for slaves and fifty dollars for 
+free men and in case a slave died or was
 killed you would pay fifty dollars to his master.</p>
 
-<p>All this I now <unclear/> swear is false,
-I wish have to to state also that I have often heard
+<p>All this I now solemnly swear is false.
+I wish here to state also I have often heard
 Sultan Abdallah say that he intended to drive you
-away from Johanna and take your plantation for
-his own benefit and that of his son <unclear/>. I have
-heard him <unclear/> this intention many times
+away from Johanna and take your planatation for
+his own benefit and that of his own son <unclear>Salim</unclear>. I have
+heard him avow this intention many times
 previous to the outbreak of trouble between him
-and his borther Price Mohamed. Since
-that occurred I was arrested and imprisoned
-at <unclear/> because I <unclear/> with</p>
+and his brother, Prince Mohammed since
+that occurred I was arrest and imprisoned
+on <unclear>Baumban</unclear> because I sympathized
+<catchwords>with</catchwords>
 
-<pb facs="134355.jpg"/>
+<pb facs="134355"/>
 
-<p>with Prince Mohamed although I neither fought
-for him nor assisted him in any way <unclear/>.
-I remain, Dear Sir
-yours faithfully
-(signed) <unclear/></p>
+with Prince Mohammed although I <unclear></unclear> fought
+for him nor assisted him in any way whatsoever.</p>
+<ab>I remain Dear Sir.
+Yours Faithfully</ab>
+<ab>Signed <gap reason="Arabic"></gap></ab>
 
-<p>Le President de France a <unclear/>, certifié que la
-première des deux signateurs ci dessus <unclear/> celle
-des hommes <unclear/> que l'<unclear/> <unclear/> dans mon
-bureau et a <unclear/> le presant <unclear/>
-<unclear/> 12 april 1887
-Signed Le President de France: <unclear/></p>
+<gap reason="French"></gap>
 
 <p>I hereby certify that the foregoing
-is a correct copy of the original
-letter on file at this Consulate.
-Seth A Pratt
-US Consul</p>
+is a correct copy of the Original
+letter on file at this Consulate.</p>
+<p>Seth A. Pratt</p>
+<p>U. S. Consul<lb/>
+U.S. Consulate<lb/>
+Zanzibar, November 10, 1887</p>
+</div2>
+<pb facs="134417"/>
 
-<p>US Consulate
-Zanzibar November 10 1887</p>
+<div2 type="document">
+<ab>Mauritius 17th January 1887</ab>
+<ab>Messrs <unclear>Layton</unclear> <unclear></unclear><lb/>
+Merchants</ab>
 
-<pb facs="134417.jpg"/>
-
-<p>Mauritius 17th January 1887
-Press: Langlois <unclear/>
-Merchants.</p>
-
-<p>Dear Sir,
+<p>Dear Sir,<lb/>
 As you requested when I went to Johanna on behalf of
-the Oriental Bank Corporation and the <unclear/> of <unclear/> to inspect
-and report when the Sultan's sugar estate at Bauban: I thouroughly
+the Oriental Bank Corporation and the firm of <unclear> Moudlette</unclear> to inspect
+and report upon the Sultan's sugar estate at <unclear>Baumban</unclear> I thoroughly
 inspected the estate "Patsy" belonging to Doctor Wilson. I found
-"Patsy" estate very well managed indeed, the canes well cultivated,
-and the plant of machinery in good order. I should judge that
-Dr. Wilson will this coming season turn out about 400 tons of sugar,
-and I see as reason why he should not go on increasing his
-production yearly, say from 40 to 100 tons until he makes 800 to 900
-tons per <unclear/>. Dr. Wilson has done a great deal of hard and
-intelligent work at Patsy, and it is my opinion that had his labour
-not been interfered with by the Sultan since 1882 (when he made
-527 tons of sugar) that he would have been making the 800 to 900 tons
-annually since /86.</p>
+Patsy estate very well managed indeed the canes well cultivated,
+and the plant of machinery in good order.  I should judge that
+Dr. Wilson will this coming season turn out about 400 tons of sugar
+and I see no reason why he should not go on increasing his 
+production yearly, say from 70 to 100 tons until he makes 800 to 900
+tons per annum. Dr. Wilson has done a great deal of hand and
+intellectual work at Patsy, and it is my opinion that had his labour
+<add place="side">supply</add> not been interfered with by the Sultan since 1882 (When he made
+<unclear>527</unclear> tons of sugar). that he would have been making the 800 to 900 tons
+annunally since <unclear>1884</unclear></p>
 
-<p>Doctor Wilson's losses from the cause above alluded to, I
-am sure cannot be less than one hundred thousand pounds planting, taking
-into conisderation the heavy fall in prices of sugar since that time,
-without, re re, besides the loss of a certain quantity of canes abandoned
-and left in the ground, the latter taking from the <unclear/> the necessary
-proportion for future cultivation of them.</p>
+<p>Doctor Wilson's losses from the cause above alluded to I
+am sure cannot be less than one hundred <add place="above">thousand</add> pounds sterling, taking
+into consideration the heavy fall in prices of sugar price that time,
+interest, etc etc, besides the loss of a certain quantity of cane abandoned 
+and left in the ground, the latter taking from the soil the necessary
+properties for future cultivation of them.</p>
 
 <p>The French Protectorate will I hope and trust work well
 for future operations as there is an abundance of labour on the island,
-and the men want to work, but as it appears were only detered
-from doing so by the Sultan who evidently does not wish to see</p>
+and the men want to work, but as it appears were only deterred
+from doing so by the Sultan who evidently does not wish to see
+<catchwords>foreigners</catchwords>
 
-<pb facs="134437.jpg"/>
+<pb facs="134437"/>
 
-<p><unclear/> in his island, with the Protectorate he will not
+foreigners succeed in his island. With the Protectorate he will not
 be allowed to interfere.</p>
 
-<p>I do not consider that there is any wish whatever in
-making <unclear/> to Dr. Wilson for working his estate.
-I remain, Dear Sir,
-your obedient servant
-signed D. Dupont</p>
+<p>I do not consider that there is any risk whatsoever in
+making advances to Wilson for working his estate.</p>
 
-<p>sworn and subscribed to before one this thirteenth
-day of June 1887
-Thomas J. <unclear/>
-US Consul
-Mauritius</p>
+<p>I remain, Dear Sir,<lb/>
+Your Obedient Servant<lb/>
+Signed, D. Dupont</p>
+
+<p>Sworn and subscribed to before one this thirteenth
+day of June 1887.
+Signed, Thomas J. <unclear>Areutis</unclear>
+U. S. Consul.<lb/>
+Maritius</p>
 
 <p>I hereby certify that the foregoing
-is a correct copy of the original
-letter on file at this Consulate
-Seth A Pratt
-US Consul</p>
+is a correct copy of the Original
+letter on file at this Consulate.</p>
+<ab>Seth A. Pratt
+U. S. Consul.</ab>
 
-<p>US Consulate
-Zanzibar November 10 1887</p>
+<ab>U. S. Consulate
+Zanzibar, November 10, 1887</ab>
 
-<pb facs="134502.jpg"/>
+<pb facs="134502"/>
 
 <p>I hereby certify that I was present when Dr. Wilson
 made a settlement with Sultan Abdallah and heard
-Sultan Abdallah insist upon Dr. WIlson's paying him
-interest for goods that he had had from the Sultan
-from the date they were <unclear/> until time of settlement,
+Sultan Abdallah insist upon Dr Wilson's paying him
+interest for goods &amp;c. that he had had from the Sultan
+from the date they were retired until time of settlement,
 had heard Dr. Wilson parted, but he had to give in to
-the Sultan in order to come to some settlement with him.
-It was well known that the Sultan had agreed to
+the Sultan in order to come to some settlement with him.</p>
+
+<p>It was well known that the Sultan had agreed to
 supply Dr. Wilson with everything he required to make
-a plantation without charging him anything until
+a plantation without charging him anything
 his plantation was paying. This was offered him for
-the services he rendered to Sultan Abdallah.
-signed James Mitchell
-Port Louis, Mauritius
-6th February 1884</p>
+the services he rendered to the Sultan Abdallah.</p>
+
+<ab>(Signed) James Mitchell<lb/>
+Port Louis, Mauritius<lb/>
+6th, February 1884</ab>
 
 <p>I hereby certify that the foregoing
-is a correct copy of the original
-statement on file at this Consulate.
-Seth A Pratt
-US Consul</p>
+is a current copy of the original
+statement on file at this consulate.</p>
+<ab>Seth A. Pratt,
+U.S. Consul</ab>
 
-<p>US Consulate
-Zanzibar November 10 1887</p>
+<ab>U.S. Consulate
+Zanzibar, November 10, 1887</ab>
+</div2>
 
-<pb facs="134527.jpg"/>
 
-<p>Johanna, 26th April 1886</p>
+<pb facs="134527"/>
 
-<p>Dr. B.F. Wilson has made <unclear/> tons of sugar in 1887. At the
-commencement of the 1882 crop he was deprived of labour by
-Sultan Abdallah, so that he could not extende his plantation,
+<div2 type="document">
+<p>Johanna, 25 April 1886</p>
+<p>Dr. B. F. Wilson has made <unclear>516</unclear> tons of sugar in 1882. At the
+commencement of the 1882 crop he was deprived of labor by
+Sultan Abdallah, as that he could not extend his plantation,
 and it has been invariably the same every year since that time
-(1882). so that instead of increasing his production of sugar
+(1882) so that instead of increasing his production of sugar
 yearly as he might have done had he had the required labour,
 it has fallen off, so that his last crop was only 227 tons;
-whereas he might have made, if not interfered with, 900 tons of
+whereas he might have made, if not interefered with, 900 tons of 
 sugar the last season: the estate being able to produce about
 1500 tons of sugar, if all is put under cultivation.</p>
 
 <p>It is a very easy matter for a crop to be largely reduced by
-want of labour during one season; but is very difficult, and
+want of labour during one season: but it is very difficult, and
 requires much time to increase it again. It will take Dr. Wilson
 at least four years to get his production of sugar what it
-would have been had he not been interfered with.</p>
+would have been had he not been interefered with.</p>
 
 <p>I have had much experience on sugar plantations, being an
-agricultural chemist, and I consider myself well able to judge
-in this case, having spent the last twelve years in sugar
+agricultural chemist, and I consider myself well able to judge 
+in this case, having spent <del>the</del> last twelve years in sugar
 colonies.</p>
 
 <p>Another important consideration in connection with Dr. Wilson's
 losses is the fall in the price of sugars for the last two years,
-which has been more than 30%; as even if Dr. Wilson can
-produce the same quantity of sugar as he had been able to
-produce before, he could not get the same profit.
-signed L. Ehrmann
-Analystical Chemist
-SC1 (London)</p>
+which has been more than 30%; so even if Dr. Wilson can
+produce the same quanitity of sugar as he had been able to 
+produce before, he could not get the same profit.</p>
 
-<pb facs="134747.jpg"/>
+<ab>(signed) L. Ehrmann<lb/>
+Analytical Chemist<lb/>
+<unclear>Peller Chemical Society<lb/>
+2. C. 1.</unclear> (London)</ab> 
+</div2>
 
-<p>Johanna 25th April 1886</p>
+<pb facs="134747"/>
 
-<p>In days age when the USS Lancaster was here Captin
-<unclear/> received from Sultan Abdallah a letter containing
-I have been told so, false statements against Dr. Wilson,
-and placing him under a very dalse position; this letter,
-bearing the signature of Prince Mohamed. <unclear/> Dr. Wilson
-knew this he made some inquiries and learned, positively,
-that Prince Mohamed never wrote the letter refered to, nor
+<div2 type="document">
+<ab>Johanna, 25th April 1886</ab>
+<p>Ten days ago, the U. S. S. Lancaster was here, Captain 
+<unclear>Potter</unclear> recieved from Sultan Abdallah a letter containing
+I have been told to false statements against Dr. Wilson,
+and placing him <unclear></unclear> false position: this letter,
+bearing the signature of Prince Mohom<add place="above">m</add>ed. When Dr. Wilson
+knew this he made some enquiries and learned positively
+that Prince Mohom<add place="above">m</add>ed never wrote the letter referred to, nor
 any other letter to Captain Potter, but that this letter was
-written by a fellow SS Abdallah, by his orders, and falsely
-signed Mohamed. Having got this information, Dr. Wilson
+written by a fellow <unclear>S. J.</unclear> Abdallah, by his orders, and falsely
+signed Mo<add place="above">m</add>ed. <unclear>Naming</unclear> got this information. Dr. Wilson
 asked Captain Potter to send an officer with the letter to
-Prince Mohamed to ascertain the fact. The Lancaster being
-ready to sail and under steam, no officer could go
-shore, and Captain Potter refered Dr. Wilson to the
-Commandant of Mayotte who was on shore making
+Prince Mo<add place="above">m</add>ed to ascertain the fact. The "Lancaster" being
+ready to sail and under steam no officer could go <del>on</del>
+shore, and Captain Potter referred Dr. Wilson to the
+Commandant of <unclear>Mayotte</unclear> who was on shore making
 a treaty with S. Abdallah.</p>
 
 <p>I was present when Dr. Wilson asked the Commandant
-of Mayotte to call Prince Mohamed and make an
-inquiry on this letter falsely signed by him. Commandant
-of Mayotte declined to make any inquiry.
-Signed L. Ehrmann</p>
+of <unclear>Mayotte</unclear> to call Prince Mohamed and make an
+enquiry on this letter falsely signed by him. Commandant
+of <unclear>Mayotte</unclear> declined to make any enquiry.</p>
+
+<p>(Signed) L. <unclear>Shrmanns.</unclear></p>
 
 <p>I hereby certify that the foregoing
 is a correct copy of the original
-statement in file at this Consulate.
-Seth A Pratt
-US Consul</p>
+statement on file at this Consulate</p>
 
-<p>US Consulate
-Zanzibar November 10 1887</p>
+<ab>Seth A. Pratt<lb/>
+U. S. Consul.</ab>
 
-<pb facs="134759.jpg"/>
+<ab>U. S. Consulate
+Zanzibar November 10, 1887</ab>
+</div2>
+
+<pb facs="134759"/>
+
+<div2 type="document">
 
 <p>Mauritius, August 1st, 1886</p>
 
 <p>I hereby certify that I was in Dr. Wilson's employ on
 Patsy Estate for six years, and I have heard Sultan Abdallah
 say on several occasions that he intended after Dr. Wilson
-had got his estate in good working condition, to drive Dr.
-Wilson from the island, and get his estate away from him,
-and give it to his son Salim. He also promised to make
-me manager of the estate if I would assist in getting Dr
+had got his estate in good working condition to drive Dr.
+Wilson from the island, and get his estate away from him
+and give it to his son <unclear>Salim</unclear>. He also promised to make
+me manager of the estate if I would assist in getting Dr.
 Wilson into difficulties. I am personally acquainted with
 Sultan Abdallah, and used to be very intimate with him.
 He commenced to try and deprive Dr. Wilson of labour in
-1882, and took away all his own slaves first from Dr.
-Wilson, and <unclear/> of his <unclear/> Boney Malala, about 50 in
-number. He requested them to leave Patsy without Dr.
-Wilson's knowledge and go to his garden at <unclear/>.
-He then tried to get all Hohanna men to take <unclear/> slaves
+1882 and took away all his own slaves first from Dr.
+Wilson, and then of his Queen Boney Malala, about 60 in
+number. He requested them to leave Patsy without
+Dr. Wilson's knowledge, and go to his garden at <unclear>Germanda</unclear>
+He then tried to get all Johannamen to take their slaves
 from Dr. Wilson's employ. At the same time he ordered
 all free labourers to leave, which they did, as they were
-afraid of the vengeance of the Sultan if they did not
-signed L. Werber
-Subscribed and affirmed to this month
-day of August 1886
-signed Thomas J <unclear/>
-US Consul
-Port Louis</p>
+afraid of the sergeant of the Sultan if they did not
+</p>
 
-<p>I hereby certify that the
-foregoing is a correct copy
-of the original statement
-on file at this Consulate.
-US Consulate
-Zanzibar November 10 1887
-Seth A Pratt
-US Consul</p>
+<ab>(signed) L. Herber.<lb/>
+Subscribed and affirmed to this ninth<lb/>
+day of August, 1886.
+</ab>
 
-<pb facs="134908.jpg"/>
+<ab>(signed) Thomas F. <unclear>Proctor</unclear><lb/>
+U.S. Consul<lb/>
+Port Lewis
+</ab>
+
+<p>I hereby ceritify that the foregoing is a correct copy of the original statement on file at this consulate.</p>
+<ab>Seth A. Pratt<lb/>
+U.S. Consul.</ab>
+
+<ab>U.S. Consulate<lb/>
+Zanzibar, November 10, 1887</ab>
+
+</div2>
+
+<pb facs="134908"/>
 
 <p>Johanna 29 August 1886</p>
 
@@ -1981,7 +1894,7 @@ Zanzibar November 10 1887
 Seth A Pratt
 US Consul</p>
 
-<pb facs="135028.jpg"/>
+<pb facs="135028"/>
 
 <p>Mayotte, September 26th, 1886</p>
 
@@ -2020,7 +1933,7 @@ Zanzibar November 10 1887
 Seth A Pratt
 US Consul</p>
 
-<pb facs="135049.jpg"/>
+<pb facs="135049"/>
 
 <p>I <unclear/> Abass do hereby solemnly
 swear and affirm that I acted as Prince Mohamed
@@ -2055,7 +1968,7 @@ attempted to take possession from Dr. Wilson of
 a <unclear/> laden with Paddy I trust then to 
 <unclear/> him</p>
 
-<pb facs="135143.jpg"/>
+<pb facs="135143"/>
 
 <p><unclear/> him to help me but he <unclear/> to <unclear/>
 I know that Dr. Wilson possessed a few <unclear/>
@@ -2086,7 +1999,7 @@ US Consul
 US Consulate
 Zanzibar November 10 1887</p>
 
-<pb facs="135600.jpg"/>
+<pb facs="135600"/>
 
 <p>United States Consulate
 at Zanzibar February 13th 1888</p>
@@ -2107,7 +2020,7 @@ Your Obedient Servant
 <unclear/>
 US Vice Consul, acting Consul</p>
 
-<pb facs="135659.jpg"/>
+<pb facs="135659"/>
 
 <p>United States Consulate
 at Zanzibar march 31st 1888</p>
@@ -2138,7 +2051,7 @@ sent month.</p>
 
 <p>Pray the department will approve my</p>
 
-<pb facs="135706.jpg"/>
+<pb facs="135706"/>
 
 <p>my deliberation in this case
 I Am Sir
@@ -2146,7 +2059,7 @@ Your obedient servant
 Augustus <unclear/>
 US Vice Consul, acting Consul</p>
 
-<pb facs="135942.jpg"/>
+<pb facs="135942"/>
 
 <p>Consulate of the United States of America
 at Zanzibar June 30th 1888
@@ -2173,7 +2086,7 @@ Secretary and myself to the Depart
 ment by registered mail and through
 the United States Lagation at</p>
 
-<pb facs="135948.jpg"/>
+<pb facs="135948"/>
 
 <p>London, as per instructions
 received.
@@ -2182,7 +2095,7 @@ Your obedient servant
 Augustus <unclear/>
 Vice Consul of the US acting Consul</p>
 
-<pb facs="140104.jpg"/>
+<pb facs="140104"/>
 
 <p>Consulate of the United States
 at Zanzibar July 10th 1888</p>
@@ -2197,7 +2110,7 @@ Informing about the contract
 made by the Sultan of Johanna
 Island and the French Residents.</p>
 
-<pb facs="140135.jpg"/>
+<pb facs="140135"/>
 
 <p>Consulate of the United States
 at Zanzibar July 10th 1888</p>
@@ -2225,7 +2138,7 @@ sertions.</p>
 
 <p>This Consulate has informed the</p>
 
-<pb facs="140203.jpg"/>
+<pb facs="140203"/>
 
 <p>the said Dr. Wilson, under the date of
 the 5th May ultismo, about his claims
@@ -2237,7 +2150,7 @@ Your obedient servant
 Augustus <unclear/> Govea
 Vice Consul of the US acting Consul</p>
 
-<pb facs="140400.jpg"/>
+<pb facs="140400"/>
 
 <p>United States Consulate
 at Zanzibar November 1st 1888</p>
@@ -2264,7 +2177,7 @@ Vice Consul of the US actg Consul</p>
 <p>Enclosure
 Copy of Dr Wilson's letter</p>
 
-<pb facs="140412.jpg"/>
+<pb facs="140412"/>
 
 <p>Of the letter from Dr. BF Wilson of Johanna
 Patsy Estates Johanna 29 May 1888
@@ -2294,7 +2207,7 @@ or the Sultan after that unless they are
 obliged by pressure to pay my inemnity.
 The</p>
 
-<pb facs="140419.jpg"/>
+<pb facs="140419"/>
 
 <p>The Sultan is now trying another
 scheme to deprive me of free labour
@@ -2323,7 +2236,7 @@ Resident to get rid of me. Hoping to hear from
 you by the return mail I am your obedient Servant
 Signed BF Wilson</p>
 
-<pb facs="141704.jpg"/>
+<pb facs="141704"/>
 
 <p>Consulate of the United States
 at Zanzibar November <unclear/> 1888
@@ -2351,7 +2264,7 @@ also the copy of my despat
 ches in <unclear/> to <unclear/> communi
 cations. The places <unclear/></p>
 
-<pb facs="141733.jpg"/>
+<pb facs="141733"/>
 
 <p>blockade are the places that the
 german East Africa Association
@@ -2380,7 +2293,7 @@ your obedient servant
 Augusts <unclear/> Govea
 <unclear/></p>
 
-<pb facs="141744.jpg"/> 
+<pb facs="141744"/> 
 
 <p>Enclosures
 1.English Consul communication
@@ -2388,7 +2301,7 @@ and face enclosures annexed
 2. German Consul communication
 and two enclosures annexed</p>
 
-<pb facs="141817.jpg"/>
+<pb facs="141817"/>
 
 <p>To all British and British Indian Subjects Resident
 withing the dominions of His Highness the
@@ -2413,7 +2326,7 @@ the orders of the Admirals commanding the English and German Fleets.</p>
 H. B. M's Agent and Consul General, Zanzibar
 God Save the Queen</p>
 
-<pb facs="141915.jpg"/>
+<pb facs="141915"/>
 
 <p>Consulate of the United States of America
 at Zanzibar November 30th 1888</p>
@@ -2442,13 +2355,13 @@ Your obedient servant
 Augustus <unclear/> Govea
 Vice Consul of the US actg Consul</p>
 
-<pb facs="141946.jpg"/>
+<pb facs="141946"/>
 
-<pb facs="142011.jpg"/>
+<pb facs="142011"/>
 
-<pb facs="142016.jpg"/>
+<pb facs="142016"/>
 
-<pb facs="142050.jpg"/>
+<pb facs="142050"/>
 
 <p>Consulate of the United States of America
 at Zanzibar <unclear/> 30th 1888</p>
@@ -2479,7 +2392,7 @@ Your obedient servant
 Augustus <unclear/> Govea
 Vice Consul of the US actg Consul</p>
 
-<pb facs="142802.jpg"/>
+<pb facs="142802"/>
 
 <p>Consulate of the United States
 Zanzibar January 31 1889</p>
@@ -2511,7 +2424,7 @@ as much <unclear/> with the
 good relations <unclear/> existing
 between</p>
 
-<pb facs="142814.jpg"/>
+<pb facs="142814"/>
 
 <p>between the Government of the
 United States and Himself
@@ -2544,7 +2457,7 @@ your obedient servant
 Seth A Pratt
 US Consul</p>
 
-<pb facs="142926.jpg"/>
+<pb facs="142926"/>
 
 <p>Consulate of the United States
 Zanzibar February 11 1889</p>
@@ -2555,9 +2468,9 @@ Subject
 Emancipation of Slaves
 Abstract of Contents.</p>
 
-<pb facs="143019.jpg"/>
+<pb facs="143019"/>
 
-<pb facs="143030.jpg"/>
+<pb facs="143030"/>
 
 <p>Consulate of the United States
 Zanzibar February 11 1889</p>
@@ -2588,7 +2501,7 @@ very likely be <unclear/>
 but <unclear/>. 
 I</p>
 
-<pb facs="143035.jpg"/>
+<pb facs="143035"/>
 
 <p>I should be gald to be in-
 formed by the Department as
@@ -2615,7 +2528,7 @@ Your obedient servant
 Seth A Pratt
 US Consul</p>
 
-<pb facs="143116.jpg"/>
+<pb facs="143116"/>
 
 <p>Consulate of the United States
 Zanzibar March 4 1889</p>
@@ -2647,7 +2560,7 @@ ity of the Coast ports without
 <unclear/>
 On</p>
 
-<pb facs="143122.jpg"/>
+<pb facs="143122"/>
 
 <p>On the 27th of March 1888 the 
 Sultan <unclear/> <unclear/> said
@@ -2677,7 +2590,7 @@ land and in all his terri-
 tories and dependancies South
 of</p>
 
-<pb facs="143135.jpg"/>
+<pb facs="143135"/>
 
 <p>of the <unclear/> river. the whole
 administration of which is
@@ -2707,9 +2620,9 @@ ing the concession- like
 his brother before him who
 is reported as saying after having</p>
 
-<pb facs="143144.jpg"/>
+<pb facs="143144"/>
 
-<pb facs="143149.jpg"/>
+<pb facs="143149"/>
 
 <p>they were driven out of the
 country by the <unclear/> natives.</p>
@@ -2740,7 +2653,7 @@ dead- some <unclear/> of
 the British Indian subjects
 who</p>
 
-<pb facs="143155.jpg"/>
+<pb facs="143155"/>
 
 <p>who <unclear/> as natives claim
 trading with the <unclear/>
@@ -2771,7 +2684,7 @@ and English Admirals.</p>
 informed by the Department
 if</p>
 
-<pb facs="143200.jpg"/>
+<pb facs="143200"/>
 
 <p>if the blockade <unclear/> the
 <unclear/> the night <unclear/>
@@ -2802,7 +2715,7 @@ tion of the same in the is-
 land of Zanzibar and <unclear/>
 I</p>
 
-<pb facs="143206.jpg"/>
+<pb facs="143206"/>
 
 <p>I have been asked by the
 German and English Consuls
@@ -2832,7 +2745,7 @@ of opinion that such a
 move on the part of Germany 
 would</p>
 
-<pb facs="143234.jpg"/>
+<pb facs="143234"/>
 
 <p>would surely give rise to
 complications by which the
@@ -2862,7 +2775,7 @@ further aggressive move-
 ments.
 I</p>
 
-<pb facs="143241.jpg"/>
+<pb facs="143241"/>
 
 <p>I will say in closing that
 up to the present time Amer-
@@ -2890,11 +2803,11 @@ US Consul</p>
 <p>Enclosures
 1. Copy of Proclamation</p>
 
-<pb facs="143254.jpg"/>
+<pb facs="143254"/>
 
-<pb facs="143304.jpg"/>
+<pb facs="143304"/>
 
-<pb facs="143309.jpg"/>
+<pb facs="143309"/>
 
 <p>That also we have protected
 the <unclear/> and purchases of the
@@ -2904,7 +2817,7 @@ who may see it.
 Written by his <unclear/> by his slave
 Abdul Aziz bin Mahommid</p>
 
-<pb facs="143532.jpg"/>
+<pb facs="143532"/>
 
 <p>Consulate of the United States
 Zanzibar March 21 1889</p>
@@ -2936,7 +2849,7 @@ a Cablegram from Commander
 McCalla of the USS Enterprise
 stating</p>
 
-<pb facs="143541.jpg"/>
+<pb facs="143541"/>
 
 <p>stating that he was at Port
 Saint to <unclear/> to Zanzibar
@@ -2962,7 +2875,7 @@ Your obedient servant
 Seth A Pratt
 US Consul</p>
 
-<pb facs="144029.jpg"/>
+<pb facs="144029"/>
 
 <p>To the Consulate of the United States
 Zanzibar April 9 1889</p>
@@ -2994,7 +2907,7 @@ practically bankrupt</p>
 <p>There is no doubt
 but</p>
 
-<pb facs="144034.jpg"/>
+<pb facs="144034"/>
 
 <p>but for the Sultan's un-
 warranted interference that
@@ -3025,7 +2938,7 @@ since it is not probable
 that he can long continue
 in procession of the Estate.</p>
 
-<pb facs="144047.jpg"/>
+<pb facs="144047"/>
 
 <p>encumbered as it is at
 the present time</p>
@@ -3050,9 +2963,9 @@ Jan 27 1889 with copies of
 letters to Fr Resident of Nov
 24th and Dec 31 1888</p>
 
-<pb facs="144419.jpg"/>
+<pb facs="144419"/>
 
-<pb facs="144429.jpg"/>
+<pb facs="144429"/>
 
 <p>To the Governor of Mayotts on behalf of the
 labourers and made a complaint to the <unclear/>
@@ -3082,7 +2995,7 @@ at the time and I am sure his report <unclear/>
 not have been otherwise than favorable to me.
 Since then the "Lancaster" and "Alliance" have been here</p>
 
-<pb facs="144445.jpg"/>
+<pb facs="144445"/>
 
 <p>have been here and give away without
 <unclear/> maintaining on eof my claims
@@ -3112,7 +3025,7 @@ upon my home both day and night and
 Sultan <unclear/>. I doubt not that
 the US Government will take notice of the</p>
 
-<pb facs="144453.jpg"/>
+<pb facs="144453"/>
 
 <p>time both when I have been
 financially ruined by this Sultan and
@@ -3144,7 +3057,7 @@ here within two years. They got <unclear/> by
 the Sultan and leave <unclear/>!! I <unclear/>
 <unclear/> that you will please my one</p>
 
-<pb facs="144507.jpg"/>
+<pb facs="144507"/>
 
 <p>before the US Government in its just and
 truthful light and that you will try <unclear/>
@@ -3170,7 +3083,7 @@ of writing- also copy of my letter to the Acting
 Resident who I know has written to the Governor
 but in reply to his communication as yet.</p>
 
-<pb facs="144518.jpg"/>
+<pb facs="144518"/>
 
 <p>Patsy Estate
 Johanna 29 May 1888</p>
@@ -3204,7 +3117,7 @@ at once.</p>
 Your obedient servant
 BF Wilson</p>
 
-<pb facs="144525.jpg"/>
+<pb facs="144525"/>
 
 <p>Patsy Esate
 Johanna 13th June 1888</p>
@@ -3237,7 +3150,7 @@ work and pay the one dollar</p>
 Your Excellent obedient servant
 B F Wilson</p>
 
-<pb facs="144537.jpg"/>
+<pb facs="144537"/>
 
 <p><unclear/> Estate
 <unclear/> 27th June 1888</p>
@@ -3273,7 +3186,7 @@ committing such <unclear/> upon my estate without
 <p>I contend that the Sultan has no right to send
 his armed policemen upon the estate without my</p>
 
-<pb facs="144549.jpg"/>
+<pb facs="144549"/>
 
 <p><!--this whole paragraph has light glare, unable to read--></p>
 
@@ -3296,7 +3209,7 @@ going to their work.</p>
 Your obedient servant
 B F Wilson</p>
 
-<pb facs="144604.jpg"/>
+<pb facs="144604"/>
 
 <p>Patsy Estate
 Johanna 26 December 1888</p>
@@ -3327,7 +3240,7 @@ the offer and a paper was <unclear/> what
 the <unclear/> agreeing to give the Said <unclear/>
 the money if he would do it. He said <unclear/></p>
 
-<pb facs="144613.jpg"/>
+<pb facs="144613"/>
 
 <p>it was time. He said he did not like to swear
 to before you when at Zanzibar because he
@@ -3357,7 +3270,7 @@ country and as such I think I have
 a right to demand protection and
 my country should give it to me or</p>
 
-<pb facs="144620.jpg"/>
+<pb facs="144620"/>
 
 <p>or give me some reason why I am
 not entitled to respect and consideration
@@ -3388,11 +3301,11 @@ The American flag flies over all of my boats
 and over my magazin at the beach and my
 <unclear/></p>
 
-<pb facs="144626.jpg"/>
+<pb facs="144626"/>
 
-<pb facs="144640.jpg"/>
+<pb facs="144640"/>
 
-<pb facs="144703.jpg"/>
+<pb facs="144703"/>
 
 <p>Translation
 This paper is to say that we were at <unclear/>
@@ -3422,7 +3335,7 @@ I am witness to said Alli
 signature
 signed Ahamed bin Aloc</p>
 
-<pb facs="144716.jpg"/>
+<pb facs="144716"/>
 
 <p>Patsy Estate Johanna
 27 February 1889</p>
@@ -3459,7 +3372,7 @@ to him and he said he considered it a
 very serious offense and he <unclear/> to the
 Governor of Mayotts upon the subject sent</p>
 
-<pb facs="144724.jpg"/>
+<pb facs="144724"/>
 
 <p>asked for instructions to know how to proceed
 in the matter. There has been three <unclear/>
@@ -3494,7 +3407,7 @@ formed that has special privilege
 that no one but French subjects should be
 allowed to have shares in the Company!</p>
 
-<pb facs="144736.jpg"/>
+<pb facs="144736"/>
 
 <p>Of course that is not very <unclear/> <unclear/>
 but their own but it shows that they do
@@ -3527,7 +3440,7 @@ With nothing for <unclear/> <unclear/>
 Your obedient servant
 BF Wilson</p>
 
-<pb facs="144749.jpg"/>
+<pb facs="144749"/>
 
 <p>Patsy Estate
 Johanna 24th November <unclear/></p>
@@ -3564,7 +3477,7 @@ upon this island that for the last ten years I have
 been doing my <unclear/> to get the bare <unclear/>
 <unclear/> with young trees, and have annually planted them</p>
 
-<pb facs="144805.jpg"/>
+<pb facs="144805"/>
 
 <p>nearly every year some one puts fire into
 the grass, and they are destroyed. Upon
@@ -3602,7 +3515,7 @@ night.
 Your <unclear/>
 BF Wilson</p>
 
-<pb facs="144819.jpg"/>
+<pb facs="144819"/>
 
 <p>Patsy Estate
 Johanna 31 December 1888</p>
@@ -3640,7 +3553,7 @@ I have the honor to be
 your obedient servant
 BF Wilson</p>
 
-<pb facs="145453.jpg"/>
+<pb facs="145453"/>
 
 <p>Consulate of the United States
 Zanzibar June 5 1889</p>
@@ -3671,7 +3584,7 @@ of the inquiry.
 I have the honor to be
 Sir</p>
 
-<pb facs="145547.jpg"/>
+<pb facs="145547"/>
 
 <p>Sir
 Your Obedient Servant
@@ -3696,7 +3609,7 @@ statements of <unclear/> <unclear/> Halliday
 15/25. Statements of Employees
 of Dr. Wilson on his Estate</p>
 
-<pb facs="150044.jpg"/>
+<pb facs="150044"/>
 
 <p>Consulate of the United States
 Zanzibar August 15 1889</p>
@@ -3709,7 +3622,7 @@ Claim of Dr. B F Wilson
 against King of Johanna
 Abstract of Contents</p>
 
-<pb facs="150051.jpg"/>
+<pb facs="150051"/>
 
 <p>Consulate of the United States
 Zanzibar August 15 1889</p>
@@ -3740,7 +3653,7 @@ ly collected before this
 consulate.
 I</p>
 
-<pb facs="150123.jpg"/>
+<pb facs="150123"/>
 
 <p>I have the honor to be
 Sir
@@ -3756,7 +3669,7 @@ no 1. Dr. Wilson to Mr Pratt June <unclear/>
 5.  .   . Alloe Lha
 6.  .   . Halliday Lha</p>
 
-<pb facs="150135.jpg"/>
+<pb facs="150135"/>
 
 <p>Patsy Estate
 Johanna 25 June 1889</p>
@@ -3787,7 +3700,7 @@ these two men have <unclear/> written statements what
 I have had "englishigen" and at their request here
 with enclose to you. It simply shows what</p>
 
-<pb facs="150144.jpg"/>
+<pb facs="150144"/>
 
 <p>what means and devices this old tyrant
 will use to further his own ends. The French
@@ -3819,7 +3732,7 @@ home on this business and I am glad we
 have the Hon: <unclear/> to the which <unclear/>
 of the Hon. <unclear/>. I cannot imagine</p>
 
-<pb facs="150151.jpg"/>
+<pb facs="150151"/>
 
 <p>the Hon. <unclear/> <unclear/> such
 a treaty as the French have here. <unclear/>
@@ -3851,7 +3764,7 @@ Hoping to hear from you soon and patiently
 I am your obedient servant
 B F Wilson</p>
 
-<pb facs="150159.jpg"/>
+<pb facs="150159"/>
 
 <p>Patsy Estate
 Johanna 29 July 1889</p>
@@ -3884,7 +3797,7 @@ and they will have to if I am <unclear/>.
 Do you think I should go home for
 that purpose? It is now <unclear/> <unclear/></p>
 
-<pb facs="150207.jpg"/>
+<pb facs="150207"/>
 
 <p>and I would not like to leave here unless
 necessary. Still I could do so. I could
@@ -3919,15 +3832,15 @@ from you and the Department of State
 I am Your obedient servant
 B F Wilson</p>
 
-<pb facs="150222.jpg"/>
+<pb facs="150222"/>
 
-<pb facs="150227.jpg"/>
+<pb facs="150227"/>
 
-<pb facs="150232.jpg"/>
+<pb facs="150232"/>
 
-<pb facs="150238.jpg"/>
+<pb facs="150238"/>
 
-<pb facs="150247.jpg"/>
+<pb facs="150247"/>
 
 <p>Translation of letter of Aloe Shi <unclear/></p>
 
@@ -3959,7 +3872,7 @@ will give him one hundred dollars, <unclear/>
 <unclear/> Sultan called me to the <unclear/>
 <unclear/> I was an <unclear/> <unclear/></p>
 
-<pb facs="150259.jpg"/>
+<pb facs="150259"/>
 
 <p>one hundred and twenty six dollars and of the
 American government does not liking will this
@@ -3968,11 +3881,11 @@ allow me to go to Patsy to Dr Wilson, and I want the
 US Consul to know all of this.
 Signed Aloe Shi <unclear/></p>
 
-<pb facs="150306.jpg"/>
+<pb facs="150306"/>
 
-<pb facs="150312.jpg"/>
+<pb facs="150312"/>
 
-<pb facs="150320.jpg"/>
+<pb facs="150320"/>
 
 <p>Translation of the <unclear/> letter of Halliday Shi <unclear/>
 <unclear/> <unclear/></p>
@@ -4004,11 +3917,11 @@ had given evidence against him. You must
 <unclear/>him of <unclear/> the truth onth that, I say,
 (signed) Halliday Shi <unclear/> <unclear/> Shi</p>
 
-<pb facs="150325.jpg"/>
+<pb facs="150325"/>
 
-<pb facs="150339.jpg"/>
+<pb facs="150339"/>
 
-<pb facs="151025.jpg"/>
+<pb facs="151025"/>
 
 <p><unclear/></p>
 
@@ -4050,7 +3963,7 @@ In the name of the Chief of the Imperial German <unclear/> <unclear/>
 Covette Captain Commanding
 <unclear/></p>
 
-<pb facs="151245.jpg"/>
+<pb facs="151245"/>
 
 <p>Consulate of the United States
 Zanzibar December 16 1889</p>
@@ -4067,7 +3980,7 @@ of Johanna with France.
 Prohibiting of the aban-
 donment of his estate by Dr Wilson</p>
 
-<pb facs="151304.jpg"/>
+<pb facs="151304"/>
 
 <p>Consulate of the United States
 Zanzibar December 16 1889</p>
@@ -4099,7 +4012,7 @@ case of Dr Wilson His
 affairs and now in a most
 <unclear/></p>
 
-<pb facs="151321.jpg"/>
+<pb facs="151321"/>
 
 <p>critical condition, and unless
 some relief is afforded him
@@ -4131,7 +4044,7 @@ as to what action should be
 taken by this Consulate in
 the matter.</p>
 
-<pb facs="151327.jpg"/>
+<pb facs="151327"/>
 
 <p>in the matter.</p>
 
@@ -4158,15 +4071,15 @@ No 1. Copy of treaty (arabic)
 2. Dr. Wilson to Fr Resident
 3. Fr. Resident to Dr Wilson</p>
 
-<pb facs="151333.jpg"/>
+<pb facs="151333"/>
 
-<pb facs="151339.jpg"/>
+<pb facs="151339"/>
 
-<pb facs="151355.jpg"/>
+<pb facs="151355"/>
 
-<pb facs="151404.jpg"/>
+<pb facs="151404"/>
 
-<pb facs="151437.jpg"/>
+<pb facs="151437"/>
 
 <p>Johanna 13 August 1889
 Monsieur le Docteur <unclear/>
@@ -4199,7 +4112,7 @@ people who dare to work for me are so taxed that
 they can have no object in working . <unclear/>
 not working for me</p>
 
-<pb facs="151446.jpg"/>
+<pb facs="151446"/>
 
 <p>not working for me are only reasonably <unclear/>
 and one half such. There are many here who <unclear/>
@@ -4235,7 +4148,7 @@ His Highness for giving evidence against him.</p>
 I am Your obedient servant
 BF Wilson</p>
 
-<pb facs="151458.jpg"/>
+<pb facs="151458"/>
 
 <p>Consulate of the United States
 Zanzibar December 17 1889</p>
@@ -4248,7 +4161,7 @@ Arrival of Stanley and
 the <unclear/> Expidition at Zanzibar.
 Abstract of Contents</p>
 
-<pb facs="151542.jpg"/>
+<pb facs="151542"/>
 
 <p>Consulate of the United States
 Zanzibar December 14 1889</p>
@@ -4279,7 +4192,7 @@ General and the <unclear/> Relief
 Committee and has been
 shown every attention</p>
 
-<pb facs="151549.jpg"/>
+<pb facs="151549"/>
 
 <p>a reception <unclear/> him
 last evening at the British
@@ -4307,7 +4220,7 @@ Your obedient servant
 Seth A Pratt
 US Consul</p>
 
-<pb facs="151637.jpg"/>
+<pb facs="151637"/>
 
 <p>Register of American Residents
 Age     Birth place     Occupation      <unclear/>
@@ -4322,7 +4235,7 @@ Zanzibar December 31 1889
 Seth A Pratt
 US Consul</p>
 
-<pb facs="151655.jpg"/>
+<pb facs="151655"/>
 
 <p>Register of American Res</p>
 
@@ -4337,7 +4250,7 @@ Jan 23      Wm L Abbott         27      Philadelphia Pa
 May 3       L A <unclear/>      34      Salem Mass
 June 17     <unclear/> D <unclear/>23   Hyde Park</p> 
 
-<pb facs="152358.jpg"/>
+<pb facs="152358"/>
 
 <p>Consulate of the United States
 Zanzibar March 1 1890</p>
@@ -4350,7 +4263,7 @@ Accession of Seyed Ali bin
 Saiid to the throne of Zanzibar
 Abstract of Contents</p>
 
-<pb facs="152416.jpg"/>
+<pb facs="152416"/>
 
 <p>Consulate of the United States
 Zanzibar March 1 1890</p>
@@ -4381,7 +4294,7 @@ the large national Ensigno</p>
 His Majesty received the
 different delefations in the</p>
 
-<pb facs="152422.jpg"/>
+<pb facs="152422"/>
 
 <p>in the following under <unclear/>
 English American French
@@ -4416,7 +4329,7 @@ US Consul</p>
 <p>Enclosures
 Copy of message</p>
 
-<pb facs="152428.jpg"/>
+<pb facs="152428"/>
 
 <p>His Excellency the President
 of the United States
@@ -4442,7 +4355,7 @@ this end.
 Signed
 Ali bin Said</p>
 
-<pb facs="152523.jpg"/>
+<pb facs="152523"/>
 
 <p>Consulate of the United States
 Zanzibar April 4 1890</p>
@@ -4473,7 +4386,7 @@ with Dr Wilson in his decision
 in that the Governor of Mayotte
 has</p>
 
-<pb facs="152530.jpg"/>
+<pb facs="152530"/>
 
 <p>has an indirect interest in
 the outcome of the case.</p>
@@ -4492,7 +4405,7 @@ US Consul</p>
 <p>Enclosure:
 Form No. 100</p>
 
-<pb facs="152919.jpg"/>
+<pb facs="152919"/>
 
 <p>Consulate of the United States
 Zanzibar June 23 1890</p>
@@ -4523,7 +4436,7 @@ some 150 <unclear/> the american
 house of Ropes <unclear/>
 and</p>
 
-<pb facs="152924.jpg"/>
+<pb facs="152924"/>
 
 <p>and upwards of 5000
 from British <unclear/> merchants.</p>
@@ -4551,7 +4464,7 @@ Africa Company and through
 them to the Italians.
 Having</p>
 
-<pb facs="152928.jpg"/>
+<pb facs="152928"/>
 
 <p>Having spent some
 months on the Braua Coast
@@ -4582,7 +4495,7 @@ esty send me of his own
 ships with a commissioner
 empowered</p>
 
-<pb facs="152934.jpg"/>
+<pb facs="152934"/>
 
 <p>empowered to <unclear/> with
 the <unclear/>. His Majesty
@@ -4611,7 +4524,7 @@ altogether from this <unclear/>-
 <unclear/> profitable field of
 operations.</p>
 
-<pb facs="152938.jpg"/>
+<pb facs="152938"/>
 
 <p>I want the <unclear/>
 of the Department before
@@ -4625,7 +4538,7 @@ Your obedient servant
 Seth A Pratt
 US Consul</p>
 
-<pb facs="153245.jpg"/>
+<pb facs="153245"/>
 
 <p>United States Consulate
 Zanzibar Septermber <unclear/>, 1890</p>
@@ -4648,7 +4561,7 @@ a separate government?
 be given up on account of
 foreign interference</p>
 
-<pb facs="153254.jpg"/>
+<pb facs="153254"/>
 
 <p>No 6 United States Consulate
 Zanzibar September <unclear/>, 1890</p>
@@ -4679,7 +4592,7 @@ Sultan, etc?</p>
 Germany are treating for
 the <unclear/></p>
 
-<pb facs="153300.jpg"/>
+<pb facs="153300"/>
 
 <p>the cession to Germany
 for a lump sum of the
@@ -4708,7 +4621,7 @@ reasons such a course as the former
 would be extremely
 expensive</p>
 
-<pb facs="153305.jpg"/>
+<pb facs="153305"/>
 
 <p>expensive and <unclear/>
 and in <unclear/> of <unclear/>
@@ -4738,7 +4651,7 @@ this Coast government
 they have decided to
 <unclear/></p>
 
-<pb facs="153311.jpg"/>
+<pb facs="153311"/>
 
 <p>withdraw, temporarily
 at mayotte.</p>
@@ -4765,7 +4678,7 @@ Your obedient servant
 ED Roper Jr
 US Consul</p>
 
-<pb facs="155253.jpg"/>
+<pb facs="155253"/>
 
 <p>United States Consulate
 Zanzibar November 8, 1890.</p>
@@ -4782,7 +4695,7 @@ Zanzibar</p>
 <p>Enclosures
 One</p>
 
-<pb facs="155318.jpg"/>
+<pb facs="155318"/>
 
 <p>United States Consulate
 Zanzibar November 8th, 1890</p>
@@ -4815,7 +4728,7 @@ Your obedient servant
 ED Roper Jr
 US Consul</p>
 
-<pb facs="155424.jpg"/>
+<pb facs="155424"/>
 
 <p>United States Consulate
 Zanzibar, December 5th, 1890</p>
@@ -4851,9 +4764,9 @@ US Consul</p>
 Note from <unclear/> agent, 28/11/90
 ,,      ,,      <unclear/> Sultan 4/12/90</p>
 
-<pb facs="155433.jpg"/>
+<pb facs="155433"/>
 
-<pb facs="155446.jpg"/>
+<pb facs="155446"/>
 
 <p><unclear/></p>
 
@@ -4865,7 +4778,7 @@ H B M's Agent and Consul General</p>
 United States Consul
 Zanzibar</p>
 
-<pb facs="155702.jpg"/>
+<pb facs="155702"/>
 
 <p>Consulate of the United States
 Zanzibar, January 11, 1891</p>
@@ -4889,7 +4802,7 @@ Arguments pro and con
 Claim by Roper, <unclear/>
 for double duty to be collected</p>
 
-<pb facs="155729.jpg"/>
+<pb facs="155729"/>
 
 <p>Consulate of the United States
 Zanzibar, January 11 1891</p>
@@ -4917,7 +4830,7 @@ this year, when the Sultan
 was induced by Germany
 and England</p>
 
-<pb facs="155735.jpg"/>
+<pb facs="155735"/>
 
 <p>and England to sell
 to the former his sovereign
@@ -4946,7 +4859,7 @@ the island acting merely
 as a distributing center
 and not as a <unclear/></p>
 
-<pb facs="155740.jpg"/>
+<pb facs="155740"/>
 
 <p>On December 22nd last,
 notice was received from
@@ -4976,7 +4889,7 @@ this fact to me and also
 the impossibility of making
 shipping</p>
 
-<pb facs="155746.jpg"/>
+<pb facs="155746"/>
 
 <p>shipping and storage
 arrangements in the
@@ -5006,9 +4919,9 @@ ment until he is advised
 by his Government, to
 <unclear/></p>
 
-<pb facs="155750.jpg"/>
+<pb facs="155750"/>
 
-<pb facs="155757.jpg"/>
+<pb facs="155757"/>
 
 <p>I am of the opinion
 that, as the Sultan only
@@ -5037,7 +4950,7 @@ any <unclear/> caused by a
 transfer of any port of
 his dominions</p>
 
-<pb facs="155801.jpg"/>
+<pb facs="155801"/>
 
 <p>without any notice what-
 ever to the Treaty Powers.</p>
@@ -5067,7 +4980,7 @@ Your obedient servant
 ED Roper Jr
 US Consul</p>
 
-<pb facs="155814.jpg"/>
+<pb facs="155814"/>
 
 <p>List of Enclosures
 1/ Translation of a note from the
@@ -5084,7 +4997,7 @@ goods
 Zanzibar
 Eight inclosures only</p>
 
-<pb facs="155821.jpg"/>
+<pb facs="155821"/>
 
 <p>Translation
 Zanzibar 22 <unclear/> 1890</p>
@@ -5119,7 +5032,7 @@ Actg Imp German Consul</p>
 <p>Translation of a letter from German
 Consulate to US Consul- 22/12/90</p>
 
-<pb facs="155826.jpg"/>
+<pb facs="155826"/>
 
 <p>Copy
 US Consulate
@@ -5150,7 +5063,7 @@ Baron Redwith
 Actg Imp German Consul
 Zanzibar</p>
 
-<pb facs="155832.jpg"/>
+<pb facs="155832"/>
 
 <p>a large amount of goods
 suitable only for trade with the
@@ -5181,7 +5094,7 @@ no additional duty can legally
 be levied on goods that have <unclear/>
 paid</p>
 
-<pb facs="155838.jpg"/>
+<pb facs="155838"/>
 
 <p>paid duty at Zanzibar, on
 this introduction into the
@@ -5194,7 +5107,7 @@ I avail <unclear/>
 Signed ED Roper Jr
 US Consul</p>
 
-<pb facs="155852.jpg"/>
+<pb facs="155852"/>
 
 <p>Copy
 US Consulate
@@ -5226,7 +5139,7 @@ Sir C B <unclear/> Smith <unclear/>
 <unclear/> agent and Consul <unclear/>
 Zanzibar</p>
 
-<pb facs="155900.jpg"/>
+<pb facs="155900"/>
 
 <p>United States, especially for trade
 in that portion of His Higness'
@@ -5255,7 +5168,7 @@ HH the Sultan to <unclear/>
 on all duty-paid goods held
 by them</p>
 
-<pb facs="155914.jpg"/>
+<pb facs="155914"/>
 
 <p>by them now in Zanzibar
 and which can only find a
@@ -5285,7 +5198,7 @@ I avail <unclear/>
 Signed ED Roper Jr
 US Consul</p>
 
-<pb facs="155920.jpg"/>
+<pb facs="155920"/>
 
 <p>Copy
 US Consulate
@@ -5316,7 +5229,7 @@ Sir Char. B <unclear/> Smith <unclear/>
 H B M Agent and Consul <unclear/>
 Zanzibar</p>
 
-<pb facs="155929.jpg"/>
+<pb facs="155929"/>
 
 <p>to the existing treaties with
 HH the Sultan, and I beg
@@ -5326,7 +5239,7 @@ I have <unclear/>
 ED Roper Jr
 US Consul</p>
 
-<pb facs="155952.jpg"/>
+<pb facs="155952"/>
 
 <p>Copy
 HM Agency and Consulate <unclear/>
@@ -5352,7 +5265,7 @@ the German Coast Line and
 which have already paid duty
 to the</p>
 
-<pb facs="160010.jpg"/>
+<pb facs="160010"/>
 
 <p>Sultan under existing treaties,
 a drawback of 5% should be
@@ -5381,7 +5294,7 @@ to me by many British and
 British Indian merchants
 subject</p>
 
-<pb facs="160015.jpg"/>
+<pb facs="160015"/>
 
 <p>subject to the jurisdiction
 of this Consulate.</p>
@@ -5406,7 +5319,7 @@ statement that may serve as a
 guide for your action in the
 difficulties</p>
 
-<pb facs="160026.jpg"/>
+<pb facs="160026"/>
 
 <p>difficulties in which you
 find yourself. As soon
@@ -5421,7 +5334,7 @@ signed C B Euan-Smith
 Colonel
 HBM agent and Consul <unclear/></p>
 
-<pb facs="160033.jpg"/>
+<pb facs="160033"/>
 
 <p>Translation of a letter from
 the German Consulate, 31/12/90.</p>
@@ -5448,7 +5361,7 @@ the <unclear/> of the Consular jurisdiction.</p>
 land, only with the sanction of
 the Imperial Commissioner</p>
 
-<pb facs="160044.jpg"/>
+<pb facs="160044"/>
 
 <p>Im requesting you to bring the
 above information to the native
@@ -5458,7 +5371,7 @@ of the US Consulate, I have etc</p>
 <p>Signed <unclear/>
 Actg Imp. German Consul</p>
 
-<pb facs="160258.jpg"/>
+<pb facs="160258"/>
 
 <p>Consulate of the United States
 Zanzibar March 2nd 1891</p>
@@ -5481,7 +5394,7 @@ Remarks on Zanzibar being made
 a British Colony.
 (This is <unclear/>)</p>
 
-<pb facs="160338.jpg"/>
+<pb facs="160338"/>
 
 <p>British Government
 propose to take regarding
@@ -5511,7 +5424,7 @@ imports consumed in
 the islands of Zanzibar
 and <unclear/></p>
 
-<pb facs="160347.jpg"/>
+<pb facs="160347"/>
 
 <p>and <unclear/> and <unclear/>
 islands, which <unclear/>
@@ -5540,7 +5453,7 @@ be opposed by Germany
 as against the interests
 of the</p>
 
-<pb facs="160350.jpg"/>
+<pb facs="160350"/>
 
 <p>Coast Colony opposite
 as it doubtless would be.
@@ -5569,7 +5482,7 @@ of absolutely prohibiting
 the importation of low
 proof spirits for native use</p>
 
-<pb facs="160355.jpg"/>
+<pb facs="160355"/>
 
 <p>I also consider that
 with a British Protectorate,
@@ -5597,7 +5510,7 @@ value England might
 have had Zanzibar
 without trouble.</p>
 
-<pb facs="160359.jpg"/>
+<pb facs="160359"/>
 
 <p>In submitting my
 views on these important
@@ -5611,7 +5524,7 @@ Your obedient servant.
 ED Rope Jr
 US Consul</p>
 
-<pb facs="161037.jpg"/>
+<pb facs="161037"/>
 
 <p>Consulate of the United States
 Zanzibar March 19th 1892</p>
@@ -5625,7 +5538,7 @@ United States property at Zanzibar</p>
 <p>Abstract of Contents
 Enclosing memo of same</p>
 
-<pb facs="161106.jpg"/>
+<pb facs="161106"/>
 
 <p>Consulate of the United States
 Zanzibar 19th April 1892</p>
@@ -5643,7 +5556,7 @@ the Treaty between the United
 States and HH the Sultan
 of Zanzibar.</p>
 
-<pb facs="161209.jpg"/>
+<pb facs="161209"/>
 
 <p>Consulate of the United States
 Zanzibar 19th April 1892</p>
@@ -5671,7 +5584,7 @@ of the resolutions of the Conference,
 and I would therefore be glad to
 receive instructions on the matter,</p>
 
-<pb facs="161214.jpg"/>
+<pb facs="161214"/>
 
 <p>as also as to what, if any, clauses
 of the existing Treaty between the
@@ -5689,7 +5602,7 @@ Your obedient servant
 Jon A Jonea
 Acting US Consul</p>
 
-<pb facs="161235.jpg"/>
+<pb facs="161235"/>
 
 <p>His Majesty's Agency
 and Consulate General
@@ -5717,7 +5630,7 @@ which</p>
 United States of America
 Zanzibar</p>
 
-<pb facs="161249.jpg"/>
+<pb facs="161249"/>
 
 <p>which formed the subject of my
 <unclear/> dated of the 4th of February
@@ -5740,7 +5653,7 @@ signed G H Portal
 His Majesty's Diplomatic Agent
 and Consul General</p>
 
-<pb facs="162417.jpg"/>
+<pb facs="162417"/>
 
 <p>Zanzibar
 July 8th 1892</p>
@@ -5768,10 +5681,9 @@ Consul for the United States
 of America
 Zanzibar</p>
 
-
 </div1>
-
 </body>
 </text>
 
 </TEI>
+
