@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.fr.letter.0001 -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-807, Roll 1</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<!-- WHAT LANGUAGE IS THE DOCUMENT IN? SEE ALSO: fr, French -->
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+
+<!-- BEGIN TRANSCRIBING -->
+
+1039 Lambard Street 
+Philadelphia, Pa
+November 20th 1890.
+
+Honorable James G. Blaine 
+Secretary of State
+Washington D.C.
+
+Sir,
+
+In the short interview with which 
+you honored me, on Friday last, I 
+informed you that I was commissioned
+by the President of Liberia to approach 
+your Government, with the hope that 
+you would be induced to make 
+such a demonstration in our favor 
+as will prevent foreign nations from 
+making encroachments* on our territory.
+
+Unfortunately for me the pressure 
+of business did not permit of your 
+giving me time to lay before you the 
+facts, and you tell me to call again 
+the next day, which I did, and I called 
+again on the following Monday and 
+Tuesday but with no better success
+awing to the *frat pressure of business 
+in your office.
+
+As I had to leave your city and on 
+
+Tuesday 
+
+Tuesday last, I make bold to adopt 
+this method of laying the matter before 
+you, trusting that you will be kind enough 
+to give it you consideration.
+
+In the year 1885 a French Man of
+war came into the harbor of our Capital,
+Mourview*, and the Commander called upon
+the President. During the conversation
+the Commander said that he had stopped 
+at Beoiby*- a place within our boundray
+line- and had an interview with the 
+chiefs. The President asked, "Why did 
+you stop them and have that interview,
+do you not know that territory belongs to 
+Liberia"! The Commander replied that
+he did not know that it belonged to 
+Liberia, and that he has been instemeted*
+by his government to stop them and ban 
+that interview.
+
+After the department of the resvel*
+the President instmeted our Representative 
+in Paris to call the attentionof 
+this officer, and to point out the fact 
+that our boundray on the South East **terided
+to the san Pedro River, as you
+will see by referring to the "Imperial Atlas"
+in your office, and that they had 
+ritually admitted it by their Naval
+Charts and otherwise*
+
+The French Government then claimed
+that they had Commercial 
+Treaties with the chief of Beniby*
+as old as 1846, I think, but we have 
+seeds* of Cossive of that Territory 
+made to us as far back as 1836 or 1837.
+
+We laid this matter before your
+government and asked for your 
+kind offices; and in a despatch 
+to Mr. McLorne, dated Janurary 13th, 1886
+Mr. Boyard instmeted him to 
+interview, and to say to the French 
+Government. "We excerise no protertorate
+over Liberia, but the circumstances that that
+Republic originated through thr colonization of 
+American citizens, and was established 
+under the fastering caneton**
+of this government, gives us the
+right, as the next friend of 
+Liberia, to aid her in preventing any
+encrroachments* of Foreign powers 
+on her territorial soverengnity, and 
+in settling any dispute that may 
+
+arise
+
+arise. The Southeasternly boundary
+at the River San Pedro has never been 
+questioned and has the powerful sanctions
+of general admission for many years". 
+
+This matter has remained in obyeance 
+as ever auppar*-oince that time; but if 
+lately came to our knowledge that one 
+Captain Bingen, who was a pominent 
+officer in the late expedition against 
+the King of Dahomey, claims to have 
+made expllorations in the near and 
+Southeast of Liberia; and he has published
+in a "Suppliment and Journal Le 
+Temps, Mans 1890", a map representing 
+Liberia on a very narrow strip along the 
+Coast and representing the Country in the
+immediate near of Liberia, as fas as 
+Musada**, as unexplored country, and 
+liable to become a Proletorate* of France 
+although our Mr. Beny Anderson had 
+explored that country as far as Musadu**
+and published an account of his
+journey- and cutting off our territory 
+on the Southeast up to the Cavalla River,
+thus taking the very territory in 
+dispute and which Mr. Boyard 
+
+belongs
+
+belongs to u by "The powerful sanction* 
+of general admission for many years".
+The territory so taken from us is 
+represented on his Map as French 
+territory.
+
+Whilst the French have not, as 
+yet made any open movement towards
+taking possession of our 
+territories, yt. Mr. Secretary, under 
+these circumstances we feel warrants
+in appealing to your government 
+as "Liberia's next Friend"
+and asking you to make such a 
+demonstration in our favor as
+will prevent Foreign government 
+from making such encroachment* 
+on our territory. If your powerful
+government would make a present 
+of one o your smallest stream form
+boats to be used in boarding* our
+Coast from foreigners and preventing 
+them from settling at points remote 
+from our civilized settlements, and 
+tampering with the aboriginals, we 
+feel that over territorial limits will 
+not be encroached* uproar.
+
+My Secretary my Government 
+believes that if you will be followed
+to give us the benefit of your kind 
+office, and will *induce This Excellency, 
+the President to recommend 
+the giving of this resent* to Liberia 
+we of all be successful; and the very 
+recommencer nation by the President will
+indicate to the world the friendship 
+of the United States for our Little Republic.
+
+Trusting, Mr Secretary that 
+you will bring this matter to the 
+notice of his Excellency, the President,
+and that
+
+
+   
+</div1>
+
+</body>
+</text>
+
+</TEI>
