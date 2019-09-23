@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.fr.letter.0001 -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-807, Roll 1</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<!-- WHAT LANGUAGE IS THE DOCUMENT IN? SEE ALSO: fr, French -->
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+
+<!-- BEGIN TRANSCRIBING -->
+
+Now: James G. Blaine
+Secretary of State
+Washington
+**not made out).6
+U.S.A
+
+Sir,
+
+I have the honor by direction
+to inform you that in the month 
+of July 1890, the President *crailing
+himself of a visit of the Honorable
+U.W.G all Paris, Attorney General 
+of the Republic, to the United States, 
+thought fit to commission the 
+said office as a general Commissioner 
+Government of the United States on
+behalf of Liberia, with respect to 
+an impending revolution of her
+territorial integrity by certain of
+the European Powers now engaged
+in a scramble for the remaining 
+portions of the African Continent 
+not yet appropriated by them.
+Mr. Davis returned to Liberia in
+the month of Janurary last, and 
+
+his 
+
+his repost** to the President was to 
+the effect that he had been honored 
+with an interview with the Honorable 
+The Secretary of State at Washington 
+on the 12th November last but that 
+an account of a previous engagment 
+on the part of the Secretary the interview 
+necessarily terminated in a few 
+moments, to be renewed the next day.
+That in pursuance of this arrangment 
+he had repeatedly called at the Department 
+of State, but that the Secretary 
+times being important nature between 
+the United States and the South American
+Republics, it was impossible to attain 
+further audience of the Secretary, within
+the time allothed for this stay in the 
+United States.
+
+Mr Davis further reported that 
+before bearing the United States, he had
+addressed you from Philadelphia, a
+despatched under date of 20th November 
+1890, in which the object sought to be
+attained by a personal interview was
+fully set forth, a **cofoy of which I have 
+
+the 
+
+the honor to enclose, but so far 
+no reply has been recieved to the *samer 
+
+I am therefore directed to intomate**
+to your Mr. Secretary, that 
+within thr last few months, it has 
+come to the knowledge of the 
+Liberian Government, that an arrangment 
+has been entered into 
+between the Governments of Great
+Britain and France for the delimination 
+of their respective colonies
+to the North and South of 
+Liberia, which agreement if *canied 
+out in its integrity would have 
+the effect to reduce the Republic 
+to a mer strip along the coast 
+of the Atlantic Ocean, extending 
+coastwise from the Monnah River 
+on the Northwest to Cape Palmas 
+on the Southeast, with an average 
+*beadit of not more than 40 mile
+from the Coast. An inspection 
+of a series of Maps published by 
+the Royal Geographical Society 
+of Belgium, shows the proposed 
+French possession on the West.
+
+Coast
+
+Coast of Africa immediately South
+of Liberia to extend from the British 
+Fold Coast ti Cape Palmas, and 
+files the furthest interior limits of 
+Liberia at Boporo, assigning thr 
+intervening country between Boporo 
+and the Niger as either French Territory,
+am as liable to become a protectorate of France.
+
+The Government of Liberia an 
+becoming cognizant* of this proposed
+arrangment recently addressed a 
+memorundum to the British Government, 
+protecting against the conclusion 
+of the said Agreement so far 
+as the deprivation of its territory 
+by France is concerned and soliciting the 
+guard offices of said Government on its behalf 
+By command I herewith enclose a similar 
+document soliciting the good offices of the 
+Governments of the United States to *aveath
+the appropriation of Liberia territory
+by France, said appropriattion being 
+contrary ti the *netherland had recently set up
+by the European Powers to regulate their 
+section in making fresh organizations of 
+territory on the African Continent. 
+
+I have the honor to be.
+Sir
+Your obident Servant 
+E.D. Barday.
+   
+</div1>
+
+</body>
+</text>
+
+</TEI>
