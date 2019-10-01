@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0219">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0250">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from F. M. Cheney to Alvey A. Adee, July 5, 1886</title>
+<title>Letter from Seth A. Pratt to James D. Porter, October 24, 1887</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0219</idno>
+<idno type="project">teaa.en.letter.0250</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from F. M. Cheney to Alvey A. Adee</title>
-<date when="1886-07-05">July 5, 1886</date>
+<title level="a">Letter from Seth A. Pratt to James D. Porter, </title>
+<date when="1887-10-24">October 24, 1887</date>
 <title level="m" type="microformat">Despatches from United States Consuls in Zanzibar, Br. Africa, 1836-1906</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="date">July 1, 1886-November 15, 1895</biblScope>
@@ -61,7 +61,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -73,16 +73,17 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Ragpah, Kanji</term>
 <term ref="http://viaf.org/viaf/48978011">Barghash ibn Sa'id, Sultan of Zanzibar, approximately 1834-1888</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Zanzibar</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
+<term>France</term>
 <term>Germany</term>
+<term>Great Britain</term>
 <term>United States</term>
 </keywords>
 
@@ -102,23 +103,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Cheney, F. M.</persName>
+<persName>Pratt, Seth A.</persName>
 <roleName>U.S. Consul for Zanzibar</roleName>
 <placeName>Zanzibar</placeName>
-<date when="1886-07-05"/>
+<date when="1887-10-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/77728466">Adee, Alvey A. (Alvey Augustus), 1842-1924</persName>
-<roleName>Third Assistant U.S. Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/36031491">Porter, James D. (James Davis), 1828-1912</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1886-08-14"/>
+<date when="1887-12-05"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-09-24" who="#kln">separating despatches, additional encoding</change>
+<change when="2019-09-30" who="#kln">separating despatches, additional encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
 </revisionDesc>
 </teiHeader>
@@ -129,99 +130,7 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="131306"/>
 
-<note>Department of State Received Aug 14 1886</note>
-<note>No 96</note>
-
-<p>United States Consulate<lb/>
-Zanzibar, July 5, 1886.</p>
-
-<p>F. M. Clurrey Consul<lb/>
-to the<lb/>
-Department of State<lb/>
-Washington D.C.</p>
-
-<p>Subject</p>
-
-<p>New treaty</p>
-
-<p>Enclosures</p>
-
-<p>New treaty between the U.S. 
-Government  &#38; H. H. the
-Sultan of Zanzibar</p>
-
-<pb facs="131313"/>
-
-<p>No 96</p>
-
-<p>United States Consulate<lb/>
-Zanzibar July 5th 1886<lb/>
-To the Hon.<lb/>
-Third Assistant Secretary of State<lb/>
-Washington D.C.</p>
-
-<p>Sir,</p>
-
-<p>I have the honor to acknowledge 
-dispatch No 43, dated May 6th,
-1886 from the Department of State
-inclosing a draft of a new treaty 
-and a "Full Power" from the President
-for you to conclude the
-same.</p>
-
-<p>I at once placed myself in
-communication with His Highness
-the Sultan of Zanzibar and
-sent him a draft of the proposed
-treaty.</p>
-
-<p>His Highness expressed himself
-as very much gratified that the
-United States Government was
-willing to make a new treaty
-to his advantage.  The treaty was
-immediately drawn up in the
-<catchwords>English</catchwords>
-
-<pb facs="131322"/>
-
-English and Arabic languages, and
-on the third July <sic>is was</sic> signed
-by myself and H. H. Plenipotentiary.</p>
-
-<p>The treaty was made in duplicate; 
-our copy is inclosed
-with this dispatch the other
-is in His Highness possession.</p>
-
-<p>I have read over carefully the
-English &#38; German treaties and I
-cannot see that there are any advantages.
-that they get that is not 
-afforded us</p>
-
-<p>His Highness the Sultan did
-not raise one question, but ordered
-the treaty got ready.</p>
-
-<p>I am greatly indebted to our
-Kanji Ragpah, a native gentleman
-here who is an intimate friend
-of the Sultan, in getting the treaty
-through so quickly.</p>
-
-<p>I have the honor to be Sir<lb/>
-Your obedient servant<lb/>
-F. M. Cheney<lb/>
-U.S. Consul</p>
-
-<p>Enclosures</p>
-
-<p>Treaty between this U.S. of America
-and the Sultan of Zanzibar</p>
 
 </div1>
 
