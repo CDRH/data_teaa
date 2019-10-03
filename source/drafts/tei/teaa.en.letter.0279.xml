@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0271">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0279">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from Augustus E. B. Govea to George L. Rives, July 10, 1888</title>
+<title>Letter from Seth A. Pratt to George L. Rives, February 11, 1889</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0271</idno>
+<idno type="project">teaa.en.letter.0279</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from Augustus E. B. Govea to George L. Rives</title>
-<date when="1888-07-10">July 10, 1888</date>
+<title level="a">Letter from Seth A. Pratt to George L. Rives</title>
+<date when="1889-02-11">February 11, 1889</date>
 <title level="m" type="microformat">Despatches from United States Consuls in Zanzibar, Br. Africa, 1836-1906</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="date">July 1, 1886-November 15, 1895</biblScope>
@@ -61,7 +61,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Commerce and Trade</term>
+<term>Slave Trade and Slavery</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -73,12 +73,11 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>bin Salim, Saidi Abdallah</term>
-<term>Wilson, B. F.</term>
+<term>Khalifah bin Said of Zanzibar</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Johanna Island</term>
+<term>Zanzibar</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
@@ -101,22 +100,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="http://viaf.org/viaf/9835147270628635700003">Govea, Augustus E. B. (Augustus Edward Bothelho), approximately 1826-1890</persName>
-<roleName>U.S. Vice Consul, Acting Consul for Zanzibar</roleName>
+<persName>Pratt, Seth A.</persName>
+<roleName>U.S. Consul for Zanzibar</roleName>
 <placeName>Zanzibar</placeName>
-<date when="1888-07-10"/>
+<date when="1889-02-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/29909070">Rives, George Lockhart, 1849-1917</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
+<date when="1889-03-19"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10-02" who="#kln">separating despatches, additional encoding</change>
+<change when="2019-10-03" who="#kln">separating despatches, additional encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
 </revisionDesc>
 </teiHeader>
@@ -127,71 +127,123 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="140104"/>
+<pb facs="142926"/>
 
-<note>Department of State Received Sep 5 1888</note>
-
-<note>No 51</note>
+<note>No. 65.</note>
+<note>Department of State Received Mar 18 1889</note>
 
 <p>Consulate of the United States<lb/>
-at Zanzibar July 10th 1888</p>
+Zanzibar February 11 1889</p>
 
-<p>Govea<lb/>
+<p>Mr Pratt<lb/>
 To the Department of State</p>
 
-<p>Subject</p>
+<p>Subject:</p>
 
-<p>Dr. Wilson information</p>
+<p>Emancipation of Slaves.</p>
 
-<p>Abstract of contents</p>
+<p>Abstract of Contents.</p>
 
-<p>Informing about the contract
-made by the Sultan of Johanna
-Island and the French Residents.</p>
+<pb facs="143019"/>
 
-<pb facs="140135"/>
+<note>1d Assistant Secretary. Mar 18 1889</note>
 
-<note>No 51</note>
+<p>Ans <unclear>Pratt</unclear> inquiry and say:</p>
+
+<p>The record of this country
+in regard to the emancipation
+of human beings from slavery
+is conspicuous and consistent.
+Having effected the manumission 
+ourselves during the civil war
+of nearly four millions of slaves,
+our moral sympathies have 
+been with the other nations 
+which like Spain and 
+Brazil, have followed our
+example in <unclear extent="one word"/> away the
+last traces of human bondage on
+the American Continent.</p>
+
+<p>While our policy has 
+ever been to avoid direct
+entanglement in the domestic
+concerns of distant states,
+and we may not thus take
+active part in the reported
+movement, Mr Pratt should
+lose no fitting opportunity to 
+testify the interest with which
+the United States will view the
+efforts of Zanzibar to <unclear extent="one word"/> herself
+with the other nations of the
+earth in their almost universal
+condemnation and abhorrence of
+slavery, and will express our hope
+that in the natural progress of
+the emancipation of all slaves in the
+dominion of H. M. the Sultan <unclear extent="several words"/></p>
+
+<pb facs="143030"/>
+
+<note>No. 65.</note>
 
 <p>Consulate of the United States<lb/>
-at Zanzibar July 10th 1888</p>
+Zanzibar February 11 1889</p>
 
 <p>Honorable G. L. Rives<lb/>
 Assistant Secretary of State<lb/>
 Washington D.C.</p>
 
-<p>Sir</p>
+<p>Sir:</p>
 
-<p>I have to inform the
-Department that this Consulate
-is in receipt of a letter from Dr
-B. F. Wilson M.D. of Johanna
-Island, under the date of the 29th
-May ultimo, in which he request
-this Consulate to inform the Department, 
-that the Sultan of said Island
-of Johanna has made a written contract 
-with the French Resident at said
-Island, to send him out of the Island,
-in which the said Sultan agrees to
-do it; the said Dr. Wilson states that
-he can <sic>offered</sic> witness to prove his assertions.</p>
+<p>I have the honor to advise
+the Department that matters
+remain quiet in Zanzibar
+and its vicinity.</p>
 
-<p>This Consulate has informed 
-<catchwords>the</catchwords>
+<p>It is my belief however
+that a move is being 
+contemplated looking to the
+emancipation of all the
+slaves in the Island of
+Zanzibar. The
+Government of Great Britain
+is the leading spirit in
+this movement, but they will
+naturally expect the co-operation 
+of the other nations,
+without which: they would
+very likely be accomplish
+but <unclear extent="one word"/>. 
+<catchwords>I</catchwords>
 
-<pb facs="140203"/>
+<pb facs="143035"/>
 
-the said Dr. Wilson, under the date of
-the 5th May ultimo, about his claims
-as according the <sic>dispach</sic> from the
-Department No 16 and of 13th January
-ultimo.</p>
+I should be glad to be 
+informed by the Department as
+to what position ought to be
+assumed by the United States
+representatives in such an
+event.</p>
 
-<p>I am, Sir,<lb/>
-Your obedient Servant<lb/>
-Augustus E. B. Govea<lb/>
-Vice Consul of the U.S. acting Consul</p>
+<p>The Sultan, whatever his
+private sentiments might be,
+would protest vigorously
+against any such movement:
+since the large Arab population
+would never submit
+peacefully to such emancipation 
+of their slaves and
+would withdraw their support
+from the Sultan unless he
+defended their position.</p>
+
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your obedient servant<lb/>
+Seth A Pratt<lb/>
+U.S. Consul</p>
 
 </div1>
 
