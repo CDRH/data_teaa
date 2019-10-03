@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0219">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0269">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from F. M. Cheney to Alvey A. Adee, July 5, 1886</title>
+<title>Letter from Augustus E. B. Govea to George L. Rives, July 10, 1888</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0219</idno>
+<idno type="project">teaa.en.letter.0269</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from F. M. Cheney to Alvey A. Adee</title>
-<date when="1886-07-05">July 5, 1886</date>
+<title level="a">Letter from Augustus E. B. Govea to George L. Rives</title>
+<date when="1888-07-10">July 10, 1888</date>
 <title level="m" type="microformat">Despatches from United States Consuls in Zanzibar, Br. Africa, 1836-1906</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="date">July 1, 1886-November 15, 1895</biblScope>
@@ -61,7 +61,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -73,21 +73,20 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Ragpah, Kanji</term>
-<term ref="http://viaf.org/viaf/48978011">Barghash bin Said, Sultan of Zanzibar</term>
+<term>bin Salim, Saidi Abdallah</term>
+<term>Wilson, B. F.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Johanna Island</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
-<term>Germany</term>
-<term>United States</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>France</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -102,23 +101,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Cheney, F. M.</persName>
-<roleName>U.S. Consul for Zanzibar</roleName>
+<persName ref="http://viaf.org/viaf/9835147270628635700003">Govea, Augustus E. B. (Augustus Edward Bothelho), approximately 1826-1890</persName>
+<roleName>U.S. Vice Consul, Acting Consul for Zanzibar</roleName>
 <placeName>Zanzibar</placeName>
-<date when="1886-07-05"/>
+<date when="1888-07-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/77728466">Adee, Alvey A. (Alvey Augustus), 1842-1924</persName>
-<roleName>Third Assistant U.S. Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/29909070">Rives, George Lockhart, 1849-1917</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1886-08-14"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-09-24" who="#kln">separating despatches, additional encoding</change>
+<change when="2019-10-02" who="#kln">separating despatches, additional encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
 </revisionDesc>
 </teiHeader>
@@ -129,99 +127,71 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="131306"/>
+<pb facs="140104"/>
 
-<note>Department of State Received Aug 14 1886</note>
-<note>No 96</note>
+<note>Department of State Received Sep 5 1888</note>
 
-<p>United States Consulate<lb/>
-Zanzibar, July 5, 1886.</p>
+<note>No 51</note>
 
-<p>F. M. Clurrey Consul<lb/>
-to the<lb/>
-Department of State<lb/>
-Washington D.C.</p>
+<p>Consulate of the United States<lb/>
+at Zanzibar July 10th 1888</p>
+
+<p>Govea<lb/>
+To the Department of State</p>
 
 <p>Subject</p>
 
-<p>New treaty</p>
+<p>Dr. Wilson information</p>
 
-<p>Enclosures</p>
+<p>Abstract of contents</p>
 
-<p>New treaty between the U.S. 
-Government  &#38; H. H. the
-Sultan of Zanzibar</p>
+<p>Informing about the contract
+made by the Sultan of Johanna
+Island and the French Residents.</p>
 
-<pb facs="131313"/>
+<pb facs="140135"/>
 
-<p>No 96</p>
+<note>No 51</note>
 
-<p>United States Consulate<lb/>
-Zanzibar July 5th 1886<lb/>
-To the Hon.<lb/>
-Third Assistant Secretary of State<lb/>
+<p>Consulate of the United States<lb/>
+at Zanzibar July 10th 1888</p>
+
+<p>Honorable G. L. Rives<lb/>
+Assistant Secretary of State<lb/>
 Washington D.C.</p>
 
-<p>Sir,</p>
+<p>Sir</p>
 
-<p>I have the honor to acknowledge 
-dispatch No 43, dated May 6th,
-1886 from the Department of State
-inclosing a draft of a new treaty 
-and a "Full Power" from the President
-for you to conclude the
-same.</p>
+<p>I have to inform the
+Department that this Consulate
+is in receipt of a letter from Dr
+B. F. Wilson M.D. of Johanna
+Island, under the date of the 29th
+May ultimo, in which he request
+this Consulate to inform the Department, 
+that the Sultan of said Island
+of Johanna has made a written contract 
+with the French Resident at said
+Island, to send him out of the Island,
+in which the said Sultan agrees to
+do it; the said Dr. Wilson states that
+he can <sic>offered</sic> witness to prove his assertions.</p>
 
-<p>I at once placed myself in
-communication with His Highness
-the Sultan of Zanzibar and
-sent him a draft of the proposed
-treaty.</p>
+<p>This Consulate has informed 
+<catchwords>the</catchwords>
 
-<p>His Highness expressed himself
-as very much gratified that the
-United States Government was
-willing to make a new treaty
-to his advantage.  The treaty was
-immediately drawn up in the
-<catchwords>English</catchwords>
+<pb facs="140203"/>
 
-<pb facs="131322"/>
+the said Dr. Wilson, under the date of
+the 5th May ultimo, about his claims
+as according the <sic>dispach</sic> from the
+Department No 16 and of 13th January
+ultimo.</p>
 
-English and Arabic languages, and
-on the third July <sic>is was</sic> signed
-by myself and H. H. Plenipotentiary.</p>
-
-<p>The treaty was made in duplicate; 
-our copy is inclosed
-with this dispatch the other
-is in His Highness possession.</p>
-
-<p>I have read over carefully the
-English &#38; German treaties and I
-cannot see that there are any advantages.
-that they get that is not 
-afforded us</p>
-
-<p>His Highness the Sultan did
-not raise one question, but ordered
-the treaty got ready.</p>
-
-<p>I am greatly indebted to our
-Kanji Ragpah, a native gentleman
-here who is an intimate friend
-of the Sultan, in getting the treaty
-through so quickly.</p>
-
-<p>I have the honor to be Sir<lb/>
-Your obedient servant<lb/>
-F. M. Cheney<lb/>
-U.S. Consul</p>
-
-<p>Enclosures</p>
-
-<p>Treaty between this U.S. of America
-and the Sultan of Zanzibar</p>
+<p>I am, Sir,<lb/>
+Your obedient Servant<lb/>
+Augustus E. B. Govea<lb/>
+Vice Consul of the U.S. acting Consul</p>
 
 </div1>
 
