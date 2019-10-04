@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0269">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0272">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from Augustus E. B. Govea to George L. Rives, June 30, 1888</title>
+<title>Letter from Augustus E. B. Govea to George L. Rives, November 1, 1888</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0269</idno>
+<idno type="project">teaa.en.letter.0272</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,7 +43,7 @@
 <sourceDesc>
 <bibl>
 <title level="a">Letter from Augustus E. B. Govea to George L. Rives</title>
-<date when="1888-06-30">June 30, 1888</date>
+<date when="1888-11-01">November 1, 1888</date>
 <title level="m" type="microformat">Despatches from United States Consuls in Zanzibar, Br. Africa, 1836-1906</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="date">July 1, 1886-November 15, 1895</biblScope>
@@ -56,7 +56,6 @@
 
 <profileDesc>
 <langUsage>
-
 <language ident="en">English</language>
 </langUsage>
 
@@ -74,20 +73,21 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term ref="http://viaf.org/viaf/48978011">Barghash bin Said, Sultan of Zanzibar</term>
+<term>bin Salim, Saidi Abdallah</term>
+<term>Wilson, B. F.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>London (England)</term>
-<term>Zanzibar</term>
+<term>Johanna Island</term>
+<term>Mayotte</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
-<term>United States</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>France</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -105,7 +105,7 @@
 <persName ref="http://viaf.org/viaf/9835147270628635700003">Govea, Augustus E. B. (Augustus Edward Bothelho), approximately 1826-1890</persName>
 <roleName>U.S. Vice Consul, Acting Consul for Zanzibar</roleName>
 <placeName>Zanzibar</placeName>
-<date when="1888-06-30"/>
+<date when="1888-11-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/29909070">Rives, George Lockhart, 1849-1917</persName>
@@ -128,47 +128,102 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="135942"/>
+<pb facs="140400"/>
 
-<note>No 45</note>
+<note>No 57</note>
 
-<p>Consulate of the United States of America
-at Zanzibar June 30th 1888</p>
+<p>United States Consulate<lb/>
+at Zanzibar November 1st 1888</p>
 
-<p>To the<lb/>
-Honorable G. L. Rives<lb/>
+<p>Honorable G L Rives<lb/>
 Assistant Secretary of State<lb/>
 Washington D.C.</p>
 
 <p>Sir</p>
 
-<p>I have the honor to inform 
-the Department, that the
-exchange of the Treaty between
-the United States and His Highness
-Kalifa bin Said, Sultan of Zanzibar,
-took place on the 29th of the present
-month, between the hours of 10 and 11
-in the forenoon, and in usual form.</p>
+<p>I have the honor to acknowledge 
+the Despatch from the Department
+No 31 according instructions, I have
+the honor to enclose herewith the
+copy of Dr Wilson's letter: and also have
+received the Despatches No 29 and No 30
+and enclosures also received the <sic>the</sic>
+Despatch dated September 6th 1888, and
+Circular of the 7th September 1888.</p>
 
-<p>Respectfully inform also, that
-I am about sending the exchanged
-Treaty, and the original protocols
-of exchange, signed by the Sultans
-Secretary and myself to the Department 
-by registered mail and through
-the United States Legation 
-at
-
-<pb facs="135948"/>
-
-London, as per instructions
-received.</p>
-
-<p>I Am, Sir<lb/>
-Your obedient servant<lb/>
+<p>I am, Sir<lb/>
+Your Obedient Servant<lb/>
 Augustus E. B. Govea<lb/>
-Vice Consul of the U.S. acting Consul</p>
+Vice Consul of the U.S. actg Consul</p>
+
+<p>Enclosure</p>
+
+<p>Copy of Dr Wilson's letter</p>
+
+<pb facs="140412"/>
+
+<note>Copy</note>
+
+<p>Of the letter from Dr B. F. Wilson of Johanna</p>
+
+<p>Patsy Estates Johanna 29 May 1888.</p>
+
+<p>A. E. B. Govea Esqr Actg U.S. Consul</p>
+
+<p>Dear Sir, Your most acceptable letter of the
+13th inst: duly received, and for which
+please accept my thanks. I had began
+to be astonished and ashamed that
+Our Government had not taken notice
+of any claims here. I have frequently
+heard remarks <sic>comming</sic> from the French
+Resident here and others that my
+Government have abandoned me and
+my case otherwise they would have pressed
+it long before this. They all know well
+the justice of my claims but will try the
+claim of bluff if they can. There are all
+sorts of schemes afloat to try and be rid
+of me and my case. I have very good
+reason to believe and am offered witness 
+to prove that the Sultan here
+made a written contract with the
+French Resident here to send me out
+of the Island and he agreed to do it!!
+What can one expect from the French
+or the Sultan after that unless they are
+obliged by pressure to pay my indemnity.
+<catchwords>The</catchwords>
+
+<pb facs="140419"/>
+
+The Sultan is now trying another
+<sic>schem</sic> to deprive me of free labour
+again yesterday all of my free labourers 
+came to me saying they could
+not work longer because the Sultan had
+levied a poll tax of five and one half
+dollars each to all that worked <sic>fo</sic> me
+but those not working for me had
+only to pay one dollar and one half!!
+This is only <unclear extent="two or three words"/> to drive my
+labour away. I have informed the
+men that I would write the Governor
+of Mayotte who is <sic>chif</sic> of the Protectorate 
+and they had better work and wait
+his reply. The most of them went to
+work this morning. How far the Governor 
+will interfere remain to be seen.
+He is a nice old man but does not I
+think wish to out against the Sultan
+I hope you will keep me informed
+of the progress of my case at home and
+inform the U.S. Government of this
+affair between the Sultan and French
+Resident to get rid of me. Hoping to hear from
+you by the return mail. I am your obedient Servant</p>
+
+<p>Signed B. F. Wilson</p>
 
 </div1>
 
