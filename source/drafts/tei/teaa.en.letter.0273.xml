@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0269">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0273">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from Augustus E. B. Govea to George L. Rives, November 1, 1888</title>
+<title>Letter from Augustus E. B. Govea to George L. Rives, January 7, 1889</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0269</idno>
+<idno type="project">teaa.en.letter.0273</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,7 +43,7 @@
 <sourceDesc>
 <bibl>
 <title level="a">Letter from Augustus E. B. Govea to George L. Rives</title>
-<date when="1888-11-01">November 1, 1888</date>
+<date when="1889-01-07">January 7, 1889</date>
 <title level="m" type="microformat">Despatches from United States Consuls in Zanzibar, Br. Africa, 1836-1906</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="date">July 1, 1886-November 15, 1895</biblScope>
@@ -73,17 +73,20 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>bin Salim, Saidi Abdallah</term>
-<term>Wilson, B. F.</term>
+<term>Khalifah bin Said of Zanzibar</term>
+<term ref="http://viaf.org/viaf/164914673">Euan-Smith, Charles, Sir, 1842-1910</term>
+<term>Mishahelles, G.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Johanna Island</term>
-<term>Mayotte</term>
+<term>German East Africa</term>
+<term>Ruvuma River</term>
+<term>Zanzibar</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
-<term/>
+<term>Germany</term>
+<term>Great Britain</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -105,12 +108,13 @@
 <persName ref="http://viaf.org/viaf/9835147270628635700003">Govea, Augustus E. B. (Augustus Edward Bothelho), approximately 1826-1890</persName>
 <roleName>U.S. Vice Consul, Acting Consul for Zanzibar</roleName>
 <placeName>Zanzibar</placeName>
-<date when="1888-11-01"/>
+<date when="1888-12-03"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/29909070">Rives, George Lockhart, 1849-1917</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
+<date when="1889-01-07"/>
 </correspAction>
 </correspDesc>
 
@@ -169,7 +173,7 @@ treaty with the Sultan of Zanzibar
 according of what I have been
 told, the natives of the place call
 <unclear>Bagamoye</unclear> being vex with the
-employee of said Association inconsequence
+employee of said Association in consequence
 of the imprudence and 
 bad management on the part
 of said employees, have made trouble.
@@ -270,6 +274,38 @@ Vice Consul of the U.S. actg Consul</p>
 <pb facs="142016"/>
 
 <gap extent="one page" reason="document in german"/>
+
+<pb facs="142050"/>
+
+<p>Consulate of the United States of America<lb/>
+at Zanzibar <unclear>December</unclear> 30th 1888</p>
+
+<p>To<lb/>
+G. Mishahelles Esquire<lb/>
+German Consul General<lb/>
+Zanzibar</p>
+
+<p>Sir</p>
+
+<p>I have the honor to acknowledge 
+the receipt of your communication 
+of the 29th inst, also enclosure,
+informing this Consulate of the blockade 
+against arms and ammunitions
+and slavery on the Coast of this Sultanate.</p>
+
+<p>In regard to the blockade against
+arms and ammunitions, I have the
+honour to inform you it will not
+be effective against vessels <sic>carring</sic>
+the American Flag, unless instructions 
+are received from the Unites States
+Government</p>
+
+<p>I am Sir:<lb/>
+Your Obedient Servant<lb/>
+Augustus E. B. Govea<lb/>
+Vice Consul of the U.S. actg Consul</p>
 
 </div1>
 
