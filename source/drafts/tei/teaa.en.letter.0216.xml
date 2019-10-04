@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0216">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Dispatch from Edwin James Barclay to James G. Blaine, May 11, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<idno type="project">teaa.en.letter.0216</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="a">Dispatch from Edwin James Barclay to James G. Blaine, May 11, 1891</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<date when="1891-05-11">May 11, 1891</date>
 </bibl>
 </sourceDesc>
 
@@ -54,7 +54,7 @@
 
 <profileDesc>
 <langUsage>
-<!-- WHAT LANGUAGE IS THE DOCUMENT IN? SEE ALSO: fr, French -->
+
 <language ident="en">English</language>
 </langUsage>
 
@@ -71,15 +71,13 @@
 <term>Correspondence</term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term></term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term></term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,26 +93,26 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Barclay, Edwin James</persName>
+<roleName></roleName>
+<placeName>Monrovia, Liberia</placeName>
+<date when="1891-05-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Blaine, James G.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D. C.</placeName>
+<date when="1891-06-16"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2019-09" who="#lkw"> encoded</change>
+<change when="2019-09" who="#unm"> transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,26 +122,30 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<pb facs="20170616_150311"/>
 
-<!-- BEGIN TRANSCRIBING -->
+<note type="stamp">Department of State Received Jun 16 1891</note>
 
-Now: James G. Blaine
-Secretary of State
-Washington
-**not made out).6
-U.S.A
+<ab>Department of State
+Monrovia, May 11, 1891.</ab>
 
-Sir,
+<ab>Hon: James G. Blaine<lb/>
+Secretary of State<lb/>
+Washington<lb/>
+DC<lb/>
+U.S.A</ab>
 
-I have the honor by direction
+<ab>Sir,</ab>
+
+<p>I have the honor by direction
 to inform you that in the month 
-of July 1890, the President *crailing
+of July 1890, the President availing
 himself of a visit of the Honorable
-U.W.G all Paris, Attorney General 
+W. McCall Davis, Attorney General 
 of the Republic, to the United States, 
 thought fit to commission the 
 said office as a general Commissioner 
+from the Republic of Liberia, to the
 Government of the United States on
 behalf of Liberia, with respect to 
 an impending revolution of her
@@ -151,13 +153,16 @@ territorial integrity by certain of
 the European Powers now engaged
 in a scramble for the remaining 
 portions of the African Continent 
-not yet appropriated by them.
-Mr. Davis returned to Liberia in
-the month of Janurary last, and 
+not yet appropriated by them.</p>
 
-his 
+<p>Mr. Davis returned to Liberia in
+the month of January last, and 
 
-his repost** to the President was to 
+<catchwords>his </catchwords>
+
+<pb facs="20170616_150332"/>
+
+his report to the President was to 
 the effect that he had been honored 
 with an interview with the Honorable 
 The Secretary of State at Washington 
@@ -174,24 +179,26 @@ the United States and the South American
 Republics, it was impossible to attain 
 further audience of the Secretary, within
 the time allothed for this stay in the 
-United States.
+United States.</p>
 
-Mr Davis further reported that 
-before bearing the United States, he had
+<p>Mr Davis further reported that 
+before leaving the United States, he had
 addressed you from Philadelphia, a
 despatched under date of 20th November 
 1890, in which the object sought to be
 attained by a personal interview was
-fully set forth, a **cofoy of which I have 
+fully set forth, a copy of which I have 
 
-the 
+<catchwords>the </catchwords>
+
+<pb facs="20170616_150338"/>
 
 the honor to enclose, but so far 
-no reply has been recieved to the *samer 
+no reply has been recieved to the <unclear>same</unclear></p>
 
-I am therefore directed to intomate**
-to your Mr. Secretary, that 
-within thr last few months, it has 
+<p>I am therefore directed to <unclear>intomate</unclear>
+to you Mr. Secretary, that 
+within the last few months, it has 
 come to the knowledge of the 
 Liberian Government, that an arrangment 
 has been entered into 
@@ -199,55 +206,60 @@ between the Governments of Great
 Britain and France for the delimination 
 of their respective colonies
 to the North and South of 
-Liberia, which agreement if *canied 
+Liberia, which agreement if carried 
 out in its integrity would have 
 the effect to reduce the Republic 
-to a mer strip along the coast 
+to a mere strip along the coast 
 of the Atlantic Ocean, extending 
 coastwise from the Monnah River 
 on the Northwest to Cape Palmas 
 on the Southeast, with an average 
-*beadit of not more than 40 mile
+breadth of not more than 40 miles
 from the Coast. An inspection 
 of a series of Maps published by 
 the Royal Geographical Society 
 of Belgium, shows the proposed 
 French possession on the West.
 
-Coast
+<catchwords>Coast</catchwords>
+
+<pb facs="20170616_150344"/>
 
 Coast of Africa immediately South
 of Liberia to extend from the British 
-Fold Coast ti Cape Palmas, and 
-files the furthest interior limits of 
-Liberia at Boporo, assigning thr 
+Gold Coast to Cape Palmas, and 
+fixes the furthest interior limits of 
+Liberia at Boporo, assigning the 
 intervening country between Boporo 
 and the Niger as either French Territory,
-am as liable to become a protectorate of France.
+or as liable to become a protectorate of France.</p>
 
-The Government of Liberia an 
-becoming cognizant* of this proposed
+<p>The Government of Liberia on 
+becoming cognizant of this proposed
 arrangment recently addressed a 
-memorundum to the British Government, 
+memorandum to the British Government, 
 protecting against the conclusion 
 of the said Agreement so far 
 as the deprivation of its territory 
 by France is concerned and soliciting the 
-guard offices of said Government on its behalf 
+guard offices of said Government on its behalf. 
 By command I herewith enclose a similar 
 document soliciting the good offices of the 
-Governments of the United States to *aveath
+Governments of the United States to avert
 the appropriation of Liberia territory
-by France, said appropriattion being 
-contrary ti the *netherland had recently set up
+by France, said appropriation being 
+contrary to the Hinterland had recently set up
 by the European Powers to regulate their 
 section in making fresh organizations of 
-territory on the African Continent. 
+territory on the African Continent. </p>
 
-I have the honor to be.
-Sir
-Your obident Servant 
-E.D. Barday.
+<pb facs="20170616_150350"/>
+
+
+<closer><salute>I have the honor to be<lb/>
+Sir<lb/>
+Your obedient Servant</salute> 
+Ed. Barclay.</closer>
    
 </div1>
 
