@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0251">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0294">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from L de R du Verge to State Department, May 1, 1883</title>
+<title>Dispatch from William H. Thomas, March 20, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0251</idno>
+<idno type="project">teaa.en.letter.0294</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -44,8 +44,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from L de R du Verge to State Department</title>
-<date when="1883-05-01">May 1, 1883</date>
+<title level="a">Dispatch from William H. Thomas</title>
+<date when="1883-03-20">March 20, 1883</date>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">1</biblScope>
@@ -72,12 +72,16 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>du Verge, L. de R.</term>
+<term>Corde</term>
+<term>Marchins</term>
+<term>Thomas, William H.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>St. Paul de Loanda (Angola)</term>
-<term>Southwest Coast Africa</term>
+<term>Lisbon, Portugal</term>
+<term>St. Paul de Loanda</term>
+<term>St. Thomas</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -96,14 +100,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="http://viaf.org/viaf/55609738">du Verge, L de R, 1815-1864</persName>
+<persName ref="http://viaf.org/viaf/55609738">William H. Thomas</persName>
 <placeName>St. Paul de Loanda (Angola)</placeName>
-<date when="1883-05-01"/>
+<date when="1883-03-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName/>
-<placeName/>
+<persName>John Davis</persName>
+<roleName>Assistant Secretary of State</roleName>
+<placeName>Washington D.C.</placeName>
 </correspAction>
 </correspDesc>
 
@@ -119,29 +123,42 @@
 
 <body>
 
-<pb facs="teaa.en.letter.0251.001"/>
+<pb facs="teaa.en.letter.0294"/>
 
 <div1 type="document" xml:lang="en">
 
-<note>No 40</note>
-<note>Department of State Received May 1 1883</note>
+<pb facs="Scan10041"/>
 
-<p>United States Consulate<lb/>
-St Paul de Loanda<lb/>
-S.W. Coast Africa</p>
+<p>File. St Paul de Loanda<lb/>
+March 20th 1883.</p>
 
-<p>L. de R. du Verge<lb/>
-to State Department<lb/>
-Washington D.C.</p>
+<p>Legation of the United States.<lb/>
+Lisbon, 12th November 1878.</p>
 
-<p>Subject</p>
+<p>Sir,</p>
 
-<p>Slave trade and departure of
-Mrs. L. de R. du Verge</p>
+<p>I have been <unclear extent="one word"/> by Mr <unclear extent="one word"/>, Minister
+of Foreign Affairs, of the existence at the
+island of Principe, of certain public property
+belonging to the United States, formerly in
+possession of Mr Marchins, Consul of
+the United States at St. Thomé and now
+held by the Authorities of that Island.</p>
 
-<p>Encloses</p>
+<p>You will find enclosed a translation of Mr
+<unclear>Corde's</unclear> note to me, as well as of a list of
+the property referred to. I have replied
+to Mr <unclear>Corde's</unclear> note, and have informed him
+that I would request you as the nearest
+Consul to the island of Principe, to <sic>releive</sic>
+the Portuguese authorities of the further charge
+of shade articles, and have requested him to 
+<catchwords>direct</catchwords></p>
 
-<p>Statement of the same</p>
+<fw type="address">Wm. H. Thomas Esqre<lb/>
+Consul of the United States<lb/>
+Loanda.<lb/>
+Africa</fw>
 
 </div1>
 
