@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0215">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Dispatch from William McCall Davis to Hilary R. W. Johnson, January 23, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<idno type="project">teaa.en.letter.0215</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="a">Dispatch from William McCall Davis to Hilary R. W. Johnson, January 23, 1891</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<date when="1891-01-23">January 23, 1891</date>
 </bibl>
 </sourceDesc>
 
@@ -54,7 +54,7 @@
 
 <profileDesc>
 <langUsage>
-<!-- WHAT LANGUAGE IS THE DOCUMENT IN? SEE ALSO: fr, French -->
+
 <language ident="en">English</language>
 </langUsage>
 
@@ -71,15 +71,13 @@
 <term>Correspondence</term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Gibson, Garretson W.</term><!-- possibly -->
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term></term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,26 +93,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Davis, William McCall</persName>
+<roleName>Liberian Commissioner</roleName>
+<placeName>Monrovia, Liberia</placeName>
+<date when="1891-01-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Johnson, Hilary R. W.</persName>
+<roleName>President of Liberia</roleName>
+<placeName></placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2019-09" who="#lkw"> encoded</change>
+<change when="2019-09" who="#unm"> transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,67 +121,74 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<pb facs="20170616_150227"/>
 
-<!-- BEGIN TRANSCRIBING -->
+<ab>Department of State<lb/>
+Monrovia. January 23, 1891</ab>
 
-His Execellency 
-H.V.W. Johnson
+<ab>His Execellency<lb/>
+H.V.W. Johnson</ab>
 
-Mr. President,
-When I arrived in the United 
-States, on thr 14th September 1890 I
+<ab>Mr. President,</ab>
+<p>When I arrived in the United 
+States, on the 14th September 1890 I
 found the country in a great state of excitement consequent on the elections, 
-which were held on the 4th of November last.
+which were held on the 4th of November last.</p>
 
-I found it would be useless to go 
-on to Washington then, as Mr. Seemtale*
-my Blaine was away on an elections
-were over which resulted disastorialy*
+<p>I found it would be useless to go 
+on to Washington then, as Mr. Secretary
+Blaine was away on an elections
+tour, and he did not return until
+after the elections. After the elections
+were over which resulted disastrously
 for the present Administration in 
-nearly all the States divert to 
-Washington, on the 10th of Novembe, and 
-the next day, Now John U. Smith, with
+nearly all the States. I went to 
+Washington, on the 10th of November, and 
+the next day, Hon John H. Smyth, with
 whom I stopped while in the city, accompanied
 me to the State Department, when we found twenty or more
 persons, all waiting to get our 
 
-interview
+<catchwords>interview</catchwords>
+
+<pb facs="20170616_150233"/>
 
 interview with the Secretary. We waited 
 about half a day, and were then informed 
 that the Secretary would not be at
-his office that day, Mr. Smith and I 
+his office that day, Mr. Smyth and I 
 called the next day, but after waiting some 
 hours he had to leave, but I remained and 
-about 1 o'clock thr Secretary came, and
+about 1 o'clock the Secretary came, and
 I was admitted to an interview for 
-about tem mintues. Mr. Blaine then 
+about ten mintues. Mr. Blaine then 
 excused himself as the new Spanish 
-Minister was thn waiting by appointment
+Minister was then waiting by appointment
  to be taken to the White House
 to be presented to the President. Mr.
-Seemtary asked me to call on him the
+Secretary asked me to call on him the
 next day, and instructed the usher to
-bring me "right in", as soon as he sat 
+bring me "right in", as soon as he got 
 to the office. I called the next Saturday
-but after waiting until after 12m. 
-was told, to the great disappointment 
-of all of us then waiting, that the Seemtary **invade
-not be at his office that day.
+but after waiting until after 12m. we
+were told, to the great disappointment 
+of all of us then waiting, that the Secretary would
+not be at his office that day.</p>
 
-I called at the Department the next 
-Monday and Tuesday; but with the same.
-One of the gentlemen  that I 
-met waiting to see the Secretary, told 
+<p>I called at the Department the next 
+Monday and Tuesday; but with the same
+result. One of the gentlemen  that I 
+met, waiting to see the Secretary, told 
 
-me
+<catchwords>me</catchwords>
+
+<pb facs="20170616_150239"/>
 
 me that he had called daily for fourteen 
-days, ad when I left, he had not
-got been favored with an interview.
+days, and when I left, he had not
+yet been favored with an interview.</p>
 
-I then left Washington, and from 
+<p>I then left Washington, and from 
 Philadelphia I wrote a letter to 
 Secretary Blaine, copy of which I 
 now present. After waiting several 
@@ -197,37 +201,40 @@ be laid down somewhere and not
 come under his notice. Mr. Cappinger 
 wrote me that he had called several 
 times at the Department, but without success,
-but that he would still try to carry out my wishes
+but that he would still try to carry out my wishes.</p>
 
-Mr. Blaine received me very 
-courteously, and but for the poet that 
+<p>Mr. Blaine received me very 
+courteously, and but for the fact that 
 the Spanish Minister by his appointment, I
 think he would have given me a 
 much longer and favorable interview. 
 I requested the Secretary 
-to send me an answer to 
+to send me an answer to New 
 
-New York
+<catchwords>York</catchwords>
 
-New York, and prehaps I may get it by next mail.
+<pb facs="20170616_150246"/>
 
-This matter having been initated 
-allowed me to suggest, Mr. President ,
-that it be followed up through thr 
+New York, and perhaps I may get it by next mail.</p>
+
+<p>This matter having been initiated 
+allowed me to suggest, Mr. President,
+that it be followed up through the 
 State Department, as I deem it 
 of great importance, at this time, 
 that we have a demonstration of 
 friendship from one of the Great Powers
-I have the honor to be Mr. President 
+I have the honor to be Mr. President </p>
+<closer>
+<salute>Your obident Servant </salute>
 
-Your obident Servant 
-W.U.Davis 
-Commissioner 
+<signed>W.M. Davis 
+Commissioner &amp;c.</signed>
+</closer>
+<postscript><ab>A true copy from the original on file in the State Department</ab>
 
-A true copy from the original on file in the State Department
-
-    Wilson 
-C. Slev. State Dept
+<signed>GW Gibson <lb/>
+C. Clr. State Dept</signed></postscript>
 
 
 

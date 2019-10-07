@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0209">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Dispatch to Charles H. J. Taylor, June 8, 1888</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<idno type="project">teaa.en.letter.0209</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="a">Dispatch to Charles H. J. Taylor, June 8, 1888</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<date when="1888-06-08">June 8, 1888</date>
 </bibl>
 </sourceDesc>
 
@@ -54,7 +54,7 @@
 
 <profileDesc>
 <langUsage>
-<!-- WHAT LANGUAGE IS THE DOCUMENT IN? SEE ALSO: fr, French -->
+
 <language ident="en">English</language>
 </langUsage>
 
@@ -71,15 +71,13 @@
 <term>Correspondence</term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term></term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term></term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,26 +93,27 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName></persName>
+<roleName></roleName>
+<placeName></placeName>
+<date when="1888-06-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName>Taylor, Charles H. J.</persName>
+<roleName>United States Minister Resident</roleName>
+<placeName>Monrovia, Liberia</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2019-10" who="#lkw"> encoded</change>
+<change when="2019-09" who="#unm"> transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,17 +123,22 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<pb facs="20170616_145828"/>
 
-<!-- BEGIN TRANSCRIBING -->
+<note>Copy</note>
+<ab>Department of State. Monrovia June 8th 1888. <unclear/><lb/>
+Liberia W.C.A<lb/>
+No. 5.</ab>
 
-<!-- Copy
-Department of State. Monrovia June 8th 1888. <unclear/>
-Liberia W.C.A
-No. 5. -->
+<ab>Hon Chas H. J. Taylor<lb/>
+U.S. Minister Resident <lb/>
+and Consul General <lb/>
+U.S. Legation <lb/>
+Monrovia. </ab>
 
-Sir, <!-- Sir -->
-In response to a request emanating
+
+<ab>Sir, </ab>
+<p>In response to a request emanating
 from your Legation I have the honor
 to communicate for the information
 of your government, the following
@@ -144,59 +148,56 @@ tribes of the south eastern portion of
 the Republic, towards my government 
 and which in its opinion constitutes
 an emergency or a sufficient reason
-for a solicitation <!-- solicitation --> of the immediate
+for a solicitation of the immediate
 assistance of the government of the 
 United States by means of its naval
-forces and otherwise.
+forces and otherwise.</p>
 
-About the middle of last year 
-the major portion <!-- portion --> of the inhabitants 
-of Half Cavella (?) <!-- we should look this up -->, a district about 12
-miles South <!-- south --> of Cape Palmas, began 
+<p>About the middle of last year 
+the major portion of the inhabitants 
+of Half Cavalla, a district about 12
+miles South of Cape Palmas, began 
 to exhibit systems of restlessness 
-and a disposition the obstruct <!-- obstruct --> the
-execution of, and to disobey the Revenue <!-- Revenue --> <!-- remind me to talk to you about catchwords -->
+and a disposition the obstruct  the
+execution of, and to disobey the <catchwords>Revenue</catchwords>  -->
 
-Row has Z.J. Hon. Chas. <!-- Hon. Chas. -->
-U.J. Minister Resident U.S. <!-- U.S. -->
-Consul General <!-- Consul -->
-U.S. Legation <!-- U.S. -->
-Monrovia. <!-- Monrovia -->
+<pb facs="20170616_145834"/>
 
 Revenue Laws of the Republic. Efforts
 even immediately set on foot by the 
 authorities of the County of Maryland 
-to allay their manifestations in a <!-- allay -->
-peaceful manner, by convoring a <!-- ? -->
-council of the adjacent tribes in compact <!-- compact -->
-poet with the government and before 
+to allay their manifestations in a 
+peaceful manner, by <unclear>convoring</unclear> a 
+council of the adjacent tribes in compact 
+with the government and before 
 whom the conduct of the Half Cavalla Tribe
 was brought for consideration. The 
 council unanimously condems the 
 course taken by the Half Cavalla Tribe 
-as being improper and disloyal, mule= <!-- ? -->
-
-Led them in a small fine, which
-after considerable demurring on the <!-- demurring -->
+as being improper and disloyal, <unclear extent="one word"/>
+ them in a small fine, which
+after considerable demurring on the 
 part of the offenders, was agreed to 
-was paid and matters seemed quiet <!-- was? -->
+was paid and matters seemed quiet 
 for the present. Towards the closer 
 of the year however, this tribe initated 
-threats by the intriques of one Julio, a <!-- threats by the intrigues of one Julio, a -->
+threats by the intriques of one Julio, a 
 foreigner and illicit trader, residing 
-at Sabro, and another British traders setting at defiance our Revenue Laws <!-- Sabro? -- look up -->
+at <unclear>Sabro</unclear>, and another British traders setting at defiance our Revenue Laws <!-- sic: Sabo -->
 at Half Cavalla itself, assumed an 
 attitude of open defiance, and insubordination toward the government,
 and in spite of repeated efforts on 
 the part of the Authorities to induce
-them to peacefully recede from their <!-- recede? -->
+them to peacefully recede from their 
 rebellious attitudes, and return to their 
 allegiance, have steadfastly refused 
 to permit the execution of the laws 
-within their district, have organized <!-- organized -->
+within their district, have organized 
 themselves into an armed force 
 
-fortified  
+<catchwords>fortified  </catchwords>
+
+<pb facs="20170616_145840"/>
 
 fortified their villages; and have openly 
 declared their intentions to resist by 
@@ -206,84 +207,90 @@ order in their districts. They have
 also appealed to the British government 
 through the governors of its Colonies 
 adjacent to the Republic of Liberia 
-to be taken under its protectorate <!-- protectorate, -->
-and are now actively endevoring to <!-- endevoring -->
-stir up and enlist more powerful <!-- enlist instead of what -->
+to be taken under its protectorate, 
+and are now actively endevoring to 
+stir up and enlist more powerful 
 tribes as their auxillaries in this
 outbreak, so as to assume the 
 offensive against the government 
-as soon as possible, and have lately <!-- as soon -->
-expelled from their (*omnitat) christianze <!-- ? -->
+as soon as possible, and have lately 
+expelled from their midst christianze 
 and civilized natives to the number 
 of 80 more or less, whose only offense 
 was, a decided refusal to fight 
 against the government to whom
-they had sworn allegiance.
+they had sworn allegiance.</p>
 
-It is but fair however to state <!-- It --> <!-- state -->
+<p>It is but fair however to state 
 that the British Naval authorities 
 on the West Coast have so far
 declined affording any aid to these
-insurgents, and their <unclear>key info</unclear> have
-listens to been exerted on our behalf, <!-- hitherto -->
-but the fact that they do not count <!-- do not -->
-us primary factors in this, other <!-- primary? --> <!-- matter -->
-will I trust be made sufficiently <!-- will I trust -->
+insurgents, and their sympathies have
+hitherto been exerted on our behalf, 
+but the fact that they do not count
+us primary factors in this, matter
+will I trust be made sufficiently 
 clear in the succeeding paragraph
-of this despatch.
+of this despatch.</p>
 
-The effect of these occurences 
+<p>The effect of these occurences 
 
-has
+<catchwords>has</catchwords>
+
+<pb facs="20170616_145847"/>
 
 
 has been to paralyze lawful commerce
 in that portion of the Republic, 
 and to gravely embarrass our government. 
-It is obvious that if this state of affairs <!-- affairs -->
+It is obvious that if this state of affairs 
 at Half Cavalla, should continue 
 unchecked, a powerful combination 
 will soon be formed against the 
 government, incited and openly aided 
-and abetted* by the foreign traders a= <!-- yes --> <!-- aforesaid -->
-foresaid and secretly encouraged by 
-certain Foreign governments, <!--  governments --> <!-- signatories -->
+and abetted by the foreign traders 
+aforesaid and secretly encouraged by 
+certain Foreign governments, 
 signatories of the Berlin Conference, who 
-for some time past have been intriguing <!-- intriguing -->\
+for some time past have been intriguing 
 to obtain possession of this 
 position of our territory if not indeed
 of the entire territory of the Republic 
-The Enclosures B.C.D <!-- See -->
+See Enclosures B.C.D </p>
 
-With reference to the points raised 
+<p>With reference to the points raised 
 in Enclosure C. the undersigned would
-remain as follows; <!-- as follows -->
+remain as follows; </p>
 
-1. That Liberia does not contemplate
-or project an extension of Frontier, the <!-- Frontier, -->
-territories between the Grand Craters and <!-- Grand Craters -->
-San Pean Riveria having been an <!-- San Pean River --> <!-- been an intregral -->
-intregal part of our territory since <!-- part of our territory -->
-the year 1857,before that period it <!-- (before that period -->
-was comprised inthe state of <!-- state of Maryland -->
+<p>1. That Liberia does not contemplate
+or project an extension of Frontier, the 
+territories between the Grand Craters and 
+San Pean Riveria having been an 
+intregal part of our territory since 
+the year 1857, before that period it 
+was comprised inthe state of 
 Maryland in Liberia 1834-6, 1846-1950)
-and recognised as such by the European <!-- European -->
+and recognised as such by the European 
 Powers until the era of the 
-scramble for Africa".
+scramble for Africa".</p>
 
-2. Liberia is neither a European 
+<p>2. Liberia is neither a European 
 Power nor a signatory of the decisions
-of the Berlin Conference, she was
-not invited to assist in those deliberations <!-- deliberations -->
-and is therefore not 
-bound by its decisions refer to future acquisitions of African Territory by 
-European Powers, and raft to the <!-- ? -->
-present possessions or future  acquisitions of an African Party. <!-- State -->
 
-My government declines on these 
+<pb facs="20170616_145853"/>
+
+of the Berlin Conference, she was
+not invited to assist in those deliberations 
+and is therefore not 
+bound by its decisions and further
+those decisions refer to future acquisitions of African Territory by 
+European Powers, and not to the 
+present possessions or future  acquisitions of an African State. </p>
+
+<p>My government declines on these 
 grounds to commit suicide, as it 
 would do by adopting the course suggested 
-by the British of Foreign Affairs Office <!-- Office -->
+by the British of Foreign Affairs Office 
 enclosure C. or even for the present to enter 
 into such correspondence with 
 Great Britain as may occasion the
@@ -297,41 +304,45 @@ States in this matter between itself
 and its aboriginal citizens, in the
 following measures, in which it is 
 to be hoped Mr. Minister your government 
-will see its way clear the concurviz*
+will see its way clear the concur viz.
+<catchwords>Naval</catchwords>
+</p>
 
-Naval co-operation with the Liberian
-forcces for the subsiding of this outbreak,
-against the authority of the Republic 
+<pb facs="20170616_145858"/>
 
-Resisiting in establishing and
+<p>Naval co-operation with the Liberian
+forces for the subsiding of this outbreak,
+against the authority of the Republic.</p>
+
+<p>Assisting in establishing and
 protecting and or more settlements
-in the Southeastern partion of the
+in the Southeastern portion of the
 Republic one of item being planted 
 on the San Pedro River as the Port
-of Entry, which moved confront 
-foreign intrigant with accomplishes facts.
+of Entry, which would confront 
+foreign intrigant with accomplishes facts.</p>
 
-The keeping up of neighbor 
+<p>The keeping up of regular  
 communication between the proposed settlements
 and the center of government,
-and the enforcement of our Revenues 
+and the enforcement of our Revenue 
 Laws along our Coast. For these 
-purposes the (*finbuat) recommends
-by this Excellency President Ceveland 
+purposes the gunboat recommended
+by His Excellency President Ceveland 
 in his last message to the U. S. Congress 
 to be presented to the Republic of 
 Liberia, and regular visits of a U.S. 
-Ship would be invaluable.
+Ship would be invaluable.</p>
 
-Soliciting Mm Minister the exertion 
+<p>Soliciting Mr Minister the exertion 
 of your good office with your 
 government in regard to its favorable
-action on the particular *herium 
+action on the particular <unclear extent="one word"/> 
 brought to your notice. I have the 
-honot to be with sentiments of 
-the highest consideration and (*eastern)
+honor to be with sentiments of 
+the highest consideration and esteem</p>
 
-Your obident Servants 
+<p>Your obedient Servant</p>
 
 
 

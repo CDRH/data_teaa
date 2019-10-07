@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0234">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0277">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from Seth A. Pratt to James D. Porter, October 24, 1887</title>
+<title>Letter from Seth A. Pratt to George L. Rives, January 31, 1889</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0234</idno>
+<idno type="project">teaa.en.letter.0277</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,8 +42,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from Seth A. Pratt to James D. Porter</title>
-<date when="1887-10-24">October 24, 1887</date>
+<title level="a">Letter from Seth A. Pratt to George L. Rives</title>
+<date when="1889-01-31">January 31, 1889</date>
 <title level="m" type="microformat">Despatches from United States Consuls in Zanzibar, Br. Africa, 1836-1906</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="date">July 1, 1886-November 15, 1895</biblScope>
@@ -73,7 +73,7 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term ref="http://viaf.org/viaf/48978011">Barghash bin Said, Sultan of Zanzibar</term>
+<term>Khalifah bin Said of Zanzibar</term>
 </keywords>
     
 <keywords scheme="original" n="places">
@@ -81,14 +81,11 @@
 </keywords>
 
 <keywords scheme="original" n="empires">
-<term>France</term>
-<term>Germany</term>
-<term>Great Britain</term>
-<term>United States</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>France</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -106,20 +103,19 @@
 <persName>Pratt, Seth A.</persName>
 <roleName>U.S. Consul for Zanzibar</roleName>
 <placeName>Zanzibar</placeName>
-<date when="1887-10-24"/>
+<date when="1889-01-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/36031491">Porter, James D. (James Davis), 1828-1912</persName>
+<persName ref="http://viaf.org/viaf/29909070">Rives, George Lockhart, 1849-1917</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1887-12-05"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-09-30" who="#kln">separating despatches, additional encoding</change>
+<change when="2019-10-03" who="#kln">separating despatches, additional encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
 </revisionDesc>
 </teiHeader>
@@ -130,126 +126,73 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="133325"/>
+<pb facs="142802"/>
 
-<note>Department of Stat Received Dec 5 1887</note>
+<note>No. 60</note>
 
-<note>No. 24</note>
+<p>Consulate of the United States<lb/>
+Zanzibar January 31 1889</p>
 
-<p>United States Consulate<lb/>
-Zanzibar, October 24, 1887</p>
-
-<p>Mr. Pratt.<lb/>
-To the Department of State</p>
-
-<p>Subject</p>
-
-<p>Bonding goods</p>  
-
-<p>Abstract of Contents:</p>
-
-<p>Requesting information as to
-whether the provisions of the
-New Treaty in regard to
-landing goods in bond
-can be enforced.</p>
-
-<pb facs="133349"/>
-
-<note>No 24.</note>
-
-<p>United States Consulate<lb/>
-Zanzibar October 24, 1887</p>
-
-<p>Honorable James D. Porter<lb/>
+<p>Honorable G. L. Rives<lb/>
 Assistant Secretary of State<lb/>
 Washington, D.C.</p>
 
 <p>Sir:</p>
 
-<p>I have to request of
-the Department instructions
-in relation to the Article in
-the English and German
-treaties stipulating that 
-goods may be landed here
-in bond, for a period not 
-exceeding six months.</p>
+<p>I have the honor to inform
+the Department of my arrival
+at my port on the 30th inst.
+and that immediately on my
+arrival, I sent my Credentials
+to the Sultan who has returned
+them to me, accompanied by his
+Exequator.</p>
 
-<p>This question is liable
-to arise at any time
-and I should be glad to know just what rights
-<catchwords>might</catchwords>
+<p>Accordingly I have this
+day received charge of the
+United States Consulate at
+Zanzibar.</p>
 
-<pb facs="133404"/>
+<p>His Majesty the Sultan
+required me this morning in
+audience on the course of
+which he expressed himself
+as much pleased with the
+good relations <unclear>since</unclear> existing
+between
 
-might be claimed by Americans 
-under this article.</p>
+<pb facs="142814"/>
 
-<p>The clause in the
-new treaties relating to the 
-duty of twenty-five per cent
-in spirituous liquors, is practically
-a dead-letter, from
-the fact that France has
-not assented to the application
-of the Revised Tariff
-of Zanzibar to the Exports
-of France entering this
-country.</p> 
+between the Government of the
+United States and Himself
+and hopes for a continuation
+of the same.</p>
 
-<p>Naturally, the English 
-and German merchants objected
-to paying any higher
-duty on spirituous liquors
-than was being paid by
-the French i.e. five per cent
-<catchwords>and</catchwords>
+<p>I shall be sending
+an account of the conditions
+of affairs by the earliest 
+opportunity. Meanwhile I 
+would observe that everything
+is quiet in the town of Zanzibar: 
+but the rebellion on the
+main-land renders it unsafe
+for Europeans to venture
+there on business or otherwise. 
+And this together
+with the uncalled for blockade 
+of the Coast, restricts
+business, and has caused
+great losses to the merchants.</p>
 
-<pb facs="133409"/>
+<p>I shall be sending
+documents relating to the
+transfer of the office by the
+following mail.</p>
 
-and the new rate (25%) 
-consequently could not be 
-sustained.</p>
-
-<p>The Sultan doubtless
-having in mind the fact
-that this new rate was intended
-in part as a compensation 
-for a reduction
-of the duty in certain articles 
-of the Export is not
-inclined to allow the foreign
-merchants any privileges under the new
-treaties.</p>
-
-<p>It is well known that
-the Sultan does not look
-with favor on the idea of
-landing goods in bond
-and he might possibly
-<catchwords>object</catchwords>
-
-<pb facs="133414"/>
-
-object on the grounds mentioned 
-above.</p>
-
-<p>It is often a great
-convenience &#8212; as well as a
-saving of Expense &#8212; to Americans
-engaged in business
-here to land goods in
-bond since in that way
-a vessel might proceed
-direct to her destination
-without stopping at an
-intermediate port.</p>
-
-<p>I am Sir<lb/>
-Your Obedient Servant<lb/>
+<p>I have the honor to be, Sir<lb/>
+Your obedient servant<lb/>
 Seth A. Pratt<lb/>
-U.S. Consul.</p>
+U.S. Consul</p>
 
 </div1>
 
