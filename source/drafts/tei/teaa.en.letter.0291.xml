@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0251">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0291">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from L de R du Verge to State Department, May 1, 1883</title>
+<title>Dispatch from L de R du Verge to John Davis, May 1, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0251</idno>
+<idno type="project">teaa.en.letter.0291</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -44,8 +44,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from L de R du Verge to State Department</title>
-<date when="1883-05-01">May 1, 1883</date>
+<title level="a">Dispatch from L de R du Verge to John Davis</title>
+<date when="1883-03-18">March 18, 1883</date>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">1</biblScope>
@@ -72,12 +72,17 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
+<term>Davis, John</term>
 <term>du Verge, L. de R.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
+<term>Dande</term>
+<term>Lisbon, Portugal</term>
+<term>Quanze River</term>
 <term>St. Paul de Loanda (Angola)</term>
 <term>Southwest Coast Africa</term>
+<term>Washington D.C.</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -101,9 +106,9 @@
 <date when="1883-05-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName/>
-<placeName/>
+<persName>John Davis</persName>
+<roleName>Assistant Secretary of State</roleName>
+<placeName>Washington D.C.</placeName>
 </correspAction>
 </correspDesc>
 
@@ -119,32 +124,46 @@
 
 <body>
 
-<pb facs="teaa.en.letter.0251.001"/>
+<pb facs="teaa.en.letter.0291"/>
 
 <div1 type="document" xml:lang="en">
 
-<note>No 40</note>
-<note>Department of State Received May 1 1883</note>
+<pb facs="Scan10038"/>
 
 <p>United States Consulate<lb/>
-St Paul de Loanda<lb/>
-S.W. Coast Africa</p>
+at St Paul de Loanda<lb/>
+March 18th 1883</p>
 
-<p>L. de R. du Verge<lb/>
-to State Department<lb/>
+<p>Hon. John Davis<lb/>
+Assistant Secretary of State<lb/>
 Washington D.C.</p>
 
-<p>Subject</p>
+<p>Sir</p>
 
-<p>Slave trade and departure of
-Mrs. L. de R. du Verge</p>
+<p>I have the honor to state that
+Despatch No 12 is received and contents
+carefully noted, for which I thank the 
+Department.</p>
 
-<p>Encloses</p>
-
-<p>Statement of the same</p>
+<p>I have been following a real slave
+business going on here and carried
+out by Portuguese from Lisbon and 
+both whites and mulattos of this 
+country. I wanted and still
+intend to follow them on that business
+up to the near interior where the 
+purchase is effected by Barter, &amp;c &amp;c
+as is the case, I am told, throughout
+almost all the trading posts, not
+only of the interior but near the seaboard 
+and rivers: Such is the case
+at the most important town of
+Dande on the Quanza river: Ambriz
+<catchwords>and</catchwords></p>
 
 </div1>
 
 </body>
 </text>
 </TEI>
+
