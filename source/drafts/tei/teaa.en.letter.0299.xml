@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0245">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from J. W. Caulfield, March 13, 1897</title>
+<title></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+
 </respStmt>
 </titleStmt>
 
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0245</idno>
+<idno type="project"></idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from J. W. Caulfield, March 13, 1897</title>
-<title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
+<title level="a"></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
-<biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="1897-03-13">March 13, 1897</date>
+<biblScope unit="roll">T-466, Roll 1</biblScope>
+<date when="1000"></date>
 </bibl>
 </sourceDesc>
 
@@ -78,6 +78,8 @@
 <keywords scheme="original" n="places">
 <term></term>
 </keywords>
+    
+
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,12 +95,14 @@
 
 </textClass>
 
+
+
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Caulfield, J. W.</persName>
-<roleName>Administrator</roleName>
-<placeName>Washington, D. C.</placeName>
-<date  when="1897-03-13"/>
+<persName></persName>
+<roleName></roleName>
+<placeName></placeName>
+<date when="1000"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
@@ -110,38 +114,31 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#lkw"> encoded</change>
-<change when="2019-09" who="#unm"> transcribed</change>
+<change when="1000" who="#INITIALS"></change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+    
+Circular,
+
+Meprins be communicates sont.
+preview que par sits d'une reduction aperes
+sun la Somme que la Colonie recevait de la MeTrop
+pour ses dipendes locales, is seront soumies a 
+partier at jauvier prochain au paiement 
+dont le tanif dort etre etable aux differ suivant
+
+Savior 
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="20170616_150944"/>
+<pb facs="x"/>
 
-<gap/>
+<p></p>
 
-<ab>Washington,<lb/>
-March 13, 1897.</ab>
-
-<p>(2) I am to assure your Government that Her Magesty's 
-Government take equally with the United States Government a special
-interest in the independence of Liberia, and would share the 
-concern of that Government should any prospect of the absorption of 
-Liberia by a foreign power develop in the future. </p>
-
-<closer><salute>I have the honor to be,<lb/>
-Your obedient servant,</salute>
-<signed>J.W. Caulfield.<lb/>
-Administrator.</signed></closer>
-
-
-
-   
 </div1>
 
 </body>
