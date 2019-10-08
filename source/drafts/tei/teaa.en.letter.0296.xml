@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0251">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0296">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from L de R du Verge to State Department, May 1, 1883</title>
+<title>Dispatch from William H. Thomas, March 20, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0251</idno>
+<idno type="project">teaa.en.letter.0296</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -44,8 +44,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from L de R du Verge to State Department</title>
-<date when="1883-05-01">May 1, 1883</date>
+<title level="a">Dispatch from William H. Thomas</title>
+<date when="1878-10-18">October 18, 1878</date>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">1</biblScope>
@@ -72,12 +72,14 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>du Verge, L. de R.</term>
+<term>Andra de Casso, Joãs</term>
+<term>Fonseca, Jose Augusto</term>
+<term>Marchins, Domingos Leck</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>St. Paul de Loanda (Angola)</term>
-<term>Southwest Coast Africa</term>
+<term>Brazil</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -96,12 +98,13 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="http://viaf.org/viaf/55609738">du Verge, L de R, 1815-1864</persName>
-<placeName>St. Paul de Loanda (Angola)</placeName>
-<date when="1883-05-01"/>
+<persName ref="http://viaf.org/viaf/55609738">Joãs Andra de Casso</persName>
+<roleName>Secretariat of Ministry of Foreign Affairs</roleName>
+<placeName/>
+<date when="1878-10-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
+<persName>Benjamin Moran</persName>
 <roleName/>
 <placeName/>
 </correspAction>
@@ -111,7 +114,7 @@
 
 <revisionDesc>
 <change when="2019-06" who="sab">transcribed.</change>
-<change when="2019-09" who="sab">encoded.</change>
+<change when="2019-10" who="sab">encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -119,29 +122,41 @@
 
 <body>
 
-<pb facs="teaa.en.letter.0251.001"/>
+<pb facs="teaa.en.letter.0296"/>
 
 <div1 type="document" xml:lang="en">
 
-<note>No 40</note>
-<note>Department of State Received May 1 1883</note>
+<pb facs="Scan10043"/>
 
-<p>United States Consulate<lb/>
-St Paul de Loanda<lb/>
-S.W. Coast Africa</p>
+<p>Translation</p>
 
-<p>L. de R. du Verge<lb/>
-to State Department<lb/>
-Washington D.C.</p>
+<p>Ministry of Foreign Affairs.</p>
 
-<p>Subject</p>
+<p>The authority of the island of Principe
+ask what destination shall be given to the
+objects mentioned int he accompanying report
+which were recently found among the effects
+of Jose Augusto Fonseca, deceased belonging
+to Domingos <unclear>Leck</unclear> Marchins who then filled
+the Offices of Vice Consul of the United States
+and of Brazil, of whom no news has been
+received since he left that island some years 
+since. also to whom to deliver <unclear extent="two words"/> the
+said Marchins possesses in that island.</p>
 
-<p>Slave trade and departure of
-Mrs. L. de R. du Verge</p>
+<p>I have to ask Your Exy to inform me
+to whom the articles mentioned in the 
+accompanying list are to be delivered, as well
+as the nationality of the above name Marchins
+in order to deliver the <unclear extent="one word"/> refund to.</p>
 
-<p>Encloses</p>
+<p>Secretariat of Ministry of Foreign Affairs<lb/>
+18 Octr 1878</p>
 
-<p>Statement of the same</p>
+<p>signed Joãs de <unclear>Andra de Casso</unclear></p>
+
+<p>Mr Benjamin Moran<lb/>
+&amp;a &amp;a &amp;a</p>
 
 </div1>
 
