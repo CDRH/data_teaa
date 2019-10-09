@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0299">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Anonymous Dispatch, September 21, 1866</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0299</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Anonymous Dispatch</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1866-09-21"></date>
 </bibl>
 </sourceDesc>
 
@@ -76,7 +76,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Gabon</term>
 </keywords>
     
 
@@ -102,7 +102,7 @@
 <persName></persName>
 <roleName></roleName>
 <placeName></placeName>
-<date when="1000"/>
+<date when="1866-09-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
@@ -114,30 +114,44 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019" who="sab">Translated, transcribed, encoded.</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
-    
-Circular,
 
-Meprins be communicates sont.
-preview que par sits d'une reduction aperes
-sun la Somme que la Colonie recevait de la MeTrop
-pour ses dipendes locales, is seront soumies a 
-partier at jauvier prochain au paiement 
-dont le tanif dort etre etable aux differ suivant
+<div1 xml:lang="fr" type="document">
 
-Savior 
+<pb facs="teaa.en.letter.0299.001"/>
 
-<div1 xml:lang="en" type="document">
+<p>Circula.</p>
 
-<pb facs="x"/>
+<p>Messieurs les commençants sont prévenus que par suite d'une réduction opive sur la somme que la Colonie recevait de la M <unclear></unclear> pour ses défendues locales, ils seront soumis a foartir du ton faurier prochain au Joaiement de droits annuels de patenle et de licence, dont le tarif doit être établi aux cliftres suivants.</p>
 
-<p></p>
+<p>Savoir:</p>
+<p>Paternte de Me guciant _ _ 800 F a de Marchand détaillant   400 </p>
+<p>Licence de Cabaretier et de tous autres vendant, au détail, des boissons dans leur établissements, 600</p>
+
+<p>Me arrête qui interviendra ultérieurement déterminera les conditions de clapment de Commerclants dans ces 3 catégories.</p>
+<p>Gabon, le 21 septembre 1866</p>
+
+</div1>
+
+<div1 xml:lang="en" type="translation">
+
+<p>Circulate.</p>
+
+<p>Gentlemen the storekeepers warned that as a result of a reduction <unclear></unclear> on the total that the Colony received some <unclear></unclear> for their local defended, they will be subdued a <unclear></unclear>of your <unclear></unclear> next at the <unclear></unclear> of cancelled rights <unclear></unclear> and the license, which the tariff must be established in the following <unclear></unclear></p>
+
+<p>Know:</p>
+<p><unclear></unclear> _ _ 800 F to a merchant detailed 400</p>
+<p>Cabaretier Licence and all the other venders, in detail, the drinks in their establishments, 600</p>
+
+<p>My stop that will intervene later on to determine the conditions of <unclear></unclear> from Commerlants in these 3 categories.</p>
+<p>Gabon, the 21st September 1866.</p>
+
 
 </div1>
 
