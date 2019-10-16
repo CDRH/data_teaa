@@ -61,7 +61,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -73,13 +73,16 @@
 </keywords>   
 
 <keywords scheme="viaf" n="people">
-<term>Balfour, Arthur James, 1848-1930</term>
-<term>Bourne, Cardinal, 1861-1935</term>
-<term>Curzon of Kedleston, George Nathaniel Curzon, Marquess, 1859-1925</term>
-<term>Oldham, J. H. (Joseph Houldsworth), 1874-1969)</term>
+<term ref="http://viaf.org/viaf/39370745">Bourne, Cardinal, 1861-1935</term>
+<term ref="http://viaf.org/viaf/27094651">Curzon of Kedleston, George Nathaniel Curzon, Marquess, 1859-1925</term>
 </keywords>
 
 <keywords scheme="original" n="places">
+<term>Berlin (Germany)</term>
+<term>London (England)</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
 <term>Africa</term>
 <term>Berlin (Germany)</term>
 <term>Great Britain</term>
@@ -94,7 +97,7 @@
 </keywords>
 
 <keywords scheme="original" n="language">
-<term>English</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="religion">
@@ -103,6 +106,20 @@
 </keywords>
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref=" http://viaf.org/viaf/8182769">Oldham, J. H. (Joseph Houldsworth), 1874-1969</persName>
+<placeName>London (England)</placeName>
+<date when="1898-05-07"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/29574721">Balfour, Arthur James, 1848-1930</persName>
+<roleName>British Secretary of State for Foreign Affairs</roleName>
+<placeName>London (England)</placeName>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
