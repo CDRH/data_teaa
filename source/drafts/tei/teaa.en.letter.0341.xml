@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0235">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
 
 <teiHeader>
 <fileDesc>
@@ -10,8 +10,8 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+
 </respStmt>
 </titleStmt>
 
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0235</idno>
+<idno type="project"></idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,9 +43,9 @@
 <sourceDesc>
 <bibl>
 <title level="a"></title>
-<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
-<biblScope unit="roll">T-438, Roll 1</biblScope>
+<biblScope unit="roll">T-466, Roll 1</biblScope>
 <date when="1000"></date>
 </bibl>
 </sourceDesc>
@@ -114,8 +114,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#lkw"> Encoding</change>
-<change when="2019-09" who="#csls"> Transcription</change>
+<change when="1000" who="#INITIALS"></change>
 </revisionDesc>
 </teiHeader>
 
@@ -123,33 +122,55 @@
 
 <body>
 
+Hon. John Davis 
+Assistant Secretary of State 
+
+Sir,
+your communication 
+to S. received. The enclosed draft
+correct. I hasten to comply 
+with your instructions and 
+enclose the voucher for 
+miscellaneous expenses at the Agency.
+
+My health and that of Mrs.
+Compbell is very much improved 
+by our sojouen in this recently and 
+we are looking forward to our 
+return in a few months to out 
+station in Africa. Before going 
+however I wish to place before 
+you the political aspect there 
+as it appears to us and received 
+as definite instructions as the 
+case may demand the aggressiveness 
+of the French Govt.to 
+in that part of the world where 
+there is no power to resist and 
+no one to speak for that poor 
+degraded people is something very 
+much to be deflored. Before 
+
+having I will also ask the Department
+for flag staff flag stationery and 
+blank forms.
+
+I am Sir,
+Your obedient Servant 
+Hraham C. Campbell
+
+
+
+
 <div1 xml:lang="en" type="document">
 
-<pb facs="25"/>
-<opener>Col. Medl Dept<lb/>
-Sierra Leone 7th Oct 1854
+<pb facs="x"/>
 
-Sir,</opener>
-<p>I have the honor to inform you that the Americn seaman William Taylor is now convalescent and fit to be discharged. </p>
+<p></p>
 
-<closer><salute>I have the honor to be<lb/>
-Sir<lb/>
-Your most Obedt Servt</salute>
-<signed>(sl) Robt Bradshaw
-S.A.S
-Actg. Col. Surgeon</signed>
-<address>
-<addrLine>J.E.Taylor Esqre</addrLine>
-<addrLine>United States Consul</addrLine>
-<addrLine>&amp;c.&amp;c.&amp;c.</addrLine>
-<addrLine>Sierra Leone</addrLine></address>
-</closer>
 </div1>
 
 </body>
 </text>
 
 </TEI>
-
-
-
