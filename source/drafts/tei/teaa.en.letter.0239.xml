@@ -1,4 +1,131 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"></idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1000"></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+</keywords>
+    
+
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName></persName>
+<roleName></roleName>
+<placeName></placeName>
+<date when="1000"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName></persName>
+<roleName></roleName>
+<placeName></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-10" who="#lkw"> Encoding</change>
+<change when="2019-09" who="#csls"> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="x"/>
 
 Washington Feby 9th 1859
 
@@ -18,3 +145,12 @@ Hon John Appleton
 Assistant Secretary of State
 Washington
 D.C.
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
+
+
