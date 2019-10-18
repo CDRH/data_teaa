@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0352">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0353">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from Seth A. Pratt to William F. Wharton, March 1, 1890</title>
+<title>Letter from Seth A. Pratt to William F. Wharton, April 4, 1890</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0352</idno>
+<idno type="project">teaa.en.letter.0353</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,7 +43,7 @@
 <sourceDesc>
 <bibl>
 <title level="a">Letter from Seth A. Pratt to William F. Wharton</title>
-<date when="1890-03-01">March 1, 1890</date>
+<date when="1890-04-04">April 4, 1890</date>
 <title level="m" type="microformat">Despatches from United States Consuls in Zanzibar, Br. Africa, 1836-1906</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="date">July 1, 1886-November 15, 1895</biblScope>
@@ -73,21 +73,16 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>bin Saiid, Seyed Ali </term>
-<term>Khalifah bin Said of Zanzibar</term>
+<term>Wilson, Benjamin F.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Zanzibar</term>
+<term>Johanna</term>
+<term>Mayotte</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
-<term>Austria</term>
-<term>France</term>
-<term>Germany</term>
-<term>Great Britain</term>
-<term>Italy</term>
-<term>United States</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -109,20 +104,19 @@
 <persName>Pratt, Seth A.</persName>
 <roleName>U.S. Consul for Zanzibar</roleName>
 <placeName>Zanzibar</placeName>
-<date when="1890-03-01"/>
+<date when="1890-04-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1890-04-07"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10-17" who="#kln">separating despatches, additional encoding</change>
+<change when="2019-10-18" who="#kln">separating despatches, additional encoding</change>
 <change when="2018" who="pr">Transcription and initial encoding</change>
 </revisionDesc>
 </teiHeader>
@@ -133,123 +127,59 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="152358"/>
+<pb facs="152523"/>
 
-<note>Department of State Received Apr 7 1890</note>
-
-<note>No. 135.</note>
+<note>No. 140.</note>
 
 <p>Consulate of the United States<lb/>
-Zanzibar March 1 1890</p>
-
-<p>Mr Pratt<lb/>
-To the Dept. of State.</p>
-
-<p>Subject:</p>
-
-<p>Accession of Seyed Ali bin
-Saiid to the throne of Zanzibar</p>
-
-<p>Abstract of Contents</p>
-
-<pb facs="152416"/>
-
-<note>No. 135</note>
-
-<p>Consulate of the United States<lb/>
-Zanzibar March 1 1890</p>
+Zanzibar, April 4 1890.</p>
 
 <p>Honorable William F Wharton<lb/>
 Assistant Secretary of State<lb/>
-Washington D.C.</p>
+Washington, D.C.</p>
 
 <p>Sir:</p>
 
-<p>I have the honor to inform
-the Department that His
-Majesty Seyed Ali bin Saiid
-was proclaimed Sultan of
-Zanzibar on the 17th ultimo.</p>
+<p>I have the honor to acknowledge 
+receipt of your
+despatches numbers 64 and 65.
+dated respectively the 1st and
+14th February 1890 which
+have my attention.</p>
 
-<p>As <unclear>8</unclear> A.M. the Sultan's flag
-was raised and was
-saluted by the Foreign
-Ships of War in harbor:
-at the same time the Consular 
-flags which had been
-half-masted for three days
-out of respect to the late
-Sultan were replaced by
-the large national Ensigns.</p>
+<p>With reference to your
+despatch number 62 of the
+10th January - I would
+say that Dr. B. F. Wilson
+strongly object to the designation 
+of the Governor of
+Mayotte as arbitrator in
+his claim against the King
+of Johanna. I may say
+in passing that I concur
+with Dr. Wilson in his decision
+in that the Governor of Mayotte
+<catchwords>has</catchwords>
 
-<p>From 9 till 11 A.M.
-His Majesty received the
-different delegations in 
-<catchwords>the</catchwords>
+<pb facs="152530"/>
 
-<pb facs="152422"/>
+has an indirect interest in
+the outcome of the case.</p>
 
-in the following order, viz:
-English, American, French,
-German, Portuguese, Italian
-and Austrian, each delegation 
-being honored by a 
-consular salute from
-H.M.S. "Glasgow".</p>
+<p>Enclosed herein is
+a copy (in duplicate) of
+Consular Corrections at <unclear extent="one word"/>
+for the month of March.</p>
 
-<p>On the occasion of our
-visit His Majesty expressed
-the hope that the pleasant
-relations heretofore existing
-between the two countries
-might continue and declared 
-that, to this end,
-he should be governed by
-the precedents established
-by the former Sultans of
-Zanzibar. His Majesty
-also informed me that he was
-about sending to the President
-of the United States, a cable
-message - a copy of which
-is enclosed.</p>
-
-<p>I have the honor to be, Sir,<lb/>
+<p>I have the honor to be<lb/>
+Sir<lb/>
 Your obedient servant<lb/>
-Seth A. Pratt<lb/>
-U.S. Consul</p>
+Seth A. Pratt
+U.S. Consul.</p>
 
-<p>Enclosure:<lb/>
-Copy of message</p>
+<p>Enclosure:</p>
 
-<pb facs="152428"/>
-
-<note>Copy</note>
-
-<p>His Excellency the President
-of the United States<lb/>
-Washington</p>
-
-<p>I have to inform your
-Excellency that by the Will
-of God my brother Seyyid
-Khalifa has died and I
-have succeeded him as
-Sultan of Zanzibar.</p>
-
-<p>It will be my most
-earnest endeavor to continue 
-and increase the
-friendship which has so
-long existed between Zanzibar 
-and the United States
-and I confidently rely
-upon Your Excellency's support 
-and assistance to
-this end.</p>
-
-<p>(Signed)<lb/>
-Ali bin Said</p>
+<p>Form No. 100.</p>
 
 </div1>
 

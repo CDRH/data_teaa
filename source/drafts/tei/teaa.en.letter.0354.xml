@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0352">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0354">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from Seth A. Pratt to William F. Wharton, March 1, 1890</title>
+<title>Letter from Seth A. Pratt to William F. Wharton, June 23, 1890</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0352</idno>
+<idno type="project">teaa.en.letter.0354</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,7 +43,7 @@
 <sourceDesc>
 <bibl>
 <title level="a">Letter from Seth A. Pratt to William F. Wharton</title>
-<date when="1890-03-01">March 1, 1890</date>
+<date when="1890-06-23">June 23, 1890</date>
 <title level="m" type="microformat">Despatches from United States Consuls in Zanzibar, Br. Africa, 1836-1906</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="date">July 1, 1886-November 15, 1895</biblScope>
@@ -61,7 +61,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Encounters with Africans</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -73,18 +74,16 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>bin Saiid, Seyed Ali </term>
-<term>Khalifah bin Said of Zanzibar</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="places">
+<term>Brava Coast (Zanzibar)</term>
+<term>Muka</term>
 <term>Zanzibar</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
-<term>Austria</term>
-<term>France</term>
-<term>Germany</term>
 <term>Great Britain</term>
 <term>Italy</term>
 <term>United States</term>
@@ -109,20 +108,19 @@
 <persName>Pratt, Seth A.</persName>
 <roleName>U.S. Consul for Zanzibar</roleName>
 <placeName>Zanzibar</placeName>
-<date when="1890-03-01"/>
+<date when="1890-06-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1890-04-07"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10-17" who="#kln">separating despatches, additional encoding</change>
+<change when="2019-10-18" who="#kln">separating despatches, additional encoding</change>
 <change when="2018" who="pr">Transcription and initial encoding</change>
 </revisionDesc>
 </teiHeader>
@@ -133,123 +131,144 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="152358"/>
+<pb facs="152919"/>
 
-<note>Department of State Received Apr 7 1890</note>
-
-<note>No. 135.</note>
+<note>No 146.</note>
 
 <p>Consulate of the United States<lb/>
-Zanzibar March 1 1890</p>
+Zanzibar June 23 1890</p>
 
-<p>Mr Pratt<lb/>
-To the Dept. of State.</p>
-
-<p>Subject:</p>
-
-<p>Accession of Seyed Ali bin
-Saiid to the throne of Zanzibar</p>
-
-<p>Abstract of Contents</p>
-
-<pb facs="152416"/>
-
-<note>No. 135</note>
-
-<p>Consulate of the United States<lb/>
-Zanzibar March 1 1890</p>
-
-<p>Honorable William F Wharton<lb/>
+<p>Honorable William F. Wharton<lb/>
 Assistant Secretary of State<lb/>
 Washington D.C.</p>
 
 <p>Sir:</p>
 
-<p>I have the honor to inform
-the Department that His
-Majesty Seyed Ali bin Saiid
-was proclaimed Sultan of
-Zanzibar on the 17th ultimo.</p>
+<p>I have the honor to address 
+the Department at this
+time in relation to affairs
+on the Brava Coast.
+On the 7th instant I cabled
+as follows viz:</p>
 
-<p>As <unclear>8</unclear> A.M. the Sultan's flag
-was raised and was
-saluted by the Foreign
-Ships of War in harbor:
-at the same time the Consular 
-flags which had been
-half-masted for three days
-out of respect to the late
-Sultan were replaced by
-the large national Ensigns.</p>
+<p>"State Department<lb/>
+Washington.<lb/>
+Brava Coast unsettled
+American interests jeopardized<lb/>
+Pratt"</p>
 
-<p>From 9 till 11 A.M.
-His Majesty received the
-different delegations in 
-<catchwords>the</catchwords>
+<p>By letters received on
+that date we learned of an
+uprising of the natives at
+Muka and that they had
+looted the town - securing
+some 150 <unclear extent="one word"/> the American
+house of Roper <unclear extent="one word"/> &amp; Co.
+<catchwords>and</catchwords>
 
-<pb facs="152422"/>
+<pb facs="152924"/>
 
-in the following order, viz:
-English, American, French,
-German, Portuguese, Italian
-and Austrian, each delegation 
-being honored by a 
-consular salute from
-H.M.S. "Glasgow".</p>
+and upwards of 5000
+from British Indian merchants.</p>
 
-<p>On the occasion of our
-visit His Majesty expressed
-the hope that the pleasant
-relations heretofore existing
-between the two countries
-might continue and declared 
-that, to this end,
-he should be governed by
-the precedents established
-by the former Sultans of
-Zanzibar. His Majesty
-also informed me that he was
-about sending to the President
-of the United States, a cable
-message - a copy of which
-is enclosed.</p>
+<p>Messrs Roper <unclear extent="one word"/> &amp; Co.
+who have large interests
+at stake in that vicinity
+immediately consulted with
+me and it was at their
+earnest solicitation that
+I cabled the Department.
+It being understood
+that my cablegram would
+supplement my statement
+made to the Department by
+representatives of R.E. &amp; Co.
+who would visit Washington 
+for that purpose.</p>
 
-<p>I have the honor to be, Sir,<lb/>
+<p>The primary cause of
+the disturbance is the concession 
+of the Coast to the
+Imperial British East
+Africa Company and through
+them to the Italians.
+<catchwords>Having</catchwords>
+
+<pb facs="152928"/>
+
+Having spent some
+months on the Brava Coast
+and having acquainted
+myself with the habits and
+disposition of the natives
+of that country. I am certain 
+that any move in
+the direction of European
+interference will result in
+complete demoralization.</p>
+
+<p>The Italians disclaim
+any present intention of
+placing Europeans in that
+district, and propose to
+administer affairs from
+Zanzibar.</p>
+
+<p>During a recent
+interview with the Sultan
+I expressed the hope that
+he would discourage the
+visits of Foreign ships of
+war to that coast and
+suggested that His Majesty 
+send one of his own
+ships with a commissioner
+empowered
+
+<pb facs="152934"/>
+
+empowered to <unclear extent="one word"/> with
+the <unclear>natives</unclear>. His Majesty
+<unclear>proceeded</unclear> to do so <unclear extent="one word"/>
+that such a <unclear>course</unclear>
+will be <unclear extent="one word"/> for
+some <unclear extent="two words"/> to the
+difficulty in making a
+landing at this season.</p>
+
+<p>By the granting of
+the concession to the Imperial
+British East African Company
+the estate states of affairs
+has been altered. Yet
+I trust that the Department
+may see its way clear
+to call a halt in the direction
+of European occupation
+of this coast since otherwise
+the Americans engaged
+in that trade will suffer
+a great loss, and perhaps
+be compelled to retire
+altogether from this hitherto
+profitable field of
+operations.</p>
+
+<p><catchwords>I</catchwords>
+
+<pb facs="152938"/>
+
+I await the sanction
+of the Department before
+sending in accounts for
+cost of cablegram before
+<unclear extent="one word"/>.</p>
+
+<p>I have the honor to be<lb/>
+Sir<lb/>
 Your obedient servant<lb/>
 Seth A. Pratt<lb/>
 U.S. Consul</p>
-
-<p>Enclosure:<lb/>
-Copy of message</p>
-
-<pb facs="152428"/>
-
-<note>Copy</note>
-
-<p>His Excellency the President
-of the United States<lb/>
-Washington</p>
-
-<p>I have to inform your
-Excellency that by the Will
-of God my brother Seyyid
-Khalifa has died and I
-have succeeded him as
-Sultan of Zanzibar.</p>
-
-<p>It will be my most
-earnest endeavor to continue 
-and increase the
-friendship which has so
-long existed between Zanzibar 
-and the United States
-and I confidently rely
-upon Your Excellency's support 
-and assistance to
-this end.</p>
-
-<p>(Signed)<lb/>
-Ali bin Said</p>
 
 </div1>
 
