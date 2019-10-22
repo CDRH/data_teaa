@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Rev. B. F. Wheeler, A.M., D.D., "The Ethnology of Madagascar"</title>
+<title>B. F. Wheeler, "The Ethnology of Madagascar" (1895)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
@@ -44,10 +45,11 @@
 <title level="a" type="main">The Ethnology of Madagascar</title>
 <author n="Wheeler, B. F.">Rev. B. F. Wheeler, A.M., D.D.</author>
 <title level="j">The A.M.E. Zion Quarterly Review</title>
-<biblScope unit="volume"><!-- VOLUME NUMBER --></biblScope>
-<biblScope unit="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="yyyy-mm"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope unit="volume">3</biblScope>
+<biblScope unit="issue">2</biblScope>
+<date when="1895">1895</date>
 <biblScope unit="page">139-149</biblScope>
+<note>This citation is an estimate.</note>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -71,13 +73,16 @@
 </keywords>     
     
 <keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/1128020">Drury, Robert, 1687-1734?</term>
+<term ref="http://viaf.org/viaf/173430120">Polo, Marco, 1254?-1323?</term>
+<term>Wheeler, B. F.</term>
+
 <term>Columbus</term>
 <term>Dahle</term>
 <term>Douglass</term>
 <term>Drury, Robert</term>
 <term>Hildebrandt</term>
 <term>Keolle</term>
-<term>Polo, Marco</term>
 <term>Sclater</term>
 <term>Shaw, Geo A.</term>
 <term>Stanley</term>
@@ -86,42 +91,36 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Achaia</term>
 <term>Ankasatia Mountains</term>
+<term>Borneo</term>
+<term>Madagascar</term>
+<term>Mauritius</term>
+
+
+<term>Achaia</term>
 <term>Aukova district</term>
 <term>Australia</term>
-<term>Borneo</term>
-<term>Connecticut</term>
-<term>England</term>
 <term>Indian Ocean</term>
-<term>Ireland</term>
 <term>London</term>
-<term>Madagascar</term>
-<term>Massachusettes</term>
-<term>Mauritius</term>
-<term>New Hampshire</term>
-<term>New York</term>
 <term>Orgollio</term>
 <term>Peloponnesus</term>
-<term>Rhode Island</term>
-<term>Scotland</term>
 <term>Tamatave</term>
 <term>Tananarivo</term>
 <term>United States</term>
-<term>Wales</term>
 </keywords>
-
     
 <keywords scheme="original" n="ethnic_group">
-<term>Betsileo</term>
+<term>African</term>
 <term>Caucasian</term>
+<term>Malayan</term>
+
+<term>Betsileo</term>
 <term>Creole</term>
 <term>English</term>
 <term>French</term>
 <term>German</term>
 <term>Hottentot</term>
 <term>Hova</term>
-<term>Malayan</term>
 <term>Portuguese</term>
 <term>Sakalava</term>
 <term>Siamese</term>
@@ -143,7 +142,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-04-03" who="pr">Transcribed and encoded.</change>
+<change when="2019-10-22" who="#kln">Reviewed and edited.</change>
+<change when="2019-04-03" who="#pr">Transcribed and encoded.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -153,29 +153,33 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="PAGENUMBER" facs="PDFNAME"/>
+<pb xml:id="p139"/>
 
 <div2 type="titles">
 
-<p>The Ethonology of Madagascar
-By Rev. B. F. Wheeler, A.M., D.D.
-Read Before the New York Ministers Meeting</p>
+<p>The Ethnology of Madagascar</p>
+
+<p>By Rev. B. F. Wheeler, A. M., D. D.</p>
 
 </div2>
 
 <div2 type="article">
 
+<p>Read Before the New York Ministers Meeting</p>
+
 <p>Madagascar, as all are aware, lies off the south-east coast of 
 the continent of Africa. To be a little more definite or explicit, 
-we may say that by exact measurement it lies between 12* and
-25* south latitude, and 42* and 51* east longitude.</p>
+we may say that by exact measurement it lies between 12° and
+25° south latitude, and 42° and 51° east longitude.</p>
+
 <p>With the exception of Borneo, Madagascar is the largest 
-island in the worl. It is about 970 miles long and between
-300 and 400 miles wide. To get a better idea of its size, it con-
-tains an area of 200,000 square miles, which would make it as
+island in the world. It is about 970 miles long and between
+300 and 400 miles wide. To get a better idea of its size, it contains 
+an area of 200,000 square miles, which would make it as
 large as England, Ireland, Scotland, Wales, and the States of
-New York, New Hampshire, Massachusettes, Connecticut and
+New York, New Hampshire, <sic>Massachusettes</sic>, Connecticut and
 Rhode Island combined.</p>
+
 <p>The land is low along the coast, and this low, marshy land
 extends, inwardly for 30 or 40 miles. In the interior there is a
 broad table land. A range of mountains rises from this table
@@ -186,6 +190,7 @@ is such as to make it possible for Madagascar even to be proven
 to be a continent, as Australia has been shown to be. Some of
 the mountain peaks rise 8000 and 12000 feet above the level of
 the sea.</p>
+
 <p>There are abundant beautiful lakes and rivers throughout
 the island, but unfortunately none of the rivers are navigable.
 Undergrowth and shrubbery all over the island make traveling
@@ -195,32 +200,38 @@ and undergrowth furnish a good natural defense they claim, and
 make it impossible for an invading army ever to reach Tanana-
 rivo the capital of the island. Some of the largest forests in the
 world abound in this island.</p>
+
+<pb xml:id="p140"/>
+
 <p>Tropical fruits of all kinds are found in abundance there;
-some of these, however, are not indigenous, but have been intro-
-duced by travellers or naturalists. The orange, for example, now
+some of these, however, are not indigenous, but have been introduced 
+by travellers or naturalists. The orange, for example, now
 grows in abundance, but it has been introduced by travelers.</p>
+
 <p>Like most tropical countries there are only two seasons in
-Madagascar, the wet and the dry,- the former lasting from April 
+Madagascar, the wet and the dry,&#8212;the former lasting from April 
 to November and the latter from December to March. Two
 crops may be raised during the year, the one gathered in June,
-the other in December. As might be expected, rice, sweet-pota-
-toes, coffee and sugar cane are the principal products, and of
+the other in December. As might be expected, rice, sweet-potatoes, 
+coffee and sugar cane are the principal products, and of
 these great quantities are raised annually. The island is full of
 wild cattle. In fact Mauritius and all the neighboring islands
 are supplied with beef from Madagascar. But let this suffice for
-a brief description of the island is general and let us now con-
-sider more particularly the more important subject, namely:-</p>
-<p>The People of Madagascar<!--This to the left is in italics-->.- The People of Madagascar
+a brief description of the island is general and let us now consider 
+more particularly the more important subject, namely:&#8212;</p>
+
+<p><hi rend="italics">The People of Madagascar.</hi>&#8212;The People of Madagascar
 have received special attention at the hands of ethnologists and
 naturalists for a great many years. The great question which
 puzzled these learned men most was to prove the race identity
 of these people. Had they gone at the matter in the right way,
 seeking truth and being governed by the light of that truth, I
-suspect they would have had a comparatively easy time in set-
-tling the question. But because they have gone at it with con-
-victions or prejudices of their own, by which they were deter-
-mined to stand, they have had a rather hard time in settling the
+suspect they would have had a comparatively easy time in settling 
+the question. But because they have gone at it with convictions
+or prejudices of their own, by which they were determined 
+to stand, they have had a rather hard time in settling the
 race identity of the people of this large island.</p>
+
 <p>When the island was first made known to Europe by Marco
 Polo in the 13th century, and as late as the latter part of the
 17th and beginning of the 18th century, about 200 years ago,
@@ -229,15 +240,19 @@ cannibals that he was afraid that they would leap upon him and
 eat him alive, it was pretty generally conceded that they were
 Africans. In fact Madagascar was only thought of as an African
 island and its inhabitants Africans. But during the present
-century, and especially during the last forty years, when the peo-
-ple have made such marvellous strides towards civilization, the
+century, and especially during the last forty years, when the people 
+have made such marvellous strides towards civilization, the
 Caucasian historian, ever true to his prejudice, has striven to
+
+<pb xml:id="p141"/>
+
 prove that the inhabitants of Madagascar are of Malayan origin,
-at least, that they were not of African descent. And it is aston-
-ishing to the calm, unbiased thinker, to notice some of the
-strange and far=fetched arguments some of these ethnologists and
+at least, that they were not of African descent. And it is astonishing 
+to the calm, unbiased thinker, to notice some of the
+strange and far-fetched arguments some of these ethnologists and
 historians have employed to substantiate their theories.</p>
-<p>We lay down the broad statement that the aborigines of
+
+<p>We lay down the broad statement that the aborigines of<!-- START HERE -->
 Madagascar are Africans, or of African descent. We believe
 that a careful study of the subject, on the part of any who have
 not a bias or penchant toward race prejudice, will enable them to
@@ -259,6 +274,7 @@ be demanded, no justice is asked for by the press, Thank God
 here and there a noble exception to this rule is found. And we
 take pleasure in mentioning foremost among the noble excep-
 tions,- The New York Independent. <!--this is in italics--></p>
+
 <p>There are in round numbers 5,000,000 souls inhabiting this
 island. They are short of stature, have beautiful white teeth,
 black eyes and range in complexion from a dark olive color to
@@ -277,6 +293,7 @@ the face of the earth. They call themselves Malagasy. Just
 how the name Madagascar originated is not easy to tell. But as
 far back as the 13th century, Marco Polo, in reporting the dis-
 covery of the island in Europe said that it was called Magaster.</p>
+
 <p>Like all heathens, in the early part of their history before
 they became christianized, they worshipped all kinds of idols,
 and were superstitious. They marry at the early age of from 12
@@ -289,12 +306,14 @@ exports to the United States alone amounted to $806,555, while the
 imports from this country to that island amount to $823,856.
 The government is an absolute monarchy and they count back to
 37 monarchs who have sat on the throne.</p>
+
 <p>Now, as we have siad, when it was discovered that these
 people were making such wonderful strides in the arts and
 sciences, and all that goes to make up a very high state of
 Christian civilization, historians and ethnologists set about to
 prove that they must be descendants of some other race, rather
 than the African race.</p>
+
 <p>I. And the first argument advanced was that aborigines
 were Malayans. This view was especially advocated by Dr.
 Sclater an eminent naturalist and ethnologist, and to prove this
@@ -309,6 +328,7 @@ sular once extended from where it is now is to Madagascar, it
 would be pretty conclusive that the aboriginess were Malayan-
 except that we would not know how to account for the woolly
 hair of the majority of them.</p>
+
 <p>But let us examine this theory more carefully.
 1. In the first place, there is no evidence anywhere that
 there was ever a continent where the Indian Ocean now is.
@@ -320,6 +340,7 @@ fact, in some parts of this ocean it is so deep that soundings can-
 not be made at all. This theory then of a submerged continent
 or continental extension is purely speculation, to use the mildest
 term in describing it.</p>
+
 <p>II. Another argument advanced to show that they were of
 Malay descent was that the trade winds and currents would be 
 favorable to the Malays. This is the view of Mr. G. A. Shaw,
@@ -335,6 +356,7 @@ the high lands of the interior where the capital Tananarivo
 now is, and established themselves as the rulers of the island.
 This is the account of the Hovas, now settled in the Aukova
 district.</p>
+
 <p>1. But against this theory it may be said it is difficult to
 conceive of persons at that remote date, long before Columbus
 came to America, with small craft, scarcely larger than our
@@ -345,6 +367,7 @@ with their families, to be drifted between two and three thousand
 miles, especially when it is remembered that waterspouts, sea
 squalls and the like are of such frequent occurrence at all times
 in the Indian Ocean.</p>
+
 <p>2. But even if this could be proven it would only account 
 for the Hova, or one of the twenty tribes of the island which Mr.
 Shaw claims to be different from the rest.</p>
@@ -357,6 +380,7 @@ were Malays, but it is difficult to see how it can be proven that
 the aborigines were Malays, when it is admitted that when the
 first Malays came they found these Vazimba already autochtho-
 nores to the soil.</p>
+
 <p>We doubt very much whether any Malays ever reached the
 island in its early history, especially in the way they are said to
 have come. But, granted that a few did come in that way, they
@@ -364,50 +388,63 @@ could never become any more than one of the twenty other tribes. <!--the word on
 <p>III. Another argument used to show that the aborigines
 are not of African descent, is the fact that some of the words in
 their language are Polynesian.</p>
+
 <p>1. But while it will be admitted as the most natural thing
 that some of the words of the Malagasy are Polynesian, the
 Island lying within the great sweep of the Polynesian language,
 some of the words would naturally be incorporated into to
 Malagasy language, but we shall show presently that the Poly-
 nesian language finds but little place in the Malagasy language.</p>
+
 <p>IV. Effort was made by Mr. Straniland Wake, in 1880,
 to prove that the Malagasy were of Siamese descent.</p>
+
 <p>1. But we will not stop to consider that theory, since there
 is scarcely anything in common between the Siamese and the
 Malagasy.</p>
+
 <p>Now, instead of going so far out of the wya to prove that
 the Malagasy are not of African descent, how much easier to
 accept the plain and natural view, that the aborigines of the
 Island are of African descent. Reason and common sense are
 certainly in favor of this view.</p>
+
 <p>I. In the first place, the close proximity of Madagascar to 
 Africa is a strong argument we think in favor of this view.</p>
+
 <p>From Madagascar it is only two or three hundred miles to
 Africa, across the Mozambique channel.</p>
+
 <p>II. The position of the Island, long and narrow lying par-
 allel with Africa, shows that it is a continental Island.</p>
+
 <p>III. Besides, this channel is very shallow and dotted with
 many islands. This would show that Madagascar is but an off-
 shoot of this continent, and that, therefore, the inhabitants of the 
 Island are Africans.</p>
+
 <p>IV. But even if the Africans were not autochthonous of
 the soil of Madagascar, it would still be a very easy thing for
 them to make their way from Africa from one of the small 
 islands to another, until they had finally reached Madagascar.</p>
+
 <p>V. This is all the more possible when it is admitted by
 Mr. Geo. A. Shaw, who labors so hard to prove that the Mala-
 gasy are of Malay extraction, that although the trade winds are
 generally from East to West, yet that there are times when the
 wind is from West to East- from Africa to Madagascar.</p>
+
 <p>It is far more reasonable to think of the aborigines in this
 way making their way from Africa to Madagascar- only about
 250 miles- than to think of them drifting three thousand miles
 across a wild and tempestuous ocean.</p>
+
 <p>But Mr. Shaw argues that it is almost impossible for the
 early inhabitants of Madagascar to have come from Africa, be-
 cause the abruptness of the coast of Africa nearest Madagascar
 would prevent the Africans in those parts from ever becoming a
 maritime race.</p>
+
 <p>1. To this argument it is but necessary to say, that all 
 students of classical history know that the Greeks around the
 high mountains of Achaia, Orgollio, and other portions of the
@@ -416,14 +453,17 @@ engaged in sea faring life and made themselves, by daring and
 adventurous exploits, terrors to all mariners passing by those
 parts. And why should it be thought incredible that the Afri-
 cans on the east coast of Africa could do likewise.</p>
+
 <p>2. But even if they did not venture to go there of their
 own accord, since, as Mr. Shaw claims, it was customary for the
 Malays in those days to carry their families with them on their
 voyages, so the Africans might have had their women in their
 boats with them and been drifted<!--drifted is italicized--> across the channel to Mada-
 gascar.</p>
+
 <p>VI. But there are other arguments in favor of the aborig-
 ines of this Island being Africans.</p>
+
 <p>Dr. Hildebrandt, the great German traveller, ethnologist, nat-
 uralist, and expert in craneology, often having made many cran-
 ium and facial measurements, with the best scientific instruments,
@@ -442,6 +482,7 @@ was most marked." This is a strong argument, for Dr. Hilde-
 brandt is probably the best authority of all the ethnologists who
 have visited the island. This is important, too, because he does
 not even grant that the Hovas are any other than Africans.</p>
+
 <p>VII. Mr. Dahle, also an ethnologist of some distinction,
 gives his opinion of the early inhabitants of Madagascar as fol-
 lows: "The Vazimba may ahve been a collective name for sev-
@@ -449,13 +490,16 @@ eral East African tribes, growing gradually into disuse as these
 tribes became more separated, and from this common stock the
 original inhabitants of Madagascar, the Vizamba, were an off-
 shoot."</p>
+
 <p>VIII. Then the language of the Malagasy resembles very
 much the language of the Hottentots and other tribes inhabiting
 the central and south-eastern coasts of Africa.</p>
+
 <p>Take a few words for example, and notice how much more 
 closely the Malagasy and African resemble each other, then the
 Malagasy and the Malaysia. These words we take from Prof.
 Keolle's splendid "Polyglotta Africana:"</p>
+
 <p>English      African             Malagasy        Malaysia
 Eye             {Mazo               Maso            Mata
                 {Maso
@@ -473,15 +517,18 @@ of Lacashire from the English of London." Thus it appears
 from the language that the Hovas even are African, for they
 have no other language than the frizzle haired Sakalavas or
 Betsileos.</p>
+
 <p>IX. Again the Flora in Madagascar is almost identical
 with that of Africa. The Man-eating and one or two other
 plants which are peculiar to Madagascar, are about the only ex-
 ceptions.</p>
+
 <p>X. Then what is true of the flora is also true of the fauna.
 There are a great many animals in Madagascar, but compara-
 tively few different species. But what few species there are, are
 all, with one or two exceptions, such as are found across the Mo-
 zambique channel in Africa.</p>
+
 <p>But Rev. Mr. Geo A. Shaw makes one more argument to
 prove that the aborigines of Madagascar were Malayans. He
 resorts to certain traditions among the Hovas, to the effect that
@@ -489,6 +536,7 @@ resorts to certain traditions among the Hovas, to the effect that
 faced people called Vazimba, short of stature, which they (the
 Hovas) subdued and finally exterminated, and took possession of
 the island."</p>
+
 <p>1. There might be something in such an argument, but for
 the fact that nineteen of the twenty tribes now inhabiting the
 island have black faces. The blacks, instead of being extermi-
@@ -496,6 +544,7 @@ nated are the predominant class throughout the island, number-
 ing almost nine to one of the brighter olive colored ones.</p>
 <p>XI. Then the tribal life which prevails in East Africa is
 almost identical with that of Madagascar.</p>
+
 <p>XII. To a Negro of America it is not strange to hear of
 these Hovas trying to disconnect themselves form the rest of
 their Malagasy brethren, when we remember who have been
@@ -509,6 +558,7 @@ themselves the descendants of any race rather than the African.
 And in doing so, they do nothing more than many Negroes in
 America do when they try to pass for Spaniards, Creoles and the
 like.</p>
+
 <p>And if we were driven to it, we would account for the light
 complexion of the Hovas very much as we account for the light
 complexion of certain of the Negroes of America. Especially
@@ -516,11 +566,13 @@ when we remember that the Hovas for centuries claim to have
 resided on the east of the island, near Tamatave, the principal
 sea port town, where Frenchmen, Portuguese, and Englishmen
 have been landing for the past six centuries.</p>
+
 <p>Again it is natural for Mr. G. A. Shaw to try to prove that
 the Malagasy are other than of African descent, since he ha
 married one of the beauties of Madagascar himself. And it
 would be an unpardonable breach of race loyalty for him, a white
 man, to have married an African girl.</p>
+
 <p>Thus it appears that although in this country and almost
 every other country white men look with disdain on wooly heads
 and black faces, as being characteristics of the despised Negro
@@ -528,6 +580,7 @@ alone, yet in these far off civilizations, where Negroes have ac-
 complished such wonders, these same white men even lay claim
 to wooly hiar and black faces, in order to deprive these Negroes
 of the honor due them.</p>
+
 <p>We conclude with the remark that these noble, intelligent,
 enterprising, sable sons and daughters of Madagascar are Afri-
 cans- a part of the great race with which we Afro-Americans are
