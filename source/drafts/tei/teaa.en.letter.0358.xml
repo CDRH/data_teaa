@@ -1,29 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0358">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatches from United States Consuls in Zanzibar, British Africa 1836-1906</title>
+<title>Letter from E. D. Roper Jr. to William F. Wharton, January 11, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name><!-- last half -->
-<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2018</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
 <publicationStmt>
-<authority>To Enter Africa from America</authority>
+<authority>"To Enter Africa from America"</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
 <distributor>
 <name>Center for Digital Research in the Humanities</name>
@@ -34,29 +33,94 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILENAME--></idno>
+<idno type="project">teaa.en.letter.0358</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
-<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
 </availability>
 </publicationStmt>
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main">Despatches from United States Consuls in Zanzibar, British Africa 1836-1906</title>
+<title level="a">Letter from E. D. Roper Jr. to William F. Wharton</title>
+<date when="1891-01-11">January 11, 1891</date>
+<title level="m" type="microformat">Despatches from United States Consuls in Zanzibar, Br. Africa, 1836-1906</title>
 <publisher>United States Department of State</publisher>
-<biblScope type="vol">8 and 9</biblScope>
-<biblScope type="roll">4</biblScope>
-<date from="1886-07-01" to="1895-11-15">July 1, 1886-November 15, 1895</date>
-<note>National Archives Microfilm Publications, Microcopy No. 468, The National Archives National Archives and Records Service General Services Administration, Washington: 1969.</note>
+<biblScope unit="date">July 1, 1886-November 15, 1895</biblScope>
+<biblScope unit="film">M468</biblScope>
+<biblScope unit="roll">4</biblScope>
 </bibl>
 </sourceDesc>
+
 </fileDesc>
 
-<revisionDesc>
-<change when="2018" who="lw">Review and additional encoding</change>
-<change when="2017" who="ks">Transcription and initial encoding</change>
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Commerce and Trade</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Redwitr, Baron</term>
+<term ref="http://viaf.org/viaf/164914673">Euan-Smith, Charles, Sir, 1842-1910</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Bomba</term>
+<term>Zanzibar</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>Germany</term>
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Roper, E. D., Jr.</persName>
+<roleName>U.S. Consul for Zanzibar</roleName>
+<placeName>Zanzibar</placeName>
+<date when="1890-11-08"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-10-21" who="#kln">separating despatches, additional encoding</change>
+<change when="2018" who="pr">Transcription and initial encoding</change>
 </revisionDesc>
 </teiHeader>
 
@@ -64,7 +128,7 @@
 
 <body>
 
-
+<div1 xml:lang="en" type="document">
 
 <pb facs="155702"/>
 
@@ -340,7 +404,7 @@ against them will be severely punished</p>
 <p>I avail myself of this opportunity
 again to etc etc</p>
 
-<p>sgnd Baron <unclear>Bedwtr</unclear><lb/>
+<p>sgnd Baron <unclear>Redwitr</unclear><lb/>
 Actg Imp German Consul</p>
 
 <p>Translation of a letter from German
@@ -378,7 +442,7 @@ merchants hold now in this city
 Act'g Imp. German Consul<lb/>
 Zanzibar</fw>
 
-<pb facs="155832"/><!-- START HERE -->
+<pb facs="155832"/>
 
 a large amount of goods
 suitable only for trade with the
@@ -387,9 +451,9 @@ German Coast, which have paid
 
 <p>These goods were imported
 to Zanzibar in good faith that
-the Sultan's dominion is included
+the Sultan's dominions included
 that portion of the Coast leased
-to the German East African Co
+to the German East African Co.
 and by treaty are free to be sold
 there without any other tax or
 payment whatever.</p>
@@ -401,72 +465,75 @@ in question, other than is contained
 in your note under advice, and
 I beg to point out that, that note
 gives but nine days notice to
-disestablish <unclear/> of fifty years
+disestablish customs of fifty years
 standing.</p>
 
 <p>It is my opinion that
 no additional duty can legally
-be levied on goods that have <unclear/>
-paid</p>
+be levied on goods that have not
+<catchwords>paid</catchwords>
 
 <pb facs="155838"/>
 
-<p>paid duty at Zanzibar, on
+paid duty at Zanzibar, on
 this introduction into the
-Coast, and pending instruc-
-tions from my Governmentm
+Coast, and pending instructions 
+from my Government,
 I beg you will note my
 protest against such duty being
-levied.
-I avail <unclear/>
-Signed ED Roper Jr
-US Consul</p>
+levied.</p>
+
+<p>I avail &amp;c &amp;c<lb/> 
+Signed E. D. Roper Jr.
+U.S. Consul</p>
 
 <pb facs="155852"/>
 
-<p>Copy
-US Consulate
-Zanzibar, December 29th, 1890</p>
+<note>Copy.</note>
 
-<p>Sir:
-Understanding that you
+<p>US Consulate
+Zanzibar, December 29th, 1890.</p>
+
+<p>Sir:</p>
+
+<p>Understanding that you
 have taken charge of the
-Foreign Relations of HH the Sultan,
+Foreign Relations of H. H. the Sultan,
 I have the honour to request that
 you bring to the notice of His
-Highness' Government the following,</p>
+Highness' Government the following</p>
 
 <p>The American house of
-Roper, <unclear/> hold in this
+Roper, <unclear extent="one word"/> &amp; Co. hold in this
 city, a quantity of goods on which
 they have paid 5% duty to the
 Zanzibar Customs. Under
 existing treaties, one payment
 of 5% admits goods free to all
-ports and parts of the Sultan's
+ports and ports of the Sultan's
 Dominions, and in good faith
 under this treaty right, these
 goods were imported from the
-United States</p>
+<catchwords>United States</catchwords>
 
-<p>To
-Sir C B <unclear/> Smith <unclear/>
-<unclear/> agent and Consul <unclear/>
-Zanzibar</p>
+<fw type="address">To
+Sir C B Euan Smith <unclear>K. C. B. C. S. A.</unclear>
+<unclear>H. B. M.</unclear> Agent &amp; Consul Gl
+Zanzibar</fw>
 
 <pb facs="155900"/>
 
-<p>United States, especially for trade
-in that portion of His Higness'
+United States, especially for trade
+in that portion of His Highness's
 Dominions leased to the German
 East African Company.</p>
 
-<p>On the 22nd inst, I received
+<p>On the 22d inst, I received
 notice from the German Consulate
 that from January 1st 1891, duty
 would be taken on the German
-East African coast for account
-of the German government, from
+East African Coast for account
+of the German Government, from
 which I infer that some transfer
 in the Coast Government has
 been made although no notice
@@ -479,17 +546,17 @@ is allowed to be levied on the
 Coast at nine days notice, I am
 of the opinion that a drawback
 of 5% should be allowed by
-HH the Sultan to <unclear/>
+H. H. the Sultan to Roper, <unclear extent="one word"/> &amp; Co
 on all duty-paid goods held
-by them</p>
+<catchwords>by them</catchwords>
 
 <pb facs="155914"/>
 
-<p>by them now in Zanzibar
+by them now in Zanzibar
 and which can only find a
 market on the German Coast,
 or that some arrangement should
-be made between HH the Sultan
+be made between H. H. the Sultan
 and the German authorities, by
 which these goods may be
 imported free into the German
@@ -497,38 +564,54 @@ Coast within a reasonable time,
 say six months.</p>
 
 <p>I presume that, in the
-future <unclear/> for the
+future merchandise for the
 German Coast via Zanzibar
 may be transhipped in bond,
-if, in the meantime, no more
+if, in the mean time, no more
 favorable arrangement is made.</p>
 
 <p>If commercial I should
 be glad to receive the views of
-His Higness' Government on
-the foregoing, in time to trans-
-mit to my government by the
-European mail of the 2nd port.
-I avail <unclear/>
-Signed ED Roper Jr
-US Consul</p>
+His Highness' Government on
+the foregoing, in time to transmit 
+to my Government by the
+European mail of the 2d port</p>
+
+<p>I avail &amp;c<lb/>
+Signed E. D. Roper Jr
+U.S. Consul</p>
 
 <pb facs="155920"/>
 
-<p>Copy
-US Consulate
-Zanzibar December 30th 1890</p>
+<note>Copy</note>
 
-<p>Sir:
-With reference to my note
+<p>U.S. Consulate.<lb/>
+Zanzibar December 31st 1890.</p>
+
+<p>Sir:</p>
+
+<p>With reference to my note
 of the 29th inst, I have the
 honour to inform you that
-<unclear/> hold
-today in Zanzibar
-384 <unclear/> Shortings value $28.880.00
-10.1 57 to. dil.            17.866.00
-                            $44.744.00
-as which they have paid 5%
+Messrs. Roper, <unclear extent="one word"/> &amp; Co hold
+today in Zanzibar</p>
+
+<table>
+<row>
+<cell>38¢ <unclear>Rs</unclear> Sheetings value</cell>
+<cell>$26,880.00</cell>
+</row>
+<row>
+<cell>10.1 57 <unclear>Rs</unclear> dil. " </cell>
+<cell>17,866.00</cell>
+</row>
+<row>
+<cell/>
+<cell>$44,746.00</cell>
+</row>
+</table>
+
+<p>on which they have paid 5%
 duty to the Zanzibar Customs.
 intending these goods specially
 for the German Coast.</p>
@@ -537,40 +620,43 @@ for the German Coast.</p>
 levied on these goods on their
 shipment to the German Coast
 appears to me to be in contravention
-to the</p>
+<catchwords>to the</catchwords>
 
-<p>To
-Sir Char. B <unclear/> Smith <unclear/>
-H B M Agent and Consul <unclear/>
-Zanzibar</p>
+<fw type="address">To<lb/>
+Sir Chas. B Euan-Smith K. B. etc<lb/>
+H. B. M. Agent &amp; Consul Gl.
+Zanzibar</fw>
 
 <pb facs="155929"/>
 
-<p>to the existing treaties with
-HH the Sultan, and I beg
+to the existing treaties with
+H. H. the Sultan, and I beg
 you will note my protest
-against such duty being allowed.
-I have <unclear/>
-ED Roper Jr
-US Consul</p>
+against such duty being allowed.</p>
+
+<p>I have &amp;c. &amp;c.<lb/>
+E. D. Roper Jr.<lb/>
+U.S. Consul.</p>
 
 <pb facs="155952"/>
 
-<p>Copy
-HM Agency and Consulate <unclear/>
-Zanzibar, December 30th, 1890</p>
+<note>Copy</note>
 
-<p>Sir:
-I have the honour to
-ackowledge receipt of your
+<p>H. M. Agency &amp; Consulate Gl.<lb/>
+Zanzibar, December 31st, 1890.</p>
+
+<p>Sir:</p>
+
+<p>I have the honour to
+acknowledge receipt of your
 letter dated the 29th inst. on the
 subject of an intimation which
 upon have received that after the
 1st of January 1891, the German
-Coast <unclear/> will proceed to levy
-<unclear/> duties upon the German
+Authorities will proceed to levy
+<unclear extent="one word"/> duties upon the German
 East African Coast Line on account
-of the German government.</p>
+of the German Government.</p>
 
 <p>You are of the opinion that
 if these duties are to be levied on
@@ -578,40 +664,40 @@ goods already imported into
 Zanzibar destined for import into
 the German Coast Line and
 which have already paid duty
-to the</p>
+<catchwords>to the</catchwords>
 
 <pb facs="160010"/>
 
-<p>Sultan under existing treaties,
+Sultan under existing treaties,
 a drawback of 5% should be
 allowed by His Highness the
 Sultan on all duty paid goods
 held by American subjects.</p>
 
-<p>You further ask for an express-
-ion of my opinion on the Represen-
-tations of the Protesting Power in
+<p>You further ask for an expression 
+of my opinion on the Representative
+of the Protecting Power in
 Zanzibar regarding the position
 of merchandise that may be for
 the future imported in Zanzibar
 but destined for the German Coast.
-You require whether or not such
+Your enquire whether or not such
 merchandise can be transhipped
-in Bond until some more favorable
+in Bond until some more favourable
 arrangement be made.</p>
 
 <p>In reply I have to inform
-you that question exactly similar
+you that questions exactly similar
 to these which have been received
-by you in you letter under reply
-have natually been <unclear/>
+by you in your letter under reply
+have naturally been submitted
 to me by many British and
 British Indian merchants
-subject</p>
+<catchwords>subject</catchwords>
 
 <pb facs="160015"/>
 
-<p>subject to the jurisdiction
+subject to the jurisdiction
 of this Consulate.</p>
 
 <p>The whole matter is
@@ -632,22 +718,22 @@ subject, I regret that it is not
 within my power to make any
 statement that may serve as a
 guide for your action in the
-difficulties</p>
+<catchwords>difficulties</catchwords>
 
 <pb facs="160026"/>
 
-<p>difficulties in which you
+difficulties in which you
 find yourself. As soon
 however as I am placed in
-possession of the <unclear/> of
+possession of the views of
 Her Majesty's Government, I will
 not fail to communicate with
 you.</p>
 
-<p>I have <unclear/>. <unclear/>.
-signed C B Euan-Smith
-Colonel
-HBM agent and Consul <unclear/></p>
+<p>I have &amp;c. &amp;c.<lb/>
+signed C. B. Euan-Smith<lb/>
+Colonel<lb/>
+H.B.M. Agent and Consul Gl.</p>
 
 <pb facs="160033"/>
 
@@ -660,7 +746,7 @@ sum for the cession of the German
 East African Coast Territory has
 now been made to the Sultan, the
 Imperial Commissioner has been
-directed by the Imperial Chancellor
+directed by the Imperial Chancellor,
 to hoist the Imperial Flag in the
 said territory on the 1st of January 1891.</p>
 
@@ -670,335 +756,25 @@ East African Coast, even though
 they are not natives of the place
 will be subject to the jurisdiction
 of the Imperial Commissioner, under
-the <unclear/> of the Consular jurisdiction.</p>
+the cessation of the Consular jurisdiction.</p>
 
 <p>Natives may alienate their
 land, only with the sanction of
-the Imperial Commissioner</p>
+the Imperial Commissioner
 
 <pb facs="160044"/>
 
-<p>Im requesting you to bring the
+In requesting you to bring the
 above information to the native
 of the subjects (protected persons)
-of the US Consulate, I have etc</p>
+of the U.S. Consulate, I have etc</p>
 
-<p>Signed <unclear/>
-Actg Imp. German Consul</p>
-
-<pb facs="160258"/>
-
-<p>Consulate of the United States
-Zanzibar March 2nd 1891</p>
-
-<p>Mr Ropes
-To the Department of State</p>
-
-<p>Subject:
-Trade and Political Affairs</p>
-
-<p>Abstract of Contents.
-Effect of additional Coast duty.
-Transhipmens in bond.
-Zanzibar a free-port considered.
-Total prohibition of importation
-of cheap spirits aducated.
-Transfer of judicial powers to
-British coast.
-Remarks on Zanzibar being made
-a British Colony.
-(This is <unclear/>)</p>
-
-<pb facs="160338"/>
-
-<p>British Government
-propose to take regarding
-the numerous protests
-and claims arising from 
-this arbitrary Coast duty,
-and nothing has occurred
-to shake me in my opinion
-that the Sultan is
-responisble for a 5% drraw-
-back on all duty-paid
-goods held by American
-merchants on January 1st 91
-for German Coast trade.</p>
-
-<p>The question of
-making Zanzibar a free
-port has been agitated
-for some time and meets
-with the approval of all
-friends of Zanzibar and
-as nearly everything is
-now passed in bond, the
-law to the Sultan would
-be only the <unclear/> on
-imports consumed in
-the islands of Zanzibar
-and <unclear/></p>
-
-<pb facs="160347"/>
-
-<p>and <unclear/> and <unclear/>
-islands, which <unclear/>
-I do not estimate at more
-than coast of collecting.
-It would therefore appear
-that there is no obstacle
-in making this a free
-port, but the treaties pro-
-vide that the Sultan
-must provide suitable
-Custom House and go-downs
-and transhipment stores,
-free of all storage charges
-other than the 5% duty
-take away this duty and 
-we have the Sultan rem-
-oving a Custom House for
-nothing- Of course he
-objects- It will therefore
-be necessary to alter the
-treaties to make this a
-free port and any such
-alterations would probably
-be opposed by Germany
-as against the interests
-of the</p>
-
-<pb facs="160350"/>
-
-<p>Coast Colony opposite
-as it doubtless would be.
-it is my opinion that
-a free-port will be the
-only salvation of Zanzibar
-and I should strongly
-advocate any reasonable
-surrender of treaty rights
-as regards Custom House
-charges, harbor or tonnage
-dues, to bring it about.</p>
-
-<p>The question of the
-total prohibition of cheap
-spirits imported for native
-use is also being considered
-and like the free-port
-question is advocated by
-the friends of the place
-opposed by the Germans
-and would necessitate a
-change of treat. I am
-<unclear/> strongly in favour
-of absolutely prohibiting
-the importation of low
-proof spirits for native use</p>
-
-<pb facs="160355"/>
-
-<p>I also consider that
-with a British Protectorate,
-esterritorial rights have
-ceased to be of value and
-I think it would be for
-the best interests of all
-concerned, if nost of our
-judicial powers were
-transferred to the British
-Court- In fact, as I
-look at the situation here
-I cannot see why the
-English Government does
-not make this a <unclear/>
-<unclear/> and be done with
-all these half-way
-measures. Germany would
-probably be the only power
-to seriously object, and it
-seems to me if the trans-
-fer of the German Coast
-had been used at its full
-value England might
-have had Zanzibar
-without trouble.</p>
-
-<pb facs="160359"/>
-
-<p>In submitting my
-views on these important
-questions thus freely to
-the Department, I trust
-I have not exceded the
-bounds of propriety.
-I have the honour to be,
-Sir,
-Your obedient servant.
-ED Rope Jr
-US Consul</p>
-
-<pb facs="161037"/>
-
-<p>Consulate of the United States
-Zanzibar March 19th 1892</p>
-
-<p>Mr Jon A Junea
-To the Department of State</p>
-
-<p>Subject:
-United States property at Zanzibar</p>
-
-<p>Abstract of Contents
-Enclosing memo of same</p>
-
-<pb facs="161106"/>
-
-<p>Consulate of the United States
-Zanzibar 19th April 1892</p>
-
-<p>Mr Jon A Jonea
-To the Department of State</p>
-
-<p>Subject:
-Brussels' Conference</p>
-
-<p>Abstract of Contents
-Requesting instructions
-regarding any clauses affecting
-the Treaty between the United
-States and HH the Sultan
-of Zanzibar.</p>
-
-<pb facs="161209"/>
-
-<p>Consulate of the United States
-Zanzibar 19th April 1892</p>
-
-<p>Honorable <unclear/> F Wharton
-Assistant Secretary of State,
-Washington, DC</p>
-
-<p>Sir:
-I have the honor to acknowledge
-receipt of despatch no 20 of march
-8th 1892.</p>
-
-<p>I have recently received from H
-B N Diplomatic Agent at this port
-<unclear/> (as per copy enclosed) advising
-that the General Act of the Brussels
-Conference came into force April 2nd 92.</p>
-
-<p>I find no instructions have
-reached this Consulate in regard
-to the position taken by the United
-States Government in the <unclear/>
-of the resolutions of the Conference,
-and I would therefore be glad to
-receive instructions on the matter,</p>
-
-<pb facs="161214"/>
-
-<p>as also as to what, if any, clauses
-of the existing Treaty between the
-United States and H.H. the Sultan
-of Zanzibar are affected thereby.</p>
-
-<p>I would also thank the
-Department for a copy of the
-findings of the Brussels Conference
-for purpose of office reference.</p>
-
-<p>I have the honor to be
-Sir
-Your obedient servant
-Jon A Jonea
-Acting US Consul</p>
-
-<pb facs="161235"/>
-
-<p>His Majesty's Agency
-and Consulate General
-Zanzibar April 7th 1892</p>
-
-<p>Sir
-I have the honour to inform
-you that I have received a telegram
-from my Government notifying
-that the General Act of the Brussels
-Conference came into force on the
-2nd instant.</p>
-
-<p>In bringing this fact to your
-notice I am requested by the
-Zanzibar Government to express
-their hope, that you will give them
-your help in carrying out the
-provisions of the act, especially with
-regard to the enforcement of the
-Regulations for sale of spirits
-which</p>
-
-<p>The Consul for the
-United States of America
-Zanzibar</p>
-
-<pb facs="161249"/>
-
-<p>which formed the subject of my
-<unclear/> dated of the 4th of February
-last.</p>
-
-<p>I trust also that the Government
-of this country may rely upon your
-cooperation in carrying out the
-provisions of Articles xxx to xIl of the
-act respecting the registration and
-<unclear/> of native shows, and boats,
-which are entitled to carry the
-american flag.</p>
-
-<p>I have the honour to be,
-Sir:
-Your most obedient
-humble servant
-signed G H Portal
-His Majesty's Diplomatic Agent
-and Consul General</p>
-
-<pb facs="162417"/>
-
-<p>Zanzibar
-July 8th 1892</p>
-
-<p>Sir,
-I have the honour to inform you
-that, acting under instructions received
-from Her Majesty's Government, I have
-caused to be closed several shops,
-belonging to Goanese subjects of
-Portugal, in which an unlicensed
-sale of liquor was being carried on
-in defiance of the regulations issued
-by the Protecting Power with a view
-to fulfilling its obligations incurred
-under Article xcl of the Brussels Act.
-The owners of these shops had been
-several times warned of the con-
-sequences of offering defiance to
-the Brussels Act and had been
-advised</p>
-
-<p>Jonea, <unclear/>
-Consul for the United States 
-of America
-Zanzibar</p>
+<p>Signed <unclear>Redwitr</unclear>
+Actg Imp. German Consul.</p>
 
 </div1>
+
 </body>
 </text>
 
 </TEI>
-
