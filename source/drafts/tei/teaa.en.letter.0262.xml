@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from William Walker to William H. Seward, December 18, 1861</title> 
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm"></name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0262</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Despatch from William Walker to William H. Seward, December 18, 1861</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
@@ -99,28 +99,30 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Walker, William</persName>
+<roleName>Missionary</roleName>
+<placeName>Gaboon</placeName>
+<date when="1861-12-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Seward, William H.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">encoded and transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+
+<pb facs="20170615_104134"
 
 Gaboon Dec.18.1861.
 
@@ -144,6 +146,8 @@ trouble him. I presume though
 when we get ready to settle the business,
 he will be willing to render 
 any needed assistance. 
+
+<pb facs="20170615_104141"
 
 It is a sad case that Capt. Lawlin
 should die there alone. Can you not 
