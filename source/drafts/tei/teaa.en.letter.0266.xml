@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from William Walker, April 23, 1861</title>
+<title>Dispatch from William Walker to William H. Seward, April 23, 1861</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Mbilain, Unyoh" xml:id="unm"></name>
-
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
 
@@ -46,7 +46,7 @@
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1861-4-23"></date>
+<date when="1861-04-23"></date>
 </bibl>
 </sourceDesc>
 
@@ -102,76 +102,79 @@
 <persName>Walker, William</persName>
 <roleName>Missionary</roleName>
 <placeName>Gaboon</placeName>
-<date when="1862-4-23"/>
+<date when="1862-04-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Seward, William H.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D. C.</placeName>
+<date when="1862-06-27"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#unm"></change>
+<change when="2019-10" who="#lkw"> additional encoding</change>
+<change when="2019-10" who="#unm"> transcription and encoding</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document">
 
-<pb facs="20170615_105840"
+<pb facs="20170615_105840"/>
 
-To the Hon.
+<note>Asd July 3</note>
+<note>Recd Hybe 27</note>
 
-The Secretary of State 
-U.S. America.
+<opener>To the Hon.<lb/>
 
-Sir,
+The Secretary of State <lb/>
+U.S. America.<lb/>
 
-I have honor to 
+Sir,</opener>
+
+<p>I have honor to 
 inform you that I have the keeping of 
 some U. States property connected with 
-th Commercial Agency of this place. 
-It was be to in any care by the late Henry 
+the Commercial Agency of this place. 
+It was left in my care by the late Henry 
 A Ford M.D. and has been in the Mission 
 Store till the present time. About one 
 month since I opened two of the boxes 
-to see whether the climate may leave injusred
+to see whether the climate may have injured
 the contents, I only inspected them
-enough ot know that neither climate or 
-insects had touched them, + closed them 
+enough to know that neither climate or 
+insects had touched them, &amp; closed them 
 as before. one box seemed to contain 
-books + the other copying presor*.
-There is a third box (small) + . a package 
+books &amp; the other copying press.
+There is a third box (small) &amp;c. a package 
 or book in a brown paper envelope.
-This property is a safe as the property 
-if the Missions of the Ann. Board of Comissioner 
-for Foreign Missions. 
+This property is as safe as the property 
+of the Missions of the Am. Board of Comissioner 
+for Foreign Missions. </p>
 
-<pb facs="20170615_105843"
+<pb facs="20170615_105843"/>
 
-I write this simply to inform the 
+<p>I write this simply to inform the 
 Department of the condition og the
-property and its location.
+property and its location.</p>
 
-As our latest dates from the United
-States are only to Feb. 6th, + not being 
-entirely certain that your <unclear></unclear>
-is the City of Washington.
-I enclose this to a friend + Member
-Eage. Bible House, Astor Place New York
+<p>As our latest dates from the United
+States are only to Feb. 6th, &amp; not being 
+entirely certain that your locum
+tenens is the City of Washington.
+I enclose this to a friend A. <unclear>Nieribin</unclear>
+Esqr. Bible House, Astor Place New York</p>
 
-Very Respectfully Yours
-W.Walker
-Missionary of A.B.C.F.M
-<div1 xml:lang="en" type="document">
+<closer><salute>Very Respectfully Yours</salute>
+<signed>W. Walker<lb/>
+Missionary of A.B.C.F.M</signed></closer>
 
-<pb facs="x"/>
 
-<p></p>
 
 </div1>
 
