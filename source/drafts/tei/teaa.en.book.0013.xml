@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?oxygen
 RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"
 ?>
@@ -7,9 +6,7 @@ RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/te
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>
-George W. Williams, "The Negro as a Political Problem" (1884)
-</title>
+<title>George W. Williams, "The Negro as a Political Problem" (1884)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -44,7 +41,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <sourceDesc>
 <bibl>
 <title level="a" type="main">1862&#8212;Emancipation Day&#8212;1884; The Negro as a Political Problem</title>
-<author n="Williams, George W.">George W. Williams</author>
+<author n="Williams, George Washington, 1849-1891">George W. Williams</author>
 <editor/>
 <pubPlace>Boston</pubPlace>
 <publisher>Alfred Mudge &amp; Son, Printers</publisher>
@@ -70,11 +67,23 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Cook</term>
+<term ref="http://viaf.org/viaf/10088">Douglass, Frederick, 1818-1895</term>
+<term ref="http://viaf.org/viaf/16489665">Downing, George T. (George Thomas), 1819-1903</term>
+<term ref="http://viaf.org/viaf/818337">Garnet, Henry Highland, 1815-1882</term>
+<term ref="http://viaf.org/viaf/30335364">Langston, John Mercer, 1829-1897</term>
+<term>Matthews, William E.</term>
+<term ref="http://viaf.org/viaf/41101522">Shepherd, Alexander Robey, 1835-1902</term>
+<term>Walls, O. B. S.</term>
+<term ref="http://viaf.org/viaf/100373407">Williams, George Washington, 1849-1891</term>
+<term>Yashon</term>
 </keywords>
 
 <keywords scheme="original" n="places">
-<term/>
+<term>Maryland</term>
+<term>Virginia</term>
+<term>New York City</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
@@ -118,7 +127,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <p>Oration
 by the
 Hon. George W. Williams,
-of Massachusettes,
+of Massachusetts,
 at the
 Asbury Church, Washington, D.C.,
 April 16, 1884.</p>
@@ -298,7 +307,7 @@ of death through thousands of hearts.</p>
 
 <p>In 1800, as we have shown, there were 3,244 slaves in 
 the District of Columbia. Ten years later the slave 
-population had increased to 5,3^)5, in 1820 it was 6,877, 
+population had increased to 5,395, in 1820 it was 6,877, 
 in 1830 it was 6,119, in 1840 it was 4,694, in 1850 it 
 was 3,687, and in 1860 there were only 3,186. By these 
 figures we see that at the end of six decades there were 
@@ -1008,7 +1017,7 @@ of freedom, and followed as naturally as heat
 does light or the rising of the sun. A liberal interpretation 
 of this law would have been in line and in harmony 
 with the great civilization of the nineteenth 
-century. Kot only the Supreme Court, but political 
+century. Not only the Supreme Court, but political 
 parties have turned to abstractions rather than to the 
 great questions of humanity. Materialism reigns everywhere.</p> 
 
