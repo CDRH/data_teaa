@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0240">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Statement of Vessels, Tonnage, and Men for 1858, February 22, 1859</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0240</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Statement of Vessels, Tonnage, and Men for 1858, February 22, 1859</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-438, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1859-02-22">February 22, 1859</date>
 </bibl>
 </sourceDesc>
 
@@ -96,21 +96,6 @@
 </textClass>
 
 
-
-<correspDesc>
-<correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
-</correspAction>
-<correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-</correspAction>
-</correspDesc>
-
 </profileDesc>
 
 <revisionDesc>
@@ -125,22 +110,26 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="x"/>
+<pb facs="34"/>
 
-Africa Sierra Leone February 22,1859
-John E. Taylor Counsul
+<note><unclear>per 58 in Africa</unclear></note>
 
-Statement showing the 
-number of Vessels Tonnge of men belonging to the United State which arived here during the year 1858. with Cargoes amounting to about <unclear> four </unclear> hundred thousand dollars. nearly all <unclear> of </unclear> which took return Cargoes from this place. 
+<opener>Africa <lb/>
+Sierra Leone February 22,1859<lb/>
+John E. Taylor Consul</opener>
 
-Vessels Tonnage Men Value <unclear/> Cargoes
-25 4374 287 $400,000
+<p>Statement showing the 
+number of Vessels Tonnage &amp; men belonging to the United States which arrived here during the year 1858. with Cargoes amounting to about four hundred thousand dollars. nearly all  of  which took return Cargoes from this place. </p>
 
-<unclear> Sierra</unclear> Leone
-22 o Feby 1859
+<table>
+<row><cell>Vessels</cell><cell> Tonnage</cell> <cell>Men</cell> <cell>Value <unclear extent="one word"/> Cargoes</cell></row>
+<row><cell>25</cell> <cell>4374</cell> <cell>287</cell> <cell>$400,000</cell></row></table>
 
-Jno E Taylor
-Acting United States Consul
+<closer>Sierra Leone<lb/>
+22d Feby 1859
+
+<signed>Jno E Taylor<lb/>
+Acting United States Consul</signed></closer>
 
 </div1>
 

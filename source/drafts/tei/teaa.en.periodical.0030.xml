@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The A.M.E. Zion quarterly review, "Men Who Are Known"</title>
+<title>The A.M.E. Zion Quarterly Review, "Men Who Are Known" (1895)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,26 +71,13 @@
 </keywords>   
     
 <keywords scheme="viaf" n="people">
-<term>Clinton, F. A.</term>
-<term>Dancy, John C.</term>
-<term>Fortune, T. Thomas</term>
-<term>Gumb</term>
-<term>Holliday, Jehu, D.D.</term>
-<term>Hood</term>
-<term>Murray, G. W.</term>
-<term>Smith, H. C.</term>
-<term>Turner, H.M.</term>
+<term ref="http://viaf.org/viaf/814506">Turner, Henry McNeal, 1834-1915.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Cleveland</term>
-<term>North Carolina</term>
-<term>Pittsburg</term>
-<term>San Domingo</term>
-<term>Texas</term>
+<term/>
 </keywords>
 
-    
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -106,7 +94,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-04-04" who="pr">transcribed and encoded</change>
+<change when="2019-10-23" who="#kln">reviewed and edited</change>
+<change when="2019-04-04" who="#pr">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -116,49 +105,21 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="207" facs="The A.M.E. Zion quarterly review part 2.pdf"/>
+<pb xml:id="p207"/>
 
 <div2 type="titles">
 
-<p>MEN WHO ARE KNOWN.</p>
+<p>Men Who Are Known.</p>
 
 </div2>
 
 <div2 type="article">
 
-<p>-Editor T. Thomas Fortune went through Texas, and pro-
-nounced it the most progressive state in the South. It is very
-evident that he did not stop in North Carolina.
-- Bishop H. M. Turner has returned from his third annual
+<gap reason="sampling"/>
+
+<p>Bishop H. M. Turner has returned from his third annual
 trip to Africa to hold the Conference there, and is as confirmed
-in his contention that Africa is the place for the Negro as ever.
-- Congressman G. W. Murray was a delegate at the Conven-
-tion of Republican League clubs, and made an excellent impres-
-sion by his manly bearing and his intelligent way of expressing
-his views.
-- "Our" H. C. Smith of the Cleveland Gasette, did nobly in 
-looking after the interests of the colored delegates during the
-great Republican Convention held in his wonderful city. His
-hospitality was unbounded, and none of us can ever forget him.
-- Rev. Mr. Gumb, who is doing missionary work for Zion
-Church in San Domingo, has succeeded in erecting a splendid
-church there, and is in America soliciting funds to aid in erect-
-ing other churches.
-- Rev. Jehu Holliday, D.D., the Book Steward of Zion
-Church, is meeting with marvellous success handling the great
-history of A.M.E. Zion Church, by Bishop Hood. He will
-soon dispose of the entire first edition.
-- Editor John C. Dancy made a ringing speech at the
-National Convention of Republican League Clubs, held at Cleve-
-land, recently, and was elected one of the Vice Presidents of the
-great gathering. The banquet given the delegates was the most
-unique and elaborate ever before tendered the body.
-- Rev. F.A. Clinton can stir up as much enthusiasm as any
-man in the range of our acquaintance. He is a bright orator, a
-whirlwind when in action, and is always sure to arouse his hear-
-ers to the highest pitch of enthusiasm. No man in Pittsburg is
-more popular than he. He will remain in that city to continue
-his good work.</p>
+in his contention that Africa is the place for the Negro as ever.</p>
 
 </div2>
 

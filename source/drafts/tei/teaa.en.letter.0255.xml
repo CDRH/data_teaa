@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0255">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Dispatch from William Walker to William H. Seward, December 20, 1861</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
-
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0255</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Dispatch from William Walker to William H. Seward, December 20, 1861</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1861-12-20">December 20, 1861</date>
 </bibl>
 </sourceDesc>
 
@@ -99,22 +99,24 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Walker, William</persName>
+<roleName>Missionary</roleName>
+<placeName>Gaboon</placeName>
+<date when="1861-12-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Seward, William H.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D. C.</placeName>
+<date when="1862-03-04"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#lkw"> encoded</change>
+<change when="2019-09" who="#unm"> transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -122,12 +124,25 @@
 
 <body>
 
-Hon.W.H.Seward
-Washington 
+<div1 xml:lang="en" type="document">
 
-Sir
+<pb facs="20170615_103027"/>
 
-Your communication of July 
+<note>Rec 4 Mar</note>
+<note>M. Abbott</note>
+<note>NY Port</note>
+<note><unclear/> extrorts</note>
+
+<note>After making the copies please <unclear>vet Mr. Gilbert to appear it</unclear> the certificate</note>
+
+<opener>Gaboon W. Africa Dec. 20 <unclear>1861</unclear><lb/>
+
+Hon.W.H.Seward<lb/>
+Washington<lb/> 
+
+Sir</opener>
+
+<p>Your communication of July 
 3rd, and Circular of August 28th with
 the form of the Oath of Allegiance 
 have been received. The duties of 
@@ -139,111 +154,114 @@ States returning to the States,
 I gave a certificate of citizenship
 to Miss Jane A. VanAllen, who 
 sailed from this port Nov. 1st in its 
-Big Ocean Eagle', Phillip P. Yates Minister,
-bound to New York. As <unclear></unclear> is 
-a free port, + neither any duties as 
-a Missionary permitting on the interest
+Brig 'Ocean Eagle', Phillip D. Yates Minister,
+bound to New York. As this is 
+a free port, &amp; neither my duties as 
+a Missionary permitting or the interest
 of humanity requiring, I did not 
 perform any official duties toward 
-the <unclear></unclear>. 
-I also am in doubt whether 
-your better of July 3rd authroizing 
-any such official acts.
+the vessel. I also am in doubt whether 
+your letter of July 3rd authroizing 
+any such official acts.</p>
 
-But it is now my painful duty 
+<pb facs="20170615_104056"/>
+
+<p>But it is now my painful duty 
 to inform you of the death of 
 Capt. R.E.Lawlin of New York.
-Agent for James Bishop Heo. of 
-No,G. Beaver I heed New York.
+Agent for James Bishop H.O. of 
+No. 3. Beaver I Street New York.
 Captain Lawlin was a trader of 
 thirty years standing on this Coast.
 He died at Camma, about 150.
-Unites South of the Gaboon. His 
-principla business was at that 
+miles South of the Gaboon. His 
+principal business was at that 
 place. He had no responsible 
 person about him. I have send 
-the herd man I could find, to go 
-+ take charge of the property until
+the best man I could find, to go 
+&amp; take charge of the property until
 I can find the means of 
 bringing it to this place. I have 
-written to the U.S. Sloop Saiatoga,
-+ the French Commodere, Baron 
-<unclear></unclear> has offered any 
+written to the U.S. Sloop Saratoga,
+&amp; the French Commodere, Baron 
+<unclear>Didelad</unclear> has offered any 
 assistance in his power. But I shall 
 not be able to give you particular 
 information before
 the departure of this month's 
-mail. I have not means of 
+mail. I have no means of 
 estimating the amount of property 
-ledt in Comma*. It is in the 
-midst of a barbarous people. 
+left in Camma. It is in the 
+midst of a barbarous people. </p>
 
-2
+<fw>2</fw>
 
-21st. I have just returned from 
-paying a visit to the Commiodere. He 
+<pb facs="20170615_104103"/>
+
+<gap reason="missing"/>
+
+
+
+<p>21st. I have just returned from 
+paying a visit to the Commodore. He 
 told me at once that he had read 
-a communication the enclosed which I lead 
-the rumor to address to him on the 
-18th <unclear></unclear>, at his request for a written
+a communication (the enclosed) which I had 
+the honor to address to him on the 
+18th Inst., at his request for a written
 statement of the Case of Capt. Lawlin.
-The purposed at once to send a steamer 
-to <unclear></unclear> the property in case 
+He proposed at once to send a steamer 
+to protect the property in case 
 the natives made any resistance 
-to its removal. End
+to its removal. End</p>
 
-In regard to the Oath of Allegiance 
+<p>In regard to the Oath of Allegiance 
 he said there was no one here authorized
 to administer the oath, but he 
-would direct the Commanddant on
-shere to writing may signature to 
-it this I will attend to at any earliest
-convience, [The Commicdere* 
-apured me that the simple request 
+would direct the Commandant on
+shore to writing my signature to 
+it this I will attend to at my earliest
+convience, [The Commodore 
+asured me that the simple request 
 as an American citizen, for assistance 
 to secure the property of an 
 American citizen was all he required.
 I have engaged an English Barque 
-to go + bring the goods to this place.
-I have written very full to refers
-Janes Bishop H.O, + have requested 
+to go &amp; bring the goods to this place.
+I have written very fully to Messrs
+James Bishop H.O, &amp; have requested 
 
-3
+<fw>3</fw>
 
+<pb facs="20170615_104109"/>
 them to despatch an Agent immediately 
 to take charge of this business 
-I shall try + keep within the law 
-in my business transactions +
+I shall try &amp; keep within the law 
+in my business transactions &amp;
 must beg your indulgence for 
-any information in my communications.
+any informalities in my communications.</p>
 
-I would simply add that after
+<p>I would simply add that after
 considerable inquiry, I suppose 
 the amount of African produce 
-+ goods in the factory at Camma
-must be between $10,000 +
-$15,000 ten thousand + fifteen
-thousand dollars. They associate 
+&amp; goods in the factory at Camma
+must be between $10,000 &amp;
+$15,000 ten thousand &amp; fifteen
+thousand dollars. My associate 
 in Missionary labor, Rev. J. M. 
-Preston, will go to Comma in
-the vessel to attend to the shippinh 
-of the goods + settling up Capt.
+Preston, will go to Camma in
+the vessel to attend to the shipping 
+of the goods &amp; settling up Capt.
 Lawlins business there. The is a 
-perfectly reliable <unclear> </unclear>. It seems
-to be impossible for me to go.
+perfectly reliable man. It seems
+to be impossible for me to go.</p>
 
-I am Sir,
-Your obedient Servant 
-W.Walker
+<closer><salute>I am Sir,
+Your obedient Servant</salute> 
+<signed>W.Walker</signed></closer>
 
-
-<div1 xml:lang="en" type="document">
-
-<pb facs="x"/>
-
-<p></p>
-
+<note><unclear>Ent</unclear></note>
 </div1>
+
 
 </body>
 </text>
