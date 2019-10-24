@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -59,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -67,57 +68,54 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Periodicals</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Gomez</term>
-<term>King Kruger</term>
-<term>King Menelek</term>
-<term>Maceo</term>
+<term ref="http://viaf.org/viaf/17303813">Gómez, Máximo, 1836-1905</term>
+<term ref="http://viaf.org/viaf/39463346">Krüger, Paul 1825-1904</term>
+<term ref="http://viaf.org/viaf/62344773">Menelik II, Negus of Ethiopia, 1844-1913</term>
+<term ref="http://viaf.org/viaf/8478203">Maceo, Antonio, 1845-1896</term>
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>Abyssinia</term>
-<term>Chicago</term>
+<term>Chicago (Ill.)</term>
 <term>Cuba</term>
-<term>England</term>
 <term>Ethiopia</term>
-<term>France</term>
-<term>Galveston</term>
-<term>Germany</term>
-<term>Golden Gate of the West</term>
+<term>Galveston (Tex.)</term>
 <term>Gulf of Mexico</term>
-<term>Hayti</term>
-<term>Italy</term>
+<term>Haiti</term>
 <term>Liberia</term>
-<term>Los Angeles</term>
-<term>Louisiana</term>
-<term>Mississippi</term>
-<term>Newbern, N.C.</term>
-<term>New Orleans</term>
-<term>Niagra</term>
-<term>Nile River Delta</term>
+<term>Los Angeles (Cali.)</term>
+<term>New Orleans (La.)</term>
+<term>Newbern (N.C.)</term>
+<term>Niagara Falls</term>
+<term>Nile River</term>
 <term>North America</term>
-<term>Nova Scotia</term>
-<term>Russia</term>
 <term>South America</term>
+<term>Transvall</term>
+<term>Vancouver (Canada)</term>
+<term>Vicksburg (Miss.)</term>
+</keywords>
+    
+<keywords scheme="original" n="empires">
+<term>France</term>
+<term>Germany</term>
+<term>Great Britain</term>
+<term>Italy</term>
+<term>Russia</term>
 <term>Spain</term>
-<term>Texas</term>
-<term>Transvaal</term>
-<term>Vancouver</term>
-<term>Vicksburg</term>
+<term>United States</term>
 </keywords>
 
-    
 <keywords scheme="original" n="ethnic_group">
 <term>Afro-American</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term>Catholic</term>
-<term>Christian</term>
-<term>Zion</term>
+<term>African Methodist Episcopal Zion</term>
 </keywords>
 
 <keywords scheme="original" n="language">
@@ -128,7 +126,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-04-09" who="pr">transcribed and encoded</change>
+<change when="2019-10-23" who="#kln">reviewed and edited</change>
+<change when="2019-04-09" who="#pr">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -138,28 +137,31 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="PAGENUMBER" facs="PDFNAME"/>
+<pb xml:id="p28"/>
 
 <div2 type="titles">
 
-<p>Zion's Mission
-By Mrs. Bishop C. C. Pettey.</p>
+<p>Zion's Mission.</p>
+
+<p>By Mrs. Bishop C. C. Pettey.</p>
 
 </div2>
 
 <div2 type="article">
 
-<p>In proportion to the growth of the Nation and develop-
-ment of our race, from time to time, our Zion must enlarge
+<p>In proportion to the growth of the Nation and development 
+of our race, from time to time, our Zion must enlarge
 her borders, in order to retain her position as a factor in
 moulding American sentiment. Our great ship of church
 must move with the tide of the times or be over-shadowed 
 by more formidable and aggressive denominations.</p>
+
 <p>The value of anything is determined by comparison, 
-and so will our Zion be measured as an insignificant or po-
-tent factor proportionately as she enlarges her borders and
+and so will our Zion be measured as an insignificant or potent 
+factor proportionately as she enlarges her borders and
 develops her institutions commensurate with the rapid
 growth of America and her religious denominations.</p>
+
 <p>The church that does not affect the ship of state, does
 not very largely affect the people, and can have no influence
 in checking the tide of national evils, which ought to be the
@@ -168,77 +170,93 @@ especially every church of our race, in this age of prejudicial
 oppression, for it has been almost exclusively through the
 arm of the church, that the Afro-American has touched the
 pulse of the nation.</p>
+
 <p>Zion should not delay in extending her borders, erecting
-her parapets and in fortifying her bulwarks, for her mis-
-sion is not simply that of Sunday service; but she is called
+her parapets and in fortifying her bulwarks, for her mission 
+is not simply that of Sunday service; but she is called
 to battle with American sentiment in the interest of the race.
 The development of the race does not lessen the demand of
 the church but rather increases it; for as a race develops in
 religious ethics and the science of civil government, the
 more it will agitate and press its rights, the more it will be
-opposed and the greater will be its repsonsibilities. If the
-church is to meet all these demands, it must widen and en-
-large its proportions.</p>
+opposed and the greater will be its responsibilities. If the
+church is to meet all these demands, it must widen and enlarge 
+its proportions.</p>
+
 <p>This need of extending the borders of Zion is not confined
-to any particular section of the country, but from Nova Sco-
-tia to Vancouver and from Niagara to the Gulf of Mexico
+to any particular section of the country, but from Nova Scotia 
+
+<pb xml:id="p29"/>
+
+to Vancouver and from Niagara to the Gulf of Mexico
 there is room for improvement.</p>
+
 <p>We approximate as a race to-day, in this country, ten
-million souls- and Zion ought to control at least one fourth
+million souls&#8212;and Zion ought to control at least one fourth
 of that number. Have we lost the spirit of our fathers and
-early pioneers, who plodded the snow of the northern moun-
-tains, and waded the swamps of the south in darker days to
+early pioneers, who plodded the snow of the northern mountains, 
+and waded the swamps of the south in darker days to
 make our church a possibility? Shall we not contend for
 the faith and spirit of our sainted heroes and heroines?
-They have bequeathed to us more than a half million mem-
-bers and churches to correspond; and we in turn should hand
+They have bequeathed to us more than a half million members
+and churches to correspond; and we in turn should hand
 down to our posterity a million members and ten thousand
 churches from the neglected states and territories within the
 next decade.</p>
-<p>It can be done if the machinery of the church is proper-
-ly set in order and well manned.</p>
+
+<p>It can be done if the machinery of the church is properly 
+set in order and well manned.</p>
+
 <p>Our Board of Missions would do well to concentrate its
-forces in rearing temples in Chicago, New Orleans, Galves-
-ton, Los Angeles and Vicksburg. A few fine churches thus
+forces in rearing temples in Chicago, New Orleans, Galveston, 
+Los Angeles and Vicksburg. A few fine churches thus
 established would soon tell upon public sentiment by turning
-the tide towards Zion. We insist upon this plan of mission-
-ary operation.</p>
+the tide towards Zion. We insist upon this plan of missionary
+operation.</p>
+
 <p>The Catholics do not spend their money mincing around
-rural missions- but they capture the towns and cities and thus
+rural missions&#8212;but they capture the towns and cities and thus
 operate from great centers; and in a few short years, they have
 transmitted their teachings and religious faith throughout the
 entire section. In this same way we should capture the West.</p>
+
 <p>We cannot do all at once; but what we do should be done
 in a way that it will be effectual for lasting and permanent
 good. Thus will we build monuments that coming ages
-cannot efface. Home mission work with us deserves pre-
-eminence over that of Africa, or the isles of the sea because
+cannot efface. Home mission work with us deserves preeminence 
+over that of Africa, or the isles of the sea because
 of the uncrystalized condition of the religious sentiment of
 the race.</p>
+
 <p>Millions are yet unconverted and have no particular church
 proclivity. Thousands along the lagoons of Mississippi, the
 bayous of Louisiana and the brazos of Texas spend their
 Sabbaths horse racing and gambling. Many more in middle
-and western Texas consider the daring exploits of the cow-
-boys, the most heroic examples of manhood.</p>
+and western Texas consider the daring exploits of the cowboys, 
+the most heroic examples of manhood.</p>
+
+<pb xml:id="p30"/>
+
 <p>Now is our best opportunity to house these millions at
 home. Zion "lift up your eyes and behold the fields for
 they are white now ready to harvest." A century ago there
 was not a well organized Negro christian province in the
-world; but to-day the black world is lifting up its head, shak-
-ing off the lethargy of the long night of darkness and foil-
-ing the powers of oppression.</p>
-<p>This is a marvelous age- an age of reforms and revolu-
-tions. There is not a prominent government on the globe
+world; but to-day the black world is lifting up its head, shaking 
+off the lethargy of the long night of darkness and foiling 
+the powers of oppression.</p>
+
+<p>This is a marvelous age- an age of reforms and revolutions. 
+There is not a prominent government on the globe
 to-day, but that in some way is being touched by the hand
 of the Negro, and the beating pulse of the race is felt in the
-finger tips of civilizaiton.</p>
-<p>England has her Transvall, the United States her amal-
-gamated South, Italy her Abyssinia; France, Germany and
+finger tips of civilization.</p>
+
+<p>England has her Transvall, the United States her amalgamated
+South, Italy her Abyssinia; France, Germany and
 Russia are equally interested in African territory, while
-Spain is exhausting her resources to maintain her sovereign-
-ty in Cuba against the Insurgents. What means the victo-
-ries of King Menelek of Abyssinia, King Kruger of the
+Spain is exhausting her resources to maintain her sovereignty 
+in Cuba against the Insurgents. What means the victories 
+of King Menelek of Abyssinia, King Kruger of the
 Transvaal and the triumphs of Maceo and Gomez, but the
 uprising of an oppressed race daring to assert manhood; and
 from Abyssinia to Cuba the plaintive waves of the ocean
@@ -246,21 +264,23 @@ bear tidings of Negro victories. It is not strange that all of
 these have seemingly risen at once? And is it not stranger
 still that they are scoring similar victories with superior
 arms against them; triumphantly opposing earth's greatest
-nations, lifting up the standard of freedom and self protec-
-tion against tyranny? May we not say that it is Ethiopia
+nations, lifting up the standard of freedom and self protection
+against tyranny? May we not say that it is Ethiopia
 stretching forth her hand; and that God is raising up a long
 forgotten race.</p>
+
 <p>In this same century, too, the governments of Liberia
-and Hayti have been established- and the slaves of North and
+and Hayti have been established&#8212;and the slaves of North and
 South America emancipated. It does appear to me that
 this is the Negro's age of new life. The smouldering fires
 of manhood and liberty, which have been smothered for a
-thousand years are bursting forth like volcanic flames, up-
-heaving mountains of oppression. Let us hope that our an-
-cient glory is soon to be restored; and from the Delta of the
+thousand years are bursting forth like volcanic flames, upheaving
+mountains of oppression. Let us hope that our ancient 
+glory is soon to be restored; and from the Delta of the
 Nile to the Golden Gate of the West let freedom prevail and
-Zion exult in the triumph of her glory.
-Newbern, N. C.</p>
+Zion exult in the triumph of her glory.</p>
+
+<p>Newbern, N. C.</p>
 
 </div2>
 
