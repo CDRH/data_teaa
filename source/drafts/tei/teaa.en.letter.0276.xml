@@ -1,26 +1,174 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-Consulate of the United States of America at Sierra Leone 
-19th February 1864
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0276">
 
-Sir,
-I have the honor to acknowledge a communication from you deserving me to obtain for the United States Governement a ,<unclear> parcel </unclear> of the "Bean of Calabar" also a similar <unclear> parcel </unclear> for Doctor Albert Dung of New York. 
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Henry Rider to Frederick W. Seward, February 19, 1864</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
 
-The article does not grow in or adjacent to this Colony and in little known here but I have been fortunate enough to mustbar gwntleman, by this packet-form down the Coast (Calabana)of whom I have obtained tour information with ragard to the article. It is not culturated at
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
 
-J.N. Seward Esq
-Aucg Secretary of State 
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0276</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
 
-present but then beginning to be a demand for if it were probably at that the attention of the natvies very <unclear/> as an article of trade, it is and by them in Name of there ceremonies and is know by the nom of the "Ordeal Bean" investigation has proved it of great value in many <unclear/> diseases a well as there of the eye.
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Henry Rider to Frederick W. Seward, February 19, 1864</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1864-02-19">February 19, 1864</date>
+</bibl>
+</sourceDesc>
 
-One of the gentlemen kindy gave me a letter through the influence of which I <unclear> people to obtain a parcel to read as requested</unclear> I have also written Capt. Alexander of the book "The Pope" bound fo tornado Po requesting from to endeavorto get me some of the beaus.
+</fileDesc>
 
-The beaus are sold in England at half a clowe an once for medicevial purposes.
+<profileDesc>
+<langUsage>
 
-M Bailei this gentlemn from whom I received the letter has kindly promised to send me from England an essay on the article by a Doctot Fearce who has given great attention to it and through whom it was brought to the notice of the medical world Hoping I may <unclear/> be able to report success in my efforts.
+<language ident="en">English</language>
+</langUsage>
 
-I have the honor to be 
-Sir,
-Your obdt servant
-Henry Rider 
-U.S. Consular Agent
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+</keywords>
+    
+
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Rider, Henry</persName>
+<roleName>United States Consular Agent</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1864-02-19"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seward, Frederick W.</persName>
+<roleName>Acting Secretary of State</roleName>
+<placeName>Washington, D. C.</placeName>
+<date when="1864-03-25"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-10" who="#lkw"> Encoding</change>
+<change when="2019-09" who="#csls"> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="69"/>
+
+<note>Rec'd March 25 '64<lb/>
+Asd Ap 19</note>
+
+
+<opener>Consulate of the United States of America at Sierra Leone<lb/>
+19th February 1864<lb/>
+No. 3<lb/>
+
+<address><addrLine>F. W. Seward Esq</addrLine>
+<addrLine>Actg Secretary of State</addrLine>
+<addrLine>&amp;c &amp;c &amp;c </addrLine></address>
+
+Sir,</opener>
+
+<p>I have the honor to acknowledge a communication from you desiring me to obtain for the United States Government a parcel of the "Bean of Calabar" also a similar parcel for Doctor Albert Dung of New York. </p>
+
+<p>The article does not grow in or adjacent to this Colony and is little known here but I have been fortunate enough to meet two  gentleman, by this packet-form down the Coast (Calabar) of whom I have obtained some information with regard to the article. It is not culturated at
+
+<pb facs="70"/>
+
+present but there beginning to be a demand for if it will probably attract the attention of the natives very soon as an article of trade, it is used by them in some of there ceremonies and is know by the name of the "Ordeal Bean" investigation has proved it of great value in many other diseases a well as them of the eye.</p>
+
+<p>One of the gentlemen kindly gave me a letter through the influence of which I hope to obtain a parcel to read as requested I have also written Capt. Alexander of the bark "Thos Pope" bound for Fernando Po requesting him to endeavor to get me some of the beans.</p>
+
+<p>The beans are sold in <catchwords>England</catchwords>
+
+<pb facs="71"/>
+
+England at half a crowner an once for medicinal purposes.</p>
+
+<p>Mr Baillie the gentleman from whom I received the letter has kindly promised to send me from England an essay on the article by a Doctor Fraser who has given great attention to it and through whom it was brought to the notice of the medical world Hoping I may soon be able to report success in my efforts.</p>
+
+<closer><salute>I have the honor to be<lb/>
+Sir,<lb/>
+Your obdt servant</salute>
+<salute>Henry Rider<lb/>
+U.S. Consular Agent</salute></closer>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
