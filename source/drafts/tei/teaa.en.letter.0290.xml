@@ -1,34 +1,182 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-Derek Loun
-Ald Calabor
-25 May 1864
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0290">
 
-Sir,
-I duly received your letter of 12th April, desiring, on behalf of the government of the United States, a supply of lealabor beau
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Letter from Alexander Robb to Henry Rider, May 25, 1864</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
 
-I have much pleasure in being able to comply with your request and shall lead per mail a small <unclear> bor </unclear> containing lotter. If analysis is the <unclear> olyeeb, </unclear> there will probably be too few <unclear> for any entertive </unclear> experiements. But M Baillee says that "500 or do would perhaps be enough". There are more than that in 10 lbs. Should more be needed I shall be happy to supply them; such if may be well that you give me notice without any long delay, <unclear/> my supply should rew out.
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
 
-By the present mail steam that 10 /- has been paid per pound in London but as there are for <unclear> sacrifice, specific </unclear> puurpose shall give them for 6/ per pound. 
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0290</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Letter from Alexander Robb to Henry Rider, May 25, 1864</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1864-05-25">May 25, 1864</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+</keywords>
+    
+
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Robb, Alexander</persName>
+<roleName></roleName>
+<placeName>Creek Town, Old Calabar</placeName>
+<date when="1864-05-25"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Rider, Henry</persName>
+<roleName>United States Consular Agent</roleName>
+<placeName>Sierra Leone</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-10" who="#lkw"> Encoding</change>
+<change when="2019-09" who="#csls"> Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="75"/>
+
+
+<opener>Creek Town<lb/>
+Old Calabar<lb/>
+25 May 1864<lb/>
+
+Sir,</opener>
+<p>I duly received your letter of 12th April, desiring, on behalf of the government of the United States, a supply of Calabar bean</p>
+
+<p>I have much pleasure in being able to comply with your request and shall send per mail a small box containing <unclear>10 lbs</unclear>. If analysis is the object there will probably be too few for any extensive  experiments. But Mr Baillie says that "500 or so would perhaps be enough". There are more than that in 10 lbs. Should more be needed I shall be happy to supply them; such if may be well that you
+
+<pb facs="76"/>
+
+ give me notice without any long delay, lest my supply should run out.</p>
+
+<p>By the present mail I learn that 10 /- has been paid per pound in London but as these are for scientific purpose shall give them for 6/ per pound. </p>
 
 <!-- right side cut off -->
-It is not out of place to state that about four years ago,I supplied some some of these beans to to a <unclear> P </unclear> Mitchell in Philadelphia who, I undertood was <unclear/> in an analysis of African ordeals.
+<p>It is not out of place to state that about four years ago,I supplied some some of these beans to to a Dr Mitchell in Philadelphia who, I undertood was <unclear>engaged</unclear> in an analysis of African ordeals.</p>
 
-The request come to me though <unclear> one </unclear> of the missionaries at Leouises or Gabon I may further state that the <unclear> fallen </unclear> I believe the only, aeedunt of the Leone is to be found in a "Graduation thesis
-published by Messes Olivia and <unclear> Boya</unclear> Edinbaugh. the title a 
+<p>The request come to me though <unclear>one</unclear> of the missionaries at Leouises or Gabon. I may further state that the <unclear>fallest</unclear> I believe the only, account of the bean is to be found in a "Graduation thesis
+published by Messrs Oliver and Boyd Edinburgh. the title is 
 
-"The Characters, actions and <unclear> therea  peutie uses of </unclear> Ordeal Bean Calabar (Physestigma romondosum Bayour) A graduation thesis for which a gold medal was awarded the Edinburgh unworthy. 
+"The Characters, actions and therapeutic uses of the Ordeal Bean
 
-By Thoas R. Fraser M. D. Edward . Kin published in the form of a pamhlet and give a full account of the experiements and their results and also experiment eases of diseases in which the bean had been used as a semevy. with government.
+<pb facs="77"/>
 
-I have the honor to be
-Sir
-Your obedieent servant
-Alexander Robb
+ Calabar (Physostigma Venenosum, Balfour) A graduation thesis for which a gold medal was awarded the Edinburgh University. </p>
 
-Henry Esq
-U.S. Vice Consul
-Sierra Leone 
+<p>By Thomas R. Fraser M. D. Esqr &amp;c . It is published in the form of a pamphlet and gives a full account of the experiments and their results and also specimen cases of diseases in which the bean had been used as a remedy. with good results.</p>
 
-P.S. I may <unclear extent=eight words/> poison, and should be take out of the <unclear extent=two word/> any acid out happen. There is <unclear extent=three words/> in her eten, or course; but I believe that loss <unclear extent= two words/> may be a fatal dose. Its native name is <symbolism/> (easmmeh)
-A.R. 
+<closer><salute>I have the honor to be<lb/>
+Sir<lb/>
+Your obedient servant</salute>
+<signed>Alexander Robb</signed>
+
+<address><addrLine>Henry Esq</addrLine>
+<addrLine>U.S. Vice Consul</addrLine>
+<addrLine>Sierra Leone\</addrLine></address></closer>
+
+<pb facs="78"/>
+
+<postscript><p>P.S. I may warn you that the bean is a deadly poison, and should be kept out of the way lest any accident happen. There is no danger unless it is eaten, of course; but I believe <unclear>two beans</unclear> may be a fatal dose. Its native name is 
+é-ser-e (a, as in meh)</p>
+<signed>A.R. </signed></postscript>
+
+
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
