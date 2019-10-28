@@ -35,7 +35,7 @@
 <idno type="project">teaa.en.government.0005</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
-<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to "To Enter Africa from America", made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
 </availability>
 </publicationStmt>
  
@@ -61,7 +61,10 @@
  
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Encounters with Africans</term>
+<term>International Conferences</term>
+<term>Missionaries</term>
+<term>Slave Trade and Slavery</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -73,33 +76,31 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term>Alden, Percy, 1865-</term>
-<term>Bacon, Robert, 1860-1919</term>
-<term>Bennett, Charles G. (Charles Goodwin), 1863-1914</term>
-<term>Carter, John R. (John Ridgely), 1862-1944</term>
-<term>Carton de Wiart, Edmond, Comte, 1876-1959</term>
+<term ref="http://viaf.org/viaf/161311254">Alden, Percy, 1865-</term>
+<term ref="http://viaf.org/viaf/10192726">Bacon, Robert, 1860-1919</term>
+<term ref="http://viaf.org/viaf/76018602">Bennett, Charles G. (Charles Goodwin), 1863-1914</term>
+<term ref="http://viaf.org/viaf/73601123">Carter, John R. (John Ridgely), 1862-1944</term>
+<term ref="http://viaf.org/viaf/17340449">Carton de Wiart, Edmond, Comte, 1876-1959</term>
 <term>Chevalier van der Elst</term>
 <term>Dodds, C. J.</term>
-<term>Edward VII, King of Great Britain, 1841-1910</term>
-<term>Elst, Léon van der, baron, 1856-1933</term>
-<term>Grey of Fallodon, Edward Grey, Viscount, 1862-1933</term>
-<term>Léopold II, King of the Belgians, 1835-1909</term>
-<term>Lodge, Henry Cabot, 1850-1924</term>
+<term ref="http://viaf.org/viaf/265340794">Edward VII, King of Great Britain, 1841-1910</term>
+<term ref="http://viaf.org/viaf/75123579">Elst, Léon van der, baron, 1856-1933</term>
+<term ref="http://viaf.org/viaf/295001983">Grey of Fallodon, Edward Grey, Viscount, 1862-1933</term>
+<term ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/100166801">Lodge, Henry Cabot, 1850-1924</term>
 <term>Memminger, Lucien</term>
-<term>Reid, Whitelaw, 1837-1912</term>
-<term>Roosevelt, Theodore, 1858-1919</term>
-<term>Root, Elihu, 1845-1937</term>
+<term ref="http://viaf.org/viaf/37234257">Reid, Whitelaw, 1837-1912</term>
+<term ref="http://viaf.org/viaf/44346731">Roosevelt, Theodore, 1858-1919</term>
+<term ref="http://viaf.org/viaf/32065073">Root, Elihu, 1845-1937</term>
 <term>Rose, H. M.</term>
 <term>Slocum, Clarence Rice</term>
 <term>Smith, James A.</term>
-<term>Wilson, Henry Lane, 1857-1932</term>
+<term ref="http://viaf.org/viaf/52858443">Wilson, Henry Lane, 1857-1932</term>
 </keywords> 
  
 <keywords scheme="original" n="places">
-<term>Africa</term>
 <term>Bangala District</term> 
 <term>Bayenge (Congo)</term> 
-<term>Belgium</term>
 <term>Berlin (Germany)</term>
 <term>Bolenge (Congo)</term>
 <term>Bolobo (Congo)</term>
@@ -107,13 +108,11 @@
 <term>Brazzaville (Congo)</term>
 <term>Brussels (Belgium)</term>
 <term>Congo Basin</term>
-<term/>
 <term>Congo River</term>
 <term>Coquilhatville (Congo)</term>
 <term>Dobo (Congo)</term> 
 <term>Eala (Congo)</term> 
 <term>French Congo</term>
-<term>Great Britain</term>
 <term>Ikoko (Congo)</term> 
 <term>Irebu (Congo)</term>
 <term>Kasai District</term>
@@ -134,7 +133,6 @@
 <term>Ubangi River</term>
 <term>Upoto (Congo)</term> 
 <term>Yambata (Congo)</term> 
-<term>United States</term>
 <term>Washington (D.C.)</term>
 </keywords>
 
@@ -145,6 +143,12 @@
 <term>Compagnie Belge Maritime du Congo</term>
 </keywords> 
  
+<keywords scheme="original" n="empire">
+<term>Belgium</term>
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term>Budja</term>
 </keywords>

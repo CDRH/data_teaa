@@ -34,7 +34,7 @@
 <idno type="project">teaa.en.government.0006</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
-<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to "To Enter Africa from America", made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
 </availability>
 </publicationStmt>
  
@@ -74,24 +74,24 @@
 <keywords scheme="viaf" n="people">
 <term>Armstrong, J. P.</term>
 <term>Briart, M. Alphonse</term>
-<term>Bryce, James Bryce, Viscount, 1838-1922</term>
-<term>Carter, John R. (John Ridgely), 1862-1944</term>
-<term>Chevalier de Cuvelier</term>
+<term ref="http://viaf.org/viaf/41900989">Bryce, James Bryce, Viscount, 1838-1922</term>
+<term ref="http://viaf.org/viaf/73601123">Carter, John R. (John Ridgely), 1862-1944</term>
+<term>Cuvelier, Adolphe de</term>
 <term>Davignon, Julien 1854-1916</term>
 <term>de Trooz, Jules</term>
-<term>Frelinghuysen, Frederick T. (Frederick Theodore), 1817-1885</term>
-<term>Grey of Fallodon, Edward Grey, Viscount, 1862-1933</term>
+<term ref="http://viaf.org/viaf/58082142">Frelinghuysen, Frederick T. (Frederick Theodore), 1817-1885</term>
+<term ref="http://viaf.org/viaf/295001983">Grey of Fallodon, Edward Grey, Viscount, 1862-1933</term>
 <term>Handley, William W.</term>
-<term>Hardinge, Arthur Henry, 1859-1933</term>
-<term>Lichtervelde, Louis de, comte, 1889-</term>
+<term ref="http://viaf.org/viaf/204809986">Hardinge, Arthur Henry, 1859-1933</term>
+<term ref="http://viaf.org/viaf/29581700">Lichtervelde, Louis de, comte, 1889-</term>
 <term>Lukengu, King of the Bakubas</term>
-<term>Reid, Whitelaw, 1837-1912</term>
-<term>Root, Elihu, 1845-1937</term>
-<term>Sanford, Henry Shelton, 1823-1891</term>
+<term ref="http://viaf.org/viaf/37234257">Reid, Whitelaw, 1837-1912</term>
+<term ref="http://viaf.org/viaf/32065073">Root, Elihu, 1845-1937</term>
+<term ref="http://viaf.org/viaf/60425677">Sanford, Henry Shelton, 1823-1891</term>
 <term>Schollaert, Frans</term>
 <term>Smith, James A.</term>
 <term>Thesiger, Wilfred Gilbert</term>
-<term>Wilson, Henry Lane, 1857-1932</term>
+<term ref="http://viaf.org/viaf/52858443">Wilson, Henry Lane, 1857-1932</term>
 </keywords>
  
 <keywords scheme="original" n="places">
@@ -99,16 +99,13 @@
 <term>Bakuba District</term>
 <term>Bangala (Congo)</term>
 <term>Basankusu</term> 
-<term>Belgium</term>
 <term>Berlin (Germany)</term>
 <term>Boma (Congo)</term>
 <term>Brussels (Belgium)</term>
 <term>Busira River</term>
 <term>Congo Basin</term>
-<term/>
 <term>Congo River</term>
 <term>Domaine Privé</term> 
-<term>Great Britain</term>
 <term>Ituri River</term>
 <term>Juapa River</term>  
 <term>Kasai District</term>
@@ -134,13 +131,11 @@
 <term>Ubangi River</term>
 <term>Ubangi-Uele District</term> 
 <term>Uele River</term>
-<term>United States</term>
 <term>Washington (D.C.)</term>
 <term>Yakusu (Congo)</term> 
 <term>Yambata (Congo)</term> 
 </keywords>
 
- 
 <keywords scheme="original" n="organization">
 <term>International African Association</term>
 <term>International Association of the Congo</term>
@@ -149,6 +144,12 @@
 <term>Société Anonyme Belge</term>
 </keywords>
  
+<keywords scheme="original" n="empire">
+<term>Belgium</term>
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term>Bakuba</term>
 <term>Bafuasoma</term>
@@ -156,6 +157,7 @@
 <term>Medje</term>
 <term>Mokudu</term>
 </keywords>
+
 <keywords scheme="original" n="language">
 <term/>
 </keywords>
@@ -163,8 +165,7 @@
 <keywords scheme="original" n="religion">
 <term>Christianity</term>
 </keywords>
- 
- 
+
 </textClass>
 </profileDesc>
    
