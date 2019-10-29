@@ -70,49 +70,43 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Banneker</term>
+<term ref="http://viaf.org/viaf/62601090">Banneker, Benjamin, 1731-1806</term>
 <term ref="http://viaf.org/viaf/51556067">Benson, Stephen Allen, 1816-1865</term>
 <term ref="http://viaf.org/viaf/54942091">Blyden, Edward Wilmot, 1832-1912</term>
 <term>Briggs, L., Jr.</term>
-<term>Caldwell</term>
-<term>Clay</term>
+<term ref="http://viaf.org/viaf/6453350">Caldwell, Elias Boudinot, 1776-1825</term>
+<term ref="http://viaf.org/viaf/32012452">Clay, Henry, 1777-1852</term>
 <term>Crummell, Alexander</term>
-<term>Cuffee, Paul, Captain</term>
-<term>Drayton, Boston J. (Boston Jenkins), 1817-1866</term>
-<term>Finley</term>
-<term>Harper, General</term>
-<term>Jefferson</term>
+<term ref="http://viaf.org/viaf/50036467">Cuffe, Paul, 1759-1817</term>
+<term ref="http://viaf.org/viaf/101486675">Drayton, Boston J. (Boston Jenkins), 1817-1866</term>
+<term ref="http://viaf.org/viaf/39258883">Finley, Robert, 1772-1817</term>
+<term ref="http://viaf.org/viaf/54969088">Harper, Robert Goodloe, 1765-1825</term>
+<term ref="http://viaf.org/viaf/41866059">Jefferson, Thomas, 1743-1826</term>
 <term>Johnson, J. D.</term>
-<term>Lafayette</term>
-<term>Livingstone</term>
-<term>Madison</term>
-<term>Maxwell</term>
-<term>Mercer</term>
-<term>Milton, John</term>
+<term ref="http://viaf.org/viaf/22144104">Lafayette, Marie Joseph Paul Yves Roch Gilbert Du Motier, marquis de, 1757-1834</term>
+<term ref="http://viaf.org/viaf/82967082">Livingstone, David, 1813-1873</term>
+<term ref="http://viaf.org/viaf/59096754">Madison, James, 1751-1836</term>
+<term>Maxwell, George</term>
+<term ref="http://viaf.org/viaf/27870303">Mercer, Charles Fenton, 1778-1858</term>
+<term ref="http://viaf.org/viaf/17226855">Milton, John, 1608-1674</term>
 <term>Morris, Edward S.</term>
-<term>Park</term>
+<term ref="http://viaf.org/viaf/106963836">Park, Mungo, 1771-1806</term>
 <term>Roberts, J. J.</term>
 <term>Seys, John</term>
 <term>Sibley, J. L.</term>
-<term>Warner, D.B.</term>
-<term>Washington</term>
+<term>Warner, D. B.</term>
+<term ref="http://viaf.org/viaf/31432428">Washington, George, 1732-1799</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Liberia</term>
-<term>Maryland</term>
-
-<term>Baltimore</term>
-
-<term>England</term>
-<term>Ethipoia</term>
-<term>Europe</term>
+<term>Baltimore (Md.)</term>
+<term>Ethiopia</term>
 <term>Ganges River</term>
 <term>Hayti</term>
 <term>Kentucky</term>
-
+<term>Liberia</term>
+<term>Maryland</term>
 <term>Mississippi River</term>
-<term>New York</term>
 <term>Niger River</term>
 <term>Nile River</term>
 <term>Tennessee</term>
@@ -123,7 +117,7 @@
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Caucasian</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -140,7 +134,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-09-11" who="kln">reviewed encoding</change>
+<change when="2019-10-29" who="kln">reviewed encoding</change>
 <change when="2019-04-11" who="pr">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -157,13 +151,15 @@
 
 <p>Forty-Sixth Annual Report
 of the
-American Colonization Society</p>
+American Colonization Society.</p>
 
 </div2>
 
 <div2 type="article">
 
-<p>Emigration</p>
+<gap reason="sampling"/>
+
+<p>Emigration.</p>
 
 <p>The civil war, and the various questions which have divided
 and distracted the minds of our free people of color, have prevented
@@ -323,7 +319,7 @@ cabinet of mineralogy, gathered from most parts of the world
 between the Mississippi and the Ganges, and wanting only two
 or three specimens, which are already promised, for a complete
 elementary cabinet. A small but well-selected box of specimens
-in conchology accompanied them.</p><!-- START HERE -->
+in conchology accompanied them.</p>
 
 <p>"For the inauguration of the college,. January 23, 1862, was
 selected, as a time near the close of the session of the Legislature
@@ -575,7 +571,7 @@ felt, and very great calamity in future is justly apprehended." * *</p>
 nation, which can never become incorporated with us, while it
 rapidly increases in numbers, and improves in intelligence; learning
 from us the arts of peace and war, the secret of its own strength,
-and the talent of combining and directing its force- a nation which
+and the talent of combining and directing its force&#8212;a nation which
 must ever be hostile to us, from feeling and interest, because it can
 never incorporate with us, nor participate in the advantages we enjoy; 
 the danger of such a nation in our bosom need not be pointed
@@ -817,8 +813,7 @@ Africans, its fifty churches, its college and schools, its organized
 and independent Government, let it kindle new beacon lights of
 Christianity and education along the headlands of the Atlantic
 coast, and upon the hill tops of the interior, until Ethiopia receives 
-the baptism, and rises from her knees regenerated and dis-
-enthralled.</p>
+the baptism, and rises from her knees regenerated and dis-enthralled.</p>
 
 </div2>
 
