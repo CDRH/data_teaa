@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0270">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Dispatch from Henry May to William H. Seward, December 1, 1869</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm"></name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0270</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+    <title level="a">Dispatch from Henry May to William H. Seward, December 1, 1869</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1869-01-12">December 1, 1869</date>
 </bibl>
 </sourceDesc>
 
@@ -99,22 +99,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>May, Henry</persName>
+<roleName>Commercial Agent</roleName>
+<placeName>Gaboon</placeName>
+<date when="1869-01-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Seward, William H.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -122,19 +122,23 @@
 
 <body>
 
-Dear Sir, 
+<div1 xml:lang="en" type="document">
+
+<pb facs="20170615_110515"/>
+
+Dear Sir,
 I have the honor to 
 inform upon that, I arrived here upon
 the 3rd day of November 1869.
 
-The vessel
+<p>The vessel
 upon which I took pasasage from the 
 United States was unavoidably delayed. 
 Causing me to be much longer 
 reaching this place than I anticiplated 
 when I left New York.
 
-In 
+<p>In 
 order to account for ant informaties 
 that, may exist in the present,
 corespondence permits me to state 
@@ -145,7 +149,11 @@ Agents was mislaid in America and
 has not yet reached me i would 
 respectfully request that another book be sent to me.
 
-I have recieved information through
+sent to me 
+
+<pb facs="20170615_110531"
+
+<p></p>I have recieved information through
 Commandore Baron Divdeloh of the 
 French fleet upon this coasr that 
 there are two iron clad reven gun
@@ -168,8 +176,10 @@ information through the Pourtegese
 Mail thush from the Lisbon to 
 St paul de Loando.
 
-By information received from 
-the same source. (Commandere S.)
+<pb facs="20170615_110537"/>
+    
+<p></p>By information received from 
+the same source.(Commandere S.)
 from the spanish authorities at
 Fernando Po I have reason to as
 pretend. that the same difficulties 
@@ -178,26 +188,18 @@ of the United States and
 Spain in the years 1859 and 1860
 in relation too Spanish interference 
 <unclearr> mth-Pomere Missionaries </unclearr>
-upon the island of Courisco
 are likely to be received. 
-
-A copy of the regulations of 
+ 
+<p></p> A copy of the regulations of 
 the Hon. Secretary of Treasury to 
 Which reference is made in Circular 
 of 17 of July 31st 1862. has not 
 reached me.
-
-I have the honor to
+    
+<ab></ab>I have the honor to
 be Your most obi. servant
 Henry May Com.Agnt.
-
-
-
- 
-
-<div1 xml:lang="en" type="document">
-
-<pb facs="x"/>
+    
 
 <p></p>
 
