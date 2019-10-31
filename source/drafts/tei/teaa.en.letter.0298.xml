@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0298">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from J.M.Preston to William H. Seward, Janurary 3, 1866</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0298</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Despatch from J.M.Preston to William H. Seward, Janurary 3, 1866</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1866-01-3">Janurary 3, 1866</date>
 </bibl>
 </sourceDesc>
 
@@ -99,34 +99,37 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Preston, J.M.</persName>
+<roleName>Honorable Consul</roleName>
+<placeName>Gaboon</placeName>
+<date when="1866-01-3"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Seward, William H.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"></div1>   
     
+<pb facs="20170615_112047" 
+ 
 To Mr. Hem W.Me.Seward,
 Secretary of State,
 Washington D.C.
 
-Sir: I have
+<p></p>Sir: I have
 the honor to aacknowledge, since my last, the reciept,
 from the Dep. of State of despatch No.14, requesting 
 me to continue to act as Vier Com'd Agt. 16th 
@@ -135,23 +138,23 @@ N. leardins, Circular in relation to the Am.
 Geo and State Sec. N.Y. and a copy of "List, of 
 Diplomatic+ Consular offices at".
 
-I reply to note on page 2 of said "List", That
+<ab></ab>I reply to note on page 2 of said "List", That
 The "Meavval" here was printed at "Washington, 1863.
 
-To note on page 56, I reply that "Gaboon"
+<p></p>To note on page 56, I reply that "Gaboon"
 is seriosuly put on page 10, among "Porteguese
 Ammeins". It should be among French 
 on page 9. 
 
 our
-
-I have no arrivals of vessels to report 
+<pb facs="20170615_112051"
+<ab></ab>I have no arrivals of vessels to report 
 during the past six months, nor any fees.
 
-During the year 1865 only two 
+<ab></ab>During the year 1865 only two 
 American vessels (barike) have entered this part.
 
-There is no material change in
+<p></p>There is no material change in
 the trade. The articles of export ( hory and 
 Barwood) are becoming yearly searcers +
 dearer; and year by year subject to 
