@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0286">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from J.M. Preston to William H. Seward, August 12, 1865</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0286</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+    <title level="a">Despatch from J.M. Preston to William H. Seward, August 12, 1865</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1865-08-12">August 12, 1865</date>
 </bibl>
 </sourceDesc>
 
@@ -99,32 +99,36 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Preston, J.M.</persName>
+<roleName>Honorable Consul</roleName>
+<placeName>Gaboon</placeName>
+<date when="1865-08-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Seward, William H.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document">
+
+<pb facs="20170615_111937"/>
+
 
 Sir,
 
-There is, and 
+<p>There is, and 
 long has been, an active trade in Slaves, amounting 
 to several hundreds a year, I can not give 
 exact figures, Carried on between Princes and 
@@ -148,14 +152,15 @@ slaves
 
 Slaves were carried to the islands in boats 
 and larger Canoes.
+<pb facs="20170615_111946"
 
-During the present voyage I heard 
+<p>During the present voyage I heard 
 of a slavefactory in Pernan vas river of 
 another large me at Cape Lopez + I saw 
 at the latter place a schooner at anchor 
 in the of*ing.
 
-I had with me a son of the late Ring 
+<p></p>I had with me a son of the late Ring 
 of Cape Lopez, who was very Communicative 
 on the subject of the Slave trade. The 
 Burew all about the movements of the schooner which 
@@ -169,7 +174,7 @@ Process; is recognized at Gaboon as a lawful trade H.R.
 This is no doubt the same schooner I saw 
 last year a little further South.
 
-A few months ago a Porteguese schooner from St.
+<p>A few months ago a Porteguese schooner from St.
 Paul de Loaude, bound for Princes or St. Thome put 
 into Gaboon leaking very badly. It had a great 
 many blacks aboard, servants to the officers +crew of
@@ -178,16 +183,16 @@ made out at St. P de L.J learned that each
 citizen may taken 10 such servants according 
 
 to
-
+<pb facs="20170615_111951"
 to Porteguese law.
 
-The question arises, What becomes of all 
+<p></p>The question arises, What becomes of all 
 these slaves?  Wiener the Cash and Merchandise 
 that pay for them? Agriculture on these islands
 is at a very low 266. Only small grantitues of Offcie
 + beacon are raised for exportation and nothingelse.
 So Rind of manufactures is carried .
-Hence then the demand for so many slaves?
+<p></p>Hence then the demand for so many slaves?
 Are they reshipped to and then market? This would 
 seem profitable. An American supercargo, an 
 acquitable of mine, was total, when there a few
@@ -199,7 +204,7 @@ down and no apperance of trade day after
 down and no apperance of trade day after day.
 When her Capt. was questioned about his trade his 
 answer were very evasive. At the same time the 
-Porteguese schooners above mentioned "was about 
+<p></p>Porteguese schooners above mentioned "was about 
 at Cape Lopez, for a cargo of Pea mets"
 Our captain has no doubt the brig was there 
 for a vargo of Slaves. I have heard of there 
@@ -207,8 +212,8 @@ being no slaves on the island, but heard nothing
 of any epidemic that swept them off.
 
 The
-
-The French claim Cape Lopez as well as Gaboon,
+<pb facs="20170615_112003"
+<p>The French claim Cape Lopez as well as Gaboon,
 yet slave trading carried on at both places almost 
 continually. There is now a trader om Gaboon, but 
 probably not known to the Authorities. Occasionally the 
@@ -216,7 +221,7 @@ Authorities here make some effort to stop it, and I
 have, once, in the last 5 years, taken a count and slaves .
 They freed the slaves + released the traders.
 
-Such is about the sums of informaiton 
+<ab>Such is about the sums of informaiton 
 I have. I have communicated it, unofficially of course,
 to the British Consul of Fermando Po.
 
