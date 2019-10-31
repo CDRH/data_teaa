@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0278">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Henry May to William H. Seward, June 16, 1863</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0278</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+    <title level="a">Despatch from Henry May to William H. Seward, June 16, 1863</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1863-06-16">June 16, 1863</date>
 </bibl>
 </sourceDesc>
 
@@ -99,28 +99,31 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>May, Henry</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Gaboon</placeName>
+<date when="1863-06-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Seward, William H</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document">
+
+<pb facs="20170615_110631"/>
     
 United States Comm. Agency
 at Gaboon River from 16th May 
@@ -130,7 +133,7 @@ Secretary of State
 Washington D.C.
 
 Dear Sir,
-
+<p></p>
 I would beg to state that the trade 
 between the United States and this port is very 
 limited. During the past year there has been 
@@ -142,7 +145,7 @@ information there has not been more than
 three American vessels here during any one 
 year for the past three years. I know of no 
 American vessel expected here at present.
-The <unclear> breatke</unclear> of this river  is 
+The breathtaking of this river is 
 princefuly in the hands of the English.
 The exports form this part aiming 
 the past year were, of <unclear> Very*</unclear> 25 tons;

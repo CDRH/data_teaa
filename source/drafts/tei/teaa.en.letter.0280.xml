@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0280">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Henry May to William H. Seward, September 8, 1868</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm"></name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0280</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+    <title level="a">Despatch from Henry May to William H. Seward, September 8, 1868</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1868-09-8">September 8,1868</date>
 </bibl>
 </sourceDesc>
 
@@ -99,36 +99,39 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>May, Henry</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Gaboon</placeName>
+<date when="1868-09-8"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Seward, William H.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm"></change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"></div1>
+    
+<pb facs="20170615_110841"
 
 Dear Sir,
 
-I would acknowledge 
+<p></p>I would acknowledge 
 the recipt of a package containing a Consular Manual
 and a volume of Comml. relations for 1861.
 
-I would 
+<p></p>I would 
 beg have to state that the authorities of this palce refuse 
 to receive me in my official capacity that my predecessors 
 Sr. Henry Ford and Rev.W. Mather 
@@ -141,7 +144,7 @@ your attention to this subject and most respectfully
 requests should you deem in proper and expidure '
 to the furnished at exequatue 
 
-I am with the highest admiration 
+<ab></ab>I am with the highest admiration 
 your must obedient servant 
 Henry May 
 United State Comm. Agn.

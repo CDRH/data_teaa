@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0281">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Henry May to William H. Seward, September 31, 1863</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0281</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+    <title level="a">Despatch from Henry May to William H. Seward, September 31, 1863</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+    <date when="1863-09-31">September 31, 1863</date>
 </bibl>
 </sourceDesc>
 
@@ -99,32 +99,35 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>May, Henry</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Gaboon</placeName>
+<date when="1863-09-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Seward, William H.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"></div1>
+    
+<pb facs="20170615_111239"
 
 Ralph,
 
-I should beg to offer you the following 
+<p></p>I should beg to offer you the following 
 information. The trade in this river is free 
 to all vessels of every country. No hommage
 duties or other port dues. No vessel however is 
@@ -141,14 +144,14 @@ is permited to land without permission. The
 Captain must give twenty four hours notice in 
 order to ibtain his discharge and receive no papers.
 
-The trade upon this part of the aprican 
+<p></p>The trade upon this part of the aprican 
 coast is increasing. The amount of 
 rubber shipped from the Gaboon *Boony and 
 moondah river for the present opeal greatly 
 
 exceeds
-
-that of any former year. The rubber mostly goes 
+<pb facs="20170615_111245"
+<p></p>that of any former year. The rubber mostly goes 
 to England costing here about six cents per pound.
 The amount of Ivory exported from 
 this place and sicenety is about the same as it
@@ -158,7 +161,7 @@ fifty its her prunel according to the quality
 most of this reduction give through England
 to the Continents. 
 
-The amount of Bai Wood id equal
+<p></p>The amount of Bai Wood id equal
 to the demand though it is becoming scared 
 upon the banks of the River. The principal supply 
 being percured some distance up the River and 
@@ -167,14 +170,18 @@ France through a great proposition is shipped
 in Engish vessels. Bai-Wood cost here about 
 four hundred and fifty to per ton.
 
-It is exceeding difficult, to obtain any reliable
+<p></p>It is exceeding difficult, to obtain any reliable
 information in regard to the recources of the interior
 jealousies which exist between different duties. From
 the best information which I can gather in *ordu to secure 
 the milk from which it is made destroy the vine.
 The French aree extending this possessions upon 
 this Coast having recently purchased the River
-and country of Bonny Payeng a large drum 
+
+river
+
+<pb facs="20170615_111251"
+<p></p>and country of Bonny Payeng a large drum 
 to the native "King" (Peppell"). They have 
 latern possession of the Congo at least the 
 north bank of it and also of Cape Lopey,
@@ -184,7 +191,7 @@ Mondah. Which aew situatue about fifty
 miles to the birth of this place emptying theur 
 maters into Cousco bay.
 
-I have no arrivals or 
+<ab></ab>I have no arrivals or 
 olehartures of American vessels to report 
 during the last six months.
 
