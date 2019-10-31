@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0062">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Progress in Africa</title>
-<!-- NOTE: If there is no author, just use the publication name. EXAMPLE: New York Times, "The Congo Free State" -->
+<title>"Progress in Africa" (1889)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Akyeampong, Chelsea A." xml:id="caa">Chelsea A. Akyeampong</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -34,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.template.periodicals.0062</idno>
+<idno type="project">teaa.en.periodical.0062</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -44,12 +43,11 @@
 <sourceDesc>
 <bibl>
 <title level="a" type="main">Progress in Africa</title>
-<author n="LAST NAME, FIRST NAME"><!-- FULL NAME --></author><!-- If no author, delete this line. -->
-<title level="j"><!-- PERIODICAL TITLE --></title>
-<biblScope unit="volume"><!-- VOLUME NUMBER --></biblScope>
-<biblScope unit="issue"><!-- ISSUE NUMBER --></biblScope>
+<title level="j">African Repository</title>
+<biblScope unit="volume">65</biblScope>
+<biblScope unit="issue">1</biblScope>
 <date when="1889-01">January 1889</date>
-<biblScope unit="page">1-25</biblScope>
+<biblScope unit="page"></biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -61,33 +59,46 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
-    
+ 
 <keywords scheme="original" n="type">
 <term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
 <term>Journal</term>
-</keywords>    
-    
-<keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
-<term/>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/78345975">Hannington, James, 1847-1885</term>
+<term>Parker, Henry</term>
 </keywords>
-    
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
-<term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
+ 
+<keywords scheme="original" n="places">
+<term>Alongo (Corisco)</term>
+<term>Angoma</term>
+<term>Baraka</term>
+<term>Gaboon River</term>
+<term>Kangwe (French Congo)</term>
+<term>Lake Tanganyika</term>
+<term>Lake Victoria Nyanza</term>
+<term>Ogowe River</term>
 </keywords>
 
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
-    
+<keywords scheme="original" n="empire">
+<term>France</term>
+<term>Great Britain</term>
+</keywords>
+ 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
+ 
 <keywords scheme="original" n="religion">
-<term/>
+<term>Anglican</term>
+<term>Free Church of Scotland</term>
+<term>Presbyterian</term>
 </keywords>
 
 <keywords scheme="original" n="language">
@@ -98,7 +109,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-04" who="#caa">transcribed and encoded</change>
+<change when="2019-10-31" who="#kln">encoded</change>
+<change when="2019-04" who="#caa">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -107,217 +119,67 @@
 <body>
 
 <div1 type="document" xml:lang="en">
-<pb xml:id="p17" facs="African Repository 1889.1.1 - Progress in Africa.pdf"/>
+
+<pb xml:id="p21" facs="teaa.en.periodical.0062.001"/>
 
 <div2 type="title">
 
-<p>Literature</p>
+<p>Progress in Africa.*</p>
 
-<p>Tropical Africa," by Professor Henry Drummond, will great-
-   ly interest and instruct all classes of readers. It is not strictly a book
-   of travels or of science, but in a charming style Professor Drum-
-   mond details briefly what he saw in his excursion up the Zambezi,
-   crossing lake Nyasa to the high plateau between Nyasa and Tangan-
-   yika. Professor Drummond evidently believes in the African and
-   in the possibilities of a development within the bounds of his own
-   Continent. This is altogether a charming book; and its six colored</p>
-
-<pb xml:id="p18" facs="African Repository 1889.1.1 - Progress in Africa.pdf"/>
-
-<p>maps of Central and Southern Africa are worth more than the price
-   of the volume</p>
-
-<p>    "Emin Pasha in Central Africa," is one of the most fascina-
-   ting as well as valuable books relating to Africa; and a remarkable
-   fact connected with it is, that though the author, so far as known, is
-   not only alive but in active service, he is not even aware of the exist-
-   ence of the volume. In the centre of his Equatorial Province Emin
-   Pasha has been practically shut away form the world, and for years
-   at a time he has recieved no communication from without. But he
-   has nevertheless been able to send to his special friends, Professors
-   Schweinfurth and Ratzel, and Doctors Felkin and Hartlaub, letters
-   which have reached them, and which they feel to be of such value to
-   the world that they have arranged and presented them in this comely
-   volume of 547 pages. The journals cover the period from 1877 to
-   April, 1887, although there are many gaps. The contributions to nat-
-   ural history contained in this volume would be sufficient to give fame
-   to any man but when we add to this the service of Emin Pasha as a 
-   military leader and governor, and his protracted and energetic efforts
-   for the suppression of the slave-trade and the amelioration of the
-   condition of the people of the Equatorial Province, we are constrain-
-   ed to admit that he is one of the most wonderful men of our times.</p>
-
-<p>   The story of his life is briefly given, from which we learn that his
-   real name is Eduard Schnitzer, the son of Protestants, born in Op-
-   peln, Silesia, in 1840. After obtaining a medical education at Berlin,
-   he sought practice in Turkey, traveling through Armenia, Syria and 
-   Arabia. He entered the Egyptian service in 1876 and became chief 
-   medical officer of the Equatorial Province under General Gordon.
-   It was there that he assumed the name of Emin Effendi, for the pur-
-   pose of removing all obstacles to his intercourse with the natives, at
-   the same time assuring his friends that "an honest German is disguis-
-   ed behind the Turkish name. Don't be afraid ; I have only adopted
-   the name. I have not become a Turk." Aside from his extraordinary
-   gifts in scientific studies, Dr. Emin has remarkable ability in the ac-
-   quisition of languages so that he not only speaks the principal lan-
-   guages of Europe, but has mastered several Slavonic tonguese as well
-   as the Turkish and Arabic. His acquisitions in the line of language
-   in Central Africa must be a matter of conjecture.</p>
-
-<p>    It was in 1878 that Gordon made Emin governor of the Equato-
-   rial Province, and the new ruler immediately undertook to redeem
-   the district from the domination of slave-traders. With great energy
-   and patience he wrought until he had trained a native soldiery
-   and had banished the slave-traders from the Province; and in 1882</p>
-
-<pb xml:id="p19" facs="African Repository 1889.1.1 - Progress in Africa.pdf"/>
-
-<p>he was able to show a net profit through his administration of $40,000
-   in place of the preceeding annual defici of not far from $160,000. Re-
-   garding his administrative duties as of prime importance, he never
-   suffered his intense love for scientific investigations to interfere with
-   his work as a ruler. While throughout these letters to his friends
-   there is a singular mingling of records of his administration with ac-
-   counts of the wonderful flora and fauna of the Province, it is clear
-   that his heart is first of all fixed upon securing good government for
-   the people over whom he is placed. Dr. Hartlaub, referring to the 
-   zoological collections and observations which Emin Pasha has made,
-   declares that they are astonishing in the highest degree. But they
-   cannot be more astonishing than are the results of his administration
-   among the people. To be sure, in the troubles that ensured after 1882,
-   and in the enlargement of his domain, the slave trade was again re-
-   vived and Dr. Emin, having no help from without found it impossible to
-   restrain the rapacity and lust of the slae dealers in the new districts
-   committed to his care. But he has patiently wrough at his work,
-   dealing with the people in wise and just ways, and has won their re-
-   gard to a surprising degree  And now this wise and brave man stands
-   at his post, unwilling to leave it even were some broad way opened
-   for him to flee from a trust which he would gladly lay down if a stern
-   conviction of duty would allow him so to do.</p>
-
-<p>   "German Work in Africa" is a book of interest concerning
-   the "Dark Continent". It is by Goyaux, the well-known German traveler,
-   and-is far superior to the ordinary literature on that subject. It is
-   mostly the result of years of observation and practical experience of
-   the author, and therein has special worth. It is written largely as an 
-   aid to the present efforts of the Germans in the line of African 
-   colonization. One chapter is devoted to the climate of German
-   Africa, and in this author has no very satifactory experience. He
-   says: "German Africa will never be the seat of large emigration; on-
-   ly individual Germans who go there under the most favorable condi-
-   tions, as merchants, overseers of workmen, or government officials,
-   will be able to remain long." The third section is devoted to the sub-
-   ject of plantations in tropical Africa. Here we learn in full the nec-
-   essary modus operandi of clearing the ground and preparing the soil
-   with labor there at command, and establishing experimental agri-
-   cultural colonies. The chapter on the education of the natives is val-
-   uable, as it is the practical experience of the author of several years
-   labor on a large plantation. Suffice it to say on this point that he
-   considers the Nero capable of being educated, but the instruction</p>
-
-<pb xml:id="p20" facs="African Repository 1889.1.1 - Progress in Africa.pdf"/>
-
-<p>must be wholly practical-must be virtually object-teaching on a large
-   scale. The African is imitative, but his ambition must be stimulated,
-   and much patience is necessary to success.
-
-   "The Arab in Central Africa" is an interesting pamphlet
-   by James Stevenson, Esq, who has heretofore written in reference to
-   philanthropic and commercial enterprises in Central Africa. He 
-   brings together many facts which show that within the last five years
-   the ravages of the Arabs have increased in area and intensity, so that a 
-   territory west of the great Lakes, one thousand miles by four hun-
-   red, has been devastated. It is a sorrowful story of the growth of the
-   slave trade, and the statements here brought together give force to 
-   the representation s made to the British government, urging it to in
-   terpose in the defence of the rights of commerce in the interior of Af-
-   rica Mr. Stevenson's pamphlet is accompanied by a map of Africa,
-   showing the lines on which the slave-trade is now prosecuted.</p>
-
-<p>   "Life on the Congo" by Rev. W. Holman Bentley, contains
-   much that is valuable on the physical characteristics and climate of
-   the country, the home life and superstitions of the natives, the expe-
-   rience of the missionaries, and some of the results of their labors. It
-   is not yet ten years since the first missionaries arrived in the country,
-   and yet already there are native Christian churches at Mukimbungu,
-   Lukunaga, Banza, Manteka and San Salvador: there beign about 1,500
-   converts, whose sincerity is attested by the self-denial and consistency
-   of their lives.</p>
-
-<p>   "Dictionary and Grammar of the Kongo Language," by
-   Rev. W. Holman Bentley, is another monument to missionary enter-
-   prise. In its 718 pages it presents to the world the materi-
-   als for understanding and African language spoken in a vast district
-   bordering on the Congo river (which this author writes Kongo.) It
-   must prove an invaluable assistance to all who are engaged in com-
-   mercial or missionary enterprises within the Congo Free State.</p>
-
-<p>   There are now three periodicals in Europe which are wholly de-
-   voted to African news and comments upon the various enterprises de-
-   veloping there, while three-fourths of the space in another journal is 
-   given solely to affairs in the Congo State. One of these periodicals
-   has a circulation of six thousand copies. L'Afrique, which is publish-
-   ed in Geneva, and the African Times, of London, have ben in the 
-   field for several years, and now come the Afrika Post, issued in 
-   Hamburg, to be chiefly devoted to Germany's interests in her African
-   possessions.</p>
-
-<pb xml:id="p17" facs="African Repository 1889.1.1 - Progress in Africa.pdf"/>
-
-<div2 type="title">
-
-<p>Christian Missions</p>
-
-<p>Many of the English missionary societies laboring in Africa are
-   experiencing serious trials in connection with the sickness and death
-   of several of their missionaries and also from newly awakened hostil-
-   ity on the part of the native chieftains. Bishop Parker, of the English
-   Church Missionary Society, lately died of fever at the southern end
-   of Victoria Nyanza. Following so soon upon the murder of Bishop
-   Hamington, the death of his successor will be a sad blow to the Church
-   Missionary Society. Moreover, all the stations of this Society in East 
-   Africa, as well as of the London Society on lake Tanganyika, have
-   experienced severe trials of late in connection with the hongo, or
-   claims for tribute, made by the native chieftains. The Free Church
-   of Scotland's mission on Lake Nyasa has been compelled to suspend
-   its missionary operations, and to attend solely to self-defence against 
-   the assaults of Arab slave-traders, who have entered anew and with
-   vigor upon their infamous traffic. The losses by death of English
-   Baptist missionaries on the Congo have been so numerous as to be
-   well nigh crushing.</p>
-
-<p>The Societe des Missions Evangeliques has sent four French teach-
-   ers as aids to the American Presbyterian Mission at the Gaboon. This
-   mission, founded in 1842, has now six stations: Alongo, upon the is-
-   lad of Corisco; Baraka, or Glars, upon the equator; Angoma, upon
-   the Gaboon river, and Kangwe, on the river Ogowe. The French
-   teachers have received a hearty welcome from the French authorities
-   of the country as well as from the American missionaries. It has be-
-   come an absolute necessity that the French language should be used
-   in the mission schools.</p>
-
-<p>The missionaries of the American Baptist Missionary Union on
-   the Congo further report of the revival at Banza Manteke. About
-   two hundred have been baptized and enrolled as church members.
-   More are asking for baptism. An interesting incident is given show-
-   ing the zeal of the converts in transporting timber and iron a distance
-   of fifty miles for the building of a chapel. Most of the men have
-   made the journey three, and some four times, bringing loads on 
-   their heads. To do this requires a walk of three or four hundred
-   miles. The women have hired carriers, and thus have done their 
-   part. The boys, too, have brought half-loads.</p>
-
-<p>Bishop William Taylor in his Quadrennial Report to the Gener-
-   al Conference of the Methodist Episcopal Church, says that he had
-   superintended the regular work in the Liberia Conference and estab-
-   lished self-supporting missions on the Cavalla river. He has made
-   a beginning in the Congo region, and Angola south of the Congo riv-</p>
+<p>* Thanks are cordially tendered to the <hi rend="italics">Missionary Herald</hi> of Boston; <hi rend="italics">Church at Home and Abroad</hi> of Philadelphia; <hi rend="italics">Interior</hi> of Chicago; <hi rend="italics">African Times</hi> of London, and <hi rend="italics">L'Afrique</hi> of Geneva, for matter freely used in this paper.</p>
 
 </div2>
 
-<div2 type="article"><!-- This is where the text for the main body of the article goes. -->
+<div2 type="article">
 
-<p><!-- BEGIN TRANSCRIBING --></p>
+<gap reason="sampling"/>
+
+<p>Christian Missions.</p>
+
+<p>Many of the English missionary societies laboring in Africa are
+experiencing serious trials in connection with the sickness and death
+of several of their missionaries and also from newly awakened hostility 
+on the part of the native chieftains. Bishop Parker, of the English
+Church Missionary Society, lately died of fever at the southern end
+of Victoria Nyanza. Following so soon upon the murder of Bishop
+Hamington, the death of his successor will be a sad blow to the Church
+Missionary Society. Moreover, all the stations of this Society in East 
+Africa, as well as of the London Society on lake Tanganyika, have
+experienced severe trials of late in connection with the <hi rend="italics">hongo</hi>, or
+claims for tribute, made by the native chieftains. The Free Church
+of Scotland's mission on Lake Nyasa has been compelled to suspend
+its missionary operations, and to attend solely to self-defence against 
+the assaults of Arab slave-traders, who have entered anew and with
+vigor upon their infamous traffic. The losses by death of English
+Baptist missionaries on the Congo have been so numerous as to be
+well nigh crushing.</p>
+
+<p>The <hi rend="italics">Societe des Missions Evangeliques</hi> has sent four French teachers 
+as aids to the American Presbyterian Mission at the Gaboon. This
+mission, founded in 1842, has now six stations: Alongo, upon the island 
+of Corisco; Baraka, or Glars, upon the equator; Angoma, upon
+the Gaboon river, and Kangwe, on the river Ogowe. The French
+teachers have received a hearty welcome from the French authorities
+of the country as well as from the American missionaries. It has become 
+an absolute necessity that the French language should be used
+in the mission schools.</p>
+
+<p>The missionaries of the American Baptist Missionary Union on<!-- START HERE -->
+the Congo further report of the revival at Banza Manteke. About
+two hundred have been baptized and enrolled as church members.
+More are asking for baptism. An interesting incident is given show-
+ing the zeal of the converts in transporting timber and iron a distance
+of fifty miles for the building of a chapel. Most of the men have
+made the journey three, and some four times, bringing loads on 
+their heads. To do this requires a walk of three or four hundred
+miles. The women have hired carriers, and thus have done their 
+part. The boys, too, have brought half-loads.</p>
+
+<p>Bishop William Taylor in his Quadrennial Report to the Gener-
+al Conference of the Methodist Episcopal Church, says that he had
+superintended the regular work in the Liberia Conference and estab-
+lished self-supporting missions on the Cavalla river. He has made
+a beginning in the Congo region, and Angola south of the Congo riv-</p>
 
 </div2>
 
