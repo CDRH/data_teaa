@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0324">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Aube, November 29, 1866</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0324</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Despatch from Aube, November 29, 1866</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1866-29-11">November 29, 1866</date>
 </bibl>
 </sourceDesc>
 
@@ -99,10 +99,10 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
+<persName>Aube</persName>
 <roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<placeName>Gaboon</placeName>
+<date when="1866-29-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
@@ -114,19 +114,22 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"   
+    
+<pb facs="20170615_114044"    
     
 Gaboon November 29th 1866
 
 Gentlemen, 
 
-Your circular dated 
+<p></p>Your circular dated 
 Nov. 26th 1866, having been handed to me 
 today I hasten to inform you that 
 I take into deep consideration the general 
@@ -144,18 +147,18 @@ my mind to hesitate a moment in executing
 those decisions at the time appointed
 and to these full extent.
 
-Never the less that period is far destiant 
+<p></p>Nevertheless that period is far destiant 
 many serious reasons leave me to think 
 that this Admiral may arrive before 
 January 1st of next year in which 
 can you cannot doubt that I will 
-
+<pb facs="20170615_114049"
 lay your Circular beforehand and he 
 himself will consider the observations 
 which it contains, but are those observations 
 sufficently clearly expressed?
 
-I do not think so I believe that a 
+<p></p>I do not think so I believe that a 
 serious decision would put them in 
 a better l*unclear at the same time it 
 would dissapate certain event opp*
@@ -164,7 +167,7 @@ without any real foundations which
 appear to me to be shown in the spirit 
 of your letter.
 
-Consequently I have the honor to 
+<p></p>Consequently I have the honor to 
 request that you will call at the Government 
 House on Monday most at
 2 p.m. Assisted by the administrative 
@@ -177,19 +180,20 @@ in Chief perhaps I may
 be able to make you understand 
 better both the *unclear and that *unclear*
 
+<pb facs="20170615_114053"
 motives which have dictated his decision.
 
-Finally it is not to be doubled that from
+<p></p>Finally it is not to be doubled that from
 this discussion I shall obtain a duper
 insight into your opinions and that will 
 aid me much in acting as your inter-
 trader with the Admiral Commanding in Chief.
 
-Be patient to accept Gentlemen, 
+<ab></ab>Be patient to accept Gentlemen, 
 the assurance of any distinguished 
 consideration,
 
-Post Captain, officer of the legion 
+<ab></ab>Post Captain, officer of the legion 
 of honor Commandiant of Gaboon.
 
 Commandant Superior on interior 
