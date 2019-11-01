@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0304">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Henry May, December 21, 1866</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0304</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Despatch from Henry May, December 21, 1866</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1866-12-21">December 21, 1866</date>
 </bibl>
 </sourceDesc>
 
@@ -99,38 +99,42 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Henry May</persName>
+<roleName>Commercial Agent</roleName>
+<placeName>Gaboon</placeName>
+<date when="1866-12-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<roleName>Late U.S. Consul Agent</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1866-12-25"
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"
+
+<pb facs="20170615_113526"
 
 Sir,
 
 Your
-communication of the sixth in >uncertain<ab></ab>
+<p></p>communication of the sixth in >uncertain<ab></ab>
 the 14t has been received. I am requesting 
 to inform the Department why my request 
 sent of office was not presented previously*
 
-I wrote to the 
+<p></p>I wrote to the 
 Department while in Africa in regard the time of 
 Office and recieved for answers that would *unclear
 and forward to the Department a officials signed 
@@ -147,7 +151,7 @@ certificate. I delayed writing again in regard to this
 matter not wishing to call attention again to the *unclear
 it supposed was already under consideration.
 
-This liked to be press the claim after once fairly presenting 
+<p></p>This liked to be press the claim after once fairly presenting 
 it at a time when it seemed to be one you must 
 have so much of greater importance to occupy your 
 mention Another resaon too was the diffculty 
@@ -155,14 +159,13 @@ mention Another resaon too was the diffculty
 putting drafts cashed without paying such extreme
 taxes of exhange + then perhaps not at all. 
 
-The above are the plants of unsaid 
-
+<p></p>The above are the plants of unsaid 
+<pb facs="20170615_113529"
 Why I did not present greatly accounts of collect not 
 Faculty for by Office. I am quite sure I want nothing
 but what is just and honorable in the nature.
 
-
-Your 
+<p></p>Your 
 Communication stated that my account cannot be
 allowed until *unclear* vouched and furnished the
 Department. The muchin before refered to as 
