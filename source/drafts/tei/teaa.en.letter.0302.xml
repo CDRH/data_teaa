@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0302">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Augustus Perrot to William H. Seward, December 1, 1866</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0302</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+    <title level="a">Despatch from Augustus Perrot to William H. Seward, December 1, 1866</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1866-12-1">December 1, 1866</date>
 </bibl>
 </sourceDesc>
 
@@ -99,35 +99,40 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Perrot, Augustus</persName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Gaboon</placeName>
+<date when="1866-12-1"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Seward, William H.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm"></change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"  
     
-I would most respectfully call
+<pb facs="20170615_113147"    
+    
+Sir,
+
+<p></p>I would most respectfully call
 your attention to the enclosed copy 
 of a letter from the Rev.R.H.Nassan
 American Missionary at Coises.
 
-The statements there in an unfortunately 
+<p></p>The statements there in an unfortunately 
 but too tone. No less than two 
 weeks ago a ship load of negroes,
 was smuggled from the neighborhood of 
@@ -137,18 +142,18 @@ and I find on inquiry that similar
 transactions on of monthly, if not 
 of weekly occurence.
 
-I was also informed but yesterday,
+<p></p>I was also informed but yesterday,
 by Henry A. Boardman, a trader,
 long established at this place, and 
 who has for years supplied the 
 American vessels with barkwood, ivory,
 ebony, + that two of his boats had
-]been plundered of a valuable cargo,
+been plundered of a valuable cargo,
 while on a trading voyage up the 
 
 come
-
-come, and that on a former occasions
+<pb facs="20170615_113153"
+<p></p>come, and that on a former occasions
 when he had suffered a considerable 
 loss from the departures of the natives,
 that his representations, had 
@@ -156,7 +161,7 @@ not been listened to, by the French
 authorities to whom he had applied
 for <unclear>
 
-This Sir, and those mentioned by 
+<p>This Sir, and those mentioned by 
 the Rev. R.H.Nassan, on but a fear
 of the many instances which have 
 occured when American citizens have 
@@ -164,7 +169,7 @@ either been punished or maltreated
 without the power of obtaining
 vessels.
 
-I would also call your attention 
+<p>I would also call your attention 
 to my late despatch of the 17th
 >unclear> in reference to the diffculties 
 of the American Bante Roebuck in 
@@ -172,16 +177,17 @@ which instance an American man
 of war would have been most 
 desirable. Independent of these facts,
 
-I believe, and it is the opinion of 
+<p>I believe, and it is the opinion of 
 the missionaries and other American 
 citizens residing on the coast 
 that the presence of an American 
+<pb facs="20170615_113204"
 manifest war would be very 
 desirable that it would be beneficial to 
 then and add to the dignity 
 of the nature. 
 
-Treaing that this despatched will
+<ab></ab>Treaing that this despatched will
 need with a favorable receptoire
 
 I have the honor to be 
