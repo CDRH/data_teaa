@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0337">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Albert Bushnell to William M. Evarts, February 22, 1878</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0337</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Despatch from Albert Bushnell to William M. Evarts, February 22, 1878</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1878-02-22">February 22, 1878</date>
 </bibl>
 </sourceDesc>
 
@@ -99,30 +99,32 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Bushnell, Albert</persName>
+<roleName>Commercial Agent</roleName>
+<placeName>Gaboon</placeName>
+<date when="1878-02-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Evarts, William M.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"
 
-I am happy to inform the Department that another
+<pb facs="20170615_143855"
+<p></p>I am happy to inform the Department that another
 interprise has been started for the purpose of establishing 
 the grand discoveries, recently made by one countrys.
 Mr. U. Pearley on the Congo or Livingstons Maples 
@@ -135,16 +137,14 @@ to a point above the first rapids, where they are
 to establish an industrial Mister Mission 
 These Ministers enterprises avail purpose the way 
 for the attention of commerce of a navigation,
-upon those and interior *unclear* + the lovely 
-most of the *unlear line*
+upon those past interior *unclear* + of the development
+of the valuable natured *unclear* of Ethiopia.
 
-Signed off *unclear*
-
-United States Commercial Agency of Gaboon 
-Mo Buschwell 
-
-To the Department of State
-Subject,
+Jremain
+Sir, Respectfully
+Your obident servant
+Albert Bushnell
+U.S. Com.A.
 
 
 <div1 xml:lang="en" type="document">
