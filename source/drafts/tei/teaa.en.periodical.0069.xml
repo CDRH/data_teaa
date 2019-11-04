@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0066">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0069">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>"Items of Intelligence" (1891)</title>
+<title>Benjamin M. Nyce, "The Influence of Talladega College" (1906)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.periodical.0066</idno>
+<idno type="project">teaa.en.periodical.0069</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,12 +41,13 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main">Items of Intelligence</title>
-<title level="j">African Repository</title>
-<biblScope unit="volume">67</biblScope>
-<biblScope unit="issue">4</biblScope>
-<date when="1891-10">October 1891</date>
-<biblScope unit="page">123-124</biblScope>
+<title level="a" type="main">The Influence of Talladega College</title>
+<author n="Nyce, Benjamin M.">Benjamin M. Nyce</author>
+<title level="j">Colored American</title>
+<biblScope unit="volume"/>
+<biblScope unit="issue"/>
+<date when="1906-04">April 1906</date>
+<biblScope unit="page"/>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -70,27 +71,23 @@
 </keywords> 
  
 <keywords scheme="viaf" n="people">
-<term ref="http://viaf.org/viaf/54942091">Blyden, Edward Wilmot, 1832-1912</term>
-</keywords>
- 
-<keywords scheme="original" n="places">
-<term>Bahia (Brazil)</term>
-<term>Lagos (Nigeria)</term>
-<term>Monrovia (Liberia)</term>
-</keywords>
-
-<keywords scheme="original" n="empire">
-<term>United States</term>
-</keywords>
- 
-<keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
  
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="empire">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term>Saracens</term>
+</keywords>
+ 
 <keywords scheme="original" n="religion">
-<term>Baptist</term>
-<term>Catholic</term>
-<term>Presbyterian</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="language">
@@ -101,7 +98,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-11-01" who="#kln">transcribed, encoded</change>
+<change when="2019-11-04" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -111,36 +108,18 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p123" facs="teaa.en.periodical.0066.001"/>
+<pb xml:id="p1" facs="teaa.en.periodical.0069.001"/>
 
 <div2 type="title">
 
-<p>Items of Intelligence.</p>
+
 
 </div2>
 
 <div2 type="article">
 
-<p>American Negroes for Africa.&#8212;Dr. Blyden, of Monrovia, Liberia,
-according to Goldthwaite's Geographical Magazine, believes the problem
-of the reclamation of Africa is to be solved through the agency of the civilized 
-Negroes of America. In a reception tendered him at Lagos, Africa,
-this able and highly-educated member of the Negro race remarked:
-"To restore to their homes those who have been transported from the
-land of their origin by wickedness and greed of gain should be considered
-the highest duty of every Englishman, and I am happy to know that some
-decided steps have been taken to bring about this much-desired result."
 
-<pb xml:id="p124" facs="teaa.en.periodical.0066.002"/>
 
-Dr. Blyden says tropical Africa can not possibly be made the permanent
-home of white men. Even if they live there a few years they are ultimately 
-compelled to leave the country. Their children born there are
-apt to be weak and sickly, and the white race can not maintain its vigor
-and activity in those regions. The colored people of the States and of
-Brazil, he thinks, would be the only best instruments for civilizing Africa.
-For about a year steamers have been plying between Bahia and Lagos,
-repatriating many former slaves from Brazil.</p>
 
 </div2>
 
