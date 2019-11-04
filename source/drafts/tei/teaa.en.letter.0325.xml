@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Albert Bushnell to John L. Cadwalader, November 11, 1876</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0325</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+    <title level="a">Despatch from Albert Bushnell to John L. Cadwalader, November 11, 1876</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1876-11-11">November 11,1876</date>
 </bibl>
 </sourceDesc>
 
@@ -99,28 +99,31 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
+<persName>Albert Bushnell</persName>
 <roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<placeName>Gaboon</placeName>
+<date when="1876-11-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>John L. Cadwalader</persName>
+<roleName>Assistant Secretary</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">encoded and transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"  
+    
+<pb facs="20170615_142108"/>   
 
 United States Commercial
 Agency at Gaboon 
@@ -132,7 +135,7 @@ Washington D.C.
 
 Sir,
 
-We, the undersigned, Commercial 
+<p></p>We, the undersigned, Commercial 
 Agent, anad Vice Commercial Agent,
 at this port; desine 
 to express are deep regret; at the
@@ -143,15 +146,15 @@ where its influence has been so
 beneficial, to both American,
 and Africabn interests.
 
-Supposing that the lack of 
+<p></p>Supposing that the lack of 
 salary for the Agent, from this 
 Excellency the President, its resumption;
 with permission of the office
 without salary receiving only 
-
+<pb facs="20170615_142124"
 here for out review.
 
-Hoping to revuse a reply to 
+<p></p>Hoping to revuse a reply to 
 our request, at the earliest  +
 practicable moment before 
 an opportunity shall offer for 
