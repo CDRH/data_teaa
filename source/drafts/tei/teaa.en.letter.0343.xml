@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0343">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Grahman C. Campbell to John Davis, November 6, 1884 </title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0343</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Desoatch from Grahman C. Campbell to John Davis, November 6, 1884</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1884-11-6">November 6, 1884</date>
 </bibl>
 </sourceDesc>
 
@@ -99,28 +99,32 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Campbell, Graham C.</persName>
+<roleName>Commercial Agent</roleName>
+<placeName>Gaboon</placeName>
+<date when="1884-11-6"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>John Davis</persName>
+<roleName>Assistant Secretary of State</roleName>
+<placeName>London</placeName>
+<date when="1884-12-22"
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#INITIALSunm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"
+
+<pb facs="20170615_145425"
 
 Honorable John Davis, Assistant 
 Secretary of State:
@@ -142,22 +146,22 @@ There has therefore been no
 official duties performed and the 
 regular reports have not been sent 
 
-I have made an official 
+<p></p>I have made an official 
 call upon the Commandant and 
 have *unclear lines8
 
 gather 
-
+<pb facs="20170615_145443"
 gather some forms regarding the 
 policy of France in this Agency.
 
-The present Commandant so 
+<p></p>The present Commandant so 
 friendly, personally, but insists upon 
 the last being explored even while 
 he presses expert that such lawd 
 have been passed.
 
-Bonita a distresal fourth 
+<p></p>Bonita a distresal fourth 
 Gaboon where are mission has been 
 laboring nearly thirty years with mor
 sucess has lately been slammed both 
@@ -168,7 +172,7 @@ from France to store the mission
 even before the claim of our business 
 is allowed.
 
-The French have wished to get 
+<p></p>The French have wished to get 
 posession of Consec Island never 
 belonging to Spain, where our mission 
 has been established for nearly forty 
@@ -177,10 +181,52 @@ the people asking them to form the
 triangle from Spain + France. The 
 people met and passed them
 
-*unclear* better 
+<pb facs="20170615_145449" 
 
+<p>wishes by letter written by one of our</p>
+native preachers, Rev. EBEA L. KING a native 
+of Corises, in language more favorable
+than elegant and now the Commandant 
+threatens to arrest and imprison
+him if he enters the Colony of Gaboon,
+He however expects to attend our nesting
+of Presbytert in Jan. end.
 
+<p>Towards the people here they are acting so as
+gradually to divest them of all power
+necessairly using very arbitrary measures 
+and rejoicing that they are able to show the
+people that resistance is useless.</p>
+    
+<p>I feel that the next few years 
+is going to decide the question, whether
+France is to be allowed to impose her
+unjust laws and arbitary restrictions 
+upon a large pair of tropical Africa,
+or not; and I could wish that the 
+voice of our own government might 
+be heard protesting effectively in behalf
+of this down hidden people.</p>
 
+<pb facs="20170615_145458"
+ 
+<p>I have the honor to acknowledge 
+the receipt of a cope of an act making 
+appropritations for the consular and 
+Diplomatic service of the government for 
+the fiscal year ending June thirteth
+eighteen hundred and slightly five, and 
+for other purposes.</p>
+    
+<p>I <unclear>bans</unclear>here with reports
+No. 10 for Quarterly ending 
+June 3rd, 1883 and Nov.105 for fiscal
+years ending repeating June 30th, 1883+1884.
+I remain Sir,</p>
+    
+Your obident servant
+Graham C. Campbell
+U.S.C.A
 
 <div1 xml:lang="en" type="document">
 
