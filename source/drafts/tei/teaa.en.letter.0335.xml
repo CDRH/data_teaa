@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0335">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Albert Bushnell to William M. Evarts, February 1, 1878</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0335</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Despatch from Albert Bushnell to William M. Evarts, February 1, 1878 </title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1878-02-1">February 1, 1878</date>
 </bibl>
 </sourceDesc>
 
@@ -99,43 +99,47 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Bushnell, Albert</persName>
+<roleName>Commercial Agent</roleName>
+<placeName>Gaboon</placeName>
+<date when="1878-02-1"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Evarts, William M.</persName>
+<roleName>Secretary of State</roleName>
+<placeName>Washingotn, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"
 
+<pb facs="20170615_143214"
 Sir,
 
-I have the honor to ackknowledge the receipt of your
+<p></p>I have the honor to ackknowledge the receipt of your
 Despatch Nov. 11th haveing State, October 28,1878,
 on the 10th of Janurary 1879, about thus month from
 the have it was written. Our mails during the past 
 year, have been irregular with are essential of 
 siz to eight weeks, between them. The last serviced 
-was just two months, Your Loerpool to Gaboon. The 
+was just two months, Your Loerport to Gaboon. The 
 streamers now having ones government subsidy, call 
 at numerous ports on the Coast often are 
 delayed in Freight. There on a merchant steamers
 which will take these dispatches that make much 
-quickeer passages + deterention of our mails is my 
+quicker passages, but it brings no mails.
+
+<p></p>The inequality + detention of our mails is my 
 apology for asking for been of absence so long 
 in advance. I doubt the leave of absence has 
 granted + is intent for Gaboon. I hope 
@@ -143,7 +147,25 @@ all be *unclear* of next extension from Liverport
 *unclear* here on to the vesself for offering
 *unclear row*
 
+<pb facs="20170615_143233"
 
+<p></p>and all returns till may. Although I have 
+nominated Rev. S. HE. Murphy as vice 
+Commercial Agent, + doubt not his appointment 
+has been made; I do not like to leave my post,
+till I have receieved my leave of absence; +
+shall not, unless the state of my health 
+imperitively demands it my medical 
+advisor- The French Surgeon in Chief of the
+COlony- assured this morning that my 
+departure ought noy be long postponed.
+
+I beg to remain 
+Sir;
+Respectfully,
+Your obident Servant 
+Albert, Bushnell
+United, S. Com. Agent 
 <div1 xml:lang="en" type="document">
 
 <pb facs="x"/>
