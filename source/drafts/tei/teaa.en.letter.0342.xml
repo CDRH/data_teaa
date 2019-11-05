@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0342">
 
 <teiHeader>
 <fileDesc>
@@ -10,7 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0342</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Despatch from Graham C. Campbell, August 19, 1884</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1884-08-19">August 19, 1884</date>
 </bibl>
 </sourceDesc>
 
@@ -99,66 +99,89 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Campbell, Graham C.</persName>
+<roleName>Commercial Agent</roleName>
+<placeName>Gaboon</placeName>
+<date when="1884-08-19"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<roleName>Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1884-08-21"
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
-    
-better convision by me of our 
-mutual precedence Brother Dnags a nature 
-of Corise on language more favorable 
-than England and mor the Commandant 
-intention to arrest and impress
-him if he enters the Glory of Gaboon 
-He however expects to attend our 
-nesting of Presbytley in Jan and 
+<div1 xml:lang="en" type="document"    
 
-Herods the people here they are
-asking so as gradually to divest them of all power
-recently along very arbeitary measures 
-and repricing that they are able to those 
-the people that unstained as useless 
+<pb facs="20170615_145245"
 
-There are various political intrigues
-reported but I command at the 
-writing vouch for their trustfulness 
+Hon. Secretary of State:
 
-I feel that the manifest 
-to going to deside the guest Lether 
-France ud to be allowed to impose 
-Unhinged loss and arbitary used shots
-upon a large part of *unclear Africa 
-or not; and I could wish that the 
-void of our own Government might 
-be heard protesting esssential in his 
-half of the salve traders people
+Dear Sir,
 
+<p></p>My duties call me 
+again to Gaboon, Africa. We expect to sail
+from New York via Liverport, Eng. the 
+last of this month.
+I shall be very glad to write any 
+special instructions from you addressed 
+to 23 Centre SL.N.Y. or I will go to Washington
+if necessary.
 
+<p></p>The situation there as appears to 
+one and our fellow missionaries seem 
+to warrant French aggression and accession 
+of territory and I firmly believe 
+that they will not use content until 
+the Congo country is under their control.
+In where of this I have felt
+that it myself be will for our government
+
+<pb sacs="20170615_145258"
+
+to send to Gaboon someone who might 
+give his whole attention to this matter
+and while in this country have been 
+on the look out for some one who
+I could recommend. <p></p>A few weeks 
+ago I met a young man, whom I 
+formerly knew in college, a young 
+man of plishing christian charade
+and mankind ability, who expressed 
+himself of willing to spend a few 
+years there. I therefore recommend 
+Royal F. King, nephew of Hon. William
+King of Minnesota, either for the 
+position with which you have honor 
+me, which I will gladly resign and 
+accept the Vice Commercial Agency 
+or to any position you might sufice
+to appoint him. He has seem
+some service, under the Department 
+of the Interior, among the Indians
+where the temptations +young male 
+are similar to those on the coast 
+and I therefore recommend him
+
+<pb facs="20170615_145449"
 as a tried and bare" can this 
 address is Dubith Minnesota and 
 if he should receive an appointment 
 he could be ready to start for Africa 
 within three months.
 
-I have the honor to remain 
+<ab></ab>I have the honor to remain 
 Your obedient Servant 
 Graham C. Campbell
 U.S. Commercial Agent 
