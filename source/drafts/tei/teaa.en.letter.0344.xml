@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0344">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from H.C. Gualk to James D. Porter, December 1, 1886</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0344</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Despatch from H.C. Gaulk to James D. Porter, December 1, 1886</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1886-12-1">December 1, 1886</date>
 </bibl>
 </sourceDesc>
 
@@ -99,70 +99,76 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
+<persName>Gaulk, H.C.</persName>
 <roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<placeName>Gaboon</placeName>
+<date when="1886-12-1"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Porter, James D.</persName>
+<roleName>Acting Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1887-01-24"
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"
+    
+<pb facs="20170615_145726"    
     
 Hon. Jas. I. Porter 
 Acting Secretary
 Washington U.S.A
 
 Sir, 
-Your two despatcched
+<ab></ab>Your two despatcched
 of the 2nd of Oct. last have been
 received 
 
-The two despatches referred to on
+<ab></ab>The two despatches referred to on
 First, the official notice of the 
 acceptance of the resignation of 
 Graham C. Campbell.
 
-Second the offcial notice that I 
+<ab></ab>Second the offcial notice that I 
 have been appointed "Acting Commercial
 Agent" of Gaboon.
 
-Enclosed with these two despatches 
+<ab></ab>Enclosed with these two despatches 
 was a "form of official bound" to 
 be expected by myself and  returned 
 to the Department.
 
-Permit me, one reply to say that
+<p></p>Permit me, one reply to say that
 I respectfully decline to execute 
 the Bond-- and for the following 
 reasons. Necessarily a great
 length of time must elapse 
 before my letter could reach you. 
 
-And a longer time before I 
+<pb facs="20170615_145742"
+
+<ab></ab>And a longer time before I 
 could *unclear* the segnatums of 
 Boudsmen in America.
 
-And in addition to that the time 
+<ab></ab>And in addition to that the time 
 necessar for you to obtain the 
 recognition of the French Government,
 and afterwards revisit 
 to me the Certificate of Assortment.
 
-Already more than 
+<p></p>Already more than 
 three months have passed since
 the official notice was given from 
 this office by Graham C. Campbell
@@ -176,13 +182,15 @@ Perhaps, for the present I may
 not remain here longer than three 
 or four months.
 
-And it will be will sight impossible
+<p></p>And it will be will sight impossible
 for me to receive the Certificate 
 before the expiration 
 of that time.
 
-I shall continue to earn for 
+<p></p>I shall continue to earn for 
 the office--the permittion and 
+
+<pb facs="20170615_145750"
 the books-until I find it necessary 
 to return to America.
 
@@ -196,7 +204,7 @@ I am not aware that I who have been
 any authority were to name a 
 successor.
 
-Allow me to suggest thatI and 
+<p></p>Allow me to suggest thatI and 
 others of our Mission think it 
 would be will for the government 
 of the U.S.to enquire into the 
@@ -211,22 +219,25 @@ for some American productions
 is for either English or German 
 the lighter and better. American 
 edge tools and axes. shovels, 
+
+<pb facs="20170615_145810"
+
 plows. chiscles, the plain 
 substatial American furniture,
 and American pine lumber 
 for building purposes.
 
-Only one American sailing 
+<p></p>Only one American sailing 
 vessel calls regularly at this 
 port, and that about twice a year.
 
-Our profession forbids ud giving 
+<ab></ab>Our profession forbids ud giving 
 as much time to the collection 
 of statistics in regard to trade-
 imports/ exports as should be douer by the one 
 holding this office.
 
-I trust that I way to able to 
+<ab></ab>I trust that I way to able to 
 gather a fine statistics concerning 
 trade on this part of the Coast.
 
@@ -234,7 +245,7 @@ For the present.
 
 I remain 
 Yours respectfully,
-H.C.Gaulb
+H.C.Gaulk
 
 
 
