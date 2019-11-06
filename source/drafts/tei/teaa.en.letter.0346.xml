@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0346">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Albert Bushnell to John L. Cadwalader, November 10, 1876</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0346</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Despatch from Albert Bushnell to John L. Cadwalader, November 10, 1876</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1876-11-10">November 10, 1876</date>
 </bibl>
 </sourceDesc>
 
@@ -99,28 +99,31 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Bushnell, Albert</persName>
+<roleName>Commercial Agent</roleName>
+<placeName>Gaboon</placeName>
+<date when="1876-11-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName>Cadwalader, John L.</persName>
+<roleName>Assistant Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2019-10" who="#unm">encoded and transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+<div1 xml:lang="en" type="document"
+
+<pb facs="teaa.en.letter.0176.001"
 
 United States Commercial 
 Agency at Gaboon
@@ -132,13 +135,13 @@ Washington D.C.
 
 Sir;
 
-I have the honor to acknowledge 
+<p></p>I have the honor to acknowledge 
 the receipt of your dispatch No 46,
 hearing date August 17th 1876,
 It was not received at this office, 
 till mondau October 30th.
 
-I regret exceedingly, the action of 
+<p></p>I regret exceedingly, the action of 
 Congress, that has rendered it 
 necessary to discontinue the office 
 of Commercial Agent at Gaboon.
@@ -154,6 +157,7 @@ extends about 100 miles both north.
 
 and 
 
+<pb facs="teaa.en.letter.0176.002"
 and South of Gaboon; and nearly 
 200 miles into the interior of Africa. 
 With sadness I hasten to comply 
@@ -167,14 +171,14 @@ the archives, and resume the function
 of the Commercial Agency, receiving 
 only the Fees for our services.
 
-The last mail, I transmitted my return 
+<p></p>The last mail, I transmitted my return 
 and accounts for the Quarter ending 
 September 20th, but drew no drafts 
 for salary or other expenses. A new 
 salary Account, will be forwarded 
 to the Fifth Auditory of the Treasury.
 
-My salary from July 1st, to September 
+<p></p>My salary from July 1st, to September 
 20th amounts $220.10. Since July 1st.
 I have received from this as already 
 returned $21.96. Deducting this amount 
@@ -182,10 +186,11 @@ and also $20.00 "extra wages" on hands
 from the salary credit; there remain 
 $178.16; for which amount I have 
 
+<pb facs="teaa.en.letter.0176.003"
 drawn a draft upon the Monetary 
 of the Treasury.
 
-During the period of my service 
+<p></p>During the period of my service 
 as Commercial Agent, i have presented 
 no account for rent, and 
 miscelllaneous  expenses; as my predecesors 
@@ -196,15 +201,24 @@ an iron house. and as soon as my
 health will permit, I will take a careful 
 inventory, of them, and sent a 
 copy to the department of State per
-maid.
+mail.
 
-The earliest sade, and direct opportunity 
-to senf the archives to the 
+<p></p>The earliest safe, and direct opportunity 
+to send the archives to the 
 United States, will be several months 
 hences; and in the mean time,
 we hope to receive permission to 
 retain them, and continue the 
-Agency time of transit hence to the 
+Agency. 
+
+In reference to my return to the
+United States; for which provision
+has been made to continue the 
+salary for 35 days, during the
+
+<pb facs="teaa.en.letter.0176.004"
+
+time of transit, hence to the 
 United States; I am sorry to inform
 you, that my medical advisor - 
 under whose care I have been 
@@ -218,7 +232,7 @@ the provision referred to be extended
 till that time, I shall be glad to 
 avail myself of it. 
 
-I have now completed a third of a 
+<p></p>I have now completed a third of a 
 century of toils+ sacrifice in Western 
 Africa in philanthropies + christian 
 work- the abolition of the Slave
@@ -233,6 +247,8 @@ During this period to have been
 
 encouraging 
 
+<pb facs="teaa.en.letter.0176.005"
+
 encouraging to write the subtle 
 time of comerce in the Slave 
 Trade, the rapid exploration 
@@ -240,13 +256,13 @@ of the country is the introdution
 of christian civilization with its 
 incetionable blessings.
 
-Permit one to express my thanks 
+<p></p>Permit one to express my thanks 
 to the offices of the Department 
 of State, for their country to one 
 during the period I have held the 
 Commercial Agency.
 
-Should my health be restored,
+<p></p>Should my health be restored,
 by a brief visit to the United States;
 I hope to return and resume my 
 labors here; and we trust on mission 
