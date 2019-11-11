@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0403">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0406">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from, June 14, 1883</title>
+<title>Despatch from</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0403</idno>
+<idno type="project">teaa.en.letter.0406</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from </title>
+<title level="a">Despatch from</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
@@ -72,14 +72,12 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>du Verge, L. de R.</term>
-<term>Stanely</term>
+<term>Mark</term>
+<term>Newton, Robert S.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Congo</term>
-<term>St Paul de Loanda</term>
-<term>Washington</term>
+<term>Loanda</term>
 <term>United States</term>
 </keywords>
     
@@ -98,12 +96,10 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName>Assistant Secretary of State</roleName>
+<persName>Robert S. Newton</persName>
+<roleName>U.S. Vice Consul</roleName>
 <placeName></placeName>
 </correspAction>
 <correspAction type="deliveredTo">
@@ -126,44 +122,34 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan20004"/>
+<pb facs="Scan20008"/>
 
-<note>Copy.</note>
-<note>Department of State Received Aug 2 1883</note>
+<p>that Mr. du Verge has applied to the 
+Department to have me substituted,
+but on what ground I am unable
+to say.</p>
 
-<p>United States consulate</p>
+<p>In submitting the foregoing
+matter for the information of the 
+Department, I have the honour to
+request that should there be no
+reason why I should not continue
+to hold the post of Vice Consul, that
+Mr. du Verge should be instructed
+to consign the archives of the Consulate 
+to my charge whenever he
+may absent himself, and should
+it be deemed expedient, to call 
+upon him to explain his reasons for
+showing such discourtesy to me and
+am not his inferior save in Official
+rank.</p>
 
-<p>St. Paul de Loanda<lb/> 
-14 June 1883<lb/>
-the Assistant Secretary of State<lb/>
-Washington</p>
-
-<p>Sir</p>
-
-<p>I have the honour to lay 
-before the Department of State the 
-following circumstances connected
-with the discharge of my duties as 
-Vice Consul for the United States at
-this port.</p>
-
-<p>Mr. L de R du Verge left
-Loanda for the Congo on the 16th
-ultimo by the Portuguese mail steamer
-for the purpose, it is reported, of
-arranging with Mr. Stanley the
-details of the duties of a post he has
-accepted under the Belgian Expedition
-without handing over to me the archives
-of the Consulate or acquainting me
-as to whether I should be able to 
-have access to any documents or
-forms which might be required,
-although I saw that officer on the
-day of his departure.</p>
-
-<p>Had there been no immediate con-
-<catchwords>sular</catchwords>
+<p>I have the honour to be<lb/>
+Sir<lb/>
+Your most obedient servant<lb/>
+Robt S. Newton<lb/>
+U.S. Vice Consul</p>
 
 </div1>
 
