@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0399">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0401">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from D.L. Marsins, March 13, 1883</title>
+<title>Despatch from L. de R. du Verge, June 6, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0399</idno>
+<idno type="project">teaa.en.letter.0401</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from D.L. Marsins</title>
+<title level="a">Despatch from L. de R. du Verge</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1883-03-13">March 13, 1883</date>
+<date when="1883-06-06">June 6, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -72,11 +72,15 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>du Verge, L. de R.</term>
+<term>Pease, Henry</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Loanga</term>
+<term>S.W.C. of Africa</term>
+<term>Santiago</term>
+<term>St Paul de Loanda</term>
+<term>Washington D.C.</term>
 <term>United States</term>
 </keywords>
     
@@ -99,10 +103,9 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>D.L. Marsins</persName>
-<roleName/>
-<placeName>Gabon</placeName>
-<date when="1883-03-13"/>
+<persName>L de R du Verge</persName>
+<roleName>US Consul</roleName>
+<placeName>St Paul de Loanda</placeName>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
@@ -124,43 +127,28 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan20000"/>
+<pb facs="Scan20002"/>
 
-<p>Loango March the 13th 1883.</p>
+<note>Department of State Received Jun 6 1883</note>
+<note>No. 48</note>
 
-<p>To the Commander of the French War Vessel
-To anchor in Loango <unclear extent="one word"/></p>
+<p>United States Consulate<lb/>
+At St Paul de Loanda<lb/>
+S.W.C. of Africa</p>
 
-<p>Sir,</p>
+<p>L. de R. du Verge<lb/>
+to State Department<lb/>
+Washington D.C.</p>
 
-<p>Having heard from several whitemen, that you
-had, or were going to take possession of this country, in the name
-of the French Government, and having heard also that the Natives
-in that case would out of revenge, attack, plunder, and destroy
-the several trading houses in the place, and afterwards take to the
-bush, I, undersigned a citizen of the United States of North America
-doing business in this pace, and in other points near here, having American
-and British properly in charge, find myself obliged to <sic>adress</sic>
-you the following considerations</p>
+<p>Subject</p>
 
-<p>That it is almost certain that as soon as the Natives find
-out that you are taken possession of their country, they will out of
-revenge, attack factories, and plunder and destroy everything, thus
-entailing ruin on innocent traders, who have nothing whatever to do
-with these questions.</p>
+<p>Samples of Goods &amp;a having
+ready market here.</p>
 
-<p>That the presence of your vessel will not deter them from 
-so doing, as they will very likely make a right attack, and by <unclear>making</unclear>
-it general preclude the possibility of the white men helping each 
-other.</p>
+<p>Encloses</p>
 
-<p>That as soon as they have plundered and destroyed the
-Factories, killing very likely also some of the white men, they will
-take to the Bush, as the loss of their villages is as nothing to them, making
-it impossible to find and punish them.</p>
-
-<p>Considering the Circumstances, the Undersigned
-thinks it incumbent to him, as a citizen of the United States</p>
+<p>Letter from Henry Pease Esqre
+U.S. Consul of Santiago <unclear extent="one abbreviated word"/></p>
 
 </div1>
 
