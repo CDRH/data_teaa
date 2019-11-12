@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0404">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0411">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton, June 14, 1883</title>
+<title>Despatch from Robert S. Newton, June 16, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0404</idno>
+<idno type="project">teaa.en.letter.0411</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -46,7 +46,7 @@
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1883-06-14">June 14, 1883</date>
+<date when="1883-06-14">June 16, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -72,12 +72,13 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>du Verge, L. de R.</term>
-<term>Mark</term>
+<term></term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Mossamedes</term>
+<term>Lisbon</term>
+<term>Madeira, Portugal</term>
+<term>St. Helena</term>
 </keywords>
     
 
@@ -95,17 +96,16 @@
 
 </textClass>
 
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Robert S. Newton</persName>
-<roleName>U.S. Consul</roleName>
-<placeName></placeName>
+<roleName>U.S. Vice Consul</roleName>
+<placeName>St. Paul de Loanda</placeName>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<roleName>Assistant Secretary of State</roleName>
+<placeName>Washington</placeName>
 </correspAction>
 </correspDesc>
 
@@ -122,38 +122,78 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan20005"/>
+<pb facs="Scan20011"/>
 
-<p><catchwords>con-</catchwords>
+<p>to St. Helena, and it is the nearest 
+port where there is any communication
+with that Island, and
+7 to Lisbon, who wish to go to America
+and where there is more likelihood of
+there getting a vessel.</p>
 
-sular duties to perform I should have waited
-the return of Mr. du Verge for an explanation,
-and also for an explanation in a matter
-of a personal nature which has recently
-come to light.
+<p>Sometimes we have communication with
+St Helena, but last there is no likelihood 
+of any just now, I thought it best to 
+send them by this steamer, as stopping
+here on chance, would only add to the 
+expense. I have arranged with the Agents
+of the Mail steamers, Messrs Garrido Camara &amp; Co 
+to allow one third off the usual passage
+money, which makes the passages as 
+follows:</p>
 
-<p>The facts of the case are these: on
-the arrival on the 3rd instant of the
-wrecked crew of the American whaler
-"Merlin", lost South of Mossamedes,
-I called at the house of Mr. T. Mark, 
-a Swiss, holding a Dry Goods retailed
-shop, where Mr. Du Verge has hired a
-room as his residence and office. Mr.
-Mark who possesses the Key gave me permission 
-to enter but would not permit
-me to lake the Ships Register as the
-Archives, he said, were left in his charge,
-and I am unable to register my correspondence 
-in the proper official book which 
-appeared to be locked away.</p>
-
-<p>Wishing to take to my office the
-Ships Register did not appear to me any
-infraction of the Rules, or had Mr. Mark
-any official right or authority to interfere
-with me, for in the first place the room
-offered no facilities, for writing and in the </p>
+<table>
+<row>
+<cell>13 men for Madeira @ 40$ =</cell>
+<cell>Rs 520$000</cell>
+<cell/>
+</row>
+<row>
+<cell>less 1/3</cell>
+<cell>173$000</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Rs 347$000</cell>
+<cell>= $377.17 cts</cell>
+</row>
+<row>
+<cell>6 " " St Thiago @ 35$ =</cell>
+<cell>Rs 210$000</cell>
+<cell/>
+</row>
+<row>
+<cell>less 1/3</cell>
+<cell>70$000</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Rs 140$000 =</cell>
+<cell>$152.17 cts</cell>
+</row>
+<row>
+<cell>7 " " Lisbon @ 45$ =</cell>
+<cell>Rs 315$000</cell>
+<cell/>
+</row>
+<row>
+<cell>less 1/3</cell>
+<cell>105$000</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Rs 210$000 =</cell>
+<cell>$228.26 cts</cell>
+</row>
+<row>
+<cell/>
+<cell>Total</cell>
+<cell>$757.60 cts</cell>
+</row>
+</table>
 
 </div1>
 
