@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0070">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0081">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Colored American Magazine, "Leopold's Present to New York" (1908)</title>
+<title>"The World's Highway: The Congo Infamy" (1906)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -16,7 +16,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.periodical.0070</idno>
+<idno type="project">teaa.en.periodical.0081</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main">The Influence of Talladega College</title>
-<title level="j">The Colored American Magazine</title>
+<title level="a" type="main">The World's Highway: The Congo Infamy</title>
+<title level="j">Voice of the Negro</title>
 <biblScope unit="volume"/>
 <biblScope unit="issue"/>
-<date when="1908-01">January 1908</date>
+<date when="1906-12">December 1906</date>
 <biblScope unit="page"/>
 </bibl>
 </sourceDesc>
@@ -58,7 +58,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>International Conferences</term>
 </keywords>
  
 <keywords scheme="original" n="type">
@@ -74,13 +74,13 @@
 </keywords>
  
 <keywords scheme="original" n="places">
-<term>Belgium</term>
+<term>Boston (Mass.)</term>
 <term>Congo Free State</term>
-<term>New York (N.Y.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 <keywords scheme="original" n="empire">
-<term/>
+<term>Belgium</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -99,7 +99,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-11-05" who="#kln">transcribed, encoded</change>
+<change when="2019-11-19" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -109,19 +109,23 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0070.001"/>
+<pb xml:id="p1" facs="teaa.en.periodical.0081.001"/>
 
 <div2 type="title">
 
-<p>The Month</p>
+<p>The World's Highway</p>
 
-<p>Leopold's Present to New York</p>
+<gap reason="sampling"/>
+
+<p>The Congo Infamy</p>
 
 </div2>
 
 <div2 type="article">
 
-<p>King Leopold of Belgium, who controls the Congo Free State, (so-called) has made a present to America consisting of samples of everything grown, produced, or found in the Congo. The exhibit is to be established in Manhattan Square, New York. Some of the newspapers think this is a sly way this venal and unscrupulous old sovereign has a placating public sentiment which has crystalized very thoroughly against him, because of the reputation he has made both for personal immorality, and the atrocious deeds he has allowed to go on against the Negroes of the Congo Free State; many of whom now carry handless arms and branded bodies because they refused or could not give to Leopold's agents all the ivory and gold they asked for. We might take Leopold's gift and install it along side of the pictures of these poor people whom he has so cruelly treated.</p>
+<p>At last the world is waking to the shocking truth that King Leopold's pretended philanthropy in the Congo is in reality a ghastly lie. The whole Congo country is recklessly exploited for private gain by this human monster. The report of a commission appointed by the Belgian Chamber of Deputies showed that the natives had been flagrantly robbed of their rights, that shocking and revolting cruelties were practiced in forcing the natives to gather rubber for the government and that whenever prosecutions were begun against white men for crimes against natives, the proceedings were always quashed. The Berlin Conference of 1885 intrusted the Congo to Leopold's keeping. Then, as now, he pretended to be a philanthropist and said he wanted to improve the country for the natives. His whole course in the matter has belied his words. Today there is <sic>discernable</sic> the rising of an international indignation at Leopold's indecencies. A resolution has been introduced in Congress calling for action by the United States in promoting an international investigation of the Congo. Of course, the first thing Congress ought to do is to appoint a commission to investigate the Southern part of this country. But still the Congo question deserves attention from Congress. The newspapers have discovered that Leopold has a paid lobby in Washington to prevent the adoption of the resolution introduced. The Congo Reform Association of Boston is doing great work in promoting the investigation. Leopold in the Congo is a stench in the nostrils of modern civilization.</p>
+
+<gap reason="sampling"/>
 
 </div2>
 
