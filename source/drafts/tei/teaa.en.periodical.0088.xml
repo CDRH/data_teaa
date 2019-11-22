@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0088">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>The Washington Bee, "Liberia" (1886)</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.periodical.0088</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">Liberia</title>
+<title level="j">The Washington Bee</title>
+<pubPlace>Washington (D.C.)</pubPlace>
+<date when="1886-01-23">January 23, 1886</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Journal</term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/22148544">Brazza, Pierre Savorgnan de, 1852-1905</term>
+<term ref="http://viaf.org/viaf/82967082">Livingstone, David, 1813-1873</term>
+<term>Overweg, Adolf</term>
+<term ref="http://viaf.org/viaf/106963836">Park, Mungo, 1771-1806</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry M. (Henry Morton), 1841-1904</term>
+<term ref="http://viaf.org/viaf/17098270">Stewart, T. McCants (Thomas McCants), 1854?-1923</term>
+</keywords>
+ 
+<keywords scheme="original" n="places">
+<term>Axim (Ghana)</term>
+<term>Cape Coast (Ghana)</term>
+<term>Cape Mesurado</term>
+<term>Egypt</term>
+<term>Grand Bassam (Ivory Coast)</term>
+<term>Liberia</term>
+<term>Mediterranean Sea</term>
+<term>Monrovia (Liberia)</term>
+<term>Red Sea</term>
+</keywords>
+
+<keywords scheme="original" n="empire">
+<term>Great Britain</term>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-11-22" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb xml:id="p1" facs="teaa.en.periodical.0088.001"/>
+
+<div2 type="title">
+
+<p>Liberia.</p>
+
+<p>The Americo-African Republic. Prof. T. Mc'Cant Stewart's Book.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>Prof. T. McCant Stewart's book on Liberia or the Negro Republic, is  worthy literary production. He says the name "Dark Continent" has lost its significance. He says Mungo Park is the father of African exploration. The Phoenicians sent out colonies to the dark continent, and the war like Greeks made conquests there. The Roman standards were also unfurled on African soil; but so far we know these nations confined <sic>there</sic> operations to the coast of the Red and Mediterranean seas and Egypt. In 1788, "The African Association" was formed in England, for the purpose of exploring inner Africa. They sent out Mungo Park, whose great career as an explorer inspired Overweg, Livingston, Stanley, and De Brazza, and led them to achieve a work for Africa. * * * * *</p>
+
+<p>Africa is a beautiful country. The golden-sanded beach stretches away into the distance. The waves look like crystal drops so they break amidst the golden sands. The water of the ocean, lake and river are clear as crystal, beautiful as a sea of glass. The azure skies glisten in the light of the sun, but grow soft when the stars hold their vigil around the midnight throne.</p>
+
+<p>Monrovia, built on a plateau including an area of about three quarters of a mile, square, eighty feet above the level of the sea, on the summit of the Cape Mesurado. The Plymouth Rock of Liberia is picturesque. Sixty five years ago, a band of brave, heroic colored people from America landed and established a home of their own. Here, thirty eight years ago, a government of the Negro, for the Negro and by the Negro, was instituted, amidst praises and prayer.</p>
+
+<p>The Americo-African</p>
+
+<p>Republic is situated on the western shore of Africa, occupying what is known as the Grain Coast. Running down the west coast we come to a French possession, Grand Bassam; and next, the English colonies, Axim and Cape Coast. Space will not permit a longer review.</p>
+
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>
