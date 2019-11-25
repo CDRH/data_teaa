@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0085">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>The Washington Bee, "Beauties of Madagascar" (1885)</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.periodical.0085</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">Beauties of Madagascar</title>
+<title level="j">The Washington Bee</title>
+<pubPlace>Washington (D.C.)</pubPlace>
+<date when="1885-01-31">January 31, 1885</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Encounters with Natives</term>
+</keywords>
+ 
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Journal</term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/18600856">Shufeldt, Robert Wilson, 1822-1895</term>
+</keywords>
+ 
+<keywords scheme="original" n="places">
+<term>Madagascar</term>
+<term>Sizebouge River</term>
+</keywords>
+
+<keywords scheme="original" n="empire">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term>Barra</term>
+<term>Betsileo</term>
+<term>Hovas</term>
+</keywords>
+ 
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-11-20" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb xml:id="p1" facs="teaa.en.periodical.0085.001"/>
+
+<div2 type="title">
+
+<p>Beauties of <sic>Madagscar</sic>.</p>
+
+</div2>
+
+<div2 type="article">
+
+<p>Lieutenant Shufeldt, of the United States navy, who recently crossed Madagascar from east to west, accomplishing what few white men and no American had done before, said in a recent lecture about the island and his explorations there:</p>
+
+<p>"Madagascar is the third largest island on the globe. Its area covers 230,000 square miles; being 1,000 miles long, and averaging in breadth 230 to 400 miles. It is four times the size of Great Britain. The interior gives the observer a potent sense or silent and majestic vastness. It exhibits some of the grandest specimens of nature's handiwork, consisting of mountain peaks, plains and forest cataracts and waterfalls. Around the area coast stretches a dense belt of tropical forest, the home of malarias and deadly fever; the abiding place of savage and barbarous people, and of richly plumed birds. The chief river, the Sizebouge, is the size of the Ohio, and shows some of the most magnificent scenery in the world, thunderous waterfalls and cataracts bordered by primeval forests."</p>
+
+<p>The speaker said he thought this river would prove navigable and might be made the highway for the products of the interior, ebony, sugar, rice, and other articles of commerce, in quantities sufficient to make it "the El Dorado of the Eastern seas." The climate he described as variable. In the interior it is equable and temperate, frequently reminding one of a New England autumn, but about the sea coast it is always warm and unwholesome. He estimated the population at 5,700,000, embracing many races of men varying in color, physique and civilization. The principal tribe, the Hovas, are men of Malay origin, with fair complexion, bright and sparkling eyes, aquiline noses, numbering about 900,000, and far in advance of the rest of the inhabitants in intelligence and the arts of civilization. The women are often handsome. Some of these advantages can be attributed to climate, the region inhabited by them averaging 4,530 feet above the sea level, and affording a bracing atmosphere. Next in importance and intelligence he placed the Betsileo tribe, the men possessing lithe and active frames, but the women, unlike the Hova women are seldom or never handsome. The Barra people in the southern part of the island, are distinguished by their lack of ennobling qualities. The morality of the Barra, said Lieutenant Shufeldt, might thus be summed up: "Give me my gun and my spear, my rum and my wives, and my oxen: let me steal, plunder and destroy everybody; let nobody molest me, and I care not who is my king."</p>
+
+</div2>
+
+</div1>
+</body>
+</text>
+
+</TEI>
