@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0414">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0443">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from the US Consulate, June 13, 1883</title>
+<title>Despatch from L de R du Verge, September 17, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0414</idno>
+<idno type="project">teaa.en.letter.0443</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from US Consulate</title>
+<title level="a">Despatch from L de R du Verge</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1883-06-14">June 13, 1883</date>
+<date when="1883-06-14">September 17, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -72,38 +72,13 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Allen, Andrew F.</term>
-<term>Allen, George F.</term>
-<term>Antanio, Manael</term>
-<term>Benjamin, W.</term>
-<term>Bernardo, José</term>
-<term>Brittan, W.J.</term>
-<term>Brook, Henry</term>
-<term>Druke, Manael Baptista</term>
-<term>George, James</term>
-<term>Gerry, Joe</term>
-<term>Grace, Jalen</term>
-<term>Haggarty, W.</term>
-<term>Harry, Everett</term>
-<term>Leamer, Joeseph</term>
-<term>Lobo, Laurence</term>
-<term>Mckenzie, Thomas</term>
-<term>Narcis, Manael</term>
-<term>Obey, Edward</term>
-<term>Phillips Matthew</term>
-<term>Ryder, William W.</term>
-<term>Scott, Alfred</term>
-<term>Souze, Manuel</term>
-<term>Thomas, George</term>
-<term>Travades, Joaquim</term>
-<term>Tucker</term>
-<term>Williams, George</term>
-<term>Williams, James</term>
+<term>du Verge, L de R</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>New Bedford</term>
-<term>St Paul de Loanda</term>
+<term>Congo River</term>
+<term>St. Paul de Loanda</term>
+<term>SW Coast of Africa</term>
 </keywords>
     
 
@@ -123,14 +98,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName>US Consulate</roleName>
+<persName>L de R du Verge</persName>
+<roleName></roleName>
 <placeName>St Paul de Loanda</placeName>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<roleName>State Department</roleName>
+<placeName>Washington D.C.</placeName>
 </correspAction>
 </correspDesc>
 
@@ -147,32 +122,30 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan20014"/>
+<pb facs="Scan20020"/>
 
-<p>Name of Ship "Merlin" of New Bedford
-owners Tucker &amp; Co and others of 
-New Bedford</p>
+<note>Department of State Received Sep 17 1883</note>
+<note>Ackd Oct 26 /83</note>
 
-<p>Captain George F Allan part owner<lb/>
-official No 17559 Letters J.B.F.M.<lb/>
-Trade, Whale fishing</p>
+<note>No 49</note>
 
-<p>We George F Allan master, William
-W. Ryder 1st mate, Thomas McKenzie
-2nd mate, Edward Obey 3rd mate, W
-J Brittan, cooper, José Bernardo, W.
-Haggarty and Matthew Phillips boat
-stearers, George Thomas steward, Manuel 
-Souza, Joe Gerry, Manael Baptista
-Druke, Joaquim Travades, Jalen Grace,
-Henry Brook, Manael Antanio, Everett 
-Harry, Andrew F Allen, Laurence Lobo,
-Alfred Scott, James George, Manael
-Narcis, James Williams, Joseph
-Leamer, George Williams &amp; W Benjamin
-seamen, declare on our solemn oath
-that the following statement is a 
-true and correct account of the</p>
+<p>Consulate of the United States of America<lb/> 
+at St Paul de Loanda<lb/>
+S.W. Coast of Africa.</p>
+
+<p>L de R du Verge<lb/>
+to State Dept<lb/>
+Washington D.C.</p>
+
+<p>Subject</p>
+
+<p>Congo River &amp;a &amp;a</p>
+
+<p>Encloses</p>
+
+<p>Statement of Affairs and abuses arising then.</p>
+
+<p>Copied Feb 15, 1884</p>
 
 </div1>
 
