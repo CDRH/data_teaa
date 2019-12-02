@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0443">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0449">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from L de R du Verge, September 17, 1883</title>
+<title>Despatch from L de R du Verge, July 6, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0443</idno>
+<idno type="project">teaa.en.letter.0449</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -46,7 +46,7 @@
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1883-09-17">September 17, 1883</date>
+<date when="1883-07-06">July 6, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -72,13 +72,14 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
+<term>Davis, John</term>
 <term>du Verge, L de R</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Congo River</term>
 <term>St. Paul de Loanda</term>
 <term>SW Coast of Africa</term>
+<term>Washington D.C.</term>
 </keywords>
     
 
@@ -99,12 +100,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>L de R du Verge</persName>
-<roleName></roleName>
+<roleName>US Consul</roleName>
 <placeName>St Paul de Loanda</placeName>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName>State Department</roleName>
+<persName>John Davis</persName>
+<roleName>Assistant Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -122,30 +123,32 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan20020"/>
+<pb facs="Scan20026"/>
 
-<note>Department of State Received Sep 17 1883</note>
-<note>Ackd Oct 26 /83</note>
+<p>United States Consulate<lb/>
+St. Paul de Loanda S.W.C. Africa<lb/>
+July 6th 1883.</p>
 
-<note>No 49</note>
-
-<p>Consulate of the United States of America<lb/> 
-at St Paul de Loanda<lb/>
-S.W. Coast of Africa.</p>
-
-<p>L de R du Verge<lb/>
-to State Dept<lb/>
+<p>To<lb/>
+Hon. John Davis<lb/>
+Asst. Secty of State<lb/>
 Washington D.C.</p>
 
-<p>Subject</p>
+<p>Sir,</p>
 
-<p>Congo River &amp;a &amp;a</p>
+<p>I have the honor respectfully to
+enclose herewith Doctr Ramada's certificate
+and to request the Dept of State to allow
+me leave of absence, as I cannot stand
+any longer the climate of my post.</p>
 
-<p>Encloses</p>
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your obedient servant<lb/>
+L de R du Verge<lb/>
+US Consul</p>
 
-<p>Statement of Affairs and abuses arising then.</p>
-
-<p>Copied Feb 15, 1884</p>
+<p>Enclosure Doctr certificate &amp; translation of same</p>
 
 </div1>
 
