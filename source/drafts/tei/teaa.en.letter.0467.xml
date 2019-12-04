@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170614_143355"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<ab>Commercial Agency of the United States,
+Kongo Free State, Stanley Pool, Dec 20, 1892
+
+Mr. R. Dorsey Mohew
+To the Department of State.
+
+Subject:
+Rehuen to Pool from Kassai
+River
+
+Abstract of Contents.
+Visit to Lake Leopold II + the 
+LouKings River</ab>
+    
+<pb facs="20170614_143402"
+<p>Honorable William F. Wharton
+Assistant Secretary of State
+Washington, D.C.
+
+Sir:
+I have the honor to inform you
+that I have just arrived here
+from the shead workers of the 
+Loukenya River, and shall
+leave next week for the 
+San Kouran + Kassai Riveer.
+The country any great distances
+back from the river backs it
+is hardly possible to see on
+account of the hostility of the
+natives, and noe that the Mauyema
+people (commonly called "arabs") have
+declared a general war against
+all whites traveling without
+a large escort is most dan-
+gerous.</p>
+
+<p>To hesitate November 23d 
+I</p>
+    
+<pb facs="20170614_143408"
+<p>was some 375 miles up the 
+Loukenya slipping was a village
+called Maiyeaye. I desired to see
+the natives making clock + asked
+permission of the chief to visit
+the town, which was readily
+granted. I only looks six men
+with me armed with revolves
+war their whites. When I had
+gather about ten minutes dis-
+tance from the town. I was most-
+foully attackked from the bush 
+with spears + poisoned arrows.
+Fortuantely none of my men were
+struck and before they could 
+throw their arrows again we had
+opened fire + drove the natives
+ahead. We captured the villlage
+and I burned it to the ground 
+to teach them a lesson. The 
+next day the chief sent me some 
+goats + desired to make blood
+brotherhood + declare peace which 
+I was more than gland to grant
+This is only one of the five
+
+or</p>  
+  
+<pb facs="20170614_143416"
+<p>or 
+six times I have been compelled to 
+fight during the past few months.
+If my report when sent to the De-
+partment does not seem to com-
+prehend the whole of the Kongo
+State, it will be because I have
+not enough of a force to penetrate 
+to shore parts.</p>
+    
+<p>The whole Eastern boundary of
+the state is now shut by the 
+Arabs and all the white men who 
+were in the different ports have 
+been killed. Their bodies were 
+afterwords eaten by the large
+member of cannibal slaves attached
+to the caravans.
+So far my health has been 
+good.
+
+I am Sir:
+Very respectfully
+Your obident Servant
+R. Dorsey Mohew
+Commercial Agent</p>
+<!-- BEGIN TRANSCRIBING -->
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
