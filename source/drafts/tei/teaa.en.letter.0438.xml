@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0404">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0438">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton, June 14, 1883</title>
+<title>Despatch from the US Consulate, June 13, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0404</idno>
+<idno type="project">teaa.en.letter.0438</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Robert S. Newton</title>
+<title level="a">Despatch from US Consulate</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1883-06-14">June 14, 1883</date>
+<date when="1883-06-14">June 13, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -72,12 +72,12 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>du Verge, L. de R.</term>
-<term>Mark</term>
+<term></term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Mossamedes</term>
+<term>New Bedford</term>
+<term>Port Alexander</term>
 </keywords>
     
 
@@ -95,12 +95,11 @@
 
 </textClass>
 
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Robert S. Newton</persName>
-<roleName>U.S. Consul</roleName>
-<placeName></placeName>
+<persName></persName>
+<roleName>US Consulate</roleName>
+<placeName>St Paul de Loanda</placeName>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
@@ -122,38 +121,33 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan20005"/>
+<pb facs="Scan20015"/>
 
-<p><catchwords>con-</catchwords>
-
-sular duties to perform I should have waited
-the return of Mr. du Verge for an explanation,
-and also for an explanation in a matter
-of a personal nature which has recently
-come to light.
-
-<p>The facts of the case are these: on
-the arrival on the 3rd instant of the
-wrecked crew of the American whaler
-"Merlin", lost South of Mossamedes,
-I called at the house of Mr. T. Mark, 
-a Swiss, holding a Dry Goods retailed
-shop, where Mr. Du Verge has hired a
-room as his residence and office. Mr.
-Mark who possesses the Key gave me permission 
-to enter but would not permit
-me to lake the Ships Register as the
-Archives, he said, were left in his charge,
-and I am unable to register my correspondence 
-in the proper official book which 
-appeared to be locked away.</p>
-
-<p>Wishing to take to my office the
-Ships Register did not appear to me any
-infraction of the Rules, or had Mr. Mark
-any official right or authority to interfere
-with me, for in the first place the room
-offered no facilities, for writing and in the </p>
+<p>loss of the above vessel on which we
+were employed at the time of her
+loss. We declare that the Bark
+"Merlin" of New Bedford of 246 Tons
+went on shore at 1/2 past 12 o'clock
+at night on the 22nd of May south of
+Port Alexander in Lat: 16 4' it being a 
+very thick fog at the time and the
+land could not be seen at three ships
+lengths from the shore. She struck 
+<unclear extent="one word"/> twice and <unclear extent="one word"/>, careened, the
+wind at the time being a fresh break
+from the S'W. After striking got a
+Kedge anchor out and hove it might
+have but this would not start her
+and still continued to thump and
+strike on the sand there being at
+the time a heavy surf, the sea
+breaking over the ship at times:
+took one of the anchors on a raft
+out to windward hove right <unclear extent="one word"/>
+but could not start her but before
+this her pumps were chocked
+with sand and the water over
+the ground tier of casks and pieces</p>
 
 </div1>
 

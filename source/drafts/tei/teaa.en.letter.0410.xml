@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0404">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0410">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton, June 14, 1883</title>
+<title>Despatch from Robert S. Newton, June 16, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0404</idno>
+<idno type="project">teaa.en.letter.0410</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -46,7 +46,7 @@
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1883-06-14">June 14, 1883</date>
+<date when="1883-06-14">June 16, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -72,12 +72,13 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>du Verge, L. de R.</term>
-<term>Mark</term>
+<term></term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Mossamedes</term>
+<term>Lisbon</term>
+<term>Madeira, Portugal</term>
+<term>St. Thiago</term>
 </keywords>
     
 
@@ -95,17 +96,16 @@
 
 </textClass>
 
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Robert S. Newton</persName>
-<roleName>U.S. Consul</roleName>
-<placeName></placeName>
+<roleName>U.S. Vice Consul</roleName>
+<placeName>St. Paul de Loanda</placeName>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<roleName>Assistant Secretary of State</roleName>
+<placeName>Washington</placeName>
 </correspAction>
 </correspDesc>
 
@@ -122,38 +122,36 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan20005"/>
+<pb facs="Scan20010"/>
 
-<p><catchwords>con-</catchwords>
+<p>of, by the Portuguese authorities who
+treated them most kindly, and the 
+Governor charted a small vessel
+to bring them here, where they arrived
+on the 3rd of this month.</p>
 
-sular duties to perform I should have waited
-the return of Mr. du Verge for an explanation,
-and also for an explanation in a matter
-of a personal nature which has recently
-come to light.
+<p>The Governor promised to send and
+look after the vessel, and save anything 
+that could possibly be saved,
+and pay the expenses incurred, out
+of the proceeds, any surplus, to be 
+forwarded to the Consulate. Should 
+however nothing be saved, the A/C
+will be forwarded for payment by
+first steamer</p>
 
-<p>The facts of the case are these: on
-the arrival on the 3rd instant of the
-wrecked crew of the American whaler
-"Merlin", lost South of Mossamedes,
-I called at the house of Mr. T. Mark, 
-a Swiss, holding a Dry Goods retailed
-shop, where Mr. Du Verge has hired a
-room as his residence and office. Mr.
-Mark who possesses the Key gave me permission 
-to enter but would not permit
-me to lake the Ships Register as the
-Archives, he said, were left in his charge,
-and I am unable to register my correspondence 
-in the proper official book which 
-appeared to be locked away.</p>
+<p>When men arrived here I had some
+difficulty in arranging quarters for
+such a large number, however I hired
+a house out of town for part, and got
+the officers divided into one or two places,
+and the whole expense will not exceed
+a dollar a head.</p>
 
-<p>Wishing to take to my office the
-Ships Register did not appear to me any
-infraction of the Rules, or had Mr. Mark
-any official right or authority to interfere
-with me, for in the first place the room
-offered no facilities, for writing and in the </p>
+<p>By this steamer the "Portugal" bound
+to Lisbon to day I send
+6 of the men to St Thiago where they
+belong, 13 to Madeira, as they belong</p>
 
 </div1>
 

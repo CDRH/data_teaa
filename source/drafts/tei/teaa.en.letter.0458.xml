@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170614_140921"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<ab>United States Commercial Agency
+Boma, Congo Free State
+(Now at Brussels)
+March 29th 1892
+
+Mr. R.D. Mohew
+To Department of State
+
+Subject:
+Arrival in Brussels visit to offices
+of the Congo State, and audience
+with the King of Belgium
+
+Abstract of Contents
+Arrival in Brussels March 22, 1892
+Visited Congo State Offices March 20th
+Recieved by the King March 26th.</ab>
+    
+<pb facs="20170614_140949"
+<p>Honorable William F. Wharton
+Assistant Secretary of State
+Washington, D.C.
+
+Sir,
+I have the honor to report any arrival
+at this place March 22 at 6:30
+p.m.</p>
+    
+<p>The next morning I called upon thr 
+Hon. Edwin H. Terrell the United States
+Minister and also upon M. George
+W. Roosevelt United States Consul.</p>
+    
+<p>In the afternoon I called upon M.
+Edward Van Eslvelde the Secretary
+of the Interior of the Congo State
+and also upon the Count de
+Grelle. Roqier, Secretary of State
+for Foreign Affairs of the Congo
+and by back of these gentlemen
+I was recieved in a must cordiel
+
+manner</p>
+    
+<pb facs="20170614_141007"
+<p>manner.
+
+They expressed themselves as 
+being qualified at the United States
+filing the vacancy caused by
+M.Taunts death, and offered
+me every facility for acquiring
+information back here and in 
+the Free State.</p>
+    
+<p>M. Van Eslvelde has received
+orders for me to have any
+vacant quarters in the Govern-
+ment houses and also that
+I be taken into one of the vessels
+at Boma, until I can get my
+own house and that the 
+State Doelors attend me in case
+of sickness.</p>
+    
+<p>The next day I recieved a 
+notification from the Count de
+Grelle. Roger that His Majesty
+the King requested one to come to 
+the Royal Palace at Brussels
+Saturday afternoon at half 
+after three.</p>
+    
+<p>I presented myself at the 
+
+Palace</p>
+    
+<pb facs="20170614_141023"
+<p>Palace
+at the appointed time and was
+must cordially recieved by His
+Majesty who office making com-
+pliementary remarks regarding the 
+United States (to which I replied
+in a suitable manner I said he 
+was pleased to see that a 
+Bill had been introduced into 
+the Senate making provision for 
+a Consul General and Vice
+Consul in the Congo. He asked
+me if + thought it would 
+become a law to which I 
+replied that it was impos-
+sible to say.</p>
+    
+<p>He said every facility would 
+be given me owed he hoped
+that my visit to the state
+would be productive of 
+good results to its com-
+merce.</p>
+    
+<p>The audience lasted nearly
+an hour and in that timee
+I became thoroughly impressed
+
+by</p>
+    
+<pb facs="20170614_141036"
+<p>by 
+the fact that His Majesty was
+perfectly familiar with every
+detail of the workings of the 
+Government of the Congo State.
+It is stated here in Brussels
+that no move is ever taken
+without his knowledge and 
+consent.
+
+I am Sir,
+Very Respectfully
+Your obident Servant
+R.Dorsey Mohew
+Commercial Agent</p>
+<!-- BEGIN TRANSCRIBING -->
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
