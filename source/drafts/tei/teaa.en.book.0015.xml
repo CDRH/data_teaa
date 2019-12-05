@@ -7,7 +7,7 @@ RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/te
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William Coppinger, "The Continent of the Future" (1881)</title>
+<title>M. W. Cluskey, "The Political Text-Book" (1857)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -41,12 +41,11 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </publicationStmt>
 <sourceDesc>
 <bibl>
-<title level="a" type="main">1862--Emancipation Day--1884; The Negro as a Political Problem</title>
-<author n="Coppinger, William, 1828-1892">William Coppinger</author>
-<editor/>
-<pubPlace>Hampton, VA</pubPlace>
-<publisher>Normal School Steam Press</publisher>
-<date when="1881">1881</date>
+<title level="a" type="main">The Political Text-Book, Or Encyclopedia, Containing Everything Necessary for the Reference of the Politicians and Statesmen of the United States</title>
+<editor n="Cluskey, M. W.">M. W. Cluskey</editor>
+<pubPlace>Washington, D.C.</pubPlace>
+<publisher>Cornelius Wendell</publisher>
+<date when="1857">1857</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -58,9 +57,6 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <textClass>
 
 <keywords scheme="original" n="theme">
-<term>Commerce and Trade</term>
-<term>Emigration</term>
-<term>Missionaries</term>
 <term>Slave Trade and Slavery</term>
 </keywords>
 
@@ -73,7 +69,53 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/24025337">Adams, James H. (James Hopkins), 1812-1861</term>
+<term ref="http://viaf.org/viaf/72238448">Banks, Nathaniel Prentiss, 1816-1894</term>
+<term ref="http://viaf.org/viaf/34265552">Barclay, David, 1823-1889</term>
+<term ref="http://viaf.org/viaf/31805040">Barksdale, William, 1821-1863</term>
+<term>Bennett, Hendley S.</term>
+<term ref="http://viaf.org/viaf/61381727">Boyce, William Waters, 1818-1890</term>
+<term ref="http://viaf.org/viaf/6372752">Breckinridge, John C. (John Cabell), 1821-1875</term>
+<term ref="http://viaf.org/viaf/35939963">Brooks, Preston S. (Preston Smith), 1819-1857</term>
+<term ref="http://viaf.org/viaf/59878120">Buchanan, James, 1791-1868</term>
+<term ref="http://viaf.org/viaf/21173170">Burnett, H. C. (Henry Clay), 1825-1866</term>
+<term ref="http://viaf.org/viaf/55612608">Cadwalader, John, 1805-1879</term>
+<term ref="http://viaf.org/viaf/31845392">Caruthers, Samuel, 1820-1860</term>
+<term ref="http://viaf.org/viaf/71241912">Crawford, M. J. (Martin Jenkins), 1820-1883</term>
+<term ref="http://viaf.org/viaf/54003714">Day, Timothy C. (Timothy Crane), 1819-1869</term>
+<term ref="http://viaf.org/viaf/239692150">Etheridge, Henry Emerson, 1819-1902</term>
+<term ref="http://viaf.org/viaf/78035048">Eustis, George, 1828-1872</term>
+<term ref="http://viaf.org/viaf/46612863">Florence, Thomas B. (Thomas Birch), 1812-1875</term>
+<term ref="http://viaf.org/viaf/56466982">Garnett, Muscoe R. H. (Muscoe Russell Hunter), 1821-1864</term>
+<term ref="http://viaf.org/viaf/56173275">Greenwood, Alfred Burton, 1811-1889</term>
+<term ref="http://viaf.org/viaf/15568584">Grow, Galusha A. (Galusha Aaron), 1823-1907</term>
+<term ref="http://viaf.org/viaf/73665797">Harris, T. L. (Thomas Langrell), 1816-1858</term>
+<term ref="http://viaf.org/viaf/24481405">Jewett, J. H. (Joshua Husband), 1815-1861</term>
+<term ref="http://viaf.org/viaf/73872723">Johnson, Andrew, 1808-1875</term>
+<term ref="http://viaf.org/viaf/65896363">Jones, George Washington, 1806-1884</term>
+<term ref="http://viaf.org/viaf/24482869">Keitt, Lawrence M. (Lawrence Massillon), 1824-1864</term>
+<term ref="http://viaf.org/viaf/106396602">Kelly, John, 1821-1886</term>
+<term ref="http://viaf.org/viaf/70458456">McMullin, Fayette, 1805-1880</term>
+<term ref="http://viaf.org/viaf/23871904">Millson, John S. (John Singleton), 1808-1874</term>
+<term ref="http://viaf.org/viaf/67929598">Nicholson, A. O. P. (Alfred Osborn Pope), 1808-1876</term>
+<term ref="http://viaf.org/viaf/73476183">Oliver, Mordecai, 1819-1898</term>
+<term ref="http://viaf.org/viaf/26094978">Orr, J. L. (James Lawrence), 1822-1873</term>
+<term ref="http://viaf.org/viaf/39189901">Paine, Robert Treat, 1812-1872</term>
+<term ref="http://viaf.org/viaf/56182131">Phelps, John S. (John Smith), 1814-1886</term>
+<term ref="http://viaf.org/viaf/12428852">Pike, Albert, 1809-1891</term>
+<term ref="http://viaf.org/viaf/187025447">Puryear, Richard C. (Richard Clanselle), 1801-1867</term>
+<term ref="http://viaf.org/viaf/33390211">Quitman, John Anthony, 1798-1858</term>
+<term ref="http://viaf.org/viaf/14362884">Sage, Russell, 1816-1906</term>
+<term ref="http://viaf.org/viaf/26727937">Savage, John H. (John Houston), 1815-1904</term>
+<term ref="http://viaf.org/viaf/78595189">Shorter, Eli Sims, 1823-1879</term>
+<term ref="http://viaf.org/viaf/66340214">Smith, S. A. (Samuel Axley), 1822-1863</term>
+<term ref="http://viaf.org/viaf/31859536">Smith, William, 1797-1887</term>
+<term ref="http://viaf.org/viaf/26881706">Sneed, William Henry, 1812-1869</term>
+<term ref="http://viaf.org/viaf/51506997">Walker, Percy, 1812-1880</term>
+<term ref="http://viaf.org/viaf/8489233">Washburn, Israel, 1813-1883</term>
+<term>Watkins, Albert Galiton</term>
+<term ref="http://viaf.org/viaf/43582733">Wright, John Vines, 1828-1908</term>
+<term ref="http://viaf.org/viaf/73725075">Zollicoffer, Felix Kirk, 1812-1862</term>
 </keywords>
 
 <keywords scheme="original" n="places">
@@ -81,15 +123,15 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="original" n="empires">
-<term/>
+<term>Great Britain</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Cooley</term>
 </keywords>
 
 <keywords scheme="original" n="religion">
-<term/>
+<term>Christianity</term>
 </keywords>
 
 </textClass>
@@ -110,6 +152,19 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div2 type="title">
 
+<p>The Political Text-Book,<lb/>
+or<lb/>
+Encyclopedia,<lb/>
+Containing Everything Necessary for the Reference of the Politicians and Statesmen of the United States.</p>
+
+<p>Edited by M. W. Cluskey,<lb/>
+of Washington, D.C.</p>
+
+<p>"Let the editor or speaker who discusses politics for the information of the people, know what he is writing or speaking about, that he may write and speak knowingly."</p>
+
+<p>Washington:<lb/>
+Published by Cornelius Wendell.<lb/>
+1857.</p>
 
 </div2>
 
@@ -123,11 +178,11 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div2 type="body">
 
-<p>In the annual message of Governor Adams, of South Carolina, for the year 1856, he proceeded to argue in favor of the reopening of the salve trade as follows:&#8212;</p>
+<p>In the annual message of Governor Adams, of South Carolina, for the year 1856, he proceeded to argue in favor of the reopening of the slave trade as follows:&#8212;</p>
 
 <p>"It is apprehended that the opening of this trade will lessen the value of slaves, and ultimately destroy the institution. It is a sufficient answer to point to the fact that unrestricted immigration has not diminished the value of labor in the northwestern confederacy. The cry there is the want of labor, notwithstanding capital has the pauperism of the old world to press into the grinding service. If we cannot supply the demand for slave labor, then we must expect to be supplied with a species of labor we do not want, and which is, from the very nature of things, antagonistic to our institutions. It is much better that our drays should be driven by slaves, that our factories should be worked by slaves, that our hotels should be served by slaves, that our locomotives should be manned by slaves, than that we should be exposed to the introduction from any quarter of a population alien to us by birth, training, and education, and which in the process of time must lead to that conflict between capital and labor 'which makes it so difficult to maintain free institutions in all wealthy and highly civilized nations where such institutions as ours do not exist.' In all slaveholding states true policy dictates that the superior race should direct, and the inferior perform all menial service. Competition between the white and black man for this service may not disturb norther sensibility, but it does not exactly suit our latitude.</p>
 
-<p>"Irrespective, however, of interest, the act of Congress declaring the slave trade piracy is a brand upon us which I think it important to remove. If the trade be piracy, the slave must be plunder, and no ingenuity can avoid the logical necessity of such a conclusion. My hopes and fortunes are indissolubly associated with this form of society. i feel that I would be wanting in duty if I did not urge you to withdraw your assent to an act which is itself a direct condemnation of your institutions. But we have interests to enforce a course of self-respect. I believe, as I have already stated, that more slaves are necessary to a continuance of our monopoly in plantation products. I believe that they are necessary to the full development of our whole round of agricultural and mechanical resources; that they are necessary to the restoration of the South to an equality of power in the general government, perhaps to the very integrity of the slave society, disturbed as it has been by causes which have induced an undue proportion of the ruling race. To us have been committed the fortunes of this peculiar form of society resulting from the union of unequal races. It has vindicated its claim to the approbation of an enlightened humanity; it has civilized and christianized the African; it has exalted the white race itself to higher hopes and purposes, and it is perhaps of the most sacred obligation that we should give it the means of expansion, and that we should press it forward to a perpetuity of progress."</p>
+<p>"Irrespective, however, of interest, the act of Congress declaring the slave trade piracy is a brand upon us which I think it important to remove. If the trade be piracy, the slave must be plunder, and no ingenuity can avoid the logical necessity of such a conclusion. My hopes and fortunes are indissolubly associated with this form of society. I feel that I would be wanting in duty if I did not urge you to withdraw your assent to an act which is itself a direct condemnation of your institutions. But we have interests to enforce a course of self-respect. I believe, as I have already stated, that more slaves are necessary to a continuance of our monopoly in plantation products. I believe that they are necessary to the full development of our whole round of agricultural and mechanical resources; that they are necessary to the restoration of the South to an equality of power in the general government, perhaps to the very integrity of the slave society, disturbed as it has been by causes which have induced an undue proportion of the ruling race. To us have been committed the fortunes of this peculiar form of society resulting from the union of unequal races. It has vindicated its claim to the approbation of an enlightened humanity; it has civilized and christianized the African; it has exalted the white race itself to higher hopes and purposes, and it is perhaps of the most sacred obligation that we should give it the means of expansion, and that we should press it forward to a perpetuity of progress."</p>
 
 <p>In the House of Representatives of the United States, Monday, Dec. 15, 1856, Mr. Etheridge (Fillmore American), of Tenn., asked leave to introduce the following resolution:&#8212;</p>
 
