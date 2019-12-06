@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170614_143907"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<ab>Commercial Agency
+Kongo Free State 
+Boma-Kampa. Lomani River
+April 17th, 1893
+
+To the Honorable
+Assistant Secretary of State
+Washington, D.C.</ab>
+
+<p>Sir"
+I have the honor to report any ar-
+rival att Boma-Kamba April 10th + that
+on the 14th forming the expedition against
+the Arab Slave dealers. As I resired greatly
+to see the part of the Kongo Free State
+reoccupied key the arabs it being con-
+sidered the richest and most purposelly
+and as it was impossible to visit this
+section unless with a strong expe-
+dition commandant Chalting invited me to 
+go with with as a quest and as stated
+in any letter of March 17th (no member)
+I accepted upon arrival at Bena-Kamba
+behold one three of his officers Under the
+peculiar circumstances I accepted the 
+proposition and am commanding hid 
+two Krupp Field csnon and one 
+armed soldiers of course it is 
+quite understood that phase or
+accept any remmaration from the
+Kongo Free State.</p>
+    
+<p>This Lomani River was opened last 
+year in the month of march by the 
+Dyndicat du Katanga" of Brussels with
+Mr.R.Hodester at its head. They 
+
+established</p>
+    
+<pb facs="20170614_143918"
+<p>established. Trading Stahons, or Facloyo at
+the following profits Yanga. Bena-Kamba
++ Lomo in the Lomama and at Kibongo
+Riba: Ruba and Nygangous in the High 
+Kongo, or Loulaba River after these places
+were founded and stocked with goods to 
+the value of over $250,00.00 the Arabs
+attacked them, killing the agents of Loma
++Riba. Riba + Mr.Hodister with four
+white companing on the was from
+Bema Kemba to Riba Ribe the 
+other agents at the different factories
+heard this and made their escape to 
+Stanley falls. The State agent at Riba
+Riba was tortured to death. All the 
+factories were burned and the cloths,
+beads, money, etc taken.</p> 
+    
+<p>This January they have killed the two 
+State Agents ar Kassonho so the govern-
+ment organized me expedition from
+Lusamno in the Lankuru River to pro-
+ceed a gainst Nyangone+Kassongo+
+one to go from Basoko to the Lomami
++destroy Chari. Beng Kamba + Riba-
+Riba +Kibonge. The situation now
+stands:--</p>
+ 
+<p>Liutenant Dhanis form Lusambo, occupies
+Nyangone + is marching to Kassongo with
+four hundred poldew and on any hundreds
+of natives who have voluntarily joined
+his Captain Chaltier has destroyed
+Chari a town of 1000 houses and a 
+population estimated at 15000 persons
+and on the 20th instant starts for
+Riba-Riba with four hundred soldiers
++expects to be re-enforced by the natives
+on the road.</p>
+    
+<p>In the River Lomani me have been in many 
+villages destroyed nu the Arabs in their slave
+
+raids</p>
+<pb facs="20170614_143931"
+<p>was, and in two places the headless bodies
+men, women, and children were found .
+These people are simply devasting centrak
+Africa, buit I think the energetie measures
+the Government are now taking will put a 
+slop to this refarious half life at least
+for a long time, in the secretary of the 
+state.</p>  
+
+<p>At the present I can only give the present
+survey to this slave business, but in 
+my final report will dwell upon it to
+a greater extent:
+
+I am Sir,
+Very respectfully
+R.Dorsey Mohew
+Commercial Agent</p>
+<!-- BEGIN TRANSCRIBING -->
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
