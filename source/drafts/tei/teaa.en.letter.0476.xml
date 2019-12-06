@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170614_144007"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<ab>Honorable
+Assistant Secretary of State
+Washington, D.C.
+
+Sir:
+I have the honor to inform the 
+Department of any return May 12th
+to Basoko from the Lomami River.
+The following is a brief as
+count of the manner in which
+the Arab Slave dealers have been
+driven from this section of the 
+Kongo Free State.
+
+Upon my arrival at Basoko
+March2nd Commandant Chaltin
+informed me he had recieved
+orders from Inspector of the 
+State, M. Five in the Sankuru 
+River to proceed to Bena-
+Kamba, in the Lomami River
+and commence asperations</ab>
+
+<pb facs="20170614_144014"
+<p>against the Arabs who were
+supposed to be at that place
+in large numbers, and if suc-
+cessful to proceed to Tchari
+60 miles farther south occu-
+py that place, and these re-
+turn to Bena Kamba, and
+proceed to Riba-Riba. Nothing
+was said in This Communication
+which could be combined
+into an order to arrack any
+Arab pasts situated between
+Isanghi and Kibonge Com-
+mandant Chatlin invited me
+to accompany kim, as his guest,
+but I preferred first to see
+Stanley Falls under Arab rule,
+as I had an idea they would
+revolt in a few months.</p>   
+   
+<p>I accepted the invitation to come
+on a Steamer leaving a few
+weeks after his departure.
+He left Basoko for Bena-
+Komba March 7th on board
+the Steamer "Ville d'anvers" with 
+200</p>
+    
+<pb facs="20170614_144024"
+<p>200 Joediers + 2 Krupp 7.5 omm Canon.</p> 
+    
+<p>The Steamer "Ville de Buxelles" was
+sent to Equator Station, 500 miles
+down river to being re-enforcements.
+I left for Stanley Falls march
+4th and remained until March 17th
+when M.Jobback, The President, Kindly
+sent me to Basako in the pleau-
+"launch" A.I.A. in order to cash the 
+"Bruxelles" on her return"</p>
+    
+<p>During my stay at the Falls
+I could see there was a strong 
+feeling amongst the Arabs against
+the State, and that it only re-
+quired a very small thing to 
+begin the war against the Govern-
+ment.</p>
+    
+<p>The Vali (or Governor) at the Falls 
+Commonly known as Rachid,
+but whose real name is Rachid.</p>
+    
+<pb facs="20170614_144031"
+<!-- BEGIN TRANSCRIBING -->
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
