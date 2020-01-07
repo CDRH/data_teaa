@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?oxygen
-RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"
-?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0020">
 <teiHeader>
 <fileDesc>
@@ -56,7 +54,8 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <textClass>
 
 <keywords scheme="original" n="theme">
-<term/>
+<term>International Conferences</term>
+<term>Missionaries</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -68,15 +67,34 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bourne, H. R. Fox</term>
+<term>Glave</term><!-- Mr. -->
+<term>Grogan, Ewart S.</term>
+<term>Harris</term><!-- Rev. -->
+<term ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/41884042">Morel, E.D. (Edmund Dene), 1873-1924</term>
+<term>Pickard</term><!-- Belgian Senator -->
+<term>Sheppard, W. H.</term>
+<term>Sjoblom, E. V.</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry M. (Henry Morton), 1841-1904</term>
+<term>Weeks, J. H.</term>
 </keywords>
 
 <keywords scheme="original" n="places">
-<term/>
+<term>Baringa (Congo)</term>
+<term>Berlin (Germany)</term>
+<term>Brussels (Belgium)</term>
+<term>Congo Free State</term>
+<term>Ikoko (Africa)</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
-<term/>
+<term>Belgium</term>
+<term>England</term>
+<term>France</term>
+<term>Germany</term>
+<term>Portugal</term>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -141,7 +159,7 @@ Judd &amp; Detweiler, Printers<lb/>
 
 <p>Stanley revisits central Africa, under the auspices of the Comité, August, 1879, to June, 1882; December, 1882, to January, 1884.</p>
 
-<p>The Comité becomes Interenational Association of the Congo, January, 1883.</p>
+<p>The Comité becomes International Association of the Congo, January, 1883.</p>
 
 <p>Tentative treaty of England with Portugal, recognizing Portuguese claims in West Africa as opposed to those of International Association, February 26, 1884.</p>
 
@@ -190,7 +208,7 @@ At this Conference the Congo State seeks and gains permission for imposition of 
 
 <div2 type="notes">
 
-<note>* For Memorial see <hi rend="italics">Senate Documeent No. 282, 58th Congress, 2d session.</hi></note>
+<note>* For Memorial see <hi rend="italics">Senate Document No. 282, 58th Congress, 2d session.</hi></note>
 
 <note>1 For relation of missionaries to the issue, see in general pp. 16, 17 of Memorial. Cf. Rev. J. H. Weeks in letter to Congo officials: "I deeply regret having to write this letter to you but I cannot sit quietly and see these unfortunate folk crushed out of existence by oppression and cruelty without making a protest in the name of religion and humanity."</note>
 
@@ -230,11 +248,11 @@ At this Conference the Congo State seeks and gains permission for imposition of 
 
 <note>3 "Our only program, I am anxious to repeat, is the work of moral and material regeneration."&#8212;<hi rend="italics">King Leopold, 1885.</hi></note>
 
-<note>"The objects of this Society are philanthropic. It does not aim at permanent political control but seeeks the neutrality of the valley."&#8212;<hi rend="italics">Message of President Arthur, December, 1883.</hi></note>
+<note>"The objects of this Society are philanthropic. It does not aim at permanent political control but seeks the neutrality of the valley."&#8212;<hi rend="italics">Message of President Arthur, December, 1883.</hi></note>
 
 <note>"The fundamental idea of this program is to facilitate the access of all commercial nations to the interior of Africa."&#8212;<hi rend="italics">Prince Bismarck's opening address as President of Berlin Conference</hi></note>
 
-<note>Compare also represeentatations made at Brussels:&#8212;</note>
+<note>Compare also representations made at Brussels:&#8212;</note>
 
 <note>"When we have made sufficient progress in all directions to allow of the natives asking for our protection, and when we are strong enough to grant it, no one will venture any longer to capture or transport slaves."&#8212;<hi rend="italics">Report Congo Administration, read at Brussels Conference.</hi></note>
 
@@ -291,7 +309,7 @@ At this Conference the Congo State seeks and gains permission for imposition of 
 </div2>
 
 <div2 type="notes">
-
+<!-- START ENCODING HERE -->
 <note>7 See, e.g., testimony of Mr. Ewart S. Grogan in "From the Cape to Cairo;" Mr. Pickersgill, British Consul, in "Official Report, 1898;" Col. Williams, an ex-officer in King Leopold's army, "Affairs of West Africa," page 320; Major Parminter, "Civilization in Congo Land," pages 132-'4; M. Moray, ex-agent of Concessionaire Co., "Civilization in Congo Land," page 52; M. Pickard, Belgian Senator, "En Congolie," pages 95-97; Mr. Joseph Conrad, novelist, quoted in London <hi rend="italics">Morning Post,</hi> October, 1904, etc. See, also, "King Leopold's Rule in Africa," by E. D. Morel, and "Civilization in Kongo Land," by H. R. Fox Bourne.</note>
 
 <note>8 Mr. E. J. Glave, having been associated with Mr. Stanley in the earlier days in Africa, revisited the Congo after an absence of six years. His record of his experiences as he made his way over the route followed previously with Mr. Stanley is given in articles "New Conditions in Central Africa," in the <hi rend="italics">Century Magazine,</hi> volumes 53, 54. At first he is perplexed and incredulous. Successive entries in his journal show the growth of his deep indignation and abhorrence. For citations, see Memorial to Congress, pages 7 and 9, and pamphlet "Treatment of Women and Children in the Congo State," pp. 3, 5-10.</note>
@@ -1154,6 +1172,56 @@ virtue of the General Act of Brussels of July 2d, 1890, admits, so far as it is 
 <p>64 "M. Vandervelde concluded with an eloquent appeal that the Belgian Government should approach the Congo State with a view to a thorough searching inquiry.</p>
 
 <p>"M. de Favereau expressed surprise that 'a member of the Belgian Parliament should seek to force us into a breach of the principle (that no government possesses the right to interfere in the administration of another State) and ask us to mix ourselves up in the affairs of a <hi rend="italics">foreign State.</hi>'"</p>
+
+<p>65 "It is inadvisable that in one part of an oration it should be declared that the Congo State government is a foreign government, of whom we may not ask explanations; and that in another part of the same oration, we should be told that the Congo is so closely identified with Belgium that to criticize the former is to attack the latter."&#8212;<hi rend="italics">M. Vandervelde.</hi></p>
+
+<p>66 "All Belgians should have the patriotism to hold their tongues at the right moment."&#8212;<hi rend="italics">M. Huysmans, Belgian Minister and Member of Council of Congo State.</hi></p>
+
+<p>67 "In all parliaments men who denounce abuses are true patriots."&#8212;<hi rend="italics">M. Janson.</hi></p>
+
+<p>Promis and Performance.</p>
+
+<p>68 "The Congo nation abounds in produce of various kinds. Thanks to trade, all this produce will enter into circulation; <hi rend="italics">the counterpart of its value will return to Africa,</hi> for which it will prove a source of prosperity."&#8212;<hi rend="italics">Mr. Stanley, representing International Association in Manchester, Eng., October 1, 1884.</hi></p>
+
+<p>69 "The European traders on the Congo are unanimous in their desire that the present condition of things shall not be distrubed by which <hi rend="italics">all
+
+<pb n="p39"/>
+
+can freely enter into commercial negotiations with the natives.</hi> Full satisfaction to this desire is given by the Association; absolute freedom of trade is insured with the advantage of a civilized Power to assist them in case of necessity."&#8212;<hi rend="italics">Manifesto of International Association, 1884.</hi></p>
+
+<p>70 "We traveled through and through the Congo lands preparing the natives for the near advent of a bright and happy future, showing to them the nature of the produce that <hi rend="italics">would be marketable</hi> when the white man should come; and everywhere accepted as their friends and benefactors."&#8212;<hi rend="italics">Mr. Stanley, representing Association in London, 1884.</hi></p>
+
+<p>71 "How can liberty of commerce remain either for the European or the native when the Congo State has declared that the elements which constitute that commerce <hi rend="italics">are its property</hi>."&#8212;"Leopold's Rule in Africa," p. 84.</p>
+
+<p>72 "When 99% of the territory is monopolized and exploited like a farm either by the Congo State or by companies to which the State has made concessions, there can be no longer in practice any freedom of trade, and there can only be in practice the enslavement of the unfortunate inhabitants of the territory."&#8212;"Leopold's Rule in Africa," p. 328.</p>
+
+<p>73 "Individuals," it asserts, "can trade on the Congo freely but only '<hi rend="italics">in what is legitimate</hi>,' the truth being, of course, that the only two articles such individuals could by any possibility trade in at all are rubber and ivory, and trade in these articles is, of course, illegitimate, because rubber and ivory <hi rend="italics">in the Congo territories</hi> are the properties of the State."&#8212;"Leopold's Rule in Africa," p. 85.</p>
+
+<p>74 "The immediate effect of the policy of monopolization was the elimination of trade; the resultant effect was the enslavement of the population."&#8212;"Leopold's Rule in Africa," p. 76.</p>
+
+<p>75 "I beg to bring to your notice that from January 1, 1899, it is necessary that 4000 kilos of India  rubber shall be furnished every month. To insure this result, I give you carte blanche."&#8212;<hi rend="italics">Written instructions of Commandant Verstraten, District Commissioner in the Congo State, to his subordinates.</hi></p>
+
+<p>76 "In theory the natives have some sort of right to these villages and plantations; in practice their village grounds are no more theirs than any of the grounds of that vast country, and the produce from their plantations belongs to the State. The evidence in Consul Casement's report is overwhelmingly conclusive on this point."&#8212;"Leopold's Rule in Africa," p. 81.</p>
+
+<p>77 "If you deprive the native of his land and the fruits thereof by virtue of a piece of paper signed in Europe, you make him a slave in his own land."&#8212;"Leopold's Rule in Africa."</p>
+
+<p>A Sample Treaty of Native Chiefs with Comité d'Etudes, afterward the International Association.</p>
+
+<p>78 "We, the undersigned, chiefs of the district of N'Kamo and of all the districts extending from the River Congo to Leopoldville, have resolved to put ourselves under the protection and patronage of the Comité d'Etudes du Haut Congo, in order to prevent strangers animated by wicked intentions, or ignorant of our customs, from embarrassing or endangering the peace, security and independence which we now enjoy."</p>
+
+<p>See U.S. Miscellaneous Documents 59, 48th Congress, 1st Session, p. 50. Quoted by Dr. J. S. Reeves in "International Beginnings of Congo State."</p>
+
+<pb n="p40"/>
+
+<p>For a remarkable presentation of conditions in the Congo State the reader is referred to the volume now issued by the Funk &amp; Wagnalls Co., New York, "King Leopold's Rule in Africa," by Edmund D. Morel. Of this book the New York <hi rend="italics">Evening Post</hi> says: "The mass of evidence the author has accumulated is simply appalling in its implications. Only a part of it, when brought out in a debate in the House of Commons, was enough to cause the adoption of a resolution that the fearful abuses in the Congo Free State ought to be inquired into by the civilized nations. To promote and make effective such an inquiry is the great aim of this book. It is a perfect arsenal of weapons against the exploiters and enslavers and torturers and murderers of the natives along the Congo."</p>
+
+<pb n="p41"/>
+
+<p>David Livingstone's Prayer for the Friends of Africa.</p>
+
+<p>All I can say in my solitude is, May Heaven's rich blessing come down on every one who will help to heal this open sore of the world.</p>
+
+<p>Inscribed upon the tomb in Westminster Abbey.</p>
 
 </div2>
 
