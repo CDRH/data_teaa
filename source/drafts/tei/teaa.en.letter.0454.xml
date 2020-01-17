@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Despatch from Emory H. Taunt to W.F. Wharton, September 20, 1889<!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<idno type="project">teaa.en.letter.0454<!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+    <title level="a">Despatch from Emory H. Taunt to W.F. Wharton, September 20, 1889<!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<date when="1889-09-20">September 20, 1889<!--MONTH DAY, YEAR--></date>
 </bibl>
 </sourceDesc>
 
@@ -98,10 +98,10 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Taunt, Emory H.<!-- LAST NAME, FIRST NAME --></persName>
+<roleName>Commercial Agent<!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName>Congo<!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="1889-09-20"/><!-- FILL IN THE DATE ON THE LETTER -->
 </correspAction>
 <correspAction type="deliveredTo">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
