@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0454"><!-- EXAMPLE: teaa.en.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Emory H. Taunt to W.F. Wharton, September 20, 1889<!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain<!-- FULL NAME --></name>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
 <!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0454<!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">Despatch from Emory H. Taunt to W.F. Wharton, September 20, 1889<!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
-<date when="1889-09-20">September 20, 1889<!--MONTH DAY, YEAR--></date>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
 </bibl>
 </sourceDesc>
 
@@ -98,10 +98,10 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Taunt, Emory H.<!-- LAST NAME, FIRST NAME --></persName>
-<roleName>Commercial Agent<!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName>Congo<!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="1889-09-20"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
 </correspAction>
 <correspAction type="deliveredTo">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
@@ -124,24 +124,22 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
-<ab>Commercial Agency of the United States,
-Boma, Congo the Date Nov 20,1889
 
-Mr. E.H.Taunt
-TO THE DEPARTMENT OF STATE
+<!-- BEGIN TRANSCRIBING -->
+<pb facs="20170614_145153"
+<p>Commercial Agency of the United States
+Kongo Free State Kassongo, Febuary 28, 1894
+
+Mr. R. Dorsey Mohew
+To the Department of State
 
 Subject:
-Moments
+Movements during past three
+months also those of the failure
 
-Abstract of Contents
-I a, of destination in 
-Europe, and responding the 
-authority granted by Vice
-Gov. Taunt of Congo Free
-State
-</ab>
-<!-- BEGIN TRANSCRIBING -->
-
+Abstract of Contents.
+Arrival at Kassongo
+Departure for Lake Tanganyaka</p>
 </div1>
 
 </body>

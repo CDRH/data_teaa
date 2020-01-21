@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0454"><!-- EXAMPLE: teaa.en.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Emory H. Taunt to W.F. Wharton, September 20, 1889<!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain<!-- FULL NAME --></name>
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
 <!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0454<!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">Despatch from Emory H. Taunt to W.F. Wharton, September 20, 1889<!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
-<date when="1889-09-20">September 20, 1889<!--MONTH DAY, YEAR--></date>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
 </bibl>
 </sourceDesc>
 
@@ -98,10 +98,10 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Taunt, Emory H.<!-- LAST NAME, FIRST NAME --></persName>
-<roleName>Commercial Agent<!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName>Congo<!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="1889-09-20"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
 </correspAction>
 <correspAction type="deliveredTo">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
@@ -124,24 +124,66 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
-<ab>Commercial Agency of the United States,
-Boma, Congo the Date Nov 20,1889
 
-Mr. E.H.Taunt
-TO THE DEPARTMENT OF STATE
-
-Subject:
-Moments
-
-Abstract of Contents
-I a, of destination in 
-Europe, and responding the 
-authority granted by Vice
-Gov. Taunt of Congo Free
-State
-</ab>
 <!-- BEGIN TRANSCRIBING -->
+<pb facs="20170614_145206"
+<p>Honorable Josiah Quincy
+Assistant Secretary of State,
+Washington, D.C.
 
+Sir:
+I have the honor to inform the Department 
+of any arrival at this place. F ebuary 26th
+from Stanley Falls.</p>
+    
+<p>From Nov. 29th, the date of my last
+letter to the Department, I have travelled
+through most of the Mallela country
+lying between the Lomami + the Loua-
+laba, + have been down the Loualaba
+to Stanley Falls + Basoko returning ton 
+Kassongo by the same road.</p>
+    
+<p>The Arab was being about finished 
+Ruma Liya having been defeated and 
+driven from the country, I shall have 
+in a few days for the month of 
+the LuKugu, 10 days ssold of here
+and follow the course of that
+river to the Tanganyika. This will
+
+occupy</p>
+    
+<pb facs="20170614_145213"
+<p>occupy
+at least five months. On arrival 
+at Mpala, I shall go to the North
+end of the Lake, + from there to 
+the South and Lake the Cloeason
+road to Nyassa, down the Lake 
+to the there +on to Luietent 
+on the East Coast. I hope to
+be on the Coast about September 
+1st + if the Department permits
+will take steamer from there to 
+the Cape of Good Hope + on to 
+Boma to settle my affairs + return
+to America on leave.</p>
+    
+<p>I have a force of sixty soldiers
+with me armed with th Albini
+rifle+ some hundred porters Jsap
+pose the total number of people in 
+my caravan maybe put down . at
+250.</p>
+    
+<p>I am in the best of the health
+I have had on letters or papers for
+ten months!
+
+Respectfully 
+R. Dorsey Mohew
+N.S. Commercial Agent</p>
 </div1>
 
 </body>

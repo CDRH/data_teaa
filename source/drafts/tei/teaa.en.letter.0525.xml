@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0517">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0525">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert S. Newton to George L. Rives, November 15, 1888</title>
+<title>Dispatch from Robert S. Newton to George L. Rives, December 5, 1888</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0517</idno>
+<idno type="project">teaa.en.letter.0525</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -46,7 +46,7 @@
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">5</biblScope>
-<date from="1888-11-15">November 15, 1888</date>
+<date from="1888-12-05">December 5, 1888</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -70,13 +70,12 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
+<term>Downing, Henry F.</term>
 <term>Judson, Julius Leroy</term>
-<term>McLean</term>
-<term>Oliveira, José Baptista de</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Cabinda (Angola)</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="empires">
@@ -90,7 +89,7 @@
 <keywords scheme="original" n="language">
 <term>English</term>
 </keywords>
-    
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -100,22 +99,22 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Newton, Robert S.</persName>
-<roleName>Acting British Consul at Loanda</roleName>
-<placeName>New York, New York</placeName>
-<date when="1888-11-15"/>
+<roleName>U.S. Vice Consul at Loanda</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
+<date when="1888-12-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/29909070">Rives, George Lockhart, 1849-1917</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
-<date when="1888-12-31"/>
+<date when="1889-01-28"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-14" who="kln">Reviewed transcription and encoded</change>
+<change when="2020-01-15" who="kln">Reviewed transcription and encoded</change>
 <change when="2019" who="caa">Transcribed</change>
 </revisionDesc>
 </teiHeader>
@@ -126,79 +125,81 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0517.001"/>
+<pb facs="teaa.en.letter.0525.001"/>
 
-<note>Department of State Received Dec 31 1888</note>
+<note>No 4.</note>
+<note>Department of State Received Jan 28 1889</note>
 
-<p>St. Paul de Loanda</p>
+<p>United States Consulate<lb/>
+Loanda, December 5, 1888.</p>
 
-<p>British Consulate Loanda<lb/>
-15 November 1888.</p>
+<p>Mr. R.S. Newton<lb/>
+To the Department of State.</p>
 
-<p>Sir</p>
+<p>Subject.</p>
 
-<p>It is my painful duty to have to report to the
-Department the death of Vice Consul Judson, who died 
-here suddenly on the 8th inst. It would appear that
-Mr. Judson went to the government office to get a
-passport to go to Cabinda, and was seized with a fit
-on the stairs. He was immediately put into a maxilla
-and sent to his house which was close by. Dr. Oliveira
-was called, and did all he could for him, but he died
-almost before the medicine could be had from the Chemist.
-Enclosed you will find certificate of death.</p>
+<p>Asking or Forms, Paper, and
+Flags; authority to erect a Flagstaff. 
+Query as to Salary.</p>
 
-<p>Immediately I heard of the occurrence, I went
-to the Secretary who is at present acting Governor,
-and requested him to allow me to take charge, and
-as my appointment as Vice Consul for the United
-States has not been officially advised to the Portuguese
-Government as having been annulled, he said
-he would not interfere. I therefore took charge of the
-Funeral
+<p>Abstract of Contents</p>
 
-<fw type="address">The Assistant Secretary of State<lb/>
-Washington D.C.</fw>
+<p>As above.</p>
 
-<pb facs="teaa.en.letter.0517.002"/>
+<pb facs="teaa.en.letter.0525.002"/>
 
-funeral, inviting only the Consuls of the different Four
-nations, and authorities. The funeral took place on the 
-following morning at 7 oclock in the English Cemetery
-the American missionary Mr. McLean reading the
-Funeral service.</p>
+<note>No 4</note>
 
-<p>I have taken full charge of all his effects, and of the
-Archives which I find are in a plate of the utmost
-confusion, and I am therefore unable to send a proper
-inventory of the same by this mail, but will do so by
-first opportunity.</p>
+<p>United States Consulate<lb/>
+Loanda, December 5, 1888.</p>
 
-<p>I shall be happy to continue in charge of this
-Consulate should the Department wish me to do so</p>
+<p>Honorable G. L. Rives<lb/>
+Assistant Secretary of State<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to request
+the Department to supply me with
+the following for the use of this
+Consulate.</p>
+
+<p>Official paper.<lb/>
+One full sized flag.<lb/>
+One boat flag</p>
+
+<p>A supply of any forms that
+may be considered necessary by
+the Department after revision
+of the list of those existing attached
+to the inventory of Judson <del>effects</del>
+<catchwords>sent</catchwords>
+
+<pb facs="teaa.en.letter.0525.003"/>
+
+sent to the Department in despatch
+No. 2 of this date.</p>
+
+<p>Also to authorize me to erect a 
+flag staff, which will cost about 
+$25. The one I had does not now 
+exist.</p>
+
+<p>I have also the honor to request
+the Department to inform me if I 
+am authorized to draw for salary
+at the rate of $1,000.00 per annum<del>e</del>
+only, or $1,500.00; as Mr. Downing
+gave me to understand that the
+Salary and allowance had been 
+increased to the latter sum during
+his residence here.</p>
 
 <p>I have the honor to be<lb/>
-Sir,<lb/>
+Sir<lb/>
 Your obedient servant<lb/>
-Robt S. Newton<lb/>
-HB Majesty's Acting Consul</p>
-
-<pb facs="teaa.en.letter.0517.003"/>
-
-<p>Translation</p>
-
-<p>José Baptista de Oliveira, Physician of the School of
-Medicine &amp; Surgery of Lisbon &amp;c</p>
-
-<p>I certify that Mr Judson, Consul for the United States of
-America in this city, died suddenly of Congestion of the lungs
-so suddenly that I did not have time to give him any
-treatment.</p>
-
-<p>In witness of the truth of which, I hereby sign<lb/>
-(signed) José Baptista de Oliveira</p>
-
-<p>Loanda 15 November 1888</p>
+Robt S Newton<lb/>
+Vice Consul.</p>
 
 </div1>
 
