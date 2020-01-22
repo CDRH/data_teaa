@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0531">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0547">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Ed Bannister to William F. Wharton, August 16, 1889</title>
+<title>Dispatch from Edward Bannister to William F. Wharton, September 9, 1890</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0531</idno>
+<idno type="project">teaa.en.letter.0547</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Ed Bannister to William F. Wharton</title>
+<title level="a">Dispatch from Edward Bannister to William F. Wharton</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">5</biblScope>
-<date from="1889-08-16">August 16, 1889</date>
+<date from="1890-09-09">September 9, 1890</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -70,7 +70,7 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term>Newton, Robert Scott</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
@@ -98,22 +98,22 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Bannister, Edward</persName>
-<roleName>Acting U.S. Vice Consul at Loanda</roleName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
-<date when="1889-08-15"/>
+<date when="1890-09-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
-<date when="1889-10-01"/>
+<date when="1890-11-03"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-16" who="kln">Reviewed transcription and encoded</change>
+<change when="2020-01-22" who="kln">Reviewed transcription and encoded</change>
 <change when="2019" who="caa">Transcribed</change>
 </revisionDesc>
 </teiHeader>
@@ -124,47 +124,64 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0531.001"/>
+<pb facs="teaa.en.letter.0547.001"/>
 
-<note>No 30</note>
+<note>No. 21</note>
+<note>Department of State Received Nov 3 1890</note>
 
-<p>Consulate of the United States,<lb/>
-St. Paul de Loanda 16 Augt 1889</p>
+<p>Consulate of the United States,
+Loanda, September 9, 1890</p>
 
-<p>Mr. Wm F. Wharton<lb/>
+<p>Mr Ed Bannister.<lb/>
 To the Department of State.</p>
 
 <p>Subject:</p>
 
-<p>Mr. Bannister assumes the duties of Acting Vice
-Consul</p>
+<p>Appointment as Vice Consul.</p>
 
-<p>Abstract of Contents.</p>
+<p>Abstract Contents.</p>
 
-<pb facs="teaa.en.letter.0531.002"/>
+<p>Acknowledging receipt of
+despatch No. 37 of July 17, 1890
+appointing Ed Bannister United
+States Vice Consul at Loanda.</p>
 
-<note>No 30</note>
-<note>Department of State Received Oct 1 1889</note>
+<p>1 Inclosure. Bond.</p>
 
-<p>Consulate of the United States,<lb/>
-St. Paul de Loanda 16 Augt 1889</p>
+<pb facs="teaa.en.letter.0547.002"/>
 
-<p>Honorable
+<note>No. 21</note>
+
+<p>Consulate of the United States,<lb/> 
+Loanda, September 9, 1890.</p>
+
+<p>Honorable W. F. Wharton<lb/>
 Assistant Secretary of State,<lb/>
 Washington, D.C.</p>
 
 <p>Sir:</p>
 
-<p>I have the honor to inform you that
-Mr Robert Scott Newton has this day handed
-to one the Archives of this Consulate and that
-I have assumed the duties of Vice Consul</p>
+<p>I have the honor to acknowledge
+the receipt of despatch No. 37 dated
+July 17, 1890, informing me that
+I have been appointed United 
+States Vice Consul at St. Paul de 
+Loanda.</p>
 
-<p>I have the honor to be<lb/>
-Sir<lb/>
+<p>I beg respectfully to tender my
+thanks for the honor, and for the
+confidence thus placed in me, and
+to assure the Department that I shall
+at all times endeavor to keep in view
+the interests and sustain the dignity
+of the nation I am thus called upon
+to represent.</p>
+
+<p>I enclose the bond duly executed.<lb/>
+I am, Sir,<lb/>
 Your obedient servant<lb/>
-Ed. Bannister.<lb/>
-Acting Vice Consul</p>
+Ed Bannister<lb/>
+Vice Consul</p>
 
 </div1>
 
