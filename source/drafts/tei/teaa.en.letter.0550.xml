@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0550">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Edward Bannister to William F. Wharton, April 29, 1891</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Akyeampong, Chelsea A" xml:id="caa">Chelsea Animwaa Akyeampong</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0550</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Edward Bannister to William F. Wharton</title>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">5</biblScope>
+<date from="1891-04-29">April 29, 1891</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Commerce and Trade</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Bannister, Edward</persName>
+<roleName>U.S. Vice Consul at Loanda</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
+<date when="1891-04-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1891-06-22"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-01-23" who="kln">Reviewed transcription and encoded</change>
+<change when="2019" who="caa">Transcribed</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.en.letter.0550.001"/>
+
+<note>No. 28.</note>
+<note>Department of State Received Jun 22 1891</note>
+
+<p>Consulate of the United States,<lb/>
+Loanda, April 29, 1891</p>
+
+<p>Mr. Bannister.<lb/>
+To the Department of State.</p>
+
+<p>Subject:</p>
+
+<p>Reply to India Rubber
+Circular of September 20, 1890.</p>
+
+<p>Abstract of Contents.</p>
+
+<p>Transmitting report on the
+production of Crude India
+Rubber in the Province of 
+Angola, and vicinity.</p>
+
+<p>1 Inclosure</p>
+
+<pb facs="teaa.en.letter.0550.002"/>
+
+<note>No. 28.</note>
+
+<p>Consulate of the United States,<lb/>
+Loanda, April 29, 1891.</p>
+
+<p>Honorable W. F. Wharton<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>In compliance with
+the instructions conveyed
+in the Circular dated 20
+September 1890, I have the 
+honor to transmit herewith
+a "Report on the production
+of Crude India Rubber" in the 
+Province of Angola and
+its dependencies.</p>
+
+<p>The delay in forwarding
+it is owing to want of quick
+communication with the
+sources of information, and 
+certain difficulty in getting
+at statistics.</p>
+
+<p>I have the honor to be<lb/>
+Sir,<lb/>
+Your obedient servant<lb/>
+Ed Bannister<lb/>
+Vice Consul.</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

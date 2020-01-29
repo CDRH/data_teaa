@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0476">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Despatch from R. Dorsey Mohew to Assistant Secretary of State, June 21, 1893 </title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<idno type="project">teaa.en.letter.0476</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="a">Despatch from R. Dorsey Mohew to Assistant Secretary of State, June 21, 1893</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<date when="1893-06-21">June 21, 1893</date>
 </bibl>
 </sourceDesc>
 
@@ -98,22 +97,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Mohew, R. Dorsey</persName>
+<roleName>Commercial Agent</roleName>
+<placeName>Congo</placeName>
+<date when="1893-06-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
 <roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2020-01-27" who="unm">transcribed and coded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -123,7 +122,7 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="20170614_144007"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<pb facs="20170614_144007"/>
 <ab>Honorable
 Assistant Secretary of State
 Washington, D.C.
@@ -147,7 +146,7 @@ River to proceed to Bena-
 Kamba, in the Lomami River
 and commence asperations</ab>
 
-<pb facs="20170614_144014"
+<pb facs="20170614_144014"/>
 <p>against the Arabs who were
 supposed to be at that place
 in large numbers, and if suc-
@@ -176,7 +175,7 @@ Komba March 7th on board
 the Steamer "Ville d'anvers" with 
 200</p>
     
-<pb facs="20170614_144024"
+<pb facs="20170614_144024"/>
 <p>200 Joediers + 2 Krupp 7.5 omm Canon.</p> 
     
 <p>The Steamer "Ville de Buxelles" was
@@ -210,7 +209,7 @@ exceedingly discourtious to me
 
 when</p>
     
-<pb facs="20170614_144031"
+<pb facs="20170614_144031"/>
 <ab>when he learned I intended going
 to the Lomani.</ab>   
  
@@ -242,7 +241,7 @@ M. Tobback, who conducted all
 
 the</p>
     
-<pb facs="20170614_144039"    
+<pb facs="20170614_144039"/>    
 <p>the affairs of Government and was
 Commandant of the Past containing
 150 soldiers, situated on the right
@@ -273,14 +272,14 @@ placed entirely aroused her, and on the 27th.
 
 All</p>
    
-<pb facs="20170614_144048"   
+<pb facs="20170614_144048"/>   
 <p>All being completed we left for
 Bena Kauba, having on board
 Leuit de Bock, Sergeant Lamers
 +myself. 150 soldiers, armed with
 Albini Rifers, 45,370 cartridges
 provisions for the officers and 10
-tons of rice for the men.</p>..
+tons of rice for the men.</p>
     
 <p>Noching of note occurred, while as-
 cending the river until March 31st when 
@@ -304,7 +303,7 @@ but could see nothing as might had
 
 fallen.</p>
     
-<pb facs="20170614_144056"
+<pb facs="20170614_144056"/>
 <p>fallen, so returned to the steamer. On
 the way back found eight bodies
 of women and children, all headless
@@ -335,7 +334,7 @@ inform to march rapidly, so
 
 had</p>
     
-<pb facs="20170614_144103"
+<pb facs="20170614_144103"/>
 <p>had been murdered in order to allow 
 the caraven to retreat as fast as 
 possible.</p>   
@@ -369,7 +368,7 @@ as the "Kalanga Lyndicate, of which
 
 Mr</p>
     
-<pb facs="20170614_144110"
+<pb facs="20170614_144110"/>
 <p>Mr. Hodistin was the chief, and
 was destroyed by the Arabs at the 
 same time they murdered him and
@@ -400,7 +399,7 @@ section of country said to be defeuded
 
 by</p>
     
-<pb facs="20170614_144123"
+<pb facs="20170614_144123"/>
 <ab>by a coting body of arabs.</ab>
     
 <p>Small pay had appeared amongst
@@ -430,7 +429,7 @@ Prisoners-Arab (used as) 45
 Porters)=
 Total= 505</p>
     
-<pb facs="20170614_144218"
+<pb facs="20170614_144218"/>
 <p>As the men were armed with the albini
 Rifle and carried 100 cartridges. Besides
 this ammunition 40 boxes, each containing 160
@@ -459,7 +458,7 @@ on the road, and 11 "chap boxes"
 
 provision</p>
     
-<pb facs="20170614_144228"
+<pb facs="20170614_144228"/>
 <p>(provisions cures) for the affairs. Each 
 man carried his own rice cufforont for
 10 days as we expected to find food 
@@ -488,7 +487,7 @@ The first days March was a
 
 short</p>
     
-<pb facs="20170614_144148"
+<pb facs="20170614_144148"/>
 <p>short one, as we started late. Two 
 cases of small pox apperance that might
 + the men were immediately sent bacl
@@ -518,7 +517,7 @@ the soft black mud throughout their
 
 entire</p>
     
-<pb facs="20170614_144157"
+<pb facs="20170614_144157"/>
 <p>entire length being 1/2 foot deep ren-
 dered walking very different and 
 progress slow. In one of these plains
@@ -547,7 +546,7 @@ was reached. This is the place
 
 where</p>
     
-<pb facs="20170614_144252"
+<pb facs="20170614_144252"/>
 <p>where. Hodiders Expedition was massacered.
 Nothing was found in any way connected
 with this informante affair.</p>
@@ -578,7 +577,7 @@ for three of four days is carried in a
 
 slinsling</p>
     
-<pb facs="20170614_144312"
+<pb facs="20170614_144312"/>
 <ab>sling at the side. The arrow is dipped in 
 and shot dripping.</ab>
     
@@ -609,7 +608,7 @@ with us.
 
 March</p>
     
-<pb facs="20170614_144318"
+<pb facs="20170614_144318"/>
 <p>March 29th progress was stopped
 by arriving on the edge of what ap-
 peared to be an immense 2 warrants.
@@ -638,7 +637,7 @@ enemy had not discovered our presence
 
 and</p>
     
-<pb facs="20170614_144325"   
+<pb facs="20170614_144325"/>  
 <ab>and were creating the most frightful
 row in their camp. Horns blowing,
 Toms beating men yelling orders, women
@@ -667,7 +666,7 @@ position was discovered we received their
 
 whole</ab>
     
-<pb facs="20170614_144332"
+<pb facs="20170614_144332"/>
 <p>whole fire. Bullets, slug, beads, and 
 pieces of brass rads seemed to hail
 but no one was wounded. After 
@@ -698,7 +697,7 @@ of a raft was commenced and late
 
 that</p>
     
-<pb facs="20170614_144338"
+<pb facs="20170614_144338"/>
 <ab> that might all being finished preparations 
 were at once commenced to cross in the 
 morning.</ab>
@@ -730,7 +729,7 @@ of the Arabs.</p>
 
 do</p>
     
-<pb facs="20170614_144345"
+<pb facs="20170614_144345"/>
 <ab> do what we could and return to 
 Kassuku, when the route for Bena-
 Kamba would be taken.</ab>
@@ -762,7 +761,7 @@ us 9 days to go"</p>
 
 were</p>
     
-<pb facs="20170614_144354"
+<pb facs="20170614_144354"/>
 <ab>were awful; the dead from the 
 sick, column buring it every
 mile. In many cases one would
@@ -795,7 +794,7 @@ This is a large Arab past and
 
 was</p>
     
-<pb facs="20170614_144401"
+<pb facs="20170614_144401"/>
 <p>was under the command of abroad Ben
 Laid Ben Jamion, Maybe; son of the chief of 
 Kassango, comonly known as Buana Makumbua
@@ -826,7 +825,7 @@ those who had did or were ill.
 
 All</p>
     
-<pb facs="20170614_144408"
+<pb facs="20170614_144408"/>
 <p>All was completed on the 14th and,
 at 9AM we left having on board
 250 soldiers, 60,000 rounds of ammun-
@@ -857,7 +856,7 @@ The Arabs had commenced the fifty on
 
 the</p>
     
-<pb facs="20170614_144416"
+<pb facs="20170614_144416"/>
 <ab>the 15th his ammunition was nearly
 exhausted and his soldiers had not 
 proved reliable, he could hold on for 
@@ -889,7 +888,7 @@ ing order had been given by the Commandant
         
 of</p>
     
-<pb facs="20170614_144426"
+<pb facs="20170614_144426"/>
 <p>of sight as much as possible
 "2nd When Iqive orders the cannon with"
 "be taken ashore and placed in battery."
@@ -922,7 +921,7 @@ feet. At the 12th shot the steamer went
 
 to</p>
     
-<pb facs="20170614_144432"    
+<pb facs="20170614_144432"/>    
 <ab>to the other-side + the men carried the-
 position at the point of the bayonets; killing
 or driving all from the Factory . Double time
@@ -953,7 +952,7 @@ These houses, leaving all their ivory, quas.
 
 powder</p>
     
-<pb facs="20170614_144446"
+<pb facs="20170614_144446"/>
 <ab>powder, guns, cartridge, + G in their houses.
 Amongst the articles captured I might men-
 tion the following:</ab>
@@ -985,7 +984,7 @@ whilst receiving these people. A great
 
 many</p>
     
-<pb facs="20170614_144455"
+<pb facs="20170614_144455"/>
 <p>many of the soldiers found fathers, mothers,
 brothers, or sisters amongst the slaves, and 
 some of the meeting and recognitions were
@@ -1014,7 +1013,7 @@ Romi existed, the pleasure was burned
 
 in</p>
     
-<pb facs="20170614_144537"
+<pb facs="20170614_144537"/>
 <p>in for the back and preparations made
 to laud. Heavy firing was heard + as several 
 bullets were heard whistling by us we re-
@@ -1044,7 +1043,7 @@ to these proceedings. They say they
 
 do</p>
     
-<pb facs="20170614_144546"
+<pb facs="20170614_144546"/>
 <p>do not eat human flesh on account
 of a liking for it, but as the Arabs
 were theur enemies, they gain all the 
@@ -1077,7 +1076,7 @@ published:- (French copy marked District D.).
 
 following</p>
 
-<pb facs="20170614_144556"
+<pb facs="20170614_144556"/>
 <p>following names:-
 Danien Captain Commandant 1st class
 In the fight and attack at Rome.
@@ -1104,7 +1103,7 @@ In the fight at Rome
 Van Lint Sergeant.
 In the fight + assault at Rome.</p>
 
-<pb facs="20170614_144605"
+<pb facs="20170614_144605"/>
 <p>Also the following black soldiers:
 "Sergeant Mac Carthy, Corporals Davis
 "and Freeman and Pirates. Botili
@@ -1136,7 +1135,7 @@ the soldiers and 300 prisoners on
 
 board</p>
 
-<pb facs="20170614_144612"
+<pb facs="20170614_144612"/>
 <p>board.
 
 Janghi was found abandoned. A
@@ -1169,7 +1168,7 @@ Congo Free State
 
 thanks</p>
 
-<pb facs="20170614_144622"
+<pb facs="20170614_144622"/>
 <p>thanks
 "for the efficaious and disinterested as-
 "sistance you have rendered me during 
@@ -1199,7 +1198,7 @@ illiary".
 
 existed</p>
 
-<pb facs="20170614_144632"
+<pb facs="20170614_144632"/>
 <p>"existed between us, woll mitigate the 
 "regret I have to part with you 
 "Please accept, Dear Sir, with re-
@@ -1227,7 +1226,7 @@ at Riba-Riba Lieut. Michels.
 
 In</p>
 
-<pb facs="20170614_144638"
+<pb facs="20170614_144638"/>
 <p>In December, 1892 Lieut. Shamis, 
 Commandant of the Camp at Lusambe 
 in the Lankuru, allied himself with 
@@ -1256,7 +1255,7 @@ immediately went to him and they defeated
 
 Sef.</p>
 
-<pb facs="20170614_144645"
+<pb facs="20170614_144645"/>
 <p>Sef. killing 500,-- capturing 600+
 5 chiefs  and 1000 guns: Since that
 time M. Dhanis actions have been
@@ -1289,7 +1288,7 @@ portance held by them is Kebongs,
 
 90</p>
 
-<pb facs="20170614_144651"
+<pb facs="20170614_144651"/>
 <p>90 miles south of Stanley Falls on the right 
 bank of the Loualaba (kongo). an Expedition
 under command at Captain Panther, consisting 
@@ -1319,7 +1318,7 @@ slave trade dying a matured death.
 
 I</p>
 
-<pb facs="20170614-144659"
+<pb facs="20170614-144659"/>
 <p>I am certain all the powder, cartridges and
 guns captured at Stanley Falls and Rome
 cause from the East.
@@ -1353,7 +1352,7 @@ Riba-Riba Chief M' Sereva.
 
 Stanley Falls</p>
 
-<pb facs="20170614_144705"
+<pb facs="20170614_144705"/>
 <p>Stanley Falls. Chief Rachid Ben Faid 
 Ben Juma Mauajebe. (nephew)
 
@@ -1386,7 +1385,7 @@ In the Maringa River (south of the Kongo
 
 and</p>
     
-<pb facs="20170614_144712"
+<pb facs="20170614_144712"/>
 <p>next of the Lomami). Manian-Maima
 (a former slave of Tippo Tip, but freed 
 on account of his success as a slave 
@@ -1418,7 +1417,7 @@ Dhamis at Nyangwe are of his prisoner
 
 an</p>
 
-<pb facs="20170614_144724"
+<pb facs="20170614_144724"/>
 <p>"an Arab chief having told him
 substaintially, what we heard at the 
 Falls.</p>
@@ -1450,7 +1449,7 @@ pasts previous to hastilities.
 
 H.</p>
     
-<pb facs="20170614_144733"
+<pb facs="20170614_144733"/>
 <p>H. Ground plan Rachids house at 
 Stanley Falls.
 "I" Skelch of Abi Bou's station at
