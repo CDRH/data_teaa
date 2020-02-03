@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="1859-08-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-02-3" who="#unm">transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170616_095436"/>
+
+<ab>Consulate of the United States
+at Bathurst 11th August 1859</ab>
+
+<p>Sir;
+I have the honor to en-
+-close herewith The Secretary No.1
+Return of Arrivals + Departures
+of American vessels for the Quarter
+ending the 30th of June last
+also the Quarterly Return of No.2
+Fees for the lame period amount-
+ing to sixty two dollars and fifty 
+six cents.</p>
+    
+<p>You will also find here-  No.3
+-with a copy of the Treaty between
+France and England relative 
+to Portendia and Albreda, and the 
+free navigation of the Gambia, con-
+ceded to France by the latter pow-
+er.</p>
+
+<p>I have indirectly learned
+that Her Majesty's Government
+has sent a Despatch to the <unclear></unclear>/p>
+    
+<ab>Honorable Lewis Cap
+Secretary of State of the United States
+Washington</ab>
+    
+<pb facs="20170616_095442"    
+    
+<p>Acting Governor of the settlement
+the Contents of which are to this 
+purpose, that, the House Govern-
+ment experienced many difficul-
+ties in regard to the right of 
+free navigation of the Gambia 
+accorded to the French, form which the 
+Powers with whom England has
+treaties with the "most favored
+nation" Lause; that it could be 
+agreeable to the House Govern-
+ment to have the opening of the 
+river to the whole world made 
+the subject of a petition from the 
+Colonists.</p>    
+    
+<p>I am inclined to believe that 
+the Colonists, particularly the Com-
+mercial part of the community 
+are opposed to this <unclear/>, as
+they also were to the opening of 
+the River to the French. and 
+not to little purpose.</p>
+    
+<p>The advantages to the desired
+from the force navigations of the 
+Gambia, as far as the United-
+States are concerned are at</p>
+    
+<pb facs="20170616-_095449"/>
+
+<p>present, perhaps, important
+But I am convinced that the 
+future will tend to increase
+those advantages.</p>
+    
+<p>The river is navigable to ves-
+sels drawing not more than eight 
+feet of conter as far as Me'
+Calhip Island the principal
+British settlement, and about 
+two hundred miles above this.
+The puncipal articles of pro-
+duce procured in the River are
+Governed Weeks (Peamoks), of
+which the animal export for 
+the past year was 15728 tons
+requiring a considerable 
+amount of shipping to bring
+these here to market.
+About 70,000 hides and 100 tons
+of Beeswax exported in the lame 
+period of time.</p>
+    
+<p>This carrying trade is now per-
+pound by British vessels almost
+entirely, Most of the French 
+vessels being too large or dread-
+ing too much waken to ascend</p>    
+    
+<pb facs="20170616_095455"/>
+    
+<p>the river to any distance.
+American vessels from their 
+perticularly flat build and 
+large deer capacity are better
+adapted than either British or 
+French for this carrying trade.</p>
+
+<p>The British trade as at 
+present carried on is not a rely
+profitable one. There are Eight
+English + three French Houses
+enfafed in it from this port.
+Perces obtained for goods, in 
+the River, are large and remu=
+wershice, but the disadvantages
+and lopes aside 1st. From 
+employing native Mandingors
+(in whose language there appoars
+to be no such word as honesty)
+for traders. I From the <unclear/> 
+of small vessels required to bring 
+the produce to town, the expense
+of which, increases very considerably
+the price of the produce.</p>
+    
+<p>It has occured to me that this
+matter would be worthy the con-
+-sideration of the United States</p>
+    
+<pb facs="20170616_095500"
+    
+<p>and that perhaps the present 
+would be favorable moment
+for bringing it before Her Majesty's
+Goverment.</p>    
+    
+<p>Should it be the wish of the Depart-
+-ment I should be of ad upon the 
+return of the healthy season
+commencing in November or 
+December to ascend the River
+as far as Mo' Caithy Island
+and make a report thereon.</p>
+    
+<p>I regret that my present
+state of health requires a chance
+of climate and ascending to the 
+order of my medical man I 
+shall be obligd to leave my Con-
+-suate for the coming two months 
+and proceed to the Island of Seneieffe.</p>
+    
+<p>I have appointed 
+Mr. Richard Charles Lloyd Acting 
+Consul during my absence.
+I have the honor to be 
+Sir,
+Your most obident servant 
+Daniel R.B. Upton
+United States Consul</p>
+</div1>
+
+</body>
+</text>
+
+</TEI>
