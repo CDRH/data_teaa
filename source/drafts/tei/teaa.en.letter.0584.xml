@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0533">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0584">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dspatch from R. Dorsey Mohew to Josiah Quiney, November 29, 1893</title>
+    <title>Despatch from Daniel R.B.Upton to Lewis Cap, December 31, 1859</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
 </respStmt>
 </titleStmt>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0533</idno>
+<idno type="project">teaa.en.letter.0584</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from R. Dorsey Mohew to Josiah Quiney, November 29, 1893</title>
+<title level="a">Despatch from Daniel R.B.Upton to Lewis Cap, December 31, 1859</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
-<date when="1893-11-29">November 29, 1893</date>
+<date when="1859-12-31">December 31, 1859</date>
 </bibl>
 </sourceDesc>
 
@@ -97,14 +97,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Mohew, R. Dorsey</persName>
+<persName>Upton, Daniel R.B.</persName>
 <roleName>Commercial Agent</roleName>
-<placeName>Congo</placeName>
-<date when="1893-11-29"/>
+<placeName>Gambia</placeName>
+<date when="1859-12-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Quiney, Josiah</persName>
-<roleName>Assistant Secretary of State</roleName>
+<persName>Cap, Lewis</persName>
+<roleName>Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,7 +112,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-27" who="#unm">transcribed and encoded</change>
+<change when="2020-01-31" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -122,38 +122,35 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<pb facs="20170616_094647"/>
 
-<!-- BEGIN TRANSCRIBING -->
-<pb facs="20170614_145117"/>
-<p>Commercial Agency of the United States
-Ghandi Lomain River Kongo Free State
-Nov. 29th 1893
-
-Mr. R. Dorsey Mohew 
-To the Department of State
-
-
-Subject: 
-Arrival at N. Ghandi
-
-Abstract of Contents
-Arrival at Niyanku 
-Least of Kongo Luthete
-Movements from here</p>
+<p>Commercial Agency of the 
+United States at Bathurst
+31st January 1859</p>
     
-<pb facs="20170614_145125"/>
-<p>loads of miscellanous articles
-such as Arms ammunition cloth
-provisions + and hope to 
-reach Kassaongo in eleven
-days, by making forced
-marches.
+<p>Sir,
 
-I am Sir,
-Respectfully
-R. Dorsey Mohew
-Commercial Agent</p>
+I have the honor herewith
+to transmit. The Quarterly Statement
+of Seas received by me up to the 
+31st of December 1858.</p>
+    
+<p>It is with the permission 
+of the Collect of Customs; granted
+upon the understanding that on
+Evequation is for the upcoming, and 
+unRuoron to the local COlonial
+Government, that I have been
+allowed to retain the Papers of 
+American Vessels and thereby
+collect this <unclear/> to the fees
+conquest thereto.</p>
+    
+<p>I have the honor to be,
+Your most obdt. Servant
+Daniel R.B. Upton
+U.S. Commercial Agent</p>
+
 </div1>
 
 </body>

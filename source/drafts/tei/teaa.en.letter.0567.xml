@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0555">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0567">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Edward Bannister to William F. Wharton, June 30, 1891</title>
+<title>Dispatch from Héli Chatelain to William F. Wharton, November 21, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0555</idno>
+<idno type="project">teaa.en.letter.0567</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Edward Bannister to William F. Wharton</title>
+<title level="a">Héli Chatelain to William F. Wharton</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">5</biblScope>
-<date from="1891-06-30">June 30, 1891</date>
+<date from="1891-11-21">November 21, 1891</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -70,18 +70,19 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term>Carvalho, Luiz Maria de</term>
-<term>d'Olviro, Aurelia Augusta</term>
-<term>Weston, Frank</term>
+<term>Bannister, Edward</term>
+<term>Burling, Lancaster C.</term>
+<term ref="http://viaf.org/viaf/10651368">Taylor, William, 1821-1902</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Richmond (Va.)</term>
 <term>St. Paul de Loanda (Angola)</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
+<term>Great Britain</term>
 <term>Portugal</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -93,29 +94,30 @@
 </keywords>
 
 <keywords scheme="original" n="religion">
-<term/>
+<term>Methodist Episcopal</term>
 </keywords>
 
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Bannister, Edward</persName>
-<roleName>U.S. Vice Consul at Loanda</roleName>
+<persName ref="http://viaf.org/viaf/68793274">Chatelain, Héli</persName>
+<roleName>U.S. Commercial Agent at Loanda</roleName>
 <placeName>St. Paul de Loanda, Angola</placeName>
-<date when="1891-06-30"/>
+<date when="1891-11-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1892-01-07"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-27" who="kln">Reviewed transcription and encoded</change>
+<change when="2020-01-28" who="kln">Reviewed transcription and encoded</change>
 <change when="2019" who="caa">Transcribed</change>
 </revisionDesc>
 </teiHeader>
@@ -126,80 +128,86 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0555.001"/>
+<pb facs="teaa.en.letter.0567.001"/>
 
-<note>No. 29</note>
+<note>No. 14</note>
+<note>Department of State Received Jan 7 1892</note>
 
 <p>Consulate of the United States,<lb/>
-Loanda, June 30, 1891.</p>
+at St. Paul de Loanda, 21 November, 1891</p>
 
-<p>Mr. Ed Bannister<lb/>
+<p>Mr. Heli Chatelain<lb/>
 To the Department of State.</p>
 
 <p>Subject:</p>
 
-<p>Account Current.</p>
+<p>Nomination of Vice-Commercial Agent<lb/>
+Receipt of Exequatur</p>
 
-<p>Abstract of Contents.</p>
+<p>Abstract of Contents</p>
 
-<p>Transmitting Account Current
-for the quarter ended June 30,
-1891</p>
+<pb facs="ViewScan_70005.jpg"/>
 
-<p>Enclosures</p>
+<note>No. 14</note>
 
-<p>1. Rent and Miscellaneous Account.</p>
+<p>Consulate of the United States,<lb/>
+at St. Paul de Loanda November 21, 1891</p>
 
-<p>2. Arrivals and Departures of American
-vessels.</p>
+<p>Honorable William F. Wharton<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
 
-<p>3. Record of Notarial services.</p>
+<p>Sir:</p>
 
-<p>4. Abstract of Passports issued.</p>
+<p>In accordance with your instruction
+No. 3, of March 19, 1891, I have the honor
+to submit to your approval my nomination
+of Rev. Lancaster C. Burling, as Vice 
+Commercial Agent, or as Vice-Consul, at 
+this port.</p>
 
-<p>5. Aggregate return of Fees for the 
-year ending June 30, 1891.</p>
+<p>The nominee is an American Citizen,
+of age, an ordained minister of the M. 
+E. Church of America and has been two
+years at Loanda, as a missionary connected 
+with Bishop W. Taylor's mission</p>
 
-<p>6. Summary of business during
-the quarter.</p>
+<p>These facts will, I hope, be considered
+sufficient evidence that the candidate
+is qualified for the office.</p>
 
-<p>7. Register of official letters received.</p>
+<p>As the Portuguese authorities are so much
+inclined to see political agents in all
+foreign missionaries, I would have pre-
 
-<p>8. do " " " sent.</p>
+<pb facs="ViewScan_70006.jpg"/>
 
-<p>9. Copy of certificate of marriage.</p>
+ferred a layman; but, there being no other
+American available, I had no choice.</p>
 
-<pb facs="teaa.en.letter.0555.002"/>
+<p>As for my reasons in not re-nominating
+Mr. Bannister, the principal one is the 
+violent hatred of the Portuguese for all 
+Englishmen and all that is English, which
+makes it unwise to have an Englishman
+represent the United States. Then, according
+to Regulations, an American, when equally 
+qualified, is to be preferred to an alien.</p>
 
-<note>Copy</note>
+<p>I am, Sir,<lb/> 
+Your obedient servant<lb/>
+Heli Chatelain
+U.S. Coml Agent</p>
 
-<p>(Form No. 87.)</p>
+<p>P.S. The exequatur of my appointment 
+as Commercial Agent and that
+of Mr. Bannister as Vice-Consul, have
+at length come and will be presented
+to the Governor General on his return from
+the South of the Province.</p>
 
-<p>Certificate of Marriage.</p>
-
-<p>Consulate of the United States<lb/>
-Loanda, May 30, 1891</p>
-
-<p>I, Edward Bannister, Vice Consul of the United States
-at St. Paul de Loanda, do hereby certify that, on this thirtieth
-day of May, A.D. 1891, at the Church of the <unclear>Carne</unclear>
-in the city of Loanda, Frank Weston
-aged thirty two years, born in Richmond, Virginia, USA and now
-residing in Loanda, and Aurelia Augusta <unclear>d'Olviro</unclear>
-aged sixteen years, born in Loanda
-and now residing in Loanda, were united in marriage before me,
-and in my presence, by <unclear>Conego</unclear> Luiz Maria de Carvalho, who is authorized
-by the laws of Portugal to perform such a ceremony.</p>
-
-<p>In witness whereof I have hereunto subscribe my name and affixed the seal of the
-Consulate at St Paul de Loanda, this thirtieth
-day of May, A.D. 188 , and of the Independence of the United States
-the 115th</p>
-
-<p>Edward Bannister<lb/>
-Vice Consul.</p>
-
-<p>L.S.</p>
+<p>Heli Chatelain<lb/>
+U.S. Coml Agent</p>
 
 </div1>
 

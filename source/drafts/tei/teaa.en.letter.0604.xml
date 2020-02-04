@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0555">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0604">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Edward Bannister to William F. Wharton, June 30, 1891</title>
+<title>Dispatch from Edward Bannister to Josiah Quincy, March 29, 1893</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0555</idno>
+<idno type="project">teaa.en.letter.0604</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Edward Bannister to William F. Wharton</title>
+<title level="a">Edward Bannister to Josiah Quincy</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
 <publisher>United States Department of State</publisher>
 <biblScope unit="roll">5</biblScope>
-<date from="1891-06-30">June 30, 1891</date>
+<date from="1893-03-29">March 29, 1893</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -70,14 +70,11 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term>Carvalho, Luiz Maria de</term>
-<term>d'Olviro, Aurelia Augusta</term>
-<term>Weston, Frank</term>
+<term ref="http://viaf.org/viaf/68793274">Chatelain, Héli</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Richmond (Va.)</term>
-<term>St. Paul de Loanda (Angola)</term>
+<term>Loanda (Angola)</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
@@ -102,20 +99,21 @@
 <correspAction type="sentBy">
 <persName>Bannister, Edward</persName>
 <roleName>U.S. Vice Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
-<date when="1891-06-30"/>
+<placeName>Loanda, Angola</placeName>
+<date when="1893-03-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
+<persName ref="http://viaf.org/viaf/43424644">Quincy, Josiah, 1859-1919</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1893-05-08"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-27" who="kln">Reviewed transcription and encoded</change>
+<change when="2020-02-03" who="kln">Reviewed transcription and encoded</change>
 <change when="2019" who="caa">Transcribed</change>
 </revisionDesc>
 </teiHeader>
@@ -126,80 +124,79 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0555.001"/>
+<pb facs="teaa.en.letter.0604.001"/>
 
-<note>No. 29</note>
+<note>Index Bureau Dep't of State Received May 8 1893</note>
 
-<p>Consulate of the United States,<lb/>
-Loanda, June 30, 1891.</p>
+<p>Vice-Consulate of the United States,<lb/>
+Loanda, March 29, 1893</p>
 
 <p>Mr. Ed Bannister<lb/>
 To the Department of State.</p>
 
 <p>Subject:</p>
 
-<p>Account Current.</p>
+<p>Abolishment of Loanda
+Consulate.</p>
 
 <p>Abstract of Contents.</p>
 
-<p>Transmitting Account Current
-for the quarter ended June 30,
-1891</p>
+<p>Asking if Loanda Consulate
+is abolished and with it the
+Vice-Consulate, and if so
+requests information as to
+his Bond for $2000.</p>
 
-<p>Enclosures</p>
+<pb facs="teaa.en.letter.0604.002"/>
 
-<p>1. Rent and Miscellaneous Account.</p>
+<p>Vice Consulate of the United States,<lb/>
+Loanda, March 29, 1893.</p>
 
-<p>2. Arrivals and Departures of American
-vessels.</p>
+<p>Honorable<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
 
-<p>3. Record of Notarial services.</p>
+<p>Sir:</p>
 
-<p>4. Abstract of Passports issued.</p>
+<p>Some months ago a rumour got
+about and came to my ears that the
+U.S. Government had decided to abolish
+the Loanda Consulate. This rumour
+shortly took form in the departure of Mr
+Chatelaine, Commercial Agent.</p>
 
-<p>5. Aggregate return of Fees for the 
-year ending June 30, 1891.</p>
+<p>2. I have not as yet received any
+others intimation as to the abolishment
+of this Consulate, officially or otherwise.</p>
 
-<p>6. Summary of business during
-the quarter.</p>
+<p>My Commission from the United
+States govt. as Vice-Consul is dated
+July 17, 1890 and is endorsed with
+my Exequatur from the King of
+Portugal dated 16 Sept. 1891.</p>
 
-<p>7. Register of official letters received.</p>
+<p>I had to give a Board for $2000
+on my appointment, and I would
+respectfully request you to inform
+<catchwords>me</catchwords>
 
-<p>8. do " " " sent.</p>
+<pb facs="teaa.en.letter.0604.003"/>
 
-<p>9. Copy of certificate of marriage.</p>
+me if my post as Vice-Consul
+is abolished, and if so why my
+Bond has not been returned to me.</p>
 
-<pb facs="teaa.en.letter.0555.002"/>
+<p>If you cannot get more
+courteous and suitable people
+to represent you here than Mr. Chatelaine
+it would be as well you should
+keep this Consulate closed.</p>
 
-<note>Copy</note>
-
-<p>(Form No. 87.)</p>
-
-<p>Certificate of Marriage.</p>
-
-<p>Consulate of the United States<lb/>
-Loanda, May 30, 1891</p>
-
-<p>I, Edward Bannister, Vice Consul of the United States
-at St. Paul de Loanda, do hereby certify that, on this thirtieth
-day of May, A.D. 1891, at the Church of the <unclear>Carne</unclear>
-in the city of Loanda, Frank Weston
-aged thirty two years, born in Richmond, Virginia, USA and now
-residing in Loanda, and Aurelia Augusta <unclear>d'Olviro</unclear>
-aged sixteen years, born in Loanda
-and now residing in Loanda, were united in marriage before me,
-and in my presence, by <unclear>Conego</unclear> Luiz Maria de Carvalho, who is authorized
-by the laws of Portugal to perform such a ceremony.</p>
-
-<p>In witness whereof I have hereunto subscribe my name and affixed the seal of the
-Consulate at St Paul de Loanda, this thirtieth
-day of May, A.D. 188 , and of the Independence of the United States
-the 115th</p>
-
-<p>Edward Bannister<lb/>
-Vice Consul.</p>
-
-<p>L.S.</p>
+<p>I am<lb/>
+Sir<lb/>
+Your obedient servant<lb/>
+Ed Bannister<lb/>
+U.S. Vice Consul.</p>
 
 </div1>
 

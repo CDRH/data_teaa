@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0533">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0585">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dspatch from R. Dorsey Mohew to Josiah Quiney, November 29, 1893</title>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
 </respStmt>
 </titleStmt>
 
@@ -32,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0533</idno>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from R. Dorsey Mohew to Josiah Quiney, November 29, 1893</title>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
-<date when="1893-11-29">November 29, 1893</date>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
 </bibl>
 </sourceDesc>
 
@@ -97,14 +98,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Mohew, R. Dorsey</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Congo</placeName>
-<date when="1893-11-29"/>
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Quiney, Josiah</persName>
-<roleName>Assistant Secretary of State</roleName>
+<persName>Cap, Lewis</persName>
+<roleName>Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,7 +113,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-27" who="#unm">transcribed and encoded</change>
+<change when="2020-01-31" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -122,38 +123,63 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<pb facs="20170616_095001"/>
 
-<!-- BEGIN TRANSCRIBING -->
-<pb facs="20170614_145117"/>
-<p>Commercial Agency of the United States
-Ghandi Lomain River Kongo Free State
-Nov. 29th 1893
-
-Mr. R. Dorsey Mohew 
-To the Department of State
-
-
-Subject: 
-Arrival at N. Ghandi
-
-Abstract of Contents
-Arrival at Niyanku 
-Least of Kongo Luthete
-Movements from here</p>
+<ab>Consular of the United States
+of American at Bathursh
+23 April 1859</ab>
     
-<pb facs="20170614_145125"/>
-<p>loads of miscellanous articles
-such as Arms ammunition cloth
-provisions + and hope to 
-reach Kassaongo in eleven
-days, by making forced
-marches.
+<p>Sir,
 
-I am Sir,
-Respectfully
-R. Dorsey Mohew
-Commercial Agent</p>
+I have the honor to inform
+you, that having again applied
+to His Excellency Governor 
+as Commercial Agent of the
+United States temporarily subjects
+to the approval of Her Majesty's
+Government; I have received in 
+reply his Despatch dated the 
+11th. Instant, granting my 
+request: which I now beg to 
+enclose.</p>
+    
+<p>Nothing now remains
+but that; the Exequaton may 
+be forthcoming as soon as
+possible.</p>
+    
+<ab>The Honorable
+Lewis Cao
+Secretary of State
+Washington</ab>
+    
+<pb facs="20170616_095009"/>
+
+<p>On the 14th instant the Flag 
+of the United was hoisted
+on this Conuslatee for the first
+time in Gambia, in fact I believe
+for the first time on the West
+Coast of Africa.i.e. British Colonial.</p>
+    
+<p>I am much inconvenienced
+by not having yet received a
+Consular Seat or the cases from
+Monrovia containing the Record
+Books stationary ic.</p>
+    
+<p>I hope to have the honor
+to receive a replu, to my several
+Despatches since my arrival
+here, by the Coming mail due 
+on the this proximo.</p>
+    
+<p>I have the honor to the,
+Sir, 
+Your Obident Servant,
+Daniel R.B. Upton
+U.S. Commercial Agent</p>
+
 </div1>
 
 </body>
