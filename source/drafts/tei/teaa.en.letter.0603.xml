@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0603">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Héli Chatelain to Josiah Quincy, March 21, 1893</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Akyeampong, Chelsea A" xml:id="caa">Chelsea Animwaa Akyeampong</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0603</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Héli Chatelain to Josiah Quincy</title>
+<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<publisher>United States Department of State</publisher>
+<biblScope unit="roll">5</biblScope>
+<date from="1893-03-21">March 21, 1893</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>       
+    
+<keywords scheme="viaf" n="people">
+<term>Burling, L. C.</term>
+<term>Newton, Robert S.</term>
+<term ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>England</term>
+<term>Loanda (Angola)</term>
+<term>Madeira</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="language">
+<term>English</term>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term>Methodist Episcopal</term>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/68793274">Chatelain, Héli</persName>
+<roleName>Late U.S. Commercial Agent at Loanda</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1893-03-21"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/43424644">Quincy, Josiah, 1859-1919</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1893-03-23"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-02-03" who="kln">Reviewed transcription and encoded</change>
+<change when="2019" who="caa">Transcribed</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="teaa.en.letter.0603.001"/>
+
+<note>"Loanda"</note>
+<note>Department of State Received Mar 23 1893</note>
+
+<p>118 E. 45 St New-York</p>
+
+<p>March 21, 1893</p>
+
+<p>To Hon. Josiah Quincy<lb/>
+Assistant Secretary of State<lb/>
+Washington</p>
+
+<p>Sir:</p>
+
+<p>Instruction no 19, of February 16, last,
+by Hon. Wm. F. Wharton, informing me that
+the property of the U.S. Commercial Agency
+at Loanda Africa, "may remain, for the 
+present, in the custody of Mr. L. C. Burling
+of the M. E. Mission at Loanda" has in due
+course of time reached me here.</p>
+
+<p>For the guidance of the Department,
+allow me to state that Mr. R. S. Newton,
+formerly U.S. Vice-Consul at Loanda died at
+Madeira on his way to England and that his
+firm at Loanda is being dissolved.</p>
+
+<p>Through no longer connected with the
+department, I shall always be glad to
+
+<pb facs="teaa.en.letter.0603.002"/>
+
+give the Consular Bureau any information
+it may desire on African affairs, which
+continue to be the special object of my 
+studies.</p>
+
+<p>The above address, or care of National
+Museum Washington, will always find me.</p>
+
+<p>I am, Sir,<lb/>
+Your obedient servant<lb/>
+Heli Chatelain<lb/>
+Late U.S. Coml Agent, Loanda, Africa</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
