@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch to Charles H. J. Taylor, June 8, 1888</title>
+<title level="a">Dispatch to Charles H. J. Taylor</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -93,18 +94,16 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName></persName>
 <roleName></roleName>
-<placeName></placeName>
+<placeName>Monrovia, Liberia</placeName>
 <date when="1888-06-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Taylor, Charles H. J.</persName>
-<roleName>United States Minister Resident</roleName>
+<roleName>U.S. Minister Resident and Consul General</roleName>
 <placeName>Monrovia, Liberia</placeName>
 </correspAction>
 </correspDesc>
@@ -112,8 +111,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#lkw"> encoded</change>
-<change when="2019-09" who="#unm"> transcribed</change>
+<change when="2020-02-05" who="#kln">reviewed, encoded</change>
+<change when="2019-10" who="#lkw">encoded</change>
+<change when="2019-09" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -125,31 +125,28 @@
 
 <pb facs="20170616_145828"/>
 
-<note>Copy</note>
-<ab>Department of State. Monrovia June 8th 1888. <unclear/><lb/>
-Liberia W.C.A<lb/>
-No. 5.</ab>
+<note>No 5.</note>
 
-<ab>Hon Chas H. J. Taylor<lb/>
-U.S. Minister Resident <lb/>
-and Consul General <lb/>
-U.S. Legation <lb/>
-Monrovia. </ab>
+<p>Department of State.</p>
 
+<p>Monrovia June 8th 1888.<lb/>
+Liberia W.C.A.</p>
 
-<ab>Sir, </ab>
+<p>Sir,</p>
+
 <p>In response to a request emanating
 from your Legation I have the honor
 to communicate for the information
-of your government, the following
+of your Government, the following
 particulars relative to the present
-outbreak or rebellious attitude assumed by certain of the aboriginal
+outbreak or rebellious attitude assumed 
+by certain of the aboriginal
 tribes of the south eastern portion of
-the Republic, towards my government 
+the Republic, towards my Government 
 and which in its opinion constitutes
 an emergency or a sufficient reason
 for a solicitation of the immediate
-assistance of the government of the 
+assistance of the Government of the 
 United States by means of its naval
 forces and otherwise.</p>
 
@@ -158,34 +155,42 @@ the major portion of the inhabitants
 of Half Cavalla, a district about 12
 miles South of Cape Palmas, began 
 to exhibit systems of restlessness 
-and a disposition the obstruct  the
-execution of, and to disobey the <catchwords>Revenue</catchwords>  -->
+and a disposition to obstruct the
+execution of, and to disobey the <catchwords>Revenue</catchwords>
+
+<fw type="address">Hon Chas H. J. Taylor<lb/>
+U.S. Minister Resident<lb/>
+and Consul General<lb/>
+U.S. Legation<lb/>
+Monrovia.</fw>
 
 <pb facs="20170616_145834"/>
 
 Revenue Laws of the Republic. Efforts
-even immediately set on foot by the 
+<unclear extent="one word"/> immediately set on foot by the 
 authorities of the County of Maryland 
 to allay their manifestations in a 
-peaceful manner, by <unclear>convoring</unclear> a 
+peaceful manner, by <unclear>convening</unclear> a 
 council of the adjacent tribes in compact 
-with the government and before 
+with the Government and before 
 whom the conduct of the Half Cavalla Tribe
 was brought for consideration. The 
-council unanimously condems the 
+council unanimously condemned the 
 course taken by the Half Cavalla Tribe 
 as being improper and disloyal, <unclear extent="one word"/>
- them in a small fine, which
+them in a small fine, which
 after considerable demurring on the 
 part of the offenders, was agreed to 
-was paid and matters seemed quiet 
-for the present. Towards the closer 
-of the year however, this tribe initated 
-threats by the intriques of one Julio, a 
+be paid and matters seemed quiet 
+for the present. Towards the close 
+of the year however, this tribe <unclear extent="one word"/> 
+thereto by the intrigues of one Julio, a 
 foreigner and illicit trader, residing 
-at <unclear>Sabro</unclear>, and another British traders setting at defiance our Revenue Laws <!-- sic: Sabo -->
+at <unclear>Saboo</unclear>, and another British trader
+setting at defiance our Revenue Laws
 at Half Cavalla itself, assumed an 
-attitude of open defiance, and insubordination toward the government,
+attitude of open defiance, and 
+insubordination toward the Government,
 and in spite of repeated efforts on 
 the part of the Authorities to induce
 them to peacefully recede from their 
@@ -193,12 +198,10 @@ rebellious attitudes, and return to their
 allegiance, have steadfastly refused 
 to permit the execution of the laws 
 within their district, have organized 
-themselves into an armed force 
-
-<catchwords>fortified  </catchwords>
+themselves into an armed force <catchwords>fortified</catchwords>
 
 <pb facs="20170616_145840"/>
-
+<!-- start here -->
 fortified their villages; and have openly 
 declared their intentions to resist by 
 force of arms any attempt of the 
