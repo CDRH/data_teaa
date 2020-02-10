@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170616_100329"/>
+
+<ab>Consulate of the United States 
+of America at Bathurst Gambia
+15th December 1860</ab>
+    
+<p>Sir:
+My report of last
+year was upon the trade and the 
+commerce of Gambua as shown by
+statistics of 1858. I now purpose to 
+make the Returns of 1859, the basis 
+of this annual report.</p>
+    
+<p>I have also the pleasure of adding the
+report from the district of Sierra Leone 
+Henry Rder Esq. Consular Agent.</p>
+    
+<p>The year 1859 was not 
+a favorable one to the commerce of 
+Gambia. The crops were short; impor-
+tations were more limited than in
+the proceeding year and consequently 
+the Customs revenue showed a defe-
+iency as compared with recent previsions 
+years, and above all <unclear/> <unclear/> 
+
+for</p>
+    
+<ab>The Honorable Lewis Cap
+Secretary of State of the United States</ab>
+    
+<pb facs="20170616_100338"/>
+    
+<p>for a season, robbing the commercial
+communit of many members.</p>
+    
+<p>The deficiency in the 
+crop of Ground nuts, the chief article
+of export, was nearly one half as 
+compared with 1858 and about
+1500 tons below the average of the 
+past twelve years (1848 to 1859-
+inclsuive): this too, when in the 
+first few years the article was but
+a new one, and not extensively cul-
+-tioated, or eagerly sought after.</p>
+    
+<p>It is practically accounted for by the 
+scarcity of win in the previous "rainy
+season", the internal was among the 
+native tribes, who are the only cultioa-
+-tors and the poor state of the soil
+arising from renewed plantings
+without proper heatineub and the 
+impoverishing effects of the extraor-
+dinary crop of 15.728 tons of the pre-
+-vious year.</p>
+    
+<p>Hides, too, for seasons not 
+so easily explained, show a decrease
+of thirteen thousand nine hundred 
+
+and</p>
+    
+<pb facs="20170616_100344"/>
+    
+<p><unclear/> to impede the developement
+of American trade on this Coast.</p>
+    
+<p>Unfortunately many of the articles re-
+quired in legitimate commerceee are 
+used also in the slave-trade, namely
+Rum, lumber, empty casks for palm
+oil and spice: many instances have 
+occured where vessels pursuing a 
+legitmate voyage have suffered detention 
+and been subject to trial on suspicion
+of being slavers thereby breaking up
+the voyage and causing only loss to 
+owners. I can mention two cases in this
+colony the "S.W. Nash" and the "Mary Varsey"
+and in Sierra Leone. The "Thomas Watson"
+and the "Carolina".</p>
+    
+<p>The means for supplying the slave-
+trade it is evident one not essential
+notwithstanding the <unclear/> expenditure
+by Great Britain and the United States 
+in maintaining a costly squaderon and 
+in attempting to bockade this coast:
+for it is notorious that, in the past
+twelve months more slaves have been 
+shipped than ever before. And why?</p>
+    
+<pb facs="20170616_100349"/>
+   
+<p>of Demand and supply
+for the simple mercantile axiom 
+for the demand has been great for the 
+Cuban maker: and as long as that
+demand continues, as long as the 
+profits on a singlr cargo are so im-
+-mense that one successful voyage
+out of six is <unclear/>, man wil
+be found sufficently bold to 
+succrssfully carry out the voyage.</p>   
+ 
+<p>The Cuban market now alone remained
+Destroyed that market and thes slave 
+trade ceass to exist, if that is im-
+-possible why not bllockade the 
+coast of Cuba? the point of destination;
+a far more feasible plan than to attempt 
+to blockade half the continent of Africa!
+The law of nationas may not permit
+but cannot England, France and 
+the United States in the name of 
+humanity insist that Spain shall
+make a treaty to that affect?</p>
+    
+<p>Is England anxious to carry out 
+such a course? Doesw she not desire
+more benefit by the present mode of 
+
+supprepion</p>
+    
+<pb facs="20170616_100355"/>
+    
+<p>and ninety seven as compared with 
+the yield of the preceeding year (which
+was but little better than the average 
+of the last twelve years. May not this
+have arisen in a measure from the 
+same internal wars and consequent 
+loss of the bides of cattle consumed
+by the combatants, which in Peace
+would have been carefully preserved
+and finally found their way to this
+market?</p>
+    
+<p>Bees-wax, the third article 
+of export also shows a deficit of 25
+tons, in comparison with 1858.</p>
+    
+<p>The quality of the Gambia 
+Ground nut surpasses that of any
+produced, and the trade of the place
+depends very materially upon that
+feul.</p>
+    
+<p>It has been observed
+by some of the oldest merchants
+here-with much concern--that,
+the quality is depreciating. The neigh-
+-boring rivers Consumance. Jeba, and 
+Rio Grande and the envirous of
+Sierra-Leone produce the Ground-Nut
+
+in</p>
+    
+<pb facs="20170616_100402"
+    
+<p>in large quantities but of quality inferior
+to "Gambias", both as regards their outward
+apperance (important as an article of 
+coport to the United States) and their
+intrusive <unclear/> proportioned (upon which 
+their value for European markets is solely
+based).    This depication in
+quality is mainly owing tp the fact that 
+many of the tribes, particularly <unclear/> who
+cultivate them in the River below McCathy
+Island have adopted the more speedy
+m ode og threshing instead of picking by
+hand: whereby the Nuts are mixed with 
+leaves, <unclear/>, stones, and then esteamed
+substances, causing large deductions in
+the French market and depreciating theit 
+value in the United States as an article of 
+food.</p>
+   
+<p>The present Governor 
+of this Colony Colonel d'Aray, well aware
+of the importance of substaining the repu-
+-tation of this our principal export has most
+wisely endeaored to counteract the baneful
+effects of this mode of harvesting, by calling 
+together the Chiefs of the neighboring tribes
+
+and</p>
+    
+<pb facs="20170616_100408"/>
+    
+<p>(<unclear/>): it bears some Bird Island
+spit West by North three quarters North
+distance two + a half miles and from 
+the Blackberry South East half South
+ten + a half miles by <unlcear/>
+dog.</p>
+    
+<p>The bearings of the BlackBerry (for
+which vessels should steer upon
+learning the Red Berry) and its 
+situation are as follows: it is placed
+on the month end of African </p>
+<p></p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
