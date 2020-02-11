@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Edwin James Barclay to James G. Blaine, May 11, 1891</title>
+<title>Dispatch from E. I. Barclay to James G. Blaine, May 11, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Edwin James Barclay to James G. Blaine, May 11, 1891</title>
+<title level="a">Dispatch from E. I. Barclay to James G. Blaine, May 11, 1891</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -72,11 +73,24 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Davis, William McCall</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Boporo (Liberia)</term>
+<term>British Gold Coast</term>
+<term>Cape Palmas (Liberia)</term>
+<term>Liberia</term>
+<term>Mannah River</term>
+<term>Niger River</term>
+<term>Philadelphia (Pa.)</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>Belgium</term>
+<term>France</term>
+<term>Great Britain</term>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -95,15 +109,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Barclay, Edwin James</persName>
-<roleName></roleName>
+<persName>Barclay, E. I.</persName>
+<roleName/>
 <placeName>Monrovia, Liberia</placeName>
 <date when="1891-05-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Blaine, James G.</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/15566890">Blaine, James Gillespie, 1830-1893</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1891-06-16"/>
 </correspAction>
 </correspDesc>
@@ -111,8 +125,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-09" who="#lkw"> encoded</change>
-<change when="2019-09" who="#unm"> transcribed</change>
+<change when="2020-02-10" who="#kln">reviewed encoding, encoded</change>
+<change when="2019-09" who="#lkw">encoded</change>
+<change when="2019-09" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,29 +141,23 @@
 
 <note type="stamp">Department of State Received Jun 16 1891</note>
 
-<ab>Department of State
-Monrovia, May 11, 1891.</ab>
+<p>Department of State<lb/>
+Monrovia, May 11, 1891.</p>
 
-<ab>Hon: James G. Blaine<lb/>
-Secretary of State<lb/>
-Washington<lb/>
-DC<lb/>
-U.S.A</ab>
-
-<ab>Sir,</ab>
+<p>Sir,</p>
 
 <p>I have the honor by direction
 to inform you that in the month 
 of July 1890, the President availing
 himself of a visit of the Honorable
-W. McCall Davis, Attorney General 
+Mr. McCall Davis, Attorney General 
 of the Republic, to the United States, 
 thought fit to commission the 
-said office as a general Commissioner 
+said offices as a general Commissioner 
 from the Republic of Liberia, to the
 Government of the United States on
 behalf of Liberia, with respect to 
-an impending revolution of her
+an impending violation of her
 territorial integrity by certain of
 the European Powers now engaged
 in a scramble for the remaining 
@@ -157,8 +166,13 @@ not yet appropriated by them.</p>
 
 <p>Mr. Davis returned to Liberia in
 the month of January last, and 
-
 <catchwords>his </catchwords>
+
+<fw type="address">Hon: James G. Blaine<lb/>
+Secretary of State<lb/>
+Washington<lb/>
+DC<lb/>
+U.S.A</fw>
 
 <pb facs="20170616_150332"/>
 
@@ -167,99 +181,99 @@ the effect that he had been honored
 with an interview with the Honorable 
 The Secretary of State at Washington 
 on the 12th November last but that 
-an account of a previous engagment 
-on the part of the Secretary the interview 
+an account of a previous engagement 
+on the part of the Secretary, the interview 
 necessarily terminated in a few 
 moments, to be renewed the next day.
-That in pursuance of this arrangment 
+That in pursuance of this arrangement 
 he had repeatedly called at the Department 
-of State, but that the Secretary 
-times being important nature between 
+of State, but that the Secretary's 
+time being occupied with negotiations
+of a most important nature between 
 the United States and the South American
-Republics, it was impossible to attain 
+Republic, it was impossible to obtain 
 further audience of the Secretary, within
-the time allothed for this stay in the 
+the time allotted for this stay in the 
 United States.</p>
 
 <p>Mr Davis further reported that 
 before leaving the United States, he had
 addressed you from Philadelphia, a
-despatched under date of 20th November 
+Despatch under date of 20th November 
 1890, in which the object sought to be
 attained by a personal interview was
-fully set forth, a copy of which I have 
-
+fully set forth, a copy of which I have
 <catchwords>the </catchwords>
 
 <pb facs="20170616_150338"/>
 
 the honor to enclose, but so far 
-no reply has been recieved to the <unclear>same</unclear></p>
+no reply has been received to the 
+same.</p>
 
-<p>I am therefore directed to <unclear>intomate</unclear>
+<p>I am therefore directed to intimate
 to you Mr. Secretary, that 
 within the last few months, it has 
 come to the knowledge of the 
-Liberian Government, that an arrangment 
+Liberian Government, that an arrangement 
 has been entered into 
 between the Governments of Great
-Britain and France for the delimination 
+Britain and France for the delimitation 
 of their respective colonies
-to the North and South of 
+to the north and south of 
 Liberia, which agreement if carried 
 out in its integrity would have 
 the effect to reduce the Republic 
 to a mere strip along the coast 
 of the Atlantic Ocean, extending 
-coastwise from the Monnah River 
+coastwise from the Mannah River 
 on the Northwest to Cape Palmas 
 on the Southeast, with an average 
 breadth of not more than 40 miles
-from the Coast. An inspection 
+from the Sea Coast. An inspection 
 of a series of Maps published by 
 the Royal Geographical Society 
-of Belgium, shows the proposed 
-French possession on the West.
-
+of Belgium shows the proposed 
+French possession on the West
 <catchwords>Coast</catchwords>
 
 <pb facs="20170616_150344"/>
 
-Coast of Africa immediately South
+Coast of Africa immediately southwards
 of Liberia to extend from the British 
 Gold Coast to Cape Palmas, and 
 fixes the furthest interior limits of 
 Liberia at Boporo, assigning the 
 intervening country between Boporo 
-and the Niger as either French Territory,
-or as liable to become a protectorate of France.</p>
+and the Niger as either French 
+Territory, or as liable to become 
+a protectorate of France.</p>
 
 <p>The Government of Liberia on 
 becoming cognizant of this proposed
-arrangment recently addressed a 
+arrangement recently addressed a 
 memorandum to the British Government, 
-protecting against the conclusion 
+protesting against the conclusion 
 of the said Agreement so far 
 as the deprivation of its territory 
 by France is concerned and soliciting the 
-guard offices of said Government on its behalf. 
+good offices of said Government on its behalf. 
 By command I herewith enclose a similar 
 document soliciting the good offices of the 
-Governments of the United States to avert
+Government of the United States to avert
 the appropriation of Liberia territory
 by France, said appropriation being 
-contrary to the Hinterland had recently set up
+contrary to the Hinterland law recently set up
 by the European Powers to regulate their 
-section in making fresh organizations of 
+section in making fresh requisitions of 
 territory on the African Continent.</p>
 
 <pb facs="20170616_150350"/>
 
-
 <closer><salute>I have the honor to be<lb/>
 Sir<lb/>
 Your obedient Servant</salute> 
-Ed. Barclay.</closer>
+E. I. Barclay.</closer>
    
 </div1>
 
