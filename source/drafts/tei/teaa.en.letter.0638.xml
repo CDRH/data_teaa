@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170616_101424"/>
+
+<ab>Consulate of the United States of
+America ar Bathurst
+1st March 1862</ab>
+    
+<p>Sir,
+I have delayed forwarding the annual
+Report of the trade and commerce of the 
+Gamb ia for the last year in anticipation od 
+Mr Consul Uptons return from the states for him 
+to do so but as that Officer has not yer arrived, I 
+will no longer defer during se. Tberewith I have
+th pleasure to forwar you also the report of
+Henry Rider Esquire Consular agent for the 
+Sierra Leone district.</p>
+    
+<p>The year 1861 has, I am happy 
+to say been a more prosperous one for the trade and
+commerce of the Gambia than either of the two 
+previous years the yield of the groundnut crops was
+more abundant and consequently the natives who cultivate
+them, were enabled to purchase more largely of American
+and European goods. The increased demand
+in France for Groundnuts for <unclear/> purposes.
+
+Honorable 
+W.H. Seward
+Secretary of State for the 
+United States</p>
+    
+<pb facs="20170616_101433"/>
+    
+<p>makes the French merchants and Traders keen
+competitors with the English in the purchase of these
+nuts from the natives and finding has the 
+latter gives the preference to many of the English
+articles of manufature the French have of late
+introduced the system of trading with the natives
+for Cash instead of the Barter Trade with good
+hitherto + exclusively pursued and to so great are
+extent has this Cash Trade been introduced that
+it has materially affected the importation of goods
+and a consequences deficiency in the Colonial Customs
+Revenue has taken place.</p>
+
+<p>The Colonial Legislature with a 
+view to meet this altered state of Trade has lately 
+passed An Ordinance (which however was not 
+yet been confirmed of Her Majesty) abolishing thr 
+four per cent advalorem duties hitherto paid upon
+the importantion of any goods into the Colony and
+have adopted an export duty of one and a half
+cent per Bashel of 20lbs on Groundnuts and /our
+<unclear/> each on Hides by this new systen of station
+the man who trades with Cash will contribute
+equally towards the Colonial Revenues with the 
+man who trades with goods.</p>
+    
+<p>The important differences in the 
+United States has during the last twelve months
+prmisely affected the importation of American</p>   
+ 
+<pb facs="20170616_101439"/>
+    
+<p>for do which will observe by Table Not has
+fallen off nearly one third whilst the Exports
+remains nearly the same the Produce being 
+bought by Bills or Cash instead of being in
+Exchange for American Manufacturers.</p>
+    
+<p>Pea Nuts no longer arriving in the 
+northern from the southern ports of the Union
+has created a greater demand for those raused
+in African the best quality of which is to be
+had in the Gambia.
+
+I have the honor to be 
+Sr,
+Your Most Obedient 
+Humble Servant
+Thomas Rover
+Acting United States Consul</p>
+   
+</div1>
+
+</body>
+</text>
+
+</TEI>
