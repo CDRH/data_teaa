@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0247"><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0247">
 
 <teiHeader>
 <fileDesc>
@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
@@ -60,7 +61,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term> 
+<term>Encounters with Africans</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,15 +74,31 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Bailly-Forfillere, Jorge</term>
+<term ref="http://viaf.org/viaf/19678646">Hanotaux, Gabriel, 1853-1944</term>
+<term>Pauly, Adriano</term>
+<term ref="http://viaf.org/viaf/3656148122897295200005">Roustan, Théodore 1833-1906</term>
+<term ref="http://viaf.org/viaf/21264538">Smith, Isaac Townsend, 1813-1906</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Cavalla River</term>
+<term>Ivory Coast</term>
+<term>Liberia</term>
+<term>Monrovia (Liberia)</term>
+<term>San Pedro River</term>
+<term>Sierra Leone</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>France</term>
+<term>Germany</term>
+<term>Great Britain</term>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Kroo</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -97,20 +115,21 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Hartzell, Joseph C.</persName>
-<roleName>Special Envoy on Behalf of Liberian Government</roleName>
+<roleName>Special Envoy to U.S. from Liberia</roleName>
 <placeName>New York, New York</placeName>
 <date when="1898-10-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Hay, John</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-02-17" who="#kln">reviewed, encoded</change>
 <change when="2019-10" who="#lkw"> encoded</change>
 <change when="2019-09" who="#unm"> transcribed</change>
 </revisionDesc>
@@ -124,59 +143,53 @@
 
 <pb facs="20170616_151019"/>
 
-<ab>Joseph C. Hartzell,<lb/>
+<ab type="letterhead">Joseph C. Hartzell,<lb/>
 Bishop of Africa,<lb/>
 Methodist Episcopal Church.<lb/>
 American Address:<lb/>
-<unclear>150</unclear> Fifth Avenue.</ab>
+150 Fifth Avenue.</ab>
 
-<ab>"Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God." -- Psalm 68.31.</ab>
+<ab type="letterhead">"Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God." &#8212; Psalm 68.31.</ab>
 
-<note>Returned from Secretary Room July 1905</note>
+<p>New York, October 31, 1898.</p>
 
-<ab>New York, October 31, 1898.</ab>
-
-<ab>The Hon. John Hay,<lb/>
+<p>The Hon. John Hay,<lb/>
 Secretary of State,<lb/>
-Washington, D.C.,</ab>
+Washington, D.C.,</p>
 
-<ab>My Dear Sir:-</ab>
+<p>My Dear Sir:-</p>
 
 <p>I have the honor to submit to you an additional document 
-to my communication delievered to you in person in your office Wednesday,
+to my communication delivered to you in person in your office Wednesday,
 October 19, bearing upon the present condition of the Republic of 
 Liberia. This document is a copy of an article that has recently 
 appeared in an English paper, and presents so pertinently additional 
 matter in reference to the crisis in which the Republic of Liberia 
 now finds itself that I deem it important that you should have it.</p>
 
-<p>The Hon. Issac Townsend Smith, Consul in this City for the 
+<p>The Hon. Isaac Townsend Smith, Consul in this City for the 
 Siam Government, is called to Washington on official business, to meet 
 the Minister of that country, and I take the liberty of asking him to 
-hand it to you in person. </p>
+hand it to you in person.</p>
 
 <p>Mr. Smith has given large attention to the history and present 
 condition of Liberia, and will also be prepared to give additional 
 information if so desired.</p>
 
-<ab>I have the honor to be, dear sir,<lb/>
-Yours sincerely,<lb/></ab>
-<ab>J.C. Hartzell<lb/>
-special envoy to U.S. from the<lb/>
-Liberia Republic</ab>
-
-<note>Correspondence is earnestly and prayerfully invited with those specially interested in the Redemption of Africa. Finiancial aid designed for missionary work in Africa as a whole or for any special field or object in that Continent can be sent to Bishop Hatzell direct, to Rev. A. B. Leonard, D.D., Missionary Secretary, or to Rev. Homer Eaton, D.D., Treasurer, 150 Fifth Avenue, New York. Persons desiring to remember Africa in their wills should be careful to use the following form: In Case of Bequests:- I give and bequeath to "The Missionary Society of the Methodist Episcopal Church" the sum of $ ---- for missionary work in the Continent of Africa. In case of the Devise of Land:- I give and devise to "The Missionary Society of the Methodist Episcopal Church" the following land and premises, that is to say --- for missionary work in the Continent of Africa."</note>
+<p>I have the honor to be, dear sir,<lb/>
+Yours sincerely,<lb/>
+JC Hartzell<lb/>
+Special Envoy to U.S. from the<lb/>
+Liberian Republic</p>
 
 <pb facs="20170616_151029"/>
 
+<p>LIBERIA</p>
 
-<ab>LIBERIA </ab>
-
-<ab>From our Liverpool Correspondent </ab>
+<p>From our Liverpool Correspondent.</p>
 
 <p>The sad murder of two French travelers in the territories of the 
 Liberian Republic has provided the French Government with a powerful and 
-singularly opportune weapon in the furtherance with a powerful and 
 singularly opportune weapon in the furtherance of its policy of gradual 
 encroachment upon that Negro State. The German Emperor has recently 
 shown to the world to what excellent use, in the shape of territorial 
@@ -193,14 +206,14 @@ so palpable during the last few years that it would be displaying
 a crass stupidity not to take very serious notice of this incident in
 light of the consequences to which it may give arise.</p>
 
-<p>As most people know, Liberia is an indpendent Negro Republic 
-which owes its inception to the philanthropic insitincts to the people of
+<p>As most people know, Liberia is an independent Negro Republic 
+which owes its inception to the philanthropic instincts to the people of
 the United States, following in the wake of our own somewhat similar 
 efforts in Sierra Leone. A colony of freed American negroes was gradually 
 formed at Monrovia and various other points on the Grain Coast, and 
-in 1847 the colonists were endowed with the consitution of the United 
+in 1847 the colonists were endowed with the constitution of the United 
 States. Ever since, the Liberian Republic has eked out a somewhat 
-miserable exsistence, falling every year deeper into debt, and 
+miserable existence, falling every year deeper into debt, and 
 conclusively providing in a thousand ways that the American negro lacks the
 elementary principles of self-government, being deficient in the very
 essentialties of constructive administration. Certain foreign powers
@@ -218,26 +231,24 @@ severely; it would be almost impossible for merchants to carry on several
 important branches of their business, and British steamers would be 
 deprived, to their disadvantage, of native firemen and stokers.</p>
 
-<ab>French and Geerman Intrigues.</ab>
+<p>French and German Intrigues.</p>
 
 <p>It must be perfectly obvious to all those who are in any way 
 interested in this question that for years past two great Powers, France 
-and Germany, have been silently, and without undue osentation, working 
+and Germany, have been silently, and without undue ostentation, working 
 to get Liberia under their control. Whether there be collusion between 
 them in this particular case is uncertain, but as Franco-German interests 
 work harmoniously together in other parts of Africa, the hypothesis is 
 by no means an unlikely one. However, that may be, France as is 
 customary with her, is seeking to attain her ends through political 
-action; Germany principally by commerical transactions on a large scale.
+action; Germany principally by commercial transactions on a large scale.
 The former hopes to establish, if, indeed, she has not already 
 established a sort of right of pre-emption over the whole of the Liberian
 territory, filching here and there a slice when the opportunity presents 
 itself. Germany is endeavoring to get the finances of this unfortunate 
 State into her own hands, and, what perhaps is more dangerous still, 
 trying to obtain a monopoly over Kroo labour throughout the territories
-of the Republic. </p>
-
-<fw>-2-</fw>
+of the Republic.</p>
 
 <pb facs="20170616_151035"/>
 
@@ -261,22 +272,21 @@ Government to the fact that their relations with the Republic of Liberia
 had not changed, and that they still felt justified in employing their 
 good offices on her behalf.</p>
 
-<ab>The Treaty of '92.</ab>
+<p>The Treaty of '92.</p>
+
 <p>For five years the French desisted from their efforts. But on
 December 8, 1892, they succeeded in inducing the foolish legislators of 
 Liberia to accept a treaty by which France, while making some so called
 concessions in the interior, which the French knew would be no more use 
 to Liberia than to the Emperor Menelik, grabbed a large slice of Liberian
-territory between the San Pedro and Cavally Rivers, substituting the 
+territory between the San Pedro and <sic>Cavally</sic> Rivers, substituting the 
 latter river for the former as the boundary between the French possessions
-
-<fw>-3-</fw>
 
 <pb facs="20170616_151120"/>
 
 on the Ivory Coast and Liberia. By this means a valuable portion
 of Liberia territory became French. And, to accentuate the irony of 
-the situation France is now repudating her "Concessions" in the interior 
+the situation France is now repudiating her "Concessions" in the interior 
 to Liberia, on the plea that added geographical knowledge has materially 
 altered the conclusions upon which the arrangement was based.</p>
 
@@ -286,15 +296,15 @@ Agreement, nor that M. Hanotaux, in getting it accepted, showed his
 usual diplomatic skill. The translation of Article V. (the text is in 
 French) reads as follows:-</p>
 
-<p>In recognizing to the Republic of Liberia the limits which 
+<q>In recognizing to the Republic of Liberia the limits which 
 have now been fixed (after stripping Liberia of part of her 
 dominions France graciously allows her to retain the rest) the Government 
-of the French Republic declares that it only intends building itself
+of the French Republic declares that it only intends binding itself
 towards the Republic of Liberia, free and independent, and makes all 
 its reserves in case this independence were to be impaired or in
 the event that the Republic of Liberia should alienate any part 
 of the territories which are recognized to her by the present 
-Convention.</p>
+Convention.</q>
 
 <p>The designs of France are at once disclosed in the above Article. 
 If Liberia wishes at any time to dispose of a portion of her territory 
@@ -304,11 +314,9 @@ it is a distinct threat to Liberia never to cede any of her territory
 to anybody but France, under penalty of diplomatic remonstrance, followed 
 by physical action, which would obviously entail more land-grabbing.</p>
 
-<fw>4</fw>
-
 <pb facs="20170616_151128"/>
 
-<ab>GERMAN CONCESSION-HUNTERS.</ab>
+<p>GERMAN CONCESSION-HUNTERS.</p>
 
 <p>We must now turn to German proceedings in the Republic. Her
 merchants and her traders have been worming themselves for years past 
@@ -331,12 +339,10 @@ outside interference with Liberian affairs &#8212; are they prepared in 1898
 to acquiesce in Liberia becoming an extension of the French Ivory Coast?
 As for Great Britain her duty is clear. She should refuse peremptorily 
 and at once to countenance any sort or kind of arrangement which places
-restrictions on the free recruiting of Krooboys on the Liberia Coast.
+restriction on the free recruiting of Krooboys on the Liberia Coast.
 That done, London and Washington must arrive at an understanding which 
 shall save Liberia both from the incompetence of her own legislators, 
 and from becoming a prey to the cupidity of the Continental Powers.</p> 
-
-
    
 </div1>
 
