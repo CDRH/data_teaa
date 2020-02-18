@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
@@ -72,15 +73,13 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Ford, Henry A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Gaboon</term>
 </keywords>
     
-
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,64 +94,64 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Walker, William</persName>
-<roleName>Missionary</roleName>
-<placeName>Washington, D. C.</placeName>
+<roleName>Missionary of the A.B.C.F.M.</roleName>
+<placeName>Gaboon, West Africa</placeName>
 <date when="1859-04-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Appleton, John</persName>
-<roleName>Assistant Secretary of State</roleName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/55609738">Appleton, John, 1815-1864</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1859-04-11"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-09" who="#lkw"> encoded</change>
-<change when="2019-09" who="#unm"> transcribed</change>
+<change when="2020-02-17" who="#kln">reviewed, encoded</change>
+<change when="2019-09" who="#lkw">encoded</change>
+<change when="2019-09" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+
 <div1 xml:lang="en" type="document">
 
 <pb facs="20170615_102857"/>
-<opener>
 
-<note>Rec.11 April. Mr Abbott</note>
-<note><unclear/></note>
-Washington, April 6, 1859<lb/>
+<note>Recd 11 April</note>
 
-Hon. John Appleton<lb/>
-Assistant Sec'y of State<lb/>
+<p>Washington, April 6, 1859</p>
 
-Sir,</opener>
+<p>Hon John Appleton<lb/>
+Assistant Sec'y of State</p>
+
+<p>Sir,</p>
 
 <p>This is to certify 
 that I, the undersigned; was at the 
 Gaboon West Africa on the arrival
 of Henry A. Ford M.D. appointed U.S.
-Counsular Agent for that place, on 
-July 1st, 1856, &amp; that he was at that 
+Consular Agent for that place, on 
+July 1st 1856, &amp; that he was at that 
 place the whole time to the date 
-of his death Feb. 3, 1858, attending to
-sick &amp; distressed seamen and 
+of his death Feb 3, 1858, attending to
+sick &amp; distressed seamen, &amp; 
 performing the duties of Consular Agent.
 I was in the Gaboon the whole of 
 that period, &amp; was with him at the 
 time of his death.</p>
 
-<closer><salute>Very Respectfully Yours</salute>
-Wm. Walker
-<signed>Missionary of the A.B.C.F.M</signed></closer>
+<p>Very Respectfully Yours<lb/>
+Wm. Walker<lb/>
+Missionary of the A.B.C.F.M.</p>
 
 </div1>
 </body>
