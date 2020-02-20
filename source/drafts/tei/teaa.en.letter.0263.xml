@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
@@ -95,71 +96,110 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Seward, Frederick W.</persName>
-<roleName>Assistant Secretary of State</roleName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1862-01-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Wright, George G.L.</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Gabon</placeName>
+<persName>Wright, George G. L.</persName>
+<roleName>Commercial Agent at Gaboon</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#lkw"> additional encoding</change>
-<change when="2019-10" who="#unm"> encoded and transcribed</change>
+<change when="2020-02-20" who="#kln">reviewed, encoded</change>
+<change when="2019-10" who="#lkw">additional encoding</change>
+<change when="2019-10" who="#unm">encoded and transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+
 <div1 xml:lang="en" type="document">
+
 <pb facs="20170615_105437"/>
-<note><unclear/></note>
-<opener>Department of State<lb/>
-Washington Jany 22nd, 1862<lb/>
-George G. L. Wright Esqr.<lb/>
-appointed United States Commercial Agent at the Gaboon<lb/>
 
-Sir:</opener>
+<p>Department of State,<lb/>
+Washington, Jany 22d, 1862</p>
 
-<p>The President having appointed you Commercial Agent of the United 
-States at the Gaboon.</p>
+<p>George G. L. Wright Esqr.<lb/>
+Appointed United States <del>Consul</del> Commercial Agent at the Gaboon</p>
+
+<p>Sir:</p>
+
+<p>The President having appointed you <del>Consul</del> Commercial Agent of the United States at the Gaboon</p>
 
 <p>I transmit you a printed copy of the Consular Regulations, to 
-which your immediate and careful attention  is invited: a form of the 
+which your immediate and careful attention is invited; a form of the 
 Consular bond, to be executed at once and sent to this Department,
 and other documents for the use of your Consulate, of which a list 
 is subjoined.</p>
 
-<p>As soon as your bond is recieved and approved your Passport 
-will be transmitted to you, and your Certificate of appointment.
-<del>Commission will be sent to the Legation of the United States at
-with instructions to apply to the Government
-for the usual Exequatus which when obtained, will be forwarded to you at with the Commission.</del>
-</p>
+<p>As soon as your bond is received and approved your Passport 
+will be transmitted to you, and your <del>Commission will be sent to the Legation of the United States at &#160; &#160; &#160; with instructions to apply to the &#160; &#160; &#160; Government for the usual Exequatur, which, when obtained, will be forwarded to you at &#160; &#160; &#160; with the Commission</del> Certificate of appointment.</p>
 
 <p>You will communicate to the Department the name of the 
-State or County in which you were born, also of the State from
-which you have been appointed, and if you have ever visited in 
-Gaboon. <del>or any of its dependecies.</del></p>
+State or Country in which you were born, also of the State from
+which you have been appointed, and if you have ever resided in 
+Gaboon. <del>or any of its dependencies.</del>.</p>
 
-<closer>I am sir respectfully,<lb/>
-Your obident servant,<lb/>
-T.W.Seward<lb/>
-Assistant Secretary
-</closer>
+<p>I am, sir, respectfully,<lb/>
+Your obedient servant,<lb/>
+F. W. Seward<lb/>
+Assistant Secretary</p>
 
+<pb facs="20170615_105446"/>
 
+<p>Know all men by these presents,</p> 
+
+<p>That we, &#160; &#160; &#160; are held and firmly bound to the United States of America in the sum of three thousand dollars, money of the said United States, to the payment whereof we bind ourselves, jointly and severally, our joint and several heirs, executors, and administrators.</p>
+
+<p>Witness our hands and seats this  &#160; &#160; &#160; day of  &#160; &#160; &#160; ,  18 &#160; &#160; &#160; .</p>
+
+<p>The condition of the above obligation is such, That if the above 
+bounden  &#160; &#160; &#160; , appointed &#160; &#160; &#160; of the United States at &#160; &#160; &#160;  
+shall truly and faithfully discharge the duties of his said office 
+according to law, and shall truly and faithfully account for, pay 
+over, and deliver up, all fees, moneys, goods, effects, books, records,
+papers, and other property which shall come to the hands of the 
+said &#160; &#160; &#160; , or to the hands of any person 
+for his use as such &#160; &#160; &#160; , under any law 
+now or hereafter enacted, and that he will truly and faithfully 
+perform all other duties now or hereafter imposed upon 
+him as such  &#160; &#160; &#160; . And these presents
+are subject to this other and further condition, that he, the said
+ &#160; &#160; &#160; , will not, while he holds the 
+said office, be interested in or transact any business as a merchant,
+factor, broker, or other trader, or as a clerk or other agent for 
+any such person, to from, or within the port, place, or limits 
+of his  &#160; &#160; &#160; , directly or indirectly, either in his own 
+
+<pb facs="20170615_105453"/>
+
+name, or in the name or through the agency of any other person;
+and in case he, the said &#160; &#160; &#160; 
+shall violate the provisions of this condition, that then the above named 
+obligors shall be liable to said obliges, to a penalty for the breach of 
+such condition in a sum equal to the amount of the annual compensation
+of said &#160; &#160; &#160; ; which is hereby stipulated,
+agreed upon, and admitted by way of liquidated damages, but that
+this condition shall not impair or prevent the right of the United 
+States to prosecute said &#160; &#160; &#160; for the recovery 
+of said penalty against him, the said &#160; &#160; &#160;  
+individually, the same as if this bond had not been given; and if the 
+said &#160; &#160; &#160; shall conform to all the 
+above conditions, then this obligation to be void; otherwise, to remain 
+in full force.</p>
+
+<p>Signed, sealed, and delivered, in the presence of&#8212;}</p>
 
 </div1>
 </body>

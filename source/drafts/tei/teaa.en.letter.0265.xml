@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from William Walker to William H. Seward, January 22, 1862</title>
+<title>Dispatch from William Walker to William H. Seward, January 24, 1862</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
@@ -42,11 +43,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from William Walker to William H. Seward, January 22, 1862</title>
+<title level="a">Dispatch from William Walker to William H. Seward, January 24, 1862</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1862-01-22">January 22, 1862</date>
+<date when="1862-01-24">January 24, 1862</date>
 </bibl>
 </sourceDesc>
 
@@ -72,15 +73,15 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Lawlin, R. E.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Camma (Gaboon)</term>
+<term>Fernan Vaz River</term>
+<term>Gaboon</term>
 </keywords>
     
-
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,19 +96,17 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Walker, William</persName>
-<roleName>Missionary</roleName>
-<placeName>Gabon</placeName>
-<date when="1862-01-22"/>
+<roleName/>
+<placeName>Gaboon, West Africa</placeName>
+<date when="1862-01-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H.</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1862-03-27"/>
 </correspAction>
 </correspDesc>
@@ -115,6 +114,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-02-20" who="#kln">reviewed, encoded</change>
 <change when="2019-10" who="#lkw"> additional encoding</change>
 <change when="2019-10" who="#unm"> transcription and encoding</change>
 </revisionDesc>
@@ -123,37 +123,39 @@
 <text>
 
 <body>
+
 <div1 xml:lang="en" type="document">
 
 <pb facs="20170615_105520"/>
 
-<note>Rec 27 Mar Mr Abbott</note>
+<note>Rec 27 Mar</note>
 
-<opener>Gaboon, Jan 21. 1862.<lb/>
+<p>Gaboon, Jan 24. 1862.</p>
 
-Hon. W. H. Seward <lb/>
-Washington D.C.<lb/>
+<p>Hon. W. H. Seward<lb/>
+Washington D.C.</p>
 
-Sir,</opener>
+<p>Sir,</p>
 
 <p>I had the honor 
-to write you the 23 Dec. respecting 
-the death of Capt. R.E. Lawlin, an
-American trader on the River Fernanboz,
+to write you the 23d Dec. respecting 
+the death of Capt. R. E. Lawlin, an
+American trader on the River Fernan Vaz,
 about 150 miles South of Gaboon.
-Since the date of my last, Rev. J.M.
+Since the date of my last, Rev. J. M.
 Preston has been to Camma with 
-the brig. Barque "Minerva," &amp; brought 
+the brig. Barque 'Minerva', &amp; brought 
 away the goods in the factory &amp;
 as much other property as he could
-ship. It is all stered in the Gaboon
+ship. It is all stored in the Gaboon
 under my care. A full report of all 
 our proceedings has been made to 
-Mssrs James Bishoop &amp;co. of New
-York, &amp; I wait the arrival of their agent to deliver the property to him.
+Messrs James Bishop &amp; Co. of New
+York, &amp; I wait the arrival of their 
+agent to deliver the property to him.
 I have taken considerable responsibility 
 in removing the property &amp; paying
- &amp; discharging the employees of the factory.
+&amp; discharging the employés of the Factory.
 But we have no doubt now 
 that the course pursued has been 
 the only one for the interest of the owners.
@@ -167,28 +169,27 @@ be able to satisfy the Agent who may
 be sent.</p>
 
 <p>Enclosed please find a copy of the 
-form of the call of allegiance forwarded 
-to their Agency, signed, &amp; certified 
-to by the Commander of Gaboon. As
+form of the oath of allegiance forwarded 
+to this Agency, signed, &amp; certified 
+to by the Commandant of Gaboon. As
 I remarked in my former letter; I 
-do need know how far I am bound to 
+do not know how far I am bound to 
 act in regard to duties coming 
 under this Agency. I know not the
-boundaries of jurisidiction. But I do 
+boundaries of jurisdiction. But I do 
 not wish to act at all, except for 
-the interests of humanity</p>
+the interests of humanity.</p>
 
 <p>Allow me to suggest that I find no 
-form of passport. Certificate, Petition 
+form of Passport, Certificate, Petition 
 Protest, or any paper. No form of 
 any kind, &amp; no table to be filled of 
 shipping or any thing else. If any 
 such duties arise forms are safe,
-in <unclear>law</unclear> &amp; convenient in practice.</p>
+in law &amp; convenient in practice.</p>
 
-<closer>I am, Sir, Your obedient servant<lb/>
-W.M. Walker.</closer>
-
+<p>I am, Sir, Your Obedient Servant<lb/>
+Wm Walker.</p>
 
 </div1>
 
