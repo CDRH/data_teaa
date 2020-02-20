@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0645">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0652">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert Lyrett, March 31, 1874</title>
+<title>Despatch from Thomas Brown, 1879</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0645</idno>
+<idno type="project">teaa.en.letter.0652</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Robert Lyrett, March 31, 1874</title>
+<title level="a">Despatch from Thomas Brown, 1879</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
-<date when="1874-03-31">March 31, 1874</date>
+<date when="1879"></date>
 </bibl>
 </sourceDesc>
 
@@ -97,14 +97,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Lyrett, Robert</persName>
-<roleName>Acting Clerk of the Legislative Consul</roleName>
+<persName>Brown, Thomas</persName>
+<roleName>US Consul</roleName>
 <placeName>Gambia</placeName>
-<date when="1874-03-31"/>
+<date when="1879"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName></roleName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -122,56 +122,34 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="20170616_111334 "/>
+<pb facs="20170616_112017"/>
 
-<p>Gambia----1874
-In the thirty seventh year of the right
-of Her Majesty Queen Victoria
-31st March 1874</p>
-
-<p>An Ordinance to alter the Tonnage
-dues for the Port of Bathurst, and healthy
-certain exemptions from Port charges.</p>
-
-<p>Whereas it is unnecessary to alter the
-Tonnage dues on vessels entering the River
-Gambia, and to exempt H.M. Transports
-and Marl Governor from port charges.</p>
+<ab>Know all men by these Presents:
+That we, Thomas Brown ......principal
+and........
+and................sureties,
+are held and firmly bound to the United States of America in the sum
+of two thousand dollars, money of the said United States, to the 
+payment whereof we bind ourselves, joinhtly and severally, our joint and
+several heirs, executes, and administrates.
+Witness our hands and seals this ..............day
+of..........,1879.</ab>
     
-<p>Be it therefore enacted by the the Administration
-and Legislative Council of the settlements on
-the River Gambia as follows as:</p>
-    
-<p>1st From and after the <unclear/>
-of this Ordinance the dujty of two shillings 
-per ton register measurement was payable
-once in the year on ships, boats, a vessels
-entering the River Gambia shall ease and</p>
-    
-<pb facs="20170616_111343"/>
+<p>The condition of the abobe obligation is such, That of the above
+bounden Thomas Brown........appointed
+Vice Consul........of the United 
+States at Bathurst.
 
-<p>determine, and there shall be buuried 
-in brew thereof on ll such ships, boats,
-or vessels, a duty of One shilling and
-<unclear/> per register we document each
-<unclear/> that any such ships, boat or
-vessel shall so enter the River Gambia
-2nd It shall be lonefful to admit A.
-M. Transports and Steam Vessels--
-carrying Her Majesty's Mails under
-arrangement with the Postmaster General
-or with the Colonial Government of
-the settlement on the Gambia free of 
-any or all Port charges.
-C.H.Kentbright
-administration</p>
+shall truly and faithfully discharge the duties of his said office according to 
+law, and shall truly and faithfully account for, pay over, and deliver up,
+all moneys, goods, effects, books, records, papers, and other property which
+shall come into the hands of the said Thomas Brown
+as to the hands of any person for his use as such Vice---
+Counsul--, under any law now or hereafter enacted,
+and that he will faithfully perform all other duties now or hereafter lawfully
+imposed upon him as such Vice Counsul
+then this obligation to be void; otherwise, to remain in full force.</p>
 
-<p>Passed in the legislature Council this Thirty first
-day of March in the year of Our Lord One
-thousand, eight hundred and seventy four.
-
-Robert H. Lyrett
-Acting Clerk od the Legislative Council</p>
 </div1>
 
 </body>
