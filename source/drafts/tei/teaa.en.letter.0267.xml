@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0267">
 
 <teiHeader>
 <fileDesc>
@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm"></name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">Dispatch from Henry May to William H. Seward, April 24, 1862</title>
+<title level="a">Dispatch from Henry May to William H. Seward, April 24, 1862</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Slavery and Slave Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,14 +72,12 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Gaboon</term>
 </keywords>
-    
-
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,25 +93,25 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>May, Henry</persName>
-<roleName></roleName>
-<placeName>Gaboon</placeName>
+<roleName>Commercial Agent at Gaboon</roleName>
+<placeName>Woodstock, New York</placeName>
 <date when="1862-04-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1862-04-28"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-02-20" who="#kln">reviewed, encoded</change>
 <change when="2019-10" who="#unm">encoded and transcribed</change>
 </revisionDesc>
 </teiHeader>
@@ -122,53 +120,55 @@
 
 <body>
 
-<p>Hon. W.H.Lenard 
-Secretary of State 
-Washington D.C.
-
-Dear Sir,
-
-<p></p>I am now ready 
-to take passage by first vessel for Gaboon Africa
-as Commercial Agent of the Government. Will you 
-oblige my by sending me my passport together 
-with any instructions you may <unclear></unclear> proper.
-I need not say that it will be my desire to act 
-promptly and faithfully. As the business is 
-now to me permit me to ask the following 
-questions 
-
-<p>1st. What if any thing shall I do in 
-regard to the Slave trade upon the Coast 
-of Africa.
-
-<p>2nd. Will it be my duty and if so under 
-what circumstances to be are Gaboon for 
-other points upon the African Coast.
-
-<p></p>3rd. Does my salary commence with the date
-of my appointment or with the date of 
-my commission.
-
-4th
-
-<p>4th Are my drafts for all purposes to be 
-made upon the Secretary of State.
-
-Very respectfully
-Your obedient 
-Servant 
-
-Henry May
-Commercial Agent 
-Gaboon Africa 
-
-
 <div1 xml:lang="en" type="document">
 
-<pb facs="x"/>
+<pb facs="20170615_105912"/>
 
-<p></p>
+<note>Red 28 Ap</note>
+
+<p>Woodstock April 24th 1862</p>
+
+<p>Hon. Wm H. Seward<lb/> 
+Secretary of State<lb/>
+Washington D.C.</p>
+
+<p>Dear Sir</p>
+
+<p>I am now ready 
+to take passage by first vessel for Gaboon Africa
+as Commercial Agent of the Government. Will you 
+oblige me by sending me my passport together 
+with any instructions you may deem proper.
+I need not say that it will be my desire to act 
+promptly and faithfully. As the <sic>the</sic> business is 
+new to me permit me to ask the following 
+questions</p> 
+
+<p>1st. What if any thing shall I do in 
+regard to the Slave Trade upon the Coast 
+of Africa.</p>
+
+<p>2nd. Will it be my duty and if so under 
+what circumstances to leave Gaboon for 
+other points upon the African Coast.</p>
+
+<p>3d. Does my salary commence with the date
+of my appointment or with the date of 
+my commission.</p>
+
+<p><catchwords>4th</catchwords>
+
+<pb facs="20170615_105919"/>
+
+4th Are my drafts for all purposes to be 
+made upon the Secretary of State.</p>
+
+<p>Very respectfully<lb/>
+Your obedient<lb/> 
+Servant<lb/>
+Henry May<lb/>
+Commercial Agent<lb/> 
+Gaboon Africa </p>
 
 </div1>
 

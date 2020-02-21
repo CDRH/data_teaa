@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Henry May to William Walker, January 21, 1862</title>
+<title>Certificate of Possession of Property, November 25, 1862</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Mbilain, Unyoh" xml:id="unm"></name>
-
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">Dispatch from Henry May to William Walker, January 21, 1862</title>
+<title level="a">Certificate of Possession of Property</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1862-01-21">January 21, 1862</date>
+<date when="1862-11-25">November 25, 1862</date>
 </bibl>
 </sourceDesc>
 
@@ -72,15 +72,13 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term/>
 </keywords>
     
-
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,25 +93,23 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>May, Henry</persName>
-<roleName></roleName>
-<placeName>Gaboon</placeName>
-<date when="1862-01-21"/>
+<persName/>
+<roleName/>
+<placeName/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Walker, William</persName>
-<roleName>Missionary</roleName>
-<placeName>Gaboon</placeName>
+<persName/>
+<roleName/>
+<placeName/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-02-20" who="#kln">reviewed, encoded</change>
 <change when="2019-10" who="#unm">encoded and transcribed</change>
 </revisionDesc>
 </teiHeader>
@@ -122,40 +118,38 @@
 
 <body>
 
-<pb facs="20170615_110412"
-
-<p></p>United States Commercial Agency 
-at Gaboon Reier <unclear></unclear>
-
-<p></p>This may certify that 
-Henry May book possession of the 
-property belonging to the United States
-at this place and <unclear> </unclear> upon the discharge
-of his duties nas Comml. Agent upon
-the 3rd of Memebers M.G.L. and that upon 
-that day the of Rebellion?</uncclear>
-so BriaComml. Agent terminated 
-<p></p>The property belonging to the United States
-as debreth to Henry May by Ro. Mellhom 
-<unclear></unclear> of  one flag, one person and 
-seal five Conseluar accounts <unclear>
-</unclear> of United States *** at large and 
-<unclea>,  Relations elements of</unclea> international 
-for one <unclear></unclear> of Commercial relations 
-and the need one half reams of paper.
-Unites our hands 
-on the day and open above
-
-Henry May 
-
-W.Walker 
-
-
 <div1 xml:lang="en" type="document">
 
-<pb facs="x"/>
+<pb facs="20170615_110412"/>
 
-<p></p>
+<note>Recd Jan 31</note>
+
+<p>United States Comml Agency<lb/> 
+at Gaboon River November 25th 1862</p>
+
+<p>This may certify that 
+Henry May took possession of the 
+property belonging to the United States
+at this place and entered upon the discharge
+of his duties as Comml. Agt. upon
+the 3d of November 1862 and that upon 
+that day the <unclear>service</unclear> of Rev William Walker
+As <unclear>prior</unclear> Comml Agent terminated</p>
+ 
+<p>The property belonging to the United States
+as delivered to Henry May by Rev William 
+Walker consisted of: one flag, one press and 
+seal, five consular accounts books, ten
+vol. of United States Statutes at Large and 
+<unclear>Judge</unclear> Wheatons Elements of international 
+law one vol. of Commercial relations. 
+and one and one half (1 1/2) reams of paper.</p>
+
+<p>Witness our hands<lb/> 
+on the day and year above<lb/>
+written<lb/>
+Henry May<lb/>
+Wm Walker</p> 
 
 </div1>
 
