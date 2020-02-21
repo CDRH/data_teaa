@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm"></name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">Dispatch from Henry May to William H. Seward, December 1, 1869</title>
+<title level="a">Dispatch from Henry May to William H. Seward, December 1, 1869</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
@@ -72,15 +72,22 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term ref="http://viaf.org/viaf/173655340">Didelot, Octave François Charles 1812-1887</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Cape de Verde</term>
+<term>Cape Palmas (Liberia)</term>
+<term>Fernando Po</term>
+<term>Monrovia (Liberia)</term>
+<term>St. Paul de Loanda (Angola)</term>
+</keywords>
+
+<keywords scheme="original" n="empire">
+<term>Spain</term>
+<term>United States</term>
 </keywords>
     
-
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,25 +102,25 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>May, Henry</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Gaboon</placeName>
-<date when="1869-01-12"/>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Gaboon River</placeName>
+<date when="1862-12-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1863-01-31"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-02-21" who="#kln">reviewed, encoded</change>
 <change when="2019-10" who="#unm">encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -126,83 +133,91 @@
 
 <pb facs="20170615_110515"/>
 
-Dear Sir,
-I have the honor to 
-inform upon that, I arrived here upon
-the 3rd day of November 1869.
+<note>Recd Jan 31</note>
+
+<p>U.S. Commercial Agency<lb/>
+Gaboon River Dec 1st 1862</p>
+
+<p>Hon William H Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</p>
+
+<p>Dear Sir</p>
+
+<p>I have the honor to 
+inform you that I arrived here upon
+the 3d day of November 1862.</p>
 
 <p>The vessel
-upon which I took pasasage from the 
-United States was unavoidably delayed. 
-Causing me to be much longer 
-reaching this place than I anticiplated 
-when I left New York.
+upon which I took passage from the 
+United States was unavoidably delayed, 
+causing me to be much longer 
+reaching this place than I anticipated 
+when I left New York.</p>
 
 <p>In 
-order to account for ant informaties 
-that, may exist in the present,
-corespondence permits me to state 
+order to account for any informalities 
+that may exist in the present
+correspondence permits me to state 
 that the book forwarded me from the 
-departments of sate entitles Lestructions 
+departments of state entitled Instructions 
 to Consuls and Commercial 
 Agents was mislaid in America and 
-has not yet reached me i would 
-respectfully request that another book be sent to me.
+has not yet reached me. I would 
+respectfully request that another book be 
+sent me
 
-sent to me 
+<pb facs="20170615_110531"/>
 
-<pb facs="20170615_110531"
-
-<p></p>I have recieved information through
-Commandore Baron Divdeloh of the 
-French fleet upon this coasr that 
-there are two iron clad reven gun
-brats at the reslands of CAPE dE
-verdic, which had succeded in destroying 
-a number of American Merchants 
-vessels and wwell more in wait for
-the United States ship of Bar
+I have received information through
+Commodore Baron Didelot of the 
+French fleet upon this coast that 
+there are two iron clad rebel gun
+boats at the islands of Cape De
+Verde, which had succeeded in destroying 
+a number of American Merchant 
+vessels and were now in wait for
+the United States ship of war
 Saratoga supposed by them to be bound 
-up the Coast. i have no information
+up the Coast. I have no information
 in regard to the whereabouts 
 of the Saratoga. I have written 
-yo yhr Coml. Agts. Monrovia 
-and to CAPE palmas as they 
-are the only points upon the Coast,
+to the Comml Agt Monrovia 
+and to Cape Palmas as they 
+are the only points upon the Coast
 where she would be likely to
-stop if found from down the coast 
-Commondore J.B. recured his
-information through the Pourtegese 
-Mail thush from the Lisbon to 
-St paul de Loando.
+stop if bound towards the De
+Verde islands from down the coast 
+Commodore <unclear>T.</unclear> B. received his
+information through the Portuguese 
+mail that runs from Lisbon to 
+St Paul de Loando.
 
 <pb facs="20170615_110537"/>
     
-<p></p>By information received from 
-the same source.(Commandere S.)
-from the spanish authorities at
-Fernando Po I have reason to as
-pretend. that the same difficulties 
+By information received from 
+the same source, (Commodore D.)
+from the Spanish authorities at
+Fernando Po I have reason to
+apprehend that the same difficulties 
 that existed between the governments
 of the United States and 
 Spain in the years 1859 and 1860
-in relation too Spanish interference 
-<unclearr> mth-Pomere Missionaries </unclearr>
-are likely to be received. 
+in relation to Spanish interference 
+with American Missionaries
+upon the island of Corisco
+are likely to be revived.</p> 
  
-<p></p> A copy of the regulations of 
-the Hon. Secretary of Treasury to 
-Which reference is made in Circular 
-of 17 of July 31st 1862. has not 
-reached me.
+<p>A copy of the regulations of 
+the Hon Secretary of treasury to 
+which reference is made in Circular 
+No 17, of July 31st 1862, has not 
+reached me</p>
     
-<ab></ab>I have the honor to
-be Your most obi. servant
-Henry May Com.Agnt.
+<p>I have the honor to
+be your most obt servant<lb/>
+Henry May Com. Agt.</p>
     
-
-<p></p>
-
 </div1>
 
 </body>
