@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">Despatch from Henry May to William H. Seward, June 16, 1863</title>
+<title level="a">Despatch from Henry May to William H. Seward, June 16, 1863</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,15 +72,17 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term/>
 </keywords>
-    
 
-
+<keywords scheme="original" n="empires">
+<term>United States</term>
+</keywords>
+ 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,25 +97,25 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>May, Henry</persName>
-<roleName>U.S. Consul</roleName>
-<placeName>Gaboon</placeName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Gaboon River</placeName>
 <date when="1863-06-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1863-08-27"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-02-21" who="#kln">reviewed, encoded</change>
 <change when="2019-10" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
@@ -121,49 +123,46 @@
 <text>
 
 <body>
+
 <div1 xml:lang="en" type="document">
 
 <pb facs="20170615_110631"/>
+
+<note>Recd 27 Aug</note>
     
-United States Comm. Agency
-at Gaboon River from 16th May 
+<p>United States Comml. Agency<lb/>
+at Gaboon River June 16th 1863</p>
 
-Hen. William H. Seward
-Secretary of State 
-Washington D.C.
+<p>Hon. William H. Seward<lb/>
+Secretary of State <lb/>
+Washington D.C.</p>
 
-Dear Sir,
-<p></p>
-I would beg to state that the trade 
+<p>Dear Sir</p>
+
+<p>I would beg to state that the trade 
 between the United States and this port is very 
 limited. During the past year there has been 
 but three American vessels in this river. These 
-belong t a single river in the City of
-New York. There has been one consular books 
+belonged to a single firm in the City of
+New York. There has been no consular books 
 kept in this place, but according to my best 
 information there has not been more than 
 three American vessels here during any one 
 year for the past three years. I know of no 
 American vessel expected here at present.
-The breathtaking of this river is 
-princefuly in the hands of the English.
-The exports form this part aiming 
-the past year were, of <unclear> Very*</unclear> 25 tons;
-Bonwood 2000 tons. Rubber 125 tons also 
-small quantites of Bees- Wax, Gum-Copel,
+The trade of this river is <sic>princefly</sic> in the hands 
+of the English. The exports from this part during 
+the past year were, of Ivory 25 tons;
+Bonwood 2000 tons,, Rubber 125 tons also 
+small quantities of Bees-Wax, Gum-Copel
 and Ebony. The American trade at this 
-pasts. SSince my arrival (3rd November 1862) has 
-not exceeded $12.00:
+port since my arrival (3d November 1862) has 
+not exceeded $1200;</p>
 
-I am sir with-much respect
-your most obedient Servant 
-
-Henry May 
-<div1 xml:lang="en" type="document">
-
-<pb facs="x"/>
-
-<p></p>
+<p>I am sir with much respect<lb/>
+your most obedient servant<lb/> 
+Henry May<lb/>
+U S Comml Agt</p>
 
 </div1>
 
