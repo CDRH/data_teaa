@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Henry May to William H. Seward, September 31, 1864</title>
+<title>Despatch from Henry May to William H. Seward, June 18, 1864</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">Despatch from Henry May to William H. Seward, September 31, 1864</title>
+<title level="a">Despatch from Henry May to William H. Seward, June 18, 1864</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1864-09-31">September 31, 1864</date>
+<date when="1864-06-18">June 18, 1864</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Slave Trade and Slavery</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,15 +72,20 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Bight of Benin</term>
+<term>Glasgow (Scotland)</term>
+<term>Whydah (Benin)</term>
 </keywords>
-    
 
-
+<keywords scheme="original" n="empires">
+<term>France</term>
+<term>Great Britain</term>
+</keywords>
+  
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,79 +100,89 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>May, Henry</persName>
-<roleName>U.S. Consul</roleName>
-<placeName>Gaboon</placeName>
-<date when="1864-09-31"/>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Gaboon River</placeName>
+<date when="1864-06-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington D.C.</placeName>
+<date when="1864-08-26"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#unm"></change>
+<change when="2020-02-24" who="#kln">reviewed, encoded</change>
+<change when="2019-10" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
-<div1 xml:lang="en" type="document"></div1>
-    
-<pb facs="20170615_111412"
-
-Dear Sir,
-
-My Exequaature together with the 
-Circular So 47. has been recieved.
-During an interview with the Commander 
-in Chief of the French squadum upon the 
-West Coast of Africa, he informed me that .
-There *clay fith steamer has recently 
-left Clapgton* in Servland*. Some recieved 
-circumstances in urgent to the vessels lead.
-the Authorities in England to notify he 
-English and French Admirats here to 
-been the boats on for them. One of them has
-been upon the coach an succeded in 
-Making its escape with seven hundred miquro
-though merchant by thirteen steamers 
-of the English Signture. Stablized at 
-upon arrivals with boats beteen the vessels.
-<p></p>This was in the *memity of Bydah in the 
-Bight if Bonin. I have no information of the 
-others. The Admiral expressed fear that 
-these vessels are succed in securing 
-they would the Rebel flag.
-
-<pb facs="20170615_111422"
-<p></p>and prey upon American COmmerce 
-By the time i recieve on one to this.
-I shall have been at my previous duty but 
-again, which of sapphere  is as long as any gold 
-can remain in this chate upon three first 
-re- >unclear< 
-to be informed if it will be necessary for 
-me to appoint a tier Comml. Agt. 
-<ab></ab>I have the honor to be your most 
-obedient Servant 
-Henry May 
-U.S. Comml. Agt.
-
 <div1 xml:lang="en" type="document">
+    
+<pb facs="20170615_111412"/>
 
-<pb facs="x"/>
+<note>Recd Aug 26.</note>
 
-<p></p>
+<p>United States Commercial Agency<lb/>
+at Gaboon River June 18th 1864</p>
+
+<p>Hon William H. Seward<lb/>
+Secretary of State Washington D.C.</p>
+
+<ab>Dear Sir</ab>
+
+<p>My Exequatur together with the 
+Circular No 47. has been received.</p>
+
+<p>During an interview with the Commander 
+in Chief of the French Squadron upon the 
+West Coast of Africa, he informed me that 
+Three <unclear>Clyde</unclear> <unclear>built</unclear> <unclear>steamers</unclear> had recently 
+left Glassgow in Scotland. Some suspicious 
+circumstances in regard to the vessels lead
+the Authorities in England to notify the 
+English and French Admirals here to be
+on the look out for them. One of them has
+been upon the coast and succeeded in 
+making its escape with seven hundred negroes,
+though watched by thirteen by thirteen steamers 
+of the English squadron. Stationed at 
+regular intervals with boats between the vessels</p>
+
+<p>This was in the vicinity of Wydah in the 
+Bight of Benin. I have no information of the 
+others. The Admiral expressed fears that 
+should these vessels not succeed in securing 
+slaves they would hoist the Rebel flag 
+<catchwords>and</catchwords>
+
+<pb facs="20170615_111422"/>
+
+and prey upon American Commerce</p>
+ 
+<p>By the time I receive an answer to this
+I shall have been at my post of duty two  
+years, which I suppose is as long as any one 
+can remain in this climate upon their first  
+residence with safety to health and life.
+I would therefore request permission to visit
+my family and should my request be granted
+to be informed if it will be necessary for 
+me to appoint a Vice Comml. Agt.</p>
+ 
+<p>I have the honor to be your most<lb/> 
+obedient Servant<lb/>
+Henry May<lb/> 
+U.S. Comml. Agt.</p> 
 
 </div1>
 
