@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0677">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0677</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName>Madagascar</placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-02-24" who="#unm">transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170614_154107"/>
+    
+<p>Mr. President
+As the first representatives of the 
+Island of Madagascar who have visited this great
+Republic; we feel ourselves honored in this meeting
+at its capital with yourself its distinguished
+leader.</p>
+    
+<p>We have only been a very few days in this country,
+but we have already begun to be conscious of a warm
+desire on the part of the American people for our 
+kingdom's welfare, and we hope that our visit will
+tend to deepen that kindly feeling in the hearts
+of all your citizens the foremost lovers of National 
+independence.</p>
+    
+<p>Commerce between this your country and our
+own distant island has increased of late to 
+such an extent as to have demanded the attention
+of both our Governments. This progress is in no
+ssmall measure due to the efforts of your excellent
+representative there, Colonel Robinson, whom we have 
+learned to respect as few other foreigners are expected.
+In the name of our Queen we desire to hear this
+testimony to this wisdom and ability.</p>
+    
+<p>Our business today as Ambassadors of Her
+Majesty the Queen of Madagascar is to present
+the credentials which we were hidden to lay
+before you. We have also been made <unclear/>
+by your Queen of a few articles of 
+<unclear/> workmanship which she desired.
+
+you</p>
+
+<pb facs="20170614_154119"/>
+    
+<p>you to accept not as things of value in themselves
+but as tokens of friendly respect.</p>   
+    
+<p>Lastly, Mr. President we desire to thank you
+for a most hospitable welcome to America, and
+beg you now to consider us as being at the 
+disposal of Your Government for the considerate
+of those affairs which are included in our
+commission.</p>
+</div1>
+
+</body>
+</text>
+
+</TEI>
