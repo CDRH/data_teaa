@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0692">
+
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Ravoninahitriniarivo, Ramaniraka to F.T. Frelinghuysen, March 29, 1883</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0692</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Ravoninahitriniarivo, Ramaniraka to F.T. Frelinghuysen, March 29, 1883</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="1883-03-29">March 29, 1883</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Ravoninahitriniarivo, Ramaniraka</persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName>New York</placeName>
+<date when="1883-03-29"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>F.T. Frelinghuysen</persName>
+<roleName>Principal Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1883-04-02"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-02-26" who="#unm">transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170614_154632"/>
+
+<p>We have the honour to 
+acknowledge the receipt of the Ex-
+change copy of the Treaty of peace,
+of friendship and commerce between
+the Government of the United States
+and Madagascar, ratified by His 
+Excellency the President and forward-
+ed by you on the 23rd instant.</p>
+
+<p> As we are leaving New 
+York for Liverpool on Saturday the 
+31st of March, we take this oppor-
+tunity of repeating the assurances
+of our gratitude for, and high ap-
+preciation of the hearty and cord-
+ial reception we have everywhere
+met with during our visit to your 
+country.</p>
+
+<p>We trust and hope that
+
+our
+</p>
+
+<p>The Honorable 
+F.T. Frelinghuysen
+Principal Secretary of State
+Washington, D.C.</p>
+
+<pb facs="20170614_154644"/>
+
+<p>our visit has been the means 
+of bringing to the notice of the 
+American people a large field for 
+American commercial enterprise.
+We can assure you that the good 
+report we shall carry back to Mada-
+gascar will cause our people to 
+hail with pleasure the prospect of a 
+more extensive trade with the Uni-
+ted States, especially knowing that
+your commerce abroad has no aggres-
+sive ends in view, but only closer
+and more frequent communications 
+for the benefit of both countries,
+which will tend nevertheless to has-
+ten the civilization of our island
+as a free and independent country.</p>
+
+<p>We feel confident that
+the treaty now concluded will bring 
+about these results, and that the 
+relation between our two Governmens
+will continue to be most friendly.</p>
+
+<p>We offer the assurances of 
+our highest consideration and remain
+
+Your obedient servants
+(signed) Ravoninahitriniarivo
+(signed) Ramaniraka</p>
+
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
