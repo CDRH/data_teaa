@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0301">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0685">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>English Translation of Letter 299, September 21, 1866</title>
+<title>Despatch from Robert S. Newton to the Assistant Secretary of State, September 9, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
 
 </respStmt>
 </titleStmt>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0301</idno>
+<idno type="project">teaa.en.letter.0685</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">English Translation of Letter 299</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
+<title level="a">Despatch from Robert S. Newton to the Assistant Secretary of State</title>
+<title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
-<biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1866-09-21">September 21, 1866</date>
+<biblScope unit="roll">Roll 4</biblScope>
+<date when="1884-09-09">September 9, 1884</date>
 </bibl>
 </sourceDesc>
 
@@ -72,14 +72,15 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Nachtigal</term>
+<term>Newton, Robert S.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
+<term>United States</term>
+<term>Washington, D.C.</term>
 </keywords>
-
-
+    
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -94,25 +95,23 @@
 
 </textClass>
 
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName>Gabon</placeName>
-<date when="1866-09-21"/>
+<persName>Robert S. Newton </persName>
+<roleName>U.S. Vice Consul</roleName>
+<placeName>St Paul de Loanda</placeName>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<roleName>Assistant Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019" who="sab">Transcribe, encode.</change>
+<change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -120,25 +119,24 @@
 
 <body>
 
-<div1 xml:lang="en" type="translation">
+<div1 xml:lang="en" type="document">
 
-<pb facs="x"/>
+<pb facs="Scan40010"/> 
 
-<p>Copied</p>
+<p>The German Gunboats, "Wolf" and "Moewe," (the
+latter with Dr. Nachtigal on board) are expected
+here shortly.</p>
 
-<p>Circular</p>
-<p>The Merchants are informed that in a consequence of a reduction affecting the sum which the Colony receives form the <unclear>Moetropoles</unclear> for its local expenses, they will be, from the finding January 1867. Subjected to the payment of annual duties of patent and licence, the tariff of which has been established according to the following <unclear></unclear>; to wit.</p>
+<p>I have the honor to be, Sir<lb/>
+Your most Obedient Servant<lb/>
+Robt S. Newton<lb/>
+U.S. Vice-Consul.</p>
 
-<p>A patent for a wholesale dealer - 800 francs
--a retail-  400 -</p>
-<p>A Licence for a <unclear>tairer</unclear> is to retail
-liquors ____________________________ 600 -</p>
-<p>An agreement which will follow hereafter will determine the conditions of classification of the Merchants in these 3 categories</p>
-<p>Gabon Sep. 21, 1866</p>
+<p>The Assistant Secretary of State<lb/>
+Washington DC.</p>
 
 </div1>
 
 </body>
 </text>
-
 </TEI>

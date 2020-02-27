@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from J.M.Preston to William H. Seward, Janurary 3, 1866</title>
+<title>Despatch from J. M.Preston to William H. Seward, January 3, 1866</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from J.M.Preston to William H. Seward, Janurary 3, 1866</title>
+<title level="a">Despatch from J. M. Preston to William H. Seward, January 3, 1866</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1866-01-3">Janurary 3, 1866</date>
+<date when="1866-01-03">January 3, 1866</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,14 +72,17 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term/>
 </keywords>
     
-
+<keywords scheme="original" n="empires">
+<term>France</term>
+<term>Portugal</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,19 +98,17 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Preston, J.M.</persName>
-<roleName>Honorable Consul</roleName>
+<persName>Preston, J. M.</persName>
+<roleName>U.S. Vice Commercial Agent</roleName>
 <placeName>Gaboon</placeName>
-<date when="1866-01-3"/>
+<date when="1866-01-03"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H.</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington D.C.</placeName>
 </correspAction>
 </correspDesc>
 
@@ -121,53 +122,57 @@
 <text>
 
 <body>
-<div1 xml:lang="en" type="document"></div1>   
+
+<div1 xml:lang="en" type="document"> 
     
-<pb facs="20170615_112047" 
+<pb facs="20170615_112047"/> 
+
+<note>Recd Mar 31<lb/>
+Ack April 5</note>
+
+<note>No 5.</note>
+
+<p>U.S. Comcl Agency<lb/>
+Gaboon Jany 3d 1866.</p>
  
-To Mr. Hem W.Me.Seward,
-Secretary of State,
-Washington D.C.
+<p>To the Hon. Wm H. Seward,<lb/>
+Secretary of State,<lb/>
+Washington D.C.</p>
 
-<p></p>Sir: I have
-the honor to aacknowledge, since my last, the reciept,
-from the Dep. of State of despatch No.14, requesting 
-me to continue to act as Vier Com'd Agt. 16th 
+<p>Sir: I have
+the honor to acknowledge, since my last, the receipt,
+from the Dep. of State, of despatch No 14, requesting 
+me to continue to act as Vice Comcl Agt &amp;c., 
 proclamation of president Johnson in relation to 
-N. leardins, Circular in relation to the Am.
-Geo and State Sec. N.Y. and a copy of "List, of 
-Diplomatic+ Consular offices at".
+N. Carolina, Circular in relation to the Am.
+Geo. and State Soc. N.Y. and a copy of "List of 
+Diplomatic &amp; Consular offices &amp;c."</p>
 
-<ab></ab>I reply to note on page 2 of said "List", That
-The "Meavval" here was printed at "Washington, 1863.
+<p>I reply to note on page 2 of said "List," that
+the "Manual" here, was printed at "Washington, 1863."</p>
 
-<p></p>To note on page 56, I reply that "Gaboon"
-is seriosuly put on page 10, among "Porteguese
-Ammeins". It should be among French 
-on page 9. 
+<p>To note on page 54, I reply that "Gaboon"
+is erroneously put, on page 10, among "Portuguese
+dominions." It should be among French 
+on page 9.</p> 
 
-our
-<pb facs="20170615_112051"
-<ab></ab>I have no arrivals of vessels to report 
-during the past six months, nor any fees.
+<pb facs="20170615_112051"/>
 
-<ab></ab>During the year 1865 only two 
-American vessels (barike) have entered this part.
+<p>I have no arrivals of vessels to report 
+during the past six months, nor any fees.</p>
 
-<p></p>There is no material change in
-the trade. The articles of export ( hory and 
-Barwood) are becoming yearly searcers +
+<p>During the year 1865 only two 
+American vessels (barks) have entered this port.</p>
+
+<p>There is no material change in
+the trade. The articles of export (Ivory and 
+Barwood) are becoming yearly scarcer &amp;
 dearer; and year by year subject to 
-more more inbutes* competition.
+more &amp; more <unclear extent="one word"/> competition.</p>
 
-I have the honor to be, SIrr, your obt. Servt.
-J.M.Preston 
-Vice Comd. Agent.
-<div1 xml:lang="en" type="document">
-
-<pb facs="x"/>
-
-<p></p>
+<p>I have the honor to be, Sir, your obt servt<lb/>
+J. M. Preston<lb/>
+Vice Comcl Agent.</p>
 
 </div1>
 

@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0297">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Despatch from J. M. Preston to William H. Seward, September 25, 1866</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.fr.letter.0001 -->
+<idno type="project">teaa.en.letter.0297</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
-<title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
+<title level="a">Despatch from J. M. Preston to William H. Seward, September 25, 1866</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
-<biblScope unit="roll">T-807, Roll 1</biblScope>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<biblScope unit="roll">T-466, Roll 1</biblScope>
+<date when="1866-09-25">September 25, 1866</date>
 </bibl>
 </sourceDesc>
 
@@ -54,7 +53,7 @@
 
 <profileDesc>
 <langUsage>
-<!-- WHAT LANGUAGE IS THE DOCUMENT IN? SEE ALSO: fr, French -->
+
 <language ident="en">English</language>
 </langUsage>
 
@@ -71,15 +70,17 @@
 <term>Correspondence</term>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term/>
 </keywords>
     
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,26 +96,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Preston, J. M.</persName>
+<roleName>U.S. Vice Commercial Agent</roleName>
+<placeName>Gaboon</placeName>
+<date when="1866-09-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington D.C.</placeName>
+<date when="1866-11-26"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2020-02-26" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -122,14 +122,125 @@
 
 <body>
 
+<div1 xml:lang="en" type="document"> 
+    
+<pb facs="20170615_112513"/> 
+
+<note>Dept of State Recd Nov 26 '66</note>
+
+<p>U.S. Comcl Agency, Gaboon Sep 25 /66</p>
+
+<p>To the Hon. Secretary of State<lb/>
+Washington D.C.</p>
+
+<p>Sir: I have the honor
+to transmit the accompanying "Circular", laws
+affecting the Commerce of this port, hitherto free.</p>
+
+<p>I learn from an English trader, who yesterday
+had an interview with the Commandant Superior,
+that export &amp; import duties of 4 per cent,
+Anchorage duty of one franc per ton, also Pilotage
+&amp; light-house fees are to be imposed. The export
+duty, as explained by the Commandant, will apply
+to African produce, brought into Gaboon from other
+ports, in a ship coming here to complete her
+cargo, as many of the American vessels do.</p>
+
+<p>I am very respectfully your obedient servant<lb/>
+J. M. Preston.<lb/>
+U.S. Vice Comcl Agent.</p>
+
+</div1>
+
+<div1 xml:lang="fr" type="document">
+
+<pb facs="20170615_112518"/>
+
+<p>Circular.</p>
+
+<p>Messieurs les commençants sont 
+prévenus que par suite d'une réduction opérés 
+sur la somme que la Colonie recevait de la 
+Métropole pour ses dissendes locales, ils seront soumis 
+a partir du 1er Janvier prochain au paiement 
+de droits annuels de patente et de licence, 
+dont le tarif doit être établi aux chiffres suivants;</p>
+
+<p>Savoir:</p>
+
+<table>
+<row>
+<cell>Patente de Négociant</cell>
+<cell>800 ₣</cell>
+</row>
+<row>
+<cell> " de Marchand détaillant</cell>
+<cell>400</cell>
+</row>
+<row>
+<cell>Licence de Cabaretier et de tous autres vendant, au détail, des boissons dans leur établissements</cell>
+<cell>600</cell>
+</row>
+</table>
+
+<p>Me arrêté qui interviendra ultérieurement 
+déterminera les conditions du classement
+du Commerçants dans ces 3 catégories.</p>
+
+<p>Gabon, le 21 Septembre 1866.</p>
+
+</div1>
+
 <div1 xml:lang="en" type="document">
 
-<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<pb facs="20170615_112518"/>
 
-<!-- BEGIN TRANSCRIBING -->
+<p>Circular</p>
 
+<p>The Merchants are informed
+that in consequence of a reduction affecting
+the sum which the Colony receives from the 
+Metropolis for its local expenses, they will be, from
+the first of January 1867, subjected to the
+payment of annual duties of patent and
+licence, the tariff of which has been established
+according to the following figures; to wit:</p>
 
-   
+<table>
+<row>
+<cell>A patent for a wholesale dealer</cell>
+<cell>800 francs</cell>
+</row>
+<row>
+<cell> " a retail</cell>
+<cell>400</cell>
+</row>
+<row>
+<cell>A Licence for a <unclear>tavern</unclear> or to retail liquors</cell>
+<cell>600</cell>
+</row>
+</table>
+
+<p>An agreement which will follow hereafter 
+will determine the conditions of
+classification of the Merchants in these 
+3 categories</p>
+
+<p>Gaboon Sep. 21, 1866</p>
+
+<pb facs="20170615_112529"/>
+
+<ab>Enclosure</ab>
+
+<ab>U.S. Comcl Agency<lb/>
+with Despatch of Sep. 25. /66</ab>
+
+<ab>Circular. Laws relating to duties &amp; licence in Gaboon.</ab>
+
+<ab>No 1<lb/>
+Sep. 21. 1866</ab> 
+
 </div1>
 
 </body>
