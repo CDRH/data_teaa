@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Henry May, December 21, 1866</title>
+<title>Despatch from Henry May to Frederick W. Seward, December 21, 1866</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Henry May, December 21, 1866</title>
+<title level="a">Despatch from Henry May to Frederick W. Seward, December 21, 1866</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
@@ -79,8 +79,6 @@
 <term></term>
 </keywords>
     
-
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,26 +93,25 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Henry May</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Gaboon</placeName>
+<persName>May, Henry</persName>
+<roleName>Late U.S. Commercial Agent</roleName>
+<placeName>Ames, Iowa</placeName>
 <date when="1866-12-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName>Late U.S. Consul Agent</roleName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
-<date when="1866-12-25"
+<date when="1866-12-25"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-02-27" who="#kln">reviewed, encoded</change>
 <change when="2019-10" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
@@ -122,74 +119,78 @@
 <text>
 
 <body>
-<div1 xml:lang="en" type="document"
-
-<pb facs="20170615_113526"
-
-Sir,
-
-Your
-<p></p>communication of the sixth in >uncertain<ab></ab>
-the 14t has been received. I am requesting 
-to inform the Department why my request 
-sent of office was not presented previously*
-
-<p></p>I wrote to the 
-Department while in Africa in regard the time of 
-Office and recieved for answers that would *unclear
-and forward to the Department a officials signed 
-by the respects to the effect that 
-entails an office and said Office by vessels for 
-Governement purposes one for no other. That 
-accept such a certificate the Department would 
-inform me of its decision. I immmediately forwarded 
-Gordon + Bumma certifying to the above facts also 
-certifyinh that in their judgement the rest of said 
-Officers was over five hundred and fifty dollars 
-per ammunition of more received any be the 
-certificate. I delayed writing again in regard to this 
-matter not wishing to call attention again to the *unclear
-it supposed was already under consideration.
-
-<p></p>This liked to be press the claim after once fairly presenting 
-it at a time when it seemed to be one you must 
-have so much of greater importance to occupy your 
-mention Another resaon too was the diffculty 
-*unclear* in that for off out of the way country in 
-putting drafts cashed without paying such extreme
-taxes of exhange + then perhaps not at all. 
-
-<p></p>The above are the plants of unsaid 
-<pb facs="20170615_113529"
-Why I did not present greatly accounts of collect not 
-Faculty for by Office. I am quite sure I want nothing
-but what is just and honorable in the nature.
-
-<p></p>Your 
-Communication stated that my account cannot be
-allowed until *unclear* vouched and furnished the
-Department. The muchin before refered to as 
-having you signed by Nupris Poulvre +Bamma I think 
-must have been received by the Department if so please
-inform me as soon the *unclear* as necessary. If Baked
-make was not received please inform me; and I 
-would next unexpectedly request your indulgence
-in this matter as I have no dates of communicaitons
-within which in Africa/
-
-I am Sir with the highest 
-Consideration Your most humble 
-+ obident Servant 
-Henry May 
-Late U.S. Comml. Agt.
-And or Arnus Lotovy County 
-L'ovre 
-December 21st,1866
 <div1 xml:lang="en" type="document">
 
-<pb facs="x"/>
+<pb facs="20170615_113526"/>
 
-<p></p>
+<note>Received Dec 25 1866</note>
+
+<p>F. W. Seward Esqr<lb/>
+Assistant Secretary of State Washington D.C.</p>
+
+<p>Sir</p>
+
+<p>Your
+communication of the 21st ult in reply to mine of
+the 14th has been received.</p>
+
+<p>I am requested
+to inform the Department why my <unclear>account for</unclear>
+rent of Office was not presented quarterly</p>
+
+<p>I wrote to the 
+Department while in Africa in regard the rent of 
+the Office and received for answer that if I would procure
+and forward to the Department a certificate signed 
+by two respectable merchants to the effect that <unclear extent="one or two words"/> 
+built an office and used said Office expressly for 
+Governement purposes one for no other. That upon 
+receipt of such a certificate the Department would 
+inform me of its decision. I immediately forwarded 
+<unclear>Gordon</unclear> &amp; <unclear>Bremmer</unclear> certifying to the above facts also 
+certifying that in their judgment the rent of said 
+Office was worth one hundred and fifty dollars 
+per annum. I never received any reply to the
+certificate. I delayed writing again in regard to this 
+matter not wishing to call attention again to the subject which
+I supposed was already under consideration.</p>
+
+<p>I disliked too to press the claim after once fairly presenting 
+it at a time when it seemed to me you must 
+have so much of greater importance to occupy your 
+attention. Another <del>diffi</del> reason too was the difficulty 
+experienced in that far off out of the way country in 
+getting drafts cashed without paying such extreme
+rates of exchange &amp; then perhaps not at all.</p>
+
+<p>The above are the plainly stated reasons 
+
+<pb facs="20170615_113529"/>
+
+why I did not present <unclear>quartly</unclear> accounts &amp; collect next 
+<unclear>quartly</unclear> for my Office. I am quite sure I want nothing
+but what is just and honorable in the matter.</p>
+
+<p>Your 
+Communication states that my account cannot be
+allowed until proper vouchers are furnished the
+Department. The voucher before <sic>refered</sic> to as 
+having been signed by Messrs Gordon &amp; <unclear>Bremmer</unclear> I think 
+must have been received by the Department if so please
+inform me <unclear>what</unclear> other vouchers are necessary. If said
+voucher was not received please inform me; and I 
+would most respectfully request your indulgence
+in this matter as I have no dates of communications
+written while in Africa</p>
+
+<p>I am Sir with the highest 
+consideration your most humble 
+&amp; <sic>obedent</sic> servant<lb/> 
+Henry May<lb/>
+Late U.S. Comml. Agt.<lb/>
+at Gaboon River W. A.<lb/> 
+Now at Ames Story County Iowa<lb/>
+December 21st 1866</p>
 
 </div1>
 
