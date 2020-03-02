@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0319">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Decree from Gaboon, November 16, 1866</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
-
+<name n="Mbilain. Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0319</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Decree from Gaboon, November 16, 1866</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1866-11-16">November 16, 1866</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,14 +72,18 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term ref="http://viaf.org/viaf/173655340">Didelot, Octave François Charles 1812-1887</term>
+<term>Langle, Vte A. de</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Gaboon</term>
+<term>Gold Coast</term>
 </keywords>
-    
 
+<keywords scheme="original" n="empires">
+<term>France</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -94,8 +98,6 @@
 </keywords>
 
 </textClass>
-
-
 
 <correspDesc>
 <correspAction type="sentBy">
@@ -114,7 +116,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2020-02-27" who="#kln">reviewed, encoded</change>
+<change when="2019" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -122,152 +125,159 @@
 
 <body>
 
-Gaboon Nov. 16th 1866
+<div1 xml:lang="en" type="document">  
+    
+<pb facs="20170615_113931"/> 
 
-We ], Rear Admiral, Commander
-in Chief of the Naval Division of 
+<p>Gaboon Nov. 16th 1866</p>
+
+<p>We, Rear Admiral, Commander-in-Chief 
+of the Naval Division of 
 the West Coast of Africa; Chief 
 Commandant of the Settlements of
-the Gold Coast and the Gaboon.
+the Gold Coast and the Gaboon.</p>
 
-By reason of the new commercial 
+<p>By reason of the new commercial 
 regime which is about to be established 
-in the waters of the Gaboon.
+in the waters of the Gaboon.</p>
 
-Have decreed and do *unclear
+<p>Have decreed and do decree.</p>
 
-Oct. 1st. The provisions of the 
+<p>Art 1st The provisions of the 
 Commercial Code relative to the keeping 
 of accounts and to declarations of 
-Bankeeper will be put in force from
+Bankruptcy will be put in force from
 January 1st 1867. Commencing on
 the same date with all individuals 
 entering into commercial transactions 
 and who make such their habitual 
-profession will be held to be traders
+profession will be held to be traders.</p>
 
-Oct 2nd Every person, French, foreigner, 
-or trader within the radius of the 
-French profession at Gaboon or who 
-may intrude to follow it must make 
+<p>Art 2d Every person, French, foreigner, 
+or native following the profession
+of traders within the radius of the 
+French professions at Gaboon or who 
+may intend to follow it, must make 
+
+<pb facs="20170615_113935"/>
 
 his declaration to the Commandant 
-"Particular" and to the "Ordemiation"
+"Particuliar" and to the "Ordonnateur"
 officiating as Director of the Interior,
 between this day and the 20th of December
-1866, and later, ten days before 
-commencing business. The Ordemnation 
+1866; and later, ten days before 
+commencing business. The "Ordonnateur" 
 is charged with keeping a register of 
-the said declarations.
+the said declarations.</p>
 
-Oct. 3 Each merchant established 
-at Gaboon or who wishes to establish
-himself there must provide himself 
-within the delays and periods you said.
+<p>Art. 3d Each merchant established 
+at Gaboon, or who wishes to establish
+himself there, must provide himself 
+within the delays and periods aforesaid.</p>
 
-1stly With a day-book in which must be 
-entered day by day all his business transactions 
-his recount current and general lu
-all that he may have recieved or paid 
+<p>1stly With a day-book in which must be 
+entered day by day all his business transactions, 
+his account current, and generally
+all that he may have received or paid 
 on any account whatever. This day-book
-must insure show month by month 
-the amount dibursed for house expenses.
+must moreover show month by month 
+the amount disbursed for house expenses.</p>
 
-2ndly With a Letter book into which month 
-be expired all the letters sent by the 
-merchant concerning his business affairs.
+<p>2dly With a Letter book into which month 
+be copied all the letters sent by the 
+merchant concerning his business affairs.</p>
 
-3rdly With a stock book in which must
-be entend each year the Inventory of his 
-property both goods and efforts and of the
-account current. There books must be
+<p>3dly With a stock-book, in which must
+be entered each year the Inventory of his 
+property, both goods and effects not of his
+
+<pb facs="20170615_113939"/>
+
+account current. These books must be
 posted according to date without blanks,
-hiatus or hansfermers to margin. They 
+hiatus or transferences to margin. They 
 must be preserved by the Merchant for 
-ten years.
+ten years.</p>
 
-The Day-book and Stock book must be 
+<p>The Day-book and Stock-book must be 
 paged, paragraphed and signed between 
 the 10th and 25th of December of each 
 year by the Commandant Particular 
-who officials at Gaboon as Justice of the 
+who officiates at Gaboon as Justice of the 
 Peace and as Mayor. This Magistrate 
-will keep a register of the accomplish 
-must of this formality. 
+will keep a register of the accomplishment 
+of this formality.</p> 
 
-Finally every trader must present the 
+<p>Finally every Trader must preserve the 
 letters which he may receive concerning 
-his bill received and bills payable 
-and other business operations.
+his bills received and bills payable 
+and other business operations.</p>
 
-Oct. 4th denouncing with January 
-1st 1867. Bankeeply will be declared by
-the Commandant Particulaier upon 
-the advice of the Commercial Commit 
-the established by Seerne of Bason 
-Circulat Commandant Supenor dated 
-March 28th 1862, approved by *unclear*
-despatch of Feburary 9th 1863 (Colonial+Bureau)
+<p>Art. 4th Commencing with January 
+1st 1867. Bankruptcy will be declared by
+the Commandant Particulier upon 
+the advice of the Commercial Committee 
+established by Decree of Baron 
+Didelot, Commandant Superior, dated 
+March 28th 1862, approved by ministerial
+despatch of Febr'y 9th 1863 (Colonies <unclear>3d</unclear> <unclear>Bureau</unclear>)</p>
 
-Oct. 5th of the Commercial Committee 
-in verifying the Books of a Merchant 
+<pb facs="20170615_113944"/>
+
+<p>Art. 5th of the Commercial Committee 
+in verifying the Books of a Merchant, 
 should conceive doubts as to the nature 
-of the givin to natives, it may appoint 
-on of its members to clear up the 
+of the trust given to natives, it may appoint 
+one of its members to clear up the 
 matter. The Commandant Particulier 
-will purside at the debates which may 
-aim from these ingains* and shall decide 
-in the first instance upon the validty of 
-the debt according to the lactude allowed 
-him by the local ordiances or dierus; 
-the night of petition before the beundts 
-of Jr. Louis or Govermaning always 
-open.
+will preside at the debates which may 
+arise from these enquires and shall decide 
+in the first instance upon the reality of 
+the debt, according to the latitude allowed 
+him by the local ordenances or decrees; 
+the right of petition before the tribunals 
+of St. Louis or Goree remaining always 
+open.</p>
 
-Oct 6th At the end of the year the 
+<p>Art. 6th At the end of the year the 
 Commercial Committee meeting in the 
 absence of a Chamber of Commerce shall 
-draw up a repost in duplicate, to be laid 
-before us upon the importance of the 
+draw up a report in duplicate, to be laid 
+before us, upon the importance of the 
 transactions which have been carried 
-on in the waters of the Gaboon.
+on in the waters of the Gaboon.</p>
 
-Oct 7th The Commandant Particulier 
-and the Commandant officiating as 
-Director of the Interior are intrusted 
-each in that which concerns have 
-with the execution of the present decre
+<p>Art 7th The Commandant Particulier 
+and the Ordonnateur officiating as 
+Director of the Interior are intrusted, 
+each in that which concerns him
+
+<pb facs="20170615_113948"/>
+ 
+with the execution of the present decree
 which shall be registered whenever it 
-may be necessary and brought to the knowledge 
-of the merchants and trader,
+may be necessary and brought to the 
+knowledge of the merchant and trader
 and of all the Gaboon chiefs in relation
-with us.
+with us.</p>
 
-Oct.8th The tariff of duties on the 
+<p>Art. 8th The tariff of duties on the 
 entry of merchandise and the shipment 
 of produce, already sent for the 
-association of the Excellency the Minister 
+approbation of His Excellency the Minister 
 of Marine and the Colonies will be 
-notified by as later to the public.
+notified by as later to the public.</p>
 
-Oct 9th All provisions enactments 
+<p>Art 9th All previous enactments 
 contrary to the present decree are and
-shall remain resealed.
+shall remain repealed.</p>
 
-The Rear Admiral Commmander in 
-Chief Commmandant Supenor of th 
-French settlement to the Gold Coast 
-and at Gaboon.
+<p>The Rear Admiral Commander in 
+Chief Commandant Superior of the 
+French settlements on the Gold Coast 
+and at Gaboon.</p>
 
-Signed, V.A. de Jongle 
-
-
-
-<div1 xml:lang="en" type="document">
-
-<pb facs="x"/>
-
-<p></p>
+<p>(signed) Vte A. de Langle</p> 
 
 </div1>
 
