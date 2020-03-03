@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0696">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
 
 <teiHeader>
 <fileDesc>
@@ -9,8 +9,9 @@
 <title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
 </respStmt>
 </titleStmt>
 
@@ -122,30 +123,65 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="20170614_155354"/>
+<pb facs="20170614_155407"/>
 
-<p>Eexcutive Mansion
-The Queen of Madagascar
-Requsts that the good offices
-of the United States may be
-exercised to the end that a 
-speedy mediation + cessation 
-of hostilities between Madagas-
-car and France may result.</p>
+<p>I, Ranavalomanja III. Queen of 
+Madagascar, send these grettings to Our
+Brothe, His Excellency the President of the 
+United States of America.</p>
     
-<p>Letter from the Prime
-Minister of Madagascar and 
-a petition from American 
-citizens residing in the 
-Kingdom to the same effect.
-Respectfully referred to 
-the Secretary of State.
+<p>The wish to prove, how great is the 
+friendship and amity that so happily exists
+between Our Government, ad that of Your
+Excellency in sendinf to Your Excellency
+these presents and good wishes for the 
+prosperity of the American Republic,
+and the happiness of your people. It is
+Our earnest wish to so forward the pro-
+gress and civilization of my people; to 
+so-exhibit to the World my intention to 
+place my Dominions on that fooling pro-
+mised all Nations, whose policy is broad
+and liberal, and to so elevate the character
+of Our country, by a proper observance
+and understanding of these laws which 
+bond and protect the various Powers; that 
+Our voice may be heard in the Councils
+of Christian countires, and respect paid 
+to Our just demands. But we are
+surronded by difficulties, Our steps 
 
-By direction of the President:
-October 1st 1884
+entangled</p>
 
-O.L. Praden
-asst. secretary</p>
+<pb facs="20170614_155425"/>
+    
+<p>untangled by political differences. We do not
+understand and Our people threatened with 
+all the calamites of a foreign war To who 
+can We turn in these Our troubles, but he
+that Great Nation in the West who ever he 
+been Our kind friend, who sets to the World
+so great an example of the success, and
+blessings of free civilization and who, in 
+the rememberance of her own early struggles
+for independence, can, but sympathyize
+with Our Dominions still young in its
+new history. We will understand that 
+the policy of the Republic is neither a
+of ggresion or aggrandizement. We will
+remember that all the intercourse between
+the many American citizens who have
+come to Our Dominions and my Govern
+ment has given us much pleasure and
+caused us no diffculties. We underestimate 
+that the policy of the American Republic 
+os the extension of commerce, the increase
+of learning the fostering of those manu
+factures that are of benefit to man, and
+the upholding of all those just laces
+that protect and make happy her citizens</p>    
+    
+<pb facs="20170614_"   
 
 </div1>
 

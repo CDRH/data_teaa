@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0696">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
 
 <teiHeader>
 <fileDesc>
@@ -9,8 +9,9 @@
 <title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp>
-<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
 </respStmt>
 </titleStmt>
 
@@ -122,30 +123,9 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="20170614_155354"/>
+<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
 
-<p>Eexcutive Mansion
-The Queen of Madagascar
-Requsts that the good offices
-of the United States may be
-exercised to the end that a 
-speedy mediation + cessation 
-of hostilities between Madagas-
-car and France may result.</p>
-    
-<p>Letter from the Prime
-Minister of Madagascar and 
-a petition from American 
-citizens residing in the 
-Kingdom to the same effect.
-Respectfully referred to 
-the Secretary of State.
-
-By direction of the President:
-October 1st 1884
-
-O.L. Praden
-asst. secretary</p>
+<!-- BEGIN TRANSCRIBING -->
 
 </div1>
 

@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">Despatch from Augustus Perrot to William H. Seward, December 1, 1866</title>
+<title level="a">Despatch from Augustus Perrot to William H. Seward, December 1, 1866</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1866-12-1">December 1, 1866</date>
+<date when="1866-12-01">December 1, 1866</date>
 </bibl>
 </sourceDesc>
 
@@ -72,17 +72,25 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Boardman, Henry A.</term>
+<term>Maclauklin</term>
+<term>Nassau, R. N.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Corisco</term>
+<term>Gaboon</term>
+<term>Kamba (Gaboon)</term>
+<term>Princes Island</term>
 </keywords>
     
-
+<keywords scheme="original" n="empires">
+<term>France</term>
+<term>Spain</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Bapuku</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -95,18 +103,16 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Perrot, Augustus</persName>
 <roleName>U.S. Commercial Agent</roleName>
 <placeName>Gaboon</placeName>
-<date when="1866-12-1"/>
+<date when="1866-12-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -114,93 +120,159 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#unm"></change>
+<change when="2020-02-27" who="#kln">reviewed, encoded</change>
+<change when="2019-10" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
-<div1 xml:lang="en" type="document"  
-    
-<pb facs="20170615_113147"    
-    
-Sir,
 
-<p></p>I would most respectfully call
+<div1 xml:lang="en" type="document">  
+    
+<pb facs="20170615_113147"/>    
+
+<note>No 7.</note>
+
+<p>U.S. Commercial Agency<lb/>
+Gaboon Dec 1st 1866</p>
+    
+<p>Sir,</p>
+
+<p>I would most respectfully call
 your attention to the enclosed copy 
-of a letter from the Rev.R.H.Nassan
-American Missionary at Coises.
+of a letter from the Rev. R. H. Nassau
+American Missionary at Corisco.</p>
 
-<p></p>The statements there in an unfortunately 
-but too tone. No less than two 
-weeks ago a ship load of negroes,
+<p>The statements therein are unfortunately 
+but too true. No less than two 
+weeks ago, a sloop load of negroes,
 was smuggled from the neighborhood of 
-Rama (a village some fifty or
+Kama (a village some fifty or
 sixty miles distant) to Princes island,
 and I find on inquiry that similar
-transactions on of monthly, if not 
-of weekly occurence.
+transactions are of monthly, if not 
+of weekly occurrence.</p>
 
-<p></p>I was also informed but yesterday,
+<p>I was also informed but yesterday,
 by Henry A. Boardman, a trader,
 long established at this place, and 
 who has for years supplied the 
-American vessels with barkwood, ivory,
-ebony, + that two of his boats had
+American vessels with bar-wood, ivory,
+ebony, &amp; that two of his boats, had
 been plundered of a valuable cargo,
 while on a trading voyage up the 
 
-come
-<pb facs="20170615_113153"
-<p></p>come, and that on a former occasions
+<pb facs="20170615_113153"/>
+
+<unclear>Como</unclear>, and that on a former occasion
 when he had suffered a considerable 
-loss from the departures of the natives,
+loss from the depredations of the natives,
 that his representations, had 
 not been listened to, by the French 
 authorities to whom he had applied
-for <unclear>
+for redress.</p>
 
 <p>This Sir, and those mentioned by 
-the Rev. R.H.Nassan, on but a fear
+the Rev. R. H. Nassau, on but a few
 of the many instances which have 
-occured when American citizens have 
-either been punished or maltreated 
+<sic>occured</sic> when American citizens have 
+either been <unclear extent="one word"/> or maltreated 
 without the power of obtaining
-vessels.
+redress.</p>
 
 <p>I would also call your attention 
-to my late despatch of the 17th
->unclear> in reference to the diffculties 
-of the American Bante Roebuck in 
+to my late despatch No 6 of the 17th
+ulto, in reference to the difficulties 
+of the American Bark Roebuck in 
 which instance an American man 
 of war would have been most 
 desirable. Independent of these facts,
-
-<p>I believe, and it is the opinion of 
+I believe, and it is the opinion of 
 the missionaries and other American 
 citizens residing on the coast 
 that the presence of an American 
-<pb facs="20170615_113204"
-manifest war would be very 
+
+<pb facs="20170615_113204"/>
+
+man of war would be very 
 desirable that it would be beneficial to 
-then and add to the dignity 
-of the nature. 
+commerce, and add to the dignity 
+of the nation.</p> 
 
-<ab></ab>Treaing that this despatched will
-need with a favorable receptoire
+<p>Trusting that this despatch will
+meet with a favorable reception.</p>
 
-I have the honor to be 
-Very Respectfully 
-your obdient servt
-Augustus Peret 
-U.S. Cont. Agent 
+<p>I have the honor to be<lb/> 
+Very Respectfully<lb/>
+your obdt servt<lb/>
+Augustus Perrot<lb/> 
+U.S. Coml Agent</p>
 
-<div1 xml:lang="en" type="document">
+<fw type="address">To<lb/>
+Hom. Wm H. Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
 
-<pb facs="x"/>
+<pb facs="20170615_113438"/>
 
-<p></p>
+<p>Corisco W. A.<lb/>
+Tuesday Nov 20th 1866.</p>
+
+<p>Dear Sir,</p> 
+
+<p>Permit me to address you as 
+the representative and guardian of 
+American interest on this part of the west 
+coast of Africa; and represent to you the
+great desirability of the presence of an 
+American squadron here. There was a 
+navy here before the war, and it ought 
+to be restored since the Government is 
+now so able and has such an abundance 
+of vessels. If you take testimony 
+from the Gaboon missionaries and 
+traders, they will confirm what I hear
+and believe at Kamba, that all along
+this coast, small vessels still carry on 
+a slave-trade with St Thomas and 
+Princes islands, uncharted by the Spanish 
+or French Governments. The recent 
+robbery in the Muni, the robbery to which 
+I was subjected among the Bapuku the 
+shooting of young Maclauklin at Kamba
+has been unpunished by either English 
+
+<pb facs="20170615_113445"/>
+
+or Spanish or French; and these are not 
+the first acts of the kind that have 
+you unpunished.</p>
+
+<p>The dignity of our Government ought 
+to leave some efficient sign of power. 
+You will excuse the word efficient. You 
+are a sign of our Governments power, 
+but you will acknowledge yourself 
+helpless without a flag or a national 
+ship.</p>
+
+<p>I present these few suggestions with 
+the earnest wish that you will address
+the Department on the subject. It 
+would be a great joy to our eyes if we 
+could monthly see the American flag 
+passing along this coast.</p>
+
+<p>Accept, dear Sir, sentiments of 
+regards and believe me very 
+truly yours,<lb/>
+Signed R. N. Nassau</p>
+
+<fw type="address">A. Perrot Esqr<lb/>
+American Consul<lb/>
+Gaboon</fw>
 
 </div1>
 
