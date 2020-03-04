@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0326">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Albert Bushnell to William M. Evarts, December 6, 1877</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"></name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0326</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"></title>
+<title level="a">Despatch from Albert Bushnell to William M. Evarts, December 6, 1877</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1000"></date>
+<date when="1877-12-06">December 6, 1877</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,14 +71,14 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Boitard, J.</term>
+<term ref="http://viaf.org/viaf/40968033">Schley, Winfield Scott, 1839-1911</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Congo</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
-    
-
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,92 +94,84 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
-<date when="1000"/>
+<persName>Bushnell, Albert</persName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Gaboon</placeName>
+<date when="1877-12-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName ref="http://viaf.org/viaf/20436089">Evarts, William Maxwell, 1818-1901</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1000" who="#INITIALS"></change>
+<change when="2020-03-04" who="#kln">encoded and transcribed</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
+
+<div1 xml:lang="en" type="document">  
     
-Hon. Secretary of State
-Dear Sir,
+<pb facs="20170615_142803"/>   
 
-My duties call me 
-again to Gaboon, Africa the so port sail
-form San Lark are Liverpool, England the 
-last of this month.
-I shall be very sad I receive any 
-special instructions from you addressed
-to 23 Centre JL.N.Y. or I will go to 
-Nashington if necessary.
+<note>No 17</note>
 
-The situation there as of appears 
-me and out fellow missionary seemed
-to warrent French aggression and 
-occasion of territory and I firmly believe 
-that they will not be content without 
-the Congo country is under there authority 
-for we of this t have felt 
-this to myself be most of *unclear*
+<p>United States Commercial<lb/>
+Agency at Gaboon<lb/>
+December 6th 1877</p>
 
-to and to Gaboon one 
-goes his while attention of this 
-and ehite in this emmity have 
-on the land and for sords one 
-I could recommend Africa weeks 
-ago I met a young man when I 
-formerly knew in college a young 
-man of sterling Christian Character 
-and marked ability who a pressed 
-himself as willing to spend a few 
-years there. I  therefore recommend 
-Royal F. King, nephew of Hon. Worm 
-King of Minnesota, either for the 
-petition with which you have honored 
-which I will glady resign a 
-accept the vice commercial agency 
-or to any other position you might 
-see full to appoint him. He has 
-seen some service under the Department 
-of the Indian among the Indians 
-where the temptations + young 
-are similar to them on the coast,
-and I there Lore Commandant his 
+<p>Hon.<lb/>
+William M. Everts<lb/>
+Secretary of State<lb/>
+Washington D.C.</p>
 
+<p>Sir:</p>
 
-    
+<p>I have the honor to inform you that we
+have recently received a visit at this
+part, from the United States Steamer
+Essex, Commander W. S. Schley. she
+remained a week, during which
+time, we enjoyed the pleasant society
+of Commander Schley, and his
+gentlemanly officers, from whom we
+received very kind and courteous
+attentions. Permit me to make
+honorable mention of the French-Commandant
+Capt. J. <unclear>Boitard</unclear>
+who promptly furnished Commander
+Schley with all needfull supplies,
+to enable him to continue his 
+voyage to the Congo and
 
+<pb facs="20170615_142843"/> 
 
+St Paul de Loando. The visit
+of this beautiful ship. with her
+truly <del>and</del> Patriotic gentlemanly
+Commander and officers, will
+promote American interest in this
+part of Africa; and I trust in
+future, we may more frequently
+receive visits from our national
+vessels, than we have done since
+the late war</p>
 
-
-
-
-
-<div1 xml:lang="en" type="document">
-
-<pb facs="x"/>
-
-<p></p>
+<p>I beg to remain<lb/>
+Sir:<lb/>
+Most Respectfully,<lb/>
+Your obedient servant<lb/>
+Albert Bushnell<lb/>
+U.S. Com. Agent</p>
 
 </div1>
 
