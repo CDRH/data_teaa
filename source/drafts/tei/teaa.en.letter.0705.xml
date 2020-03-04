@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0705">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Rainilaiarivony to Chester A. Arthur, August 20, 1885</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0705</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Rainilaiarivony to Chester A. Arthur, August 20, 1885</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="1885-08-20">August 20, 1885</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Rainilaiarivony</persName>
+<roleName>Prime Minister</roleName>
+<placeName>Madagascar</placeName>
+<date when="1885-08-20"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Arthur, Chester A.</persName>
+<roleName>President of the United States</roleName>
+<placeName>Washington, D.C.</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-03-04" who="#unm">transcribed and encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170614_160059"/>
+
+<p>Antananarive
+20 Augusr 1885</p>
+
+<p>Your Excellency
+Giving to the friendly relations
+existing between the two Governments
+I have the honour to forward you 
+herewith, for your Lordships personal
+a copy of the "Red Book" just issued 
+relative to the recent negotations
+between Her Majesty's Government
+and the French Plenipotentiaries
+at Tamatave through the friendly
+mediation of His Nation Majesty's
+Consul W: C Maigrot.</p>
+
+<p>Her Malagasy Majesty's Go-
+vernment, trust, that your Lord-
+ships Government in persisting the 
+said Red Book, will credit them 
+with the good intention as ever
+of bringing about a happy sol-
+tion</p>
+
+<ab>His Excellency
+The United States Secretary for 
+Soverign Affairs</ab>
+    
+<pb facs="20170614_160106"/>
+<p>solution in the present diffi-
+culty.
+May God bless your Exce-
+llency,
+Faith, your friend,
+
+(sig.) Rainilaiarivony
+Prime Minister</p>
+</div1>
+
+</body>
+</text>
+
+</TEI>
