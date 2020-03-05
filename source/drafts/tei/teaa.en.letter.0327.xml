@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Albert Bushnell to William M. Evarts, Janurary 23, 1878</title>
+<title>Despatch from Albert Bushnell to William M. Evarts, January 23, 1878</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Albert Bushnell to William M. Evarts, Janurary 23, 1878</title>
+<title level="a">Despatch from Albert Bushnell to William M. Evarts, January 23, 1878</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1878-01-23">Janurary 23, 1878</date>
+<date when="1878-01-23">January 23, 1878</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,15 +72,27 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>De Heer, C.</term>
+<term>Ibia</term>
+<term>Itongolo</term>
+<term>Murphy</term>
+<term>Nassau, R. H.</term>
+<term>Schorech, Wilhelm</term>
+<term>Truman</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Baraka (Gaboon)</term>
+<term>Corisco</term>
+<term>Gaboon</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>France</term>
+<term>Spain</term>
+<term>United States</term>
 </keywords>
     
-
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,18 +107,16 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Bushnell, Albert</persName>
-<roleName>Commercial Agent</roleName>
+<roleName>U.S. Commercial Agent</roleName>
 <placeName>Gaboon</placeName>
 <date when="1878-01-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Evarts, William M.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/20436089">Evarts, William Maxwell, 1818-1901</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -114,6 +124,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-03-04" who="#kln">reviewed, encoded</change>
 <change when="2019-10" who="#unm">encoded and transcribed</change>
 </revisionDesc>
 </teiHeader>
@@ -121,46 +132,108 @@
 <text>
 
 <body>
-<div1 xml:lang="en" type="document"
-    
-<pb facs="20170615_142950"
-
-Cm. William M. Earnst 
-Secretary of State,
-Washington, 
-D.C.
-
-Sir,
-
-<p></p>I have to transmit here with to the Department 
-copies of the action, recently taken by tht Gaboon, and Corisel
-Mipon, and the Conisee Presb try; relating to a certain 
-William Behored, who has threanted, I understand 
-to complain of my action in his call, He has threatened 
-the French Commandant in a similar manor. 
-
-So he was not an American citizens, I had no occasion 
-to act officially in reference to him; and may acted 
-with my associates, essentially when duty 
-demanded such cooperating. He has left Gaboon 
-+ gone to Corices, a Spanish inbound, but still 
-retains the hallucination that he has right to our 
-property support.
-
-I have the honor to be 
-Sir
-Most Respectfully,
-Your Obedient Servant 
-*unclear*
-
-
-
-
 <div1 xml:lang="en" type="document">
+    
+<pb facs="20170615_142950"/>
 
-<pb facs="x"/>
+<note>No. 20.</note>
 
-<p></p>
+<p>United States Commercial Agency
+at Gaboon.<lb/>
+January 23d 1878.</p>
+
+<p>Hon William M. Evarts<lb/> 
+Secretary of State,<lb/>
+Washington, 
+D.C.</p>
+
+<p>Sir,</p>
+
+<p>I have the honor to transmit herewith to the Department, 
+copies of the action, recently taken by the Gaboon, and Corisco
+Mission, and the Corisco Presbytery; relating to a certain 
+William Schorsch, who has threatened, I understand 
+to complain of my action in his case. He has threatened 
+the French Commandant in a similar manor.</p> 
+
+<p>As he was not an American citizen, I had no occasion 
+to act officially in reference to him; and only acted 
+with my associates, ecclesiastically, when duty 
+demanded such cooperating. He has left Gaboon 
+&amp; gone to Corisco, a Spanish island, but still 
+retains the hallucination, that he has a right to our 
+property support &amp;c.</p>
+
+<p>I have the honor to be<lb/> 
+Sir<lb/>
+Most Respectfully,<lb/>
+Your Obedient Servant,<lb/> 
+Albert Bushnell<lb/>
+United S. Com. Agent</p>
+
+<pb facs="20170615_143038"/>
+
+<note>A Copy</note>
+
+<p>Baraka W. A.<lb/>
+Wednesday January 2nd 1878</p>
+
+<p>This petition respectfully represents that we request your 
+Excellency's interference on our behalf against a certain Wilhelm
+Schorsch, at present living in the Gaboon jurisdictions.
+The said Wilhelm Schorsch, although not a naturalized
+American citizen, was formally an authorised member of our 
+mission under the direction of the Presbyterian Board of 
+Missions in America. But on account of his unquestioned
+insanity, he was recalled by the said Board and 
+dismissed from its service. After partially recovering his 
+health in an Insane Asylum in England, he has,
+on his own responsibility, returned to the Gaboon, against 
+our protest, against the wish of the Board, and without 
+its authority. We see already unmistakable indications 
+of his continued insanity: Wherefore, we pray your 
+immediate interference for our protection and relief.</p>
+
+<p>And your petitioners will ever pray<lb/> 
+R. H. Nassau Che. of Mission,<lb/> 
+A. Bushnell, sec'y &amp; Treasurer<lb/> 
+C De Heer,<lb/>
+Saml H. Murphy.</p>
+
+<p>To the Commandant Superior, Gaboon.</p> 
+
+<pb facs="20170615_143055"/>
+
+<note>(Copy)</note>
+
+<p>Baraka, Gaboon W. A.<lb/>
+Monday January 7, 1878</p>
+
+<p>Whereas: The Rev Wm Schorsch, a member of the Presbytery
+has for two years been absent from our meetings in a deranged
+mental state in Germany, England, and America;</p>
+
+<p>And, Whereas:- He is now in the hands of the civil authorities 
+of Gaboon, unable to meet with us, his violent conduct 
+toward his missionary brethren having compelled civil 
+proceedings against him; And Whereas;- that violent
+conduct,- slanderous language, and abusive manner 
+have become so <sic>scandelous</sic> and immoral in their indirect
+and direct influence on his ministerial character, and so 
+injurious to our mission work as to justify judicial 
+proceedings by this Presbytery, and deposition from his
+ministerial office,- from which proceedings we however
+refrain, on the ground of his deranged mental condition 
+making him not fully responsible,- Therefore, Resolved:-</p>
+
+<p>That the said Mr Schorsch is unfit to exercise any
+ecclesiastical right or function, and that his name be 
+dropped from the roll of this Presbytery unanimously 
+carried by the affirmative votes on roll call of the entire 
+Presbytery. Rev Messrs Bushnell, De Heer, <unclear>Ibia</unclear>, Murphy, 
+Nassau, Elders Truman &amp; <unclear>Itongolo</unclear></p>
+
+<p>(A true copy) R. H. Nassau S. C.</p>
 
 </div1>
 
