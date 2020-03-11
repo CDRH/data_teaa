@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0715">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0735">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton to the Assistant Secretary of State, November 3, 1884</title>
+<title>Despatch from A. C. Eca de Queiroz to the American Consul, September 27, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0715</idno>
+<idno type="project">teaa.en.letter.0735</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Robert S. Newton to the Assistant Secretary of State</title>
+<title level="a">Despatch from A. C. Eca de Queiroz to the American Consul</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1884-11-03">November 3, 1884</date>
+<date when="1884-09-27">September 27, 1884</date>
 </bibl>
 </sourceDesc>
 
@@ -72,14 +72,13 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Fisher, Frank</term>
+<term>de Queiroz, A.C. Eca</term>
+<term>Smith, William</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Banana Landana</term>
-<term>Loango</term>
-<term>St. Paul de Loanda</term>
-<term>Washington, D.C.</term>
+<term>Cabinda</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -98,14 +97,14 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Robert S. Newton</persName>
-<roleName>U.S. Vice Consul</roleName>
+<persName>A. C. Eca de Queiroz</persName>
+<roleName>Secretary to the Governor</roleName>
 <placeName>St. Paul de Loanda</placeName>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName></persName>
-<roleName>Assistant Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<roleName>American Consul</roleName>
+<placeName></placeName>
 </correspAction>
 </correspDesc>
 
@@ -122,31 +121,28 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan40016"/> 
+<pb facs="Scan50000"/> 
 
-<note>Department of State Received Jan 2 1885</note>
+<note>Translation</note>
 
-<p>United States Consulate<lb/>
-St Paul de Loanda<lb/>
-November 11: 1884</p>
+<p>Loanda 27th Septr 1884.</p>
 
-<p>Sir</p>
+<p>To the American Consul</p>
 
-<p>During the last month 
-I have been on a visit along
-the coast in one of the mail
-steamers as far as Mayumba
-and also visited Banana
-Landana and Loango and
-returned here in H.M.S. Flirt
-on the 23rd October, the Captain
-having been kind enough 
-to give me a passage to Loanda.</p>
+<p>His Excellency the Governor
+General requests me to present to your
+Excellency two destitute American seamen
+of the names of Frank Fisher and
+William Smith who belonged to the
+crew of an American Whaler and
+were abandoned by the Captain at
+Cabinda, and brought to this city by
+the Commander of the Gunboat "Vilhena"</p>
 
-<p>As the particulars of my
-trip may be of interest to 
-the Department I beg to submit
-some. At Banana I met <catchwords>Sir</catchwords></p>
+<p>&amp;c &amp;c</p>
+
+<p>Signed A. C. Eca de Queiroz<lb/>
+Secretary to the Governor</p>
 
 </div1>
 
