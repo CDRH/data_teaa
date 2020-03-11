@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0729">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-03-11" who="#unm"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170619132350"/>
+<ab>Residence of Address in America 
+P. Strickland
+Nepunset Avenue
+Davehester district
+Boston
+ms <unclear/>
+
+Residence + Address in Africa
+P. Strickland
+Goree
+Senegal
+West Africa
+</ab>
+    
+<pb facs="20170619_133150"/>
+<p>No.16...US Consular, Goree-Dakar
+October 22nd, 1884
+
+
+Mr. Peter Strickland
+To the Department of State
+
+Subject
+Response to Circular
+dated August 21st 1884, asking 
+for information with a view
+to the <unclear/> of the 
+Consular Service</p>
+
+<pb facs="20170619_133157"/>
+
+<ab>No. 16 U.S Consulate, Goree Dakar
+October 22nd 1884
+
+To the Honorable John Davis
+Assistant Secretary of State
+Washington</ab>
+    
+<p>Sir:
+By last mail I received a
+Circular dated August 21st, 1884
+requesting information with a 
+view to the reargausation of the 
+Consular service, I will then 
+as briefly as may be, and of 
+necessity in round roughly
+estimated numbers, give you 
+as graphic an idea as I can 
+of French Senegal, its commercial
+facilities and its possibilities.</p>
+
+<p>Geographically,
+French Senegal extends from 
+the "Great Desert" to near Sierra
+Leone, embracing a section of
+Coast about six hundred
+miles in length, for the most</p>
+    
+<pb facs="20170619_133204"/>
+
+<p>part extremely fertile, and 
+abounding with navigable
+Rivers which render access
+to the interior comparatively
+cheap and easy. Of these
+the  Sebegal River is navigable
+for 600 miles during half of the 
+year, and is being connected
+with the Niger bby a Railrad
+from Bafavlake to Bammakou
+which will give it the trade
+of the whole upper Niger valley.
+The other Rivers of importance
+are the Salvum, the Casamausa
+the Casaini, the Nuners, the Ponga,
+the Debreeka, and the Mellancee;
+all navigable for distances
+ranging from 10 to 150 miles.--</p>
+
+<p>Sandwhiched between the French 
+sections of Coast are some
+English Settlements confined
+closely to the banks of the Gambia,
+which is a magnificent River
+vavigable for 400 miles, and 
+some Portuguese settlements about</p>
+
+<pb facs="20170619_133211"/>
+
+<p>Bulama, where there are also 
+three fine Rivers each navigable
+far more than a hundred miles.
+The Commerce of both the English 
+and Portuguese possessions is 
+essentially under French control,
+and Goree, Dakar from its central
+position and accessibility to mail
+steamers is the Commercial
+emporium of the whole coast.</p>
+
+<p>Of cities+ towns,
+St. Louis, built in handsome 
+European style on an island in
+the Senegal River, is the capitol,
+with a large commerce, and 
+contains with its <unclear/> about 
+30,000 inhabitants. Goree-Dakar
+with their envisions, including 
+Rufisk in sight on the Game
+Boy, contain fully 25,000
+inhabitants, and there are 
+numerous turns further South
+in French Senegal which 
+contain from one to five
+thousand inhabitants, all</p>
+    
+<pb facs="20170619_133218"/>
+
+<p>doing a thriving trade with 
+Goree, (which is a free port)
+by means of Coaster ranging
+from 10 to 150 tons, many of
+them tindered with Mahogany
+and rarewood which abounds
+at different palces on the Coast.</p>
+
+<p>The magnificent Bay of
+Goree is 20 miles across from
+East to West deep, forming 
+one of the Gafest and most
+Capacious harbors in the world.
+It contains no detached changers
+of consequencce, the navigation
+being clean in all parts at 
+the distance of a mile 
+from the Shore; and in it 
+no lasting gale even blows.
+Of its present commerce +
+have no statistics at hand
+from which to infer the
+amount, but have seen,</p>
+
+<pb facs="20170619_133224"/>
+
+<p>of which there are about 
+always a number in port,
+more than ten thousands tons
+of shipping in the Bay at 
+one time.</p>
+
+<p>A Railroad,
+was begun from taken last
+year, and trains are now 
+ruming over it into the 
+interior upwards of 30 miles,
+and it is designed next
+year to have it extended
+as far as St. Louis, more than 
+a hundred miles. The telegraph
+already connects the two pleaces,
+which is to cummest by
+Cable next year to the 
+Canaries, and from thence
+to Europe.</p>
+    
+<p>The Mails,
+to Europe are carried by
+the Steamers of the <unclear/>
++ Moritive Company, which 
+are from three to four 
+thousands tons each, and</p>
+    
+<pb facs="20170619_133234"/>    
+    
+<p>in going and coming call at
+Goree four times a month.
+In addition to there we have 
+a baot from the English line 
+of steamers once a mouth, and 
+one from a Ramburgh line 
+of steamers once a month,
+besides several belonging
+to merchants vehicle sometimes
+carry the mails best do not
+make their trips regularly.</p>  
+
+<p>Amount of American Trade
+The Amount of American
+Gouds at prevent consumed
+yearly in French Senegal
+Cannal amount to less than 
+one Million dollars in value ,
+but of this only about one 
+fifth part is brought here
+by Americans, who have been
+steadily driven off by competition
+because the conditions of the 
+trade are against them.
+French agents in Boston
+and New York <unclear/> such</p>
+    
+<pb facs="20170619_133240"/>
+
+<p>Gouds only as can be obtained
+an reasonable terms in America,
+and either chip them direct
+mostly in foreign vessels which 
+afterwards load groundnuts
+for Europe or else they ship
+them to Europe by steam
+from whence they are brought
+clown here in vessels which 
+carry on the Trade reguarly.</p>
+
+<p>Owing to this state of affairs,
+which in my opinion might
+easily be prevented, our direct
+commerce is not holding its
+own in this one of the
+fairest prospecture markets
+in the world; there being 
+not less than 3,000,000 of 
+natives here noe fairly under
+French jurisdiction, with 
+wants which American
+Caew supply better than 
+others increasing in almost 
+a <unclear/> rates, and good
+produce to exchange for goods.</p>
+
+
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
