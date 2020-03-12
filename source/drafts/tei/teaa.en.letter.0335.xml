@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Albert Bushnell to William M. Evarts, February 1, 1878</title>
+<title>Despatch from Albert Bushnell to Frederick W. Seward, February 1, 1878</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Albert Bushnell to William M. Evarts, February 1, 1878 </title>
+<title level="a">Despatch from Albert Bushnell to Frederick W. Seward, February 1, 1878</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1878-02-1">February 1, 1878</date>
+<date when="1878-02-01">February 1, 1878</date>
 </bibl>
 </sourceDesc>
 
@@ -72,15 +72,13 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Murphy, S. H.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term/>
 </keywords>
     
-
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,25 +93,24 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Bushnell, Albert</persName>
-<roleName>Commercial Agent</roleName>
+<roleName>U.S. Commercial Agent</roleName>
 <placeName>Gaboon</placeName>
-<date when="1878-02-1"/>
+<date when="1878-02-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Evarts, William M.</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washingotn, D.C.</placeName>
+<persName ref="ttp://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-03-11" who="#kln">reviewed and encoded</change>
 <change when="2019-10" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -121,56 +118,61 @@
 <text>
 
 <body>
-<div1 xml:lang="en" type="document"
 
-<pb facs="20170615_143214"
-Sir,
-
-<p></p>I have the honor to ackknowledge the receipt of your
-Despatch Nov. 11th haveing State, October 28,1878,
-on the 10th of Janurary 1879, about thus month from
-the have it was written. Our mails during the past 
-year, have been irregular with are essential of 
-siz to eight weeks, between them. The last serviced 
-was just two months, Your Loerport to Gaboon. The 
-streamers now having ones government subsidy, call 
-at numerous ports on the Coast often are 
-delayed in Freight. There on a merchant steamers
-which will take these dispatches that make much 
-quicker passages, but it brings no mails.
-
-<p></p>The inequality + detention of our mails is my 
-apology for asking for been of absence so long 
-in advance. I doubt the leave of absence has 
-granted + is intent for Gaboon. I hope 
-all be *unclear* of next extension from Liverport 
-*unclear* here on to the vesself for offering
-*unclear row*
-
-<pb facs="20170615_143233"
-
-<p></p>and all returns till may. Although I have 
-nominated Rev. S. HE. Murphy as vice 
-Commercial Agent, + doubt not his appointment 
-has been made; I do not like to leave my post,
-till I have receieved my leave of absence; +
-shall not, unless the state of my health 
-imperitively demands it my medical 
-advisor- The French Surgeon in Chief of the
-COlony- assured this morning that my 
-departure ought noy be long postponed.
-
-I beg to remain 
-Sir;
-Respectfully,
-Your obident Servant 
-Albert, Bushnell
-United, S. Com. Agent 
 <div1 xml:lang="en" type="document">
 
-<pb facs="x"/>
+<pb facs="20170615_143214"/>
 
-<p></p>
+<note>No 21</note>
+
+<p>United States Commercial Agency at Gaboon,<lb/>
+February 1st 1878.</p>
+
+<p>Hon F W Seward,<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
+
+<p>Sir,</p>
+
+<p>I have the honor to acknowledge the receipt of your
+Dispatch No 11th, leaving date, October 24th 1877,
+on the 18th of January 1878, almost three months from
+the time it was written. Our mails during the past 
+year, have been irregular, with an interval of from 
+six to eight weeks, between them. The last steamer 
+was just two months, from Liverpool, to Gaboon. The 
+steamers, now having no government subsidy, call 
+at numerous ports on the Coast, &amp; often are 
+delayed for freight. There is a merchant steamer,
+which will take these dispatches, that make much 
+quicker passages, but it brings no mails.
+This irregularity &amp; detention of our mails is my 
+apology for asking for leave of <sic>absense</sic>, so long 
+in advance. I doubt not the leave of <sic>absense</sic> has 
+been granted; &amp;is in route for Gaboon; &amp; I hope it 
+will be received by next steamer from Liverpool; 
+which is due here on to the 21 inst. for the following
+steamer will not arrive till about the 10th of April,
+
+<pb facs="20170615_143233"/>
+
+and not return till May. Although I have 
+nominated Rev. S. H. Murphy as vice 
+Commercial Agent, &amp; doubt not his appointment 
+has been made; I do not like to leave my post;
+till I have received my leave of absence; &amp;
+shall not, unless the state of my health 
+<sic>imperitively</sic> demands it. My medical 
+advisor, The French Surgeon in Chief of the
+Colony, assured me this morning that my 
+departure ought not be long postponed.</p>
+
+<p>I beg to remain<lb/> 
+Sir;<lb/>
+Respectfully,<lb/>
+Your Obedient Servant,<lb/> 
+Albert Bushnell<lb/>
+United S. Com. Agent</p>
 
 </div1>
 
