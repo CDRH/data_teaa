@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Albert Bushnell to William M. Evarts, February 9, 1878</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Albert Bushnell to William M. Evarts,. February 4, 1878</title>
+<title level="a">Despatch from Albert Bushnell to William M. Evarts, February 9, 1878</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
-<date when="1878-02-4">February 4, 1878</date>
+<date when="1878-02-09">February 9, 1878</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,15 +72,17 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Gaboon</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>France</term>
 </keywords>
     
-
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,77 +97,93 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Bushnell, Albert</persName>
-<roleName>Commercial Agent</roleName>
+<roleName>U.S. Commercial Agent</roleName>
 <placeName>Gaboon</placeName>
-<date when="1878-02-4"/>
+<date when="1878-02-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Evarts, William M.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/20436089">Evarts, William Maxwell, 1818-1901</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1878-04"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1878-02-4" who="#unm">transcribed and encoded</change>
+<change when="2020-03-11" who="#kln">reviewed and encoded</change>
+<change when="1878-02-04" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
 <text>
 
 <body>
-<div1 xml:lang="en" type="document"
-
-<pb facs="20170615_143425"
-Hon. William M. Evarts
-Secretary of State 
-Washington D.C.
-
-Sir, 
-
-<p></p>I am happy to inform the Department, that I am 
-encouraged to expect an increase of American commerce 
-at this port. Circular has just been received stating that 
-the long established house of Mepers Mansfield + Roberts,
-the state street Boston, purpose to open + extend a permeant 
-business in the coast + that me of then large Barks maybe 
-expected at Gaboon about the 1st of March, write a General 
-cargo". The French Commandant; has just informed me
-of the porbibility, that the Government will soon build a 
-large En-tre-po at Gaboon, for the convenience of commerce;
-which shall vastly increase the business at this port +
-make it a great commercial center, for West Equatorial
-Africa. During my anticipated visit to the United States,
-I hope to interest our Merchants in Africas commerce;
-which visitation civilization is rapidly developing 
-as well as philanthropies in the great work 
-of Africa exploration *unclear 
-*unclear last line*
-<pb facs="20170615_143506"
-<ab></ab>publish at the Bible Mourir in New York; while 
-recruiting my much unfabbled strength 
-
-Sir, 
-Most Respectfully,
-Your obedient Servant;
-Sthert Bushwell
-U.S. Coml Agent 
-
-
-
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="x"/>
+<pb facs="20170615_143308"/>
 
-<p></p>
+<note>No 22.</note>
+
+<note>Department of State Received Apr 1878</note>
+
+<p>United States Commercial Agency at Gaboon.</p>
+
+<p>Mr. Bushnell,<lb/>
+To the Department of State,<lb/>
+Subject.<lb/>
+American Commerce in
+Equatorial Africa.</p>
+
+<pb facs="20170615_143425"/>
+
+<note>No 22</note>
+
+<p>United States Commercial Agency at Gaboon.<lb/>
+February 9th 1878.</p>
+
+<p>Hon. William M. Evarts<lb/>
+Secretary of State.<lb/> 
+Washington D.C.</p>
+
+<p>Sir;</p> 
+
+<p>I am happy to inform the Department, that I am 
+encouraged to expect an increase of American commerce 
+at this port. A circular has just been received, stating that 
+"the long established house of Messrs Mansfield &amp; Roberts,
+127 state street Boston, propose to open &amp; extend a permanent 
+business on the coast; &amp; that one of their large Barks may be 
+expected at Gaboon about the 1st of March, with a general 
+cargo." The French Commandant has just informed me
+of the <sic>probibility</sic>, that the Government will soon build a 
+large En-tre-po at Gaboon, for the convenience of commerce;
+which will vastly increase the business at this port &amp;
+make it a great commercial center, for West Equatorial
+Africa. During my anticipated visit to the United States,
+I hope to interest our Merchants in African commerce;
+which Christian Civilization is rapidly developing 
+as well as philanthropists &amp; christians in the great work 
+of African exploration &amp; christianization. I have a 
+Revised Grammar &amp; Dictionary of the <unclear>Mponguic</unclear> language.
+<unclear>I</unclear> send a translation of more than 20 books of the Bible, to
+
+<pb facs="20170615_143506"/>
+
+publish at the Bible House in New York; while 
+recruiting my much enfeebled strength.</p> 
+
+<p>I have the honor to be,<lb/>
+Sir;<lb/> 
+Most Respectfully,<lb/>
+Your Obedient Servant;<lb/>
+Albert Bushnell<lb/>
+U.S. Coml Agent.</p>
 
 </div1>
 
