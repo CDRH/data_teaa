@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -60,7 +60,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,15 +73,18 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Craven</term>
+<term ref="http://viaf.org/viaf/82967082">Livingstone, David, 1813-1873</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry M. (Henry Morton), 1841-1904</term>
+<term>Strom</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Congo River</term>
+<term>Liverpool (England)</term>
+<term>London (England)</term>
 </keywords>
     
-
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,18 +99,16 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Bushnell, Albert</persName>
-<roleName>Commercial Agent</roleName>
+<roleName>U.S Commercial Agent</roleName>
 <placeName>Gaboon</placeName>
 <date when="1878-02-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Evarts, William M.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/20436089">Evarts, William Maxwell, 1818-1901</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -114,6 +116,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-03-13" who="#kln">reviewed and encoded</change>
 <change when="2019-10" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -126,27 +129,39 @@
 
 <pb facs="20170615_143855"/>
 
-<p>I am happy to inform the Department that another
-interprise has been started for the purpose of establishing 
-the grand discoveries, recently made by one countrys.
-Mr. U. Pearley on the Congo or Livingstons Maples 
-from and Cravensteo bay Missionary gentlemen
-one route go the Congo, have passed a part of two 
-days with me at this Agency. They have been 
-is by philanthropies Merchants in Liverport +
-London; to o*unclear the south bank of the Congo 
-to a point above the first rapids, where they are 
-to establish an industrial Mister Mission 
-These Ministers enterprises avail purpose the way 
-for the attention of commerce of a navigation,
-upon those past interior *unclear* + of the development
-of the valuable natured *unclear* of Ethiopia.
+<note>No 25th</note>
 
-Jremain
-Sir, Respectfully
-Your obident servant
-Albert Bushnell
-U.S. Com.A.
+<p>United States Commercial Agency at Gaboon<lb/>
+February 22nd 1878</p>
+
+<p>Hon William M Evarts,<lb/>
+Secretary of State,<lb/>
+Washington, D.C.</p>
+
+<p>Sir;</p>
+
+<p>I am happy to inform the Department, that another
+enterprise has been started for the purpose of utilizing 
+the grand discoveries, recently made by our countryman,
+Mr. H. M Stanley on the Congo or Livingston Messers 
+Strom and Craven, two lay Missionary gentlemen, 
+one route for the Congo, have passed a part of two 
+days with me at this Agency. They have been sent 
+out by philanthropic Merchants in Liverpool &amp;
+London; to <sic>asscend</sic> the south bank of the Congo 
+to a point above the first rapids, where they are 
+to establish an industrial Christian Mission. 
+These christian enterprises will prepare the way 
+for the <sic>extention</sic> of commerce, &amp; steam navigation 
+upon those vast interior rivers, &amp; the development
+of the valuable material resources of Ethiopia.</p>
+
+<p>I remain,<lb/>
+Sir,<lb/>
+Respectfully,<lb/>
+Your Obedient Servant<lb/>
+Albert Bushnell,<lb/>
+U.S. Com. A.</p>
 
 </div1>
 
