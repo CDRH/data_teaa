@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Graham C. Campbell, August 19,1884</title>
+<title>Despatch from Graham C. Campbell to Frederick T. Frelinghuysen, August 19, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Graham C. Campbell, August 19, 1884</title>
+<title level="a">Despatch from Graham C. Campbell to Frederick T. Frelinghuysen, August 19, 1884</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,15 +72,22 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>King, Royal F.</term>
+<term>King, William</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Duluth (Minn.)</term>
+<term>Gaboon</term>
+<term>Liverpool (England)</term>
+<term>New York (N.Y.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>France</term>
 </keywords>
     
-
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -95,26 +102,25 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Campbell, Graham C.</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Gaboon</placeName>
+<roleName>U.S. Commercial Agent of Gaboon</roleName>
+<placeName>Lake Erie</placeName>
 <date when="1884-08-19"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/58082142">Frelinghuysen, Frederick T. (Frederick Theodore), 1817-1885</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
-<date when="1884-08-21"
+<date when="1884-08-21"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-03-16" who="#kln">reviewed and encoded</change>
 <change when="2019-10" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -122,86 +128,86 @@
 <text>
 
 <body>
-<div1 xml:lang="en" type="document"    
+<div1 xml:lang="en" type="document">   
 
-<pb facs="20170615_145245"
+<pb facs="20170615_145245"/>
 
-Hon. Secretary of State:
+<note>Department of State Received Aug 21 1884</note>
 
-Dear Sir,
+<p>"SS Japan," Lake Erie, Aug 19th 1884</p>
 
-<p></p>My duties call me 
+<p>Hon Secretary of State</p>
+
+<p>Dear Sir</p>
+
+<p>My duties call me 
 again to Gaboon, Africa. We expect to sail
-from New York via Liverport, Eng. the 
-last of this month.
-I shall be very glad to write any 
+from New York via Liverpool, Eng. the 
+last of this month.</p>
+
+<p>I shall be very glad to receive any 
 special instructions from you addressed 
-to 23 Centre SL.N.Y. or I will go to Washington
-if necessary.
+to 23 Centre St N.Y. or I will go to Washington
+if necessary.</p>
 
-<p></p>The situation there as appears to 
-one and our fellow missionaries seem 
+<p>The situation there as it appears to 
+me and our fellow missionaries seems 
 to warrant French aggression and accession 
-of territory and I firmly believe 
-that they will not use content until 
+of territory; and I firmly believe 
+that they will not rest content until 
 the Congo country is under their control.
-In where of this I have felt
-that it myself be will for our government
+In <unclear extent="one word"/> of this I have felt
+that it might be will for our government
 
-<pb sacs="20170615_145258"
+<pb facs="20170615_145258"/>
 
-to send to Gaboon someone who might 
+to send to Gaboon some one who might 
 give his whole attention to this matter
-and while in this country have been 
-on the look out for some one who
-I could recommend. <p></p>A few weeks 
+and, while in this country, have been 
+on the look out for some one whom
+I could recommend. A few weeks 
 ago I met a young man, whom I 
 formerly knew in college, a young 
-man of plishing christian charade
-and mankind ability, who expressed 
+man of sterling christian character
+and marked ability, who expressed 
 himself of willing to spend a few 
 years there. I therefore recommend 
-Royal F. King, nephew of Hon. William
+Royal F. King, nephew of Hon. Wm
 King of Minnesota, either for the 
-position with which you have honor 
+position with which you have <unclear>honored</unclear> 
 me, which I will gladly resign and 
 accept the Vice Commercial Agency 
-or to any position you might sufice
-to appoint him. He has seem
+or to any position you might 
+see fit to appoint him. He has seen
 some service, under the Department 
 of the Interior, among the Indians
-where the temptations +young male 
+where the temptations to young men 
 are similar to those on the coast 
 and I therefore recommend him
 
-<pb facs="20170615_145449"
-as a tried and bare" can this 
-address is Dubith Minnesota and 
+<pb facs="20170615_145449"/>
+
+as a tried and true man. His 
+address is Duluth, Minnesota, and 
 if he should receive an appointment 
 he could be ready to start for Africa 
-within three months.
+within three months.</p>
 
-<ab></ab>I have the honor to remain 
-Your obedient Servant 
-Graham C. Campbell
-U.S. Commercial Agent 
-of Gaboon West Africa.
+<p>I have the honor to remain<lb/> 
+Your obedient Servant<lb/> 
+Graham C. Campbell<lb/>
+U.S. Commercial Agent<lb/> 
+of Gaboon West Africa.</p>
 
-P.S. There are needed of the Agency nearly 
+<p>P.S. There are needed of the Agency, nearly 
 all the blank forms necessary in making 
-our a ships papers a common 
-of Stationary and two flags one,
-about a 12th flag for the flag pole 
+our a "ships papers" a common 
+of Stationary, and two flags - one,
+about a 12 ft. flag, for the flag pole, 
 and a small one for the boat 
-about 4th  on length.
+about 2 ft in length</p>
 
-Graham C. Campbell
-
-<div1 xml:lang="en" type="document">
-
-<pb facs="x"/>
-
-<p></p>
+<p>Graham C. Campbell</p>
 
 </div1>
 

@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -72,14 +72,15 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Bushnell</term><!-- Mrs. -->
+<term>Murphy, S. H.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Gaboon</term>
+<term>Liverpool (England)</term>
+<term>New York (N.Y.)</term>
 </keywords>
-    
-
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,18 +96,16 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Bushnell, Albert</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Gaboon</placeName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Nassau, New York</placeName>
 <date when="1879-09-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Evarts, William M.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/20436089">Evarts, William Maxwell, 1818-1901</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -114,6 +113,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-03-16" who="#kln">reviewed and encoded</change>
 <change when="2019-10" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -121,73 +121,71 @@
 <text>
 
 <body>
-<div1 xml:lang="en" type="document"
+<div1 xml:lang="en" type="document">
 
-<pb facs="20170615_144312"
-Sir,
+<pb facs="20170615_144312"/>
 
-<p></p>As the period for which I have 
-remained leave of *unclear from the 
-*unclear* Commercial Agency at Gaboon 
+<p>Nassau, Rens. Co. N.Y.<lb/>
+September 20th 1879</p>
+
+<p>Hon William M. Evarts<lb/>
+Secretary of State<lb/>
+Washington, D.C.</p>
+
+<p>Sir,</p>
+
+<p>As the period, for which I have 
+remained leave of absence, from the 
+U.S. Commercial Agency at Gaboon 
 Equatorial West Africa, will soon
-expire; I hasten to inform the Bureau 
-Department that i have been seriously
-ill during the last few make.
-
-I am noe convaleseent, and expect 
-to go to New York in a day or two, 
-for business adivice of the report
-is favorable Mr. Bushwell and myself 
-piur[ose sailing October eleventh 
-for Liverport one route for 
-Gaboon, I will inform you of 
+expire; I hasten to inform the Department, 
+that I have been seriously
+ill during the last few weeks
+I am now convalescent, and expect 
+to go to New York, in a day or two, 
+for medical advice. If the report
+is favorable Mrs Bushnell and myself 
+purpose sailing October eleventh 
+for Liverpool, <sic>ene</sic> route for 
+Gaboon. I will inform you of 
 our final decision at the earliest 
-day practicable.
+day practicable.</p>
 
-<p></p>I have recently received a despatch 
-from Ban. U.T Murphy, who was life 
-of verge of the Commercial Agency 
-informing one that *unclear after 
-departure he has been denied.
-<pb facs="20170615_144316"
+<p>I have recently received a despatch 
+from Rev S. H. Murphy, who was left 
+in charge of the Commercial Agency 
+informing me that soon after 
+my departure, he had been <sic>denyed</sic>
+
+<pb facs="20170615_144316"/>
     
 the privilege of flying the flag,
 because the Government at Paris,
 had not been officially informed 
-of the reestablishment of 
+of the re establishment of 
 the Commercial Agency, after 
-its temporary discontinance.
-I return as Commercial 
+its temporary discontinuance.
+If I return as Commercial 
 Agent, or as Consul; it will
 be necessary for the Government 
 at Paris, to be officially informed 
-of the fact, and an Exequitable solicited.
+of the fact, and an Exequater 
+be solicited.</p>
 
-<p></p>Permit me to add, new forms 
+<p>Permit me to add, new forms 
 will be needed, and also flags.
 As soon as the question of my 
-returning in October is decided 
+returning in October is decided, 
 I shall have the honor of 
 making definite requests to 
-the Department. 
+the Department.</p> 
 
-I have the honor to be, 
-Sir;
-
-Most Respectfully,
-Your obedient Servant 
-Albert, Bushwell
-U.S. Coml. Agent. 
-
-
-
-
-
-<div1 xml:lang="en" type="document">
-
-<pb facs="x"/>
-
-<p></p>
+<p>I have the honor to be,<lb/> 
+Sir:<lb/>
+Most Respectfully,<lb/>
+Your Obedient Servant,<lb/> 
+Albert Bushnell<lb/>
+U.S. Com'l Agent.</p> 
 
 </div1>
 
