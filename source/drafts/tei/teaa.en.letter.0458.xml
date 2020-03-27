@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from R. Dorsey Mohew to W.F. Wharton, March 29, 1892</title>
+<title>Despatch from R. Dorsey Mohun to William F. Wharton, March 29, 1892</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from R.Dorsey Mohew to W.F. Wharton, March 29, 1892</title>
+<title level="a">Despatch from R. Dorsey Mohun to William F. Wharton, March 29, 1892</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
-<date when="1892-03-29">March 3, 1892</date>
+<date when="1892-03-29">March 29, 1892</date>
 </bibl>
 </sourceDesc>
 
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,15 +70,25 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Grelle-Rogier, Edouard de</term>
+<term ref="http://viaf.org/viaf/264072032">Leopold II, King of the Belgians, 1835-1909</term>
+<term>Roosevelt, George W.</term>
+<term>Taunt, Emory H.</term>
+<term>Terrell, Edwin H.</term>
+<term>Van Eetvelde, Edmund</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Boma (Congo)</term>
+<term>Brussels (Belgium)</term>
+<term>Congo Free State</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>Belgium</term>
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,18 +104,16 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Mohew, R. Dorsey</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Congo</placeName>
+<persName>Mohun, R. Dorsey</persName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Boma, Congo Free State</placeName>
 <date when="1892-03-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Wharton, W.F.</persName>
-<roleName>Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1892-04-16"/>
 </correspAction>
@@ -113,6 +122,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-03-27" who="#kln">reviewed, encoded</change>
 <change when="2020-01-22" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,116 +134,129 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="20170614_140921"/>
-<ab>United States Commercial Agency
-Boma, Congo Free State
-(Now at Brussels)
-March 29th 1892
 
-Mr. R.D. Mohew
-To Department of State
+<note>No. 7</note>
+<note>Department of State Received Apr 16 1892</note>
 
-Subject:
-Arrival in Brussels visit to offices
+<p>United States Commercial Agency<lb/>
+Boma, Congo Free State<lb/>
+(Now at Brussels)<lb/>
+March 29th 1892</p>
+
+<p>Mr R. D. Mohun<lb/>
+To Department of State</p>
+
+<p>Subject:</p>
+
+<p>Arrival in Brussels, visit to offices
 of the Congo State, and audience
-with the King of Belgium
+with the King of Belgium</p>
 
-Abstract of Contents
-Arrival in Brussels March 22, 1892
-Visited Congo State Offices March 20th
-Recieved by the King March 26th.</ab>
+<p>Abstract of Contents</p>
+
+<p>Arrival in Brussels March 22, 1892.
+Visited Congo State Officers Mch 23rd
+Received by the King Mch 26th.</p>
     
 <pb facs="20170614_140949"/>
-<p>Honorable William F. Wharton
-Assistant Secretary of State
-Washington, D.C.
 
-Sir,
-I have the honor to report any arrival
+<note>No 7</note>
+
+<p>United States Commercial Agency<lb/>
+Boma Congo Free State<lb/>
+(now at Brussels)<lb/>
+March 29, 1892.</p>
+
+<p>Honorable William F. Wharton<lb/>
+Assistant Secretary of State<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to report my arrival
 at this place March 22 at 6:30
 p.m.</p>
     
-<p>The next morning I called upon thr 
+<p>The next morning I called upon the 
 Hon. Edwin H. Terrell the United States
-Minister and also upon M. George
-W. Roosevelt United States Consul.</p>
-    
-<p>In the afternoon I called upon M.
-Edward Van Eslvelde the Secretary
+Minister and also upon Mr. George
+W. Roosevelt United States Consul.
+In the afternoon I called upon Mr.
+Edmund Van Eetvelde, the Secretary
 of the Interior of the Congo State
 and also upon the Count de
-Grelle. Roqier, Secretary of State
+Grelle-Roqier, Secretary of State
 for Foreign Affairs of the Congo
-and by back of these gentlemen
-I was recieved in a must cordiel
-
-manner</p>
+and by both of these gentlemen
+I was received in a must cordial
+<catchwords>manner</catchwords>
     
 <pb facs="20170614_141007"/>
-<p>manner.
 
-They expressed themselves as 
-being qualified at the United States
-filing the vacancy caused by
-M.Taunts death, and offered
+manner.</p>
+
+<p>They expressed themselves as 
+being gratified at the United States
+filling the vacancy caused by
+Mr. Taunt's death, and offered
 me every facility for acquiring
-information back here and in 
+information both here and in 
 the Free State.</p>
     
-<p>M. Van Eslvelde has received
+<p>Mr. Van Eetvelde has received
 orders for me to have any
-vacant quarters in the Govern-
-ment houses and also that
-I be taken into one of the vessels
+vacant quarters in the Government 
+houses, and also that
+I be taken into one of the messes
 at Boma, until I can get my
 own house and that the 
-State Doelors attend me in case
+State Doctors attend me in case
 of sickness.</p>
     
-<p>The next day I recieved a 
+<p>The next day I received a 
 notification from the Count de
-Grelle. Roger that His Majesty
+Grelle-Roqier that His Majesty
 the King requested one to come to 
 the Royal Palace at Brussels
 Saturday afternoon at half 
 after three.</p>
     
 <p>I presented myself at the 
-
-Palace</p>
+<catchwords>Palace</catchwords>
     
 <pb facs="20170614_141023"/>
-<p>Palace
+
+Palace
 at the appointed time and was
-must cordially recieved by His
-Majesty who office making com-
-pliementary remarks regarding the 
+most cordially received by His
+Majesty who after making complimentary 
+remarks regarding the 
 United States (to which I replied
-in a suitable manner I said he 
+in a suitable manner) said he 
 was pleased to see that a 
 Bill had been introduced into 
 the Senate making provision for 
 a Consul General and Vice
 Consul in the Congo. He asked
-me if + thought it would 
+me if I thought it would 
 become a law to which I 
-replied that it was impos-
-sible to say.</p>
+replied that it was impossible 
+to say.</p>
     
 <p>He said every facility would 
-be given me owed he hoped
+be given me and he hoped
 that my visit to the state
 would be productive of 
-good results to its com-
-merce.</p>
+good results to its commerce.</p>
     
 <p>The audience lasted nearly
-an hour and in that timee
+an hour and in that time
 I became thoroughly impressed
-
-by</p>
+<catchwords>by</catchwords>
     
 <pb facs="20170614_141036"/>
-<p>by 
+
+by 
 the fact that His Majesty was
 perfectly familiar with every
 detail of the workings of the 
@@ -241,14 +264,13 @@ Government of the Congo State.
 It is stated here in Brussels
 that no move is ever taken
 without his knowledge and 
-consent.
+consent.</p>
 
-I am Sir,
-Very Respectfully
-Your obident Servant
-R.Dorsey Mohew
+<p>I am Sir,<lb/>
+Very respectfully<lb/>
+Your obedient Servant<lb/>
+R. Dorsey Mohun<lb/>
 Commercial Agent</p>
-<!-- BEGIN TRANSCRIBING -->
 
 </div1>
 
