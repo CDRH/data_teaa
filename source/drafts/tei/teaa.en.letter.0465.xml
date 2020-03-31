@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0465">
 
 <teiHeader>
 <fileDesc>
@@ -11,7 +11,6 @@
 <respStmt>
 <resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
 <name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
 </respStmt>
 </titleStmt>
 
@@ -33,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<idno type="project">teaa.en.letter.0465</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -70,15 +69,17 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term/>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,8 +94,6 @@
 </keywords>
 
 </textClass>
-
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
 
 <correspDesc>
 <correspAction type="sentBy">
@@ -121,11 +120,33 @@
 
 <body>
 
+<div1 type="document" xml:lang="fr">
+
+<pb facs="20170614_142637"/>
+
+
+
+<pb facs="20170614_142657"/>
+
+
+
+<pb facs="20170614_142724"/>
+
+
+
+</div1>
+
 <div1 type="document" xml:lang="en">
 
-<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
+<pb facs="20170614_142637"/>
 
-<!-- BEGIN TRANSCRIBING -->
+
+<pb facs="20170614_142657"/>
+
+
+<pb facs="20170614_142724"/>
+
+
 
 </div1>
 

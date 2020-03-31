@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from R. Dorsey Mohew to W.F. Wharton, October 5, 1892</title>
+<title>Despatch from R. Dorsey Mohun to William F. Wharton, October 5, 1892</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from R. Dorsey Mohew to W.F. Wharton, October 5, 1892</title>
+<title level="a">Despatch from R. Dorsey Mohun to William F. Wharton, October 5, 1892</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
@@ -69,18 +70,26 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Bagamayo (German East Africa)</term>
+<term>Congo Free State</term>
+<term>Congo River</term>
+<term>Kassai River</term>
+<term>Katanga Country (Congo)</term>
+<term>Lake Tanganyika</term>
+<term>Luluabourg (Congo)</term>
+<term>Matadi (Congo)</term>
+<term>Stanley Pool</term>
+<term>Ubangi River</term>
+<term>Zanzibar</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Arab</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -93,17 +102,15 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Mohew, R. Dorsey</persName>
-<roleName>Commercial Agency</roleName>
-<placeName>Congo</placeName>
+<persName>Mohun, R. Dorsey</persName>
+<roleName>U.S. Commercial Agency</roleName>
+<placeName>Stanley Pool, Congo Free State</placeName>
 <date when="1892-10-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Wharton, W.F.</persName>
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
 <roleName>Assistant of Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
@@ -112,6 +119,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-03-31" who="#kln">reviewed, encoded</change>
 <change when="2020-01-24" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -123,63 +131,68 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="20170614_143333"/>
-<ab>Commerical Agency of the United States,
-Congo Free State, Kuchasa Stanley Pool
-Oct 5th-1892.
 
-Honorable William F. Wharton
-Assistant Secretary of State
-Washington, D.C.</ab>
+<note>No 14.</note>
 
-<p>Sir:
-I have the honor to inform you 
+<p>Commercial Agency of the United States,<lb/>
+Kongo Free State, ‎Kinshassa, Stanley Pool<lb/>
+Oct 5th 189<unclear>2</unclear></p>
+
+<p>Honorable William F. Wharton<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to inform you 
 that I have arrived at Stanley
-Pool on my way to the inferior
-of the Congo Free State, having
-left Malaiti August 29th with 
+Pool on my way to the interior
+of the Kongo Free State, having
+left Matadi August 29th with 
 a caravan of one hundred and 
 four men.</p>
 
-<p>I shall have this place Oct. 13th
+<p>I shall leave this place Oct 13th
 for Loulouabourg on the Kassai
 River distant eight hundred and 
 seventy five miles, and shall be 
 back at the Pool probably 
 next June. I shall next visit the 
-Oubanghi River and hope to ar-
-rive at Stanley Falls I shall
-go to the Estein Boundary of this</p>
+Oubanghi River, and hope to arrive 
+at Stanley Falls this time
+next year. From the Falls I shall
+go to the Eastern Boundary of this
 
-<pb facs="20170614_143345"></pb>
-<p>this state which is Lake Janpanyka
-upon arrived at Janpanyka I shall
-devote several months to the Kalangn 
-country and if I find communication
+<pb facs="20170614_143345"/>
+
+this state which is Lake Tanganyika
+upon arrived at Tanganyika I shall
+devote several months to the Katanga 
+Country, and if I find communication
 with the Kongo River cut off
-shall go with an arat caravan to 
-Bagamayo on the East Coast ap-
-points Zanzibar, as the most 
-expeditions, and safest route
+shall go with an Arab caravan to 
+Bagamayo on the East Coast <unclear extent="one word"/> 
+Zanzibar, as the most 
+expeditious, and safest route
 out.</p>
     
 <p>As far as possible I shall keep 
 the Department informed of my 
-moments, but as mail communi-
-cation in the interior is not good
-long lapeses must occur in any
+moments, but as mail communication 
+in the interior is not good
+long lapses must occur in my
 correspondence.</p>
     
-<p>My report on the Lower and 
+<p>My Report on the Lower and 
 Upper Kongo will be submitted
-upon completition of the work as 
-signed me.
+upon completion of the work 
+assigned me.</p>
 
-I am Sir 
-Respectfully
-R. Dorsey Mohew
-Commercial Agent
+<p>I am, Sir,<lb/> 
+Respectfully<lb/>
+R. Dorsey Mohun<lb/>
+Commercial Agent<lb/>
 Kongo Free State</p>
-<!-- BEGIN TRANSCRIBING -->
 
 </div1>
 

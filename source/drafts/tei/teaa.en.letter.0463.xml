@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from W.F.Wharton to Emory H. Taunt, August 15, 1889</title>
+<title>Despatch from William F. Wharton to Emory H. Taunt, August 15, 1889</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from W.F.Wharton to Emory H. Taunt, August 15, 1889</title>
+<title level="a">Despatch from William F. Wharton to Emory H. Taunt, August 15, 1889</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,22 +70,25 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Congo River</term>
+<term>Culpeper (Va.)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empire">
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
+<term>Faith Cure</term>
 </keywords>
 
 <keywords scheme="original" n="language">
@@ -93,25 +97,24 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Wharton, W.F.</persName>
-<roleName>Acting Secretary</roleName>
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
+<roleName>Acting U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1889-08-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Taunt, Emory H.</persName>
-<roleName>Commerical Agent</roleName>
-<placeName>Congo</placeName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-03-31" who="#kln">reviewed, encoded</change>
 <change when="2020-01-24" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -123,39 +126,41 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="20170614_141611"/>
-<ab>Department of State,
-Washington, August 15, 1889
 
-Emory H. Taunt Esquire
-Commerical Agent of the United States
-Boma.
-(Now in Washington)
-</ab>
+<note>No. 6</note>
+
+<p>Department of State,<lb/>
+Washington, August 15, 1889.</p>
+
+<p>Emory H. Taunt, Esquire,<lb/>
+Commercial Agent of the United States,
+Boma.<lb/>
+(now in Washington.)</p>
     
-<p>Sir:
-I have to acknowledge the
-receipt of your dispatch No. 12
-dated at Culpeper, Virgina, on the 
+<p>Sir:</p>
+
+<p>I have to acknowledge the
+receipt of your dispatch No. 12,
+dated at Culpeper, Virginia, on the 
 5th instant, in relation to the relief
 of certain citizens of the United States
 now on the Congo River, belonging
-to a "faith cure seet", and to say 
+to a "faith cure sect," and to say 
 that there is no appropriation from 
 which the passage home of these
-people could be paid destitute
+people could be paid, destitute
 seamen being the only class of
-
-American</p>
+<catchwords>American</catchwords>
    
-<pb facs="20170614_141626"></pb>
-<p>American citizens entitled by law
-to such air.
+<pb facs="20170614_141626"/>
 
-I am, Sir,
-Your obident servant
-William F. Wharton
-Acting Secretary</p>
-<!-- BEGIN TRANSCRIBING -->
+American citizens entitled by law
+to such aid.</p>
+
+<p>I am, Sir,<lb/>
+Your obedient servant<lb/>
+William F Wharton<lb/>
+Acting Secretary.</p>
 
 </div1>
 

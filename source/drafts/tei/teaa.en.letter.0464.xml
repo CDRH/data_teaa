@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from W.F. Wharton to Emory H. Taunt, August 30, 1890</title>
+<title>Despatch from William F. Wharton to Emory H. Taunt, August 30, 1890</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from W.F. Wharton to Emory H. Taunt, August 30, 1890</title>
+<title level="a">Despatch from William F. Wharton to Emory H. Taunt, August 30, 1890</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,22 +70,20 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Williams, George W.</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Stanley Pool</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
+<term>American Baptist</term>
 </keywords>
 
 <keywords scheme="original" n="language">
@@ -93,25 +92,24 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Wharton, W.F.</persName>
-<roleName>Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
+<roleName>Acting U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1890-08-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Taunt, Emory H.</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Boma</placeName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Boma, Congo Free State</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-03-31" who="#kln">reviewed, encoded</change>
 <change when="2020-01-22" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -123,41 +121,43 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="20170614_141901"/>
-<ab>Department of State
-Washington, August 30, 18910
 
-Emory H. Taunt, Esquire
+<note>No 10</note>
+
+<p>Department of State,<lb/>
+Washington, August 30, 1890</p>
+
+<p>Emory H. Taunt, Esquire<lb/>
 Commercial Agent of the United
-States, Boma</ab>
+States, Boma</p>
 
-<p>Sir: Mr.George W. Williams in
-a latter addressed to the 
-Departmetn on June 11th
+<p>Sir:</p>
+
+<p>Mr. George W. Williams, in
+a letter addressed to the 
+Department on June 11th,
 from Stanley Pool informs
 the Department that a 
 United States flag is desired
-for the "Henry Reed" a Stea-
-mer belonging to the Amer-
-ican Baptist Missionary
+for the "Henry Reed," a Steamer 
+belonging to the American 
+Baptist Missionary
 Union. If the vessel in
 question is duly registered
-
-at</p>
+<catchwords>at</catchwords>
     
-<pb facs="20170614_141918"></pb>
+<pb facs="20170614_141918"/>
 
-<p>at your Agency as American 
+at your Agency as American 
 owned you can present
 her with the eight foot
-flag which will befor-
-warded to you.
+flag which will be forwarded 
+to you.</p>
 
-I am, Sir,
-your obident Servant,
-
-William F. Wharton 
-Acting Secretary</p>
-<!-- BEGIN TRANSCRIBING -->
+<p>I am, Sir,<lb/>
+your obedient Servant,<lb/>
+William F Wharton<lb/> 
+Acting Secretary.</p>
 
 </div1>
 
