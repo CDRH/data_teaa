@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from R. Dorsey Mohew to W.F. Wharton, Decemeber 23, 1892</title>
+<title>Despatch from R. Dorsey Mohun to William F. Wharton, December 23, 1892</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from R. Dorsey Mohew to W.F. Wharton, Decemeber 23, 1892</title>
+<title level="a">Despatch from R. Dorsey Mohun to William F. Wharton, December 23, 1892</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
@@ -58,7 +59,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Encounters with Natives</term>
+<term>Slavery and Slave Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,18 +71,22 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+<term>Kassai River</term>
+<term>Lake Leopold II</term>
+<term>Lukenie River</term>
+<term>Sankuru River</term>
+<term>Stanley Pool</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Arabs</term>
+<term>Mauyema</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -93,26 +99,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Mohew, R. Dorsey</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Congo</placeName>
+<persName>Mohun, R. Dorsey</persName>
+<roleName>U.S. Commercial Agency</roleName>
+<placeName>Stanley Pool, Congo Free State</placeName>
 <date when="1892-12-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Wharton, W.F.</persName>
-<roleName>Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
+<roleName>Assistant of Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
-<date>1892-06-3</date>
+<date when="1893-03-06"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-01" who="#kln">reviewed, encoded</change>
 <change when="2020-01-27" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,103 +129,115 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="20170614_143355"/>
-<ab>Commercial Agency of the United States,
-Kongo Free State, Stanley Pool, Dec 20, 1892
 
-Mr. R. Dorsey Mohew
-To the Department of State.
+<note>No 15.</note>
 
-Subject:
-Rehuen to Pool from Kassai
-River
+<note>Department of State Received Mar 6 1893</note>
 
-Abstract of Contents.
-Visit to Lake Leopold II + the 
-LouKings River</ab>
+<p>Commercial Agency of the United States,<lb/>
+Kongo Free State, Stanley Pool, Dec. 23, 1892</p>
+
+<p>Mr. R. Dorsey Mohun<lb/>
+To the Department of State.</p>
+
+<p>Subject:</p>
+
+<p>Return to Pool from Kassai
+River.</p>
+
+<p>Abstract of Contents.</p>
+
+<p>Visit to Lake Leopold II &amp;e the 
+Loukenye River.</p>
     
 <pb facs="20170614_143402"/>
-<p>Honorable William F. Wharton
-Assistant Secretary of State
-Washington, D.C.
 
-Sir:
-I have the honor to inform you
+<p>Commercial Agency of the United States,<lb/>
+Stanley Pool, Dec. 23rd 1892</p>
+
+<p>Honorable William F. Wharton<lb/>
+Assistant Secretary of State<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to inform you
 that I have just arrived here
-from the shead workers of the 
-Loukenya River, and shall
+from the <unclear extent="one word"/> <unclear>waters</unclear> of the 
+Loukenye River, and shall
 leave next week for the 
-San Kouran + Kassai Riveer.
-The country any great distances
-back from the river backs it
+Sankourou &amp; Kassai Rivers.
+The country any great distance
+back from the river banks it
 is hardly possible to see on
 account of the hostility of the
-natives, and noe that the Mauyema
-people (commonly called "arabs") have
+natives, and now that the Mauyema
+people (commonly called "Arabs") have
 declared a general war against
 all whites traveling without
-a large escort is most dan-
-gerous.</p>
+a large escort is most dangerous.</p>
 
-<p>To hesitate November 23d 
-I</p>
+<p>To illustrate: November 23d 
+<catchwords>I</catchwords>
     
 <pb facs="20170614_143408"/>
-<p>was some 375 miles up the 
-Loukenya slipping was a village
-called Maiyeaye. I desired to see
-the natives making clock + asked
-permission of the chief to visit
+
+was some 375 miles up the 
+Loukenye slipping was a village
+called <unclear>Maiyeaye</unclear>. I desired to see
+the natives making cloth &amp; asked
+permission of the Chief to visit
 the town, which was readily
-granted. I only looks six men
-with me armed with revolves
-war their whites. When I had
-gather about ten minutes dis-
-tance from the town. I was most-
-foully attackked from the bush 
-with spears + poisoned arrows.
-Fortuantely none of my men were
-struck and before they could 
+granted. I only took six men
+with me armed with revolvers
+under their shirts. When I had
+gotten about six minutes distance 
+from the town, I was most
+foully attacked from the bush 
+with spears &amp; poisoned arrows.
+Fortunately none of my men were
+struck, and before they could 
 throw their arrows again we had
-opened fire + drove the natives
-ahead. We captured the villlage
+opened fire, &amp; drove the natives
+ahead. We captured the village
 and I burned it to the ground 
 to teach them a lesson. The 
-next day the chief sent me some 
-goats + desired to make blood
-brotherhood + declare peace which 
+next day the Chief sent me some 
+goats &amp; desired to make blood
+brotherhood, &amp; declare peace, which 
 I was more than gland to grant
 This is only one of the five
-
-or</p>  
+<catchwords>or</catchwords>
   
 <pb facs="20170614_143416"/>
-<p>or 
+
+or 
 six times I have been compelled to 
 fight during the past few months.
-If my report when sent to the De-
-partment does not seem to com-
-prehend the whole of the Kongo
+If my report, when sent to the Department 
+does not seem to comprehend 
+the whole of the Kongo
 State, it will be because I have
 not enough of a force to penetrate 
-to shore parts.</p>
+to those parts.</p>
     
 <p>The whole Eastern boundary of
 the state is now shut by the 
-Arabs and all the white men who 
+Arabs, and all the white men who 
 were in the different ports have 
 been killed. Their bodies were 
 afterwords eaten by the large
-member of cannibal slaves attached
-to the caravans.
-So far my health has been 
-good.
+number of cannibal slaves attached
+to the caravans.</p>
 
-I am Sir:
-Very respectfully
-Your obident Servant
-R. Dorsey Mohew
+<p>So far my health has been 
+good.</p>
+
+<p>I am sir,<lb/>
+Very respectfully<lb/>
+Your obedient Servant<lb/>
+R. Dorsey Mohun<lb/>
 Commercial Agent</p>
-<!-- BEGIN TRANSCRIBING -->
 
 </div1>
 

@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from R. Dorsey mohew to W.F. Wharton, March 17, 1893</title>
+<title>Despatch from R. Dorsey Mohun to William F. Wharton, March 17, 1893</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from R. Dorsey mohew to W.F. Wharton, March 17, 1893</title>
+<title level="a">Despatch from R. Dorsey Mohun to William F. Wharton, March 17, 1893</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
@@ -58,7 +59,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Encounters with Africans</term>
+<term>Slavery and Slave Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,18 +71,34 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Charltain</term>
+<term>Dhanis</term>
+<term>Hodister, Arthur</term>
+<term>Jacques</term>
+<term>Kongo Lutete</term>
+<term>Munnci Moherra</term>
+<term>Seffon</term>
+<term ref="http://viaf.org/viaf/50024311">Tippu Tip, 1837-1905</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Basoko (Congo)</term>
+<term>Bena-Kamba (Congo)</term>
+<term>Kassongo (Congo)</term>
+<term>Lake Tanganyka</term>
+<term>Lomami River</term>
+<term>Lopori River</term>
+<term>Lukenie River</term>
+<term>Lousambo (Congo)</term>
+<term>Nyangone (Congo)</term>
+<term>Riba Riba (Congo)</term>
+<term>Stanley Pool</term>
+<term>Tshuapa River</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Arabs</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -93,26 +111,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Mohew, R. Dorsey</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Congo</placeName>
+<persName>Mohun, R. Dorsey</persName>
+<roleName>U.S. Commercial Agency</roleName>
+<placeName>Stanley Falls, Congo Free State</placeName>
 <date when="1893-03-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Wharton, W.F.</persName>
-<roleName>Assistant Secretary of State</roleName>
-<placeName>Washington, D.C</placeName>
-<date>1893-06-5</date>
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
+<roleName>Assistant of Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1893-06-05"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-01" who="#kln">reviewed, encoded</change>
 <change when="2020-01-27" who="unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,111 +141,126 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="20170614_143428"/>
-<ab>Commercial Agency
-Stanley Falls. Kongo Free State
-March 17th, 1873
 
-To The Honorable
-Assistant Secretary of State
+<note>Indian Bureau Dept of State Jun 5 93</note>
 
-Mr. R. Dorsey Mohew
+<p>Commercial Agency<lb/>
+Stanley Falls, Kongo Free State<lb/>
+March 17th, 1893</p>
 
-Subject::
-Departure from Stanley Pool and arrival at 
+<p>To The Honorable<lb/>
+Assistant Secretary of State</p>
+
+<p>Mr. R. Dorsey Mohun.</p>
+
+<p>Subject</p>
+
+<p>Departure from Stanley Pool and arrival at 
 Stanley Falls. Movements of State Troops
-against rabs</ab>
+against Arabs.</p>
     
 <pb facs="20170614_143443"/>
-<p>To the Honorable 
-Assistant Secretary of State
-Washington, D.C.
 
-Sir:
-I have the honor to inform you of any de-
-parture from Stanley Pool Febuary 9th
-and arrival at this place March 9th.
-The situation there is extremely interesting 
-as the State has began to war against
-The Arabs who occupy the government ter-
-ritory to the Eastward of the red line marked
-on the enclosed charts.</p>    
-<p>In the South Lieuteniant Dhanis Commisonary 
+<p>Commercial Agency<lb/>
+Stanley Falls, Kongo Free State<lb/>
+March 17th 1893.</p>
+
+<p>To the Honorable<lb/> 
+Assistant Secretary of State<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to inform you of any departure 
+from Stanley Pool February 9th
+and arrival at this place March 9th.</p>
+
+<p>The situation here is extremely interesting 
+as the State has began its war against
+the Arabs who occupy the government territory 
+to the Eastward of the red line marked
+on the enclosed chart.</p>    
+
+<p>In the South Lieutenant Dhanis Commissary 
 of the Kassai District with headquarters at 
-Lousanho Lav with him six thousand men
-eight hundred State soldiers and five thous-
-and natives under the command of Kongo
-Lutete a former slave of Tippo Libs but
-who declared hundred of free and has
+Lousambo has with him six thousand men
+eight hundred State soldiers, and five thousand 
+natives under the command of Kongo
+Lutete, a former slave of Tippo Tibs, but
+who declared himself free, and has
 thrown his whole force in with the
-government. This army is marching to 
-Kassongo and Nyangone possibly to 
-Lake Tanhanyka where they would once
-the hoops of the anti-slave society under
-command of Captain Jacques. mr. Shanice
-met the grabs near Nyangons under com-
-mand of Seffon. (a don of Tippo Tibs)
-and gained a victory killing one thousand
-men and capturing twelve hundred garo.
+Government. This army is marching to 
+Kassongo and Nyangone, possibly to 
+Lake Tanganyka where they would meet
+the troops of the anti-slave society under
+command of Captain Jacques. Mr. Dhanis
+met the Arabs near Nyangone under command 
+of Seffon, (a son of Tippo Tibs)
+and gained a victory killing some thousand
+men, and capturing twelve hundred guns.
 The next day the town was captured and 
-the his/ Manci Moharra + his son 
-killed and seffon badly wounded. He is
-now on his way to Kassongo, after what</p>
+the Chief Munnci Moherra &amp; his son 
+killed and Seffon badly wounded. He is
+now on his way to Kassongo, after which
     
 <pb facs="20170614_143457"/>
-<p>his movements are uncertain. This two
-Arab chiefs killed at Nyangoute were
-the ones who massacered Mr. Hausters
+
+his movements are uncertain. This two
+Arab chiefs killed at Nyangone were
+the ones who massacred Mr. Hodister's
 expedition last year between Bena
 Kamba and Riba Riba. In the month 
-of December. They also killed the two
+of December they also killed the two
 State officers who had been their
-prisoners for nine months in Kassongo.
-An expedition consisting of two large
-river steamers and one thousand one
-leaves Eavoke this month toco-peperto
-with Mr. Dhanis using Bepa Kamba as
-a face of supplies. This force goes down
-the Lomami River, and to under the 
-command of commandante Charltain.
-He has been King enough to ask ome
+prisoners for nine months in Kassongo.</p>
+
+<p>An expedition consisting of two large
+river steamers and one thousand men
+leaves Basoko this month to co-operate
+with Mr. Dhanis using Bena Kamba as
+a base of supplies. This force goes down
+the Lomami River, and is under the 
+command of Commandante Charltain.
+He has been kind enough to ask me
 to accompany him as his guest and
 I have accepted the invitation.</p>
     
 <p>This most aggressive action against 
-the Arabs has been taken in accord-
-ance with chapter I article I para-
-gratho 2. and 6. of the General
-Act of Brussels for the oppression
+the Arabs has been taken in accordance 
+with Chapter I Article I Paragraphs
+2. and 6. of the General
+Act of Brussels for the suppression
 of the slave trade.</p>
     
-<p>The Arabs are gradually forcing them-
-selves to the Westward and are not
-hunting slaves in the Loptori Tschonapa and 
+<p>The Arabs are gradually forcing themselves 
+to the Westward, and are now
+hunting slaves in the Lopori Tschonapa and 
 Loukenye Rivers. The captured negroes
 are used as money to purchase ivory
 and if the ivory is sent to the East
 Coast they are sold to dealers from the 
 North.</p>
   
-<p>It is impossible for one to write lengthy 
-reports on the subject white I am to 
+<p>It is impossible for me to write lengthy 
+reports on the subject while I am so 
 constantly on the move, but I have
 been keeping a journal in which every thing
-of interest I have so far see is noted
+of interest I have so far seen is noted
 and when I finish shall write out a 
-free report and present it to</p>
+full report and present it to the
 
 <pb facs="20170614_143509"/>
-<ab>department in person.
-I am Sir,
-Your obident Servant
-R. Dorsey Mohew
-Commercial Agent
-Kongo Free State</ab>    
+
+Department in person.</p>
+
+<p>I am, Sir,<lb/>
+Your obedient Servant<lb/>
+R. Dorsey Mohun<lb/>
+Commercial Agent<lb/>
+Kongo Free State</p>    
     
-<ab>One (1) Enclosure
-Chart Kongo Free State</ab>
-<!-- BEGIN TRANSCRIBING -->
+<p>One (1) Enclosure<lb/>
+Chart Kongo Free State</p>
 
 </div1>
 

@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -58,7 +59,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Encounters with Africans</term>
+<term>Slavery and Slave Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,18 +71,31 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Chaltin</term>
+<term>Dhanis</term>
+<term>Hodister, Arthur</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Basoko (Congo)</term>
+<term>Bena-Kamba (Congo)</term>
+<term>Chari (Congo)</term>
+<term>Kassongo (Congo)</term>
+<term>Kibongo (Congo)</term>
+<term>Loma (Congo)</term>
+<term>Lomami River</term>
+<term>Loulaba River</term>
+<term>Lusambo (Congo)</term>
+<term>Nyangone (Congo)</term>
+<term>Riba-Riba (Congo)</term>
+<term>Sankuru River</term>
+<term>Stanley Falls</term>
+<term>Yanga (Congo)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Arabs</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -93,25 +108,24 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Mohew, R. Dorsey</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Congo</placeName>
+<persName>Mohun, R. Dorsey</persName>
+<roleName>U.S. Commercial Agency</roleName>
+<placeName>Bena-Kamba, Congo Free State</placeName>
 <date when="1893-04-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Wharton, W.F.</persName>
-<roleName>assistant Secretary of State</roleName>
-<placeName>Washinton, D.C.</placeName>
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
+<roleName>Assistant of Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-01" who="#kln">reviewed, encoded</change>
 <change when="2020-01-27" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -122,111 +136,118 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="20170614_143907"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
-<ab>Commercial Agency
-Kongo Free State 
-Boma-Kampa. Lomani River
-April 17th, 1893
+<pb facs="20170614_143907"/>
 
-To the Honorable
-Assistant Secretary of State
-Washington, D.C.</ab>
+<p>Commercial Agency<lb/>
+Kongo Free State<lb/> 
+Bena-Kamba, Lomami River<lb/>
+April 17th, 1893.</p>
 
-<p>Sir"
-I have the honor to report any ar-
-rival att Boma-Kamba April 10th + that
-on the 14th forming the expedition against
-the Arab Slave dealers. As I resired greatly
+<p>To the Honorable<lb/>
+Assistant Secretary of State<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to report my arrival 
+at Bena-Kamba April 10th &amp; that
+on the 14th joining the Expedition against
+the Arab Slave dealers. As I desired greatly
 to see the part of the Kongo Free State
-reoccupied key the arabs it being con-
-sidered the richest and most purposelly
+occupied by the Arabs, it being considered 
+the richest and most populous
 and as it was impossible to visit this
-section unless with a strong expe-
-dition commandant Chalting invited me to 
-go with with as a quest and as stated
-in any letter of March 17th (no member)
-I accepted upon arrival at Bena-Kamba
-behold one three of his officers Under the
+<sic>this</sic> section unless with a strong expedition, 
+Commandant Chaltin invited me to 
+go with him as a guest, and as stated
+in my letter of March 17th (no number)
+I accepted. Upon arrival at Bena-Kamba
+he told me three of his officers were 
+<sic>obiged</sic> to return to Basoko, sick, one
+with small pox, one with dysentery
+&amp; one with malignant hemateuric fever
+&amp; asked me if, as a favor, I would
+act as one of his officers. Under the 
 peculiar circumstances I accepted the 
-proposition and am commanding hid 
-two Krupp Field csnon and one 
-armed soldiers of course it is 
-quite understood that phase or
-accept any remmaration from the
+proposition, and am commanding his 
+two Krupp Field Cannon and one 
+hundred soldiers. Of course it is 
+quite understood that I shall not 
+accept any remuneration from the
 Kongo Free State.</p>
     
-<p>This Lomani River was opened last 
-year in the month of march by the 
-Dyndicat du Katanga" of Brussels with
-Mr.R.Hodester at its head. They 
-
-established</p>
+<p>This Lomami River was opened last 
+year in the month of March by the 
+"Syndicat du Katanga" of Brussels with
+Mr. A. Hodister at its head. They 
+<catchwords>established</catchwords>
     
 <pb facs="20170614_143918"/>
-<p>established. Trading Stahons, or Facloyo at
-the following profits Yanga. Bena-Kamba
-+ Lomo in the Lomama and at Kibongo
-Riba: Ruba and Nygangous in the High 
-Kongo, or Loulaba River after these places
+
+established. Trading Stations, or Factoryo, at
+the following <unclear extent="one word"/> Yanga, Bena-Kamba
+&amp; Lomo in the Lomami, and at Kibongo
+Riba-Ruba and Nyangone in the High 
+Kongo, or Loulaba River. After these places
 were founded and stocked with goods to 
-the value of over $250,00.00 the Arabs
-attacked them, killing the agents of Loma
-+Riba. Riba + Mr.Hodister with four
-white companing on the was from
-Bema Kemba to Riba Ribe the 
+the value of over $250,000.00 the Arabs
+attacked them, killing the agents at Loma
+&amp; Riba-Riba &amp; Mr. Hodister with four
+white ccompanions on the road from
+Bena Kemba to Riba-Ribe. The 
 other agents at the different factories
 heard this and made their escape to 
-Stanley falls. The State agent at Riba
-Riba was tortured to death. All the 
+Stanley Falls. The State agent at Riba-Riba 
+was tortured to death. All the 
 factories were burned and the cloths,
-beads, money, etc taken.</p> 
+beads, money etc taken.</p> 
     
 <p>This January they have killed the two 
-State Agents ar Kassonho so the govern-
-ment organized me expedition from
-Lusamno in the Lankuru River to pro-
-ceed a gainst Nyangone+Kassongo+
+State Agents at Kassongo, so the Government 
+organized one Expedition from
+Lusambo in the Sankuru River to proceed 
+against Nyangone &amp; Kassongo &amp;
 one to go from Basoko to the Lomami
-+destroy Chari. Beng Kamba + Riba-
-Riba +Kibonge. The situation now
-stands:--</p>
+&amp; destroy Chari, Bena Kamba &amp; Riba-Riba 
+&amp; Kibonge. The situation now
+stands:</p>
  
-<p>Liutenant Dhanis form Lusambo, occupies
-Nyangone + is marching to Kassongo with
-four hundred poldew and on any hundreds
+<p>Lieutenant Dhanis from Lusambo, occupies
+Nyangone &amp; is marching to Kassongo with
+four hundred soldiers and many hundreds
 of natives who have voluntarily joined
-his Captain Chaltier has destroyed
-Chari a town of 1000 houses and a 
+him. Captain Chaltin has destroyed
+Chari, a town of 1000 houses and a 
 population estimated at 15000 persons
 and on the 20th instant starts for
 Riba-Riba with four hundred soldiers
-+expects to be re-enforced by the natives
+&amp; expects to be re-enforced by the natives
 on the road.</p>
     
-<p>In the River Lomani me have been in many 
-villages destroyed nu the Arabs in their slave
+<p>In the River Lomani we have been in many 
+villages destroyed by the Arabs in their slave
+<catchwords>raids</catchwords>
 
-raids</p>
 <pb facs="20170614_143931"/>
-<p>was, and in two places the headless bodies
-men, women, and children were found .
-These people are simply devasting centrak
-Africa, buit I think the energetie measures
-the Government are now taking will put a 
-slop to this refarious half life at least
-for a long time, in the secretary of the 
+
+was, and in two places the headless bodies
+of men, women, and children were found,
+These people are simply <sic>devasting</sic> Central
+Africa, but I think the energetic measures
+the Government are now taking will put
+a stop to this nefarious traffic, at least
+for a long time, in the territory of the 
 state.</p>  
 
-<p>At the present I can only give the present
+<p>At the present I can only give the merest
 survey to this slave business, but in 
 my final report will dwell upon it to
-a greater extent:
+a greater extent.</p>
 
-I am Sir,
-Very respectfully
-R.Dorsey Mohew
+<p>I am, Sir,<lb/>
+Very respectfully<lb/>
+R. Dorsey Mohun<lb/>
 Commercial Agent</p>
-<!-- BEGIN TRANSCRIBING -->
 
 </div1>
 
