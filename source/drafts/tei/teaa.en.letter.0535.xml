@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -46,7 +46,7 @@
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
-<date when="1894-02-28">Feburary 28, 1894</date>
+<date when="1894-02-28">February 28, 1894</date>
 </bibl>
 </sourceDesc>
 
@@ -70,15 +70,23 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term/>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Boma (Congo)</term>
+<term>Basoko (Congo)</term>
+<term>Cape of Good Hope</term>
+<term>Kassongo (Congo)</term>
+<term>Lake Tanganyika</term>
+<term>Lomami River</term>
+<term>Loualaba River</term>
+<term>Mpala (Congo)</term>
+<term>Nyassa (Congo)</term>
+<term>Quelimane (Mozambique)</term>
+<term>Stanley Falls</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -94,25 +102,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Mohew, R. Dorsey</persName>
+<persName>Mohun, R. Dorsey</persName>
 <roleName>Commercial Agent</roleName>
-<placeName>Congo</placeName>
+<placeName>Kassongo, Congo Free State</placeName>
 <date when="1894-02-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Quiney, Josiah</persName>
-<roleName>Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/43424644">Quincy, Josiah, 1859-1919</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1894-06-07"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-15" who="#kln">reviewed, encoded</change>
 <change when="2020-01-27" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -123,23 +131,94 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
-
-<!-- BEGIN TRANSCRIBING -->
 <pb facs="20170614_145153"/>
-<p>Commercial Agency of the United States
-Kongo Free State Kassongo, Febuary 28, 1894
 
-Mr. R. Dorsey Mohew
-To the Department of State
+<note>No.</note>
 
-Subject:
-Movements during past three
-months also those of the failure
+<note>Indian Bureau Dept of State Jun 7 94</note>
 
-Abstract of Contents.
-Arrival at Kassongo
-Departure for Lake Tanganyaka</p>
+<p>Commercial Agency of the United States,<lb/>
+Kongo Free State Kassongo February 28 1894</p>
+
+<p>Mr R. Dorsey Mohun<lb/>
+To the Department of State.</p>
+
+<p>Subject:</p>
+
+<p>Movements during past three
+months, also those of the future</p>
+
+<p>Abstract of Contents.</p>
+
+<p>Arrival at Kassongo<lb/>
+Departure for Lake Tanganyika</p>
+
+<pb facs="20170614_145206"/>
+
+<note>No.</note>
+
+<p>Commercial Agency of the United States,<lb/>
+Kongo Free State Kassongo February 22d 1894</p>
+
+<p>Honorable Josiah Quincy<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to inform the Department 
+of my arrival at this place. February 26th
+from Stanley Falls.</p>
+    
+<p>From Novr 29th, the date of my last
+letter to the Department, I have traveled
+through most of the Mallela country
+lying between the Lomami &amp; the Loualaba, 
+&amp; have been down the Loualaba
+to Stanley Falls &amp; Basoko, returning to
+Kassongo by the same road.</p>
+    
+<p>The Arab was being about <unclear extent="three words"/> 
+having been defeated and 
+driven from the country, I shall have 
+in a few days for the month of 
+the Lukugu, 10 days south of here
+and follow the course of that
+river to the Tanganyika. This will
+<catchwords>occupy</catchwords>
+    
+<pb facs="20170614_145213"/>
+
+occupy
+at least five months. On arrival 
+at Mpala, I shall go to the North
+end of the Lake, &amp; from there to 
+the South and take the <unclear extent="one word"/>
+road to Nyassa, down the Lake 
+to the Shire &amp; on to Quelimene 
+on the East Coast. I hope to
+be on the Coast about September 
+1st &amp; if the Department permits
+will take steamer from there to 
+the Cape of Good Hope &amp; on to 
+Boma to settle my affairs &amp; return
+to America on leave.</p>
+    
+<p>I have a force of sixty soldiers
+with me armed with the Albini
+rifle &amp; some hundred porters. I suppose 
+the total number of people in 
+my caravan may be put down at
+250.</p>
+    
+<p>I am in the best of the health.
+I have had no letters or papers for
+ten months!</p>
+
+<p>Respectfully<lb/>
+R. Dorsey Mohun<lb/>
+U. S. Commercial Agent</p>
+
 </div1>
 
 </body>

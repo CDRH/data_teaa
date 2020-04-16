@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from R. Dorsey Mohew to Josiah Quiney, November 12, 1893</title>
+<title>Despatch from R. Dorsey Mohun to Josiah Quiney, November 12, 1893</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from R. Dorsey Mohew to Josiah Quiney, November 12, 1893</title>
+<title level="a">Despatch from R. Dorsey Mohun to Josiah Quiney, November 12, 1893</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
@@ -69,18 +70,28 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Dhanis</term>
+<term>Ponthier</term>
+<term>Van der Kuckhoven</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Basako (Congo)</term>
+<term>Bomakandi River</term>
+<term>Congo Free State</term>
+<term>Kassongo (Congo)</term>
+<term>Lake Nyassa</term>
+<term>Lake Tanganyika</term>
+<term>Lere (Congo)</term>
+<term>Lusambo (Congo)</term>
+<term>Nyangawé (Congo)</term>
+<term>Ouelle River</term>
+<term>Stanley Falls</term>
 </keywords>
     
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
-
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Arab</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -93,25 +104,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Mohew, R. Dorsey</persName>
+<persName>Mohun, R. Dorsey</persName>
 <roleName>Commercial Agent</roleName>
-<placeName>Congo</placeName>
+<placeName>Lusambo, Congo</placeName>
 <date when="1893-11-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Quiney, Josiah</persName>
-<roleName>Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/43424644">Quincy, Josiah, 1859-1919</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1894-03-26"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-15" who="#kln">reviewed, encoded</change>
 <change when="2020-01-27" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -122,78 +133,93 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
-
-<!-- BEGIN TRANSCRIBING -->
 <pb facs="20170614_145049"/>
-<p>Mr. R. Dorsey Mohew 
-To the Department of State
 
-Subject:
-Departure from Lusanh
-Arab. War.
+<note>Indian Bureau Dept of State Mar 26 94</note>
 
-Abstract of Contents
-Left Lusambo Nov. 13
+<note>No</note>
+
+<p>Commercial Agency of the United States,<lb/>
+Lusambo, Kongo Free State Nov. 12 1893.</p>
+
+<p>Mr. R. Dorsey Mohun<lb/> 
+To the Department of State.</p>
+
+<p>Subject:</p>
+
+<p>Departure from Lusambo<lb/>
+Arab War.</p>
+
+<p>Abstract of Contents</p>
+
+<p>Left Lusambo Nov. 13<lb/>
 Commandant Dhanis last fight
 against the Arabs.</p>
     
 <pb facs="20170614_145059"/>
-<p>Honorable Josiah Quincy
-Assistant Secretary of State
-Washington, D.C.
 
-Sir:
-News of a grape character reached
-here yesterday from Commandante,
+<note>No</note>
+
+<p>Commercial Agency of the United States,<lb/>
+Lusambo, Kongo Free State Nov. 12th 1893.</p>
+
+<p>Honorable Josiah Quincy,<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>News of a grave character reached
+here yesterday from Commandanté,
 Dhanis, who is at Kassongo with 
 the State Troops engaged with
 the assistance of several thousand 
 natives, in suppressing the Arab 
-slaves.</p>
+slavers.</p>
     
 <p>It seems these Arabs have bought
 from a trading house, either on Lake 
 Nyassa or the South Eastern end
 of Lake Tanganyika many rifles
 (repeating) and an enormous amount 
-of ammunition (cartridges, powder, etc..).
+of ammunition (cartridges, powder, etc).
 During the middle of October they 
 arrived near Kassongo, mustering
 it is estimated 10,000 guns. The 
 Commandant attacked their boma,
-
-or</p>
+<catchwords>or</catchwords>
     
 <pb facs="20170614_145107"/>
-<p>or palisaded fort, but wont
-mable to dislodge them. Not
+
+or palisaded fort, but were
+unable to dislodge them. Not
 having enough ammunition he
 has not been able to repeat
 the assault. During the attack 
-Pophaui Pontheir (who dusting wished
+Captain Ponthier (who distinguished
 himself during 1889-90-91-92
-as Van deen Kuck hovens second
-M' the ouelle Bomokandi Rivers.)
+as Van der Kuckhoven's second
+in the Ouelle Bomakandi Rivers)
 was severely wounded in
-back lego and Lieut Lange
-in the foot +28 soldiers killed.
+both legs and Lieut Lange
+in the foot &amp; 28 soldiers killed.
 Commandant Dhanis has asked
 for re-enforcements from Stanley 
-Falls. Basako +Lere. I put 
+Falls, Basako, &amp; Lere. I put 
 what force I had with me, at the 
 disposition of the Government
-and to Mohew morning Nov.
+and to-morrow morning Novr
 13th leave with a caravan
-of 575 persons for Nyangawe
-+ Kassongo, and expect to 
-arrive at the lahter place in
+of 575 persons for Nyangawé
+&amp; Kassongo, and expect to 
+arrive at the latter place in
 20 days, by marching 10 hours 
-a day. 
+a day.</p>
 
-Respectfully
-R. Dorsey Mohew
-Commerical Agent</p>
+<p>Respectfully<lb/>
+R. Dorsey Mohun<lb/>
+Commercial Agent</p>
+
 </div1>
 
 </body>

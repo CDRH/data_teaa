@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dspatch from R. Dorsey Mohew to Josiah Quiney, November 29, 1893</title>
+<title>Despatch from R. Dorsey Mohun to Josiah Quincy, November 29, 1893</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from R. Dorsey Mohew to Josiah Quiney, November 29, 1893</title>
+<title level="a">Despatch from R. Dorsey Mohun to Josiah Quincy, November 29, 1893</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
@@ -69,16 +70,21 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Lutété, Gongo</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Congo Free State</term>
+<term>Kassongo (Congo)</term>
+<term>Lake Tanganyika</term>
+<term>Lomami River</term>
+<term>Lousambo (Congo)</term>
+<term>Nyangwe (Congo)</term>
+<term>North Gandu (Congo)</term>
+<term>Sankuru River</term>
 </keywords>
     
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -93,18 +99,16 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Mohew, R. Dorsey</persName>
+<persName>Mohun, R. Dorsey</persName>
 <roleName>Commercial Agent</roleName>
-<placeName>Congo</placeName>
+<placeName>Gandu, Congo Free State</placeName>
 <date when="1893-11-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Quiney, Josiah</persName>
-<roleName>Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/43424644">Quincy, Josiah, 1859-1919</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,6 +116,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-15" who="#kln">reviewed, encoded</change>
 <change when="2020-01-27" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -122,38 +127,79 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="x"/><!-- REPLACE x WITH THE NAME OF THE IMAGE -->
-
-<!-- BEGIN TRANSCRIBING -->
 <pb facs="20170614_145117"/>
-<p>Commercial Agency of the United States
-Ghandi Lomain River Kongo Free State
-Nov. 29th 1893
 
-Mr. R. Dorsey Mohew 
-To the Department of State
+<note>3rd Assistant Secretary<lb/>
+Mar 29 1894</note>
 
+<note>No.</note>
 
-Subject: 
-Arrival at N. Ghandi
+<p>Commercial Agency of the United States,<lb/>
+Gandu, Lomami River Kongo Free State<lb/>
+Nov. 29th 1893</p>
 
-Abstract of Contents
-Arrival at Niyanku 
-Least of Kongo Luthete
+<p>Mr R. Dorsey Mohun<lb/> 
+To the Department of State.</p>
+
+<p>Subject:</p> 
+
+<p>Arrival at N: Gandu.</p>
+
+<p>Abstract of Contents.</p>
+
+<p>Arrival at N: Gandu<lb/> 
+Death of Gongo Lutété<lb/>
 Movements from here</p>
+
+<pb facs="20170614_145144"/>
+
+<note>No.</note>
+
+<p>Commercial Agency of the United States,<lb/>
+N. Gandu, Lomami River, Kongo Free State<lb/>
+Lat. 4° 49" S. Long. 25° 1' 30' E<lb/>
+Nov. 29, 1893</p>
+
+<p>Honorable Josiah Quincy<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to announce 
+my arrival at this place,
+November 26th, after fourteen
+days march from Lousambo,
+in the Sankuru River.</p>
+    
+<p>Gongo Lutété (mentioned in my 
+despatch of June 21st) chief 
+of the Arab post here was 
+tried for treason during 
+the month of September, found 
+guilty and shot.</p>
+    
+<p>I leave tomorrow morning 
+Nov. 30th for Nyangwe &amp; Kassongo 
+&amp; Lake Tanganyika with a caravan 
+of 750 people, &amp; 150 of whom 
+are soldiers armed with Albini 
+Rifles, the next are carrying 
     
 <pb facs="20170614_145125"/>
-<p>loads of miscellanous articles
-such as Arms ammunition cloth
-provisions + and hope to 
-reach Kassaongo in eleven
-days, by making forced
-marches.
 
-I am Sir,
-Respectfully
-R. Dorsey Mohew
+loads of miscellaneous articles
+such as arms ammunition cloth
+provisions &amp;c, and hope to 
+reach Kassongo in eleven
+days, by making forced
+marches.</p>
+
+<p>I am Sir,<lb/>
+Respectfully<lb/>
+R. Dorsey Mohun<lb/>
 Commercial Agent</p>
+
 </div1>
 
 </body>
