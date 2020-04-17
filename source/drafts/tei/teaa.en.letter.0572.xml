@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Daniel R.B. Upton to Lewis Cap, September 6, 1858</title>
+<title>Despatch from Daniel R. B. Upton to Lewis Cass, September 6, 1858</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,10 +42,11 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">Despatch from Daniel R.B. Upton to Lewis Cap, September 6, 1858</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Daniel R. B. Upton to Lewis Cass, September 6, 1858</title>
+<title level="m" type="microformat">Despatches from U.S. Consuls in Bathurst, Gambia 1857-1889</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="microfilm">T365</biblScope>
+<biblScope unit="roll">1</biblScope>
 <date when="1858-09-06">September 6, 1858</date>
 </bibl>
 </sourceDesc>
@@ -58,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,15 +71,21 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>Upton, Benjamin</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Bathurst (Gambia)</term>
+<term>Gambia River</term>
+<term>Pará (Brazil)</term>
+<term>Rosaire (Argentina)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empire">
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,25 +101,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Upton, Daniel R.B.</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Gambia</placeName>
+<persName>Upton, Daniel R. B.</persName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>New York, New York</placeName>
 <date when="1858-09-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Cap, Lewis</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1858-09-11"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-16" who="#kln">reviewed, encoded</change>
 <change when="2020-01-29" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,77 +132,84 @@
 
 <pb facs="20170615_161910"/>
 
-<p>Gamery Park House
+<note>Rec 11 Sept</note>
+<note>Number 1</note>
+
+<p>Gramercy Park House<lb/>
 New York 6th of Sept. 1858</p>
     
-<p>Sir,
-On the eve of my departure 
-from Bathrush, River Gambia, for 
-this country for the benefit of my
-health,- I had the honor to receive
-your commerce rashion of the fifth-
-<unclear/> of May last informing me,
+<p>Sir,</p>
+
+<p>On the eve of my departure 
+from Bathurst, River Gambia, for 
+this country, for the benefit of my
+health. I had the honor to receive
+your communications of the fifteenth
+of May last informing me,
 that the President of the United States
-had seen fit to appoint me Com-
-mercial Agent for the United States
+had seen fit to appoint me Commercial 
+Agent for the United States
 at that port.</p>
     
-<p>I most beg to reclose the 
-official bond duty signed, sealed, and Bond
-vertified to, by the United States enclosed
-Attorney for the <unclear/>
+<p>I now beg to enclose the 
+official bond, duly signed, sealed, and 
+certified to, by the United States 
+Attorney, for the district.</p>
 
-To the Honorable 
-Lewis Cap
-Secretary of State</p>
+<fw type="address">To the Honorable<lb/> 
+Lewis Cass<lb/>
+Secretary of State<lb/>
+&amp;c &amp;c &amp;c</fw>
     
 <pb facs="20170615_161918"/>
     
-<p>I was born in Para,
-Brazit, and an the sow of Mr.
+<p>I was born in Pará,
+Brazil, and am the son of Mr.
 Benjamin Upton, an American
-citizen, lately appointed Com-
-mercial Agent for Rosaire, Argentina
+citizen, lately appointed Commercial 
+Agent for Rosaire, Argentina
 Confederation, and have resided
-there years in Bathurst and 
-received my appointment form 
+three years in Bathurst and 
+received my appointment from 
 the State of New York.</p>
     
 <p>It is in my opinion 
 necessary for the interests of the 
-United States, that an evacuation 
-be procured from the British Green
--meerch; particularly as there has 
-hitherto been no American Consulate
-represent a hive at that Colony.</p>
+United States, that an exequatur 
+be procured from the British Government; 
+particularly as there has 
+hitherto been no American Consular
+representative at that Colony.</p>
 
-<p>I shall be ready to proceed when 
-to my post, by the first conveyanace,
-which with he by a vessel of my own
+<p>I shall be ready to proceed 
+to my post, by the first conveyance,
+which will be by a vessel of my own
 to sail in about three weeks.</p>
 
 <p>It would be well to forward
-to new address in this city, the Books</p>
+to my address in this city, the Books,
+General Instructions, Blanks,
+Flags, Seals, &amp;c in readiness for
     
 <pb facs="20170615_161939"/>
-<p>for the same consequence as mother
-opportunity may not reoccur for some 
+
+for the same conveyance, as another 
+opportunity may not occur for some 
 time.</p>
     
 <p>The number of American 
-vessels at Bathrust during the 
+vessels at Bathurst during the 
 year is about thirty and I would 
-respectfully submit to your consider-
-ation, whether to lase an American
-interest would not warrant the 
-establishment of a consulate.
+respectfully submit to your consideration, 
+whether so large an American
+interest would not warrant, the 
+establishment of a consulate.</p>
 
-I have the honor to be,
-Sir,
-Your obedt. + honorable servant,
-Daniel R.B. Upton
-
-U.S. Commercial Agent</p>
+<p>I have the honor to be,<lb/>
+Sir,<lb/>
+Your obedt. &amp; humble Servt,<lb/>
+Danl R. B. Upton<lb/>
+U.S. Commercial Agent.</p>
 
 </div1>
 

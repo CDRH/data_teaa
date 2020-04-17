@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -58,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,16 +70,21 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term>O'Connor</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Gaboon</term>
+<term>Monrovia (Liberia)</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
+<keywords scheme="original" n="empires">
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
+    
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -93,25 +99,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Upton, Daniel R.B.</persName>
-<roleName>Commercial Agent</roleName>
-<placeName>Gambia</placeName>
+<persName>Upton, Daniel R. B.</persName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Bathurst, Gambia</placeName>
 <date when="1858-11-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Cap, Lewis</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1859-01-11"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-16" who="#kln">reviewed, encoded</change>
 <change when="2020-01-29" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,11 +130,14 @@
 
 <pb facs="20170615-162137"/>
 
-<p>Bathurst River Gambia
+<note>Rec 11 Jany</note>
+
+<p>Bathurst River Gambia<lb/>
 25th November 1858</p>
     
-<p>Sir,
-I have the honor of to 
+<p>Sir,</p>
+
+<p>I have the honor to 
 report my arrival in this Colony 
 on the 4th instant.</p>
     
@@ -136,55 +145,60 @@ on the 4th instant.</p>
 Excellency Governor O'Connor for 
 leave to act as Commercial Agent,
 of the United States, without an
-Evecquation. I have received hid 
-despatch of yesterday date, which 
-I have the honor to enclose, refreshing
-to recognize  me as such, without the 
-Laucleiun of the British Government.</p>
+Exequatur. I have received his 
+despatch of yesterday's date, which 
+I have the honor to enclose, refusing
+to recognize me as such, without the 
+sanction of the British Government.</p>
     
 <p>I respectfully suggest
-that it would perhaps be wll to 
+that it would perhaps be well to 
 forward said despatch to London 
-when applicationed is made for an
-Evequation, which I trust will be done.</p>
+when application is made for an
+Exequatur, which I trust will be done.
     
-<p>To the Honorable Lewis Cap
-Secretary of State</p>
+<fw type="address">To the Honorable Lewis Cass<lb/>
+Secretary of State &amp;c &amp;c</fw>
     
-<pb facs="20170615_162140"/>    
-<p>Now that an Evequation
-is necessary, endering well thereby
+<pb facs="20170615_162140"/>
+
+done with as little delay as possible
+as my present position in regard to
+American vessels is <unclear>so</unclear> doubtful.</p>
+    
+<p>Now that an Exequatur
+is necessary, rendering null thereby
 one of the object of the appointment 
 of Commercial Agents, why not 
 make this a Consulate under
-Schedule C: that I may can R with 
+Schedule C: that I may rank with 
 the Consular Representative of 
 France in this place.</p>
     
 <p>This port is certainly more
 important to American interests
-than Momoria, Gaboon on St Paul
-de Loanda; why would not the twice
-salary be just? the amount offers
-on about thirty vessels per annuance
-is quite inadequate to the forces 
+than Monrovia, Gaboon or St. Paul
+de Loanda; why would not the same
+salary be just? the amount of fees
+on about thirty vessels per annum
+is quite inadequate to the services 
 required.</p>
 
 <p>The Case containing Record
-Books, Flags, we had not yet been
-received from Monoria, neither has</p>
+Books, Flags, &amp;c has not yet been
+received from Monoria, neither has
     
 <pb facs="20170615_162149"/>
     
-<p>the seal: Wheatons Elements of,
+the seal: Wheatons Elements of
 International Law, the Consular
-Regulations and love blank forms
+Regulations and some blank forms
 were received in New York.</p>
     
-<p>I have the honor to be,
-Sir,
-Your most obident + humble servant
-Daniel R.B. Upton
+<p>I have the honor to be,<lb/>
+Sir,<lb/>
+Your most obedient &amp; humble servt<lb/>
+Danl RB Upton<lb/>
 U.S. Commercial Agent</p>
     
 <p></p>

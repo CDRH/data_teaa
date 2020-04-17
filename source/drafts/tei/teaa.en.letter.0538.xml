@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0538"><!-- EXAMPLE: teaa.en.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0538">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from R. Dorsey Mohew to Assistant Secretary, September 30, 1894</title>
+<title>Despatch from R. Dorsey Mohun to Assistant Secretary of State, September 30, 1894</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain<!-- FULL NAME --></name>
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -32,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0538<!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<idno type="project">teaa.en.letter.0538</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">Despatch from R. Dorsey Mohew to Assistant Secretary, September 30, 1894<!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+    <title level="a">Despatch from R. Dorsey Mohun to Assistant Secretary of State</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
-<date when="1894-09-30">September 30, 1894<!--MONTH DAY, YEAR--></date>
+<date when="1894-09-30">September 30, 1894</date>
 </bibl>
 </sourceDesc>
 
@@ -69,18 +70,16 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/264072032">Leopold II, King of the Belgians, 1835-1909</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term/>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Arab</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -93,25 +92,23 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Mohew, R. Dorsey</persName>
+<persName>Mohun, R. Dorsey</persName>
 <roleName>Commercial Agent</roleName>
-<placeName>Congo</placeName>
+<placeName>Brussels, Belgium</placeName>
 <date when="1894-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName>Assistant Secretary of State</roleName>
-<placeName>Brussels, Belguim</placeName>
+<roleName>Assistant of Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-16" who="#kln">reviewed, encoded</change>
 <change when="2020-01-27" who="#unm">encoded and transcribed</change>
 </revisionDesc>
 </teiHeader>
@@ -124,43 +121,44 @@
 
 <pb facs="20170614_145258"/>
 
-<!-- BEGIN TRANSCRIBING -->
+<p>Commercial Agency<lb/>
+Kongo Free State<lb/>
+Brussels, Belgium<lb/>
+Sept. 30, 1894.</p>
 
-<p>Commercial Agency
-Kongo Free State
-Brussels, Belguim
-Sept 30, 1894
-To the asistant secretary State
+<p>To the Assistant Secretary State<lb/>
 Washington, D.C.</p>
     
-<p>Sir!,
-I have the honour to infor
+<p>Sir:</p>
+
+<p>I have the honour to inform
 the State Department that His
-Majesty Leopold II, King of Belguim
+Majesty Leopold II, King of Belgium
 and Sovereign of the Kongo Free
 State has given me the Decoration
-of the "Royal order of the Lion
+of the "Royal Order of the Lion
 of the Congo" with the rank of 
-chevalier for military services
+Chevalier for "military services
 voluntarily rendered the Congo
-Free State during the Arab was
-of 1893 + 1894. I accepted this honour
+Free State during the Arab war
+of 1893 &amp; 1894. I accepted this honour
 conditional upon the Governments 
 permission.</p>
     
 <p>I am sailing on October 20th by
 the "New York", and will bring 
 the order back with me for 
-depart in the state Department 
-finding ation of Congress-- 
+deposit in the State Department 
+finding action of Congress.</p> 
 
-I am</p>
+<p><catchwords>I am</catchwords>
     
 <pb facs="20170614_145304"/>
-<p>I am, Sir,
-Very respectfully 
-Your obident Servant
-R. Dorsey Mohew
+
+I am, Sir,<lb/>
+Very respectfully<lb/>
+Your obedient servant<lb/>
+R. Dorsey Mohun<lb/>
 Commercial Agent</p>
     
 </div1>
