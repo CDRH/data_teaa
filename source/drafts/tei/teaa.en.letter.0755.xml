@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
+<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T47</biblScope>
+<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
+<term><!-- LAST NAME, FIRST NAME --></term>
+</keywords>
+    
+<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
+<term><!-- EXAMPLE: Congo River --></term>
+</keywords>
+    
+<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+</correspAction>
+<correspAction type="deliveredTo">
+<persName><!-- LAST NAME, FIRST NAME --></persName>
+<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170619_140450"/>
+
+<p>No. 52 U.S. Consulate, Goree Dakar
+Oct.27th 1886
+
+To the Honorable 
+James D. Porter
+Ass't Secretary of State
+
+Sir,
+Before American merchants
+can fairly compete with Europeans
+in the opening markets of the World,
+they must learn that in some
+countries superior packing is held
+to be a factor fof prime importance:
+that in places where good <unclear/>
+are not to be had and there are 
+but few practiced laborers, egg-slate
+packages, no matter how choice
+the Goods they contain, are sure
+to be discriminated against. And
+this American fault in packing 
+is the more ot be regretted because
+it is precisely in those countries
+when the best of packing is of necessity
+required that the profits are always the greatest.
+</p>
+
+<pb facs="20170619_140523"/>
+    
+<p>where heads have follow out, so 
+that the condition in which a 
+shipment of American Flour justly 
+reaches the warehouse  of the foreign
+buyers is often such as to excite his
+disgust if not his indignation.
+The buyers of flour in intertropical
+countries are seldom men who like 
+making up for omissions of shippers
+by comparing barrels themselves under
+a brailing sun, and the upshot 
+of the matte is, they give their 
+preference to foreign flour because 
+the packages are better, only dealing 
+with Americans just enough to keep
+their European Agents from imposing 
+high prices on them.</p>    
+    
+<p>There is also much prejudice
+against American Flour-barrels
+because they do not sufficiently
+exclude the air, which causes the 
+Flur to spoil quickly. French flour-
+barrels besides being lined with 
+paper have thirty hoops each and 
+the heads well secure. Such</p>    
+   
+<pb facs="20170619_140511"/>
+    
+<p>Among the articles which 
+Americans are interested to export 
+abroad, but which frequently are 
+not packed sufficently well for 
+the purpose. Flour may be intended 
+as disering perhaps the first notice.
+Almost all newly developed countries
+consume Flour largely, and as payment 
+in such countries is usually made in 
+saw products which Americans 
+require for manufactoring purposes,
+there s a double motive for dealing 
+with them direct, which dealing 
+Americans shoulf not forego by
+refusing to take into account the 
+necessities of their situation. Now 
+in such countries, where teams are 
+always scarce, such articles of Flour 
+have sometimes ro be transported
+quite long distances by rolling, with 
+are American od having a continued 
+white trail of flour all along the 
+route, interperend have and there 
+with heaps of it mixed and dit-</p>
+   
+<pb facs="20170619_140627"/>
+   
+<p>packages present their contents
+against even wet, and other things
+being equal it would be indeed
+disposing if foreign flour thus 
+protected were not preferred in way 
+competition market. American 
+Flour- barrels for export should
+have at least sixtee well-
+driven hoops each: the chimes
+should be well protected and 
+</p>
+</div1>
+
+</body>
+</text>
+
+</TEI>
