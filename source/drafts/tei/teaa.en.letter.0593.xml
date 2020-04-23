@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Daniel R.B. Upton to Lewis Cap, August 11, 1859</title>
+<title>Despatch from Daniel R. B. Upton to Lewis Cass, August 11, 1859</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,10 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Daniel R.B. Upton to Lewis Cap, August 11, 1859</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Daniel R. B. Upton to Lewis Cass, August 11, 1859</title>
+<title level="m" type="microformat">Despatches from U.S. Consuls in Bathurst, Gambia 1857-1889</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="microfilm">T365</biblScope>
+<biblScope unit="roll">1</biblScope>
 <date when="1859-08-11">August 11, 1859</date>
 </bibl>
 </sourceDesc>
@@ -58,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -69,18 +71,33 @@
 <term/>
 </keywords>    
     
-<keywords scheme="viaf" n="people"><!-- ALPHABETIZED LIST OF ALL PEOPLE NAMED IN THE DOCUMENT. -->
-<term><!-- LAST NAME, FIRST NAME --></term>
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/20433988">Clarendon, George William Frederick Villiers, Earl of, 1800-1870</term>
+<term ref="http://viaf.org/viaf/7567135">Labouchere, Henry du Pré, 1831-1912</term>
+<term>Lloyd, Richard Charles</term>
+<term ref="http://viaf.org/viaf/106964661">Napoléon I, Emperor of the French, 1769-1821</term>
+<term ref="http://viaf.org/viaf/19923190">Persigny, Jean-Gilbert-Victor Fialin, duc de, 1808-1872</term>
+<term ref="http://viaf.org/viaf/95738652">Victoria, Queen of Great Britain, 1819-1901</term>
+<term>Waleioski, A.</term>
 </keywords>
     
-<keywords scheme="original" n="places"><!-- ALPHABETIZED LIST OF ALL PLACES NAMED IN THE DOCUMENT. -->
-<term><!-- EXAMPLE: Congo River --></term>
+<keywords scheme="original" n="places">
+<term>Albreda (Gambia)</term>
+<term>Bathurst (Gambia)</term>
+<term>Gambia River</term>
+<term>MacCarthy Island (Gambia)</term>
+<term>Portendie (Gambia)</term>
+<term>Tenerife (Canary Islands)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>England</term>
+<term>France</term>
+<term>United Kingdom</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Mandingos</term><!-- Mandinka? -->
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -93,25 +110,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Upton, Daniel R. B.</persName>
 <roleName>U.S. Consul</roleName>
-<placeName>Gambia</placeName>
+<placeName>Bathurst, Gambia</placeName>
 <date when="1859-08-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Cass, Lewis</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1859-10-28"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-22" who="#kln">reviewed, encoded</change>
 <change when="2020-02-03" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,160 +141,371 @@
 
 <pb facs="20170616_095436"/>
 
-<ab>Consulate of the United States
-at Bathurst 11th August 1859</ab>
+<note>Rec 28 Octr</note>
 
-<p>Sir;
-I have the honor to en-
--close herewith The Secretary No.1
-Return of Arrivals + Departures
+<note>No 11</note>
+
+<p>Consulate of the United States
+at Bathurst 11th August 1859</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to enclose 
+herewith The Quarterly
+Return of Arrivals &amp; Departures
 of American vessels for the Quarter
 ending the 30th of June last
-also the Quarterly Return of No.2
-Fees for the lame period amount-
-ing to sixty two dollars and fifty 
+also The Quarterly Return of 
+Fees for the same period amounting 
+to sixty two Dollars and fifty 
 six cents.</p>
     
-<p>You will also find here-  No.3
--with a copy of the Treaty between
+<p>You will also find herewith 
+a copy of the Treaty between
 France and England relative 
-to Portendia and Albreda, and the 
-free navigation of the Gambia, con-
-ceded to France by the latter pow-
-er.</p>
+to Portendie and Albreda, and the 
+free navigation of the Gambia, conceded 
+to France by the latter power.</p>
 
 <p>I have indirectly learned
 that Her Majesty's Government
-has sent a Despatch to the <unclear></unclear></p>
+has sent a Despatch to the present
     
-<ab>Honorable Lewis Cap
-Secretary of State of the United States
-Washington</ab>
+<fw type="address">Honorable Lewis Cass<lb/>
+Secretary of State of the United States<lb/>
+&amp;c &amp;c &amp;c<lb/>
+Washington</fw>
     
 <pb facs="20170616_095442"/>   
     
-<p>Acting Governor of the settlement
+Acting Governor of these settlements
 the Contents of which are to this 
-purpose, that, the House Govern-
-ment experienced many difficul-
-ties in regard to the right of 
+purpose, that, the Home Government 
+experienced many difficulties 
+in regard to the right of 
 free navigation of the Gambia 
-accorded to the French, form which the 
+accorded to the French, from the 
 Powers with whom England has
 treaties with the "most favored
-nation" Lause; that it could be 
-agreeable to the House Govern-
-ment to have the opening of the 
+nation" clause; that it could be 
+agreeable to the Home Government 
+to have the opening of the 
 river to the whole world made 
 the subject of a petition from the 
 Colonists.</p>    
     
 <p>I am inclined to believe that 
-the Colonists, particularly the Com-
-mercial part of the community 
-are opposed to this <unclear/>, as
+the Colonists, particularly the Commercial 
+part of the community 
+are opposed to this scheme, as
 they also were to the opening of 
-the River to the French. and 
-not to little purpose.</p>
+the River to the French, and 
+but to little purpose.</p>
     
 <p>The advantages to the desired
-from the force navigations of the 
-Gambia, as far as the United-
-States are concerned are at</p>
+from the force navigation of the 
+Gambia, as far as the United
+States are concerned, are at
     
-<pb facs="20170616-_095449"/>
+<pb facs="20170616_095449"/>
 
-<p>present, perhaps, important
+present, perhaps, unimportant.
 But I am convinced that the 
 future will tend to increase
 those advantages.</p>
     
-<p>The river is navigable to ves-
-sels drawing not more than eight 
-feet of conter as far as Me'
-Calhip Island the principal
+<p>The river is navigable to vessels 
+drawing not more than eight 
+feet of water as far as Mc'
+Carthy's Island, the principal
 British settlement, and about 
 two hundred miles above this.
-The puncipal articles of pro-
-duce procured in the River are
-Governed Weeks (Peamoks), of
-which the animal export for 
-the past year was 15728 tons
+The principal articles of produce 
+procured in the River are
+Ground Nuts (Pea Nuts), of
+which the annual export for 
+the past year was 15,728 tons;
 requiring a considerable 
 amount of shipping to bring
-these here to market.
-About 70,000 hides and 100 tons
-of Beeswax exported in the lame 
+them here to market.</p>
+
+<p>About 70,000 Hides and 100 tons
+of Beeswax exported in the same 
 period of time.</p>
     
-<p>This carrying trade is now per-
-pound by British vessels almost
-entirely, Most of the French 
-vessels being too large or dread-
-ing too much waken to ascend</p>    
+<p>This carrying trade is now performed 
+by British vessels almost
+entirely. Most of the French 
+vessels being too large or drawing 
+too much wake to ascend    
     
 <pb facs="20170616_095455"/>
     
-<p>the river to any distance.
+the river to any distance.
 American vessels from their 
-perticularly flat build and 
-large deer capacity are better
+peculiarly flat build and 
+large deck capacity are better
 adapted than either British or 
 French for this carrying trade.</p>
 
-<p>The British trade as at 
-present carried on is not a rely
+<p>The River trade as at 
+present carried on is not a very
 profitable one. There are Eight
-English + three French Houses
-enfafed in it from this port.
-Perces obtained for goods, in 
-the River, are large and remu=
-wershice, but the disadvantages
-and lopes aside 1st. From 
-employing native Mandingors
-(in whose language there appoars
+English &amp; three French Houses
+engaged in it from this port.
+Prices obtained for goods, in 
+the River, are large and remunerative,
+but the disadvantages
+and losses arise 1st. From 
+employing native Mundingos
+(in whose language there appears
 to be no such word as honesty)
-for traders. I From the <unclear/> 
+for traders. 2d From the number 
 of small vessels required to bring 
 the produce to town, the expense
 of which, increases very considerably
 the price of the produce.</p>
     
-<p>It has occured to me that this
-matter would be worthy the con-
--sideration of the United States</p>
+<p>It has occurred to me that this
+matter would be worthy the consideration 
+of the United States
     
 <pb facs="20170616_095500"/>
     
-<p>and that perhaps the present 
+and that perhaps the present 
 would be favorable moment
 for bringing it before Her Majesty's
-Goverment.</p>    
+Government.</p>    
     
-<p>Should it be the wish of the Depart-
--ment I should be of ad upon the 
+<p>Should it be the wish of the Department 
+I should be glad upon the 
 return of the healthy season
 commencing in November or 
 December to ascend the River
-as far as Mo' Caithy Island
+as far as Mc'Carthy's Island
 and make a report thereon.</p>
     
 <p>I regret that my present
 state of health requires a chance
 of climate and ascending to the 
 order of my medical man I 
-shall be obligd to leave my Con-
--suate for the coming two months 
-and proceed to the Island of Seneieffe.</p>
+shall be obliged to leave my Consulate 
+for the coming two months 
+and proceed to the Island of 
+Teneriffe.</p>
     
 <p>I have appointed 
 Mr. Richard Charles Lloyd Acting 
-Consul during my absence.
-I have the honor to be 
-Sir,
-Your most obident servant 
-Daniel R.B. Upton
+Consul during my absence.</p>
+
+<p>I have the honor to be<lb/> 
+Sir<lb/>
+Your most obdt servt<lb/> 
+Danl RB Upton<lb/>
 United States Consul</p>
+
+<pb facs="20170616_095524"/>
+
+<p>Translation</p>
+
+<p>Imperial Decree<lb/>
+for promulgating<lb/>
+The Convention relative to
+Portendie and Albreda
+Concluded between France
+and England the 7th of March 
+1857.</p>
+    
+<p>Napoleon:<lb/>
+By the Grace of God and the National
+will Emperor of the French:</p>
+
+<p>To all to whom these presents shall 
+come greeting:</p>
+    
+<p>Upon the report of our Minister Secretary 
+of State for the Department of Foreign
+Affairs. We have decreed and do 
+hereby decree as follows:</p>
+
+<p>Article 1st. A Convention having been
+signed on the 7th of March 1859 between 
+France and the United Kingdom of Great
+Britain and Ireland to regulate the 
+right of trade at or near Portendie on
+the Western Coast of Africa, as also in 
+regard to Albreda on the River Gambia 
+and ratifications of this act having been 
+exchanged at London on the 25th of
+<catchwords>the</catchwords>
+    
+<pb facs="20170616_095531"/>
+    
+the present month of March: the said 
+Convention the tenor of which is as 
+follows shall receive fall and entire 
+execution.</p>
+
+<p>His Majesty the Emperor of the French
+and Her Majesty the Queen of the United 
+Kingdom of Great Britain and Ireland
+wishing for the future to put an end
+to all causes of discord relative to the 
+right of trade at or near Portendie on
+the Western Coast of Africa, as also in
+regard to Albreda on the River Gambia 
+a right to which both Governments laid 
+claim and also the subjects of France
+and Great Britain, they have resolved
+to hold a Convention to that effect
+and have <unclear>ruined</unclear> for their Plenipotentiaries 
+respectively, as follows:
+His Majesty the Emperor of the French 
+Mr. Jean Gilbert Victor Fialin Count
+Persigny, Senator, Grand Cross of the 
+Imperial order of the Legion of Honor, 
+Grand "Cordon" of the Imperial Order
+of the Medjidie of Turkey, Grand Cross
+of the order of Saint Maurice and 
+Lazarus of Sardinia, Grand Cross of 
+<catchwords>the</catchwords>
+    
+<pb facs="20170616_095538"/>
+
+the order of Danebury of Denmark and 
+His Ambassador near Her Britannic
+Majesty. And Her Majesty the 
+Queen of the United Kingdom of Great
+Britain and Ireland: The Right
+Honorable George William Frederic
+Earl of Clarendon, Baron Hyde of 
+Hindon, Peer of the United Kingdom
+Her Britannic Majesty's Privy
+Councillor, Knight of the very noble
+order of the Garter, Knight Grand Cross
+of the very noble order of the Bath, principal
+Secretary of State of Her Britannic Majesty 
+for Foreign affairs: and the Right 
+Honorable Henry Laborchere, Her Britannic
+Majesty's Priory Councilor, Member of 
+Parliament and Her Britannic Majesty's
+Principal Secretary of State for the Colonies,
+who having duly and mutually communicated 
+their respective full powers
+which were found good and in due form 
+they have decided upon and concluded
+the following articles.</p>
+    
+<p>Article 1st.  Her Majesty the Queen
+of the United Kingdom of Great Britain
+and Ireland renounces the right which
+<catchwords>treaties</catchwords>
+    
+<pb facs="20170616_095544"/>  
+   
+treaties up to the present time gave to
+the subjects of Her Britannic Majesty
+to trade from the mouth of the River
+Saint John as far as the Bay and 
+the Fort of Portendie inclusively.</p>
+
+<p>Article 2. His Majesty the 
+Emperor of the French cedes to Her
+Majesty of Great Britain the French Territory 
+or settlement of Albreda on the 
+northern bank of the River Gambia 
+Western Coast of Africa, as also all 
+the rights of possession and others that
+may pertain to the said Factory.</p>
+
+<p>Article 3. Her Britannic
+Majesty consents or grants to French
+subjects free access to the River Gambia 
+for carrying on their trade. They are 
+permitted to reside in Bathurst or at
+such other commercial treaties as may 
+be at some future time designated by
+Her Majesty in Council, but at no other
+points, <unclear>same</unclear> as concerns Albreda, where
+the French who are now resident and 
+desire to remain are authorized by the 
+fourth article of the present Convention 
+so to do: provided always, they conform
+<catchwords>to</catchwords>
+    
+<pb facs="20170616_095549"/>    
+    
+to the local laws and regulations which
+are or may be in force in the British
+settlements on the Gambia.</p>    
+ 
+<p>French vessels in the River Gambia 
+shall be subject to the same duties
+charges and regulations as British
+vessels and all articles imported or
+exported by French vessels shall
+pay the same duties as are imposed
+on similar articles imported or exported 
+by British vessels.</p>
+   
+<p>The French Government will be allowed 
+to have a Consular Agent at
+Bathurst: it being well understood
+that the said Consular Agent shall be
+previously recognized and acknowledged
+in the ordinary form by Her
+Britannic Majesty's Government.</p>
+
+<p>Article 4th. French subjects
+already established at Albreda
+who may wish to remain after
+its session to Her Britannic Majesty 
+shall retain their property and 
+the rights appertaining to the same
+and shall be protected, and treated
+in all respects in the same manner
+<catchwords>as</catchwords>
+    
+<pb facs="20170616_095557"/>
+    
+as all other French subjects in Her 
+Britannic Majesty's possessions.</p>
+
+<p>Article 5th. The present Convention 
+to be ratified and the ratifications 
+to be exchanged as soon as possible
+at London and within three weeks 
+following the signing of the said
+Convention</p>
+    
+<p>In faith of which the Plenipotentiaries
+have respectively signed and sealed 
+with their arms.</p>
+    
+<p>Done at London, the seventh day
+of March in the year of Grace 1857</p>
+
+<p>L.S. signed F' de Persigny<lb/> 
+ "   " Clarendon<lb/>
+ "   " Henry Labouchere</p>
+
+<p>Article 2d</p>
+    
+<p>Our Minister and Secretary of State
+for Foreign Affairs is charged with 
+the execution of the present decree
+Done at Paris the 28th of March 1857<lb/>
+By the Emperor<lb/>
+signed Napoleon<lb/>
+seen and sealed with the seal of state 
+Guard of the Seal and Minister of <unclear>Justice</unclear><lb/>
+Signed <unclear extent="one word"/></p>
+    
+<pb facs="20170616-_095604"/>    
+    
+<p>The Minister Secretary of State for 
+Foreign Affairs.<lb/>
+Signed A. Waleioski</p>
     
 </div1>
 
