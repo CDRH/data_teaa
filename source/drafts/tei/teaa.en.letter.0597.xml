@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Daniel R.B. Upton, September 30, 1859</title>
+<title>Despatch from Daniel R. B. Upton to Lewis Cass, September 30, 1859</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,10 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Daniel R.B. Upton, September 30, 1859</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Daniel R. B. Upton to Lewis Cass, September 30, 1859</title>
+<title level="m" type="microformat">Despatches from U.S. Consuls in Bathurst, Gambia 1857-1889</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="microfilm">T365</biblScope>
+<biblScope unit="roll">1</biblScope>
 <date when="1859-09-30">September 30, 1859</date>
 </bibl>
 </sourceDesc>
@@ -58,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -74,11 +76,27 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Albreda (Gambia)</term>
+<term>Bathurst (Gambia)</term>
+<term>Berwick Town (Gambia)</term>
+<term>British West Indies</term>
+<term>Canary Islands</term>
+<term>Cape Verde</term>
+<term>Gambia River</term>
+<term>Goreé</term>
+<term>Jane River</term>
+<term>Leeward Coast</term>
+<term>McCarthy's Island (Gambia)</term>
+<term>Sierra Leone</term>
+<term>St. Mary's Island (Gambia)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
+<keywords scheme="original" n="empire">
+<term>Belgium</term>
+<term>France</term>
+<term>Great Britain</term>
+</keywords>
+   
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -93,25 +111,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Upton, Daniel R. B.</persName>
-<roleName>US Consul</roleName>
+<roleName>U.S. Consul</roleName>
 <placeName>Gambia</placeName>
 <date when="1859-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
+<persName ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1860-01-25"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-23" who="#kln">reviewed, encoded</change>
 <change when="2020-02-21" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,273 +142,505 @@
 
 <pb facs="20170616_095748"/>
 
-<p>Annual Report for the Year
-ending September 30, 1859
-Daniel R.B. Upton Consul</p>
+<note>Rec 25 Jany</note>
+
+<p>Annual Report for the Year<lb/>
+ending September 30, 1859<lb/>
+Daniel R. B. Upton Consul.</p>
     
 <p>The Colony of the Gambia consists
-of the following settlement:
-The town of Bathurst on the Island of Saint
-Mary about five miles from the north of
-the Riveer Gambia:</p>
-    
-<p>A vessel settlement at Cape St. Mary
-at the month of the Jane River:
-Another settlement on the eastern bank of 
-the River apporsiche to Bathurst called
-Berwick town or Ban-point.</p>
+of the following settlements, viz:</p>
 
-<p>And the Carthy's Island some two 
-hundred miles up the River.
-The population od the cutie Colony is,
+<p>The town of Bathurst on the Island of Saint
+Mary about five miles from the mouth of
+the River Gambia:</p>
+    
+<p>A small settlement at Cape St. Mary's
+at the mouth of the Jane River:</p>
+
+<p>Another settlement on the eastern bank of 
+the River opposite to Bathurst called
+Berwick town or Bana-point.</p>
+
+<p>Albreda, formerly a French factory but
+ceded to Great Britain by treaty of 7th
+March 1857, which is also on the eastern
+bank of the River and about fifteen
+miles above Bathurst:</p>
+
+<p>And Mc Carthy's Island some two 
+hundred miles up the River.</p>
+
+<p>The population of the <unclear extent="one word"/> Colony is,
 according to the last census taken in
 1857 Five thousand, six hundred
-and ninety three
-
-my</p>
+and ninety three souls as follows,
+<catchwords>viz:</catchwords></p>
     
 <pb facs="20170616_095748"/>    
     
-<p>       whites   colonial   total
-Bathurst  180      4082       4262
-Ms. Caulty 8       1163       1171
-Burick Town 1      205        206
-Cape H. Mango2     52         54
-Alberda  not known  Do/o      Do/o     5693</p>
-    
-<p>Bathurst as will be observed force the 
+<table>
+<row>
+<cell/>
+<cell>Whites</cell>
+<cell>Colored</cell>
+<cell>Total</cell>
+<cell/>
+</row>
+<row>
+<cell>Bathurst</cell>
+<cell>180</cell>
+<cell>4082</cell>
+<cell>4262</cell>
+<cell/>
+</row>
+<row>
+<cell>McCarthy's</cell>
+<cell>8</cell>
+<cell>1163</cell>
+<cell>1171</cell>
+<cell/>
+</row>
+<row>
+<cell><unclear>Berwick</unclear> Town</cell>
+<cell>1</cell>
+<cell>205</cell>
+<cell>206</cell>
+<cell/>
+</row>
+<row>
+<cell>Cape St. Mary's</cell>
+<cell>2</cell>
+<cell>52</cell>
+<cell>54</cell>
+<cell/>
+</row>
+<row>
+<cell>Albreda</cell>
+<cell>Not Known</cell>
+<cell>Do</cell>
+<cell>Do</cell>
+<cell>5693.</cell>
+</row>
+</table>
+  
+<p>Bathurst as will be observed from the 
 above table is the most considerable
-settlement and the only port of Entry:
-the Island of St. Mary upon which is sit-
-uated is but a few feet above the level of 
-the sea, sandy and baurer and could 
-only have been selected as a siche for 
+settlement and the only port of Entry:</p>
+
+<p>the Island of St. Mary upon which it is situated 
+is but a few feet above the level of 
+the sea, sandy and barren and could 
+only have been selected as a site for 
 a town, from the just of its harbor
-affording the only goodanchorage in
+affording the only good anchorage in
 the neighborhood.</p>
     
 <p>The Colonial Government 
 consists of a Governor with an Executive
-and Legislature Council these composed
+and Legislature Council the is composed
 the former; of the Colonial Secretary, the 
-Lucres actorcape, and the Collector of,
-Colonies all of when are merchers by 
-<unclear/> of their offices: and the latter
-has for merchers The Commander of
-the Troops. The Chief Justice. The 
-
-Colonial</p>
-    
-<pb facs="20170616_095802"/>  
-    
-<p>Founded 1058,237.18
-To the Canaries        960.00
-Cape Verde Islands     710.40
-Servant Coast          31,901.28
-                     $1,091,808.86</p>    
-
-<p>The articles of Export all Ground-
-Nuts or Jew-Nuts. Day Hides. Wax
-and Ivory the former by far the 
-most important, the two latter
-articles in very small quantities-
-The Export for the year 1858 and 
-their destination was as follows.</p>
-    
-<p>To the U. States  Tons 625.17.4.14    Hides 67,779   Wax Tone
-Great Britain        1516,18,3.0         25           61,11,1.14
-France               13122,17,7.14       None         34,8,3.14
-West Indies          75.0.0.0            .894         None 
-Goree for France     361.13.3.0          3.954        15.14.1.14
-Leevand Coast        23.10.0.0.0         None         None
-                  Tones 15.728.17.1.0    73.652    Tons  111.14.3.14</p>
-    
-<p>It is only for a few years past that
-the exportation of Grand or Pea-Tuss
-has here to considerable; now it by
-far exceeded all other exports in import
--ance, and its cultioateron has greatly 
-<unclear/> the agricultural interests</p>
-    
-<pb facs="20170616_095808"/>
-
-<p>of the Colony and the surronding
-country. France is the principal
-<unclear/> and mostly for <unclear/>
-purposes and its <unclear/> gave
-employment in the past year to 
-18,800 tons of French shipping.</p>
-    
-<p>As is will Riveria the quantity used 
-in the United States for manufavtur-
-ing or <unclear/> purposes is very
-small, owing chiefly to the heavy in-
-port duty of fifteen per <unclear/> as
-<unclear/>. What an opening (in a
-small way) for the employment 
-of the surplus shipping of the United 
-States. what a benefit to <unclear/> 
-were those duties abolished: the pro-
-ducers on the United States would
-perhaps suffer but would not be
-nemefot to shipping and manufacturers
-more than counterbalance, any state-
-ment to the agriculturist.</p>
-    
-<p>The number of vessels which arrived 
-in this port and their nationalities
-is as folloes 
-
-ivory</p>
-    
+Queen's <unclear extent="one word"/>, and the Collector of
+Customs, all of whom are members by 
+virtue of their offices: and the latter
+has for members The Commander of
+the Troops, The Chief Justice The 
+<catchwords>Colonial</catchwords>
     
 <pb facs="20170616_095816"/>
     
-<p>Colonial Secretary and the Queens <unclear/>
-by mitue of their  offices, and these other pur
--pose, generally selected form the mercantile
-commmunity who are encommerced by the
-Governor  and appointed by the House 
+Colonial Secretary and the Queen's <unclear extent="one word"/>
+by virtue of their offices, and three other persons,
+generally selected from the mercantile
+community, who are recommended by the
+Governor and appointed by the House 
 Government. Both of these councils are
 presided over by the Governor, who has a 
-casting as well as an orginal voche.
-All ordinaced and COlonisl can are
-submitted to the House Government for sane-
--tion.</p>    
+casting as well as an original vote.
+All ordinances and Colonial laws are 
+submitted to the House Government for sanction.</p>    
     
-<p>There is no petition punished nor
+<p>There is no political <unclear extent="one word"/> nor
 assembly.</p>
     
-<p>Foreign Consuls
+<p>Foreign Consuls</p>
 
-The Nations having Consular Represen-
-tatives at Bathurst an (besides the United 
-States) France and Belgium and world
+<p>The Nations having Consular Representatives 
+at Bathurst an (besides the United 
+States) France and Belgium and until
 very recently, Spain.</p>
     
-<p>_____ Commercial Regulations____
-Tariff._____ On the invoice pieve of all 
-prouduce and manufacturrd whether 
-British or Foreign (same and exepct those 
-of the Western Coast of Africa) which are free)
-imporshed into the Colony, either in British
-or Foreign ships, withmost distinctiion
-Four per cartin.</p>
-    
+<p>Commercial Regulations</p>
+
+<p>Tariff. &#8212; On the <unclear extent="one word"/> piece of all 
+produce and manufactures whether 
+British or Foreign (<unclear extent="one word"/> and except those 
+of the Western Coast of Africa which are free)
+imported into the Colony, either in British
+or Foreign ships, without distinction
+Four per centum.
+
 <pb facs="20170616_095823"/>
     
-<p>on Tohices whether manufactured or 
+on Tobacco whether manufactured or 
 unmanufactured an additional duty 
 of a half penny per pound.</p>  
   
-<p>On few, Gencon, Holland, Brandy Whisey
-Absichthe and all other spushored
-ledions, wine and river excepted an
+<p>On Gin, Gencoa, Hollands, Brandy Whiskey
+Absinthe, and all other spirituous
+liquors, wine and Rum excepted an
 additional duty of one and six pence
-per imperial gallow of hydrometer
-proof strngth and to on in proportion
-for any greater or lep degence of strength.
-On River and Uirve an additional duty
-of six pieces per imperial gallon of 
-hydrometer proof as above. On the annual
-of all rules of prize vessels and goods by
-public action after deducting all changes
-thereon four per coushion and our additional
-duty of four per centure on the variant 
-of all pig tails by public auction of 
-Tobacco. Articles published to the imported 
+per imperial gallon of hydrometer
+proof strength and so on in proportion
+for any greater or less degree of strength.
+On Rum and Wine an additional duty
+of six pence per imperial gallon of 
+hydrometer proof as above. On the amount
+of all sales of prize vessels and goods by
+public auction after deducting all changes
+thereon four per centum and an additional
+duty of four per centum on the amount 
+of all prize sales by public auction of 
+Tobacco. Articles prohibited to the imported 
 except from Great Britain in British ships 
-are Gunpowder. Ammunition was r 
-utensils of war unhelp bounded for expor-
-tation. A Drawback of the warrant of
+are Gunpowder, Ammunition arms or 
+utensils of war unless bonded for exportation. 
+A Drawback of the amount of
 the additional duty is allowed upon the 
-exposation of any article subject there-
-to. Port charges_____upon</p>
-  
+exportation of any article subject thereto. 
+Port charges &#8212; Upon 
+
 <pb facs="20170616_095829"/>
     
-<p>all vessels whether British or foreign at
+all vessels whether British or foreign at
 each entrance into the port of Bathurst
 with the exception of Colonial coasting
 vessels which an subject to the same 
 amount of fee only once in every year
-one Guinea (L1.1.0) Also with the 
-same provisions in regined to Colonial
-vessels, a storage duty of one shelling 
-and vince peuce per registered ton.
-Piloluge five shillings per foot.
-Imports_____ The amount of
-imports and the countered furnishing
-these is as follows for the year 18581</p>  
-    
-<p>From the United States."     $70,971.20
-Great Britain                318,691.62
-Br. West Indies              4,444.62
-Sierra Leone                 10,965.20
-France                       68,457.42
-Goree                        38,339.88
-Canary Islands               236.64
-Cape Verde                   1,108.80
-Lecrevard Coast              56,513.02
-             Total         $569,728.40
+one Guinea (£1.1.0) Also with the 
+same provision in regard to Colonial
+vessels, a tonnage duty of one shilling 
+and <unclear>nine</unclear> pence per registered ton.
+Pilotage five shillings per foot.</p>
 
-The principal articles of importation
-and the countries furnishing them an as</p>
+<p>Imports &#8212; The amount of
+imports and the countered furnishing
+them is as follows (for the year 1858)</p>  
     
+<table>
+<row>
+<cell>From the United States.</cell>
+<cell>$70,971.20</cell>
+</row>
+<row>
+<cell> " Great Britain</cell>
+<cell>318,691.62</cell>
+</row>
+<row>
+<cell> " Br. West Indies</cell>
+<cell>4,444.62</cell>
+</row>     
+<row>
+<cell> " Sierra Leone</cell>
+<cell>10,965.20</cell>
+</row>  
+<row>
+<cell> " France</cell>
+<cell>68,457.42</cell>
+</row>                  
+<row>
+<cell> " Goreé</cell>
+<cell>38,339.88</cell>
+</row>    
+<row>
+<cell> " Canary Islands</cell>
+<cell>236.64</cell>
+</row>             
+<row>
+<cell> " Cape Verde " </cell>
+<cell>1,108.80</cell>
+</row>                 
+<row>
+<cell> " Leeward Coast</cell>
+<cell>56,513.02</cell>
+</row>                          
+<row>
+<cell> Total</cell>
+<cell>$569,728.40</cell>
+</row>
+</table>
+
+<p>The principal articles of importation
+and the countries furnishing them are as
+
 <pb facs="20170616_095841"/>
+
+follows, viz:</p>
+
+<table>
+<row>
+<cell/>
+<cell>U. States</cell>
+<cell>France &amp; Goreé</cell>
+<cell>G. Britain</cell>
+<cell>Total</cell>
+</row>
+<row>
+<cell>Cotton Goods</cell>
+<cell>8700 yds.</cell>
+<cell>387915 yds.</cell>
+<cell>976231 yds.</cell>
+<cell>1372846 yds.</cell>
+</row>
+<row>
+<cell>Gun powder</cell>
+<cell>Nil</cell>
+<cell>Nil</cell>
+<cell>282950 lbs.</cell>
+<cell>282950 lbs.</cell>
+</row>
+<row>
+<cell>Lumber</cell>
+<cell>25968 ft.</cell>
+<cell>29000 ft.</cell>
+<cell>1210 ft.</cell>
+<cell>289678 ft.</cell>
+</row>
+<row>
+<cell>Guns</cell>
+<cell>Nil</cell>
+<cell>Nil</cell>
+<cell>13,640</cell>
+<cell>13,640</cell>
+</row>
+<row>
+<cell>Rum</cell>
+<cell>62,447 galls</cell>
+<cell>16295</cell>
+<cell>11645</cell>
+<cell>100362 impl galls.</cell>
+</row>
+<row>
+<cell>Tobacco (leaf) </cell>
+<cell>251,980 lbs.</cell>
+<cell>99322 lbs.</cell>
+<cell>146058 lbs</cell>
+<cell>497360 lbs.</cell>
+</row>
+</table>
     
-<p>follows,:       U.States     France       Great Britain   Total
-Cotton Goods      8700yds       387915yds    976231yds       1372846yds
-Gun powder        til              til       2829504tbs      282950 tbs
-Lumber            25968ft       29000ft      1210ft          289678ft
-Guns              til           til          13640           13640
-Rum               62447gals     16295        1645            100362 imp. galls
-Tobacco (leaf)    251950tbs     99327tbs     146058tbs       497360 tbs</p>
-    
-<p>All the letters vessel articles is American
-but as will be percevied some is via France
-and England, the same remark apply to
-lumber. The amount of duties received
-on the imports for the year ending 31st.
+<p>All the latter <unclear extent="one word"/> article is American
+but as will be perceived some is via France
+and England, the same remark applys to
+lumber. The amount of Duties received
+on the Imports for the year ending 31st.
 December 1858 was six thousand one 
 hundred and fifty one pounds, ten 
-shilings + four pence sceling.
-L6151.10.4</p>
+shillings &amp; four pence sterling.
+£6151.10.4.</p>
     
 <p>The amount of Exports for the same 
-year and their destination was as follows
+year and their destination was as follows.</p>
 
-To the United States    sp$102.288.84
-Great Britain             130.791.98
-Br. W. Indies             5.178.24
-Sierra Leoone             779.608.80
-Goree mistly/ France      37.575.24
-         Pound            1058.237.78</p>
+<table>
+<row>
+<cell>To the United States</cell>
+<cell><unclear>Sp.</unclear> $102,288.84</cell>
+</row>
+<row>
+<cell> " Great Britain </cell>
+<cell>130,791.98</cell>
+</row>
+<row>
+<cell> " Br. W. Indies</cell>
+<cell>5,178.24</cell>
+</row>
+<row>
+<cell> " Sierra Leoone</cell>
+<cell>2,854.08</cell>
+</row>
+<row>
+<cell> " France</cell>
+<cell>779,608.80</cell>
+</row>
+<row>
+<cell> " Goreé mostly for France.</cell>
+<cell>37,575.24</cell>
+</row>
+<row>
+<cell>Forward</cell>
+<cell>1058,237.18</cell>
+</row>
+
+<pb facs="20170616_095802"/>  
+    
+<row>
+<cell>Forward</cell>
+<cell>1058,237.18</cell>
+</row>
+<row>
+<cell>To the Canaries</cell>
+<cell>960.00</cell>
+</row>
+<row>
+<cell> " " Cape Verde Islands.</cell>
+<cell>710.40</cell>
+</row>
+<row>
+<cell> " " Leeward Coast.</cell>
+<cell>31,901.28</cell>
+</row>
+<row>
+<cell/>
+<cell> $1,091,808.86</cell>
+</row>
+</table> 
+
+<p>The Articles of Export are Ground-Nuts 
+or Pea-Nuts, Dry Hides, Wax
+and Ivory, the former by far the 
+most important, the two latter
+articles in very small quantities.
+The Exports for the year 1858 and 
+their destination was as follows.</p>
+
+<table>
+<row>
+<cell/>
+<cell>G. Nuts</cell>
+<cell>Hides</cell>
+<cell>Wax</cell>
+</row>
+<row>
+<cell>To the U. States.</cell>
+<cell>Tons 628.17.4.14</cell>
+<cell>67.779</cell>
+<cell>None</cell>
+</row>
+<row>
+<cell> " Great Britain</cell>
+<cell> " 1516.18.3.0</cell>
+<cell>25</cell>
+<cell>Tons 61.11.2.14</cell>
+</row>
+<row>
+<cell> " France</cell>
+<cell> " 13122.17.2.14</cell>
+<cell>None</cell>
+<cell> " 34.8.3.14</cell>
+</row>
+<row>
+<cell> " West Indies</cell>
+<cell> " 75.0.0.0</cell>
+<cell>.894</cell>
+<cell> " None</cell>
+</row>
+<row>
+<cell> " Goreé for France</cell>
+<cell> " 361.13.3.0</cell>
+<cell>3.954</cell>
+<cell> " 15.14.1.14</cell>
+</row>
+<row>
+<cell> " Leeward Coast</cell>
+<cell> " 23.10.0.0</cell>
+<cell>None</cell>
+<cell>None</cell>
+</row>
+<row>
+<cell/>
+<cell>Tones 15.728.15.1.0</cell>
+<cell>73.652</cell>
+<cell>Tons 111.14.3.14</cell>
+</row>
+</table>
+    
+<p>It is only for a few years past that
+the exportation of Ground or Pea Nuts
+has been so considerable; now it by
+far exceeds all other exports in importance, 
+and its cultivation has greatly 
+benefited the agricultural interests
+    
+<pb facs="20170616_095808"/>
+
+of the Colony and the surrounding
+country. France is the principal
+<unclear>Continuer</unclear> and mostly for oleaginous
+purposes and its importation gave
+employment in the past year to 
+18,800 tons of French shipping.</p>
+    
+<p>As is well known the quantity used 
+in the United States for manufacturing 
+or oleaginous purposes is very
+small, owing chiefly to the heavy import 
+duty of fifteen per centum ad
+valorem. What an opening (in a
+small way) for the employment 
+of the surplus shipping of the United 
+States, what a benefit to manufacturers
+were those duties abolished: the producers 
+in the United States would
+perhaps suffer but would not the
+benefit to shipping, and manufacturers,
+more than counterbalance, any statement 
+to the agriculturists.</p>
+    
+<p>The number of vessels which arrived 
+in this port and their nationalities
+is as follows viz</p>
    
 <pb facs="20170616_095848"/>
+
+<table>
+<row>
+<cell/>
+<cell>N's</cell>
+<cell>tons</cell>
+<cell><unclear extent="one word"/></cell>
+</row>
+<row>
+<cell>British</cell>
+<cell>77.</cell>
+<cell>9,369.</cell>
+<cell>710.</cell>
+</row>
+<row>
+<cell>French</cell>
+<cell>98.</cell>
+<cell>18,801.</cell>
+<cell>938.</cell>
+</row>
+<row>
+<cell>American</cell>
+<cell>16.</cell>
+<cell>2865.</cell>
+<cell>124.</cell>
+</row>
+<row>
+<cell/>
+<cell>191</cell>
+<cell>31,035</cell>
+<cell>1772</cell>
+</row>
+</table>
     
-<p>Wt   tons   total
-British   77   9369  710
-French    98   18801 938
-Americans 16   2865  124
-          191  31035 1772</p>
-    
-<p>I regret that this consulate should 
+<p>I regret that this Consulate should 
 be one of so slight an importance
 as to give but little interest to my 
-report, however such as it is. I have
-the honor to be submit it to you.
+report, however such as it is, I have
+the honor now to submit it to you.</p>
 
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your most obdt. &amp; humble servt<lb/>
+Danl RB Upton<lb/>
+U.S. Consul.</p>
 
-I have the honor to be 
-Sir
-Your most obident servant
-Daniel R.B. Upton
-U.S. Consul
-
-The honorable Lewis Cap
-Secretary of State of the United States
-Washington.</p>
+<fw type="address">The Honorable Lewis Cass<lb/>
+Secretary of State of the United States<lb/>
+Washington.</fw>
   
 </div1>
 

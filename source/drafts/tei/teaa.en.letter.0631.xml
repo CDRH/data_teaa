@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Daniel R.B. Upton to Lewis Cap, December 15, 1860</title>
+<title>Despatch from Daniel R. B. Upton to Lewis Cass, December 15, 1860</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,10 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Daniel R.B. Upton to Lewis Cap, December 15, 1860</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Daniel R. B. Upton to Lewis Cass, December 15, 1860</title>
+<title level="m" type="microformat">Despatches from U.S. Consuls in Bathurst, Gambia 1857-1889</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="microfilm">T365</biblScope>
+<biblScope unit="roll">1</biblScope>
 <date when="1860-12-15">December 15, 1860</date>
 </bibl>
 </sourceDesc>
@@ -58,7 +60,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Slavery and Slave Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,14 +73,46 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>d'Arcy</term>
+<term>Hill, Stephen John</term>
+<term>Nash, S. W.</term>
+<term>Pike, Thomas</term>
+<term>Rider, Henry</term>
+<term>Varney, Mary</term>
+<term>Watson, Thomas</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Bathurst (Gambia)</term>
+<term>Bird Island (Gambia)</term>
+<term>Bulamo (Sierra Leone)</term>
+<term>Cameroons</term>
+<term>Cape St. Mary (Gambia)</term>
+<term>Cuba</term>
+<term>Fort Bullen (Gambia)</term>
+<term>Freetown (Sierra Leone)</term>
+<term>Gambia</term>
+<term>Gambia River</term>
+<term>Gorée</term>
+<term>Jeba River</term>
+<term>Leeward Coast</term>
+<term>McCarthy's Island (Gambia)</term>
+<term>Rio Grade River</term>
+<term>Sherbro (Sierra Leone)</term>
+<term>Sierra Leone</term>
+<term>Sierra Leone River</term>
+<term>Uruguay</term>
+<term>West Indies</term>
+<term>Whydah</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>France</term>
+<term>Great Britain</term>
+<term>Portugual</term>
+<term>Spain</term>
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,18 +128,16 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Upton, Daniel R. B.</persName>
-<roleName>US Commercial</roleName>
-<placeName>Gambia</placeName>
+<roleName>U.S. Consul</roleName>
+<placeName>Bathurst, Gambia</placeName>
 <date when="1860-12-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Cass, Lewis</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/74646968">Cass, Lewis, 1782-1866</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,6 +145,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04" who="#kln">reviewed, encoded</change>
 <change when="2020-02-21" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,140 +158,77 @@
 
 <pb facs="20170616_100329"/>
 
-<ab>Consulate of the United States 
-of America at Bathurst Gambia
-15th December 1860</ab>
+<p>Consulate of the United States 
+of America at Bathurst Gambia<lb/>
+15th December 1860.</p>
     
-<p>Sir:
-My report of last
+<p>Sir:</p>
+
+<p>My report of last
 year was upon the trade and the 
-commerce of Gambua as shown by
+commerce of Gambia, as shown by
 statistics of 1858. I now purpose to 
 make the Returns of 1859, the basis 
 of this annual report.</p>
     
 <p>I have also the pleasure of adding the
 report from the district of Sierra Leone 
-Henry Rder Esq. Consular Agent.</p>
+Henry Rider Esqr Consular Agent.</p>
     
 <p>The year 1859 was not 
 a favorable one to the commerce of 
-Gambia. The crops were short; impor-
-tations were more limited than in
-the proceeding year and consequently 
-the Customs revenue showed a defe-
-iency as compared with recent previsions 
-years, and above all <unclear/> <unclear/> 
-
-for</p>
+Gambia. The crops were short; importations 
+were more limited than in
+the preceding year and consequently 
+the Customs revenue showed a deficiency 
+as compared with recent previous 
+years, and above all, sickness prevailed
+<catchwords>for</catchwords>
     
-<ab>The Honorable Lewis Cap
-Secretary of State of the United States</ab>
+<fw type="address">To The Honorable Lewis Cass<lb/>
+Secretary of State of the United States<lb/>
+&amp;c. &amp;c. &amp;c.</fw>
     
 <pb facs="20170616_100338"/>
     
-<p>for a season, robbing the commercial
-communit of many members.</p>
+for a season, robbing the commercial
+community of many members.</p>
     
 <p>The deficiency in the 
-crop of Ground nuts, the chief article
+crop of Ground Nuts, the chief article
 of export, was nearly one half as 
 compared with 1858 and about
 1500 tons below the average of the 
-past twelve years (1848 to 1859-
-inclsuive): this too, when in the 
-first few years the article was but
-a new one, and not extensively cul-
--tioated, or eagerly sought after.</p>
+past twelve years (1848 to 1859
+inclusive): this too, when, in the 
+first few years, the article was but
+a new one, and not extensively cultivated, 
+or eagerly sought after.</p>
     
-<p>It is practically accounted for by the 
-scarcity of win in the previous "rainy
-season", the internal was among the 
-native tribes, who are the only cultioa-
--tors and the poor state of the soil
+<p>It is partially accounted for by the 
+scarcity of rain in the previous "rainy
+season," the internal was among the 
+native tribes, who are the only cultivators, 
+and the poor state of the soil
 arising from renewed plantings
-without proper heatineub and the 
-impoverishing effects of the extraor-
-dinary crop of 15.728 tons of the pre-
--vious year.</p>
+without proper treatment and the 
+impoverishing effects of the extraordinary 
+crop of 15.728 tons of the previous year.</p>
     
 <p>Hides, too, for seasons not 
 so easily explained, show a decrease
 of thirteen thousand nine hundred 
-
-and</p>
-    
-<pb facs="20170616_100344"/>
-    
-<p><unclear/> to impede the developement
-of American trade on this Coast.</p>
-    
-<p>Unfortunately many of the articles re-
-quired in legitimate commerceee are 
-used also in the slave-trade, namely
-Rum, lumber, empty casks for palm
-oil and spice: many instances have 
-occured where vessels pursuing a 
-legitmate voyage have suffered detention 
-and been subject to trial on suspicion
-of being slavers thereby breaking up
-the voyage and causing only loss to 
-owners. I can mention two cases in this
-colony the "S.W. Nash" and the "Mary Varsey"
-and in Sierra Leone. The "Thomas Watson"
-and the "Carolina".</p>
-    
-<p>The means for supplying the slave-
-trade it is evident one not essential
-notwithstanding the <unclear/> expenditure
-by Great Britain and the United States 
-in maintaining a costly squaderon and 
-in attempting to bockade this coast:
-for it is notorious that, in the past
-twelve months more slaves have been 
-shipped than ever before. And why?</p>
-    
-<pb facs="20170616_100349"/>
-   
-<p>of Demand and supply
-for the simple mercantile axiom 
-for the demand has been great for the 
-Cuban maker: and as long as that
-demand continues, as long as the 
-profits on a singlr cargo are so im-
--mense that one successful voyage
-out of six is <unclear/>, man wil
-be found sufficently bold to 
-succrssfully carry out the voyage.</p>   
- 
-<p>The Cuban market now alone remained
-Destroyed that market and thes slave 
-trade ceass to exist, if that is im-
--possible why not bllockade the 
-coast of Cuba? the point of destination;
-a far more feasible plan than to attempt 
-to blockade half the continent of Africa!
-The law of nationas may not permit
-but cannot England, France and 
-the United States in the name of 
-humanity insist that Spain shall
-make a treaty to that affect?</p>
-    
-<p>Is England anxious to carry out 
-such a course? Doesw she not desire
-more benefit by the present mode of 
-
-supprepion</p>
+<catchwords>and</catchwords>
     
 <pb facs="20170616_100355"/>
     
-<p>and ninety seven as compared with 
-the yield of the preceeding year (which
+and ninety seven as compared with 
+the yield of the preceeding year; (which
 was but little better than the average 
 of the last twelve years. May not this
-have arisen in a measure from the 
+have arisen, in a measure, from the 
 same internal wars and consequent 
-loss of the bides of cattle consumed
+loss of the hides of cattle consumed
 by the combatants, which in Peace
 would have been carefully preserved
 and finally found their way to this
@@ -268,200 +239,822 @@ of export also shows a deficit of 25
 tons, in comparison with 1858.</p>
     
 <p>The quality of the Gambia 
-Ground nut surpasses that of any
+Ground Nut surpasses that of any
 produced, and the trade of the place
 depends very materially upon that
-feul.</p>
-    
-<p>It has been observed
+fact. It has been observed
 by some of the oldest merchants
-here-with much concern--that,
-the quality is depreciating. The neigh-
--boring rivers Consumance. Jeba, and 
-Rio Grande and the envirous of
-Sierra-Leone produce the Ground-Nut
+here, with much concern, that,
+the quality is depreciating. The neighboring 
+rivers <unclear extent="one word"/>, Jeba, and 
+Rio Grande and the environs of
+Sierra Leone produce the Ground Nut
+<catchwords>in</catchwords>
 
-in</p>
-    
 <pb facs="20170616_100402"/>
     
-<p>in large quantities but of quality inferior
+in large quantities but of quality, inferior
 to "Gambias", both as regards their outward
-apperance (important as an article of 
-coport to the United States) and their
-intrusive <unclear/> proportioned (upon which 
+appearance (important as an article of 
+export to the United States) and their
+intrusive oleaginous properties (upon which 
 their value for European markets is solely
-based).    This depication in
-quality is mainly owing tp the fact that 
-many of the tribes, particularly <unclear/> who
-cultivate them in the River below McCathy
+based). This deprecation in
+quality is mainly owing to the fact that 
+many of the tribes, particularly those who
+cultivate them in the River below McCarthy's
 Island have adopted the more speedy
-m ode og threshing instead of picking by
+mode of threshing instead of picking by
 hand: whereby the Nuts are mixed with 
-leaves, <unclear/>, stones, and then esteamed
+leaves, stalks, stones, and other <unclear extent="one word"/>
 substances, causing large deductions in
-the French market and depreciating theit 
+the French market and depreciating their 
 value in the United States as an article of 
 food.</p>
    
 <p>The present Governor 
-of this Colony Colonel d'Aray, well aware
-of the importance of substaining the repu-
--tation of this our principal export has most
-wisely endeaored to counteract the baneful
+of this Colony Colonel d'Arcy, well aware
+of the importance of sustaining the reputation 
+of this our principal export has most
+wisely endeavored to counteract the baneful
 effects of this mode of harvesting, by calling 
-together the Chiefs of the neighboring tribes
+together the chiefs of the neighboring tribes
+<catchwords>and</catchwords> 
 
-and</p>
-    
-<pb facs="20170616_100408"/>
-    
-<p>(<unclear/>): it bears some Bird Island
-spit West by North three quarters North
-distance two + a half miles and from 
-the Blackberry South East half South
-ten + a half miles by <unclear/>
-dog.</p>
-    
-<p>The bearings of the BlackBerry (for
-which vessels should steer upon
-learning the Red Berry) and its 
-situation are as follows: it is placed
-on the month end of African Knoll
-in two and a half fathoms of water
-(springs) and its bearings are
-Cape St. Mary West by South 
-hald South. Tower at Bathurst 
-South by East one quarter East and 
-middle of Terminal Creek East 
-three quarters North. All the henings
-by <unclear/>.</p>
-    
-<p>I beg, now, to call
-your attention to the annexed tubular
-statements Nos. 1.2.3 and 4.
-By reference to No. 1 you will observe
-that the value of the Imports + Exports 
+<pb facs="20170616_100421"/>
 
-for</p>
-    
+and pointing out to them the certain,
+final, disastrous result of the system
+from which they derive a small
+temporary benefit.</p>
+
+<p>To bring it more forcibly to their
+minds His Excellency proposes to
+have agricultural fairs held in the 
+neighborhood where monetary
+prizes will be awarded for the best
+quality of all agricultural productions.</p>
+
+<p>The first is to take place in March,
+and although a novelty in Africa
+I cannot but think, that it will
+have the desired, beneficial effect.</p>
+
+<p>Added to all the commercial
+troubles of 1859: we were
+visited in the latter part of July
+by that scourge, the yellow-fever which
+made fearful ravages in our small
+European community. So free had
+this coast previously been from every
+species of epidemic that it was a
+matter of congratulation, that, though
+living in one of the most unhealthy
+<catchwords>climates</catchwords>
+
 <pb facs="20170616_100427"/>
 
-<p>climates of the globe, we escaped 
+climates of the globe, we escaped 
 the frightful effects of epidemics in 
 other more favored, and more
 healthy climes. The first death was
 on the twenty third of July, from 
-that time to its celstation in Septem-
-ber we lost twenty three persons 
+that time to its cessation in September 
+we lost twenty three persons 
 out of an European population of 
 seventy two.</p>
     
 <p>In "Commercial Regulations"
-there is one important change nope,
+there is one important change note,
 on the eighteenth of April 1860 a new 
 Colonial ordinance was enacted
-relative to port changes: the partic-
-ulars of which are as follows:
-"Upon all ships, boats + vessels, canoes 
+relative to port charges: the particulars 
+of which are as follows:</p>
+
+<p>"Upon all ships, boats &amp; vessels, canoes 
 alone excepted, of more than five tons 
 whether British or Foreign and whether
 registered or not in the port of Bathurst
 entering the River Gambia or employed 
 or plying within the limits thereof 
-a Quarantive fee of Twenty one
-shilings in each year <unclear/> on
-<unclear/> first entrance into the port of 
+a Quarantine fee of Twenty one
+shillings in each year payable on
+her first entrance into the port of 
 Bathurst. Provided always that all
+<catchwords>vessels</catchwords>
 
-vessels</p>
-    
 <pb facs="20170616_100432"/>
     
-<p>vessels employed solely in the 
+vessels employed solely in the 
 River Gambia shall not be liable 
-to pay the <unclear/> Quarantive Fee.
+to pay the said Quarantine Fee.
 Upon all ships, boats, or vessels of
-more than fifteen/15/ tons whether 
-British or Foreign + whether regis-
-tered or not in the port of Bathurst
-white solely employed within the 
+more than fifteen (15) tons whether 
+British or Foreign &amp; whether registered 
+or not in the port of Bathurst
+while solely employed within the 
 River Gambia a duty of one
-shiling per ton, registered ton-
-nage shall be paid to the collector
-of customs on or before the 31st day 
-of January for the earnest year:
+shilling per ton, registered tonnage 
+shall be paid to the Collector
+of Customs on or before the 31st day 
+of January for the current year:
 provided always that upon
-any such vessel proceedings
-<unclear/> tp pay the additional
-one shiling per ton.</p>
+any such vessel proceeding
+<unclear>outtide</unclear> to pay the additional
+one shilling per ton.</p>
     
-<p>All vessls over fifteen/ 15/ tons 
-whether British or Foreign <unclear/>
-shall pay two shillings per
+<p>All vessels over fifteen (15) tons 
+whether British or Foreign &amp;c
+&amp;c shall pay two shillings per
 registered ton once in every year.
 Vessels that have paid the 
-one shillings + nine pence per 
-ton (the former sake of tonage)
-during the current year shall</p>
-    
+one shilling &amp; nine pence per 
+ton (the former sake of tonnage)
+during the current year shall
+
 <pb facs="20170616_100437"/>
     
-<p>pay three pence additional to 
-make up the two shillings".</p>
+pay three pence additional to 
+make up the two shillings."</p>
     
-<p>Vessels <unclear/> of
+<p>Vessels desirous of
 entering the River Gambia have 
 for the past six years suffered
 much inconvenience from the 
 fact that Bird Island at the 
-month of the River + one of the 
+mouth of the River &amp; one of the 
 principal points mentioned in  
-the sailing <unclear/> has been
+the sailing directions has been
 gradually sinking and for three
 years has not been visible at high
-tides: there was formerly a Flag-
-staff on this island devoting the 
-pilot station, which neighbors
-were particulary requested to note
-as a guide: all this has disappeared
+tides: there was formerly a Flag-staff 
+on this island devoting the 
+pilot station, which navigators
+were particularly requested to note
+as a guide: all this has disappeared.
 The pilots now remain in their 
 boat anchored off the old side of 
-the Island, Vessels approaching 
+the Island. Vessels approaching 
 the entrance should endeavor to 
-make the order or Red Beroy placed
-in 1859 on the Red Bank in five +
-a half (5 1/2) fathoms of water (mud)
+make the outer or Red Buoy placed
+in 1859 on the Red Bank in five &amp;
+a half (5 1/2) fathoms of water (<unclear>Mud</unclear>)
 at the third hour of flood tide
+(<unclear>Neap</unclear>)
 
-(neats)</p>
+<pb facs="20170616_100408"/>
     
+(<unclear>Neap</unclear>): it bears some Bird Island
+spit West by North three quarters North
+distance two &amp; a half miles and from 
+the Black Buoy South East half South
+ten &amp; a half miles by Massey's <unclear extent="one word"/>
+Log.</p>
+    
+<p>The bearings of the Black Buoy (for
+which vessels should steer upon
+leaving the Red Buoy) and its 
+situation are as follows: it is placed
+on the north end of African Knoll
+in two and a half fathoms of water
+(springs) and its bearings are
+Cape St. Mary West by South 
+half South. Tower at Bathurst 
+South half West. Fort Bullen
+South by East one quarter East and 
+middle of <unclear extent="one word"/> Creek East 
+three quarters North. All the bearings
+by compass.</p>
+    
+<p>I beg, now, to call
+your attention to the annexed tabular
+statements Nos. 1, 2, 3 and 4.</p>
+
+<p>By reference to No. 1 you will observe
+that the value of the Imports &amp; Exports 
+<catchwords>for</catchwords>
+
+<pb facs="20170616_100414"/>
+
+for 1858 greatly exceeds that of 1859, the
+only exception being the exports to the
+United States which are slightly in
+excess.</p>
+
+<p>Number 2 shows the principal articles
+of importation, the countries furnishing
+them and their amounts in comparison
+with the previous year; it will be observed
+that more tobacco was furnished by
+direct importation from the United
+States than in the former year.</p>
+
+<p>Table Number 3 gives the Exports, their
+destination and quantities as compared
+with 1858. The excess of 1858
+cannot but be noticed.</p>
+
+<p>In Number 4 you have the Exports
+for the past twelve years, the 
+number of vessels entered during the
+year 1859 and the number of American
+vessels entered for the past three
+years.</p>
+
+<p>It is well known that
+the slave trade and the means used
+for suppressing it tends in a great
+<catchwords>measure</catchwords>
+
+<pb facs="20170616_100344"/>
+    
+measure to impede the <sic>developement</sic>
+of American trade on this Coast.</p>
+    
+<p>Unfortunately many of the articles required 
+in legitimate commerce are 
+used also in the slave-trade, namely
+Rum, lumber, empty casks for Palm
+Oil and spice: many instances have 
+occured where vessels pursuing a 
+legitimate voyage have suffered detention 
+and been subject to trial on suspicion
+of being slavers, thereby breaking up
+the voyage and causing only loss to 
+owners. I can mention two cases in this
+colony the "S. W. Nash" and the "Mary Varney"
+and in Sierra Leone. The "Thomas Watson"
+and the "Carolina."</p>
+    
+<p>The means for suppressing the slave-trade 
+it is evident are not effectual
+notwithstanding the <unclear extent="one word"/> expenditure
+by Great Britain and the United States 
+in maintaining a costly squadron and 
+in attempting to blockade this coast:
+for it is notorious that, in the past
+twelve months more slaves have been 
+shipped than ever before. And why?</p>
+   
+<pb facs="20170616_100349"/>
+   
+<p>for the simple mercantile axiom of Demand and Supply <del>that</del>
+for the demand has been great, for the 
+Cuban market: and as long as that
+demand continues, as long as the 
+profits on a single cargo are so immense 
+that one successful voyage
+out of six is remunerative, men will
+be found sufficiently <del>bold</del> daring to 
+undertake and sufficiently bold to
+successfully carry out the voyage.</p>   
+ 
+<p>The Cuban market now, alone, remains.
+Destroy that market and the slave 
+trade ceases to exist, if that is impossible 
+why not blockade the 
+coast of Cuba? the point of destination,
+a far more feasible plan than to attempt 
+to blockade half the continent of Africa!
+The law of nations may not permit
+but cannot England, France and 
+the United States in the name of 
+humanity insist that Spain shall
+make a treaty to that effect?</p>
+    
+<p>Is England anxious to carry out 
+such a course? Does she not desire
+more benefit by the present mode of 
+suppression
+     
 <pb facs="20170616_100447"/>
     
-<p>than by the one proposed above?
+than by the one proposed above?
 "Liberated Africans" furnish her with
 soldiers for her three West India
 Regiments, laborers for her African
 Colonies, laborers for her possessions
 in the West Indies!</p>
     
-<p>The United States main-
-tain a squaderon of one hundred +
+<p>The United States maintain 
+a squadron of one hundred &amp;
 thirteen guns and what benefit 
-do we devise? None- no soldiers,
+do we devise? None. no soldiers,
 no laborers, our legitimate trade
-<unclear/> and our flag often subject
+harassed and our flag often subject
 to insult.</p>
     
-<p>I have the honor to be
-Sir,
-Your obident + humble servant 
-Daniel R.B. Upton
-U.S. Consul</p>
-    
-    
-<p></p>
+<p>I have the honor to be<lb/>
+Sir,<lb/>
+Your obedient &amp; humble servant<lb/> 
+Danl R. B. Upton<lb/>
+U.S. Consul.</p>
 
+<pb facs="20170616_100612"/>
+
+<p>Exports from Gambia from 1848 to 1859 inclusive.</p>
+
+<table>
+<row>
+<cell>Year</cell>
+<cell>Ground Nuts</cell>
+<cell>Hides</cell>
+<cell>Wax</cell>
+</row>
+<row>
+<cell>1848</cell>
+<cell>Tons 8,435</cell>
+<cell>No 49,716</cell>
+<cell>Tons 210</cell>
+</row>
+<row>
+<cell>1849</cell>
+<cell> " 4,339</cell>
+<cell> " 54,311</cell>
+<cell> " 131</cell>
+</row>
+<row>
+<cell>1850</cell>
+<cell> " 6,009</cell>
+<cell> " 86,484</cell>
+<cell> " 274</cell>
+</row>
+<row>
+<cell>1851</cell>
+<cell> " 11,094</cell>
+<cell> " 61,947</cell>
+<cell> " 183</cell>
+</row>
+<row>
+<cell>1852</cell>
+<cell> " 9,295</cell>
+<cell> " 81,345</cell>
+<cell> " 171</cell>
+</row>
+<row>
+<cell>1853</cell>
+<cell> " 11,225</cell>
+<cell> " 68,449</cell>
+<cell> " 124</cell>
+</row>
+<row>
+<cell>1854</cell>
+<cell> " 9,162</cell>
+<cell> " 90,391</cell>
+<cell> " 179</cell>
+</row>
+<row>
+<cell>1855</cell>
+<cell> " 12,484</cell>
+<cell> " 113,261</cell>
+<cell> " 179</cell>
+</row>
+<row>
+<cell>1856</cell>
+<cell> " 10,874</cell>
+<cell> " 42,742</cell>
+<cell> " 153</cell>
+</row>
+<row>
+<cell>1857</cell>
+<cell> " 13,554</cell>
+<cell> " 62,410</cell>
+<cell> " 67</cell>
+</row>
+<row>
+<cell>1858</cell>
+<cell> " 15,728</cell>
+<cell> " 72,652</cell>
+<cell> " 111</cell>
+</row>
+<row>
+<cell>1859</cell>
+<cell> " 8,593</cell>
+<cell> " 58,655</cell>
+<cell> " 86</cell>
+</row>
+<row>
+<cell>Average Crops for 12 years.</cell>
+<cell>Tons 10,066</cell>
+<cell>No. 70,196</cell>
+<cell>Tons 155</cell>
+</row>
+</table>
+
+<p>Number of Vessels entered 1859</p>
+
+<table>
+<row>
+<cell/>
+<cell/>
+<cell>tons</cell>
+<cell>crew</cell>
+</row>
+<row>
+<cell>British</cell>
+<cell>110</cell>
+<cell>12899</cell>
+<cell>1165</cell>
+</row>
+<row>
+<cell>French</cell>
+<cell>56</cell>
+<cell>9658</cell>
+<cell>547</cell>
+</row>
+<row>
+<cell><unclear extent="one word"/></cell>
+<cell>14</cell>
+<cell>2964</cell>
+<cell>108</cell>
+</row>
+<row>
+<cell/>
+<cell>180</cell>
+<cell>25,521</cell>
+<cell>1820</cell>
+</row>
+</table>
+
+<p>American Vessels entered 1856, 1857, 1858.</p>
+
+<table>
+<row>
+<cell/>
+<cell/>
+<cell>tons</cell>
+<cell>crew</cell>
+</row>
+<row>
+<cell>1856</cell>
+<cell>28</cell>
+<cell>5394</cell>
+<cell>228</cell>
+</row>
+<row>
+<cell>1857</cell>
+<cell>30</cell>
+<cell>5571</cell>
+<cell>216</cell>
+</row>
+<row>
+<cell>1858</cell>
+<cell>16</cell>
+<cell>2865</cell>
+<cell>124</cell>
+</row>
+<row>
+<cell>Average</cell>
+<cell>24</cell>
+<cell>4610</cell>
+<cell>189</cell>
+</row>
+</table>
+
+<pb facs="20170616_100619"/>
+
+<p>Comparative Statement of Exports from Gambia for 1859 &amp; 1858</p>
+
+<table>
+<row>
+<cell>Countries</cell>
+<cell>Ground Nuts</cell>
+<cell/>
+<cell>Hides</cell>
+<cell/>
+<cell>Wax</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>1859</cell>
+<cell>1858</cell>
+<cell>1859</cell>
+<cell>1858</cell>
+<cell>1859</cell>
+<cell>1858</cell>
+</row>
+<row>
+<cell/>
+<cell>Weight</cell>
+<cell>Weight</cell>
+<cell>No.</cell>
+<cell>No.</cell>
+<cell>Weight</cell>
+<cell>Weight</cell>
+</row>
+<row>
+<cell>United States</cell>
+<cell>T 1082,,5,,3,,0</cell>
+<cell>T 628,,17,,4,,14</cell>
+<cell>56,589</cell>
+<cell>67,779</cell>
+<cell>None</cell>
+<cell>None</cell>
+</row>
+<row>
+<cell>Great Britain</cell>
+<cell>1127,,16,,2,,0</cell>
+<cell>1516,,18,,3,,0</cell>
+<cell>Nil</cell>
+<cell>25</cell>
+<cell>Tons 75.12.1.4</cell>
+<cell>Tons 61,,11,,2,,14</cell>
+</row>
+<row>
+<cell>France</cell>
+<cell>6297,,19,,2,,0</cell>
+<cell>13122,,17,,2,,14</cell>
+<cell>1,076</cell>
+<cell>Nil</cell>
+<cell> " 11,,7,,1,,23</cell>
+<cell> " 34,,8,,3,,14</cell>
+</row>
+<row>
+<cell>West Indies</cell>
+<cell>26.5.0.0</cell>
+<cell>75.0.0.0</cell>
+<cell>Nil</cell>
+<cell>.894</cell>
+<cell>None</cell>
+<cell>None</cell>
+</row>
+<row>
+<cell>Gorée, for France</cell>
+<cell>58.15.0.0</cell>
+<cell>361.13.3.0</cell>
+<cell>1,000</cell>
+<cell>3,954</cell>
+<cell>None</cell>
+<cell>15.14.1.14</cell>
+</row>
+<row>
+<cell>Leeward Coast</cell>
+<cell>Nil</cell>
+<cell>23,10,0,0</cell>
+<cell>Nil</cell>
+<cell>None</cell>
+<cell>None</cell>
+<cell>None</cell>
+</row>
+<row>
+<cell/>
+<cell>T 8,593,,1,,3,,0</cell>
+<cell>T 15,728,,18,,1,,0</cell>
+<cell>58.655</cell>
+<cell>72,652</cell>
+<cell>T 86,,19,,2,,27</cell>
+<cell>T 111.14,,3,,14</cell>
+</row>
+</table>
+
+<p>Excess of 1858 over 1859</p>
+
+<table>
+<row>
+<cell>Ground Nuts</cell>
+<cell>Tons 71<unclear>1</unclear>5,,16,,2,,0</cell>
+</row>
+<row>
+<cell>Hides</cell>
+<cell><unclear>Nos</unclear> 13,997</cell>
+</row>
+<row>
+<cell>Wax</cell>
+<cell>Tons 24,,15,,0,,15</cell>
+</row>
+</table>
+
+<pb facs="20170616_100702"/>
+
+<p>Sierra Leone District<lb/>
+Yearly Report<lb/>
+Henry Rider</p>
+   
+<p>Consular Agent</p>
+
+<p>Freetown the port of entry for the Colony
+of Sierra Leone West Africa, lies in Lat 8" 29'
+N. and Long 13" 14' W. It is a place of some 
+note and has been <unclear extent="one word"/> the metropolis of 
+this particular part of the coast. The port 
+contains some six or seven thousand inhabitants 
+and the census taken before the late
+epidemic returns nearly forty thousand 
+people in the colony. The exports of the place
+are ground nuts, hides, palm oil, camwood,
+beniseed, palm kernels, bees wax, ivory and
+native gold. Ground nuts and beniseed
+find their principal market in France and 
+are almost wholy shipped in French <unclear>bottoms</unclear>,
+palm oil, palm kernels, and bees wax, are
+also shipped to France but in smaller
+quantities. Palm oil and hides are the 
+principal exports to the United States, besides
+which small quantities of ground nut,
+camwood and ivory are occasionally
+shipped, these freight are confined to
+
+<pb facs="20170616_100721"/>
+    
+to American vessels. England presents a
+market for all the exports of the colony in a quarter 
+or less degree. The imports are Tobacco in
+hogshead, rum, provisions, and a few dry
+goods, from the United States, dry goods and
+provisions of every description from England
+dry goods, <unclear extent="one word"/>, and liquors, from France.
+The port does not present a flourishing condition, 
+on the contrary a stranger is impressed 
+with the idea of decay and want
+of activity, the streets are grass-grown with
+but little travel through them, and there are 
+dilapidated houses, and lots overrun with 
+weeds to be met with at every step; the black
+population, with some exceptions, are very
+poor and inactive, preferring to remain about 
+town earning perhaps enough for a single
+meal, to living in the village and cultivating 
+the land, which with a moderate amount 
+of labor would remunerate them handsomely;
+the exceptions are generally liberated Africans,
+who by strict economy and much shrewdness
+have accumulated money and are, with the 
+few Europeans, the business men of the place,
+the apathy before spoken of however, is entirely
+
+<pb facs="20170616_100726"/>
+    
+entirely confined to appearances, for the commercial 
+interests of the place are of considerable
+importance, the revenues have increased steadily 
+for some years past denoting a corresponding 
+increase in the commerce of the colony, the amount 
+of business done with United States
+is not inconsiderable as the following returns
+for 1859 will show</p>
+
+<p>Arrivals.</p>
+
+<table>
+<row>
+<cell>No of Vessels</cell>
+<cell>Tonnage</cell>
+<cell>No of Min</cell>
+</row>
+<row>
+<cell>29</cell>
+<cell>4,796</cell>
+<cell>231</cell>
+</row>
+</table>
+
+<p>Departures.</p>
+
+<table>
+<row>
+<cell>No of Vessels</cell>
+<cell>Tonnage</cell>
+<cell>No of Min</cell>
+</row>
+<row>
+<cell>33</cell>
+<cell>5,760</cell>
+<cell>271</cell>
+</row>
+</table>
+
+<p>Total of American importations $20,209.14.1<lb/>
+ " " "   do exportations $50,202.17.3</p>
+
+<p>The returns for 1860 I have not been able to 
+obtain.</p>
+    
+<p>The commerce with France is much more 
+important than that of the United States, and
+the business done with England is very great,
+beside many sailing vessels there is a monthly line
+of Steamers freighting and there cannot supply
+the demand of the port for English good, most 
+every packet leaves merchandise behind for want
+    
+<pb facs="20170616_100732"/>
+    
+want of room.</p> 
+
+<p>A serious drawback to the rapid growth of the colony,
+and a heavy burden on the merchants is the very 
+high tariff of duties imposed upon goods imported, 
+many tons of merchandise are now taken to 
+the rivers, which with a more liberal tariff would
+find their way direct to Freetown, enclosed I forward 
+a copy of the table of duties. Vessels pay
+a tonnage duty of one shilling and six pence and 
+have the privilege of leaving and returning to 
+the port a number of times in the same voyage
+providing they are not absent over two months at
+any one time, a further charge of three pence a
+ton is collected as light dues vessels are also
+subject to a harbor master's fee of one pound
+sterling for vessels of 100 to 150 tons, and ten
+shillings for each 50 tons over.</p>
+    
+<p>The currency of the colony is that of England,
+the sterling pounds, shillings, and pence, all
+dollars (silver) are current at par value. Spanish 
+and American gold pass at a small discount.
+French twenty franc pieces command a small
+premium but all other French gold is wholly
+uncurrent.</p>
+
+<p>This port is a coaling station for English
+    
+<pb facs="20170616_100737"/>
+    
+English steamers cruising about the vicinity,
+on their passage to other stations down the coast,
+and quite a large amount of tonnage is engaged 
+in bringing the coals, the vessels generally
+procuring freights of African timber from the 
+adjacent rivers as return cargoes. The slavers
+taken as prizes by English cruisers are sent here 
+for condemnation, the following, is a list of
+those condemned during the latter part of
+last year and for the present year up to date.</p>
+
+<p>1st Septr 29th 1859, a brig name unknown, arrived 
+with 469 slaves on board, she was captured
+off Vhydah by H.M.S.S. "Spitfire" commander
+Chapman; condemned by the Vice Admiralty
+court; about 300 of the slaves were shipped on
+board the bark "Many Ann" Horton Master,
+emigrant ship bound for Trinidad, she
+sailed from this port June 19th 1860. It is
+reported that many of the slaves left against
+their will, and that a number of them
+when let out of the yard in which they had 
+been kept, to go on board the vessel, escaped 
+to the bush, but were recaptured, the unwillingness 
+to leave is accounted for in this
+way, the slaves found many countrymen
+
+<pb facs="20170616_100743"/>
+    
+countrymen among the people of Sierra Leone who
+persuaded them they ought to remain, and not
+allow themselves to be sent away. It seem the
+better plan to send them away however, as in 
+nine cases out of ten they turn out very bad
+if allowed to remain in the colony.</p>
+    
+<p>2nd "Brig El Rosario" captured by H.M.S.S.
+"Arrogant" commander Edmonston, rear the line,
+arrived here the 24th December 1859, condemned in
+the Vice Admiralty court January 4th 1860.</p>
+
+<p>3d A full ship of about 400 tons captured
+by H.M.S.S. "Triton" Lieutenant Burton commanding, 
+in Lat 3° 25' N. Long 11° W arrived here
+April 17th 1860, the ship was without papers, colors
+or names, condemned in the Vice Admiralty court.</p>
+
+<p>4th Bark "Constancia" under Uriguayan colors
+(formerly the American bark "Flying Cloud") captured
+by H.M.S.S. "Electo" off Cameroons, arrival here
+October 3rd 1860 condemned in the mixed commissions 
+court October 29th 1860 as a prize to 
+England and the Uriguayan Republic.</p>
+    
+<p>5th A brig no colors, or name Spanish built
+captured by H.M.S.S. "Espoir" commander Douglas
+off Seabar, Sherbro, arrival Nov. 21st 1860, condemned
+in the Vice Admiralty court, this is the last    
+    
+<pb facs="20170616_100748"/>
+ 
+last vessel up to this date (December 20th 1860).</p>
+    
+<p>A canoe was captured by Thomas Pike 
+Esqu harbor master, off Tagreen point Sierra
+Leone river on the night of February 21st 1860,
+she had on board 34 slaves they were all 
+liberated.</p>
+    
+<p>Of late, Bulamo, in the Rio Grande river
+has occupied the attention of this government,
+it is considered a dependency of this colony,
+it has been visited lately by Governor Hill,
+and he will attempt another settlement, a 
+company of soldiers are to the stationed there
+at once. The Portuguese also claim the island
+and occupied it until driven out by the 
+English the claim I believe has never been
+properly settled. In the spring and summer 
+of 1859 an epidemic visited the colony, 
+causing about, eighty deaths out of a population
+of one hundred Europeans, the place is 
+but just recovering from the effects of it.</p>
+    
 </div1>
 
 </body>
