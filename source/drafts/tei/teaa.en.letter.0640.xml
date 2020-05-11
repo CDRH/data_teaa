@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Thomas Brown to W.H. Seward, March 4, 1867</title>
+<title>Despatch from Thomas Brown to William H. Seward, March 4, 1867</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,10 +42,11 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">espatch from Thomas Brown to W.H. Seward, March 4, 1867</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Thomas Brown to William H. Seward, March 4, 1867</title>
+<title level="m" type="microformat">Despatches from U.S. Consuls in Bathurst, Gambia 1857-1889</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="microfilm">T365</biblScope>
+<biblScope unit="roll">1</biblScope>
 <date when="1867-03-04">March 4, 1867</date>
 </bibl>
 </sourceDesc>
@@ -76,8 +78,11 @@
 <keywords scheme="original" n="places">
 <term/>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>England</term>
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,8 +98,6 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Brown, Thomas</persName>
@@ -103,8 +106,8 @@
 <date when="1867-03-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, W.H.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,6 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-06" who="#kln">reviewed, encoded</change>
 <change when="2020-02-17" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,13 +128,14 @@
 
 <pb facs="20170616_102017"/>
 
-<ab>Consulate of the United States of America
-Bathurst River Gambia
-4th March 1867.</ab>
+<p>Consulate of the United States of America<lb/>
+Bathurst River Gambia<lb/>
+4th March 1867.</p>
 
-<p>Sir,
-Herewith I have the honor to
-transmit the return of the arrival and 
+<p>Sir</p>
+
+<p>Herewith I have the honor to
+transmit the return of the arrivals and 
 Departures of American Vessels and
 the statement of Fees for the half year
 ending the 31st December 1866.</p>
@@ -140,50 +145,53 @@ have considerably fallen off since the
 Rebellion of the Southern States in
 consequence of the bulk of the American 
 Trade having since that period been
-carried on under the English Flag.
-For the last half year the total
-is only $20.23 a sum insufficient 
+carried on under the English Flag.</p>
+
+<p>For the last half year the total
+is only $20.23 ½ a sum insufficient 
 even to pay a Man to attend to the 
-Flag+ Flag Staffsade.</p>
+Flag &amp; Flag Staff.</p>
     
 <p>By the return of Imports and Exports
-herewith enclosed you will see that the</p>
+herewith enclosed you will see that the
     
-<ab>To the Honorable
-W.N. Seward
-Secretary of State
-Washington</ab>
+<fw type="address">To the Honorable
+W F Seward<lb/>
+Secretary of State<lb/>
+&amp;c &amp;c &amp;c<lb/>
+Washington</fw>
 
 <pb facs="20170616_102030"/>
 
-<p>trade between this port the United States
-has considerably increased tho with much 
-<unclear/></p> 
+trade between this port &amp; the United States
+has considerably increased tho' with much 
+fluctuation.</p> 
     
-<p>I have not yet received the <unclear/>
-for the 39th Congress and am therefore
-unacquainte with its provisions or into
-allorance if any been made as
-compensation for services at this consulate.
-The Office of the consulate is held at my
-own House which is rated at French Cuid
-of fifty dollars after <unclear/> and would
+<p>I have not yet received the public
+acts for the 39th Congress and am therefore
+unacquainted with its provisions or into
+allowance if any has been made as
+compensation for services at this consulate.</p>
+
+<p>The Office of the consulate is held at my
+own House which is rated at Twelve Hundred
+&amp; fifty Dollars per annum and would
 readily let a Fifteen Hundred dollars
-I respectfully crave to be allowed Five
-Hundred and Fifty Dollarsa after <unclear/>
-for Rent of Offices.</p>
+I respectfully crave to be allowed Two
+Hundred and Fifty Dollars per annum
+for Rent of Offices</p>
  
-<p>I crave refernce to my better of the 
+<p>I crave reference to my letter of the 
 20th November last renewing application 
 for a New Seal and I now further
-make requistion for a large Flag to how 
-at the Flag staff as also a small bon
-flag.
+make requisition for a large Flag to hoist 
+at the Flag staff as also a small Boat
+Flag.</p>
 
-I have the honor to be
-Sir
-Your most obedient Servant
-Thomas Brown
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your most obedient Servant<lb/>
+Thomas Brown<lb/>
 Commercial Agent</p>
    
 </div1>

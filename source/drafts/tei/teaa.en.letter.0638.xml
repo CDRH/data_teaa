@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Thomas Brown to W.H. Seward, March 1, 1862</title>
+<title>Despatch from Thomas Brown to William H. Seward, March 1, 1862</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,10 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Thomas Brown to W.H. Seward, March 1, 1862</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Thomas Brown to William H. Seward, March 1, 1862</title>
+<title level="m" type="microformat">Despatches from U.S. Consuls in Bathurst, Gambia 1857-1889</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="microfilm">T365</biblScope>
+<biblScope unit="roll">1</biblScope>
 <date when="1862-03-01">March 1, 1864</date>
 </bibl>
 </sourceDesc>
@@ -58,7 +60,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Encounters with Africans</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,15 +73,20 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Rider, Henry</term>
+<term>Upton, Daniel R. B.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Gambia</term>
+<term>Sierra Leone</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
+<keywords scheme="original" n="empires">
+<term>France</term>
+<term>United States</term>
+</keywords>
+   
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -93,18 +101,16 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Brown, Thomas</persName>
-<roleName>US Consul</roleName>
-<placeName>Gambia</placeName>
+<roleName>Acting U.S. Consul</roleName>
+<placeName>Bathurst, Gambia</placeName>
 <date when="1862-03-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, W.H.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,6 +118,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-05" who="#kln">reviewed, encoded</change>
 <change when="2020-02-21" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,18 +131,19 @@
 
 <pb facs="20170616_101424"/>
 
-<ab>Consulate of the United States of
-America ar Bathurst
-1st March 1862</ab>
+<p>Consulate of the United States of
+America at Bathurst<lb/>
+1st March 1862</p>
     
-<p>Sir,
-I have delayed forwarding the annual
+<p>Sir,</p>
+
+<p>I have delayed forwarding the annual
 Report of the trade and commerce of the 
-Gamb ia for the last year in anticipation od 
-Mr Consul Uptons return from the states for him 
+Gambia for the last year in anticipation of 
+Mr Consul Upton's return from the states for him 
 to do so but as that Officer has not yer arrived, I 
-will no longer defer during se. Tberewith I have
-th pleasure to forwar you also the report of
+will no longer defer doing so. Therewith I have
+the pleasure to forward you also the report of
 Henry Rider Esquire Consular agent for the 
 Sierra Leone district.</p>
     
@@ -146,48 +154,50 @@ previous years the yield of the groundnut crops was
 more abundant and consequently the natives who cultivate
 them, were enabled to purchase more largely of American
 and European goods. The increased demand
-in France for Groundnuts for <unclear/> purposes.
+in France for Groundnuts for oleaginous purposes,
 
-Honorable 
-W.H. Seward
+<fw type="address">To<lb/>
+The Honorable <lb/>
+W H Seward<lb/>
 Secretary of State for the 
-United States</p>
+United States<lb/>
+&amp;c &amp;c &amp;c</fw>
     
 <pb facs="20170616_101433"/>
     
-<p>makes the French merchants and Traders keen
+makes the French Merchants and Traders keen
 competitors with the English in the purchase of these
 nuts from the natives and finding has the 
 latter gives the preference to many of the English
-articles of manufature the French have of late
+articles of manufacture the French have of late
 introduced the system of trading with the natives
-for Cash instead of the Barter Trade with good
-hitherto + exclusively pursued and to so great are
+for Cash instead of the Barter Trade with goods
+hitherto exclusively pursued and to so great are
 extent has this Cash Trade been introduced that
 it has materially affected the importation of goods
-and a consequences deficiency in the Colonial Customs
+and a consequent deficiency in the Colonial Customs
 Revenue has taken place.</p>
 
 <p>The Colonial Legislature with a 
 view to meet this altered state of Trade has lately 
-passed An Ordinance (which however was not 
-yet been confirmed of Her Majesty) abolishing thr 
+passed An Ordinance (which however has not 
+yet been confirmed of Her Majesty) abolishing the 
 four per cent advalorem duties hitherto paid upon
-the importantion of any goods into the Colony and
+the importation of any goods into the Colony and
 have adopted an export duty of one and a half
-cent per Bashel of 20lbs on Groundnuts and /our
-<unclear/> each on Hides by this new systen of station
+cent per Bushel of 20 lbs on Groundnuts and four
+cents each on Hides by this new system of taxation
 the man who trades with Cash will contribute
-equally towards the Colonial Revenues with the 
+equally towards the Colonial Revenue with the 
 man who trades with goods.</p>
     
 <p>The important differences in the 
 United States has during the last twelve months
-prmisely affected the importation of American</p>   
+seriously affected the importation of American
  
 <pb facs="20170616_101439"/>
     
-<p>for do which will observe by Table Not has
+goods which will observe by Table No 1 has
 fallen off nearly one third whilst the Exports
 remains nearly the same the Produce being 
 bought by Bills or Cash instead of being in
@@ -195,16 +205,18 @@ Exchange for American Manufacturers.</p>
     
 <p>Pea Nuts no longer arriving in the 
 northern from the southern ports of the Union
-has created a greater demand for those raused
+has created a greater demand for those raised
 in African the best quality of which is to be
-had in the Gambia.
+had in the Gambia.</p>
 
-I have the honor to be 
-Sr,
-Your Most Obedient 
-Humble Servant
-Thomas Rover
-Acting United States Consul</p>
+<p>I have the honor to be<lb/> 
+Sir<lb/>
+Your Most Obedient<lb/> 
+Humble Servant<lb/>
+Thomas Brown<lb/>
+Acting United States Consul.</p>
+
+<p>Three enclosures.</p>
    
 </div1>
 

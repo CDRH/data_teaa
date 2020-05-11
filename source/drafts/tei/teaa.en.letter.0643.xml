@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,9 +43,10 @@
 <sourceDesc>
 <bibl>
 <title level="a">Despatch from Thomas Brown to Hamilton Fish, November 25, 1870</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="m" type="microformat">Despatches from U.S. Consuls in Bathurst, Gambia 1857-1889</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="microfilm">T365</biblScope>
+<biblScope unit="roll">2</biblScope>
 <date when="1870-11-25">November 25, 1870</date>
 </bibl>
 </sourceDesc>
@@ -74,10 +76,13 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Windsor (England)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,26 +98,26 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Brown, Thomas</persName>
-<roleName>US Consul</roleName>
-<placeName>Gambia</placeName>
-<date when="1870-11-25"/><!-- FILL IN THE DATE ON THE LETTER -->
+<roleName>U.S. Consul Pro Tem</roleName>
+<placeName>Bathurst, Gambia</placeName>
+<date when="1870-11-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Fish, Hamilton</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/232585893">Fish, Hamilton, 1808-1893</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1871-01-16"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1870-11-25" who="#unm">transcribed and encoded</change>
+<change when="2020-04-08" who="#kln">reviewed, encoded</change>
+<change when="2020-02" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -123,35 +128,37 @@
 <div1 type="document" xml:lang="en">
 
 <pb facs="20170616_110402"/>
+
+<note>Department of State Received Jan <unclear>16</unclear> 1871</note>
     
-<ab>United States Consulate
-Bathurst River Gambia
-25th November 1870</ab>    
+<p>United States Consulate<lb/>
+<unclear>Bathurst</unclear> River Gambia
+25th November 1870</p>    
   
-<p>Sir,
-I have to inform you that, I 
-have <unclear/> officially from the
-Administrator of these settlements
-copy of Her Britanic citizens
-order in <unclear/> dated, Windsor 17th
-day of August 1870 leaving reference
-to the connection between Great
+<p>Sir</p>
+
+<p>I have to inform you that, I 
+have received officially from the
+Administrator of these Settlements
+copy of Her Britannic Majesty's
+order in Council dated, Windsor 17th
+day of August 1870 bearing reference
+to the convention between Great
 Britain and the United States
-under the "naturalization act 1870"
+under the "Naturalization act 1870"
 and shall be glad to receive any 
-<unclear/> you <unclear/> deem
-necessary for my gudiance.
+instructions you may deem
+necessary for my guidance</p>
 
-I am Sir,
-Your obident + Servant
-Thomas Brown
-Consul his tow</p>
+<p>I am Sir<lb/>
+Your obedient Servant<lb/>
+Thomas Brown<lb/>
+Consul pro tem</p>
     
-<ab>The Honorable
-Hamilton Fish
-Secretary of State
-Washington</ab>
-
+<fw type="address">To The Honorable<lb/>
+Hamilton Fish<lb/>
+Secretary of State<lb/>
+Washington</fw>
 
 </div1>
 

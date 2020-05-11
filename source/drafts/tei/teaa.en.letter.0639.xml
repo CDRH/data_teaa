@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Daniel R.B. Upton to W.H. Seward, September 21, 1864</title>
+<title>Despatch from Daniel R. B. Upton to William H. Seward, September 21, 1864</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,10 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Daniel R. Upton to W.H. Seward, September 21, 1864</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Daniel R. Upton to William H. Seward, September 21, 1864</title>
+<title level="m" type="microformat">Despatches from U.S. Consuls in Bathurst, Gambia 1857-1889</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="microfilm">T365</biblScope>
+<biblScope unit="roll">1</biblScope>
 <date when="1864-09-21">September 21, 1864</date>
 </bibl>
 </sourceDesc>
@@ -70,17 +72,23 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Lloyd, Richard Charles</term>
+<term>Rider, Henry</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Bathurst (Gambia)</term>
+<term>Freetown (Sierra Leone)</term>
+<term>Salem (Mass.)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>Great Britain</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -93,25 +101,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Upton, Daniel R. B.</persName>
-<roleName>US Consul</roleName>
-<placeName>Gambia</placeName>
+<roleName/>
+<placeName>New York, New York</placeName>
 <date when="1864-09-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, W.H.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1864-09-23"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-06" who="#kln">reviewed, encoded</change>
 <change when="2020-02-21" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,12 +132,14 @@
 
 <pb facs="20170616_101802"/>
 
-<ab>New York 21st Sept. 1864
-88 Beaver St.</ab>
-    
-<p>Sir:
+<note>Rec 23d Sept</note>
 
-I have the honor to inform
+<p>New York 21st Sept. 1864<lb/>
+88 Beaver St.</p>
+    
+<p>Sir:</p>
+
+<p>I have the honor to inform
 you that the present state of my
 health, coupled with private matters
 requiring my personal attention in this
@@ -142,7 +152,7 @@ Consul at Bathurst.</p>
 citizen, now resident in Bathurst;
 I would respectfully beg to suggest
 the appointment of Mr. Richard Charles
-Llyod of this city.</p>
+Lloyd of this city</p>
     
 <p>Mr. Lloyd, though an Englishman by 
 birth, he presents the only established
@@ -150,48 +160,47 @@ American house in Bathurst, and
 is in his interests, and connections
 American.</p>
     
-<ab>To The Honorable 
-W.N. Seward
-Secretary of State</ab>
+<fw type="address">To The Honorable<lb/> 
+W. H. Seward<lb/>
+Secretary of State<lb/>
+&amp;c. &amp;c. &amp;c.</fw>
     
 <pb facs="20170616_101814"/>
     
 <p>My confidence in recommending 
-this appointmentis increased,
+this appointment is increased,
 by the fact, that I have reason to
-believe, that it would give satis-
--faction to the Colonial authorities
-who are always consuled, by 
+believe, that it would give satisfaction 
+to the Colonial authorities
+who are always consulted, by 
 the Foreign office, before an
-register is granted.</p>    
+Exequatur is granted.</p>    
 
-<p>I have also, requestfully
+<p>I have also, respectfully
 to suggest to the Department, the 
 establishing of a Consulate at
 Freetown, Sierra Leone: it is
 now, as you are aware, a 
-Consular Agency, under the di-
-rection of the Bathurst <unclear/>
+Consular Agency, under the direction 
+of the Bathurst Consul.
 The importance of Freetown in
 a commercial point of view,
-and the lack of frequent com-
-munication between it and 
-the Gambia, render it, in</p>
+and the lack of frequent communication 
+between it and 
+the Gambia render it, in
     
 <pb facs="20170616_101819"/>
 
-<p>my opinion advisable.
+my opinion advisable.
 No one better fitted for the position
 of Consul can be found there
 than Mr. Henry Rider of Salem
-Massachusetts, the present Con-
-sular Agent.
+Massachusetts, the present Consular Agent.</p>
 
-I have the honor to be,
-Sir,
-Your most obdt. Servt.
-Daniel R.B. Upton</p>
-    
+<p>I have the honor to be<lb/>
+Sir,<lb/>
+Your most obdt. Servt.<lb/>
+Danl R. B. Upton</p>  
     
 </div1>
 

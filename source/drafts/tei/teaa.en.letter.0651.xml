@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -70,14 +71,13 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Goddard, Harry</term>
+<term>Goddard, William</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>England</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,18 +93,16 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Brown, Thomas</persName>
-<roleName>US Consul</roleName>
-<placeName>Gambia</placeName>
+<roleName/>
+<placeName>Bathurst, Gambia</placeName>
 <date when="1879-08-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, F.W.</persName>
-<roleName>Acting Secretary</roleName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,7 +110,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="1879-08-01" who="#unm">transcribed and encoded</change>
+<change when="2020-04-08" who="#kln">reviewed, encoded</change>
+<change when="2020-02" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,62 +123,93 @@
 
 <pb facs="20170616_111953"/>
     
-<ab>Consulate of the United States
-of America
-Bathurst R. Gambia
-1st August 1879</ab>
+<p>Consulate of the United States
+of America<lb/>
+Bathurst R. Gambia<lb/>
+1st August 1879.</p>
 
-<p>Sir,
-I have to acknowledge
+<p>Sir,</p>
+
+<p>I have to acknowledge
 receipt of your despatch of the 20th
 March last conferring upon me
 the honor of the appointment of 
-Vce Consul for the United States at
+Vice Consul for the United States at
 this Port.</p>
     
 <p>I feel duly sensible of the confidence
-thus <unclear/> to warosome and I am also
+thus evinced towards me and I am also
 gratified by the expression of 
-satisfaction states in the despatch 
+satisfaction stated in the despatch 
 of the discharge of the duties of the
-Consulate by my late <unclear/>.</p>
+Consulate by my late son.</p>
     
 <p>I am seeking to close up my 
 business and to withdraw from
 Africa I am thus obliged to decline the 
-honor of the appointment conferrede
+honor of the appointment conferred
 
-The Honorable 
-F.W. Seward
-Assistant Secretary 
-Department of State</p>
+<fw type="address">The Honble<lb/> 
+F. W. Seward<lb/>
+Assistant Secretary<lb/> 
+Department of State</fw>
     
 <pb facs="20170616_111959"/>
     
-<ab>upon me.</ab>
+upon me.</p>
     
-<p>I return the blank Bond-
-Imill take care of the archives of
-the office, and <unclear/> look after the 
+<p>I return the blank Bond.
+I will take care of the archives of
+the office, and will look after the 
 interests of the Citizens of the United
 States until a fresh appointment
 be made.</p>    
     
 <p>I take leave to recommend
-to you Mr. Harry Goddard well
-knowm to me from Childhood, he is
+to you Mr Harry Goddard well
+known to me from Childhood, he is
 a young Gentleman of high honor and 
-principle, the son of Mr. William
-Goddard of the firm of Messro Williams 
-Goddard <unclear/> of this place, and every 
-way fitted by his social position + education
-to fill the office- he is at present
-in England but <unclear/> be coming 
-out in January <unclear/>.
+principle, the son of Mr William
+Goddard of the firm of Messrs William 
+Goddard &amp; Co of this place, and every 
+way fitted by his social position &amp; education
+to fill the office. he is at present
+in England but will be coming 
+out in January next.</p>
 
-I am Sir
-Your obident servant 
+<p>I am Sir<lb/>
+Your obedient servant<lb/> 
 Thomas Brown</p>    
+
+<pb facs="20170616_112017"/>
+
+<p>Know all men by these Presents:</p>
+
+<p>That we, Thomas Brown  principal,
+and &#160; &#160; &#160; 
+and &#160; &#160; &#160; , sureties,
+are held and firmly bound to the United States of America in the sum
+of Two thousand dollars, money of the said United States, to the 
+payment whereof we bind ourselves, jointly and severally, our joint and
+several heirs, executors, and administrators.</p>
+
+<p>Witness our hands and seals this &#160; &#160; &#160; day
+of  &#160; &#160; &#160;, 1879.</p>
+    
+<p>The condition of the above obligation is such, That of the above
+bounden Thomas Brown, appointed
+Vice Consul of the United 
+States at Bathurst
+shall truly and faithfully discharge the duties of his said office according to 
+law, and shall truly and faithfully account for, pay over, and deliver up,
+all moneys, goods, effects, books, records, papers, and other property which
+shall come into the hands of the said Thomas Brown
+or to the hands of any person for his use as such Vice
+Consul, under any law now or hereafter enacted,
+and that he will faithfully perform all other duties now or hereafter lawfully
+imposed upon him as such Vice Counsul
+then this obligation to be void; otherwise, to remain in full force.</p>
+
 </div1>
 
 </body>

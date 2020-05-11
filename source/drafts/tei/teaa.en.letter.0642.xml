@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,9 +43,10 @@
 <sourceDesc>
 <bibl>
 <title level="a">Despatch from Thomas Brown to Hamilton Fish, November 25, 1870</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="m" type="microformat">Despatches from U.S. Consuls in Bathurst, Gambia 1857-1889</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="microfilm">T365</biblScope>
+<biblScope unit="roll">2</biblScope>
 <date when="1870-11-25">November 25, 1870</date>
 </bibl>
 </sourceDesc>
@@ -58,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -76,11 +78,15 @@
 <keywords scheme="original" n="places">
 <term/>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>England</term>
+<term>France</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -93,26 +99,26 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Brown, Thomas</persName>
-<roleName>US Consul</roleName>
-<placeName>Gambia</placeName>
+<roleName>U.S. Consul Pro Tem</roleName>
+<placeName>Bathurst, Gambia</placeName>
 <date when="1870-11-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Fish, Hamilton</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/232585893">Fish, Hamilton, 1808-1893</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1871-01"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="1870-11-25" who="#unm">transcribed and encoded</change>
+<change when="2020-04-07" who="#kln">reviewed, encoded</change>
+<change when="2020-02" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -124,49 +130,51 @@
 
 <pb facs="20170616_110259"/>
 
-<p>United States Consulate
-Bathurst River, Gambia
+<note>Department of State received Jan 1871</note>
+
+<p>United States Consulate<lb/>
+<unclear>Bathurst</unclear> River, Gambia<lb/>
 25th November 1870</p>
     
-<p>Sir,
-I crave leave to bring under
+<p>Sir</p>
+
+<p>I crave leave to bring under
 your notice the fact, that American
 Commerce has been very much 
 depressed on the West Coast of Africa
-by the contenance of New <unclear/> tax
-of one coast sold new found weight on
-groundnuts or ground peas.</p>
+by the countenance of <unclear extent="one word"/> <unclear>War</unclear> Tax
+of one cent gold new pound weight on
+Groundnuts or Ground Peas.</p>
     
-<p>Nuts tax was imposed during the
-Rebellion on the Southern States-
-the high prices threw current in the 
+<p><unclear extent="one word"/> tax was imposed during the
+Rebellion of the Southern States -
+the high prices <unclear extent="one word"/> current in the 
 United States for this article enables
-Importer to pay it easily, but now 
-prices nuts very low and <unclear/> duty.
-
-accounts</p>
+Importers to pay it easily, but now 
+prices rule very low and this duty
+<catchwords>amounts</catchwords>
     
-<ab>To the Honorable 
-Hamilton Fish
-Secretary of State
-Washington</ab>
+<fw type="address">To the Honorable<lb/>
+Hamilton Fish<lb/>
+Secretary of State<lb/>
+Washington</fw>
 
 <pb facs="20170616_110312"/>
     
-<p>amounts virtually to a prohibition
-American goods can be imported
-via France abd England and
+amounts virtually to a prohibition.
+American Goods can be imported
+via France and England and
 bartered for Ground Nuts to better
-advantage than, <unclear/> name article
-can be imported direct from via
-United States and barter for 
+advantage than, the same articles
+can be imported direct from the
+United States and bartered for 
 Groundnuts to be imported here in 
-return.
+return.</p>
 
-I am Sir
-Your the obident Servant
-Thomas Brown
-Consul pro: term</p>    
+<p>I am Sir<lb/>
+Your the obedient Servant<lb/>
+Thomas Brown<lb/>
+Consul pro: tem</p>    
     
 </div1>
 

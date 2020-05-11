@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Thomas Brown to C.N. Korbright, May 1, 1874</title>
+<title>Despatch from Thomas Brown to C. H. Kortright, May 1, 1874</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
+<resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,10 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Thomas Brown to C.N. Korbright, May 1, 1874</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Thomas Brown to C. H. Kortright, May 1, 1874</title>
+<title level="m" type="microformat">Despatches from U.S. Consuls in Bathurst, Gambia 1857-1889</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="microfilm">T365</biblScope>
+<biblScope unit="roll">2</biblScope>
 <date when="1874-05-01">May 1, 1874</date>
 </bibl>
 </sourceDesc>
@@ -58,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,14 +72,12 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Rider, J. J.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Boston (Mass.)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,18 +93,16 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Brown, Thomas</persName>
-<roleName>Vice Cousul</roleName>
-<placeName>Gambia</placeName>
+<roleName>Acting U.S. Vice Consul</roleName>
+<placeName>Bathurst, Gambia</placeName>
 <date when="1874-05-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Kortbright, C.N.</persName>
-<roleName>Governor</roleName>
+<persName>Kortright, C. H.</persName>
+<roleName>Governor of Gambia</roleName><!-- actually Administrator of Gambia -->
 <placeName>Washington,D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,6 +110,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-04-08" who="#kln">reviewed, encoded</change>
 <change when="2020-02-19" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,81 +123,82 @@
 
 <pb facs="20170616_111246"/>
 
-<ab>Consulate of the United States of America
-Bathurst 1 May 1874</ab>
+<p>Consulate of the United States of America<lb/>
+Bathurst 1 May 1874</p>
     
-<p>Sir,
-I have the honor to enclose for 
-your Excellency's information copy
-of a letter, received today as this 
-Consulate from Mr J.J. Rides an
-americcan citizen and consignee of 
-the American bargne Jemie.</p>
-    
-<p>Bushman of Boston, in which he 
-complains that, having paid the 
-homage dues on this vessel in 
-January last, for the whole of the 
-year 1874 under the tonnage.</p>
+<p>Sir</p>
 
-<p>Ordinace (section 4) of the 18th April
-1860 then in force he was yesterday
-called upon by the custom House
+<p>I have the honor to enclose for 
+your Excellency's information copy
+of a letter received today at this 
+Consulate from Mr J J Rider an
+American Citizen and Consignee of 
+the American barque Jennie
+Cashman of Boston, in which he 
+complains that, having paid the 
+tonnage dues on this vessel in 
+January last, for the whole of the 
+year 1874 under the tonnage
+ordinance (section 4) of the 18th April
+1860 then in force he was yesterday 
+called upon by the Custom House
 authorities here, and compelled to
-pay (which he did under protest</p>
+pay (which he did under protest
+<catchwords>a</catchwords>
     
-<ab>To His Excellency
-C.N. Korbright
-Governor</ab>
+<fw type="address">To His Excellency
+C. H. Kortright<lb/>
+Governor</fw>
     
 <pb facs="20170616_111252"/>
     
-<p>a second tonnage due, under the 
+a second tonnage due, under the 
 ordinance of the 31st March 1874 upon
 the same vessel, within the year,
-for which he has already paid.</p>    
+for which he has already paid</p>    
     
-<p>Therefore other American vessels,
-that the Jennie Cashman have
+<p>Therefore other American vessels
+that like the Jennie Cashman have
 already paid the annual tonnage
 for the current year, and will on
 their return within the year, have 
 the same cause of complaint
 I respectfully submit that there
-exists just and eqiuable reasons for 
+exists just and equitable reasons for 
 seeking relief from your Excellency 
 from this second payment by 
 vessel that have already paid 
-for was muh as the tonnage
-impesed under the 4th section of the 
-ordinance of the 18th April 1860</p>
+for was much as the tonnage
+imposed under the 4th Section of the 
+ordinance of the 18th April 1860
     
 <pb facs="20170616_111259"/>
     
-<p>was an annual charge which 
+was an annual charge which 
 having been once paid gave 
 vessels the right to enter all the 
 year for which the payment was
 made free from a repetition of
-the charger it this became a 
-lacit=agrement, between the 
-Government + the faith of it
+the charge, it thus became a 
+tacit agreement, between the 
+Government &amp; the ship owner
+who upon the faith of it
 chartered his vessel and made 
 his engagements it is therefore
-hard upon him to pass on
-ordinance + to give it retrospective
-effect, tho it is not to expressed
+hard upon him to pass an
+ordinance &amp; to give it retrospective
+effect, tho' it is not so expressed
 in the ordinance itself.</p>
     
-<p><unclear/> your Excellency's
-consideration of the case with 
-high consideration
+<p>Soliciting your Excellency's
+consideration of the case, with 
+high consideration</p>
 
-I have the honor to be 
-Sir,
-Your obdt st
-Thomas Brown
-Acting Vice Consul for the 
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your obdt st<lb/>
+Thomas Brown<lb/>
+Actg Vice Consul for the 
 United States of America</p>
     
 </div1>
