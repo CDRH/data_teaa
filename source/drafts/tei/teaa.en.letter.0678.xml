@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Ravonina hitreineaiur to Earl Granville, February 7, 1883</title>
+<title>Despatch from Ravoninahitriniarivo and Ramaniraka to Earl Granville, February 7, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,10 +42,10 @@
 
 <sourceDesc>
 <bibl>
-    <title level="a">Despatch from Ravonina hitreineaiur to Earl Granville, February 7, 1883</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Ravoninahitriniarivo and Ramaniraka to Earl Granville, February 7, 1883</title>
+<title level="m" type="microformat">Notes From the Madagascan Legation in the United States to the Department of State, 1883-1894</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="roll">T806</biblScope>
 <date when="1883-02-07">February 7, 1883</date>
 </bibl>
 </sourceDesc>
@@ -70,14 +71,18 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Baudais</term>
+<term>Ducluc</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Madagascar</term>
+<term>Paris (France)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>France</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,25 +98,25 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName>U.S. Consul</roleName>
-<placeName>Madagascar</placeName>
+<persName>Ravoninahitriniarivo</persName>
+<persName>Ramaniraka</persName>
+<roleName/>
+<placeName>London, England</placeName>
 <date when="1883-02-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Granville, Earl</persName>
+<persName ref="http://viaf.org/viaf/13068670">Granville, Granville George Leveson-Gower, Earl, 1815-1891</persName>
 <roleName>Secretary of State for Foreign Affairs</roleName>
-<placeName>London</placeName>
+<placeName>London, England</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-05-13" who="#kln">reviewed, encoded</change>
 <change when="2020-02-24" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,13 +129,18 @@
 
 <pb facs="20170614_154158"/>
 
-<ab>To, The Right Honorable
-Earl Granville K.G.
+<p>London<lb/>
+February 7th 1883</p>
+
+<p>To,<lb/>
+The Right Honorable<lb/>
+Earl Granville K.G.<lb/>
 Her Majesty's Principal Secretary of 
-State for Foreign Affairs,-</ab>
+State for Foreign Affairs,</p>
     
-<p>My Lord,
-Having carefully considered the report of 
+<p>My Lord,</p>
+
+<p>Having carefully considered the report of 
 our affairs with the French Government which has 
 lately appeared in its "Documents Diplomatiques," we
 beg to submit to Your Lordship's friendly attention
@@ -138,42 +148,42 @@ the following few brief notes which we feel are alike
 demanded by the interests of truth and the welfare
 of our cause.</p>
 
-<p>With regard to the correspondence of more bau-
-dais, we shall not trespass upon you time by deny-
-ing in detail the many misrepresentations thereon
+<p>With regard to the correspondence of Monsr Baudais, 
+we shall not trespass upon your time by denying 
+in detail the many misrepresentations thereon
 made. It was not to be expected that his letters
 would give a unprejudiced account of the state 
 of affairs between France and Madagascar. But
-we did look forwad to finding a fair historical 
-ecord of our dealings with French officials
+we did look forward to finding a fair historical 
+record of our dealings with French officials
 at Paris in the Government document already
-referred to, and are sorry to be compilled to 
-assert that such, record has not been given.</p>
+referred to, and are sorry to be <sic>compilled</sic> to 
+assert that such record has not been given.</p>
 
 <p>Permit us to remind Your Lordship of what we
 have already had the honour of stating in our
 communication of 9th December 1882 with regard
-to the manner in which our business was transae-
--ted in Paris.</p>
+to the manner in which our business was transacted 
+in Paris.</p>
 
-<p>Except at the very beginning of the negotiations
+<p>Except at the very beginning of the negotiations,
 our affairs were not dealt with by those who had
-
-been</p>
+<catchwords>been</catchwords>
 
 <pb facs="20170614_154218"/>
-<p>been officially appointed to discuss them on the 
+
+been officially appointed to discuss them on the 
 part of France. In all the attempts to come to an 
-understanding the French Goverment was represented 
-by intermediaries who we have reason to believe con-
-ducted the business with their own personal advan-
-tage chiefly in view. -By these gentlemen we were
+understanding the French Government was represented 
+by intermediaries who we have reason to believe conducted 
+the business with their own personal advantage 
+chiefly in view. By these gentlemen we were
 given to understand that there was not the slightest 
 hope of avoiding immediate hostilities with France
 except by making some concession to the National
 pride. We had clearly refused to acknowledge
-the claim to a Protectorate in our Note to mess-
-les Commercial (No. 23 of Documents Deplomatiques)
+the claim to a Protectorate in our Note to Messrs
+les Commissaires (No. 23 of Documents Diplomatiques)
 on the subject, and continued to do so throughout.
 But on being promised by the intermediaries
 that a temporary removal of our new Custom
@@ -181,69 +191,67 @@ Houses from the North West Coast, and an offer
 to grant long leases of land would lead to a 
 withdrawal of the threatened protectorate, we 
 verbally expressed our willingness, thus to meet 
-the French Government halfway;-our conversa-
-tions at this time we taken by the intermediaries
-+ made up by them into the Notes No. 24+26 of
-"Document Diplomatiques," which we do not 
+the French Government halfway; our conversations 
+at this time we taken by the intermediaries
+&amp; made up by them into the Notes Nos. 24 &amp; 26 of
+"Documents Diplomatiques," which we do not 
 admit as correct interpretations of our meaning.</p>
 
 <p>Our last words to the intermediaries on this 
 subject were to the effect that the removal
-of the Custom Houses was to be distinctly re-
-garded as only temporary. We were also 
+of the Custom Houses was to be distinctly regarded 
+as only temporary. We were also 
 assured that after these verbal agreement
 had been placed upon paper we should have an 
 opportunity of reconsidering them before being 
 expected to affix our signatures.</p>
 
-<p> The next event was our being asked by mon=
-seicaers Duelue through a Government desk to 
-
-sign</p>
+<p>The next event was our being asked by Monsieur 
+Ducluc through a Government Clerk to 
+<catchwords>sign</catchwords>
 
 <pb facs="20170614_154227"/>
-<p>sign a document which has since receied the 
-name of "Ultimatum" to which we specifically desire 
-to call Your Lordship's attention. it is not reproduced
-in its original integrity in No.27 of "Document Diplo-
-matiques" but is given in a manned calculated to 
+
+sign a document which has since received the 
+name of "Ultimatum" to which we specially desire 
+to call Your Lordship's attention. It is not reproduced
+in its original integrity in No. 27 of "Documents Diplomatiques" 
+but is given in a manned calculated to 
 create an unfavorable opinion of our refusal
 to sign it.</p>
 
 <p>In the published report a whole paragraph 
-has been omitted the very portion to which our re-
-fusal attached itself as being contrary to what 
-we had been led to expect as the <unclear/>
-of making concessions to National pride.-The 
-omitted paragraph reads " Il est bien entendre
-ete," and will befound in the copy of the 
+has been omitted, the very portion to which our refusal 
+attached itself as being contrary to what 
+we had been led to expect as the result
+of making concessions to National pride. The 
+omitted paragraph reads "Il est bien entendre
+etc," and will be found in the copy of the 
 original document which we have the
-honor of now enclosing for Your Lordships
-inspection.-</p>
+honor of now enclosing for Your Lordship's
+inspection.</p>
 
-<p>In the face of such an unjust misrepresen-
-tation, unprecedented we would hope in the 
+<p>In the face of such an unjust misrepresentation, 
+unprecedented we would hope in the 
 transactions of civilized Government, it seems
-a small matter to call Your Lordship notivr 
-to the incorrect statement made by Monsieur 
+a small matter to call Your Lordship's notice 
+to the incorrect statements made by Monsieur 
 Baudais to which we have already referred.</p>
 
 <p>But the more we examine his misleading
 language, the more we discover the unworthy 
-ill- feeling which prompted its use, and hence 
-we venture to ask Your Loedship to give a 
+ill-feeling which prompted its use, and hence 
+we venture to ask Your Lordship to give a 
 moments consideration to the comments we have
 made thereupon in the copy of the "Documents
 Diplomatiques" which accompanies the present letter.</p>
 
-<p>We have the honor to be, with the highest consi-
-deration.
+<p>We have the honor to be, with the highest consideration.</p>
 
-My Lord
-Your Lordship's most obedient servant
-(signed) Ravoninahitriniarivo
+<p>My Lord<lb/>
+Your Lordship's most obedient servants<lb/>
+(signed) Ravoninahitriniarivo<lb/>
 (signed) Ramaniraka</p>
-
 
 </div1>
 

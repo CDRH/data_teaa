@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Rainilaiairiony to Fred G. Frelinghuysen, May 20, 1884</title>
+<title>Despatch from Rainilaiarivony to Fred G. Frelinghuysen, May 20, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,9 +43,9 @@
 <sourceDesc>
 <bibl>
 <title level="a">Despatch from Rainilaiairiony to Fred G. Frelinghuysen, May 20, 1884</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="m" type="microformat">Notes From the Madagascan Legation in the United States to the Department of State, 1883-1894</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="roll">T806</biblScope>
 <date when="1884-05-20">May 20, 1884</date>
 </bibl>
 </sourceDesc>
@@ -58,7 +59,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Slavery and Slave Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,41 +72,64 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Baudais, Auguste</term>
+<term>Campan, Albert</term>
+<term>Cassas, Eugène</term>
+<term>Laborde, Jean</term>
+<term>Meyer, Théodore</term>
+<term ref="http://viaf.org/viaf/31872798">Radama I, King of Madagascar, 1792 or 1793-1828</term>
+<term ref="http://viaf.org/viaf/4047554">Radama II, King of Madagascar, 1830-1863</term>
+<term ref="http://viaf.org/viaf/42649297">Ranavalona III, Queen of Madagascar, 1861-1917</term>
+<term>Tsimiharo</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Antongil Bay (Madagascar)</term>
+<term>Bourbon Island</term>
+<term>Fort Dauphin (Madagascar)</term>
+<term>Foule Point (Madagascar)</term>
+<term>Madagascar</term>
+<term>Mantasoa (Madagascar)</term>
+<term>Marambitsy (Madagascar)</term>
+<term>Mauritius Island</term>
+<term>Mayotte</term>
+<term>Nosibe (Madagascar)</term>
+<term>Rembatoka Bay</term>
+<term>Reunion (Madagascar)</term>
+<term>St. Lucia (Madagascar)</term>
+<term>St. Mary (Madagascar)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
-<term/>
+<term>Antakarana</term>
+<term>Marambitsy</term>
+<term>Sakalava</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>France</term>
+<term>Great Britain</term>
+<term>Netherlands</term>
+<term>Portugal</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
-
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Rainilaiairiony</persName>
-<roleName>Queen of Madagascar</roleName>
-<placeName>Madagascar</placeName>
+<persName>Rainilaiarivony</persName>
+<roleName>Prime Minister of Madagascar</roleName>
+<placeName>Antananarivo, Madagascar</placeName>
 <date when="1884-05-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Frelinghuysen, Fred G.</persName>
-<roleName>Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/58082142">Frelinghuysen, Frederick T. (Frederick Theodore), 1817-1885</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
@@ -112,6 +137,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-05" who="#kln">reviewed, encoded</change>
 <change when="2020-03-06" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -124,14 +150,19 @@
 
 <pb facs="20170614_155023"/>
 
-<p>Antananarive
-20 May 1884:
+<p>Translation</p>
 
-Sir,
-In the present state of political
+<note>No. 54.</note>
+
+<p>Antananarivo<lb/>
+20 May 1884:</p>
+
+<p>Sir,</p>
+
+<p>In the present state of political
 affairs in Her Majesty's Dominions 
-of Madagascar, I desire to communi
-cate with you on questions that concern
+of Madagascar, I desire to communicate 
+with you on questions that concern
 most vitally the threatened integrity of 
 this Dominion, as well as the interests
 of the United States, which under Our
@@ -143,21 +174,20 @@ by the present attitude of affairs.</p>
 His Excellency the President, by Her
 Majesty Ranavalona III, and by 
 myself, there has been set forth the 
-needs and necessities of this Govern-
-ement, and the requests for the advice
+needs and necessities of this Government, 
+and the requests for the advice
+<catchwords>and</catchwords>
 
-and</p>
-
-<p>To,
-The Honorable
-Fredrick T. Frelinghuysen
-Secretary of State
-Washington, D.C.</p>
+<fw type="address">To<lb/>
+The Honorable<lb/>
+Fredrick T. Frelinghuysen<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
 
 <pb facs="20170614_155043"/>
 
-<p>and assistance of the United States in
-this time of Our national troubles.</p>
+and assistance of the United States in
+this time of our national troubles.</p>
 
 <p>In this communication it is my 
 wish to call briefly to your attention the 
@@ -174,22 +204,21 @@ Majesty.</p>
 World's affairs has taught us its lesson
 in that lack of sympathy, or interest,
 which the cause of an infant nation
-just emerging into the light of civili-
-zation should justly excite among
-its older and more advanced neigh-
-bors. The great mass of Her Majesty'
--s subjects are still untaught in the 
-way of diplomacy, and are ignorant
+just emerging into the light of civilization 
+should justly excite among
+its older and more advanced neighbors. 
+The great mass of Her Majesty's
+subjects are still untaught in the 
+ways of diplomacy, and are ignorant
 of the results of political entanglement
 and intrigue. It is impossible for 
 them to understand, who are still
 young to the benefits of a religion, 
-
-and</p>
+<catchwords>and</catchwords>
 
 <pb facs="20170614_155051"/>
 
-<p>and a progress so antagonistic to the 
+and a progress so antagonistic to the 
 teachings of their ancestors, the justice
 of any cause which should excite the 
 hostility of a power grows old in such
@@ -200,30 +229,31 @@ if our present difficulties had not
 complicated the opposition of their 
 antagonists.</p>
 
-<p>What more disheartining picture
+<p>What more disheartening picture
 to the firm believers in the destiny of 
 our race could be presented that, that of 
 Her Majesty's Dominions whose laws
 have been violated, whose flag has been 
-fried upon, and whose just appeals have
+fired upon, and whose just appeals have
 been unlistened to by those nations whose 
 civilizations we wish to learn from.</p>
 
 <p>I desire to refer briefly and plainly
 to those causes, that have placed Her
-Majety's Domimions in this present
+Majesty's Dominions in this present
 difficult position.</p>
 
-<p>Madagascar was first visited by the Portuguese in 1506 who had for
+<p>Madagascar was first visited 
+by the Portuguese in 1506, who had for
 some time, a small settlement in the 
-
-Island</p>
+<catchwords>Island</catchwords>
 
 <pb facs="20170614_155102"/>
-<p>Island. In 1595 and 1598 a number
-of Dutch Colonists settled ar Antagonist
+
+Island. In 1595 and 1598 a number
+of Dutch Colonists settled at Antongil
 Bay on the East Coast. In 1643 the
-French made their first, settlement a 
+French made their first settlement at 
 St. Lucia and Fort Dauphin, but 
 previous to this, the English had formed
 a colony on the South West Coast. The 
@@ -241,153 +271,148 @@ dependencies, and on the 25th of May,
 formal possession of Madagascar
 in the name of the British Crown.
 In 1817 all rights possessed by Great
-Britain were ceded to Radama)
+Britain were ceded to Radama I,
 with whom they made a Treaty of 
-Friendship and commerce, and en-
-sured tthe addition of the export slave-
-
-trade</p>
+Friendship and commerce, and insured 
+the addition of the export slave
+<catchwords>trade</catchwords>
 
 <pb facs="20170614_155119"/>
-<p>trade. Radama I. conquered the 
-Takalava of His reign there was not 
+
+trade. Radama I conquered the 
+Sakalava tribes of the northwest, and 
+at the close of His reign there was not 
 a single tribe in Madagascar that
 had not submitted to His power. Such
-is a brief history of the French connec-
-tion with Madagascar up to the date 
+is a brief history of the French connection 
+with Madagascar up to the date 
 of 1817.</p>
 
 <p>These difficulties can be generally 
-divided into three heads. I The Laborde
-difficulty; II The Dhou" Trade" affair; III.
+divided into three heads. I. The Laborde
+difficulty; II The Dhow "Toale" affair; III.
 The claims to the protectorate by France
 on the Northwest portion of Her
 Majesty's dominions. Out of these
-three have given all the recent com-
-plications, and the present threatened
-absorption or dismembermen of Ma-
-dagascar.</p>
+three have given all the recent complications, 
+and the present threatened
+absorption or dismemberment of Madagascar.</p>
 
 <p>It is unnecessary to call to your 
-attention before taking up the discu-
-ssion of the first of thse causes that
+attention before taking up the discussion 
+of the first of these causes, that
 it is a law of this country that no 
-land can be actually sold to forei-
-gners of any nationality; but they are
-permitted by treaty to lease, or sent
-lands, houses, or storehouses any length 
-
-of</p>
+land can be actually sold to foreigners 
+of any nationality; but they are
+permitted by treaty to lease, or rent
+lands, houses, or storehouses, any length 
+<catchwords>of</catchwords>
 
 <pb facs="20170614_155138"/>
 
-<p>of time not exceeding twenty five years +,
-(vide Treaty of Peace Friendship and Com-
-merce between America and Madagascar
-Article III, section I and article V amending
-Treaty with Great Britain of the 27th.
+of time not exceeding twenty five years &amp;c,
+(vide Treaty of Peace Friendship and Commerce 
+between America and Madagascar
+Article III, section I, and Article V amending
+Treaty with Great Britain of the 27th
 June 1865 and with other Powers).</p>
 
-<p>I. The Mr. Laborde difficulty. In 1835, a
-certain Mr. Laborde, a shipwrecked French 
-Sailor, was brought to this Capitol, and
+<p>I. The Mr Laborde difficulty. In 1835, a
+certain Mr Laborde, a shipwrecked French 
+Sailor, was brought to this Capital, and
 in order to gain his liberty agreed to
 teach the people certain arts with which
 he was will acquainted. By his efforts
-he gradually gained much influence +
-and popularity with the Government +
+he gradually gained much influence 
+and popularity with the Government 
 and people, and was, by the former given
-as a reward for life, three pieces of property--
-one in the vicinity of the capital; <unclear/> he
+as a reward for life, three pieces of property&#8212;
+one in the vicinity of the capital; one in the
 country at Mantasoa, where he established
 an iron foundry for the manufacture
-of guns, tc; and the third, the residence
+of guns, &amp;c; and the third, the residence
 in the capital, afterwards used by him,
 in his appointment as Consul for 
 France, as the French Consulate. Mr.
 Laborde became a Malagasy citizen
 then. He died in 1878, leaving as his
 heir a certain Mr. Campan, his nephew,
-
-and</p>
+<catchwords>and</catchwords>
 
 <pb facs="20170614_155154"/>
 
-<p>and who had occupied the post of Chancellor
-and Secretary of the Consulate. Mr. Laborde
-was succeeded, in 1880, by Mr. Cassas as
-French Consul, Mr. Campan claims, not 
+and who had occupied the post of Chancellor
+and Secretary of the Consulate. Mr Laborde
+was succeeded, in 1880, by Mr Cassas as
+French Consul, Mr Campan claims, not 
 only the houses, but the land upon which 
 they stand. The houses we consider by 
-Law to belong to the legatee; the right to the
+law to belong to the legatee; the right to the
 land we deny, as already stated, no land
-can belong to a foreign in feesimple.
-Mr. Meyer, in whose turn of office
-occurred the Dhou "Toale" affair to which 
+can belong to a foreigner in feesimple.
+Mr Meyer, in whose turn of office
+occurred the Dhow "Toale" affair to which 
 I shall refer succeeded Mr. Cassas
-in 1884, and was in turn succeeded
+in 1881, and was in turn succeeded
 by Mr. Baudais.</p>
 
-<p>II. The Dhow. "Toale" Diffculty. A short
-distance down the coast from Remba-
-toka Bay, west coast of Madagascar
+<p>II. The Dhow "Toale" Difficulty. A short
+distance down the coast from Rembatoka 
+Bay, west coast of Madagascar
 are four Sakalava chiefs which were
 at this time at war with each other.
-Of these, Baby, Joalala and Boina had
+Of these, Baby, Soalala and Boina had
 made an attack upon Marambitsy.
-A Dhow the "Toale" from Mayotta one
+A Dhow the "Toale" from Mayotte one
 of the common Island seized by the
 French, conveyed arms and ammunition
-under the French flag to these Mearam-
-bitsy people, but was discovered by a 
-
-party</p>
+under the French flag to these Marambitsy 
+people, but was discovered by a 
+<catchwords>party</catchwords>
 
 <pb facs="20170614_155203"/>
 
-<p>party landing her cargo. A fight naturally
+party landing her cargo. A fight naturally
 ensued and several of the Arabs were
-killed, as also several subjects of Mad-
-agascar. For this so called outrage
+killed, as also several subjects of Madagascar. 
+For this so-called outrage
 we have been forced to pay an indemnity
-to the French of 9.740 dollars. Though
-this affair shpwed clearly that the
+to the French of 9,740 dollars. Though
+this affair showed clearly that the
 local chiefs were loyal to the Hova
 Government, and that the French 
 recognized the Hova control over
-the very district they are now claim-
-ing.</p>
+the very district they are now claiming.</p>
     
 <p>III. The claims by France over the North
 West territory. The entire claims made
 by France over the Northwestern portion
 of Her Majesty's Dominions (extending
-from the parallel upwards) rests upon
+from 16 parallel upwards) rests upon
 a treaty they alleged to be made by
 them with a certain Tsimiharo, chief
-of Antakarama who being defeated
+of Antakarana who being defeated
 by the Hova troops in the time of 
 Radama I. took refuge in the 
 Island of Nosibe, and called in
 the French to protect him. For some 
 years the French did so but they at
-length carried Tsisnichare and his 
-
-brother</p>
+length carried Tsimiharo and his 
+<catchwords>brother</catchwords>
     
 <pb facs="20170614_155220"/>  
     
-<p>brother to Reunion with the threat
+brother to Reunion with the threat
 that unless he so accompanied them
 and made a treaty in their behalf
 they would leave him to his fate.
-Tsinihare wished to consult with 
+Tsimiharo wished to consult with 
 his subjects in the mainland, but this 
 was refused. On arrival in Reunion
-he mae a treaty ceding Nosibe to 
+he made a treaty ceding Nosibe to 
 the French in condition of enjoying
-the protection of the French and recei-
-ving $20 a montth. When Tsinihare
+the protection of the French and receiving 
+£20 a month. When Tsimiharo
 returned to his own land and told his
 subjects, they were indignant but it
 was too late. On these grounds the French
@@ -395,61 +420,59 @@ now claim protectorate over the North
 west territory of Her Majesty's
 Dominions. From 1841, thus Nosibe
 has remained in the hands of the 
-French, but from that date unti 1882
+French, but from that date until 1882
 no attempt has ever been made to enforce
-to so called claim of the French to 
+to so-called claim of the French to 
 the mainland, and Her Majesty's
 Government has always strenuously
-resiste any and all such claims by 
+resisted any and all such claims by 
 foreigners at possession and righteously,
 and firmly deny the right of any 
-
-rebellions</p>
+<catchwords>rebellions</catchwords>
     
 <pb facs="20170614_155229"/>    
     
-<p>rebellions tribe to alienate any part
+rebellious tribe to alienate any part
 of Her Majesty's Dominions to a 
 foreign Power. In 1868 a Treaty of
-Friendship and Commmerce was made
+Friendship and Commerce was made
 with France, wherein no reference was
 made to any such alleged French claims,
-either on the east or west coasts of Mada-
-gascar; in it; further the Sovereign was
+either on the east or west coasts of Madagascar; 
+in it further the Sovereign was
 styled Queen of Madagascar and for 
-many years the custom dues were re-
-gularly paid by French vessels as 
-well as those of the other nahoirs to 
+many years the custom dues were regularly 
+paid by French vessels as 
+well as those of the other nations to 
 Her Majesty's Custom house officers
 in the north west territory, now claimed
 by the French. In 1862 a French
 Company commonly known as the 
-"Lambert Company" succeeded in "indu-"
-cing the Young King Radama II to 
-sign a charter by which enoromous
+"Lambert Company" succeeded in "inducing 
+the Young King Radama II to 
+sign a charter by which enormous
 concession were made, giving the 
 French rights to occupy rivers, ports,
-forests, mines, etc actually giving to 
+forests, mines etc actually giving to 
 them everything worth having in 
 Madagascar. This agreement was
 bitterly opposed by the leading minds
 in Madagascar and its concession
-
-was</p>
+<catchwords>was</catchwords>
 
 <pb facs="20170614_155244"/>
 
-<p>was one of the leading causes of the revo-
-lution that deprived Radama II his 
+was one of the leading causes of the revolution 
+that deprived Radama II his 
 crown and his life.</p>
 
 <p>This charter was promptly repudiated
-by his successor and after much difficu-
-lty the French Company abandoned its
-claims on the payment by the Malagady
+by his successor and after much difficulty 
+the French Company abandoned its
+claims on the payment by the Malagasy
 of 1,200,000 francs. In both documents
-Radama II was styled "King of Ma-
-dagascar". There can be no doubt that
+Radama II was styled "King of Madagascar". 
+There can be no doubt that
 the French Trading Company has not
 a little to do with the revival of French 
 claim in Madagascar.</p>
@@ -462,30 +485,29 @@ the French.</p>
 <p>The results that have so rapidly
 followed the lawful attempts on the 
 part of Her Majesty to establish her
-just DOminions over the whole Island,
+just Dominions over the whole Island,
 the planting of the Malagasy flags
-presented to the Takalava Embassy
+presented to the Sakalava Embassy
 on their territory of the north west, and 
 their hauling down by the commander
-of the French frigate "Porfait"; the 
-
-embargo</p>
+of the French frigate "Forfait"; the 
+<catchwords>embargo</catchwords>
 
 <pb facs="20170614_155306"/>
 
-<p>embargo of the Malagasy vessel 
+embargo of the Malagasy vessel 
 "Antananarivo" due to the same cause,
 the detention in the departure of Her
 Majesty's Ambassadors to Europe 
 and the United States, and the 
-bombardment of our principal sea-
-ports; the laying waste of our coasts,
+bombardment of our principal seaports;
+the laying waste of our coasts,
 and the precipitation of all the horrors
 of war on a once peaceful and happy 
 people, all these are already known 
 to you.</p>
 
-<p>I desire to call, Mr. Secretary
+<p>I desire to call, Mr. Secretary,
 your attention to the direct reflection
 and disastrous results to the commerce
 and influence of the United States 
@@ -495,27 +517,27 @@ of the French Republic.</p>
 <p>The commerce with Madagascar
 in American manufactures upwards
 of $3,000,000 a year. In cotton goods, 
-cutlery and in all the misellancous 
+cutlery, and in all the miscellaneous 
 articles of household use. American  
 goods stand in the unquestioned
 first place. This commerce has grown
 from about $400,000 in 1879, to its
 present proportion and will certainly
-
-develop</p>
+<catchwords>develop</catchwords>
 
 <pb facs="20170614_155314"/>
 
-<p>develope to about ten times its volume
+<sic>develope</sic> to about ten times its volume
 in a brief period, if we are enabled
-to carry out our wishes and our pledges
+to carry out our wishes, and our pledges
 to your Government.</p>
 
 <p>Of all the vast number of articles
 manufactured in America there is 
 scarcely one that would not be eagerly
 purchased here if seen, once brought
-to the notice of our people, the earnest
+to the notice of our people, the desire 
+for possession is eager and earnest
 and it is now known throughout
 our land that in the products of the 
 soils lies a ready means of exchange.
@@ -527,61 +549,61 @@ and points to vast commercial relations
 between our Governments that are
 full of promise.</p>
 
-<p>T our great regret and to the 
+<p>To our great regret and to the 
 great loss to your citizens who are
 engaged in trade here, the present
 difficulty with a foreign Power has 
 come upon us in spite of our most
 strenuous efforts to avoid it. This trouble
-
-is</p>
+<catchwords>is</catchwords>
 
 <pb facs="20170614_155330"/>
-<p>is most damaging to your countrymen
+
+is most damaging to your countrymen
 here; threatens the dismemberment of
-our country and prevents our Govern-
-men t from extending that assistance 
+our country and prevents our Government 
+from extending that assistance 
 towards developing the dormant resources
 of our kingdom which it is our
-earnest wish to afford to your energito
+earnest wish to afford to your energetic
 countrymen. Thus have I attempted
 to place before you the plain facts
-in the present crtical condition of 
+in the present critical condition of 
 Her Majesty's Dominions in 
-Madagascar, the threatened des-
-truction of yhear commercial relations
-and the impossibilty of Her Majesty
-carrying out, as the desires, the en-
-lightened and liberal Treaty recently
+Madagascar, the threatened destruction 
+of your commercial relations
+and the impossibility of Her Majesty
+carrying out, as She desires, the enlightened 
+and liberal Treaty recently
 contracted with the Government
 of the United States.</p>
     
 <p>Practically can the United States
 look with indifference upon the loss
 of this stronghold of trade in the East 
-or can, She as the exponenet of progress
+or can, She as the exponent of progress
 and enlightenment fail to sympathize
+with a people who look upon her
 as her great friend and example.
 Her Majesty and myself in a 
-
-contrary</p>
+<catchwords>contrary</catchwords>
 
 <pb facs="20170614_155337"/>
-<p>contrary hope have thus appealed to 
+
+contrary hope have thus appealed to 
 your Government to justly settle
 our difficulties, and arrange these
 differences.</p>   
     
 <p>I call to your attention the 
-enclosed printed copies of correspondance
-and reports on the negotiations be-
-tween the French Representations in 
-Madagascar, and Our Authorities.
+enclosed printed copies of <sic>correspondance</sic>
+and reports on the negotiations between 
+the French Representations in 
+Madagascar, and Our Authorities.</p>
 
-May God bless you, Sir,
-Faith your friend
-(signed) Rainibaiarivony
-
+<p>May God bless you, Sir,<lb/>
+Saith your friend<lb/>
+(signed) Rainilaiarivony<lb/>
 Prime Minister</p>    
     
 </div1>
