@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,9 +43,9 @@
 <sourceDesc>
 <bibl>
 <title level="a">Despatch from Ranavalomanjaka III to Chester A. Arthur, May 20, 1884</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="m" type="microformat">Notes From the Madagascan Legation in the United States to the Department of State, 1883-1894</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="roll">T806</biblScope>
 <date when="1884-05-20">May 20, 1884</date>
 </bibl>
 </sourceDesc>
@@ -76,8 +77,6 @@
 <keywords scheme="original" n="places">
 <term/>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -92,8 +91,6 @@
 </keywords>
 
 </textClass>
-
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
 
 <correspDesc>
 <correspAction type="sentBy">
@@ -112,6 +109,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-05-19" who="#kln">reviewed, encoded</change>
 <change when="2020-03-04" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -122,54 +120,88 @@
 
 <div1 type="document" xml:lang="en">
 
+<pb facs="20170614_155354"/>
+
+<p>Executive Mansion</p>
+
+<p>The Queen of Madagascar
+Requests that the good offices
+of the United States may be
+exercised to the end that a 
+speedy mediation &amp; cessation 
+of hostilities between Madagascar 
+and France may result.</p>
+    
+<p>Letter from the Prime
+Minister of Madagascar and 
+a petition from American 
+citizens residing in the 
+Kingdom to the same effect.</p>
+
+<p>Respectfully referred to 
+the Secretary of State.</p>
+
+<p>By direction of the President:<lb/>
+October 1st, 1884<lb/>
+O. L. Praden<lb/>
+Asst. Secretary.</p>
+
 <pb facs="20170614_155532"/>
 
-<p>Antananarivo
-20 May 1884</p>
+<p>Translation.</p>
 
-<p>Your Excellency,
-The present political 
-situation of her Majesty's Dominions the
+<p>No 53.</p>
+
+<p>Antananarivo<lb/>
+20th May 1884</p>
+
+<p>Your Excellency</p>
+
+<p>The present political 
+situation of Her Majesty's Dominions, the
 most fatal check to her growth as a 
 Christian nation, and the prostration of
-her commercial interests, is a malancholy
+her commercial interests, is a melancholy
 picture in the eyes of the world.</p>
 
-<p>We areanew people just
-emerging from long centuries of uncivilization 
+<p>We are a new people just
+emerging from long centuries of uncivilization; 
 just understanding the virtues and necessities of 
-modern progres, and just appreciating the 
+modern progress, and just appreciating the 
 force of a national life. We find ourselves
 entangled in a political difficulty with a 
 great foreign power and unable, from our 
-isolation to appeal to the sympathy of the 
+isolation, to appeal to the sympathy of the 
 world.</p>
 
 <p>These difficulties have 
 accumulated upon us since the return 
-of 
-His Excellency 
-Chester A. Arthur
-President of the United States 
-of America </p>
+<catchwords>of</catchwords>
 
-<p>of our Embassy till they threaten the dis-
-memberment of our beloved country, and the 
+<fw type="address">His Excellency<lb/> 
+Chester A. Arthur<lb/>
+President of the United States 
+of America</fw>
+
+<pb facs="20170614_155549"/>
+
+of our Embassy till they threaten the dismemberment 
+of our beloved country, and the 
 ruin of our new institutions.</p>
 
 <p>I will endeavor, in the first 
 place, to call to Your Excellency's attention 
-the once close and growing commercial inter-
-est that exist between Her Majesty's Gov-
-ernment and the United States.</p>
+the once close and growing commercial interest 
+that exist between Her Majesty's Government 
+and the United States.</p>
 
 <p>Her Majesty well understands that no more
 intimate ties of national friendship can 
-exist than the reciprocal relations of com-
-merce, and exchange, between respective peo-
-ples. With Madagascar and the United States,
-these exist more closely and to a greater ex-
-tent than with all other nations combined.</p>
+exist than the reciprocal relations of commerce, 
+and exchange, between respective peoples. 
+With Madagascar and the United States,
+there exist more closely and to a greater extent 
+than with all other nations combined.</p>
     
 <p>Our people are clothed
 with your cloths, our homes are lit with 
@@ -181,23 +213,20 @@ Dominions will open to the extension of
 trade and peaceful commerce, we look
 to the vast manufacturing abilities of the 
 United States to meet our demands and 
-to instruct us in the use of modern in-
-vention.</p>
+to instruct us in the use of modern invention.</p>
 
-<p>On one side Her Majes-
-ty's Dominions are rich in those products
-
-characterstic of</p>
+<p>On one side Her Majesty's 
+Dominions are rich in those products
+<catchwords>characterstic of</catchwords>
     
 <pb facs="20170614_155753"/>    
     
-<p>characteristic of country that stretches for 
+characteristic of country that stretches for 
 a thousand miles in the tropics.</p>    
     
 <p>We, therefore, earnestly wish 
 to throw open our doors to the United States
-and to be brought in the closest of com-
-mercial relations with that country.</p>
+and to be brought in the closest of commercial relations with that country.</p>
     
 <p>We look, then, with deep
 concern to the check to this growth and
@@ -209,32 +238,32 @@ in our behalf.</p>
 <p>We have noticed with great
 pleasure the frequent appearance of the 
 United States Flag on our coasts, as good 
-evidence of the interest you Government
-takes in us and of the appontment of a 
+evidence of the interest Your Government
+takes in us and of the appointment of a 
 Minister Resident to our Capital in the 
-midst of our diffculties.</p>   
+midst of our difficulties.</p>   
     
 <p>We can by these signs
 speak the more earnestly to Your Government
 on the matter Her Majesty has deemed
-it wise to address you.</p> 
+it wise to address You.</p> 
  
 <p>The history of modern 
 Madagascar is one of but few years
 in the life of a Nation, but it is a 
 history that is remarkable alike for the 
 great strides the Hova race has taken
-towards civilzation, as for their gradual
-
-control over</p>
+towards civilization, as for their gradual
+<catchwords>control over</catchwords>
     
 <pb facs="20170614_155808"/>    
-<p>control over a vast Island inhabited by
+
+control over a vast Island inhabited by
 conflicting and barbarous tribes and for 
 the rise of a new power in that part of 
 the world, where the great mass of the 
-populations is still plunged in the dark-
-est barbarian.</p>   
+populations is still plunged in the darkest
+barbarian.</p>   
     
 <p>The present difficulties with 
 the French Republic are well known to the 
@@ -262,44 +291,40 @@ Majesty and the Republic of France.
 We ask that a commission of arbitration
 may be formed, subject to the selection 
 of the United States to decide upon 
-
-our</p>    
+<catchwords>our</catchwords>
     
 <pb facs="20170614_155820"/>    
     
-<p>our respective differences and justly settle
+our respective differences and justly settle
 our difficulties, and by whose decisions
-we will abride.   We suggest that the 
-place of meeting by left to the United States
+we will abide.</p>
+
+<p>We suggest that the 
+place of meeting be left to the United States
 to decide, and that a cessation of hostilities
-be declared till the final adjournement and 
+be declared till the final <sic>adjournement</sic> and 
 decree of such commission.</p>
 
 <p>Her Majesty stands ready to appoint her
 representatives, and to forward by any
-means in Her power the speady amd just 
+means in Her power the <sic>speady</sic> and just 
 settlement of these difficulties.</p>
 
-<p>Thus I, Rainilaiariviony,
-Prime Minister of Madagascar and Com-
-mader in Chief, have addressed Your 
+<p>Thus I, Rainilaiarivony,
+Prime Minister of Madagascar and Commader 
+in Chief, have addressed Your 
 Excellency in the name of our great
 friendship that has already existed so 
 long, and in the name of that amity
 and commerce which should strengthen
 our mutual relations to the Glory of
 the Republic, and the Gratitude of 
-Madagascar.
+Madagascar.</p>
 
-
-May God bless you Sir,
-Faith your friend
-(Sig.) Rainilaiarivony
-
+<p>May God bless you Sir,<lb/>
+Saith Your friend<lb/>
+(Sig.) Rainilaiarivony<lb/>
 Prime Minister.</p>
-
-
-
 
 </div1>
 

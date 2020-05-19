@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Ranavalomanjaka III to Chester A. Arthur, May 24, 1884</title>
+<title>Despatch from Ranavalomanjaka to Chester A. Arthur, May 24, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,10 +42,10 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Ranavalomanjaka III to Chester A. Arthur, May 24, 1884</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Ranavalomanjaka to Chester A. Arthur, May 24, 1884</title>
+<title level="m" type="microformat">Notes From the Madagascan Legation in the United States to the Department of State, 1883-1894</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="roll">T806</biblScope>
 <date when="1884-05-24">May 24, 1884</date>
 </bibl>
 </sourceDesc>
@@ -70,14 +71,18 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Rainilaiarivony</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Masoandro (Madagascar)</term>
+<term>Madagascar</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>France</term>
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -87,23 +92,17 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
-
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Ranavalomanjaka III</persName>
+<persName ref="http://viaf.org/viaf/42649297">Ranavalona III, Queen of Madagascar, 1861-1917</persName>
 <roleName>Queen of Madagascar</roleName>
-<placeName>Madagascar</placeName>
+<placeName>Masoandro, Madagascar</placeName>
 <date when="1884-05-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Arthur, Chester A.</persName>
+<persName ref="http://viaf.org/viaf/35249995">Arthur, Chester Alan, 1829-1886</persName>
 <roleName>President of the United States</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1884-10-04"/>
@@ -113,6 +112,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-05-19" who="#kln">reviewed, encoded</change>
 <change when="2020-03-09" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -125,71 +125,77 @@
 
 <pb facs="20170614_155407"/>
 
-<p>I, Ranavalomanja III. Queen of 
-Madagascar, send these grettings to Our
+<note>Department of State Received Oct 4 1884</note>
+
+<p>Translation</p>
+
+<p>May 24, 1884</p>
+
+<p>I, Ranavalomaryaka III. Queen of 
+Madagascar, send these greetings to Our
 Brother, His Excellency the President of the 
 United States of America.</p>
     
 <p>The wish to prove, how great is the 
 friendship and amity that so happily exists
-between Our Government, ad that of Your
-Excellency in sendinf to Your Excellency
+between Our Government, and that of Your
+Excellency in sending to Your Excellency
 these presents and good wishes for the 
-prosperity of the American Republic,
+prosperity of the American Republic
 and the happiness of your people. It is
-Our earnest wish to so forward the pro-
-gress and civilization of my people; to 
-so-exhibit to the World my intention to 
-place my Dominions on that fooling pro-
-mised all Nations, whose policy is broad
+Our earnest wish to so forward the progress 
+and civilization of my people; to 
+so exhibit to the World my intention to 
+place my Dominions on that footing promised 
+all Nations, whose policy is broad
 and liberal, and to so elevate the character
-of Our country, by a proper observance
+of Our country by a proper observance
 and understanding of these laws which 
 bond and protect the various Powers; that 
 Our voice may be heard in the Councils
-of Christian countires, and respect paid 
+of Christian countries, and respect paid 
 to Our just demands. But we are
-surronded by difficulties, Our steps 
-
-entangled</p>
+surrounded by difficulties. Our steps 
+<catchwords>entangled</catchwords>
 
 <pb facs="20170614_155425"/>
     
-<p>untangled by political differences. We do not
+entangled by political differences. We do not
 understand and Our people threatened with 
-all the calamites of a foreign war To who 
-can We turn in these Our troubles, but he
-that Great Nation in the West who ever he 
+all the <sic>calamites</sic> of a foreign war. To whom 
+can We turn in these Our troubles, but to
+that Great Nation in the West who ever had 
 been Our kind friend, who sets to the World
 so great an example of the success, and
 blessings of free civilization and who, in 
-the rememberance of her own early struggles
-for independence, can, but sympathyize
+the remembrance of her own early struggle
+for independence, can, but sympathize
 with Our Dominions still young in its
-new history. We will understand that 
-the policy of the Republic is neither a
-of ggresion or aggrandizement. We will
+new history. We well understand that 
+the policy of the Republic is neither one
+of aggression or aggrandizement. We well
 remember that all the intercourse between
 the many American citizens who have
-come to Our Dominions and my Govern
-ment has given us much pleasure and
-caused us no diffculties. We underestimate 
+come to Our Dominions and my Government 
+has given us much pleasure and
+caused us no difficulties. We understand 
 that the policy of the American Republic 
-os the extension of commerce, the increase
-of learning the fostering of those manu
-factures that are of benefit to man, and
-the upholding of all those just laces
-that protect and make happy her citizens</p>    
+is the extension of commerce, the increase
+of learning, the fostering of those manufactures 
+that are of benefit to man, and
+the upholding of all those just laws
+that protect and make happy her citizens.    
     
-<pb facs="20170614_155433"/>   
-<p>We wish to benefit ourselves by these things
+<pb facs="20170614_155433"/>  
+ 
+We wish to benefit ourselves by these things
 to live in peace with all men, and to develop
 like industries, to promulgate corresponding
 law, and to bring Our Dominions in closer
 commercial relations with the American 
-Republic. In earnest view of these things
-therefore, I Ranavalomanyaka III, Queen 
-of Madagascar, hereby solicit from your 
+Republic. In earnest view of these things,
+therefore, I Ranavalomaryaka III, Queen 
+of Madagascar, hereby solicit from Your 
 Excellency the President of the United 
 States, the friendship and assistance of 
 the United States in these Our troubles. I 
@@ -197,34 +203,32 @@ request of Your Excellency the President
 the Mediation of the Republic in my 
 present difficulties with the Republic
 of France. We request of Your Excellency
-the appointment of a committee of arbi-
-tration consisting of equal numbers of
-American, Malagasy and French--
+the appointment of a committee of arbitration
+consisting of equal numbers of
+American, Malagasy and French
 members to discuss the causes of my
-present difficulties and the just settle-
-ment of them. We request of Your
-Excellency a speady reply to this Our 
+present difficulties and the just settlement 
+of them. We request of Your
+Excellency a <sic>speady</sic> reply to this Our 
 communication that Our troubles may 
-cease, and though your great friend-
-ship. We may be at peace to pursue</p>
+cease, and through your great friendship,
+We may be at peace to pursue
 
 <pb facs="20170614_155441"/>
-<p>Our policy of advance and of civilization
+
+Our policy of advance and of civilization.
 I have instructed my Prime Minister to 
 communicate with Your Excellency on
-this subject, and to express fully in detail
+this subject, and to express fully, in detail
 the desires of my Government. Given
-at Our Court, Masoandro, this twenty-
-sixth day of Adijady (twentieth of
-May), in the Year of Our Lord 1884
-and in the first year of Our reign.
-Faith your good friend
-(signed( Ranavalonmanjaka
+at Our Court, Masoandro, this twenty-sixth 
+day of Adijady (twentieth of
+May), in the Year of Our Lord 1884,
+and in the first year of Our reign.</p>
 
-(countersigned) Rainilaiarivony
-</p>
-
-
+<p>Saith your good friend<lb/>
+(signed) Ranavalomaryaka<lb/>
+(Countersigned) Rainilaiarivony</p>
 
 </div1>
 
