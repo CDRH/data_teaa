@@ -5,11 +5,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Rainilaiarivony to Chester A. Arthur, July 2, 1884</title>
+<title>Despatch from Victor F. W. Stanwood to Chester A. Arthur, July 2, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -40,10 +41,10 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Rainilaiarivony to Chester A. Arthur, July 2, 1884</title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Victor F. W. Stanwood to Chester A. Arthur, July 2, 1884</title>
+<title level="m" type="microformat">Notes From the Madagascan Legation in the United States to the Department of State, 1883-1894</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="roll">T806</biblScope>
 <date when="1884-07-02">July 2, 1884</date>
 </bibl>
 </sourceDesc>
@@ -69,14 +70,33 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Austen, D. F.</term>
+<term>Bachelder, N. Ernest</term>
+<term>Clark, William</term>
+<term>Conway, John D.</term>
+<term>Gifford, Warren</term>
+<term>Hathaway, R. W.</term>
+<term>Howell, Charles</term>
+<term>Leester, J. F.</term>
+<term>Morris, N. L.</term>
+<term>Russel, Samuel S.</term>
+<term>Sears, George</term>
+<term>Stanwood, Victor F. W.</term>
+<term>Stroud, P. H.</term>
+<term>Thompson, Richard M.</term>
+<term>Wentworth, Clinton E.</term>
+<term>Weston, C. C.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Madagascar</term>
+<term>Tamatave (Madagascar)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>France</term>
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -86,23 +106,17 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
-
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Rainilaiarivony</persName>
-<roleName>Consulate</roleName>
-<placeName>Madagascar</placeName>
-<date when="1884-07-02"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Stanwood, Victor F. W.</persName>
+<roleName>U.S. Consular Agent</roleName>
+<placeName>Andakabe, Madagascar</placeName>
+<date when="1884-07-02"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Arthur, Chester A.</persName>
+<persName ref="http://viaf.org/viaf/35249995">Arthur, Chester Alan, 1829-1886</persName>
 <roleName>President of the United States</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
@@ -111,6 +125,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-05" who="#kln">reviewed, encoded</change>
 <change when="2020-03-09" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
