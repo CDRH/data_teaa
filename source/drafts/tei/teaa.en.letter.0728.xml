@@ -2,14 +2,16 @@
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0728">
+
+<teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Despatch from Peter Strickland to John Davis, October 6, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="LAST NAME, FIRST NAME" xml:id="unm"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -31,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<idno type="project">teaa.en.letter.0728</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -40,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Peter Strickland to John Davis, October 6, 1883</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Gorée-Dakar, 1883-1906</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<biblScope unit="roll">T573, Roll 1</biblScope>
+<date when="1883-10-06">October 6, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -73,10 +75,13 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Bordeaux (France)</term>
+<term>Boston (Mass.)</term>
+<term>Gorée-Dakar</term>
+<term>Marseille (France)</term>
+<term>Paris (France)</term>
+<term>Senegal</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -86,33 +91,30 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
-
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Strickland, Peter</persName>
-<roleName>U.S. Consul</roleName>
-<placeName>Dakar</placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<roleName/>
+<placeName>Boston, Massachusetts</placeName>
+<date when="1883-10-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Davis, John</persName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
 <roleName>Acting Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1883-10-10"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-06-08" who="#kln">reviewed, encoded</change>
 <change when="2020-03-11" who="#unm">transcribed and encoded</change>
 </revisionDesc>
+</teiHeader>
 
 <text>
 
@@ -122,45 +124,71 @@
 
 <pb facs="20170619_132326"/>
 
-<ab>To the Honorable John David
-Acting Secretary of State
-Department of State
-Washington</ab>
+<note>Department of State Received Oct 10 1883</note>
 
-<p>Sir:---
-I have the honor herewith
+<p>Boston October 6/83</p>
+
+<p>To the Honorable John Davis<lb/>
+Acting Secretary of State<lb/>
+Department of State<lb/>
+Washington</p>
+
+<p>Sir:</p>
+
+<p>I have the honor herewith
 to transmit to you my acceptance
 of the appointment of the President
 as Consul of the United States at 
 Goree-Dakar, with my Bond and 
 Certificate of Oath of Allegiance both 
 executed in due form before the US
-District Attorney in Boston.</p>
+District Attorney in Boston</p>
 
 <p>In reply to your request for 
 information I have to state that I was 
 born in the Town of Montville, County
-of New London, State of Connnecticut, on
+of New London, State of Connecticut, on
 the first day of August 1837. I have 
-resided in Senegal many years, can make</p>
+resided in Senegal many years, can make
     
 <pb facs="20170619_132333"/>    
     
-<p>myself understood in the French Congress
+myself understood in the French language
 and have been at several places in France
-particulairly Paris, Marseille + Bordeaux
-Members of my Family often reisde with 
+particularly Paris, Marseille &amp; Bordeaux
+Members of my Family often reside with 
 me in Africa.</p>    
     
 <p>I expect to sail for Africa in 
 about ten days and can take along
 with me whatever is sent from the 
-Department. Everything which <unclear/>
+Department. Everything which contains
 information with respect to my duties
-will be thankfully received.
-I am honored Sir,
-Very truly and respectfully Yours
+will be thankfully received.</p>
+
+<p>I am honored Sir<lb/>
+Very truly and respectfully Yours<lb/>
 Peter Strickland</p>   
+
+<pb facs="20170619132350"/>
+
+<p>Residence of Address in America</p>
+ 
+<p>P Strickland<lb/>
+Neponset Avenue<lb/>
+Dorchester district<lb/>
+Boston<lb/>
+Massachusetts</p>
+
+<p>Residence &amp; address in Africa</p>
+
+<p>French mail<lb/>
+Via Bordeaux</p>
+
+<p>P Strickland<lb/>
+Goree (not Gorée-Dakar)<lb/>
+Senegal<lb/>
+West Africa</p>
     
 </div1>
 

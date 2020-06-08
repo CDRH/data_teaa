@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0759">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0760">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Rainilaiarivony to Thomas F. Bayard, August 27, 1887</title>
+<title>Despatch from Rainilaiarivony to Walter Q. Gresham, November 20, 1894</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0759</idno>
+<idno type="project">teaa.en.letter.0760</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Rainilaiarivony to Thomas F. Bayard, August 27, 1887</title>
+<title level="a">Despatch from Rainilaiarivony to Walter Q. Gresham, November 20, 1894</title>
 <title level="m" type="microformat">Notes From the Madagascan Legation in the United States to the Department of State, 1883-1894</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T806</biblScope>
-<date when="1887-08-27">August 27, 1887</date>
+<date when="1894-11-20">November 11, 1894</date>
 </bibl>
 </sourceDesc>
 
@@ -70,11 +70,11 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term ref="http://viaf.org/viaf/218290168">Willoughby, Digby, 1845-1901</term>
+<term ref="http://viaf.org/viaf/27198874">Le Myre de Vilers, Charles-Marie, 1833-1918</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Madagascar</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
@@ -96,11 +96,11 @@
 <persName ref="http://viaf.org/viaf/37788378">Rainilaiarivony, 1828-1896</persName>
 <roleName>Prime Minister</roleName>
 <placeName>Antananarivo, Madagascar</placeName>
-<date when="1887-08-27"/>
+<date when="1894-11-20"/>
 <date/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/38108124">Bayard, Thomas F. (Thomas Francis), 1828-1898</persName>
+<persName ref="http://viaf.org/viaf/42637641">Gresham, Walter Quintin, 1832-1895</persName>
 <roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
@@ -109,7 +109,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-05-28" who="#kln">transcribed and encoded</change>
+<change when="2020-06-02" who="#kln">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -119,98 +119,72 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="20170614_160910"/>
+<pb facs="20170614_161004"/>
 
-<note>Translation.</note>
+<note>Translation</note>
 
-<note>Private
-and Confidential.</note>
+<note>No 116</note>
 
-<note>No. 74</note>
+<p>Antananarivo<lb/>
+20 November 1894.</p>
 
-<p>Antananarivo,<lb/>
-27th August, 1887.</p>
+<p>Your Excellency,</p>
 
-<p>Sir,</p>
+<p>In view of the friendly relation
+which exists between the two Governments, I take
+the liberty of laying before you in a few words, the
+state of affairs which recently took place here.</p>
 
-<p>Supplementary to my
-despatch respecting the Exequatur I think
-it right to send to you under the same
-cover, a copy of the Private Treaty concluded
-between us and France.</p>
+<p>You are well aware that the Government
+of the French Republic a short time ago
+sent out a Plenipotentiary in the person of Mr.
+Le Myre de Vilers, late Resident General for Madagascar,
+with a special mission, which we
+hailed with the greatest pleasure, having taken
+it for granted that the object of his mission
+was to put aright the disorderly state of things
+created by the highhanded and illegal proceedings
+taken by the French element, notably those
+in the service of the Residence General. We
+regret, however, to observe here, that we were 
+disappointed in the way the Plenipotentiary carried
+on his mission, for he acted on the advice of the above
+said people who are notoriously known for many
+years past as seeking nothing else but the embark
+<catchwords>France</catchwords>
 
-<p>The Government of Her Majesty
-the Queen of Madagascar, in consequence
-of the may proofs of friendship shown
-by your Government, and especially
-our confidence in its high impartiality,
-is induced to hope that you will carefully
-consider the same, so that you may
-clearly see the true state of our relations
-with France.</p>
-
-<p>May God bless you, sir,<lb/>
-Saith your friend<lb/>
-(Signed) Rainilaiarivony
-Prime Minister</p>
-
-<fw type="address">The Secretary of State
-of the United States of America<lb/>
+<fw type="address">To His Excellency<lb/>
+The Secretary of State of the United States<lb/>
 Washington</fw>
-    
-</div1>
 
-<div1 type="document" xml:lang="fr">
+<pb facs="20170614_161014"/>
 
-<pb facs="20170614_160930"/>
+France into an intricate complication with
+Madagascar, and so broke diplomatic relation with
+Her Majesty's Government.</p>
 
-<note>Traduction</note>
+<p>I have consequently the honour to forward 
+herewith for Your Excellency's perusal copy of the 
+Red Book just published by the Malagasy Government
+on the question at issue.</p>
 
-<note>Copie</note>
+<p>Finally, Your Excellency will allow me
+to remark that after a careful study of the twelve
+articles of the contre-projet addressed to the Plenipotentiary
+of the French Republic, page 14 in
+The Red Book, you will clearly see what a great
+desire Her Majesty's Government has to avoid
+any complications whatsoever with the Government
+of the Republic, to maintain a friendly relation
+with France and to have a full and uninterrupted
+scope to do all that will tend to
+forward the progress and prosperity of our
+Country.</p>
 
-<p>En rade de Tamatave à 
-bord de la "Naïade,"<lb/>
-le 17 Décembre 1885.</p>
-
-<p>Le Général Digby Willoughby Plénipotentiaire
-Malgache aux Plénipotentiaires Français.</p>
-
-<p>Messieurs</p>
-
-<p>En vertu des pleins-pouvoirs
-dont je suis muni, j'accepte, ce qui
-suit, au nom du Gouvernement
-Malgache que je représente:</p>
-
-<p>Dans le cas ou le Gouvernement
-Malgache ferait, à l'insu de la
-France, une cession de ports ou de
-territoires à aucun Gouvernement
-étranger  pour servir de depôts de
-charbon ou pour être occupes militairement,
-le dit Gouvernement déclare
-publiquement, par le fait même,
-la reconnaissance du protectorat
-de la France, et la cession sera
-nulle et non-avenue.</p>
-
-<p>Il est bien entendu que la présente
-lettre fait l'objet d'une convention
-secreté entre la France et
-Madagascar.</p>
-
-<pb facs="20170614_160937"/>
-
-<p>L'officier Général commandent
-les Troupes Malgaches it Ministre
-Plénipotentiaire de Sa Majesté la
-Reine de Madagascar.</p>
-
-<p>(Signe) Digby Willoughby<lb/>
-Ratifiee par<lb/>
-(Signe) Rainilaiarivony<lb/>
-Primier Ministre
-et Commandant en Chef</p>
+<p>May God bless Your Excellency<lb/>
+Saith your friend<lb/>
+(signed) Rainilaiarivony<lb/>
+Prime Minister</p>
 
 </div1>
 
