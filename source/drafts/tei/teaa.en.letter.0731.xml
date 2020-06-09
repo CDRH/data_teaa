@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Despatch from Peter Strickland to James D. Porter, June 3, 1885</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<idno type="project">teaa.en.letter.0731</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -77,8 +77,6 @@
 <keywords scheme="original" n="places">
 <term/>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,8 +91,6 @@
 </keywords>
 
 </textClass>
-
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
 
 <correspDesc>
 <correspAction type="sentBy">
@@ -113,7 +109,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2020-06-09" who="#kln">reviewed, encoded</change>
+<change when="2020-03" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -125,18 +122,21 @@
 
 <pb facs="20170619_135259"/>
 
-<p>US Consulate Goree Dakar
-July 13th 1880
+<note>No 31</note>
 
-To the Honorable
-James D Porter
-Assistant Secretary of State
-Washington
+<p>US Consulate, Goree-Dakar<lb/>
+July 13th 1885</p>
 
-Sir
-Before discussing the
+<p>To the Honorable<lb/>
+James D Porter<lb/>
+Assistant Secretary of State<lb/>
+Washington</p>
+
+<p>Sir</p>
+
+<p>Before discussing the
 subject of the appointment of 
-a successor for Mr. Armand,
+a successor for Mr Armand,
 I desire respectfully to call the 
 attention of the Department
 with a view to some explanation
@@ -146,44 +146,14 @@ the Legation at Paris. It will
 be seen thereby that my request
 for a leave of absence to 
 visit America preferred in 
-my Despatch No. 21 and sebt
-Feburary 18th not with an 
+my Despatch No. <unclear>20</unclear> and dated
+Feburary 18th met with an 
 unqualified refusal and 
 until I know the grounds
-</p>
 
-<pb facs="20170619_135346"/>
+<pb facs="20170619_135341"/><!-- start here -->
 
-<p>hardly be esteemed
-unreasonable by the Department
-that I should be held too
-closely by a Consulate
-which excarcely pays for 
-the veriling it initals.</p>
-    
-<p>Regarding a Successor
-for Mr. Command I know
-of no person in Goree
-who would exactly answer.
-The nearest appraoch to it 
-would be Chales de Manfort by 
-the present Mayor of Goree
-who understands the English
-language suffiencently will
-and is faulters as to business
-qualifications and Character
-but holding many colonial 
-office he is compelled to
-be much of the time absent.
-The only other suitable 
-person that I proves of in 
-my San Searge Strickland
-such is noe on a visit 
-name to being out my family</p>
-
-<pb facs="20170619_135341"/>
-
-<p>of that refusal I am at 
+of that refusal I am at 
 a loss in preferring another
 request which in the not
 distant future may be 
@@ -209,6 +179,35 @@ six months away from Africa
 in eight years, and with 
 this fact in view it can
 </p>
+
+<pb facs="20170619_135346"/>
+
+hardly be esteemed
+unreasonable by the Department
+that I should be held too
+closely by a Consulate
+which excarcely pays for 
+the veriling it initals.</p>
+    
+<p>Regarding a Successor
+for Mr. Command I know
+of no person in Goree
+who would exactly answer.
+The nearest appraoch to it 
+would be Chales de Manfort by 
+the present Mayor of Goree
+who understands the English
+language suffiencently will
+and is faulters as to business
+qualifications and Character
+but holding many colonial 
+office he is compelled to
+be much of the time absent.
+The only other suitable 
+person that I proves of in 
+my San Searge Strickland
+such is noe on a visit 
+name to being out my family</p>
 
 <pb facs="20170619_135352"/>
 
