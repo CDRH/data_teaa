@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Despatch from Peter Strickland to John Davis, October 22, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -32,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<idno type="project">teaa.en.letter.0730</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
+<title level="a">Despatch from Peter Strickland to John Davis, October 22, 1884</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
 <biblScope unit="roll">T47</biblScope>
@@ -76,8 +77,6 @@
 <keywords scheme="original" n="places">
 <term/>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -92,8 +91,6 @@
 </keywords>
 
 </textClass>
-
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
 
 <correspDesc>
 <correspAction type="sentBy">
@@ -112,7 +109,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2020-06-09" who="#kln">reviewed, encoded</change>
+<change when="2020-03" who="#unm">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -122,44 +120,68 @@
 
 <div1 type="document" xml:lang="en">
 
+<pb facs="20170619_133721"/>
+
+<note>Department of State Received Jul 6, 1885</note>
+
+<note>No 28</note>
+
+<p>US Consulate, Goree-Dakar<lb/>
+June 3d 1885</p>
+
+<p>Mr Peter Strickland<lb/>
+To the Department of State</p>
+
+<p>Subject<lb/>
+Reply to Shoe &amp; Leather
+Circular dated April 6th 1885</p>
+
+
 <pb facs="20170619_133726"/>
 
-<p>To the Honorable 
-James D. Porter
-Assistant Secretary of State
+<note>No 28</note>
+
+<p>U S Consulate, Goree-Dakar<lb/>
+June 3d 1885</p>
+
+<p>To the Honorable<lb/>
+James D Porter<lb/>
+Assistant Secretary of State<lb/>
 Washington</p>
     
-<p>Sir
-I have just received "Shoe
-+ Leather Circular dated April
-6th 1886, and at there are no statistics
+<p>Sir</p>
+
+<p>I have just received "Shoe
+&amp; Leather" Circular dated April
+6th 1885, and as there are no statistics
 at hand or indeed available
-to import information Jean
-only reply from impressions
+to impart information I can
+only reply from impression
 derived from long experience.</p>
     
 <p>There are probably no articles
 of American leather manufacture
 used in Senegal at present.
-<unclear/> 1878 an American merchant 
+About 1878 an American merchant 
 named Matthew Bartlett sent
 two or three small Invoices
-of light fancy shoes + slippers
+of light fancy shoes &amp; slippers
 which sold well, but on his 
 retirement from the business
-which happened two or three</p>
+which happened two or three
     
 <pb facs="20170619_133732"/>
 
-<p>years later all such shipments 
-were discontinued.
-The only American Merchant
-now doing business reguarly in
-Senegal in FC Butman E6q. N
-34 Central St.Balton. All others
+years later all such shipments 
+were discontinued.</p>
+
+<p>The only American Merchant
+now doing business regularly in
+Senegal is F C Butman Esq. No
+34 Central St. Boston. All others
 have either failed up or been
 driven off by European competition.
-Mr. Butman for reasons which
+Mr Butman for reasons which
 will appear hereafter has hitherto
 made no shipments of articles
 of leather manufacture.</p>
@@ -168,25 +190,27 @@ of leather manufacture.</p>
 demand for leather in Senegal,
 but of Shoes the Consumption
 is quite large and rapidly increasing.
-Still finds are in request, but
+All finds are in request, but
 light fancy shoes are most wanted.
-small sizes are wanted, but 
+All sizes are wanted, but 
 for the most part they should
 be medium inclined to small.
-Very long huled plantation
-feel are not prevalent in
-this part of Africa.
-The principal reason</p>
+Very long-heeled plantation
+feet are not prevalent in
+this part of Africa.</p>
+
+<p>The principal reason
   
 <pb facs="20170619_133739"/>  
-<p>why shoes cannot with advantage
+
+why shoes cannot with advantage
 be exported from America to Africa
 lies in the fact that excepting to 
-a very limited extent as in the case
-of Hides + Bubber, Americans commet
+a very limited extent, as in the case
+of Hides &amp; Rubber, Americans cannot
 take the produce of the country in 
 payment. American vessels consequently 
-earn scarcly any freifht commanders,
+earn scarcely any freight homewards,
 so that an outward voyage only
 can be counted on to pay all
 expenses and yield a profit. 
@@ -194,19 +218,20 @@ American Merchants under such
 conditions can only handle at a 
 living profit a few staples,
 generally not much manufactured
-that are peculiary American, 
-such as Tobacco, Lumber, <unclear></unclear>
-and same kinds of provisions.
+that are <sic>peculiary</sic> American, 
+such as Tobacco, Lumber, Petroleum,
+and some kinds of provisions.
 It is next to impossible without
 taking produce in payment, as
-Europeans do to complete successfully
+Europeans do, to complete successfully
 against goods of European manufacture.
 Our Merchants are now obliged
 to deal only with the large 
-European Houses who can give </p>    
+European Houses who can give    
     
-<pb facs="20170619_133744"/>
-<p>Bills in payment and most
+<pb facs="20170619_133744"/><!-- start here -->
+
+Bills in payment, and most
 of these large houses being always 
 stocked with Goods of European 
 manufacture which they are compelled
