@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0751">
 
 <teiHeader>
 <fileDesc>
@@ -9,9 +9,9 @@
 <title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<idno type="project">teaa.en.letter.0751</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,9 +43,9 @@
 <sourceDesc>
 <bibl>
 <title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Gorée-Dakar, 1883-1906</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
+<biblScope unit="roll">T573, Roll 1</biblScope>
 <date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
 </bibl>
 </sourceDesc>
@@ -75,10 +75,8 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Bakel (Senegal)</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -94,13 +92,11 @@
 
 </textClass>
 
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
+<persName>Strickland, Peter</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Gorée-Dakar, Senegal</placeName>
 <date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
 </correspAction>
 <correspAction type="deliveredTo">
@@ -113,7 +109,8 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="yyyy-mm-dd" who="#INITIALS"><!-- THE WORK YOU'VE DONE. EXAMPLE: transcribed and encoded --></change>
+<change when="2020-06-10" who="#kln">reviewed, encoded</change>
+<change when="2020-10" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -123,48 +120,42 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="20170619_140027"/>
+<pb facs="20170619_140027"/><!-- unclear -->
 
-<p>To the Consulate
-James Porter
-<unclear/></p>
+<p>
 
-<p>Sir,
-<unclear/> </p>
+<pb facs="20170619_140020"/><!-- unclear -->
 
-<pb facs="20170619_140020"/>
-<p><unclear></unclear></p>
+
 
 <pb facs="20170619_14033"/>
 
-<p>from the Soudan has grown to 
+from the Soudan has grown to 
 considerable proportions.</p>
     
-<p>There is no apprehenssion here of 
+<p>There is no apprehension here of 
 a Mahdi, and the report of one in 
 this part of Africa which has gained 
-credence in some qualities is probably 
-without much foundation. Incident 
-like th one now occuring at Bakul
+credence in some quarters is probably 
+without much foundation. Incidents 
+like the one now occurring at Bakel
 are as common in this country as
 outbreak among our Indians, and 
 to the world at large are of no more
 importance. It is thought by many,
-too that some military men estimated
+too, that some military men stationed
 at distant posts often provoke such 
 disturbances in order that they may 
-serve at means for rapid promotion.
+serve as means for rapid promotion.
 And where warriors can be the sole 
 reporters of their own exploits their
 deeds are seldom likely to lose
-much later in narrative.
+much luster in narration.</p>
 
-I am Sir
-Respectfully yours
-Peter Strickland
+<p>I am Sir<lb/>
+Respectfully yours<lb/>
+Peter Strickland<lb/>
 US Consul</p>
-
-
 
 </div1>
 

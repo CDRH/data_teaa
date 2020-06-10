@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME"><!-- EXAMPLE: teaa.en.letter.0001 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0732">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- DOCUMENT TITLE + DATE. EXAMPLE: Letter from Etienne to Under Secretary of State, August 14, 1889 --></title>
+<title>Despatch from Peter Strickland to James D. Porter, March 30, 1886</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
-<resp>transcription and encoding</resp><!-- IF TRANSLATION INCLUDED, USE: transcription, translation, and encoding -->
-<name n="LAST NAME, FIRST NAME" xml:id="INITIALS"><!-- FULL NAME --></name>
-<!--EXAMPLE: <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>-->
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address> 
 </distributor>
-<idno type="project"><!--FILE NAME--></idno><!-- EXAMPLE: teaa.en.letter.0001 -->
+<idno type="project">teaa.en.letter.0732</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
-<title level="m" type="microformat">Despatches from United States Consuls in Boma, 1888-1895</title>
+<title level="a">Despatch from Peter Strickland to James D. Porter, March 30, 1886</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Gorée-Dakar, 1883-1906</title>
 <publisher>National Archives and Records Service General Services Administration</publisher>
-<biblScope unit="roll">T47</biblScope>
-<date when="yyyy-mm-dd"><!--MONTH DAY, YEAR--></date>
+<biblScope unit="roll">T573, Roll 1</biblScope>
+<date when="1886-03-30">March 30, 1886</date>
 </bibl>
 </sourceDesc>
 
@@ -59,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,10 +75,13 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Gorée-Dakar (Senegal)</term>
+<term>Senegal</term>
 </keywords>
-    
-<!-- FILL OUT THE REMAINING CATEGORIES IF APPLICABLE. -->
+
+<keywords scheme="original" n="empires">
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -88,32 +91,27 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
-
-<!-- IF THIS IS NOT A LETTER, DISPATCH, OR CORRESPONDENCE OF SOME KIND, DELETE <correspDesc> -->
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT FROM --></placeName>
-<date when="yyyy-mm-dd"/><!-- FILL IN THE DATE ON THE LETTER -->
+<persName>Strickland, Peter</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Gorée-Dakar, Senegal</placeName>
+<date when="1886-03-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName><!-- LAST NAME, FIRST NAME --></persName>
-<roleName><!-- FOR EXAMPLE, Lieutenant Governor --></roleName>
-<placeName><!-- PLACE LETTER WAS SENT TO --></placeName>
+<persName ref="http://viaf.org/viaf/36031491">Porter, James D. (James Davis), 1828-1912</persName>
+<roleName>Assistant Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-10-04" who="#unm"></change>
+<change when="2020-06-10" who="#kln">reviewed, encoded</change>
+<change when="2020-10-04" who="#unm">transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -125,113 +123,116 @@
 
 <pb facs="20170619_135912"/>
 
-<p>No 88... US Consulate Goree Dakar
-March 30th 1886
+<note>No 38</note>
 
-To the Honorable
-James D Porter
-Assitant Secretary of State
+<p>US Consulate, Goree-Dakar<lb/>
+March 30th 1886</p>
 
+<p>To the Honorable<lb/>
+James D Porter<lb/>
+Assistant Secretary of State</p>
 
-Sir,
-In reply to your request
-relating to Returns of unofficial
-fees I have to explain that none
+<p>Sir</p>
+
+<p>In reply to your request
+relating to "Returns of unofficial
+fees" I have to explain that none
 whatever have been received at
-this Consulate sinceit was
-established and I have not
-had imporessed on my mind
+this Consulate since it was
+established, and I have not
+had impressed on my mind
 that I ought to have mentioned
-the fact in some of my Dispatches
+the fact in some of my Dispatches.
 Begging your pardon for the 
 oversight I shall try and bear
 in mind that such negative
 reports are needed in the future.</p>
     
 <p>In this connection it 
-may not be using to <unclear/> 
+may not be wrong to mention 
 that this Consulate cannot
-be kept and all the regulations</p>
+be kept and all the regulations
     
 <pb facs="20170619_135919"/>
 
-<p>of the Government complied
-with beyond critism on the 
+of the Government complied
+with beyond criticism on the 
 meagre salary afforded by "Fees"
 without pecuniary loss to the 
 incumbent. It is undoubtedly
 an honor to represent the United
-States abroad, but if I divine
-right Consulates in newly--
-developed countries when
-our commerce ought to less
+States abroad, but if I <unclear>divine</unclear>
+right Consulates in newly-developed 
+countries where
+our commerce ought to be
 expanded do not exist
 solely for the sake of honoring
-people, and every hardy prince
-is not a Didius Luliarners"
+people, and every hardy <unclear extent="one word"/>
+is not a "Didius Julianus"
 that he can afford to buy
-such an expansive luxury.</p>
-    
-<p>Pardon me for suggesting that
-I believe the whole fee septom
-is one colouslated to weaken
-the mural would approve of anything 
-to gain the convienance of 
-a consular office on some 
-paint they wished to carry</p>
+such an expansive luxury.
+Pardon me for suggesting that
+I believe the whole Fee system
+is one calculated to weaken
+the moral sense of both Shipmasters
+and Consular Officers. <unclear extent="one word"/>
+of masters would approve of anything
+to gain the connivance of 
+a Consular Officer on some 
+paint they wished to carry
     
 <pb facs="20170619_135927"/>  
     
-<p>and have fees for pretended
-devices multipied almost 
-indefinately is incease his
+and have fees for pretended
+services multiplied almost 
+<sic>indefinately</sic> to increase his
 demand against the Government.
-Seven hunded dollars without 
+Seven hundred dollars without 
 fees, and a right to do business,
 is as small a sum as would
 support a Consulate here even 
 respectably, and I hope some 
 action will speedily be taken
-to put it on such a basis.</p>
-    
-<p>By employing a clerk for 
+to put it on such a basis.
+By employing a clerk for 
 other business enough time
 might them be given the
 consulate to have mistakes
 in conducting its business
 more generally avoided
-and reports could them be 
+and reports could then be 
 got up which might 
 be of great value to our 
 citizens. Senegal in a new 
 country with abundant 
 capabilities for supporting 
-a very large commerce it
-Goree-Dakar with its</p>
+a very large commerce.
+Goree-Dakar with its
     
 <pb facs="20170619_135932"/>
-<p>excellent commercial
-telegraphies and model facilities 
-is the commerical centre
-and will probably soon
-be the Capital; but of
-about ten thousand tons of 
-Shipping now in the harder
-only four hundred are american,
-and that is much greater
-than the average proportion:
-Under such circumstances can 
-it be were for the United 
-States to attempt keeping
-a compotent Officer here
-whose salary is insufficient 
-25 allow him to keep swelle
-posted on the denial past 
-of his duties.
 
-I am esteemed for 
-Your obident Servant 
-Peter Strickland
+excellent commercial
+telegraphic and mail facilities 
+is the commercial centre
+and will probably soon
+be the Capital; out of
+about ten thousand tons of 
+Shipping now in the harbor
+only <unclear>five</unclear> hundred are American,
+and that is much greater
+than the average proportion;
+Under such circumstances can 
+it be wise for the United 
+States to attempt keeping
+a competent Officer here
+whose salary is insufficient 
+to allow him to keep well-posted 
+on the clerical part 
+of his duties?</p>
+
+<p>I am esteemed sir<lb/> 
+Your obedient Servant<lb/>
+Peter Strickland<lb/>
 US Consul</p>
 
 </div1>
