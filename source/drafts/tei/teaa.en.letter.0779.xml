@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0779">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Peter Strickland to W. W. Rockhill, November 17, 1896</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0779</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Peter Strickland to W. W. Rockhill, November 17, 1896</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Gorée-Dakar, 1883-1906</title>
+<publisher>National Archives and Records Service General Services Administration</publisher>
+<biblScope unit="roll">T573, Roll 1</biblScope>
+<date when="1896-11-17">November 17, 1896</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Commerce and Trade</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Document</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term/>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places"> 
+<term>Senegal</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>England</term>
+<term>France</term>
+<term>United States</term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Strickland, Peter</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Gorée-Dakar, Senegal</placeName>
+<date when="1896-11-17"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/46849159">Rockhill, William Woodville, 1854-1914</persName>
+<roleName>Assistant Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-08" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb facs="20170619_154103"/>
+
+<note>No 196</note>
+
+<p>U.S. Consulate Goree-Dakar<lb/>
+November 17th 1896</p>
+
+<p>To the Honorable W. W. Rockhill<lb/>
+Assistant Secretary of State<lb/>
+Washington</p>
+
+<p>Sir: In the "Review of the Worlds
+Commerce", years 1894-1895, it is stated that, "The United States is represented
+by a Consul at Goree-Dakar, but 
+no recent Commercial Reports of the 
+Colony of Senegal (French) have been
+received from this Officer." Remarks
+from other <sic>scources</sic> to the same effect
+have from time to time been brought
+to my notice, and it is to explain 
+that there has been no wilful
+negligence in the matter that I am
+writing this Dispatch.</p>
+
+<p>It requires care, trouble, and some
+expense to prepare Commercial Reports
+for such a Colony as this which
+will be accurate and not misleading:
+and for such Reports this Consulate,
+as at present organized, affords no
+
+<pb facs="20170619_154110"/>
+
+adequate compensation. For the June
+Quarter of this year my salary from
+Fees amounted to only $2.79, and I
+have been to expense and trouble for
+things connected with the Consulate
+which actually makes the office
+a burden, which I have often thought
+seriously of relinquishing, and yet 
+the Commercial importance of this
+colony is immensely greater than when
+the Consulate was first established.
+England, which has no greater interests
+here than what the United States
+might have, gives her Counsel here
+one thousand pounds annually. I
+have several times asked for one
+fifth of this sum with the right
+to do business, but so far without
+success. But without as much
+as this I am confident that no
+blame will attach to me because
+I cannot occupy valuable time
+in preparing Reports I am Sir<lb/>
+Very truly Yours<lb/>
+Peter Strickland, U.S. Consul</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
