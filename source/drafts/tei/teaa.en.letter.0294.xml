@@ -6,14 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from William H. Thomas, March 20, 1883</title>
+<title>Dispatch from L. de R. du Verge to John Davis, March 20, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
-<name n="Schirf, Kayla" xml:id="ks">Kayla Schirf</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 <name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -44,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from William H. Thomas</title>
+<title level="a">Dispatch from L. de R. du Verge to John Davis, March 20, 1883</title>
+<title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">Roll 4</biblScope>
 <date when="1883-03-20">March 20, 1883</date>
-<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
-<biblScope unit="roll">1</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -72,24 +70,27 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Corde</term>
-<term>Marchins</term>
+<term>Fonseca, Jose Augusto</term>
+<term>Moran, Benjamin</term>
+<term>Cordo, Joãs de Andra de</term>
+<term>Marchins, Domingos Leck</term>
 <term>Thomas, William H.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>Lisbon, Portugal</term>
-<term>St. Paul de Loanda</term>
+<term>Principe</term>
 <term>St. Thomas</term>
-<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>English</term>
+<keywords scheme="original" n="empires">
+<term>Brazil</term>
+<term>Portugal</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -100,20 +101,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="http://viaf.org/viaf/55609738">William H. Thomas</persName>
-<placeName>St. Paul de Loanda (Angola)</placeName>
+<persName>Verge, Louis Astyanax de Rathier du</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
 <date when="1883-03-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>John Davis</persName>
-<roleName>Assistant Secretary of State</roleName>
-<placeName>Washington D.C.</placeName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019-06" who="sab">transcribed.</change>
 <change when="2019-09" who="sab">encoded.</change>
 </revisionDesc>
@@ -129,15 +132,15 @@
 
 <pb facs="Scan10041"/>
 
-<p>File. St Paul de Loanda<lb/>
-March 20th 1883.</p>
+<note>File. St Paul de Loanda<lb/>
+March 20th 1883.</note>
 
 <p>Legation of the United States.<lb/>
 Lisbon, 12th November 1878.</p>
 
 <p>Sir,</p>
 
-<p>I have been <unclear extent="one word"/> by Mr <unclear extent="one word"/>, Minister
+<p>I have been advised by Mr <unclear>Corde</unclear>, Minister
 of Foreign Affairs, of the existence at the
 island of Principe, of certain public property
 belonging to the United States, formerly in
@@ -152,13 +155,114 @@ to Mr <unclear>Corde's</unclear> note, and have informed him
 that I would request you as the nearest
 Consul to the island of Principe, to <sic>releive</sic>
 the Portuguese authorities of the further charge
-of shade articles, and have requested him to 
-<catchwords>direct</catchwords></p>
+of these articles, and have requested him to 
+<catchwords>direct</catchwords>
 
 <fw type="address">Wm. H. Thomas Esqre<lb/>
 Consul of the United States<lb/>
 Loanda.<lb/>
 Africa</fw>
+
+<pb facs="Scan10042"/>
+
+direct their delivery to you in conformity
+with the List furnished. Nothing can
+be done in relation to the house to which
+reference is made until I received instructions
+from the Government at Washington.</p>
+
+<p>Please acknowledge receipt of this note
+and report upon your proceedings in the 
+<unclear>case</unclear>.</p>
+
+<p>I have the honor to be, Sir,<lb/>
+Your Obedient Servant,<lb/>
+Benjamin Moran</p>
+
+<pb facs="Scan10043"/>
+
+<p>Translation</p>
+
+<p>Ministry of Foreign Affairs.</p>
+
+<p>The authority of the island of Principe
+ask what destination shall be given to the
+objects mentioned int he accompanying report
+which were recently found among the effects
+of Jose <unclear>Augusto</unclear> <unclear>Fonseca</unclear>, deceased belonging
+to Domingos <unclear>Leck</unclear> Marchins who then filled
+the Offices of Vice Consul of the United States
+and of Brazil, of whom no news has been
+received since he left that island some years 
+since. also to whom to deliver <unclear>or</unclear> <unclear>house</unclear> the
+said Marchins <unclear>possesses</unclear> in that island.</p>
+
+<p>I have to ask Your Exy to inform me
+to whom the articles mentioned in the 
+accompanying list are to be delivered, as well
+as the nationality of the above named Marchins
+in order to deliver the <unclear>house</unclear> refund to.</p>
+
+<p>Secretariat of Ministry of Foreign Affairs<lb/>
+18 Octr 1878</p>
+
+<p>signed Joãs de <unclear>Andra de Cordo</unclear></p>
+
+<fw type="address">Mr Benjamin Moran<lb/>
+&amp;a &amp;a &amp;a</fw>
+
+<pb facs="Scan10044"/>
+
+<p>Translation</p>
+
+<p>An account of books and other articles
+belonging to the Vice Consul of the United States
+Domingos Leck Marchins found among the
+effects of Joseph <unclear>Augusto</unclear> <unclear>Fonseca</unclear>.</p>
+
+<table>
+<row>
+<cell>An American flag</cell>
+<cell>1</cell>
+</row>
+<row>
+<cell>The Arms of the United States</cell>
+<cell>1</cell>
+</row>
+<row>
+<cell>A Seal</cell>
+<cell>1</cell>
+</row>
+<row>
+<cell>A Stamp</cell>
+<cell>1</cell>
+</row>
+<row>
+<cell>Three volumes relating to Consular affairs and the mercantile <unclear extent="one word"/> 3d Edition 1868</cell>
+<cell>3</cell>
+</row>
+<row>
+<cell>Eleven volumes of the <unclear extent="two or three words"/></cell>
+<cell>11</cell>
+</row>
+<row>
+<cell>Sixty six volumes of books concerning the session of the American Consulate</cell>
+<cell>66</cell>
+</row>
+<row>
+<cell>Some papers relating to the affairs of the American Consulate, and a package of envelopes</cell>
+<cell/>
+</row>
+</table>
+
+<p>US Consulate<lb/>
+St Paul de Loanda<lb/>
+March 20th 1883.</p>
+
+<p>Only 15 large volumes and some writing papers were found by me in the Box Mr Robert S Newton sent to me a few days ago.</p>
+
+<p>Ls de R. Du Verge<lb/>
+US Consul</p>
 
 </div1>
 

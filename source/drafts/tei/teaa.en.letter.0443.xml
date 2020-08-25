@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from L de R du Verge, September 17, 1883</title>
+<title>Despatch from Louis Astyanax de Rathier du Verge to John Davis, July 7, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
-
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from L de R du Verge</title>
+<title level="a">Despatch from Louis Astyanax de Rathier du Verge to John Davis, July 7, 1883</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1883-09-17">September 17, 1883</date>
+<date when="1883-07-07">July 7, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Slave Trade and Slavery</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,25 +72,22 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>du Verge, L de R</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>Congo River</term>
-<term>St. Paul de Loanda</term>
-<term>SW Coast of Africa</term>
-</keywords>
-    
+</keywords> 
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="religion">
+<keywords scheme="original" n="empires">
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
+<keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
@@ -98,20 +95,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>L de R du Verge</persName>
-<roleName></roleName>
-<placeName>St Paul de Loanda</placeName>
+<persName>Verge, Louis Astyanax de Rathier du</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
+<date when="1883-09-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName>State Department</roleName>
-<placeName>Washington D.C.</placeName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1883-07-07"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
 </teiHeader>
@@ -125,16 +125,15 @@
 <pb facs="Scan20020"/>
 
 <note>Department of State Received Sep 17 1883</note>
-<note>Ackd Oct 26 /83</note>
 
-<note>No 49</note>
+<note>No 49.</note>
 
 <p>Consulate of the United States of America<lb/> 
 at St Paul de Loanda<lb/>
 S.W. Coast of Africa.</p>
 
-<p>L de R du Verge<lb/>
-to State Dept<lb/>
+<p>Ls de R. du Verge<lb/>
+to State Dept.<lb/>
 Washington D.C.</p>
 
 <p>Subject</p>
@@ -145,7 +144,32 @@ Washington D.C.</p>
 
 <p>Statement of Affairs and abuses arising then.</p>
 
-<p>Copied Feb 15, 1884</p>
+<pb facs="Scan20021"/>
+
+<p>United States Consulate<lb/>
+St Paul de Loanda S.W.C. Africa<lb/>
+July 7th 1883.</p>
+
+<p>To<lb/>
+Hon John Davis<lb/>
+Asst. Secty. of State<lb/>
+Washington D.C.</p>
+
+<p>Sir</p>
+
+<p>I have the honor respectfully to
+enclose herewith memorandum of the <unclear extent="one word"/>
+Affair, Slaves &amp;a &amp;a are conducted bought sold
+&amp;a on the Congo and at the principal factories 
+of the Left and right land</p>
+
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your obt servt<lb/>
+Ls de R. du Verge<lb/>
+US Consul</p>
+
+<p>"One Enclosure"</p>
 
 </div1>
 

@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton, June 16, 1883</title>
+<title>Despatch from Robert S. Newton to John Davis, June 16, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
-
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Robert S. Newton</title>
+<title level="a">Despatch from Robert S. Newton to John Davis, June 16, 1883</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1883-06-14">June 16, 1883</date>
+<date when="1883-06-16">June 16, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,26 +72,58 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Allen, Andrew T.</term>
+<term>Allen, George F.</term>
+<term>Antonio, Manoel</term>
+<term>Benjamin, William</term>
+<term>Bernardo, Jose</term>
+<term>Britton, William J.</term>
+<term>Brooks, Henry</term>
+<term>Druke, Monoel Baptista</term>
+<term>Garcia, Joãs</term>
+<term>George, James</term>
+<term>Hagarty, William</term>
+<term>Harvey, Everett</term>
+<term>Lobo, Laurence</term>
+<term>Luna, Joseph</term>
+<term>Marcizo, Manoel</term>
+<term>McKenzie, Thomas</term>
+<term>Obey, Edward</term>
+<term>Perry, Joe</term>
+<term>Phillips, Matthew</term>
+<term>Ryder, Willard W.</term>
+<term>Scott, Alfred</term>
+<term>Silva, Frederick A.</term>
+<term>Souza, Manoel</term>
+<term>Thomas, George</term>
+<term>Travades, Joaquim</term>
+<term>Verge, Louis Astyanax de Rathier du</term>
+<term>Williams, George</term>
+<term>Williams, James</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Mossamedes</term>
-<term>Port Alexander</term>
-<term>St. Paul de Loanda</term>
-<term>United States</term>
+<term>Boston (Mass.)</term>
+<term>Lisbon (Portugal)</term>
+<term>Little Fish Bay (Angola)</term>
+<term>Madeira (Portugal)</term>
+<term>Mossamedes (Angola)</term>
+<term>New Bedford (Conn.)</term>
+<term>Port Alexander (Angola)</term>
+<term>St. Helena</term>
+<term>St. Paul de Loanda (Angola)</term>
+<term>St. Thiago</term>
 </keywords>
-    
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
+
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
-</keywords>
-
-<keywords scheme="original" n="language">
 <term/>
 </keywords>
 
@@ -99,20 +131,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Robert S. Newton</persName>
+<persName>Newton, Robert S.</persName>
 <roleName>U.S. Vice Consul</roleName>
-<placeName>St. Paul de Loanda</placeName>
+<placeName>St. Paul de Loanda, Angola</placeName>
+<date when="1883-06-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington</placeName>
+<placeName>Washington, D.C.</placeName>
+<date when="1883-08-02"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
 </teiHeader>
@@ -136,7 +171,7 @@ St. Paul de Loanda, 16th June, 1883</p>
 of the loss of the Barque "Merlin"
 of New Bedford, owned by Messrs Tucker &amp; Co
 &amp; others of that city, on the 22nd May
-south of Port Alexander in Lat 1:16 4'
+south of Port Alexander in Lat: 16 4'
 From a statement of the Captain and crew
 original of which I enclose, it appears
 that she went aground in a dense fog
@@ -153,7 +188,321 @@ the 23rd taking what they could of
 provisions and clothes, and proceeded 
 north to Mossamedes, where they arrived
 on the 24th May, and were taken charge
-<catchwords>of</catchwords></p>
+<catchwords>of</catchwords>
+
+<pb facs="Scan20010"/>
+
+of, by the Portuguese authorities who
+treated them most kindly, and the 
+Governor charted a small vessel
+to bring them here, where they arrived
+on the 3rd of this month.</p>
+
+<p>The Governor promised to send and
+look after the vessel, and save anything 
+that could possibly be saved,
+and pay the expenses incurred, out
+of the proceeds, any surplus, to be 
+forwarded to the Consulate. Should 
+however nothing be saved, the A/C
+will be forwarded for payment by
+first steamer</p>
+
+<p>When the men arrived here, I had some
+difficulty in arranging quarters for
+such a large number, however I hired
+a house out of town for part, and got
+the officers divided into one or two places,
+and the whole expense will not exceed
+a dollar a head</p>
+
+<p>By this steamer the "Portugal" bound
+to Lisbon to day I send
+6 of the men to St Thiago where they
+belong, 13 to Madeira, as they belong
+
+<pb facs="Scan20011"/>
+
+to St. Helena, and it is the nearest 
+port where there is any communication
+with that Island, and
+7 to Lisbon, who wish to go to America
+and where there is more likelihood of
+their getting a vessel.</p>
+
+<p>Sometimes we have communication with
+St Helena, but as there is no likelihood 
+of any just now, I thought it best to 
+send them by this steamer, as stopping
+here on chance, would only add to the 
+expense. I have arranged with the Agents
+of the Mail steamers, Messrs Garrido Camara &amp; Co. 
+to allow one third off the usual passage
+money, which makes the passages as 
+follows:</p>
+
+<table>
+<row>
+<cell>13 men for Madeira @ 40$ =</cell>
+<cell>Rs 520$000</cell>
+<cell/>
+</row>
+<row>
+<cell>less 1/3</cell>
+<cell>173$000</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Rs 347$000</cell>
+<cell>= $377.17 cts</cell>
+</row>
+<row>
+<cell>6 " " St Thiago @ 35$ =</cell>
+<cell>Rs 210$000</cell>
+<cell/>
+</row>
+<row>
+<cell>less 1/3</cell>
+<cell>70$000</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Rs 140$000 =</cell>
+<cell>$152.17 cts</cell>
+</row>
+<row>
+<cell>7 " " Lisbon @ 45$ =</cell>
+<cell>Rs 315$000</cell>
+<cell/>
+</row>
+<row>
+<cell>less 1/3</cell>
+<cell>105$000</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Rs 210$000 =</cell>
+<cell>$228.26 cts</cell>
+</row>
+<row>
+<cell/>
+<cell>Total</cell>
+<cell>$757.60 cts</cell>
+</row>
+</table>
+
+<pb facs="Scan20012"/>
+
+<p>For these amounts, I have passed Bills on
+the Secretary of State at 15 days sight
+in favor of Messrs Garrido Camara &amp; Co. each
+one separately, so as to make it clear to 
+the Captain who is a foreigner I have
+also instructed him that he is to have
+the Bills endorsed by the Consul where
+the men are landed, otherwise they will 
+not be paid by the Department.</p>
+
+<p>I have also passed a draft for $338.00 cts 
+in favor of Mr Fredk A. Silva of Boston
+to pay the board and lodging A/C rendered,
+voucher No 1 enclosed.</p>
+
+<p>Enclosed I also send certificate of Consul
+Du Verge's absence form this City, in
+accordance with Consular instructions.</p>
+
+<p>I have the honor<lb/> 
+to be<lb/>
+Your Obedient Servant<lb/>
+Robt S. Newton<lb/>
+U.S. Vice Consul</p>
+
+<p>To the<lb/>
+Assistant Secretary of State<lb/>
+Washington</p>
+
+<pb facs="Scan20013"/>
+
+<p>United States Consulate<lb/>
+St Paul de Loanda: 16th June 1883</p>
+
+<p>I certify that Consul du Verge is
+absent from Loanda, having gone
+on a trip up the Congo River 
+on the 16th May last.</p>
+
+<p>Robt S. Newton<lb/>
+U.S. Vice Consul</p>
+
+<pb facs="Scan20014"/>
+
+<p>Name of Ship "Merlin of New Bedford
+owners Tucker &amp; Co and others of 
+New Bedford</p>
+
+<p>Captain George F Allen part owner<lb/>
+official No 17559 Letters J.B.F.M.<lb/>
+Trade, Whale fishing</p>
+
+<p>We George F Allen master, William
+W Ryder 1st mate, Thomas McKenzie
+2nd mate, Edward Obey 3rd mate, W
+J Brittan, cooper, José Bernardo, W.
+Haggarty and Matthew Phillips boat
+stearers, George Thomas steward, Manoel 
+Souza, Joe Perry, Manoel Baptista
+<unclear>Druke</unclear>, Joaquim Trovades, Jalen Grace,
+Henry Brook, Manoel Antonio, Everett 
+<unclear>Harry</unclear>, Andrew T Allen, Laurence Lobo,
+Alfred Scott, James George, Manoel
+Narcis, James Williams, Joseph
+Leawer, George Williams &amp; W Benjamin
+seamen, declare on our solemn oath
+that the following statement is a 
+true and correct account of the
+
+<pb facs="Scan20015"/>
+
+loss of the above vessel on which we
+were employed at the time of her
+loss. We declare that the Bark
+"Merlin" of New Bedford of 246 Tons
+went on shore at 1/2 past 12 o'clock
+at night on the 22nd of May south of
+Port Alexander in Lat: 16 4' it being a 
+very thick fog at the time and the
+land could not be seen at three ships
+lengths from the shore. She struck 
+<unclear extent="one word"/> twice and <unclear>then</unclear>, careened, the
+wind at the time being a fresh break
+from the SW. After striking got a
+Kedge anchor out and hove it right
+<unclear extent="one word"/> but this would not start her
+and still continued to thump and
+strike on the sand there being at
+the time a heavy surf, the sea
+breaking over the ship at times:
+took one of the anchors on a raft
+out to windward hove right <unclear extent="one word"/>
+but could not start her but before
+this her pumps were chocked
+with sand and the water over
+the ground tier of casks and pieces
+
+<pb facs="Scan20016"/>
+
+of plank and keel were flooding up
+but we still continued to work hard
+after all our hopes were over.</p>
+
+<p>At 6 a.m. seven feet of water forward
+and 8 feet aft she having settled 
+four feet in the sand By getting
+a large anchor and on the quarter
+she had worked head on to the 
+shore and at low tide was about
+three ships lengths distant.</p>
+
+<p>It was impossible to land at this
+point in a boat there being a very
+heavy surf on Concluded to leave
+as soon as possible as we had done
+everything possible to save her for
+if she were to break up during the
+night it would have been dangerous
+to have got clear of her with the
+boats. We took what we could of
+personal effects and provisions and
+left her at 2 p.m. on the 23rd May 
+for Little Fish Bay about 60 miles
+distant. The vessel when we left 
+her had settled 6 feet in the sand.
+We arrived at Little Fish Bay on the
+
+<pb facs="Scan20017"/>
+
+24th May at 2 p.m. After arriving 
+at Mossamedes (Little Fish Bay)
+the Governor told us he would
+procure us a vessel to carry us
+to Loanda where there was a 
+Consul. Left Little Fish Bay on
+the 30th May and arrived at Loanda
+on June 3rd in the <unclear>Cabique</unclear> 
+chartered by the Governor.</p>
+
+<p>If anything can be saved by the 
+Government it is to go towards
+the expenses incurred at Little
+Fish Bay and any surplus forwarded 
+to the Consul, should
+however nothing be saved the
+account of expenses will be
+forwarded to Government.</p>
+
+<p>The Governor and people at
+Mossamedes treated us in the
+kindest way possible and did
+all they could to assist us, and 
+make us comfortable until a 
+vessel could be had to bring
+us to Loanda.</p>
+
+<p>At the time of the loss we calculated
+
+<pb facs="Scan20018"/>
+
+we had on board about
+110 Brls. oil as <sic>as</sic> far as we know
+the vessel is not insured, at least
+the part owned by Captain Allen</p>
+
+<p>Consulate of the United States of 
+America<lb/>
+S. Paul de Loanda<lb/>
+13th June 1883</p>
+
+<p>George F. Allen Late Master<lb/>
+Willard W. Ryder Chief Officer<lb/>
+Thomas McKenzie Second Officer<lb/>
+Edward Obey Third Officer<lb/>
+Wm J Britton Cooper<lb/>
+William Hagarty Boatstearer<lb/>
+Jose x Bernardo<lb/>
+Matthew x Phillips<lb/>
+George Thomas<lb/>
+Manoel x Souza<lb/>
+Joe x Perry<lb/>
+Manoel Baptista <unclear>Druke</unclear><lb/>
+Joaquim x Travades<lb/>
+Joãs x Garcia<lb/>
+Henry x Brooks<lb/>
+Manoel x Antonio</p>
+
+<pb facs="Scan20019"/>
+
+<p>Everett x Harvey<lb/>
+Andrew T. Allen<lb/>
+Laurence x Lobo<lb/>
+Alfred Scott<lb/>
+James George<lb/>
+Manoel Marcizo<lb/>
+James x Williams<lb/>
+Joseph x Luna<lb/>
+George x Williams<lb/>
+William x Benjamin</p>
+
+<p>I hereby certify that the above signatures
+are the true and proper signatures of the
+crew of the whaler "Merlin, and that this
+statement has been signed before me</p>
+
+<p>Robt S. Newton<lb/>
+U.S. Vice Consul</p>
 
 </div1>
 
