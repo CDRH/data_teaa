@@ -11,7 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -72,15 +72,21 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Newton, Robert S.</term>
-<term>du Verge, L de R</term>
+<term>Sarthou, A.</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry M. (Henry Morton), 1841-1904</term>
+<term>Verge, Louis Astyanax de Rathier du</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>St. Paul de Loanda</term>
-<term>Washington D.C.</term>
+<term>Baltimore (Md.)s</term>
+<term>Banana (Congo)</term>
+<term>Benguella (Angola)</term>
+<term>Vivi (Congo)</term>
 </keywords>
-    
+
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -90,28 +96,27 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Robert S. Newton</persName>
+<persName>Newton, Robert S.</persName>
 <roleName>U.S. Vice Counsel</roleName>
-<placeName>St Paul de Loanda</placeName>
+<placeName>St Paul de Loanda, Angola</placeName>
+<date when="1883-08-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>John Davis</persName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington D.C.</placeName>
+<placeName>Washington, D.C.</placeName>
+<date when="1883-11-07"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
 </teiHeader>

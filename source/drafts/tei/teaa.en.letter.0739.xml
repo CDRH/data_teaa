@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton to the Assistant Secretary of State, December 13, 1884</title>
+<title>Despatch from Robert S. Newton to John Davis, December 13, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Frank Fisher and William Smith</title>
+<title level="a">Despatch from Robert S. Newton to John Davis</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,14 +72,16 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Newton, Robert S.</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Lisbon</term>
-<term>Liverpool</term>
-<term>St. Paul de Loanda</term>
-<term>Washington, D.C.</term>
+<term>Lisbon (Portugal)</term>
+<term>Liverpool (England)</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -90,28 +92,27 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Robert S. Newton</persName>
-<roleName>U.S. Vice Consul</roleName>
-<placeName>St. Paul de Loanda</placeName>
+<persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Counsel</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
+<date when="1884-12-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1885-02-05"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
 </teiHeader>
@@ -143,14 +144,14 @@ have applied to this Consulate and they would have been
 in great difficulties if no Consulate existed. Generally
 two trading vessels come every year, and the imports
 from America may be put down on an average in
-this way at about $12000. The exports are nil as
+this way at about $12000. The Exports are nil as
 there are no American houses here and the Produce
 is sent principally to Lisbon and Liverpool</p>
 
 <p>Very often Whalers come into Port who as a rule would be in
-great difficulties with their crews in the event of their
+great difficulties with their crews in the event of <sic>their</sic>
 being no Consulate. Last year I had 14 Whalers in
-Port at on time.</p>
+Port at one time.</p>
 
 <p>These I may say are the principal duties
 of the Consul at this Port.</p>
@@ -160,9 +161,9 @@ Your most Obedient Servant<lb/>
 Robt S Newton<lb/>
 U.S. Vice Consul.</p>
 
-<p>To the<lb/> 
+<fw type="address">To the<lb/> 
 Assistant Secretary of State<lb/>
-Washington DC</p>
+Washington DC</fw>
 
 </div1>
 

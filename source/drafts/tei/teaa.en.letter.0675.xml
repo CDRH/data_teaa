@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton to the Assistant Secretary of State, September 9, 1884</title>
+<title>Despatch from Robert S. Newton to John Davis, September 9, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Robert S. Newton to the Assistant Secretary of State</title>
+<title level="a">Despatch from Robert S. Newton to John Davis</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
@@ -73,14 +73,18 @@
     
 <keywords scheme="viaf" n="people">
 <term>Herig, Otto</term>
-<term>Nachtigal</term>
-<term>Pequena, Angra</term>
+<term ref="http://viaf.org/viaf/51777477">Nachtigal, Gustav, 1834-1885</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Forcados Rivers</term>
-<term>Loanda</term>
-<term>United States</term>
+<term>Angra Pequena</term>
+<term>Cameroons</term>
+<term>Forcados River</term>
+<term>Gaboon</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>Germany</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -91,28 +95,27 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Robert S. Newton </persName>
-<roleName>U.S. Vice Consul</roleName>
-<placeName>St Paul de Loanda</placeName>
+<persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Counsel</roleName>
+<placeName>Loanda, Angola</placeName>
+<date when="1884-09-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName></placeName>
+<placeName>Washington, D.C.</placeName>
+<date when="1884-11-03"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
 </teiHeader>

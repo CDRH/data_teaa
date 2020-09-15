@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from L de R du Verge to the State Department, September 17, 1883</title>
+<title>Despatch from Louis Astyanax de Rathier du Verge to John Davis, July 14, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from L de R du Verge to the State Department</title>
+<title level="a">Despatch from Louis Astyanax de Rathier du Verge to John Davis</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1883-09-17">September 17, 1883</date>
+<date when="1883-07-14">July 14, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -72,17 +72,30 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Swart, Francisco Martins</term>
-<term>du Verge, L de R</term>
+<term>Carnegie, J.</term>
+<term ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</term>
+<term>Jackson</term>
+<term>Ludlow, A.</term>
+<term>Newton, Robert S.</term>
+<term>Perry</term>
+<term>Silva, Augustus A.</term>
+<term>Silva, Frederick A.</term>
+<term>Swart, Francises Martens </term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>St. Paul de Loanda</term>
-<term>United States of America</term>
-<term>Washington D.C.</term>
+<term>Angola</term>
+<term>Boston (Mass.)</term>
+<term>Charlestown (Mass.)</term>
+<term>Chelsea (Mass.)</term>
+<term>Lisbon (Portugal)</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>Great Britain</term>
+<term>United States</term>
 </keywords>
     
-
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
@@ -91,28 +104,27 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>L de R du Verge</persName>
-<roleName>Consulate</roleName>
-<placeName>St. Paul de Loanda</placeName>
+<persName>Verge, Louis Astyanax de Rathier du</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
+<date when="1883-07-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName>Department of State</roleName>
-<placeName>Washington D.C.</placeName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1883-09-17"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
 </teiHeader>

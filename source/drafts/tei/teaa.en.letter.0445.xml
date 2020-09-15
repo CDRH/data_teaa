@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from L de R du Verge, September 17, 1883</title>
+<title>Despatch from Louis Astyanax de Rathier du Verge to John Davis, July 9, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from L de R du Verge</title>
+<title level="a">Despatch from Louis Astyanax de Rathier du Verge to John Davis</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1883-09-17">September 17, 1883</date>
+<date when="1883-07-09">July 9, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,15 +72,25 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Ludlow, Nicholl</term>
+<term>Passens</term>
+<term>Pina, Bastas</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>Ambriz (Angola)</term>
+<term>Banana (Congo)</term>
+<term>Bihé (Angola)</term>
+<term>Balindu (Angola)</term>
+<term>Benguella (Angola)</term>
+<term>Catumbella (Angola)</term>
+<term>Equimina Bay (Angola)</term>
+<term>Kinsembo (Angola)</term>
+<term>Loanda (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="empires">
-<term/>
+<term>Netherlands</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -95,14 +105,16 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>L de R du Verge</persName>
-<roleName>US Consul</roleName>
-<placeName>St Paul de Loanda</placeName>
+<persName>Verge, Louis Astyanax de Rathier du</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
+<date when="1883-07-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName>State Department</roleName>
-<placeName>Washington D.C.</placeName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1883-09-17"/>
 </correspAction>
 </correspDesc>
 

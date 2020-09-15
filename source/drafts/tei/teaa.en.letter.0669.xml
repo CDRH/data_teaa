@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton to Assistant Secretary of State, August 9, 1884</title>
+<title>Despatch from Robert S. Newton to John Davis, September 9, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Robert S. Newton to Assistant Secretary of State</title>
+<title level="a">Despatch from Robert S. Newton to John Davis</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1884-08-09">August 9, 1884</date>
+<date when="1884-09-09">September 9, 1884</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +60,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Encounters with Africans</term>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,16 +73,24 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Gay, William E.</term>
+<term>Braga</term>
+<term>Fay, William E.</term>
 <term>Newton, Robert S.</term>
+<term>Queirós, Alberto Carlos d' Eça de</term>
 <term>Stover, Wesley M.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Benguella</term>
-<term>Lisbon, Portugal</term>
+<term>Bailundo (Angola)</term>
+<term>Benguella (Angola)</term>
+<term>Bihé (Angola)</term>
+<term>Catumbella (Angola)</term>
+<term>Lisbon (Portugal)</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
 <term>United States</term>
-<term>Washington, D.C.</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -92,20 +101,17 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Robert S. Newton</persName>
-<roleName>U.S. Vice Consul</roleName>
-<placeName>St Paul de Loanda</placeName>
+<persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Counsel</roleName>
+<placeName>Loanda, Angola</placeName>
+<date when="1884-09-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 </correspAction>
@@ -114,6 +120,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
 </teiHeader>

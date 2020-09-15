@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton to the Assistant Secretary of State, November 3, 1884</title>
+<title>Despatch from Robert S. Newton to John Davis, November 3, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Robert S. Newton to the Assistant Secretary of State</title>
+<title level="a">Despatch from Robert S. Newton to John Davis</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -73,14 +73,10 @@
     
 <keywords scheme="viaf" n="people">
 <term>Bastos, Manoel José Alves</term>
-<term>Davis</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Cape de Verde</term>
-<term>Mossamedes</term>
-<term>St. Thiago</term>
-<term>Washington, D.C.</term>
+<term>Mossamedes (Angola)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -99,20 +95,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Robert S. Newton </persName>
-<roleName>U.S. Vice Consul</roleName>
-<placeName>St Paul de Loanda</placeName>
+<persName>Newton, Robert S.</persName>
+<roleName>U.S. Vice Counsel</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
+<date when="1884-11-03"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
+<date when="1885-01-02"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
 </teiHeader>

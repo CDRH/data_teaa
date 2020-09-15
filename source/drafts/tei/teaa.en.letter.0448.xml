@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from L de R du Verge, September 17, 1883</title>
+<title>Despatch from Louis Astyanax de Rathier du Verge to John Davis, July 6, 1883</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from L de R du Verge</title>
+<title level="a">Despatch from Louis Astyanax de Rathier du Verge to John Davis</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1883-09-17">September 17, 1883</date>
+<date when="1883-07-06">July 6, 1883</date>
 </bibl>
 </sourceDesc>
 
@@ -72,15 +72,12 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>du Verge, L de R</term>
+<term ref="http://viaf.org/viaf/4599157342845110100007">Ramada Curto, Antonio Duarte, 1849-1921</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>St. Paul de Loanda</term>
-<term>SW Coast of Africa</term>
-<term>Washington D.C.</term>
+<term>Loanda (Angola)</term>
 </keywords>
-    
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -98,20 +95,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>L de R du Verge</persName>
-<roleName>US Consul</roleName>
-<placeName>St Paul de Loanda</placeName>
+<persName>Verge, Louis Astyanax de Rathier du</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
+<date when="1883-07-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName>State Department</roleName>
-<placeName>Washington D.C.</placeName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1883-09-17"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
 </teiHeader>
