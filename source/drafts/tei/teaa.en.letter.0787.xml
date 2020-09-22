@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0739">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0787">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton to John Davis, December 13, 1884</title>
+<title>Despatch from Robert H. Davis to Thomas F. Bayard, August 20, 1885</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0739</idno>
+<idno type="project">teaa.en.letter.0787</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Robert S. Newton to John Davis</title>
+<title level="a">Despatch from Robert H. Davis to Thomas F. Bayard</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1884-12-13">December 13, 1884</date>
+<date when="1885-08-20">August 20, 1885</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Commerce and Trade</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -76,12 +76,13 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Lisbon (Portugal)</term>
-<term>Liverpool (England)</term>
+<term>England</term>
+<term>St. Paul de Loando (Angola)</term>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
-<term>United States</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -96,24 +97,24 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Newton, Robert Scott</persName>
-<roleName>U.S. Vice Counsel</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
-<date when="1884-12-13"/>
+<persName>Davis, Robert H.</persName>
+<roleName>U.S. Counsel</roleName>
+<placeName>Philadelphia, Pennsylvania</placeName>
+<date when="1885-08-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
-<roleName>Assistant U.S. Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/38108124">Bayard, Thomas F. (Thomas Francis), 1828-1898</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
-<date when="1885-02-05"/>
+<date when="1885-08-22"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-08" who="kln">reviewed and edited.</change>
-<change when="2019" who="sab">transcribe, encode.</change>
+<change when="2020-09" who="kln">reviewed, edited, and encoded.</change>
+<change when="2019" who="sab">transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -123,47 +124,33 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan50004"/> 
+<pb facs="Scan60001"/>
 
-<note>Department of State Received Feb 5 1885</note>
+<note>Department of State Received Aug 22 1885</note>
 
-<p>United States Consulate<lb/>
-St Paul de Loanda<lb/>
-13 December 1884.</p>
+<p>Philada Pa. Aug 20th 1885</p>
 
-<p>Sir</p>
+<p>Hon Thos F. Bayard<lb/>
+Secretary of State<lb/>
+Washington D.C.</p>
 
-<p>I have the honor to acknowledge receipt of
-circular dated August 21st and in reply have to state
-that the principal duties of this Consulate at this port 
-are:</p>
+<p>Dr Sir</p>
 
-<p>Taking charge of distressed subjects principally belonging
-to crews of Whalers; during the last 18 months about 60
-have applied to this Consulate and they would have been
-in great difficulties if no Consulate existed. Generally
-two trading vessels come every year, and the imports
-from America may be put down on an average in
-this way at about $12000. The Exports are nil as
-there are no American houses here and the Produce
-is sent principally to Lisbon and Liverpool</p>
+<p>Appointed U.S. Consul
+at St Paul de Loando. I left this country for
+my post of duty last December, but on reaching
+England, continued ill health obliged me 
+to return to the United States.</p>
 
-<p>Very often Whalers come into Port who as a rule would be in
-great difficulties with their crews in the event of <sic>their</sic>
-being no Consulate. Last year I had 14 Whalers in
-Port at one time.</p>
-
-<p>These I may say are the principal duties
-of the Consul at this Port.</p>
+<p>Having regained my health, I am now
+prepared to proceed to Loando and assume
+charge of the U.S. Consulate if agreeable to
+your Department.</p>
 
 <p>I have the honor to be<lb/>
-Your most Obedient Servant<lb/> 
-Robt S Newton<lb/>
-U.S. Vice Consul.</p>
-
-<fw type="address">To the<lb/> 
-Assistant Secretary of State<lb/>
-Washington DC</fw>
+Your obt. servant<lb/>
+Robt. H. Davis<lb/>
+U.S. Consul</p>
 
 </div1>
 
