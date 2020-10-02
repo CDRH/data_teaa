@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0791">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from William S. Bent to Thomas F. Bayard, October 11, 1885</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0791</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from William S. Bent to Thomas F. Bayard</title>
+<title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">Roll 4</biblScope>
+<date when="1885-10-11">October 11, 1885</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/58082142">Frelinghuysen, Frederick T. (Frederick Theodore), 1817-1885</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Bent, William S.</persName>
+<roleName>Acting U.S. Vice Counsel</roleName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
+<date when="1885-10-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/38108124">Bayard, Thomas F. (Thomas Francis), 1828-1898</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1885-11-28"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-09" who="kln">reviewed, edited, and encoded.</change>
+<change when="2019" who="sab">transcribed.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="Scan60006"/>
+
+<note>Department of State Received Nov 28 1885</note>
+
+<p>United States Consulate<lb/>
+St Paul de Loanda<lb/>
+11th October 1885</p>
+
+<p>Sir</p>
+
+<p>I have the honor to
+acknowledge receipt of Circular
+bringing the sad news of the death
+of Mr Frelinghuysen; and I  
+beg to tender my regret for
+the loss of so able an Officer
+and to advise the Department
+that according to instructions the 
+usual symbols of mourning were
+assumed as this Consulate closing
+the period of ten days.</p>
+
+<p>I have the honor to be,<lb/>
+Sir,<lb/>
+Your most obedient Servant,<lb/>
+Wm S Bent<lb/>
+Acting Vice Consul</p>
+
+<fw type="address">To the <lb/>
+Secretary of State<lb/>
+Washington 
+D.C.</fw>
+
+</div1>
+
+</body>
+</text>
+</TEI>
