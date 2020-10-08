@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0797">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0798">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton to James D. Porter, September 30, 1886</title>
+<title>Despatch from Robert S. Newton to Thomas F. Bayard, September 30, 1886</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0797</idno>
+<idno type="project">teaa.en.letter.0798</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Robert S. Newton to James D. Porter</title>
+<title level="a">Despatch from Robert S. Newton to Thomas F. Bayard</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
@@ -72,16 +72,15 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/3981158369766001460009">Hunter, William, 1805-1886</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Ambaca (Angola)</term>
-<term>Loanda (Angola)</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="empires">
-<term>Portugal</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -102,8 +101,8 @@
 <date when="1886-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/36031491">Porter, James D. (James Davis), 1828-1912</persName>
-<roleName>Assistant U.S. Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/38108124">Bayard, Thomas F. (Thomas Francis), 1828-1898</persName>
+<roleName>U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
 <date when="1886-11-30"/>
 </correspAction>
@@ -123,34 +122,11 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan60020"/>
-
-<note>No. 11.</note>
-
-<p>United States Consulate<lb/>
-at St Paul de Loanda<lb/>
-September 30th 1886</p>
-
-<p>Mr R. S. Newton, Vice Consul,<lb/>
-To Department of State</p>
-
-<p>Subject</p>
-
-<p>Inauguration of West African
-Telegraph Cable to Europe &amp;c.</p>
-
-<p>Abstract of Contents</p>
-
-<p>Inauguration of Cable by Governor
-General assisted by authorities
-and advising inauguration of 
-Railway to Ambaca in few days.</p>
-
-<pb facs="Scan60018"/>
+<pb facs="Scan60022"/>
 
 <note>Department of State Received Nov 30 1886</note>
 
-<note>No 11.</note>
+<note>No 12.</note>
 
 <p>United States Consulate<lb/>
 St Paul de Loanda<lb/>
@@ -158,61 +134,30 @@ St Paul de Loanda<lb/>
 
 <p>Sir</p>
 
-<p>I have the honour to inform
-the Department that the inauguration 
-of the West African Telegraph
-Cable connecting this city with
-Europe, took place on the 28th
-instant, this day having been
-chosen for the ceremony, being
-the anniversary of the birthday
-of the Prince Royal of Portugal</p>
+<p>I have the honour to 
+acknowledge your circular despatch 
+of July 26th last, conveying 
+the sad intelligence of the death
+of Mr Wm Hunter, the Second
+Assistant Secretary of State.</p>
 
-<p>There were present the
-Governor General of the Province,
-The Government Secretary, Municipal 
-council, Principal function-
-<catchwords>aries</catchwords>
+<p>I beg respectfully to sympathize
+with the Department in the loss
+of so old and able a colleague.</p>
 
-<fw type="address">The Assistant
-Secretary of State<lb/>
-Washington 
-D.C.</fw>
+<p>Your instructions as to display
+of symbols of mourning are obeyed.</p>
 
-<pb facs="Scan60019"/>
-
--aries of the city. Officers of the 
-Naval and Military forces, and 
-some of the principal inhabitants 
-of the city.</p>
-
-<p>The Governor after a short 
-discourse, in which he dwelt
-on the advantages of this important 
-improvement to the
-Province, declared the line
-open from Loanda.</p>
-
-<p>In about Sixteen days
-time it is intended to inaugurate 
-the Royal Trans-African
-Railway from this city to
-Ambaca. The works of construction
-of this line are
-already commenced and 
-there is at present every appearance 
-that they will be carried
-
-<pb facs="Scan60021"/>
-
-on as rapidly as circumstances
-will admit.</p>
-
-<p>I have the honor to be<lb/>
+<p>I have the honour to be<lb/>
 Sir<lb/>
 Your most obedient servant<lb/>
 Robt S. Newton<lb/>
 Vice Consul</p>
+
+<p>To Honble F F Bayard<lb/>
+Secretary of State<lb/>
+Washington 
+D.C.</p>
 
 </div1>
 
