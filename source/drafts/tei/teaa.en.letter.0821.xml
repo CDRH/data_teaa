@@ -1,16 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="FILENAME">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0803">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title></title>
+<title>Despatch from Edward Bannister to James D. Porter, January 10, 1887</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Brown, Sophie A." xml:id="SAB">Sophie A. Brown</name>
+<name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -32,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!--FILE NAME--></idno>
+<idno type="project">teaa.en.letter.0803</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a"><!--DOCUMENT TITLE. EXAMPLE: Dispatch from Augustus Archer Silva to William H. Seward--></title>
-<title level="m" type="microformat">Despatches from United States Consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
-<biblScope unit="roll">4</biblScope>
-<date/>
+<title level="a">Despatch from Edward Bannister to James D. Porter</title>
+<title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">Roll 4</biblScope>
+<date when="1887-01-10">January 10, 1887</date>
 </bibl>
 </sourceDesc>
 
@@ -53,13 +54,65 @@
 
 <profileDesc>
 <langUsage>
+
 <language ident="en">English</language>
 </langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Newton, Robert Scott</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Bannister, Edward</persName>
+<roleName>Acting U.S. Vice Counsel</roleName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
+<date when="1887-01-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/36031491">Porter, James D. (James Davis), 1828-1912</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1887-02-28"/>
+</correspAction>
+</correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019" who="sab">Transcribed</change>
+<change when="2020-10" who="kln">reviewed, edited, and encoded.</change>
+<change when="2019" who="sab">transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -109,11 +162,11 @@ received at this Consulate from the
 undermentioned commercial houses 
 of this city, Viz: Messrs Newton, Carnegie &amp; Co,
 Messrs Baines Larsen &amp; Co.,
-Messrs <unclear>Palhares</unclear> and <unclear>Frenares</unclear>
+Messrs Palhares and Irmãos,
 Messrs Souza Lara &amp; Co., and
 Messrs <unclear>Sevart</unclear> &amp; Co.</p>
 
-<p>Referring to enclosure No 1,
+<p>Referring to inclosure No 1,
 "Messrs Newton, Carnegie &amp; Co." it seems to me
 as being worthy of study, in so far that,
 although it bears the signature of the
@@ -126,7 +179,7 @@ is a Vice Consul of the United States,
 
 but I fancy to do it justice, it should
 be read as coming from a Consular
-Office of the British Government, and
+Officer of the British Government, and
 an English merchant jealous of opposition.</p>
 
 <p>It appears singular that after the
@@ -136,20 +189,20 @@ in the place can say "that American
 goods are not used because they are
 not known," considering this, the fact
 that he can see "no inducements for
-American merchants &amp;c," many find explanation 
+American merchants &amp;c," may find explanation 
 in his method of performing
-the duties of U.S. Consul is far as they
-relate to the <unclear>extention</unclear> of our foreign
+the duties of U.S. Consul as far as they
+relate to the <sic>extention</sic> of our foreign
 trade.</p>
 
-<p>It is apparent that the inclosure
-above referred to, in its  treatment of
+<p>It is <sic>apparant</sic> that the inclosure
+above referred to, in its treatment of
 the subject under consideration either
-does not graph its importance or is
+does not grasp its importance or is
 influenced by a desire to discourage
-new departures. It seems strange who,
+new departures. It seems strange tho',
 that a successful merchant with
-large experience in referring to
+large experience, in referring to
 
 <pb facs="Scan90017"/>
 
@@ -162,18 +215,18 @@ commenting upon the resources of a country
 so rich in natural agricultural and
 manufactured products as ours.</p>
 
-<p>Enclosure No 2: Messrs Baines Larsen &amp; Co.
+<p>Enclosure No 2: Messrs Baines Lauer &amp; Co.
 interested in the growth of commercial relation 
 between this province and the U.S. 
 adopt a tome that carries with it the
 impression of honest expression and considerable 
-study. I am unfortunately because
+study. I am unfortunately, because
 of limited experience, unable to judge
 correctly as to the value of their suggestions 
 relative to the method to be
 adopted to enable American Capital
 to get a firm foothold in the part
-of Africa, but, as far as knowledge
+of Africa, but, as far as a knowledge
 of the West Coast gives me a right to
 judge of here. I think they are in 
 some respects, right.</p>
@@ -184,10 +237,10 @@ that this firm in referring to cottons
 
 <pb facs="Scan90018"/>
 
-strengthen their statements by forwarding sample
+strengthen their statements by forwarding samples
 showing that if the U.S. desires to place
 cotton on this market, it will be necessary
-for her manufactures to enter into a competition 
+for her manufacturers to enter into a competition 
 of inferiority, but an examination 
 of those used in the Northern districts
 shows an improvement in quality such as
@@ -196,31 +249,32 @@ These samples with samples of corals
 mentioned by this firm, I have forwarded 
 to the Department.</p>
 
-<p>Inclosure No. 3. Messrs <unclear>Palhaves</unclear> &amp; <unclear>Frenares</unclear>,
-in contradiction to Messrs Newton, Carneqie 
+<p>Inclosure No. 3. Messrs Palhares &amp; Irmãos,
+in contradiction to Messrs Newton, Carnegie 
 &amp; Co. though acquainted with only one 
 of the products of our country, believe
 that the introduction of American
 commodities is to be desired.</p>
 
-<p>Enclosure No. 4. Messrs Sousa Lara
+<p>Inclosure No. 4. Messrs Sousa Lara
 and Co., have an experience limited
 to yellow &amp; pitch pine.</p>
 
 <p>Inclosure No. 5. Messrs Sevart &amp; Co,
 refer to England and Germany as the
-countries of supply for this trade, ignorant of our capacity, they seem to think
+countries of supply for this trade, ignorant 
+of our capacity, they seem to think
 that our products are only such as
 would
 
 <pb facs="Scan90019"/>
 
 would appeal to the requirements
-of the European population, get they
+of the European population, yet they
 believe, "American goods, may be introduced 
 with advantage on this market."</p>
 
-<p>Their letters are from of the
+<p>These letters are from of the
 first commercial people of Loanda the
 longest shippers and importers. It will
 be recognized that, with one exception
@@ -230,7 +284,7 @@ view of the possibilities of the country
 seems to beyond their ability or desire
 and to any influence beyond those 
 which affect small and immediate
-pecuniary returns, they are dead.</p>
+pecuniary returns, <unclear>these</unclear> are dead.</p>
 
 <p>The great nations of Europe 
 find here, and in adjoining districts
@@ -248,24 +302,24 @@ these gratifying results, should not
 
 be particular to them, but ought to be
 common to all alike. Commercial enterprise 
-environed by good judgment, is their
-<unclear>scent</unclear>. American industries can find their
+environed by good <sic>judgmt</sic>, is their
+secret. American industries can find their
 way into and secure a safe place in these
 centres, if Americans will adopt the
 methods as practiced by the English and
-Germans. Resident representation coming
-for contact with the native, leaning his
+Germans. Resident representative, coming
+for contact with the native, learning his
 needs and securing an intimate knowledge 
-of the trade. a supply of merchandise,
+of the trade, a supply of merchandise,
 steady in its flow and independent of
 good and bad seasons alike, direct
 communication, cheap and rapid. Given
 these qualities, it would be seen that
 in a few years our increasing industries
-would find outlets in many parts of
+I would find outlets in many parts of
 the world where now the reports of
 our country's industries and greatness 
-are look upon as almost a romance.</p>
+are looked upon as almost a romance.</p>
 
 <p>To open the eyes of these people
 to the value of our goods it is necessary
@@ -290,10 +344,10 @@ Your obedient servant,<lb/>
 Henry F. Downing,<lb/>
 U.S. Consul</p>
 
-<p>List of Inclcosures:<lb/>
-No. 1 Letter Newton, Carnegie &amp; Co., to Consul <unclear>Commerce</unclear>
+<p>List of Inclosures:<lb/>
+No. 1 Letter Newton, Carnegie &amp; Co., to Consul - <unclear>Commerce</unclear>
  " 2. Baines, Lauer &amp; Co, " " "
- " 3.<unclear>Palhaves</unclear> &amp; <unclear>Frenares</unclear> " " "
+ " 3. Palhares &amp; Irmãos " " "
  " 4. Sousa Lara &amp; Co. " " "
  " 5. Sevart &amp; Co.</p>
 
@@ -309,7 +363,7 @@ British Consulate.<lb/>
 United States Consulate.<lb/>
 Lisbon Office. 90, Rus dos Capellistas</fw>
 
-<note>No. 1. Copy</note>
+<note>No. 1. Copy!</note>
 
 <p>St Paul de Loanda 10th, Nov. 1887</p>
 
@@ -332,8 +386,8 @@ Lisbon they would have to pay the import duty which
 is a difference of 30%.</p>
 
 <p>We do nothing with American
-goods, although a few years ago we used to have this
-cargo a year. There is however a considerable quantity
+goods, although a few years ago we used to have two
+cargoes a year. There is however a considerable quantity
 of pitch pine timber imported and this year three
 cargoes have come from Pensacola, but now the port
 is supplied for some time to come. We have given
@@ -349,8 +403,8 @@ trade will greatly increase but that will take
 
 three or four years at least. The American
 import which is timber, will, we think instead
-of increasing be <unclear extent="one word"/> as good wood is to
-be <unclear extent="one word"/> in the interior.</p>
+of increasing be reduced as good wood is to
+be had in the interior.</p>
 
 <p>We have really no statistics before
 us to offer you but we shall always be happy
@@ -359,7 +413,7 @@ you may wish for.</p>
 
 <p>We are sir,<lb/>
 Your most obedient servant<lb/>
-(Sgnd) Newton, Carnegie &amp; Co.</p>
+(S'gnd) Newton, Carnegie &amp; Co.</p>
 
 <pb facs="Scan90024"/>
 
@@ -401,7 +455,7 @@ us for information relative to local outlets
 for American products we have the honor
 to inform you that we have made a special
 study of this question, and have for the
-last year exerted ourselves to open up correspondence 
+last year, exerted ourselves to open up correspondence 
 on the subject.</p>
 
 <p>Doubtless you have consulted other
@@ -413,7 +467,7 @@ Petroleum.</p>
 <p>We take it that you wish to have
 a plain statement on our side of what
 can be done and how to do it. The
-matter is however a very complex one
+matter is however, a very complex one
 and must be treated at length, for
 our ground extends not only to this neighborhood
 but to the North Coast and the
@@ -427,19 +481,19 @@ Congo River.</p>
 and occasional lots of flour and soap.</p>
 
 <p>Petroleum. The consumption in Loanda = about 30 cases
-of 10 ga. each, per diem = 900 cases per month.
-Novo Redondo, Benguela, Mossamedes, S. <unclear>Hume</unclear>
+of 10 gal. each, per diem = 900 cases per month.
+Novo Redondo, Benguela, Mossamedes, S. Thomé
 and Banana = probably 2500 cases per month.
-Donds and the other River and interior towns
+Dondo and the other River and interior towns
 another 1600 = 5000 cases of 10 gals. ea. per
 month for this province. To secure a monopoly
 of this trade it would be necessary to crush
 competition, and to do this the stuff would
 have to be put <unclear>cif</unclear> in most of the ports mentioned 
-@ Reis <unclear extent="one word"/> 1$250. In Banana and
-Cabinda better prices <unclear>rule</unclear>. In Cabinda in
+@ Reis <unclear>fortes</unclear> 1$250. In Banana and
+Cabinda better prices rule. In Cabinda one
 contrast with the Government is for Reis 1$960
-per case. Custom duties in all entrese ports except
+per case. Custom duties in all these ports except
 Banana and Cabinda, which are free = 20
 Reis per kilo.</p>
 
@@ -448,9 +502,9 @@ and we are awaiting a consignment from Norway.
 Occasional lots, say 400 tons, would sell in 
 about 3 months @ an average of Reis 25$000
 per 1000 ft. run. If you wish we will give
-you pro forma a/c sales. The duty is 15% a.d. <unclear extent="one word"/>
+you Pro forma a/c sales. The duty is 15% a.d. <unclear extent="one word"/>
 kind of lumber 5" sq yellow pine logs, match
-boarding 1" &amp; 1/2" and scan things. Shingles
+boarding 1" &amp; 1/2" and <unclear extent="one or two words"/>. Shingles
 might do well north but have no sale in
 
 <pb facs="Scan90027"/>
@@ -458,9 +512,9 @@ might do well north but have no sale in
 Loanda.</p>
 
 <p>The one thing necessary for Angola trade
-is to put "something called soap" - hard, and
+is to put "something called <unclear>Lop</unclear>" - hard, and
 dark in color - on this market at a maximum
-of Reis 3$000 per 50 kilo <unclear>cif</unclear> Loanda. 
+of Reis 3$000 per 50 kilos. <unclear>cif</unclear> Loanda. 
 Consumption about 200 cases per month.</p>
 
 <p>Flour. Fair quality such as that offered @ $3.50
@@ -468,8 +522,8 @@ to $4.00 in America should be put here <unclear>cif</unclear>
 at $6.50 to $7.00. It sells well at about $8.00
 in the Custom house. The consumption in
 Loanda and interior towns average 500 
-barrels monthly. By taking in the <unclear extent="one or two words"/>
-Angola, and the Congo ports the quantity
+barrels monthly. By taking in the other
+Angola, and the Congo ports this quantity
 might be trebled.</p>
 
 <p>Butter. Not good business in Loanda where
@@ -483,13 +537,12 @@ out. same prices and duties as butter.</p>
 <p>Paints &amp; Oils. Are of importance in view of the various
 Government contracts. Red lead (powder), in
 kegs should arrive <unclear>cif</unclear> @ 161 to 171- per 50
-kilos as a maximum others in proportion
+kilos as a maximum, others in proportion
 Terpentine and Raw Linseed oil at 5d
 and 6d kilo.</p>
 
 <p>Furniture. In carefully assorted lots, cheap and
 showy stuff (best taken to pieces and put
-
 
 <pb facs="Scan90028"/>
 
@@ -521,8 +574,8 @@ reis per lb. Duty 20%.</p>
 
 <p>Matches. Cannot compete with the Germans.</p>
 
-<p>Cod fish If every dry has large sale. It would
-be advisable to experiment with Newfoundland.</p>
+<p>Cod fish If very dry has large sale. It would
+be advisable to experiment with <unclear>Newfoundland</unclear>.</p>
 
 <p>Cotton Goods. So far as this province (apart from
 the District of the Congo) is connected there
@@ -537,12 +590,12 @@ and generally falsified, a fair price for a fair
 article cannot be obtained. We well give you 
 samples.</p>
 
-<p>Guns. Flintlock guns (called Lazzarina) (ball 3/4 ball
+<p>Guns. Flintlock guns (called Lazzarino) 1 ball 3/4 ball
 &amp; 1/2 ball), are supplied by England and Germany
 at 5/- each. These sell here in the Custom house
 @ about 5/9.</p>
 
-<p>Demijohns. Of 5 gals. wicker corned sell @ 600 to 700 reis. Duty
+<p>Demijohns. Of 5 gals. wicker covered sell @ 600 to 700 reis. Duty
 25%. Sales from 500 to 1000 per month. They are
 usually sent filled with rice.</p>
 
@@ -550,7 +603,7 @@ usually sent filled with rice.</p>
 15 reis per kilo. Large consumption.</p>
 
 <p>Sugar. Sells well in regular lots @ reis 2,200 per 15 kilos
-for <unclear>lump</unclear> <unclear>chystallized</unclear> and reis 1,900 per 15 kilo for
+for <unclear>lump</unclear> <unclear>chystallized</unclear> and reis 1,900 per 15 kilos for
 Brown Sugar. Duties refined 40 reis kilo. unrefined
 20 reis kilo.</p>
 
@@ -559,9 +612,9 @@ Brown Sugar. Duties refined 40 reis kilo. unrefined
 <p>Clocks. American alarm clocks and the very cheapest
 watches. good sale for small lots.</p>
 
-<p><unclear>Candles</unclear> Are invoiced to us at 35 from as per 100 kilos</p>
+<p><unclear>Candles</unclear> Are invoiced to us at 35 francs per 100 kilos</p>
 
-<p>Cast of Army Uniforms. sell largely in the interior but
+<p>Cast off Army Uniforms. sell largely in the interior but
 should not be invoiced at more than 400 to 500
 reis per garment.</p>
 
@@ -575,7 +628,7 @@ you later on.</p>
 
 <p>Rum. 40° clear. Should be put here <unclear>cif</unclear> at Rs 28,000
 per 130 gals. safe shipments including northern
-parts about 50 pipes.</p>
+ports about 50 pipes.</p>
 
 <p>The foregoing remarks will serve to give you some
 idea of the prospects offered in this province proper. In
@@ -585,16 +638,16 @@ Loanda and Ambaca Railway.</p>
 
 <p>The Railway <unclear>Service</unclear>,
 was originally formulated with the idea of opening
-up the <unclear>Lineage</unclear> gold fields to the North of Galingo Alto.
+up the <unclear extent="one word"/> gold fields to the North of Golungo Alto.
 Its value, however does not depend upon any speculative
 enterprise but upon the natural resources of the province.
-The fertile districts of Cazengo, Galingo Alto. Encoge &amp;c.,
-producing coffee, rubber, palm oil, kernals &amp;c. in great
+The fertile districts of Cazengo, Golungo Alto. <unclear>Enconge</unclear> &amp;c.,
+producing coffee, rubber, palm oil, <sic>kernals</sic> &amp;c. in great
 abundance are practically robbed of their value by
 the difficulties of transport.</p>
 
 <p>At times carriers are not to be had to
-the river ports, but were <unclear extent="one word"/> no difficulty in this repeat
+the river ports, but were <unclear>there</unclear> no difficulty in this respect
 the excessive rates of the Companhia da Vapor de Quanza 
 would be sufficient to heavily handicap any enterprise.</p>
 
@@ -602,33 +655,33 @@ would be sufficient to heavily handicap any enterprise.</p>
 the produce is practically unlimited; given proper
 merchandise and rapid transport the trade of
 Angola would assume an importance it has never
-yet possessed. From Encoge to Donda, 5 days journey
+yet possessed. From <unclear>Enconge</unclear> to Donda, 5 days journey
 Each carrier will take kilos of coffee, price per
 carrier per trip 4$000 ries. Therefore each ton of
 
 <pb facs="Scan90031"/>
 
-coffee requires 14 1/2 carriers and exists from Encoge 
-to Donda 58$ 000 Reis From Donda to Loanda
+coffee requires 14 1/2 carriers and costs from <unclear>Enconge</unclear> 
+to Donda 58$000 Reis From Donda to Loanda
 by the Quanza River Steamers the freight is 40
 ries per ton per kilametre. Donda is 200 kilametres
-from Loanda, Ex. 200 x40 = 5000 Reis x 58 Rs 100 = 66$
+from Loanda, Ex. 200 x 40 = 8000 Reis x 58 Rs 000 = 66$
 about $70.00 per ton over 124 miles. The natural
 consequence is that the interior plantations are
-continually losing money and are all <unclear>hypothecated</unclear>
+continually losing money and are all <unclear extent="one word"/>
 to the Bank. Here again we have the
 secret of the falsified goods. Now all this
 the Railway will remedy by tapping the Cazengo,
-Galungo and Encoge districts, enabling us to
-mend our goods up cheaply and rapidly and get
+Galungo and <unclear>Enconge</unclear> districts, enabling us to
+<unclear>vend</unclear> our goods up cheaply and rapidly and get
 our produce down <unclear extent="one word"/> equally advantageous
 circumstances.</p>
 
 <p>The Railway will be built and will pay
 well. It is however, at present in dubious hands.
 If things go wrong it may be five years before
-the times <unclear extent="two words"/>: if not three years will
-enable it to at least mitigate the evils we have
+the lines <unclear extent="two words"/>: if not three years will
+enable it to at least mitigate the <unclear extent="one word"/> we have
 mentioned.</p>
 
 <p><unclear extent="two words"/> the line will be built because
@@ -656,26 +709,26 @@ Contracts with all kinds of provisions &amp;c. &amp;c.</p>
 
 <p>In this district trade is essentially different
 to that of Angola proper, goods are only partially 
-<unclear>adultuated</unclear> and falsified and there is yet
+adulterated and falsified and there is yet
 a good field for American Cottons of the lowest
 quality. In Cabinda alone we can guarantee
 150 tons of produce per month and with a few
 more houses in the Chiloango river we have no doubt
 that it could be quadrupled. As merchants we 
-could sell you about 100 tons per month. <unclear extent="one word"/>
-@ 400 reis per 32$, not to mention splendid hand
+could sell you about 100 tons per month. Kernals
+@ 400 reis per 32$, not to mention splendid hard
 woods in any quantity.</p>
 
 <p>Such produce is all bought in barter for:</p>
 
-<p>1° Cotton as per samples, pieces 40" under x 24 <unclear>yds</unclear> &amp; 24 <unclear>folded</unclear>
-Handkerchiefs in price of one dozen. Best sales, blue
-boxes, checks, <unclear>Hdkfs</unclear> and red <unclear extent="one word"/>.</p>
+<p>1° Cotton as per samples, pieces 40" wide x 24 yds &amp; 24 <unclear>folds</unclear>
+Handkerchiefs in piece of one dozen. Best sales, blue
+boxes, checks, Hdkfs and red calico.</p>
 
 <p>2° White and yellow metal anklets weighing 1 to 2
-$ 1/2" plain.</p>
+$ 1/2" - <unclear>plain</unclear></p>
 
-<p>3° Cheap Bells of different sign refer to 6"</p>
+<p>3° Cheap Bells of different sizes up to 6"</p>
 
 <p>4° Rum 40°.</p>
 
@@ -686,10 +739,10 @@ hot water.</p>
 
 <p>6° Keg powder. 2x4 <unclear extent="one word"/></p>
 
-<p>Here also can be sold regular lots of flour, <unclear extent="one word"/>
+<p>Here also can be sold regular lots of flour, <unclear>soap</unclear>
 wine, shot, and sundry other article which we will
-advise later. Products are kernals, palm oil,
-Rubber and ground nuts. We think also that
+advise later. Products are kernals, Palm oil,
+Rubber and Ground nuts. We think also that
 a little pushing might arrange for a fair
 quantity of ivory.</p>
 
@@ -699,19 +752,19 @@ ten (10) factories = $60,000.00. No American
 labor required nor timber construction.</p>
 
 <p>In conclusion we are of opinion that for 
-American to be advantageously represented in
+America to be advantageously represented in
 Africa it is necessary that:</p>
 
-<p>1° A company be formed in American with at least
+<p>1° A company be formed in America with at least
 $200,000.00 Capital.</p>
 
 <p>2° That an energetic and pushing firm be
-appointed a African Manager with a "good
+appointed as African Manager with a "good
 interest" acting under supervision.</p>
 
 <p>3° That the company own at least 4 sailing
 vessels of from 350 to 400 tons burden and
-that these seem regularly between the two
+that these run regularly between the two
 countries: paving the way for steam
 communication.</p>
 
@@ -720,7 +773,7 @@ American products to obtain a form footing
 
 <pb facs="Scan90034"/>
 
-in African and for America to assume that
+in Africa, and for America to assume that
 position as regards Africa which as one of the
 most important nations of the world she has
 only exert himself to command.</p>
@@ -731,7 +784,7 @@ in the Secretarial of this town: including
 gold, coal, petroleum, copper, and other valuable
 minerals. In Cabinda we have copper, lead
 and iron in great profusion, and were informed
-by the Government some time since that there exists
+by the Government sometime since that there exists
 every indication of coal.</p>
 
 <p>We do not ask you to accept our views without
@@ -747,7 +800,8 @@ Your obdt servts<lb/>
 <pb facs="Scan990000"/>
 
 <note>No. 3.</note>
-<note>Copy 1.</note>
+
+<note>Copy!</note>
 
 <p>Loanda, December 13. 1887.</p>
 
@@ -762,7 +816,7 @@ of the 2d Ulto. in reply;</p>
 
 <p>We are of opinion that the
 introduction of American goods on this market
-would exert a beneficial influence on local <unclear extent="one word"/>
+would exert a beneficial influence on local commerce
 first by provoking competition and secondly by
 placing on our lists a number of articles that
 are not used because they are not known.</p>
@@ -778,12 +832,12 @@ future increase the volume of trade and open
 up many other outlets for business.</p>
 
 <p>We remain,<lb/>
-Your most truly,<lb/>
-<unclear>Palhaves</unclear> &amp; <unclear>Frenãos</unclear></p>
+Yours most truly,<lb/>
+Palhares &amp; Irmãos</p>
 
 <pb facs="Scan990001"/>
 
-<note>Copy</note>
+<note>Copy!</note>
 
 <p>Loanda, Dec. 13. 1887.</p>
 
@@ -794,7 +848,7 @@ Loanda.</p>
 <p>Sir:</p>
 
 <p>We have the honor to acknowledge
-your favor of the 2d ult, asking for information
+your favor of the 2d Ult, asking for information
 in respect to the prospects to be obtained for
 American goods in this market.</p>
 
@@ -808,18 +862,18 @@ being able to give you information.</p>
 
 <p>We are Sir,<lb/>
 Yours most respectfully,<lb/>
-(Sgnd), Sousa, Sara &amp; Co.</p>
+(Sgnd), Sousa, Lara &amp; Co.</p>
 
 <pb facs="Scan990002"/>
 
 <note>No 5.</note>
-<note>Copy</note>
+<note>Copy!</note>
 
 <p>Loanda, Nov. 10. 1887.</p>
 
-<p>Henry F. Downing, Esq<lb/>
+<p>Henry F. Downing, Esq.<lb/>
 U.S. Consul,<lb/>
-Lonada.</p>
+Loanda.</p>
 
 <p>Sir:</p>
 
@@ -828,10 +882,10 @@ of the 4th inst., and have much pleasure in replying
 to your various question.</p>
 
 <p>The commerce of the United States,
-altho' of great importance in <unclear>itself</unclear>, has only
+altho' of great importance in itself, has only
 manifested itself on a very small scale in our
-possession of Angola, seeing principally to the
-limited market we have for any article not <unclear extent="one word"/>
+possession of Angola, owing principally to the
+limited market we have for any article not <unclear>essentially</unclear>
 proper for the native trade.</p>
 
 <p>This branch of manufacture
@@ -839,11 +893,11 @@ has been held by England from the outset and
 include such articles as raw and striped cotton
 fabrics, crocking, guns (flintlock), and powder.
 We are not aware as to whether America can
-compete in this line: the one <unclear>known</unclear> fact being
+compete in this line: the one known fact being
 that the English and German market are
 drawn upon exclusively.</p>
 
-<p>As to other goods for the <unclear extent="one word"/>
+<p>As to other goods for the consumption
 of the European population their importance
 is relatively insignificant. We may however
 remark:</p>
@@ -859,7 +913,7 @@ America, have been pitch pine, petroleum,
 
 <pb facs="Scan990003"/>
 
-<unclear>soap</unclear> and furniture</p>
+soap and furniture</p>
 
 <p>Of these we have received consignments from 
 Wilmington. It is however necessary to note that
@@ -870,148 +924,18 @@ price of European shipments.</p>
 
 <p>3° We have every hope that the commerce
 of Angola will sooner or later improve in tone
-oeing principally to the Loanda &amp; Ambaca
+owing principally to the Loanda &amp; Ambaca
 R'y Scheme.</p>
 
 <p>4° As we have already observed our relations
 with the United States have been limited and
 it has only been in timber that any real
-business ha been done.</p>
+business has been done.</p>
 
 <p>We remain<lb/>
 Sir,<lb/>
 Yours respectfully,<lb/>
 (S'gd), Sevart &amp; Co.</p>
-
-<pb facs="Scan990004"/>
-
-<note>No. <del>22.</del>19</note>
-<note>Department of State Received Feb 27 1888</note>
-
-<p>United States Consulate<lb/>
-St. Paul de Loanda<lb/>
-December 30th 1887</p>
-
-<p>Mr Downing<lb/>
-To the Department of State</p>
-
-<p>Subject:</p>
-
-<p>Acknowledging receipt of Circular
-announcing death of Hon. E. B.
-Washburn.</p>
-
-<p>Abstract of contents</p>
-
-<p>Same as above.</p>
-
-<pb facs="Scan990005"/>
-
-<p>No. <del>22</del> 19</p>
-
-<p>United States Consulate<lb/>
-St. Paul de Loanda.<lb/>
-December 30th, 1887</p>
-
-<p>Honorable George L. Rives.<lb/>
-Assistant Secretary of State.<lb/>
-Washington, D.C.</p>
-
-<p>Sir:</p>
-
-<p>I have the honor to inform
-the Department that instruction, relative
-to "public mourning" contained in Circular
-of Oct. 24th, will be obeyed.</p>
-
-<p>The death of the least useful
-of our citizens causes hearts to grieve but
-when such men as the late Honorable E.
-B. Washburn "pass on," nations mourn.</p>
-
-<p>I have the honor to be,<lb/>
-Sir:<lb/>
-Your obedient servant,<lb/>
-Henry F Downing,<lb/>
-U.S. Consul</p><lb/>
-
-<pb facs="Scan990006"/>
-
-<note>No. 20</note>
-<note>Department of State Received Feb 27 1888</note>
-
-<p>United States Consulate,<lb/>
-St. Paul de Loanda.<lb/>
-December 31st, 1887.</p>
-
-<p>Mr Downing<lb/>
-To the Department of State.</p>
-
-<p>Subject:</p>
-
-<p>Vice Consular Officer.</p>
-
-<p>Abstract of contents:</p>
-
-<p>Requesting consideration of the Vice Consulate
-&amp;c., &amp;c.</p>
-
-<pb facs="Scan990007"/>
-
-<p>United States Consulate<lb/>
-St. Paul de Loanda,<lb/>
-December 31. 1887.</p>
-
-<p>Hon. George L. Rives,<lb/>
-Assistant Secretary of State,<lb/>
-Washington, D.C.</p>
-
-<p>Sir:</p>
-
-<p>In referring to Par's. 32, 33, 133 and
-Par's 524 and 564, I have the honor to request
-the Department to act upon what may be
-suggested by comparisons between enclosures
-Nos. 1 and 2 in my despatch No. 17 of this date
-and between enclosures in my despatch No
-19 of this date.</p>
-
-<p>Commercial relations between 
-the province and the United States are
-worthy of a cultivation not to be had
-through silence nor the new publication
-of information.</p>
-
-<p>The incumbency of the office of
-Consul or Vice Consul carries with it
-certain duties that, to be properly performed,
-should be in the hands of some one
-<catchwords>interested</catchwords>
-
-<pb facs="Scan990008"/>
-
-interested in American Commerce.</p>
-
-<p>I enclose herewith Instrument
-executed in accordance with "Consular Regulation."
-for the action of the Department.</p>
-
-<p>The gentlemen mentioned therein
-is an English subject and a man of capacity.
-He refers to Messrs <unclear>Mosbachev</unclear> &amp; Co. 105 Water
-St, New York for which house he is Agent
-here.</p>
-
-<p>I have the honor to be,<lb/>
-Sir,<lb/>
-Your obedient servant,<lb/>
-Henry F. Downing.<lb/>
-U.S. Consul</p>
-
-<p>List of Inclosures.</p>
-
-<p>No. 1 Vice Consular Bond of Arthur Edmund
-Bains with the specimen of Signature &amp; Seal.</p>
 
 </div1>
 
