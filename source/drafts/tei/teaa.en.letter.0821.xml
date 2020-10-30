@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0803">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0821">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Edward Bannister to James D. Porter, January 10, 1887</title>
+<title>Despatch from Henry F. Downing to George L. Rives, December 30, 1887</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0803</idno>
+<idno type="project">teaa.en.letter.0821</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Edward Bannister to James D. Porter</title>
+<title level="a">Despatch from Henry F. Downing to George L. Rives</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
-<date when="1887-01-10">January 10, 1887</date>
+<date when="1887-12-30">December 30, 1887</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -76,11 +76,36 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Ambaca (Angola)</term>
+<term>Ambrizette (Angola)</term>
+<term>Angola</term>
+<term>Banana (Congo)</term>
+<term>Benguela (Angola)</term>
+<term>Cabinda (Angola)</term>
+<term>Cazengo (Angola)</term>
+<term>Chiloango River</term>
+<term>Congo River</term>
+<term>Dondo (Angola)</term>
+<term>Enconge (Angola)</term>
+<term>Golungo Alto (Angola)</term>
+<term>Landana (Angola)</term>
+<term>Loanda (Angola)</term>
+<term>Lisbon (Portugal)</term>
+<term>Mossamedes (Angola)</term>
+<term>Novo Redondo (Angola)</term>
+<term>Quanza  River</term>
+<term>St. Antonio (Congo)</term><!-- ? -->
+<term>St. Thomas</term>
+<term>St. Paul de Loanda (Angola)</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
-<term/>
+<term>France</term>
+<term>Germany</term>
+<term>Great Britain</term>
+<term>Norway</term>
+<term>Portugal</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
@@ -95,16 +120,16 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Bannister, Edward</persName>
-<roleName>Acting U.S. Vice Counsel</roleName>
+<persName>Downing, Henry F.</persName>
+<roleName>U.S. Counsel</roleName>
 <placeName>St. Paul de Loanda (Angola)</placeName>
-<date when="1887-01-10"/>
+<date when="1887-12-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/36031491">Porter, James D. (James Davis), 1828-1912</persName>
+<persName ref="http://viaf.org/viaf/29909070">Rives, George Lockhart, 1849-1917</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
-<date when="1887-02-28"/>
+<date when="1888-02-27"/>
 </correspAction>
 </correspDesc>
 
@@ -664,7 +689,7 @@ carrier per trip 4$000 ries. Therefore each ton of
 coffee requires 14 1/2 carriers and costs from <unclear>Enconge</unclear> 
 to Donda 58$000 Reis From Donda to Loanda
 by the Quanza River Steamers the freight is 40
-ries per ton per kilametre. Donda is 200 kilametres
+reis per ton per kilametre. Donda is 200 kilametres
 from Loanda, Ex. 200 x 40 = 8000 Reis x 58 Rs 000 = 66$
 about $70.00 per ton over 124 miles. The natural
 consequence is that the interior plantations are
