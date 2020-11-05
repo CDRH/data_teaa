@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0811">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Robert S. Newton to James D. Porter, September 30, 1887</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0811</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Robert S. Newton to James D. Porter</title>
+<title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">Roll 4</biblScope>
+<date when="1887-09-30">September 30, 1887</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Downing, Henry F.</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Counsel</roleName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
+<date when="1887-09-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/36031491">Porter, James D. (James Davis), 1828-1912</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1887-11-28"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-10" who="kln">reviewed, edited, and encoded.</change>
+<change when="2019" who="sab">transcribed.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="Scan80011"/>
+
+<note>Department of State Received Nov 28 1887</note>
+
+<note>No 35</note>
+
+<p>Consulate of the United States<lb/>
+St Paul de Loanda<lb/>
+30th September 1887.</p>
+
+<p>Mr Newton<lb/>
+To the Department of State</p>
+
+<p>Subject</p>
+
+<p>Mr Henry F Downings appointment as Consul</p>
+
+<p>Abstract of Contents</p>
+
+<p>Acknowledging despatches &amp; circulars of May 10,
+July 25, &amp; August 20th, with instructions to 
+deliver to Mr Downing, consular archives,
+records &amp; other properties.</p>
+
+<pb facs="Scan80012"/>
+
+<note>No 35</note>
+
+<p>Consulate of the United States<lb/>
+St Paul de Loanda<lb/>
+30th September 1887</p>
+
+<p>The Honorable Assistant Secretary of State<lb/>
+Washington</p>
+
+<p>Sir</p>
+
+<p>I have the honor to acknowledge receipt of 
+despatch No 30 dated July 25, and circulars dated
+May 10th and August 20th enclosing blank forms
+with reference to correspondence during the quarter
+ended this day. also of circular dated June 4
+notifying the appointment of Mr Henry F. Downing
+as Consul, to whom on his arrival, I will deliver
+the Records and Archives of this office in
+accordance with instructions</p>
+
+<p>I am Sir<lb/>
+Your obedient servant<lb/>
+Robt S. Newton<lb/>
+Vice Consul</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

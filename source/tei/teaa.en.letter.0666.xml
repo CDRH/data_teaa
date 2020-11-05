@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0666">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Robert S. Newton to John Davis, June 14, 1884</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0666</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Robert S. Newton to John Davis</title>
+<title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">Roll 4</biblScope>
+<date when="1884-06-14">June 14, 1884</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Commerce and Trade</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Carvalho, Henriques de</term>
+<term>Aguiar, Manuel Sertorio d'Almeida</term>
+<term>Marquis, Sezenande</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Dondo (Angola)</term>
+<term>Malange (Angola)</term>
+<term>Mozambique</term>
+<term>Muata-Janvo</term>
+<term>Quanza River</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>Portugal</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Counsel</roleName>
+<placeName>Loanda, Angola</placeName>
+<date when="1884-06-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1884-07-28"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
+<change when="2019" who="sab">transcribe, encode.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="Scan40000"/> 
+
+<note>Department of State Received Jul 28 1884</note>
+
+<p>United States Consulate<lb/>
+Loanda June 14th 1884.</p>
+
+<p>Sir,</p>
+
+<p>I have the honor to report to the Department
+that a Portuguese Expedition under the command of
+Henriques de Carvalho, Chefe, Major in the <sic>Portugese</sic> Army 
+Sezenande Marquis sub chefe, Major in the Health Department
+and Manoel Sertorio d'Aquiar Lieutenant in the <sic>Portugese</sic> Army
+left here on the 10th instant in the "Serpa Pinto" for Dondo in
+the Quanza River where they hope to arrange carriers
+to enable them to proceed. Their principal destination being to 
+visit the King of Muata-Janvo one of the most important
+potentates in the interior of this part of Africa.</p>
+
+<p>They take a large quantity of goods and will
+require about 500 carriers which they hope to
+arrange at Malange. I believe they take important
+presents from the King of Portugal to the King of
+Muata-Janvo. It is announced in the official paper
+of this Province that the Expedition is allowed Rs 19,320,000
+for its expenses being a little over £4000. Their intention is 
+to open up the Muata-Janvo country to commerce and
+afterwards cross over to Mozambique. The journey is
+calculated to occupy about 2 years.</p>
+
+<p>I have the honor to be<lb/>
+Your obedient Servant<lb/>
+Rob S. Newton<lb/>
+Vice Consul</p>
+
+<fw type="address">The<lb/>
+Assistant Secretary of State<lb/>
+Washington DC</fw>
+
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0445">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Louis Astyanax de Rathier du Verge to John Davis, July 9, 1883</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Brown, Sophie A." xml:id="sab">Sophie A. Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0445</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Louis Astyanax de Rathier du Verge to John Davis</title>
+<title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">Roll 4</biblScope>
+<date when="1883-07-09">July 9, 1883</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Commerce and Trade</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Ludlow, Nicholl</term>
+<term>Passens</term>
+<term>Pina, Bastas</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Ambriz (Angola)</term>
+<term>Banana (Congo)</term>
+<term>Bihé (Angola)</term>
+<term>Balindu (Angola)</term>
+<term>Benguella (Angola)</term>
+<term>Catumbella (Angola)</term>
+<term>Equimina Bay (Angola)</term>
+<term>Kinsembo (Angola)</term>
+<term>Loanda (Angola)</term>
+</keywords>
+    
+<keywords scheme="original" n="empires">
+<term>Netherlands</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Verge, Louis Astyanax de Rathier du</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>St. Paul de Loanda, Angola</placeName>
+<date when="1883-07-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1883-09-17"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-08" who="kln">reviewed and edited.</change>
+<change when="2019" who="sab">transcribe, encode.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="Scan20022"/>
+
+<note>Department of State Received Sep 17, 1883</note>
+
+<note>No. 50</note>
+
+<p>Consulate of the United States<lb/>
+at St. Paul de Loanda S.W.C. Africa</p>
+
+<p>Ls de R. du Verge<lb/>
+to State Department <lb/>
+Washington D.C.</p>
+
+<p>Subject</p>
+
+<p>Visiting my jurisdiction &amp; consular 
+Agencies</p>
+
+<p>Enclose</p>
+
+<p>Report of Benguella, Catembella,
+Equimina Bay, Abriz and 
+Banana Congo.</p>
+
+<pb facs="Scan20023"/>
+
+<p>United States Consulate<lb/>
+St Paul de Loanda<lb/>
+July 9th 1883.</p>
+
+<p>To<lb/>
+Hon John Davis<lb/>
+Asst. Secty. of State<lb/>
+Washington D.C.</p>
+
+<p>Sir</p>
+
+<p>I have the honor to state that upon the receipt 
+of Despatch No. 12 from the State Dept, I went
+South by order of my medical adviser, and 
+visited Benguella, Catumbella &amp; Equimina Bay.
+"Catumbella is the center of commerce of 
+the interior of Benguella, and the great
+rendezvous of all the caravans from
+Balindu and Bihé, I appointed Mr 
+<unclear>Passens</unclear> the chief agent of the Dutch
+African Trading Co. there, to be the agent for
+the Am: Mission of Balindu &amp; Bihé
+Equimina Bay is the great rendezvous
+of Am: Whalers and Mr Bastas Pina
+a Brazilian gentleman is the owner of
+the whole bay and has very fine
+plantation of coffee, cotton, sugar &amp;a
+he furnishes also vegetables meat water
+wood &amp;a to the whalers having no customs
+duties established there, the whalers
+
+<pb facs="Scan20024"/>
+
+have made the bay their Head quarters.
+On my return south my health was not improved
+at all, and the Doctors ordered me to leave
+at once for the U.S. and gave me a certificate
+to that effect which I forward in another
+despatch. I left Loanda for my Northern
+Jurisdiction about a month ago, Ambriz
+is worst than Loanda, but from Kinsembo
+to Banana Congo, the coast which is still
+under the <unclear extent="one word"/> rule, is covered with
+foreign trading houses.</p>
+
+<p>At Banana Am: Whalers are seen almost
+daily during the Whaling season and
+Anchor there for water &amp; provisions. I
+have forwarded in another despatch
+my report on the Congo. While in Banana
+and waiting on a sick bed for the mail steamer to
+Loanda, the U.S.S. <unclear>Quinnebang</unclear> Comdr 
+Nicholl Ludlow, landed and took
+me on board and brought me here</p>
+
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your obedient servant<lb/>
+Ls de R du Verge<lb/>
+US Consul</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>

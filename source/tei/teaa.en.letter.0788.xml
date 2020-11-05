@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0788">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Robert H. Davis to Thomas F. Bayard, September 4, 1885</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0788</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Robert H. Davis to Thomas F. Bayard</title>
+<title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">Roll 4</biblScope>
+<date when="1885-09-04">September 4, 1885</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Philadelphia (Penn.)</term>
+<term>St. Paul de Loando (Angola)</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Davis, Robert H.</persName>
+<roleName>Late U.S. Counsel</roleName>
+<placeName>Philadelphia, Pennsylvania</placeName>
+<date when="1885-09-04"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/38108124">Bayard, Thomas F. (Thomas Francis), 1828-1898</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-09" who="kln">reviewed, edited, and encoded.</change>
+<change when="2019" who="sab">transcribed.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb facs="Scan60002"/>
+
+<p>Philada Sept 4th 1885.</p>
+
+<p>Hon Thos. F. Bayard<lb/>
+Secretary of State<lb/>
+Washington D.C.</p>
+
+<p>Dr Sir</p>
+
+<p>I submit the following
+for your approval.</p>
+
+<p>Having been appointed by
+the President and confirmed by the Senate as
+U.S. Consul to St Paul de Loando I left Phila
+for my post last December. After reaching
+Europe protracted ill health necessitated
+my return to this country. during several
+months at home, fully intending on my
+recovery to health to proceed to my
+destination, I notified your Department of
+my convalescence, when your letter of
+the 26th ult. reached me, apprising me
+of the fact that the consulate at Loando
+would be treated as vacant</p>
+
+<p>My salary from Dec 30 1884 to Aug 26 1885
+(the date of your communication) making two (2)
+Quarters and 57 days amounts to $642.50.
+
+<pb facs="Scan60003"/>
+
+Having been to considerable expense on my
+preparation to go to Africa, and in going 
+to and from Europe and having given
+up my business with the intention of
+remaining abroad for an indefinite time
+in the service of the United States, I 
+trust you will see the justice of my
+claim for salary due and notify me of
+your approval accordingly.</p>
+
+<p>I am sir<lb/>
+Your obt. Servant,<lb/>
+Robt. H. Davis,<lb/>
+Late U.S. Consul.</p>
+
+</div1>
+
+</body>
+</text>
+</TEI>
