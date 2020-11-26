@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0040.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0040">
 
 <teiHeader>
 <fileDesc>
@@ -70,13 +70,13 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term>Bismarck, Otto, Fürst von, 1815-1898</term>
-<term>Combes, Émile 1835-1921</term>
+<term ref="http://viaf.org/viaf/46772111">Bismarck, Otto, Fürst von, 1815-1898</term>
+<term ref="http://viaf.org/viaf/59150902">Combes, Émile 1835-1921</term>
 <term>de Cassaignae</term>
-<term>Hess, Jean, 1862-1926</term>
-<term>Pelletan, Camille, 1846-1915</term>
-<term>Pius X, Pope, 1835-1914</term>
-<term>Rouvier, Maurice, 1842-1911</term>
+<term ref="http://viaf.org/viaf/40741172">Hess, Jean, 1862-1926</term>
+<term ref="http://viaf.org/viaf/41876812">Pelletan, Camille, 1846-1915</term>
+<term ref="http://viaf.org/viaf/95295599">Pius X, Pope, 1835-1914</term>
+<term ref="http://viaf.org/viaf/71535789">Rouvier, Maurice, 1842-1911</term>
 </keywords>
  
 <keywords scheme="original" n="places">

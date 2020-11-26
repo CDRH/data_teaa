@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0042.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0042">
 
 <teiHeader>
 <fileDesc>
@@ -70,19 +70,18 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term>Carton de Wiart, Edmond, Comte, 1876-1959</term>
+<term ref="http://viaf.org/viaf/17340449">Carton de Wiart, Edmond, Comte, 1876-1959</term>
 <term>de Wiert, Gaston</term>
-<term>Gibbons, James, 1834-1921</term>
-<term>Hay, John, 1838-1905</term>
+<term ref="http://viaf.org/viaf/68922932">Gibbons, James, 1834-1921</term>
+<term ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</term>
 <term>Herbert, George</term>
-<term>Leopold II, King of the Belgians, 1835-1909</term>
-<term>Morel, E.D. (Edmund Dene), 1873-1924</term>
-<term>Roosevelt, Theodore, 1858-1919</term>
+<term ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/41884042">Morel, E.D. (Edmund Dene), 1873-1924</term>
+<term ref="http://viaf.org/viaf/44346731">Roosevelt, Theodore, 1858-1919</term>
 </keywords>
  
 <keywords scheme="original" n="places">
 <term>Boston (Massachusetts)</term>
-<term/>
 <term>Great Britain</term>
 <term>The Hague (Netherlands)</term>
 <term>Washington (D.C.)</term>
