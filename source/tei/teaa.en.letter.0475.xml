@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-                        <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0475">
 
@@ -82,7 +82,8 @@
 <term>de Bock</term>
 <term>de Bruya</term>
 <term>Dhali</term>
-<term>Dhamis</term>
+<term ref="http://viaf.org/viaf/48046590">Dhanis, Francis, baron, 1862-1909</term>
+<term ref="http://viaf.org/viaf/89016430">Emin Pasha, 1840-1892</term>
 <term>Equansalanamonatea</term>
 <term>Fivé, Ed.</term>
 <term>Freeman</term>
@@ -98,6 +99,7 @@
 <term>Liepens</term>
 <term>M'Serena</term>
 <term>MacCarthy</term>
+<term>Manie-Mohatra</term>
 <term>Marek</term>
 <term>Mawuté</term>
 <term>Med Kali</term>
@@ -109,7 +111,6 @@
 <term>Noblesse</term>
 <term>Michels</term>
 <term>Munie</term>
-<term>Pasha, Emin</term>
 <term>Ponthers</term>
 <term>Rachid Ben Said Ben Juma Marajebe</term>
 <term>Said Ben Abidi</term>
@@ -137,7 +138,7 @@
 <term>Ituri River</term>
 <term>Kasongo (Congo)</term>
 <term>Kassaku River</term>
-<term>Kibongé (Congo)</term>
+<term>Kibonge (Congo)</term>
 <term>Kwilu River</term>
 <term>Lake Tanganyika</term>
 <term>Lhomo (Congo)</term>
@@ -145,10 +146,9 @@
 <term>Loualaba River</term>
 <term>Lomami River</term>
 <term>Lusambo (Congo)</term>
-<term>Manie-Mohatra</term>
 <term>Maringa River</term>
 <term>Moango (Congo)</term>
-<term>Nyangwé (Congo)</term>
+<term>Nyangwe (Congo)</term>
 <term>Ouelle River</term>
 <term>Riba-Riba (Congo)</term>
 <term>Romie (Congo)</term>
@@ -161,7 +161,7 @@
 <term>Zanzibar</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="empires">
 <term>Belgium</term>
 </keywords>
 
@@ -197,6 +197,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2020-04" who="#kln">reviewed, encoded</change>
 <change when="2020-01-27" who="#unm">transcribed</change>
 </revisionDesc>
@@ -208,7 +209,7 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="20170614_143946"/>
+<pb n="20170614_143946"/>
 
 <note>Indian Bureau Department of State Received Sep 23 93</note>
 
@@ -241,7 +242,7 @@ Africa &amp; what has
 been done by the State
 to stop it.</p>
 
-<pb facs="20170614_144007"/>
+<pb n="20170614_144007"/>
 
 <note>No</note>
 
@@ -274,7 +275,7 @@ River) to proceed to Bena-Kamba,
 in the Lomami River
 and commence operations
 
-<pb facs="20170614_144014"/>
+<pb n="20170614_144014"/>
 
 against the Arabs, who were
 supposed to be at that place
@@ -303,7 +304,7 @@ March 7th on board
 the Steamer "Ville d'anvers" with 
 <catchwords>200</catchwords>
     
-<pb facs="20170614_144024"/>
+<pb n="20170614_144024"/>
 
 200 soldiers &amp; 2 Krupp 7.5 cmm Cannon.</p> 
     
@@ -334,7 +335,7 @@ and a nephew of Tippo Tip was
 exceedingly discourteous to me
 <catchwords>when</catchwords>
     
-<pb facs="20170614_144031"/>
+<pb n="20170614_144031"/>
 
 when he learned I intended going
 to the Lomami.</p>   
@@ -366,7 +367,7 @@ the Arab strength.</p>
 Mr. Tobback, who conducted all
 <catchwords>the</catchwords>
     
-<pb facs="20170614_144039"/>    
+<pb n="20170614_144039"/>    
 
 the affairs of Government and was
 Commandant of the Post containing
@@ -397,7 +398,7 @@ set to work and a strong barricade
 placed entirely around her, and on the 27th.
 <catchwords>All</catchwords>
    
-<pb facs="20170614_144048"/>   
+<pb n="20170614_144048"/>   
 
 All being completed we left for
 Bena Kamba, having on board
@@ -427,7 +428,7 @@ firing three volleys while on the run
 but could see nothing as night had 
 <catchwords><unclear>fallen</unclear></catchwords>
     
-<pb facs="20170614_144056"/>
+<pb n="20170614_144056"/>
 
 <unclear>fallen</unclear>, so returned to the steamer. On
 the way back found eight bodies
@@ -458,7 +459,7 @@ the bodies of 20 persons men, women
 infirm to march rapidly, so
 <catchwords>had</catchwords>
     
-<pb facs="20170614_144103"/>
+<pb n="20170614_144103"/>
 
 had been murdered in order to allow 
 the caravan to retreat as fast as 
@@ -491,7 +492,7 @@ Headquarters of the Company known
 as the "Katanga Syndicate, of which
 <catchwords>Mr</catchwords>
     
-<pb facs="20170614_144110"/>
+<pb n="20170614_144110"/>
 
 Mr. Hodister was the chief, and
 was destroyed by the Arabs at the 
@@ -521,7 +522,7 @@ march to Riba-Riba, through a
 section of country said to be defended
 <catchwords>by</catchwords>
     
-<pb facs="20170614_144123"/>
+<pb n="20170614_144123"/>
 
 by a strong body of Arabs.</p>
     
@@ -606,7 +607,7 @@ for Riba-Riba. 505 strong distributed
 </row>
 </table>
     
-<pb facs="20170614_144218"/>
+<pb n="20170614_144218"/>
 
 <p>As the men were armed with the Albini
 Rifle, and carried 100 cartridges. Besides
@@ -638,7 +639,7 @@ and bedding for each officer,
 on the road, and 11 "chap boxes"
 <catchwords>(provision</catchwords>
     
-<pb facs="20170614_144228"/>
+<pb n="20170614_144228"/>
 
 (provisions cases) for the officers. Each 
 man carried his own rice, sufficientfor
@@ -674,7 +675,7 @@ Section of the Expedition.</p>
 <p>The first days march was a 
 <catchwords>short</catchwords>
     
-<pb facs="20170614_144148"/>
+<pb n="20170614_144148"/>
 
 short one, as we started late. Two 
 cases of small pox appeared that night
@@ -705,7 +706,7 @@ occupation.</p>
 the soft black mud throughout this 
 
     
-<pb facs="20170614_144157"/>
+<pb n="20170614_144157"/>
 
 entire length, being 1/2 foot deep rendered 
 walking very different and 
@@ -735,7 +736,7 @@ At mid-day the village of Ikamba
 was reached. This is the place
 <catchwords>where</catchwords>
     
-<pb facs="20170614_144252"/>
+<pb n="20170614_144252"/>
 
 where Hodisters Expedition was massacred.
 Nothing was unfortunate affair.</p>
@@ -765,7 +766,7 @@ is ready for use. The amount required
 for three or four days is carried in a 
 <catchwords>sling</catchwords>
     
-<pb facs="20170614_144312"/>
+<pb n="20170614_144312"/>
 
 sling at the side. The arrow is dipped in 
 and shot dripping.</p>
@@ -798,7 +799,7 @@ with us.</p>
 
 <p><catchwords>March</catchwords>
     
-<pb facs="20170614_144318"/>
+<pb n="20170614_144318"/>
 
 March 29th progress was stopped
 by arriving on the edge of what appeared 
@@ -827,7 +828,7 @@ was quiet amongst our men. The
 enemy had not discovered our presence
 <catchwords>and</catchwords>
     
-<pb facs="20170614_144325"/>  
+<pb n="20170614_144325"/>  
 
 and were creating the most frightful
 row in their camp. Horns blowing, Tom
@@ -856,7 +857,7 @@ fire with deadly effect. When our
 position was discovered we received their 
 <catchwords>whole</catchwords>
     
-<pb facs="20170614_144332"/>
+<pb n="20170614_144332"/>
 
 whole fire. Bullets, slug, beads, and 
 pieces of brass rods seemed to hail,
@@ -887,7 +888,7 @@ circumstances permit.</p>
 of a raft was commenced and late
 <catchwords>that</catchwords>
     
-<pb facs="20170614_144338"/>
+<pb n="20170614_144338"/>
 
 that night all being finished preparations 
 were at once commenced to cross in the 
@@ -919,7 +920,7 @@ of the Arabs.</p>
 <p>We were to go to Riba-Riba
 <catchwords>do</catchwords>
     
-<pb facs="20170614_144345"/>
+<pb n="20170614_144345"/>
 
 do what we could and return to 
 Kassaku, when the route for Bena-Kamba 
@@ -951,7 +952,7 @@ us 9 days to go.</p>
 <p>The scenes on the road going back 
 <catchwords>were</catchwords>
     
-<pb facs="20170614_144354"/>
+<pb n="20170614_144354"/>
 
 were awful; the dead from the 
 sick column lining it every
@@ -984,7 +985,7 @@ Isanghi at the mouth of the Lomami.
 This is a large Arab post and 
 <catchwords>was</catchwords>
     
-<pb facs="20170614_144401"/>
+<pb n="20170614_144401"/>
 
 was under the command of Ali <unclear>Rod</unclear> Ben
 Said Ben <unclear>Jama</unclear> <unclear>Marapibe</unclear>; son of the Chief of 
@@ -1016,7 +1017,7 @@ those who had died or were ill.</p>
 
 <p><catchwords>All</catchwords>
     
-<pb facs="20170614_144408"/>
+<pb n="20170614_144408"/>
 
 All was completed on the 14th and,
 at 9 AM we left having on board
@@ -1047,7 +1048,7 @@ with letters on board for down river.
 The Arabs had commenced the fight on 
 <catchwords>the</catchwords>
     
-<pb facs="20170614_144416"/>
+<pb n="20170614_144416"/>
 
 the 15th their ammunition was nearly
 exhausted and their soldiers had not 
@@ -1079,7 +1080,7 @@ go on the lower deck, and will take
 measures that all the men are kept out      
 <catchwords>of</catchwords>
     
-<pb facs="20170614_144426"/>
+<pb n="20170614_144426"/>
 
 of sight as much as possible</p>
 
@@ -1113,7 +1114,7 @@ shell dropped into the Factory, range 2400
 feet. At the 12th shot the steamer went 
 <catchwords>to</catchwords>
     
-<pb facs="20170614_144432"/>    
+<pb n="20170614_144432"/>    
 
 to the other side &amp; the men carried the-
 position at the point of the bayonets, killing
@@ -1145,7 +1146,7 @@ they had removed absolutely nothing from
 their houses, leaving all their ivory, gun 
 <catchwords>powder</catchwords>
     
-<pb facs="20170614_144446"/>
+<pb n="20170614_144446"/>
 
 powder, guns, cartridges, &amp;c in their houses.</p>
 
@@ -1178,7 +1179,7 @@ strain on their resources.</p>
 whilst receiving these people. A great
 <catchwords>many</catchwords>
     
-<pb facs="20170614_144455"/>
+<pb n="20170614_144455"/>
 
 many of the soldiers found fathers, mothers,
 brothers, or sisters amongst the slaves, and 
@@ -1208,7 +1209,7 @@ that behind a large Arab town named
 Romie existed, the steamer was turned 
 <catchwords>in</catchwords>
     
-<pb facs="20170614_144537"/>
+<pb n="20170614_144537"/>
 
 in for the bank and preparations made
 to land. Heavy firing was heard &amp; as several 
@@ -1238,7 +1239,7 @@ beach, but a bullet soon put an end
 to these proceedings. They say they 
 <catchwords>do</catchwords>
     
-<pb facs="20170614_144546"/>
+<pb n="20170614_144546"/>
 
 do not eat human flesh on account
 of a liking for it, but as the Arabs
@@ -1272,7 +1273,7 @@ I must however cite for acts of Exceptional
 bravery and devotion the 
 <catchwords>following</catchwords>
 
-<pb facs="20170614_144556"/>
+<pb n="20170614_144556"/>
 
 following names:</p>
 
@@ -1309,7 +1310,7 @@ In the fight &amp; assault at Stanley Falls.</p>
 <p>Jacob.
 In the fight and assault at Romie.</p>
 
-<pb facs="20170614_144605"/>
+<pb n="20170614_144605"/>
 
 <p>Also the following black soldiers:</p>
 
@@ -1341,7 +1342,7 @@ The operations against the Arabs
 the soldiers and 300 prisoners on
 <catchwords>board</catchwords>
 
-<pb facs="20170614_144612"/>
+<pb n="20170614_144612"/>
 
 board.</p>
 
@@ -1379,7 +1380,7 @@ task to fulfill; that is to address to
 you my warmest and most sincere
 <catchwords>thanks</catchwords>
 
-<pb facs="20170614_144622"/>
+<pb n="20170614_144622"/>
 
 thanks
 for the efficacious and disinterested assistance
@@ -1411,7 +1412,7 @@ only the remembrance of the good
 and cordial relations which
 <catchwords>existed</catchwords>
 
-<pb facs="20170614_144632"/>
+<pb n="20170614_144632"/>
 
 existed between us, will mitigate the 
 regret I have to part with you 
@@ -1441,7 +1442,7 @@ They also murdered the State Agent
 at Riba-Riba Lieut. Michals.
 <catchwords>In</catchwords>
 
-<pb facs="20170614_144638"/>
+<pb n="20170614_144638"/>
 
 In December, 1892 Lieut. Dhamis, 
 Commandant of the Camp at Lusambo, 
@@ -1470,7 +1471,7 @@ disposition of the State Mr. Dhamis
 immediately went to him and they defeated 
 <catchwords>Sef</catchwords>
 
-<pb facs="20170614_144645"/>
+<pb n="20170614_144645"/>
 
 Sef, killing 500, &amp; capturing 600 &amp;
 5 chiefs  and 1000 guns. Since that
@@ -1503,7 +1504,7 @@ condition. The only post of any importance
 held by them is <unclear>Tibonga</unclear>, 
 <catchwords>90</catchwords>
 
-<pb facs="20170614_144651"/>
+<pb n="20170614_144651"/>
 
 90 miles south of Stanley Falls on the right 
 bank of the Loualaba (Kongo). An Expedition
@@ -1534,7 +1535,7 @@ a few years when we would see the
 slave trade dying a natural death.
 <catchwords>I</catchwords>
 
-<pb facs="20170614-144659"/>
+<pb n="20170614-144659"/>
 
 I am certain all the powder, cartridges and
 guns captured at Stanley Falls and Romie
@@ -1573,7 +1574,7 @@ Arab)</p>
 
 <p><catchwords>Stanley Falls</catchwords>
 
-<pb facs="20170614_144705"/>
+<pb n="20170614_144705"/>
 
 Stanley Falls. Chief Rachid Ben Said 
 Ben Juma Maraéibe (nephew).</p>
@@ -1624,7 +1625,7 @@ Bomokandi and Aruwimi (or Ituri)</p>
 <p>In the Maringa River (south of the Kongo 
 <catchwords>and</catchwords>
     
-<pb facs="20170614_144712"/>
+<pb n="20170614_144712"/>
 
 west of the Lomami). <unclear>Munia-Maribe</unclear>
 (a former slave of Tippo-Tibs, but freed 
@@ -1656,7 +1657,7 @@ been confirmed by a report from Lieut.
 Dhamis at Nyangwé. One of his prisoners
 <catchwords>an</catchwords>
 
-<pb facs="20170614_144724"/>
+<pb n="20170614_144724"/>
 
 an Arab chief having told him
 substantially, what we heard at the 
@@ -1688,7 +1689,7 @@ posts previous to hostilities.<lb/>
 "G" Sketch of Arab house, Stanley Falls.<lb/>
 <catchwords>H</catchwords>
     
-<pb facs="20170614_144733"/>
+<pb n="20170614_144733"/>
 
 "H." Ground plan Rachids house at 
 Stanley Falls.<lb/>

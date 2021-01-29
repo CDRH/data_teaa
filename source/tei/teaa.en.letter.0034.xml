@@ -71,15 +71,15 @@
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term>Andrews, S. A.</term>
+<term>Andrews, Silas A.</term>
 <term>Cunningham, Robert</term>
-<term>Sumner, Charles, 1811-1874</term>
+<term ref="http://viaf.org/viaf/22940901">Sumner, Charles, 1811-1874</term>
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>Africa</term>
 <term>Albion (N.Y.)</term>
-<term>Salem (Mass.)</term>
+<term>Salem (Massachusetts)</term>
 <term>St. Paul de Loanda (Angola)</term>
 <term>Washington (D.C.)</term>
 </keywords>
@@ -115,6 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-04-24" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
@@ -125,11 +126,11 @@
 
 <body>
 
-<pb facs="teaa.en.letter.0034.001"/>
+<pb n="teaa.en.letter.0034.001"/>
 
 <div1 type="document" xml:lang="en">
 
-<note>Redc <del>Ap.</del> May 24</note>
+<note>Recd <del>Ap.</del> May 24</note>
 
 <opener><dateline>Salem Mass<lb/>
 April 30, 1862.</dateline></opener>
@@ -166,7 +167,7 @@ to Africa.</p>
 <addrLine>Washington D.C.</addrLine>
 </address></fw>
 
-<pb facs="teaa.en.letter.0034.002"/>
+<pb n="teaa.en.letter.0034.002"/>
 
 me he would give it his attention, which led me to presume,
 that as I had always to the best of my knowledge given satisfaction 

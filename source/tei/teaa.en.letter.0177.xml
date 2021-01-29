@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0177.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0177">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -76,7 +76,7 @@
  
 <keywords scheme="original" n="places">
 <term>Liberia</term>
-<term>London</term>
+<term>London (England)</term>
 </keywords>
 
 <keywords scheme="original" n="empires">
@@ -99,7 +99,7 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Pinney, J. B.</persName>
+<persName>Pinney, John B.</persName>
 <roleName>Chargè d'Affaires of Liberia</roleName>
 <placeName>New York (N.Y.)</placeName>
 <date when="1863-03-17"/>
@@ -115,6 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-09-12" who="#kln">reviewed</change>
 <change when="2019-06-17" who="#caa">transcribed and encoded</change>
 </revisionDesc>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0041.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0041">
 
 <teiHeader>
 <fileDesc>
@@ -70,21 +70,25 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term>Bajer, Fredrik, 1837-1922</term>
+<term ref="http://viaf.org/viaf/107637271">Bajer, Fredrik, 1837-1922</term>
 <term>Herbert, George</term>
-<term>Leopold II, King of the Belgians, 1835-1909</term>
-<term>Lockwood, Belva Ann, 1830-1917</term>
-<term>Morel, E.D. (Edmund Dene), 1873-1924</term>
+<term ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/225648423">Lockwood, Belva Ann, 1830-1917</term>
+<term ref="http://viaf.org/viaf/41884042">Morel, E.D. (Edmund Dene), 1873-1924</term>
 <term>Morrison, William</term>
-<term>Sheppard, William H. (William Henry), 1865-1927</term>
-<term>Washington, Booker T., 1856-1915</term>
+<term ref="http://viaf.org/viaf/62614395">Sheppard, William H. (William Henry), 1865-1927</term>
+<term ref="http://viaf.org/viaf/100210618">Washington, Booker T., 1856-1915</term>
 </keywords> 
  
 <keywords scheme="original" n="places">
 <term>Armenia</term>
-<term>Belgium</term>
 <term>Cambridge (England)</term>
-<term/>
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>Belgium</term>
+<term>England</term>
 <term>United States</term>
 </keywords>
  

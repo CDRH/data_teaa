@@ -89,7 +89,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>Drake, F. J.</term>
 <term>Dumbleton</term>
 <term ref="http://viaf.org/viaf/66543224">Duponchel, A. (Adolphe), 1821-1903</term>
-<term>Ferreira, Antonio de Carvalho Fonseca Henriques</term>
+<term ref="http://viaf.org/viaf/91152138558810981165">Ferreira, João Antonio de Brissac das Neves, 1846-1902</term>
 <term ref="http://viaf.org/viaf/11129">Galliéni, Joseph Simon, 1849-1916</term>
 <term>Gouldsbury</term>
 <term ref="http://viaf.org/viaf/43915538">Havelock, Arthur Elibank, Sir, 1844-1908</term>
@@ -111,13 +111,13 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term ref="http://viaf.org/viaf/65976458">Sechele, Kgosi, approximately 1810-1892</term>
 <term ref="http://viaf.org/viaf/18600856">Shufeldt, Robert Wilson, 1822-1895</term>
 <term ref="http://viaf.org/viaf/64121517">Soleillet, Paul, 1842-1886</term>
-<term ref="http://viaf.org/viaf/27071894">Stanley, Henry M. (Henry Morton), 1841-1904</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry Morton, 1841-1904</term>
 <term>Stevenson, James</term>
 <term>Stocker</term>
 <term>Thomson, Joseph</term>
 <term>Vassian, L.</term>
 <term>Vreeland, C. E.</term>
-<term>Yates, Beverly P.</term>
+<term ref="http://viaf.org/viaf/48476852">Yates, Beverly Page</term>
 <term ref="http://viaf.org/viaf/5113439">Zweifel, J. (Josuah)</term>
 </keywords>
 
@@ -135,18 +135,18 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>Bengasi (Tripoli)</term>
 <term>Benguela (Angola)</term>
 <term>Beyrout (Syria)</term>
-<term>Bihe (Angola)</term>
-<term>Blue Nile</term>
+<term>Bihé (Angola)</term>
+<term>Blue Nile River</term>
 <term>Brass (Nigeria)</term>
 <term>Brewerville (Liberia)</term>
 <term>Boporo (Liberia)</term>
-<term>Bornu</term>
+<term>Bornu Empire</term>
 <term>Brass (Nigeria)</term>
 <term>Cairo (Egypt)</term>
 <term>Calcullo (Angola)</term>
 <term>Canary Islands</term>
 <term>Cape Coast (Gold Coast)</term>
-<term>Cape de Verde</term>
+<term>Cape Verde</term>
 <term>Cape Juby (Morocco)</term>
 <term>Cape of Good Hope</term>
 <term>Ceylon</term>
@@ -159,6 +159,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>Dondo (Angola)</term>
 <term>Egypt</term>
 <term>Elmina (Gold Coast)</term>
+<term>Empire of Uadai</term>
 <term>Freetown (Sierra Leone)</term>
 <term>Gambia</term>
 <term>Gambia River</term>
@@ -168,6 +169,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>Kabenda (Congo)</term>
 <term>Kafrio River</term>
 <term>Khartoum (French Soudan)</term>
+<term>Kingdom of Loango</term>
 <term>Lake Nyassa</term>
 <term>Lake Quilimane</term>
 <term>Lake Tanganyika</term>
@@ -175,12 +177,12 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>Lake Victoria Nyanza</term>
 <term>Lagos (Nigeria)</term>
 <term>Liberia</term>
-<term>Loango</term>
 <term>Lokoja (Nigeria)</term>
-<term>Madeira (Portugal)</term>
+<term>Madeira</term>
 <term>Maliwanda</term>
+<term>Mambe</term>
 <term>Marfa River</term>
-<term>Mecca (Nejd)</term>
+<term>Mecca (Ottoman Empire)</term>
 <term>Medina (Liberia)</term>
 <term>Medina (Senegal)</term>
 <term>Mellacouri River</term>
@@ -211,22 +213,21 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>Socotra</term>
 <term>South Africa</term>
 <term>St. Paul de Loando</term>
-<term>St. Thomas</term>
+<term>St. Thomas (St. Thomas and Prince)</term>
 <term>Stanley Pool</term>
 <term>Sugaree River</term>
 <term>Tacquah (Gold Coast)</term>
-<term>Timbuctoo (French Soudan)</term>
+<term>Timbuctoo (French Sudan)</term>
 <term>Transvaal</term>
 <term>Tebreck (Tripoli)</term>
-<term>Tenerife</term>
+<term>Tenerife (Canary Islands)</term>
 <term>Timbo (Fouta Djallon)</term>
 <term>Tripoli</term>
 <term>Tunis (Tunisia)</term>
-<term>Uadai</term>
 <term>Vivi (Congo)</term>
 <term>Western Islands</term>
-<term>White Nile</term>
-<term>Zambesi River</term>
+<term>White Nile River</term>
+<term>Zambezi River</term>
 <term>Zanzibar</term>
 <term>Zomba (Malawi)</term>
 <term>Zululand</term>
@@ -268,6 +269,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 </profileDesc>
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-08-12" who="kln">encoding and transcription.</change>
 </revisionDesc>
 </teiHeader>
@@ -278,7 +280,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p001" facs="teaa.en.book.0013.001"/>
+<pb n="p001"/>
 
 <div2 type="title">
 
@@ -324,7 +326,7 @@ in North America, and by Russia in Central Asia, that should we try
 to do in emulation of their example&#8212;seek a continent whereon to
 extend our beneficent influence, and find, by the employment of our
 
-<pb xml:id="p002" facs="teaa.en.book.0013.002"/>
+<pb n="p002"/>
 
 idle capital, at once a new market for the products of our industries
 and manufactures, and a vast centre of agricultural production, able
@@ -372,7 +374,7 @@ with it in the foundation of civilizing stations in the Portuguese African colon
 <p>Spain is meditating a protectorate of Morocco. Messers Bolliglia,
 Mamoli and Pastori, of the "Italian Society for Promoting Commercial
 
-<pb xml:id="p003" facs="teaa.en.book.0013.003"/>
+<pb n="p003"/>
 
 Exploration in Africa," have left Tripoli to examine the elevated
 plain of Barka and to found trading posts at Bengasi, Derna and Tebreck,
@@ -418,7 +420,7 @@ exist in several oases points which promise to be of great utility for the propo
 the German Government having asked for him the protection 
 of the Portuguese Government in its African jurisdiction. Dr. Holub,
 
-<pb xml:id="p004" facs="teaa.en.book.0013.004"/>
+<pb n="p004"/>
 
 who has made interesting researches on the Zambesi, intends to cross 
 the continent from south to north. Starting from the Cape of Good 
@@ -466,7 +468,7 @@ boats, he struck the Congo below Stanley Pool, and coming down
 the river he met Stanley. It is suggested that a more practicable
 route to the interior than that by the lower Congo may be opened by
 
-<pb xml:id="p005" facs="teaa.en.book.0013.005"/>
+<pb n="p005"/>
 
 the Ogowe and the streams which rise near its source. The Count is 
 again to descend the Alima, this time in a transportable steam launch,
@@ -514,7 +516,7 @@ Leone and the Gambia, at the rate of three shillings (75 cents) per
 of the enlightened world will in no very remote future be dependent, 
 and it possesses the very highest capacity for the consumption
 
-<pb xml:id="p006" facs="teaa.en.book.0013.006"/>
+<pb n="p006"/>
 
 of many of the productions of civilization. One of the marked
 developments is the numerous orders for utensils and simple machinery 
@@ -584,7 +586,7 @@ Steam Navigation Company" also employ a number of steamships
 
 <!-- PAGE 7 IS A MAP -->
 
-<pb xml:id="p008" facs="teaa.en.book.0013.008"/>
+<pb n="p008"/>
 
 ships in the West African trade. Messrs. Rubattino &amp; Co. announce
 their intention to put on several steamers between Genoa and Bengasi.
@@ -631,7 +633,7 @@ country and penetrate to a salubrious region, whose resources for
 trade, known to be prodigious, are as yet untouched. Such a connection
 with the interior, with the various appliances of civilization
 
-<pb xml:id="p009" facs="teaa.en.book.0013.009"/>
+<pb n="p009"/>
 
 which must follow would be one of the most effective agencies for
 promoting vigorous colonization, of the immigrants, who would at 
@@ -678,7 +680,7 @@ reached half million of pounds.</p>
 commission or compensation of any kind, but trusting wholly to that
 hospitality which the pride of the Oriental, pass from village to village
 
-<pb xml:id="p010" facs="teaa.en.book.0013.010"/>
+<pb n="p010"/>
 
 reading the Koran and giving instructions to wondering groups 
 of natives. Whole tribes are stated to be converted to the Mahommedan
@@ -727,7 +729,7 @@ assistants, 361 communicants, 597 Sunday-school scholars and 415 in
 
 <!-- PAGE 11 IS A MAP -->
 
-<pb xml:id="p012" facs="teaa.en.book.0013.012"/>
+<pb n="p012"/>
 
 day and boarding-schools. The report of the Methodist Episcopal 
 Church of the United States, gives 25 ministers, 10 assistants, 4 native 
@@ -774,7 +776,7 @@ maintain stations at Mambe and Maliwanda, on the line of the proposed
 road, and that the Central African Trading Company undertake 
 to keep up regular communication between Lakes Tanganyika
 
-<pb xml:id="p013" facs="teaa.en.book.0013.013"/>
+<pb n="p013"/>
 
 and Quilimane. The distance between the lakes is about two hundred 
 and twenty miles. The London Missionary Society has resolved 
@@ -823,7 +825,7 @@ for his own good, of making him independent, of giving him a country
 he can call his own, and of elevating his race to the standard of a
 Christian nation. * * * * * Liberia's flag is now honored by all
 
-<pb xml:id="p014" facs="teaa.en.book.0013.014"/>
+<pb n="p014"/>
 
 Christian nations, and none more deserves honor, for the cause over
 which it floats is the grandest and holiest which ever gave birth to a
@@ -873,7 +875,7 @@ the people of Africa." Three ministers have expressed their readiness
 
 <!-- PAGE 15 IS A MAP -->
 
-<pb xml:id="p016" facs="teaa.en.book.0013.016"/>
+<pb n="p016"/>
 
 to enter upon labors in "fatherland." The African Civil and
 Evangelical Association has for its purpose "the sending and supporting 
@@ -917,7 +919,7 @@ Earth rolls the rapturous hosanna round."</p>
 
 </div2>
 
-<pb xml:id="p017" facs="teaa.en.book.0013.017"/>
+<pb n="p017"/>
 
 <div2 type="title">
 
@@ -965,7 +967,7 @@ Behind the explorer comes the military post and European civilization.
 As was shown in "The Sun" some time ago, France has 
 since 1854 been extending her acquisitions from St. Louis, on the
 
-<pb xml:id="p018" facs="teaa.en.book.0013.018"/>
+<pb n="p018"/>
 
 West Coast, along the Senegal and Gambia rivers, eastwardly 
 into the Soudan, until she now possesses a large area of country, and 

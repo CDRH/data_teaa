@@ -67,11 +67,11 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Periodicals</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
-<term>Blumenback</term>
+<term ref="http://viaf.org/viaf/71570755">Blumenbach, Johann Friedrich, 1752-1840</term>
 <term>Freidig</term>
 <term ref="http://viaf.org/viaf/185887979">Gannibal, Abram Petrovich, 1697?-1781</term>
 <term ref="http://viaf.org/viaf/44333482">Hopkins, Pauline Elizabeth, 1859-1930</term>
@@ -85,6 +85,7 @@
 <term>Algeria</term>
 <term>Arabia</term>
 <term>Canary Islands</term>
+<term>Congo Free State</term>
 <term>Dahomey</term>
 <term>Egypt</term>
 <term>Fezzan Tunis</term>
@@ -101,7 +102,7 @@
 <term>Vienna (Austria)</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="empires">
 <term/>
 </keywords>
  
@@ -137,6 +138,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-11-18" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -147,7 +149,7 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0080.001"/>
+<pb n="p1"/>
 
 <div2 type="title">
 
@@ -173,7 +175,7 @@
 
 <p>The United States Consul-General gives an interesting description of the military manœuvres of Menelik's troops. He says in an extended article: "The escorting troops then wheeled, and moved on in advance. Their numbers increased so rapidly
 
-<pb xml:id="p2" facs="teaa.en.periodical.0080.002"/>
+<pb n="p2"/>
 
 as we approached the city that we were finally preceded by 3,000 men.</p>
 
@@ -195,7 +197,7 @@ as we approached the city that we were finally preceded by 3,000 men.</p>
 
 <p>Under this name are comprehended all the South African races. Many tribes and even nationalities, all allied, however, by common customs and similar dialects, come under their name. The word "Kaffir" is
 
-<pb xml:id="p3" facs="teaa.en.periodical.0080.003"/>
+<pb n="p3"/>
 
 considered by them a term of contempt; but as each division of the nation to which it applies as a separate name, their language supplies no substitute, unless the general terms Sechuano, Bantu or Zingian&#8212;all of which terms have been applied to the Kaffir race by different ethnologists&#8212;be received in its place. The Kaffirs are one of the widest spread of the African families. The Kaffirs are blackish-red in complexion and the hair crisp. The men are a handsome set, very tall with an intellectual cast of countenance. They show much aptitude for civilization, but their origin is a mystery to scientists. The Kaffirs are great warriors.</p>
 
@@ -215,7 +217,7 @@ considered by them a term of contempt; but as each division of the nation to whi
 
 <p>"In the whole range of the African continent we discover the same endless variations and gradational blending between the widest extremes, exhibited by all the other people of the earth. In color they vary through every shade from the European that sometimes appear in Egypt, and still exists in the neighborhood of Mount Atlas, to the polished ebony of the thoroughly dyed Negro. In physiognomy, they range between the elegant Grecian outline, and the exaggerated monstrosity of prognathous development. In texture of hair they exhibit every grade from the soft Asiatic and even auburn locks of some Egyptians, to the Auranian Berbers, through the long, plaited ringlets of the Morooran Kaffirs, and short, crisp curls of the Nubian, the thick
 
-<pb xml:id="p4" facs="teaa.en.periodical.0080.004"/>
+<pb n="p4"/>
 
 and frizzled, wolf-like covering of the diffused Gallas and the still more woolly-headed growth of the Fellahs, and the thoroughly developed Negro tufts of the Guinea tribes. In every <sic>inportant</sic> part that marks varieties in man, the inhabitants of Africa vary with such indefinite blendings of one grade into another, between the Caucasian standard and the lowest Negro specimen, that it is impossible to draw a line of division at any point of the skull, and affirms that here one type ends and another begins."</p>
 

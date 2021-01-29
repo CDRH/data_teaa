@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0039.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0039">
 
 <teiHeader>
 <fileDesc>
@@ -71,28 +71,31 @@
 
 <keywords scheme="viaf" n="people">
 <term>Bell, M. D.</term>
-<term>Gibbons, James, 1834-1921</term>
-<term>Grenfell, George, 1849-1906</term>
+<term ref="http://viaf.org/viaf/68922932">Gibbons, James, 1834-1921</term>
+<term ref="http://viaf.org/viaf/14952249">Grenfell, George, 1849-1906</term>
 <term>Harrison, James</term>
 <term>Holland, Michael</term>
-<term>Johnston, Harry, 1858-1927</term>
+<term ref="http://viaf.org/viaf/29621073">Johnston, Harry, 1858-1927</term>
 <term>Kowalsky, Henry I.</term>
-<term>Leopold II, King of the Belgians, 1835-1909</term>
-<term>Morel, E.D. (Edmund Dene), 1873-1924</term>
-<term>Roosevelt, Theodore, 1858-1919</term>
-<term>Stanley, Henry Morton, 1841-1904</term>
+<term ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/41884042">Morel, E.D. (Edmund Dene), 1873-1924</term>
+<term ref="http://viaf.org/viaf/44346731">Roosevelt, Theodore, 1858-1919</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry Morton, 1841-1904</term>
 </keywords> 
  
 <keywords scheme="original" n="places">
 <term>Africa</term>
-<term>Belgium</term>
 <term>British East Africa</term>
-<term/>
-<term>England</term>
 <term>Uganda</term>
 <term>Washington (D.C.)</term>
 </keywords>
  
+<keywords scheme="original" n="empires">
+<term>Belgium</term>
+<term>England</term>
+<term>United States</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>

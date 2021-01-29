@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0179.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0179">
 
 <teiHeader>
 <fileDesc>
@@ -96,7 +96,7 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Pinney, J. B.</persName>
+<persName>Pinney, John B.</persName>
 <roleName>Chargè d'Affaires of Liberia</roleName>
 <placeName>New York (N.Y.)</placeName>
 <date when="1864-03-13"/>
@@ -112,6 +112,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-12" who="#kln">metadata edits</change>
 <change when="2019-09-12" who="#kln">reviewed</change>
 <change when="2019-06-17" who="#caa">transcribed and encoded</change>
 </revisionDesc>

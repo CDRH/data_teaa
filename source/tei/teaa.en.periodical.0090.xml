@@ -67,12 +67,12 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Periodicals</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
 <term ref="http://viaf.org/viaf/54942091">Blyden, Edward Wilmot, 1832-1912</term>
-<term>Browne, H. M.</term>
+<term ref="http://viaf.org/viaf/51080627">Browne, Hugh M. (Hugh Mason)</term>
 <term ref="http://viaf.org/viaf/161996663">Coppinger, William, 1828-1892</term>
 <term ref="http://viaf.org/viaf/818337">Garnet, Henry Highland, 1815-1882</term>
 <term ref="http://viaf.org/viaf/17098270">Stewart, T. McCants (Thomas McCants), 1854?-1923</term>
@@ -89,7 +89,7 @@
 <term>Liberia</term>
 <term>Lisbon (Portugal)</term>
 <term>Gambia River</term>
-<term>Ogove River</term>
+<term>Ogowe River</term>
 <term>Massamedes (Angola)</term>
 <term>Mediterranean Sea</term>
 <term>Monrovia (Liberia)</term>
@@ -97,12 +97,12 @@
 <term>Niger River</term>
 <term>Senegal River</term>
 <term>St. Paul's River</term>
-<term>Timbuctoo (French Soudan)</term>
-<term>Zambesi River</term>
+<term>Timbuctoo (French Sudan)</term>
+<term>Zambezi River</term>
 <term>Zanzibar</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="empires">
 <term>France</term>
 <term>Portugal</term>
 </keywords>
@@ -123,6 +123,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-11-25" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -133,7 +134,7 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0090.001"/>
+<pb n="p1"/>
 
 <div2 type="title">
 
@@ -153,7 +154,7 @@
 
 <gap reason="sampling"/>
 
-<pb xml:id="p2" facs="teaa.en.periodical.0090.002"/>
+<pb n="p2"/>
 
 <p>Liberia College.&#8212;We are glad to see Dr. Blyden seems intent on promoting the efficiency of this college, at Monrovia. He is reported to have secured two able men, Rev. T. McCants Stewart, Pastor of the Bethel African M. E. Church in Sullivan street, New York, and Rev. H. M. Browne, to fill professorships. Mr. Browne, latterly supplying the late Dr. Garnet's Shiloh Presbyterian Church in Twenty-sixth street, New York, has also the appointment of U. S. Consul at Monrovia. We wish these brethren health and long years of service, with great success in training young Liberians for usefulness.</p>
 

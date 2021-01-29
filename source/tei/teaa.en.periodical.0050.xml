@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0050.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0050">
 
 <teiHeader>
 <fileDesc>
@@ -45,9 +45,9 @@
 <title level="a" type="main">Zion's Mission</title>
 <author n="Pettey, C.C.">Mrs. Bishop C. C. Pettey</author>
 <title level="j">The A.M.E. Zion Quarterly Review</title>
-<biblScope unit="volume"><!-- VOLUME NUMBER --></biblScope>
-<biblScope unit="issue"><!-- ISSUE NUMBER --></biblScope>
-<date when="yyyy-mm"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<biblScope unit="volume"/>
+<biblScope unit="issue"/>
+<date/>
 <biblScope unit="page">28-30</biblScope>
 </bibl>
 </sourceDesc>
@@ -80,23 +80,23 @@
     
 <keywords scheme="original" n="places">
 <term>Abyssinia</term>
-<term>Chicago (Ill.)</term>
+<term>Chicago (Illinois)</term>
 <term>Cuba</term>
 <term>Ethiopia</term>
-<term>Galveston (Tex.)</term>
+<term>Galveston (Texas)</term>
 <term>Gulf of Mexico</term>
 <term>Haiti</term>
 <term>Liberia</term>
-<term>Los Angeles (Cali.)</term>
-<term>New Orleans (La.)</term>
+<term>Los Angeles (California)</term>
+<term>New Orleans (Louisiana)</term>
 <term>Newbern (N.C.)</term>
 <term>Niagara Falls</term>
 <term>Nile River</term>
 <term>North America</term>
 <term>South America</term>
-<term>Transvall</term>
+<term>Transvaal</term>
 <term>Vancouver (Canada)</term>
-<term>Vicksburg (Miss.)</term>
+<term>Vicksburg (Mississippi)‏</term>
 </keywords>
     
 <keywords scheme="original" n="empires">
@@ -126,6 +126,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-10-23" who="#kln">reviewed and edited</change>
 <change when="2019-04-09" who="#pr">transcribed and encoded</change>
 </revisionDesc>
@@ -137,7 +138,7 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p28"/>
+<pb n="p28"/>
 
 <div2 type="titles">
 
@@ -186,7 +187,7 @@ its proportions.</p>
 <p>This need of extending the borders of Zion is not confined
 to any particular section of the country, but from Nova Scotia 
 
-<pb xml:id="p29"/>
+<pb n="p29"/>
 
 to Vancouver and from Niagara to the Gulf of Mexico
 there is room for improvement.</p>
@@ -235,7 +236,7 @@ Sabbaths horse racing and gambling. Many more in middle
 and western Texas consider the daring exploits of the cowboys, 
 the most heroic examples of manhood.</p>
 
-<pb xml:id="p30"/>
+<pb n="p30"/>
 
 <p>Now is our best opportunity to house these millions at
 home. Zion "lift up your eyes and behold the fields for

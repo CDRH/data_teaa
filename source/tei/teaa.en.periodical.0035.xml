@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0035.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0035">
 
 <teiHeader>
 <fileDesc>
@@ -70,25 +70,27 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term>Leopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</term>
 <term>Memminger, Lucien</term>
-<term>Morgan, J. Pierpont (John Pierpont), 1837-1913.</term>
-<term>Roosevelt, Theodore, 1858-1919</term>
-<term>Root, Elihu, 1845-1937</term>
-<term>Ryan, Thomas Fortune, 1851-1928</term>
+<term ref="http://viaf.org/viaf/57410770">Morgan, J. Pierpont (John Pierpont), 1837-1913</term>
+<term ref="http://viaf.org/viaf/44346731">Roosevelt, Theodore, 1858-1919</term>
+<term ref="http://viaf.org/viaf/3252542">Root, Elihu, 1845-1880</term>
+<term ref="http://viaf.org/viaf/38615601">Ryan, Thomas Fortune, 1851-1928</term>
 <term>Slocum, Clarence R.</term>
 <term>Smith, James A.</term>
 </keywords> 
  
 <keywords scheme="original" n="places">
-<term>Belgium</term>
 <term>Boma (Congo)</term>
+<term>Congo Free State</term>
 <term>Brussels (Belgium)</term>
-<term/>
-<term>Great Britain</term>
 <term>Mexico</term>
+</keywords>
+
+<keywords scheme="original" n="empires">
+<term>Belgium</term>
+<term>Great Britain</term>
 <term>United States</term>
-<term>Washington (D.C.)</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
@@ -107,6 +109,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2020-12" who="#kln">metadata edits</change>
 <change when="2019-04-04" who="#kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-09-05" who="#kln">Initial transcription and encoding.</change>

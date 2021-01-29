@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
+<?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0020">
 <teiHeader>
@@ -73,7 +72,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term ref="http://viaf.org/viaf/35249995">Arthur, Chester Alan, 1829-1886</term>
 <term ref="http://viaf.org/viaf/2333037">Barbour, Thomas S. (Thomas Seymour), 1853-1915</term>
 <term ref="http://viaf.org/viaf/38108124">Bayard, Thomas F. (Thomas Francis), 1828-1898</term>
-<term ref="http://viaf.org/viaf/46772111">Bismarck, Otto von 1815-1898</term>
+<term ref="http://viaf.org/viaf/46772111">Bismarck, Otto, Fürst von, 1815-1898</term>
 <term>Bourée</term>
 <term ref="http://viaf.org/viaf/14846663">Bourne, H.R. Fox (Henry Richard Fox), 1837-1909</term>
 <term ref="http://viaf.org/viaf/64062958">Casement, Roger, 1864-1916</term>
@@ -109,32 +108,32 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>Pickersgill</term><!-- British Consul -->
 <term>Reeves, J. S.</term>
 <term ref="http://viaf.org/viaf/51826740">Rolin-Jaequemyns, Gustave, 1835-1902</term>
-<term ref="http://viaf.org/viaf/60425677">Sanford, H. S., 1823-1891</term>
-<term>Sheppard, W. H.</term>
-<term>Sjoblom, E. V.</term>
-<term ref="http://viaf.org/viaf/27071894">Stanley, Henry M. (Henry Morton), 1841-1904</term>
-<term>Taunt, E. A.</term>
+<term ref="http://viaf.org/viaf/60425677">Sanford, Henry Shelton, 1823-1891</term>
+<term ref="http://viaf.org/viaf/62614395">Sheppard, William H. (William Henry), 1865-1927</term>
+<term ref="http://viaf.org/viaf/19453809">Sjöblom, E. V. (Edvard Vilhelm), 1862-1903</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry Morton, 1841-1904</term>
+<term>Taunt, Emory H.</term>
 <term>Terrell, Edwin H.</term>
-<term>Tisdell, Willard P.</term>
+<term>Tisdel, W. P.</term>
 <term ref="http://viaf.org/viaf/53458043">Tree, Lambert, 1832-1910</term>
-<term>Vandervelde</term>
-<term>Verner, S. P.</term>
+<term ref="http://viaf.org/viaf/18578">Vandervelde, Émile, 1866-1938</term>
+<term>Verner, Samuel P.</term>
 <term>Verstraten</term><!-- Commandant -->
 <term>Vivian, Hussey Crespigny</term>
 <term>Von Bunsen</term>
 <term>Weeks, J. H.</term>
 <term>Williams</term><!-- ex-officer in King Leopold's army -->
-<term>Wissman, Hermann von</term>
-<term>Woeste</term>
+<term ref="http://viaf.org/viaf/49347105">Wissmann, Hermann von 1853-1905</term>
+<term ref="http://viaf.org/viaf/163285735">Woeste, Charles, 1837-1922</term>
 </keywords>
 
 <keywords scheme="original" n="places">
 <term>Baringa (Congo)</term>
 <term>Berlin (Germany)</term>
-<term>Boston (Mass.)</term>
+<term>Boston (Massachusetts)</term>
 <term>Brussels (Belgium)</term>
 <term>Congo Free State</term>
-<term>Ikoko (Africa)</term>
+<term>Ikoko (Congo)</term>
 <term>Leopoldville (Congo)</term>
 </keywords>
 
@@ -165,6 +164,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 </profileDesc>
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-12-13" who="kln">encoding and transcription.</change>
 </revisionDesc>
 </teiHeader>

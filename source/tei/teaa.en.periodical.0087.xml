@@ -64,12 +64,12 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Periodicals</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
 <term>Bivden</term>
-<term>Brown, Hugh M.</term>
+<term ref="http://viaf.org/viaf/51080627">Browne, Hugh M. (Hugh Mason)</term>
 <term>Johnson</term>
 <term ref="http://viaf.org/viaf/82967082">Livingstone, David, 1813-1873</term>
 <term ref="http://viaf.org/viaf/17098270">Stewart, T. McCants (Thomas McCants), 1854?-1923</term>
@@ -79,7 +79,7 @@
 <term>Liberia</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="empires">
 <term/>
 </keywords>
  
@@ -100,6 +100,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-11-21" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -110,7 +111,7 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0087.001"/>
+<pb n="p1"/>
 
 <div2 type="title">
 
