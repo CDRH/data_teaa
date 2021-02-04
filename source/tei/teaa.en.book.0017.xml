@@ -7,7 +7,7 @@ RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/te
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>A. W. Greely, "Historical Sketch of Sierra Leon and Liberia", The History of Slavery and the Slave Trade (1858)</title>
+<title>A. W. Greely - "Historical Sketch of Sierra Leon and Liberia", The History of Slavery and the Slave Trade (1858)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -39,16 +39,19 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </p>
 </availability>
 </publicationStmt>
+
 <sourceDesc>
 <bibl>
 <title level="m">Explorers and Travellers</title>
-<author n="Greely, A.W. (Adolphus Washington), 1844-1935">A. W. Greely</author>
+<author n="Greely, A.W. (Adolphus Washington), 1844-1935" ref="http://viaf.org/viaf/76387184">A. W. Greely</author>
 <pubPlace>New York</pubPlace>
 <publisher>Charles Scribner's Son</publisher>
 <date when="1893">1893</date>
 </bibl>
 </sourceDesc>
+
 </fileDesc>
+
 <profileDesc>
 <langUsage>
 <language ident="en">English</language>
