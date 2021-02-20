@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from E. Headley Bailey and  M. S. Alexander to Thomas B. Florence, January 31, 1859</title>
+<title>Dispatch from Bailey &amp; Alexander to Thomas B. Florence, January 31, 1859</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from E. Headley Bailey and  M. S. Alexander to Thomas B. Florence, January 31, 1859</title>
+<title level="a">Dispatch from Bailey &amp; Alexander to Thomas B. Florence, January 31, 1859</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-438, Roll 1</biblScope>
@@ -60,7 +61,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,14 +73,17 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/23947754">Mayo, Isaac, 1791-1861</term>
+<term>Taylor, John Etting</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Sierra Leone</term>
 </keywords>
     
-
+<keywords scheme="original" n="empires">
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,28 +99,27 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Bailey, E. Headley</persName>
 <persName>Alexander, M. S.</persName>
-<roleName></roleName>
+<roleName/>
 <placeName>Philadelphia, Pennsylvania</placeName>
 <date when="1859-01-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Florence, Thomas B.</persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName ref="http://viaf.org/viaf/46612863">Florence, Thomas B. (Thomas Birch), 1812-1875</persName>
+<roleName>U.S. House of Representatives</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#lkw"> Encoding</change>
-<change when="2019-09" who="#csls"> Transcription</change>
+<change when="2021-02" who="#kln">Edits and review</change>
+<change when="2019-10" who="#lkw">Encoding</change>
+<change when="2019-09" who="#csls">Transcription</change>
 </revisionDesc>
 </teiHeader>
 
@@ -128,38 +131,50 @@
 
 <pb n="18"/>
 
-<!-- left side cut off -->
+<p>Philadelphia 31st January 1859</p>
 
-<ab>Philadelphia 31st January 1859</ab>
-<ab>To the Thomas B. Florence<lb/>
-<unclear>H.R.</unclear></ab>
+<p>To Honl Thomas B. Florence<lb/>
+<unclear>H. R.</unclear></p>
 
-<ab>Dear Sir,</ab>
-<p>We have <unclear>instructed</unclear> to and several copies of Certificate, also an Original petition from Ship <unclear>masters</unclear> for the appointment of John E. Taylor as consul at Sierra <unclear>Leone</unclear> on the Coast of Africa, Mr. Taylor was appointed by Commodore, <unclear>Mayo</unclear> commander of the United States Squadron in the year <unclear/> as you will perceive by enclosed Copies of Certificate, to you, <unclear extent="one word"/> object in writing in to have the appointment of John E. Taylor, by Commadore Mayo, confirmed by the President of the United States, and by the Senate if neccessary or in any manner that is legal and right to have the said appointment confirmed, your attention <unclear>to this will</unclear> place us under another obligation to you were we already owe you so
-much, your valuable time is taken up but still take the liberty of addressing you on this subject. </p>
-<ab>Very Respectfully,<lb/>
-Mrs. Bailey &amp; Alexander<lb/>
-No 402 Library Street</ab>
+<p>Dear Sir,</p>
 
+<p>We have <unclear>instructed</unclear> to <unclear>our</unclear> 
+several copies of Certificates, also an Original petition from Ship
+<unclear>masters</unclear> for the appointment of John E. Taylor as consul at Sierra
+<unclear>Leone</unclear> on the Coast of Africa, Mr Taylor was appointed by Commodore
+Mayo commander of the United States Squadron in the year 
+<unclear extent="one word" reason="incomplete image"/> as you will perceive by enclosed Copies of Certificates to you, 
+<unclear extent="one word" reason="incomplete image"/> object in writing is to have the appointment of John E. Taylor 
+by Commodore Mayo, confirmed by the President of the United States
+and by the Senate if <sic>neccessary</sic> or in any manner that is legal 
+and right to have the said appointment confirmed, your attention 
+<unclear>to</unclear> this will place us under another obligation to you were we
+already owe you so much, Please let <unclear>us</unclear> hear from you at your
+earliest convenience, we know how much your valuable time is 
+taken up but still take the liberty of addressing you on this 
+subject.</p>
 
-<ab><unclear/> enclosed we requested to take great <unclear>of all three and no Copies</unclear></ab>
+<p>Very Respectfully,<lb/>
+yrs<lb/>
+Bailey &amp; Alexander<lb/>
+No 402 Library Street</p>
 
+<p><unclear>Papers</unclear> enclosed we 
+requested to take great 
+<unclear extent="one word" reason="incomplete image"/>as there are no Copies</p>
 
 <pb n="19"/>
 
-
 <ab>Bailey &amp; Alexr<lb/>
-Jan 31/59</ab>
+Jany 31/59</ab>
 
-<ab>Respectfully <unclear>request</unclear><lb/>
-to the consideration<lb/>
-of the Secretary <lb/>
-of State,<lb/>
-by<lb/>
-Thomas B. Florence <lb/>
-<unclear>H of R</unclear></ab>
-
-<p></p>
+<ab>Respectfully <unclear>refer</unclear>
+to the consideration
+of the Secretary
+of <del>the</del> State,
+by
+Thomas B. Florence<lb/>
+H of R</ab>
 
 </div1>
 

@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
@@ -33,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"></idno>
+<idno type="project">teaa.en.letter.0218</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -60,7 +61,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,14 +73,18 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Danforth, J. B.</term>
+<term>Heddle, Charles</term>
+<term>Totten</term><!-- Captain -->
 </keywords>
     
 <keywords scheme="original" n="places">
 <term/>
 </keywords>
     
-
+<keywords scheme="original" n="empires">
+<term>United States</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,27 +100,26 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Taylor, John E.</persName>
-<roleName>United States Consul</roleName>
+<persName>Taylor, John Etting</persName>
+<roleName>Acting U.S. Consul</roleName>
 <placeName>Freetown, Sierra Leone</placeName>
 <date when="1858-12-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Appleton, John</persName>
+<persName ref="http://viaf.org/viaf/55609738">Appleton, John, 1815-1864</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D. C.</placeName>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#lkw"> Encoding</change>
-<change when="2019-09" who="#csls"> Transcription</change>
+<change when="2021-02" who="#kln">Edits and review</change>
+<change when="2019-10" who="#lkw">Encoding</change>
+<change when="2019-09" who="#csls">Transcription</change>
 </revisionDesc>
 </teiHeader>
 
@@ -127,80 +131,278 @@
 
 <pb n="10"/>
 
-<note><unclear/></note>
-<ab>US Consulate<lb/>
+<p>U.S. Consulate<lb/>
 Freetown, Sierra Leone<lb/>
-17th December 1858</ab>
+17th December 1858</p>
 
-<ab>Hon John Appleton<lb/>  
-Assistant Secretary of State<lb/>
-Department of State<lb/>
-Washington</ab>
+<p>Hon John Appleton,<lb/>  
+Assistant Secretary of State,<lb/>
+Department of State,<lb/>
+Washington.</p>
 
-<!-- right side partially cut off  -->
+<p>Sir,</p>
 
-<ab>Sir,</ab>
-
-<p>I have to acknowledge the receipt of your communication of the 25th October last, and in reply thereto beg to enclose herewith a correct statement of what were the facts with regard to the bill stated by the Mr. J.B. Danforth to have been sold to me. I  have had to call attention in it to certain points necessary to be examined into, and  I trust that the statement I forward and what may reult from an investigation in the points alluded to, will satisfy you of the  straitforwardness and fairness of any <unclear>conduct</unclear> in the business, and that Mr. Danforth has been guilty of great misrepresentation. I should  wish to forbear any remark upon this gentleman not necessary to my own <unclear>vindication</unclear>, but it seems not to be doubted that he  has been guilty of great misconduct, which  will doubtless, not be lost sight of; and what he has done as regards myself is,  in fact, an endeavour to excuse that <unclear> misconduct </unclear> <catchwords>which</catchwords>
+<p>I have to acknowledge the receipt 
+of your communication of the 25th October 
+last, and in reply thereto beg to enclose 
+herewith a correct statement of what were the 
+facts with regard to the bill stated by the Mr 
+J. B. Danforth to have been sold to me. I 
+have had to call attention in it to certain 
+points necessary to be examined into, and 
+I trust that the statement I forward and 
+what may result from an investigation in 
+the points alluded to, will satisfy you of the
+straitforwardness and fairness of my conduct
+in the business, and that Mr Danforth has 
+been guilty of great misrepresentation. I should  
+wish to forbear any remark upon this 
+gentleman not necessary to my own vindication, 
+but it seems not to be doubted that he  
+has been guilty of great misconduct, which  
+will doubtless, not be lost sight of; and 
+what he has done as regards myself is, in 
+fact, an endeavour to excuse that misconduct  
+<catchwords>which</catchwords>
 
 <pb n="11"/>
 
-which seems to have been of such character as to be wholly inexcusable, but untruly suggesting that it was prompted by another I should wish, independent of the more direct evidence, that it may be considered whether the account given by Mr. Danforth is even probable- and particularly whether a person who, according to his own statement, was ready to accede at once to an act of fraud whom the prompting of another, was likely to want a prompter.</p>
+which seems to have been of such a character 
+as to be wholly inexcusable, but untruly 
+suggesting that it was prompted by another 
+I should wish, independent of the more 
+direct evidence, that it may be considered 
+whether the account given by Mr Danforth 
+is even probable, and particularly whether a 
+person who, according to his own statement, 
+was ready to accede at once to an act of 
+fraud whom the prompting of another, was 
+likely to want a prompter.</p>
 
-<p>Trusting, as I have said, that you will be satisfied that the part I have acted in this business a been an honorable one, and that I may regard the latter part of your letter as importing that your being satisfied to that effect, would be followed by my appointment being made, I beg now again respectfully to urge and claims. I have been acting Consul at this place since 1853, and although I have performed the duties of the office in a manner to give satisfaction, I believe, to all connected with the United States who have been here, as I believe those connected with the states who are here would be most willing to testify by the signing of any document which might be necesary for the purpose (though not feeling sure that a document of that nature would be proper to be
+<p>Trusting, as I have said, that you will 
+be satisfied that the part I have acted in 
+this business a been an honorable one, and 
+that I may regard the latter part of your 
+letter as importing that your being satisfied 
+to that effect, would be followed by my 
+appointment being made, I beg now again 
+respectfully to urge and claims. I have been 
+Acting Consul at this place since 1853, and 
+although I have performed the duties of the 
+office in a manner to give satisfaction, I 
+believe, to all connected with the United States 
+who have been here, as I believe those connected 
+with the states who are here would be most 
+willing to testify by the signing of any 
+document which might be necessary for the 
+purpose (though not feeling sure that a 
+document of that nature would be proper to be
 
 <pb n="12"/>
 
-sought, I have not endeavoured to obtain one) and have so managed with regard to distressed American Seamen as to have to send home only two at the expense of the Government having with regard to a great number of others both relieved them, and managed to ship them in Vessels, without their costing the Government any thing; and although I have necessarily had to incur expense to enabe me to carry on the duties of the Consulate, - yet to this time I have received no salary. I cannot but feel this to be hard, and earnestly beg that my appointment may now be made and forwarded to me, that I may be placed upon a different footing in future. </p>
+sought, I have not endeavoured to obtain one) 
+and have so managed with regard to distressed 
+American Seamen as to have to send home only 
+two at the expense of the Government, having 
+with regard to a great number of others both 
+relieved them, and managed to ship them 
+in vessels, without their costing the Government 
+any thing; and although I have 
+necessarily had to incur expense to enable 
+me to carry on the duties of the Consulate, 
+yet to this time I have received no salary. 
+I cannot but feel this to be hard, and 
+earnestly beg that my appointment may now 
+be made and forwarded to me, that I may 
+be placed upon a different footing in future. </p>
 
-<ab>I am, Sir,<lb/>
-Very respectflly,<lb/>
+<p>I am, Sir,<lb/>
+Very respectfully,<lb/>
 Your obedient servant,<lb/>
-John E. Taylor<lb/>
-Actg United States Consul</ab>
+Jno E Taylor<lb/>
+Actg United States Consul</p>
 
-<p>The statement in the postscript of the fifth auditor's letter, as to my having left the Colony leaving  a letter saying that I should not return, is, as the present letter will in part evince, not correct. I have never left this place for any time whatever without appointing a person to officiate for me in carrying on the duties of the Consulate. </p>
+<p>The statement in the postscript of the 
+fifth auditor's letter, as to my having left the 
+Colony leaving a letter saying that I should 
+not return, is, as the present letter will in part 
+evince, not correct. I have never left this place 
+for any time whatever without appointing a 
+person to officiate for me in carrying on the 
+duties of the Consulate. </p>
 
 <pb n="13"/>
 
-<p>In reference to the statement of Mr. J.B. Danforth late purser of the U.S. Navy forwarded to me for explanation by  assistant  Secretary of State the Honorable John Appleton, I, John Elling Taylor, beg to submit the following correct statement of the facts.</p>
+<p>In reference to the statement of Mr 
+J. B. Danforth late purser of the U.S. Navy 
+forwarded to me for explanation by Assistant 
+Secretary of State the Honble John Appleton, I, 
+John Etting Taylor, beg to submit the following 
+correct statement of the facts.</p>
 
-<p>No sale of the bill Mr. Danforth mentions was made to me, not was there any contract for the sale of it to me whatever. There was also no contract for the sale of it to any one at ten per cent discount. Had there been such a sale and contract as Mr. Danforth metions the whole of the circumstances would have been different. The actual circumstances indeed so conflict with the statement which Mr. Danforth has deemed necessary as the ground work of his story, that it is apprehended that this statement alone is sufficient to deprive his testimony of all title to belief. The bill itself it is apprehended will be sufficient to demonstrate the untruth of the story that it was sold to me; and I have therefore to beg that it may be inspected. The bill had, too, it is apprehended, to be countersigned by Mr. Danforth Commander, Captain Totten, so that it will show that it was known to that officer to whom it was sold as well a to Mr. Danforth. It will show in fact it is believed that it was made out and signed by Mr. Danforth and countersigned by his commander for the purpose of being <catchwords>sold</catchwords>
+<p>No sale of the bill Mr Danforth 
+mentions was made to me, nor was there any 
+contract for the sale of it to me whatever. 
+There was also no contract for the sale of it to 
+any one at ten per cent discount. Had there 
+been such a sale and contract as Mr Danforth 
+mentions the whole of the circumstances would 
+have been different. The actual circumstances 
+indeed so conflict with the statement which 
+Mr Danforth has deemed necessary as the 
+ground work of his story, that it is apprehended 
+that this statement alone is sufficient to 
+deprive his testimony of all title to belief. The 
+bill itself it is apprehended will be sufficient 
+to demonstrate the untruth of the story that it 
+was sold to me; and I have therefore to beg 
+that it may be inspected. The bill had, too, it is 
+apprehended, to be countersigned by Mr Danforth's 
+Commander, Captain Totten, so that it will show 
+that it was known to that officer to whom it was 
+sold as well a to Mr Danforth. It will show 
+in fact it is believed that it was made out 
+and signed by Mr Danforth and countersigned 
+by his commander for the purpose of being 
+<catchwords>sold</catchwords>
 
 <pb n="14"/>
 
-sold to Mr. Heddle. And it must be borne in mind that it was thus made out and signed and countersigned before Mr. Danforth went to Mr. Heddle's, for he states that on going here he delivered it to that gentleman.</p>
+sold to Mr Heddle. And it must be borne in 
+mind that it was thus made out and signed 
+and countersigned before Mr Danforth went 
+to Mr Heddle's, for he states that on going 
+there he delivered it to that gentleman.</p>
 
-<p>Having I trust shown conclusively the unfoundedness of the story sold by Mr. Danforth, I have now to state what the circumstances really were. The part I acted in the business, instead of being that of purchaser or vendee of the bill, was simply that of a broker or commission agent. After having had communications on the subject with all or most of the merchants at this place from whom such an advance of money could be expected, I succeeded in making with the one of them who has been named an arrangement for the sale of the bill at five per cent discount; which was a very advantageous arrangement, as I had ascertained that the rate of discount on bills at 60 days which was then current ten per cent and upwards, money being at the time exceedingly scarce indeed. After having effected this arrangement, I informed Mr. Danforth that I expected a commission upon it, and mentioned two and a half per cent as the rate I proposed, and this Mr.Danforth agreed to, and in the result paid me. In agreeing to the rate of commission being two and a half per cent, I understood Mr.
+<p>Having I trust shown conclusively 
+the unfoundedness of the story sold by Mr 
+Danforth, I have now to state what the 
+circumstances really were. The part I acted in 
+the business, instead of being that of purchaser 
+or vendee of the bill, was simply that of a 
+broker or commission agent. After having 
+had communications on the subject with 
+all or most of the merchants at this place 
+from whom such an advance of money 
+could be expected, I succeeded in making with 
+the one of them who has been named an 
+arrangement for the sale of the bill at five per 
+cent discount; which was a very advantageous 
+arrangement, as I had ascertained that the 
+rate of discount on bills at 60 days which was 
+then current was ten per cent and upwards, 
+money being at the time exceedingly scarce 
+indeed. After having effected this arrangement, 
+I informed Mr Danforth that I expected a 
+commission upon it, and mentioned two and 
+a half per cent as the rate I proposed, and this 
+Mr Danforth agreed to, and in the result paid 
+me. In agreeing to the rate of commission 
+being two and a half per cent, I understood Mr
 
 <pb n="15"/>
 
-Danforth to be influenced by the arrangement I had effected being at the low rate of five per cent when the current rate of discount on bills at 60 days was ten per cent, which was mentioned at the time, and he asked if a certificate of two merchants could be procured that the current rate was ten per cent, and being informed that I had no doubt of it, he at once himself drew up such a certificate, and one of the merchants of the colony happening to come in at the time, the document was signed by him, and then sent out in the usual manner for another signature, and brought in shortly afterwards signed by another merchant, and the usual consular certificate of the respectability of the two merchants was then at Mr. Danforth's request attached to it. And I may add both with reference to the testimony they gave in their certificate and themselves, that the position of these gentlemen is such that it would be impossible for a Consular certificate to their respectability to be refused without impropriety.  The object I understood Mr. Danforth to leave in obtaining this certificate was to establish the propriety of the allowance of the two and a half per cent commission I had claimed; and I have no conception that he had any other object, and am very sorry to find that circumstaces have been such that it must be supposed that he had such an idea as <catchwords>that</catchwords>
+Danforth to be influenced by the arrangement 
+I had effected being at the low rate of five per 
+cent when the current rate of discount on bills 
+at 60 days was ten per cent, which was mentioned 
+at the time, and he asked if a certificate of 
+two Merchants could be procured that the 
+current rate was ten per cent, and being 
+himself drew up such a certificate, and one of 
+the merchants of the colony happening to come 
+in at the time, the document was signed by 
+him, and then sent out in the usual manner 
+for another signature, and brought in shortly 
+afterwards signed by another merchant, and 
+the usual consular certificate of the respectability 
+of the two merchants was then at Mr Danforth's 
+request attached to it. And I may add both 
+with reference to the testimony they gave in their 
+certificate and themselves, that the position of 
+these gentlemen is such that it would be impossible 
+for a Consular certificate to their 
+respectability to be refused without impropriety.  
+The object I understood Mr Danforth to have in 
+obtaining this certificate was to establish the 
+propriety of the allowance of the two and a 
+half per cent commission I had claimed; and 
+I have no conception that he had any other 
+object, and am very sorry to find that 
+circumstances have been such that it must 
+be supposed that he had. Such an idea as 
+<catchwords>that</catchwords>
 
 <pb n="16"/>
 
-<!-- right side of this page cut off -->
+Mr Danforth would appropriate to himself 
+any part of the money he had received for the 
+bill never entered my mind, and although it 
+appears not to be doubted now that such has
+been the case, I feel in looking back at the 
+circumstances that I should not have felt 
+justified in entertaining such an idea even 
+had it presented itself, which it did not, with 
+regard to a gentleman holding the position 
+which Mr Danforth then did of an officer in 
+the United States Navy. I, in fact, had no 
+suspicion of the honor or integrity of Mr 
+Danforth, nor that he had any object in 
+view inconsistent with his honor and 
+integrity.</p>
 
-Mr. Danforth would appropriate himself <unclear>any</unclear> part of the mony he had received for the <unclear>bill </unclear> never entered my mind, and although it <unclear>appears</unclear> not to be doubted now that such has  <unclear>been</unclear> the case, I feel in looking back at the <unclear>circumstances</unclear> that I should not have felt <unclear>justified</unclear> in entertaining such an idea even had it presented itself, which it did not with <unclear>regard</unclear> to a gentleman holding the position which Mr. Danforth then did of an officer in <unclear>the</unclear> United States Navy. I, in fact, had no suspicion of the honor or integrity of Mr. Danforth, nor that he had any object in <unclear>view</unclear> inconsistent with his honor and integrity. </p>
-
-<p>I have now to add what I trust will decisively establish that the real nature of the transaction was as is above stated &#8212; namely, that I  informed Captain Totten at the time, that the rate at which the money for the bill was to be supplied was five per cent discount, and that Mr. Heddle was the person with whom I had arranged to supply it at that rate. It was in fact from me that Captain Totten dereved  his knowledge that it was to Mr. Heddle the bill was to be sold. The Doctor of the Vincennes (whose name I do not remember) was also present when this was mentioned by me  to Captain Totten; and in the conversation which took place on the subject not only Captain <catchwords>Totten</catchwords>
+<p>I have now to add what I trust will 
+decisively establish that the real nature of the 
+transaction was as is above stated&#8212;namely, that 
+I informed Captain Totten at the time, that 
+the rate at which the money for the bill was 
+to be supplied was five per cent discount, 
+and that Mr Heddle was the person with 
+whom I had arranged to supply it at that rate. 
+It was in fact from me that Captain Totten 
+derived his knowledge that it was to Mr 
+Heddle the bill was to be sold. The Doctor of 
+the Vincennes (whose name I do not remember) 
+was also present when this was mentioned by 
+me to Captain Totten; and in the conversation 
+which took place on the subject not only Captn 
+<catchwords>Totten</catchwords>
 
 <pb n="17"/>
 
-Totten and myself, but the Doctor also took part; and this conversation was expressly with reference to the money being got at the low rate of five per cent, which both Captain Totten and the Doctor expressed themselves surprised at in the scarcity of money which prevailed. I have no means myself of communicating with Captain Totten or the then  Doctor of the Vincennes, or of recalling the circumstances to their mind in case it  should be necessary in any respect; but hoping that they will not have been altogether forgotten by them, I have to request that those gentlemen may be communicated with on the subject, and trust the testimony they will be able to give will confirm what I have stated.</p>
+Totten and myself, but the Doctor also took 
+part; and this conversation was expressly 
+with reference to the money being got at the 
+low rate of five per cent, which both Captn 
+Totten and the Doctor expressed themselves 
+surprised at in the scarcity of money which 
+prevailed. I have no means myself of 
+communicating with Captn Totten or the then 
+Doctor of the Vincennes, or of recalling the 
+circumstances to their mind in case it should 
+be necessary in any respect; but hoping that 
+they will not have been altogether forgotten 
+by them, I have to request that those 
+gentlemen may be communicated with on 
+the subject, and trust the testimony they 
+will be able to give will confirm what I 
+have stated.</p>
 
-<p>I have only to state further that no such conversations between himself and me as those Mr. Danforth describes ever occurred. The statement that they did is, in fact, like the statement they are founded upon as to the bell having been sold to me wholly untrue. </p>
+<p>I have only to state further that 
+no such conversations between himself and 
+me as those Mr Danforth describes ever 
+occurred. The statement that they did is, in 
+fact, like the statement they are founded 
+upon as to the bill having been sold to me 
+wholly untrue. </p>
 
-<ab>respectfully submitted<lb/>
-Jno E. Taylor<lb/>
-Actg United State Consul</ab>
+<p>respectfully submitted.<lb/>
+Jno E Taylor<lb/>
+Actg United State Consul</p>
 
-<ab>U.S. Consulate,<lb/>
+<fw type="address">U.S. Consulate,<lb/>
 Freetown, Sierra Leone<lb/>
-17th December 1858</ab>
-
-
-<p></p>
+17th December 1858.</fw>
 
 </div1>
 
