@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from E. Headley Bailey and  M. S. Alexander to Thomas B. Florence, February 4, 1859</title>
+<title>Dispatch from Bailey &amp; Alexander to Thomas B. Florence, February 4, 1859</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from E. Headley Bailey and  M. S. Alexander to Thomas B. Florence, February 4, 1859</title>
+<title level="a">Dispatch from Bailey &amp; Alexander to Thomas B. Florence, February 4, 1859</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-438, Roll 1</biblScope>
@@ -60,7 +61,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,15 +73,36 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Bradshaw, Robert</term>
+<term>Cousins, William E.</term>
+<term>Grindle, A. B.</term>
+<term>Lanscomb, John H.</term>
+<term>Lord, James</term>
+<term>Luke, Henry</term>
+<term ref="http://viaf.org/viaf/23947754">Mayo, Isaac, 1791-1861</term>
+<term>Nelson, Charles H.</term>
+<term>Smyth, J. F.</term>
+<term>Taylor, John Etting</term>
+<term>Taylor, William</term>
+<term>Thornton, John</term>
+<term>Tufts, Horace</term>
+<term>West, H. P.</term>
+<term>Willar, George</term>
+<term>Witt, W. B.</term>
+<term>Zaius, James</term>
 </keywords>
     
 <keywords scheme="original" n="places">
+<term>Cincinnati (Ohio)</term>
+<term>Freetown (Sierra Leone)</term>
+<term>Gambia River</term>
 <term>Los Islands</term>
+<term>New York</term>
 </keywords>
  
 <keywords scheme="original" n="empires">
-<term/>
+<term>Great Britain</term>
+<term>United States</term>
 </keywords>   
 
 <keywords scheme="original" n="ethnic_group">
@@ -101,22 +123,23 @@
 <correspAction type="sentBy">
 <persName>Bailey, E. Headley</persName>
 <persName>Alexander, M. S.</persName>
-<roleName></roleName>
+<roleName/>
 <placeName>Philadelphia, Pennsylvania</placeName>
 <date when="1859-02-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Florence, Thomas B.</persName>
-<roleName></roleName>
-<placeName></placeName>
+<persName ref="http://viaf.org/viaf/46612863">Florence, Thomas B. (Thomas Birch), 1812-1875</persName>
+<roleName>U.S. House of Representatives</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#lkw"> Encoding</change>
-<change when="2019-09" who="#csls"> Transcription</change>
+<change when="2021-02" who="#kln">Edits and review</change>
+<change when="2019-10" who="#lkw">Encoding</change>
+<change when="2019-09" who="#csls">Transcription</change>
 </revisionDesc>
 </teiHeader>
 
@@ -137,7 +160,7 @@ H.R</p>
 
 <p>We enclose you 
 the balance of papers in care of John E. Taylor 
-<unclear extent="one word" reason="incomplete image"/>  sent you a few days since these have just 
+<unclear extent="one word" reason="incomplete image"/> sent you a few days since these have just 
 been handed us to forward</p>
 
 <p>Very Respectfully<lb/>
@@ -279,7 +302,7 @@ therein.</p>
 Sir<lb/>
 Your most obedient<lb/>
 humble servant<lb/>
-(sd) I. F. Smyth<lb/>
+(sd) J. F. Smyth<lb/>
 Col. Secy</p>
 
 <fw type="address"><unclear/>J. E. Taylor Esqre<lb/>
@@ -419,26 +442,34 @@ on the present acting Consul.
 And your memorialists will 
 ever pray &amp;c. </p>
 
-<p><unclear>Horace</unclear> Tufts<lb/>
-Master of the Bark Ida</p>
+<ab><unclear>Horace</unclear> Tufts<lb/>
+Master of the Bark Ida</ab>
 
-<p>James <unclear>Zaius</unclear><lb/>
-Master Brig. "Calvert"</p>
+<ab>James <unclear>Zaius</unclear><lb/>
+Master Brig. "Calvert"</ab>
 
-George Willar <lb/>
-Master Barque Aaron T. Harvey<lb/>
-John <unclear/> Master of the<lb/>
-Honor Mitchell<lb/>
-W.B.Wett M.D. of. Cincinnatti Ohio<lb/>
-John H. Lanscomb Mass<lb/>
-Charles H. Nelson Scho H N Gambill<lb/>
-William E. Cousins Ship Tho Watson<lb/>
-A.B Grindle<lb/>
-Brig Enterprise of New York<lb/>
-James Lord<lb/>
-Master of Scho Jane P. Glover<lb/>
-H P West, Master of Brig "Zorro"<lb/>
-N. York</p>
+<ab>George Willar <lb/>
+Master of Barque Aaron I. Harvey</ab>
+
+<ab>John C. <unclear extent="one surname" reason="illegible"/> Master of the
+<unclear>Alena</unclear> <unclear>Mitchell</unclear></ab>
+
+<ab>W. B. Witt M.D. of Cincinnati Ohio</ab>
+
+<ab>John H Lanscomb Mass</ab>
+
+<ab>Charles H. Nelson Sch H. N. Gambrill</ab>
+
+<ab>William E Cousins Ship Tho Watson</ab>
+
+<ab>A B Grindle<lb/>
+Brig "Enterprise" of New York.</ab>
+
+<ab>James Lord<lb/>
+Master of Schr "Jane P. Glover"</ab>
+
+<ab><unclear>H</unclear> P West Master of Brig "<unclear>Zero</unclear>"<lb/>
+N. York</ab>
 
 </div1>
 </body>

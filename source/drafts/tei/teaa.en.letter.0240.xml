@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Statement of Vessels, Tonnage, and Men for 1858, February 22, 1859</title>
+<title>Dispatch from John E. Taylor, February 22, 1859</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Statement of Vessels, Tonnage, and Men for 1858, February 22, 1859</title>
+<title level="a">Dispatch from John E. Taylor, February 22, 1859</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-438, Roll 1</biblScope>
@@ -60,7 +61,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -79,7 +80,9 @@
 <term/>
 </keywords>
     
-
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,12 +98,26 @@
 
 </textClass>
 
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Taylor, John Etting</persName>
+<roleName>Acting U.S. Consul</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1859-02-22"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName/>
+<roleName/>
+<placeName/>
+</correspAction>
+</correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#lkw"> Encoding</change>
-<change when="2019-09" who="#csls"> Transcription</change>
+<change when="2021-02" who="#kln">Edits and review</change>
+<change when="2019-10" who="#lkw">Encoding</change>
+<change when="2019-09" who="#csls">Transcription</change>
 </revisionDesc>
 </teiHeader>
 
@@ -112,24 +129,37 @@
 
 <pb n="34"/>
 
-<note><unclear>per 58 in Africa</unclear></note>
-
-<opener>Africa <lb/>
-Sierra Leone February 22,1859<lb/>
-John E. Taylor Consul</opener>
+<p>Sierra Leone February 22, 1859<lb/>
+John E. Taylor Consul.</p>
 
 <p>Statement showing the 
-number of Vessels Tonnage &amp; men belonging to the United States which arrived here during the year 1858. with Cargoes amounting to about four hundred thousand dollars. nearly all  of  which took return Cargoes from this place. </p>
+number of Vessels Tonnage &amp; men <del>of
+vessels</del> belonging to the United States 
+which arrived here during the year 
+1858. with Cargoes amounting to about 
+four hundred thousand Dollars. nearly all  
+of which took return Cargoes from this place</p>
 
 <table>
-<row><cell>Vessels</cell><cell> Tonnage</cell> <cell>Men</cell> <cell>Value <unclear extent="one word"/> Cargoes</cell></row>
-<row><cell>25</cell> <cell>4374</cell> <cell>287</cell> <cell>$400,000</cell></row></table>
+<row>
+<cell>Vessels</cell>
+<cell>Tonnage</cell> 
+<cell>Men</cell> 
+<cell>Value <unclear>inward</unclear> Cargoes</cell>
+</row>
+<row>
+<cell>25.</cell> 
+<cell>4374.</cell> 
+<cell>287.</cell> 
+<cell>$400,000.</cell>
+</row>
+</table>
 
-<closer>Sierra Leone<lb/>
-22d Feby 1859
+<p>Sierra Leone<lb/>
+22d Feby 1859</p>
 
-<signed>Jno E Taylor<lb/>
-Acting United States Consul</signed></closer>
+<p>Jno E Taylor<lb/>
+Actg United States Consul</p>
 
 </div1>
 
@@ -137,5 +167,3 @@ Acting United States Consul</signed></closer>
 </text>
 
 </TEI>
-
-

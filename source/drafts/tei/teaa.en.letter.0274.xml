@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
@@ -79,7 +80,9 @@
 <term/>
 </keywords>
     
-
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -94,8 +97,6 @@
 </keywords>
 
 </textClass>
-
-
 
 <correspDesc>
 <correspAction type="sentBy">
@@ -114,8 +115,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#lkw"> Encoding</change>
-<change when="2019-09" who="#csls"> Transcription</change>
+<change when="2021-03" who="#kln">Edits and review</change>
+<change when="2019-10" who="#lkw">Encoding</change>
+<change when="2019-09" who="#csls">Transcription</change>
 </revisionDesc>
 </teiHeader>
 
@@ -129,24 +131,37 @@
 
 <note>Recd 24th Sept</note>
 
-<opener>Consulate of the United States of America at Sierra Leone<lb/>
-18th August 1863 <lb/>
-No 11.<lb/>
+<note>No 11.</note>
 
-Sir,</opener>
-<p>A case containing forms and stationary for the use of this office arrived on the 14th inst. in the British brig "Hannah" forwarded through the House of Mess E.R. Ware &amp;Co  of New York</p>
+<p>Consulate of the United States 
+of America at Sierra Leone<lb/>
+18th August 1863</p>
 
-<p>A despatch, No. 13, dated June 2nd, was received the 11th ult advising of its having been sent</p>
+<p>Sir,</p>
 
-<closer><salute>I have the honor to be<lb/>
-Sir.<lb/>
-Your obdt servant</salute>
-<signed>Henry Rider<lb/>
-U.S. Consular Agent</signed>
+<p>A case containing forms 
+and stationary for the use of 
+this office arrived on the 14th 
+inst. in the British brig 
+"Hannah" forwarded through 
+the House of Mess E. R. Ware 
+&amp; Co  of New York</p>
 
-<address><addrLine>FW. Seward Esq</addrLine>
-<addrLine>Acting Secretary</addrLine>
-<addrLine>&amp;c &amp;c &amp;c</addrLine></address></closer>
+<p>A despatch, No. 13, dated 
+June 2nd, was received the 11th ult 
+advising of its having been 
+sent</p>
+
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your ob'd't servant<lb/>
+Henry Rider<lb/>
+U.S. Consular Agent</p>
+
+<fw type="address">F. W. Seward Esq<lb/>
+Acting Secretary<lb/>
+&amp;c &amp;c &amp;c</fw>
+
 </div1>
 
 </body>

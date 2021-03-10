@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
@@ -76,10 +77,12 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>New York (New York)</term>
 </keywords>
     
-
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,27 +98,27 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Rider, Henry</persName>
-<roleName>U. S. Consular Agent</roleName>
+<roleName>U.S. Consular Agent</roleName>
 <placeName>Sierra Leone</placeName>
 <date when="1863-03-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H.</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washington, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1863-05-28"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#lkw"> Encoding</change>
-<change when="2019-09" who="#csls"> Transcription</change>
+<change when="2021-03" who="#kln">Edits and review</change>
+<change when="2019-10" who="#lkw">Encoding</change>
+<change when="2019-09" who="#csls">Transcription</change>
 </revisionDesc>
 </teiHeader>
 
@@ -130,37 +133,52 @@
 <note>Recd May 28<lb/>
 Asd June 1</note>
 
-<note>Mr Abbott Mr <unclear/></note>
+<p>Consulate of the United States 
+of America at Sierra Leone<lb/>
+March 20th 1863</p>
 
-<note>See 2d <unclear/> to case Agt</note>
-<note>Requested "agt" to send through "Ware &amp; Co.</note>
+<p>Sir</p>
 
-<opener><address><addrLine>Hon. William H. Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
+<p>I have the honor to request that 
+this office may be supplied with 
+the usual consular blanks and 
+official despatch paper as I am 
+entirely out of them and they 
+cannot be obtained in this colony.</p>
 
-Consulate of the United States of America at Sierra Leone<lb/>
-March 20th 1863<lb/>
+<p>I beg further to say that 
+as considerable business is done in 
+this office great inconvenience is 
+experienced from the want of the 
+regular consular books, real and 
+press, the last administration 
+having neglected to supply them 
+at the time of my appointment.</p>
 
-Sir</opener>
+<p>I therefore beg to request that 
+they may be supplied to this office.</p>
 
-<p>I have the honor to request that this office may be supplied with the usual Consular blanks and official depatch paper as I am entirely out of them and they cannot be obtained in this colony.</p>
+<p>Opportunities of forwarding 
+packages to this colony occur 
+<catchwords>frequently</catchwords>
 
-<p>I beg further to say that as considerable business is done in this office great inconvenience is experienced from the want of the regular consular books, real and press, the last administration having neglected to supply them at the time of my appointment.</p>
+<fw type="address">Hon. William H. Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
 
-<p>I therefore beg to request that they may be supplied to this office. </p>
+<pb n="59"/>
 
-<p>Opportunities of forwarding packages to this colony occur frequently
+frequently by the way of New York 
+through Mess E. R. Ware &amp; Co at No. 
+26 1/2 Broadway, who do a regular 
+business between that city and this 
+port</p>
 
-<pb n="x"/>
-
-by the way of New York through Mess E.R. Ware &amp;Co at No. 26 1/2  Broadway who do a regular business between that city and this port. </p>
-
-<closer><salute>I have the honor to be<lb/>
+<p>I have the honor to be<lb/>
 Sir<lb/>
-Your most obedient servant</salute>
-<signed>Henry Rider<lb/>
-U.S. Counsular Agent</signed></closer>
+Your most obedient servant<lb/>
+Henry Rider<lb/>
+U.S. Consular Agent</p>
 
 </div1>
 
@@ -168,7 +186,3 @@ U.S. Counsular Agent</signed></closer>
 </text>
 
 </TEI>
-
-
-
-

@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
@@ -60,7 +61,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Encounters with Africans</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -76,10 +77,14 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Boston (Massachusetts)</term>
+<term>Liberia</term>
+<term>Sherbro Country</term>
 </keywords>
     
-
+<keywords scheme="original" n="empires">
+<term>Great Britain</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -95,19 +100,17 @@
 
 </textClass>
 
-
-
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Rider, Henry</persName>
-<roleName>United States Consular Agent</roleName>
+<roleName>U.S. Consular Agent</roleName>
 <placeName>Sierra Leone</placeName>
 <date when="1863-03-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, William H.</persName>
-<roleName>Secretary of State</roleName>
-<placeName>Washinton, D. C.</placeName>
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
 <date when="1863-05-28"/>
 </correspAction>
 </correspDesc>
@@ -115,8 +118,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-10" who="#lkw"> Encoding</change>
-<change when="2019-09" who="#csls"> Transcription</change>
+<change when="2021-03" who="#kln">Edits and review</change>
+<change when="2019-10" who="#lkw">Encoding</change>
+<change when="2019-09" who="#csls">Transcription</change>
 </revisionDesc>
 </teiHeader>
 
@@ -128,26 +132,51 @@
 
 <pb n="60"/>
 
-
 <note>Recd May 28th</note>
 
-<opener>Consulate of the United States of America at Sierra Leone<lb/>
-20th March 1863<lb/>
-<address><addrLine>Hon William H. Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
-Sir</opener>
-<p>I have the honor to inform you that Her Majesty's Governemnt at home having confirmed a treaty lately made between this colonial Government and the Native Chiefs of the Sherbro country in which they have ceded an immence tract of country lying between this colony and Liberia to the colonial Government all the ordinances of this colony, (Copies of which were forwarded to the Department of State by me per Bark Orlando which vessel sailed for Boston March 22nd 1862) are now in force in that country and vessel bound to the Sherbro are required to <catchwords>pay</catchwords>
+<p>Consulate of the United States 
+of America at Sierra Leone<lb/>
+20th March 1863</p>
+
+<p>Sir</p>
+
+<p>I have the honor to inform 
+you that Her Majesty's Government 
+at home having confirmed 
+a treaty lately made 
+between this colonial Government 
+and the Native Chiefs 
+of the Sherbro country in which 
+they have ceded an <sic>immence</sic> 
+tract of country lying between 
+this colony and Liberia to 
+the colonial Government all 
+the ordinances of this colony, 
+(Copies of which were forwarded 
+to the Department of State 
+by me per Bark "Orlando" which 
+vessel sailed for Boston March 
+22nd 1862.) are now in force in that 
+country, and vessel bound to 
+the Sherbro are required to 
+<catchwords>pay</catchwords>
+
+<fw type="address">Hon William H Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
 
 <pb n="61"/>
 
-pay the castous duties at this port before entering the Sherbo river to trade.</p>
+pay the customs duties at this 
+port before entering the Sherbro 
+river to trade.</p>
 
-<closer><salute>I have the honor to be<lb/>
+<p>I have the honor to be<lb/>
 Sir<lb/>
-Your most obdt servant</salute>
-<signed>Henry Rider<lb/>
-U.S. Counsular Agent</signed></closer>
+Your most obdt servant<lb/>
+Henry Rider<lb/>
+U.S. Consular Agent</p>
+
 </div1>
 
 </body>
