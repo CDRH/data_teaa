@@ -1,30 +1,756 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<unclear extent= first two lines at the top of document/>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0323">
 
-No. 3 <unclear/> Commercial Agency of the 
-United States of America
-Sierra Leone July 15th 1869
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
 
-Sir,
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
 
-In reference t my despatch No. 2 dated March 29th 1869, I have now the honor to enclose the further correspondence with the Colonial Government on the subject of the American Barque 'Gem' lost off Bulana.
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0323</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
 
-I also forward a parcel under the seal of this Office, with books, etc: of the deceased Henry Clarke; the inventory of the contents I enclose. 
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1864-05-23">May 23, 1864</date>
+</bibl>
+</sourceDesc>
 
-H.B. Davis Esque
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Rider, Henry</persName>
+<roleName>United State Consular Agent</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1864-05-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seward, Frederick W.</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D. C.</placeName>
+<date when="1864-07-08"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-03" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="130"/>
+
+<note>No. 3 </note>
+
+<p>Commercial Agency of the 
+United States of America at
+Sierra Leone July 15th 1869.</p>
+
+<p>Sir,</p>
+
+<p>In reference to my despatch No 2,
+dated March 29th 1869, I have now the 
+honor to enclose the further correspondence 
+with the Colonial Government on the 
+subject of the American Barque "Gem"
+lost off Bulama.</p>
+
+<p>I also forward a parcel, under 
+the seal of this Office, with books, etc: 
+of the deceased Henry Clarke; the 
+inventory of the contents I enclose.</p> 
+
+<p><catchwords>I</catchwords>
+
+<fw type="address">H.B. Davis Esque
 Assistant Secretary
-Washington D.C.
+Washington D.C.</fw>
 
-N:5 I further enclose a statement a relief afforde to destitute American Seammen at this Commercial Agency from the 15th of May 1868 to the 30th. June 
-N:6 1869, and my Account of expenses, with Vouches attached, during the same period. 
+<pb n="131"/>
 
-N:7 I finally enclose my Account Current with the United States' Government, which shows $73.16 in my favor, for which I have drawn on the "Honorable Hamilton Fish, Secretary of State, at 15 days " sight in my own favor. 
+I further enclose a statement 
+of relief afforded to destitute American 
+Seamen at this Commercial Agency from 
+the 15th of May 1868 to the 30th June 
+1869, and my Account of expenses, with 
+Vouchers attached, during the same 
+period.</p> 
 
-These are now no destitute seamen under my charge.
+<p>I finally enclose my Account 
+Current with the United States' 
+Government, which shows $73.16 
+in my favor, for which I have drawn 
+on the Honorable Hamilton Fish, 
+Secretary of State, at 15 days' sight 
+in my own favor.</p> 
 
-I have the honor to be,
-Sir,
-Your obedient servant
+<p>These are now no destitute 
+seamen under my charge.</p>
 
-<!-- THE PAGE FOLLOWING IS UNCLEAR, BUT IT'S ONLY A FEW WORDS ON THE DOCUMENT -->
+<p>I have the honor to be,<lb/>
+Sir,<lb/>
+Your obedient servant<lb/>
+Rosenbush</p>
+
+<pb n="133"/>
+
+<p>U.S. Commercial Agency<lb/>
+at Sierra Leone.</p>
+
+<p>T. Rosenbush</p>
+
+<p>No 3.</p>
+
+<p>7 Enclosures.</p>
+
+<p>Received</p>
+
+<p>Copy of correspondence with 
+Colal Govmt - Inventory of 
+deceased seaman - Statement 
+of relief, - and Acct 
+current with U.S. Govmt</p>
+
+<pb n="134"/>
+
+<note>No 310.</note>
+
+<p>Colonial Office<lb/>
+Sierra Leone<lb/>
+15th April 1869.</p>
+
+<p>Sir,</p>
+
+<p>With reference to my letter 
+No 257. of the 27th ult, forwarding Copies 
+of Correspondence from the Civil Commandant 
+of Bulama respecting the loss of the U.S. Barque
+"Gem."</p>
+
+<p>I have the honor to enclose Copy of a 
+letter from the same Officer accounting for the 
+two seamen who were left at the Island when 
+the remainder of the crew of that vessel were 
+sent to this place.</p> 
+
+<p>I have the honor to be<lb/>
+Sir,<lb/>
+Your Obedient Servant<lb/>
+(signed) J. J. Kendall<lb/> 
+Colonial Secretary</p>
+
+<fw type="address">J. Rosenbush Esqre<lb/>
+U.S. Commercial Agent.</fw>
+
+<pb n="135"/>
+
+<note>Copy</note>
+
+<note>No 50</note>
+
+<p>Civil Commandant's Office<lb/>
+Bulama 6 April 1869.</p>
+
+<p>Sir,</p>
+
+<p>On the 22nd March, I informed you that 
+I had sent on to Freetown 7 distressed seamen but that 
+on the morning of the 23rd, I had again to write and say 
+that 2 of these 7 men had been take so ill that they could 
+not with safety to their lives be move on board the Steamer
+which was on the point of starting. One of these 2 men
+called "Henry Clarke" has since died, and as the other has 
+recovered sufficiently to be able to go on and as he in anxious
+to do so by this opportunity; I now send him on in a long 
+boat belonging to one Samuel Coker of Freetown.</p>
+
+<p>I also am desirous of seeing him away for fear 
+of a re-lapse through eating Fruit and running about
+in the Sun. This man's name is W. H. Tracey.</p>
+
+<p>I have &amp;ca<lb/>
+(sd) J Craig Loggie<lb/>
+Actg Civil Commandment, Bulama.</p>
+
+<fw type="address">The Hon:
+Colonial Secretary<lb/>
+Freetown</fw>
+
+<pb n="136"/>
+
+<note>Copy</note>
+
+<note>No 2.</note>
+
+<p>Commercial Agency of the 
+United States of America at
+Sierra Leone, 16th April 1869.</p>
+
+<p>Sir,</p>
+
+<p>I have the honor to acknowledge 
+the receipt of your letter No 310, dated 
+15th April 1869, enclosing copy of a 
+letter from the Civil Commandant of 
+Bulama.</p>
+
+<p>I beg to reiterate my thanks 
+to His Excellency the Governor-in-Chief 
+for the assistance rendered to the 
+distressed Crew of the wrecked 
+American Barque "Gem".</p> 
+
+<p>I have the honor to be, Sir,<lb/>
+Your obedient Servant<lb/>
+"signed" "T. Rosenbush"<lb/>
+J. J. Kendall Esqre. U.S. Vice Coml Agent<lb/>
+Colonial Secretary.</p>
+
+<pb n="137"/>
+
+<p>Enclosure</p>
+
+<p>Commercial Agency
+at Sierra Leone.</p>
+
+<p>Copy of correspondence 
+with Colal Governmt
+on matter of the Am:
+Barque "Gem".</p>
+
+<p>No 1.</p>
+
+<p>15th and 16th April 1869.</p>
+
+<pb n="138"/>
+
+<note>420</note>
+
+<p>Colonial Office<lb/>
+Sierra Leone<lb/>
+28th May 1869.</p>
+
+<p>Sir,</p>
+
+<p>I have the honor to forward copy 
+of an Account Sale of the effects of the late Henry
+Clarke of the U.S. Barque "Gem", who died at 
+Bulama on the 23rd March last.</p>
+
+<p>The amount realized by the Sale has 
+been paid into the Colonial Treasury.</p> 
+
+<p>I have also the honor to send certain 
+Books and papers belonging to the same person 
+which have been forwarded by the Civil Commandant 
+of Bulama.</p>
+
+<p>I have the honor to be<lb/> 
+Sir,<lb/>
+Your most obedient Servant<lb/>
+(Sd) John Ashwood<lb/>
+For Colonial Secretary<lb/>
+"By His Excellency's Command."</p>
+
+<fw type="address">T. Rosenbush Esqre<lb/>
+U.S. Consular Agent.</fw>
+
+<pb n="139"/>
+
+<note>Copy</note>
+
+<p>List of the late Henry Clarkes effects sold by
+Public Auction at Beaver's Port Bulama on the 29th day of 
+March 1869.</p> 
+
+<table>
+<row>
+<cell><unclear reason="incomplete image">Name</unclear> of Purchasers.</cell>
+<cell>Articles</cell>
+<cell>Amount</cell>
+</row>
+<row>
+<cell>Conor Tavers</cell>
+<cell>1 Chest</cell>
+<cell>1 3 3</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>1 Monkey Jacket</cell>
+<cell>1 " 6</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>4 Drawers</cell>
+<cell>" 6 6</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>1 Alpacca coat</cell>
+<cell>" 5 "</cell>
+</row>
+<row>
+<cell><unclear reason="incomplete image">Rick</unclear> Olpherts</cell>
+<cell>2 Penknives</cell>
+<cell>" 1 1</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>1 Blk HKfs. 1 suit <unclear>Dil</unclear> Cloth 1 Blk tie</cell>
+<cell>" 7 4</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>1 waist purse, 1 tape rule 2 rolls</cell>
+<cell/>
+</row>
+<row>
+<cell> " </cell>
+<cell>Tobacco, 2 Oavendish Tobacco</cell>
+<cell>" 2 9</cell>
+</row>
+<row>
+<cell><unclear reason="incomplete image">William</unclear> Carey</cell>
+<cell>8½ pairs Woolen Stockings, 1 muffler</cell>
+<cell>" 1 6</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>1 Work basket containing Woolen</cell>
+<cell/>
+</row>
+<row>
+<cell> " </cell>
+<cell>Thread and Soap</cell>
+<cell>" 2 3</cell>
+</row>
+<row>
+<cell>William Ashford</cell>
+<cell>1 Waist coat</cell>
+<cell>" " 11</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>1 mark cotton Shirt</cell>
+<cell>" " 3</cell>
+</row>
+<row>
+<cell><unclear extent="one word" reason="incomplete image"/> A Randall</cell>
+<cell>2 Under Vests</cell>
+<cell>" 3 6</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>1 Cigar box Containing Head dresses</cell>
+<cell/>
+</row>
+<row>
+<cell> " </cell>
+<cell>1 Pack Cigars, 1 old Knife with</cell>
+<cell/>
+</row>
+<row>
+<cell> " </cell>
+<cell>Sheath 30 Small nails</cell>
+<cell>" " 3</cell>
+</row>
+<row>
+<cell><unclear reason="incomplete image">James</unclear> Lewis</cell>
+<cell>2 Blue Frocks</cell>
+<cell>" 6 3</cell>
+</row>
+<row>
+<cell><unclear extent="one name" reason="incomplete image"/> L Harby</cell>
+<cell>2 old Coats</cell>
+<cell>" 3 3</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>1 white warsted drawers</cell>
+<cell>" 2 5</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>1 pair Coats &amp; Shoes</cell>
+<cell>1 9 2½</cell>
+</row>
+<row>
+<cell><unclear extent="one name" reason="incomplete image"/> F Davies</cell>
+<cell>3 old Trousers</cell>
+<cell>&#160; 10 3</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>3 pieces remnant of staff</cell>
+<cell>&#160; 1 3</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>1 bundle <unclear extent="two words"/>, <unclear>Pens</unclear> <unclear extent="one word"/> and</cell>
+<cell/>
+</row>
+<row>
+<cell> " </cell>
+<cell>Shoeing Horn</cell>
+<cell>" 2 "</cell>
+</row>
+<row>
+<cell/>
+<cell>Amount Carried forward £</cell>
+<cell>6 9 8½</cell>
+</row>
+</table>
+
+<pb n="140"/>
+
+<p>List of the late Henry Clarkes effects sold by
+Public 
+Auction at Beaver's Port Bulama on the 29th day of 
+March 1869.</p>
+
+<table>
+<row>
+<cell>Names of Purchasers</cell>
+<cell>Articles</cell>
+<cell>Amount</cell>
+</row>
+<row>
+<cell/>
+<cell>Amount brought forward £</cell>
+<cell>6 9 8½</cell>
+</row>
+<row>
+<cell>Joseph H. Randall</cell>
+<cell>2 old white shirts</cell>
+<cell>" 5 "</cell>
+</row>
+<row>
+<cell>J A Palmer</cell>
+<cell>1 Warsted Shirt</cell>
+<cell>" 2 9</cell>
+</row>
+<row>
+<cell>William Long</cell>
+<cell>9 Pocket HKerchiefs</cell>
+<cell>" 2 "</cell>
+</row>
+<row>
+<cell>H Hollingsworth</cell>
+<cell>1 Shaving box 1 Towel</cell>
+<cell>" 3 3</cell>
+</row>
+<row>
+<cell>Wm Roberts</cell>
+<cell>1 box matches, 2 pair <unclear>braces</unclear> 2 combs</cell>
+<cell/>
+</row>
+<row>
+<cell> " </cell>
+<cell> Brush, 4 paper Collars</cell>
+<cell>" 3 "</cell>
+</row>
+<row>
+<cell>J Robinson</cell>
+<cell>1 old Pillow 2 Empty bags</cell>
+<cell>" 2 "</cell>
+</row>
+<row>
+<cell>"</cell>
+<cell>£</cell>
+<cell>7 7 8½</cell>
+</row>
+</table>
+
+<p>Amounting to the Sum of Seven pounds Seven Shillings and 
+Eight Pence Half Penny.</p>
+
+<p>I do hereby Certify that the above is a true and 
+Correct Statement of the amount realized at the Sale 
+of the Effects of the late Henry Clarke.</p>
+
+<p>And I do make this solemn declaration
+Conscientiously believing the same to be true</p>
+
+<p>(sd) Alfred Walter Lewis<lb/>
+Police Clerk</p>
+
+<p>Declared before me at Bulama
+this 30th day of April 1869<lb/>
+(Sd) J Craig Loggie<lb/>
+J. P.</p>
+
+<pb n="141"/>
+
+<note>Copy</note>
+
+<note>No 5.</note>
+
+<p>Commercial Agency of the
+United States of America at
+Sierra Leone May 31st 1869.</p>
+
+<p>Sir,</p>
+
+<p>I have the honor to acknowledge 
+the receipt of your letter No 420. dated the 
+28th instant and enclosing Account 
+Sales of the effects of the late Henry 
+Clarke of the American Barque 'Gem', 
+who died at Bulama on the 23rd of 
+March last.</p>
+
+<p>I have also the honor to acknowledge 
+the receipt of certain Books and 
+papers belonging to the same person 
+which had been forwarded by the 
+Civil Commandant of Bulama.</p> 
+
+<p>The amount realized by the sale 
+John Ashwood Esqre <catchwords>which</catchwords>
+
+<fw type="address">For Colonial Secretary</fw>
+
+<pb n="142"/>
+
+which has been paid into the Colonial 
+Treasury I request you will be pleased 
+to place against the expenses incurred 
+by the Colonial Government on account 
+of the crew of the American Barque 
+"Gem" and I shall feel obliged if 
+you will be pleased to furnish 
+me with an account of the same.</p>
+
+<p>I have the honor to be,<lb/>
+Sir,<lb/>
+Your obedient Servant<lb/>
+"Signed" "T. Rosenbush"<lb/> 
+U.S. Vice Coml Agent.</p>
+
+<ab>Enclosure</ab>
+
+<ab>Commercial Agency
+At Sierra Leone.</ab>
+
+<ab>Copy of correspondence 
+with Colal Governmt 
+on matter of the Am:
+Barque "Gem".</ab>
+
+<ab>No 2.</ab>
+
+<ab>28th and 31st May 1869</ab>
+
+<pb n="143"/>
+
+<note>437.</note>
+
+<p>Colonial Office<lb/>
+Sierra Leone<lb/>
+12th June 1869</p>
+
+<p>Sir,</p> 
+
+<p>With reference to your letter No 5. of the
+31st ultimo, acknowledging receipt of certain Books and 
+papers belonging to one "Henry Clarke" late of U.S. 
+Barque "Gem" who died at Bulama. And 
+asking for an account of the expenses incurred
+by the Colonial Government on account of that
+vessel.</p> 
+
+<p>I have the honor to enclose the necessary
+Vouchers and to request that you will please pay in the 
+amount to the Colonial Treasury as early as possible.</p>
+
+<p>I have the honor to be<lb/>
+Sir,<lb/>
+Your most obedient Servant<lb/>
+J. J. Kendall<lb/>
+Colonial Secretary</p>
+
+<fw type="address">T. A. Rosenbush Esqre<lb/>
+U.S. Commercial Agent.</fw>
+
+<pb n="144"/>
+
+<note>Copy</note>
+
+<note>No 6.</note>
+
+<p>Commercial Agency of the
+United States of America at
+Sierra Leone June 29th 1869</p>
+
+<p>Sir,</p>
+
+<p>I have the honor to acknowledge 
+the receipt of your letter No 437 dated 
+the 12th instant, transmitting me 
+an Account of the Expenses incurred 
+by the Colonial Government on account 
+of the American Barque "Gem" lost off 
+Bulama, and showing a balance of 
+£11,11,8½, due to the Colonial Government.</p>
+
+<p>As requested I herewith pay in 
+the amount to the Colonial Treasury</p>
+
+<p>I have the honor to be, Sir,<lb/>
+Your obedient Servant<lb/>
+"Signed" "T. Rosenbush"<lb/>
+U.S. Vice Coml Agent.</p>
+
+<fw type="address">J. J. Kendall Esqre<lb/>
+Colonial Secretary</fw>
+
+<pb n="145"/>
+
+<ab>Enclosure</ab>
+
+<ab>Commercial Agency
+at Sierra Leone.</ab>
+
+<ab>Copy of correspondence
+with Colal Governmt
+on matter of the Am:
+Barque "Gem"</ab>
+
+<ab>No 3.</ab>
+
+<ab>12th and 29th, June 1869.</ab>
+
+<pb n="146"/>
+
+<p>Inventory of effects belonging to the late
+Henry Clarke sent to me by the Colonial
+Secretary:</p>
+
+<p>1 Navigation Book<lb/>
+1 ditto ditto<lb/>
+1 Danish Bible<lb/>
+1 Album with Photographs<lb/>
+1 Guide Book<lb/>
+1 loose Photograph<lb/>
+a Parcel of envelopes and a Map<lb/>
+a Parcel of Blank Books<lb/>
+1 Suffolk Savings Bank Pass Book with $255
+to the Credit of Wm Sorenson.
+also containing a certificate on
+which certain wages to the deceased are due.<lb/>
+1 Book with written Poetry.</p>
+
+<p>Freetown, Sierra Leone May 31st 1869.</p>
+
+<p>Rosenbush<lb/>
+U.S. Vice Comml Agent</p>
+
+<pb n="147"/>
+
+<ab>Enclosure</ab>
+
+<ab>Commercial Agency
+at Sierra Leone:</ab>
+
+<ab>Inventory of effects 
+of the late Henry
+Clarke, seaman</ab>
+
+<ab>No 4.</ab>
+
+<ab>31st May 1869.</ab>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
