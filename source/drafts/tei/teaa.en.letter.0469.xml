@@ -1,30 +1,190 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-No. 4
-United States Consulate
-Sierra Leone
-May 25th 1874
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0323">
 
-1. Acknowledgement of receipt of dispatches No. 2 and 3
-2. Further information as to citizen of Consuate property
-3. Suggestionfor settlement by Arbitration
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
 
-Sir
-I have the honor to acknowledge receiptofyoour dispatches No.2 and 3 to which I beg to reply. 
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
 
-The Consular property has been siezed by Mssn Harris No. for the expenses of the American Consulate only. The amount claimed is exhorbant and they have no agreement or contract ofany kind to show that they are entitled to that amount. Up to the time of thedeparture of the late Consul W. Morgan Esq; Mess Harris No. received all the fees of the Consulate, by private arrangement with the said W. Morgan. They are not therefore entitled toany thing up to August 1st Last. Be pleased to instruct one in this matter.
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0323</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
 
-I should suggest a settlement by arbitration fully beheving such a course practicable. 
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1864-05-23">May 23, 1864</date>
+</bibl>
+</sourceDesc>
 
-I have the remain 
-Sir
-Your obesdient Servant
-Hath Lyon
-U.S. Cousul for
-Sierra Leone
+</fileDesc>
 
-Honble
-C.B.Harris
-Assistant Secy
-Department of State
-Washington U.S.
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Rider, Henry</persName>
+<roleName>United State Consular Agent</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1864-05-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seward, Frederick W.</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D. C.</placeName>
+<date when="1864-07-08"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-03" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="235"/>
+
+<note>Department of State Received Jul 3 1874</note>
+
+<p>No. 4</p>
+
+<p>United States Consulate<lb/>
+Sierra Leone<lb/>
+May 25th 1874</p>
+
+<p>1. Acknowledgement of receipt of dispatches No. 2. &amp; 3.</p>
+
+<p>2. Further information as to siezure of Consulate property.</p>
+
+<p>3. Suggestion for settlement by Arbitration.</p>
+
+<pb n="236"/>
+
+<note>4.</note>
+
+<p>United States Consulate<lb/>
+Sierra Leone<lb/>
+May 25th 1874</p>
+
+<p>Sir</p>
+
+<p>I have the honor to acknowledge receipt of
+your dispatches Nos 2 and 3. to which I beg to reply.</p> 
+
+<p>The Consular property has been <sic>siezed</sic> by Mssrs 
+Harris &amp; Co for the expenses of the American Consulate only. The amount claimed is exorbitant, and 
+they have no agreement or contract of any kind to 
+show that they are entitled to that amount. Up 
+to the time of the departure of the late Consul 
+W. Hogan Esq: Messrs Harris &amp; Co received all the fees 
+of the Consulate, by private arrangement with the 
+said W. Hogan. They are not therefore entitled to
+any thing up to August 1st last. Be pleased to 
+instruct me in this matter.</p>
+
+<p>I should suggest a settlement by arbitration 
+fully believing such a course practicable.</p> 
+
+<p>I have the honor to remain<lb/> 
+Sir<lb/>
+Your obedient Servant<lb/>
+Nathl Lyons<lb/>
+U.S. Consul for
+Sierra Leone &amp;c.</p>
+
+<fw type="address">Honble
+J. C. B. Davis<lb/>
+Assistant Secy<lb/>
+Department of State<lb/>
+Washington U.S.</fw>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

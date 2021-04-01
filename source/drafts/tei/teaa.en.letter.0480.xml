@@ -1,19 +1,175 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-U.S. Consulate
-Sierra Leone, August 11, 1875
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0323">
 
-W.Hunter Aug 
-Second Assistant Secretary
-Department of State
-Washington DC
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
 
-Sir,
-I had the honor to receive your dispatch No.3 dated June 30, a.c.m. questing me to transmit to your Department the statement of the aggregate of fees collected at this place for the year 1874. I regret that I am not able to comply with your request as during the time in question there was no Consular Officer of the U.S. here and consequently no entries whatever were made. For the future I shall not fail to fulfill the prescription of the Consular Regulations. 
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
 
-I have the honor to be, Sir
-Your obedient servant
-WMandall
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0323</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1864-05-23">May 23, 1864</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Rider, Henry</persName>
+<roleName>United State Consular Agent</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1864-05-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seward, Frederick W.</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D. C.</placeName>
+<date when="1864-07-08"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-03" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="245"/>
+
+<note>Department of State Received Sep 9 1875</note>
+
+<note>No 1.</note>
+
+<p>U.S. Consulate<lb/>
+Sierra Leone, August 11, 1875</p>
+
+<p>W. Hunter, Esqre<lb/> 
+Second Assistant Secretary<lb/>
+Department of State<lb/>
+Washington<lb/>
+USA</p>
+
+<p>Sir,</p>
+
+<p>I had the honour to receive your 
+dispatch No 3 dated June 30, a.c. 
+requesting me to transmit to your 
+Department the statement of the 
+aggregate of fees collected at this 
+place for the year 1874. I regret that 
+I am not able to comply with your 
+request as during the time in question 
+there was no Consular Officer of the 
+U.S. here &amp; consequently no entries 
+whatever were made. For the future 
+I shall not fail to fulfill the 
+prescriptions of the Consular Regulations.</p> 
+
+<p><catchwords>I</catchwords> 
+
+<pb n="246"/>
+
+I have the honour to be, Sir<lb/>
+Your obedient servant<lb/>
+W H Randall<lb/>
 U.S. Consul
-for Sierra Leone
+for Sierra Leone</p>
 
+</div1>
+
+</body>
+</text>
+
+</TEI>
