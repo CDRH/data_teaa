@@ -1,37 +1,186 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-No. 28
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0323">
 
-United State Consulate
-at Sierra Leone
-March 14th 1878
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
 
-M. W.H. Randall 
-to Department of State
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
 
-Subject
-To have copies of despatches that did not reach the dpeartment 
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0323</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
 
-Abstract of Contents
-Acknowledgement receipt of dispatch No. 21 dated 6th February numbers of dispatch which copies we sent
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1864-05-23">May 23, 1864</date>
+</bibl>
+</sourceDesc>
 
-No.28
-United States Consuate 
-Sierra Leone 14th March 1878
+</fileDesc>
 
-Sir,
-I have the honor to <unclear/> receipt of your dispatch N:21 dated 6th February, and in conformity with your request send you herewith copies of my dispatches No: 17, 21, 22, and 23, there originl and having reached the Department of State.
+<profileDesc>
+<langUsage>
 
-I have the honor to remain 
-Sir
-Your obedient of Servant
-MClaudale 
-Consul
+<language ident="en">English</language>
+</langUsage>
 
-The honorable 
-J.W. Seward 
-Assistant Secretary of State
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
 
-Inclosure
-Copies of Dispatches No. 17,21,22, and 28
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Rider, Henry</persName>
+<roleName>United State Consular Agent</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1864-05-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seward, Frederick W.</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D. C.</placeName>
+<date when="1864-07-08"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-03" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="296"/>
+
+<note>Department of State Received Apr 15 1878</note>
+
+<note>No 28.</note>
+
+<p>United State Consulate
+at Sierra Leone<lb/>
+March 14th 1878</p>
+
+<p>Mr W.H. Randall<lb/> 
+to Department of State</p>
+
+<p>Subject<lb/>
+To have copies of despatches that 
+did not reach the department</p>
+
+<p>Abstract of Contents<lb/>
+Acknowledgement of receipt of Dispatch 
+No 21 dated 6th February. Numbers of dispatch 
+of which copies are sent</p>
+
+<pb n="297"/>
+
+<note>No 28</note>
+
+<p>United States Consulate<lb/> 
+Sierra Leone 14th March 1878</p>
+
+<p>Sir,</p>
+
+<p>I have the honor to own 
+receipt of your dispatch No 21, dated 6th 
+February, and in conformity with your 
+request send you herewith copies of 
+my dispatches Nos 17, 21, 22 and 23, the
+originals not having reached the Department 
+of State.</p>
+
+<p>I have the honor to remain<lb/> 
+Sir<lb/>
+Your obedt Servant<lb/>
+W H Randall
+Consul</p>
+
+<fw type="address">The honorable<lb/> 
+F. W. Seward<lb/> 
+Assistant Secretary of State</fw>
+
+<p>Inclosure<lb/>
+Copies of Dispatches Nos 17, 21, 22 and 23.</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

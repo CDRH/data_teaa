@@ -1,65 +1,271 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-Sierra Leone 12th July 1877
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0323">
 
-The Consul for American 
-Liverpool
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
 
-Sir,
-I have the honor to inform you that on a <unclear/> from Capt Harlem, late <unclear/> of the American barque 'Stating' which vessel was totally lost in the 19th ult at Salt Pond W. Coast of Africa, I have forwarded per l.l. Senegal Capy D. <unclear/> the undocumente <unclear/> <unclear/>:
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
 
-Pete C. Came <unclear/>
-George Chris <unclear/>
-Thomas <unclear/>
-Harris Hansen
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0323</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
 
-in conformity with <uncler/> 164 + 169 of the <unclear/> regulation.
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1864-05-23">May 23, 1864</date>
+</bibl>
+</sourceDesc>
 
-I have the honor to remain
-Sir,
-Your most obediently 
-<unclear/> Mon <unclear/>
-for James Frank
-Acting United States Consul
+</fileDesc>
 
-Consulate of the United States 
-Sierra Leone 10th Oct 1877
+<profileDesc>
+<langUsage>
 
-Sir,
-I have the honor to forward enclosure state must of fees received at this consulate during the year ending 31st of December 1876 a remain Sir, your obedient Mr. <unclear/> 
-for James <unclear/>
+<language ident="en">English</language>
+</langUsage>
 
-<unclear/> United States Consel
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
 
-The honorable <unclear/>
-Acting Secretary of State
-Washington
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
 
-One <unclear/> Statement of fees received during the Year 1876
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
 
-Consulate of the United States of America 
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Rider, Henry</persName>
+<roleName>United State Consular Agent</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1864-05-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seward, Frederick W.</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D. C.</placeName>
+<date when="1864-07-08"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-03" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="281"/>
+
+<note>Department of State Received Apr 15 1878</note>
+
+<note>Copy</note>
+
+<note>No 17</note>
+
+<p>Sierra Leone 12th July 1877</p>
+
+<p>The Consul for America<lb/>
+Liverpool</p>
+
+<p>Sir,</p>
+
+<p>I have the honor to inform you that 
+on a requisition from Captn Harlin, late master 
+of the American barque "<unclear>Starting</unclear>" which vessel was 
+totally lost in the 19th ult: at Salt Pond W. Coast of 
+Africa, I have forwarded per S.S. "Senegal" Captn 
+D. Munro the undermentioned seamen viz:</p>
+
+<p>Peter C. Cane Mate<lb/>
+George <unclear>Chrisholer</unclear><lb/>
+Thomas Bullant<lb/>
+Harris Hansen</p>
+
+<p>in conformity with Sections 164 &amp; 169 of the Consular 
+regulations</p>
+
+<p>I have the honor to remain<lb/>
+Sir,<lb/>
+Your most obediently<lb/> 
+(sd) J Broadhurst<lb/>
+for James Frame<lb/>
+Acting United States Consul</p>
+
+<note>Copy</note>
+
+<note>No 21</note>
+
+<p>Consulate of the United States<lb/>
+Sierra Leone 10th Oct 1877</p>
+
+<p>Sir,</p>
+
+<p>I have the honor to forward enclosed statement 
+of fees received at this consulate during the 
+year ending 31st of December 1876 and 
+remain Sir, your obedient Servant<lb/> 
+(sd) J Broadhurst<lb/>
+for James Frame<lb/>
+
+<pb n="282"/>
+
+Acting United States Consul</p>
+
+<fw type="address">The honorable F W Seward<lb/>
+Acting Secretary of State<lb/>
+Washington</fw>
+
+<p>One inclosure Statement of Fees received 
+during the Year 1876</p>
+
+<p>Consulate of the United States of America<lb/> 
 Sierra Leone
 Statement of Fees received during the 
-Year 1876
-Date Your whom Amount
-Feby 16th Barque Liberia $5.28
-March 14 do Albertina 13.00
- 25 do Thomas Pope 20.31
-May 3 do Liberia 11.28
- 9 Captain Richerrdson 2.00
- 18 Schooner N. Harris 20.95
- 25 Barque Shonta 20.14
-Aug 15 do Liberia 10.28
- 14 do Richmond 20.01
-Nov 21 Schooner Nellie Great 23.13
-Dec 1 Barque Lorris L <unclear/> 18.64
-Total $165.32
+Year 1876</p>
 
-hundred and <unclear> sixty </unclear> dollars in <unclear/> of the said Captain D. <unclear/> which <unclear/> I command to your <unclear extent=three words/>
+<table>
+<row>
+<cell>Date</cell>
+<cell>From whom</cell>
+<cell>Amount</cell>
+</row>
+<row>
+<cell>Feby 16</cell>
+<cell>Barque "Liberia"</cell>
+<cell>$5.28</cell>
+</row>
+<row>
+<cell>March 14</cell>
+<cell>do "Albertina</cell>
+<cell>13.00</cell>
+</row>
+<row>
+<cell>&#160; &#160; &#160; 25</cell>
+<cell>do "Thomas Pope"</cell>
+<cell>20.31</cell>
+</row>
+<row>
+<cell>May 3</cell>
+<cell>do "Liberia"</cell>
+<cell>11.28</cell>
+</row>
+<row>
+<cell>&#160; &#160; &#160; 9</cell>
+<cell>Captain Richardson</cell>
+<cell>2.00</cell>
+</row>
+<row>
+<cell>&#160; &#160; &#160; 18</cell>
+<cell>Schooner "N. Hands"</cell>
+<cell>20.95</cell>
+</row>
+<row>
+<cell>&#160; &#160; &#160; 25</cell>
+<cell>Barque "Shanta"</cell>
+<cell>20.14</cell>
+</row>
+<row>
+<cell>Augt 15</cell>
+<cell>do "Liberia"</cell>
+<cell>10.28</cell>
+</row>
+<row>
+<cell>&#160; &#160; &#160; 14</cell>
+<cell>do "Richmond"</cell>
+<cell>20.01</cell>
+</row>
+<row>
+<cell>Novr 21</cell>
+<cell>Schooner "Nellie Treat"</cell>
+<cell>23.43</cell>
+</row>
+<row>
+<cell>Decr 1</cell>
+<cell>Barque "Louis T. Stocker"</cell>
+<cell>18.64</cell>
+</row>
+<row>
+<cell/>
+<cell/>
+<cell>Total $165.32</cell>
+</row>
+</table>
 
-I have the honor to remain
-Sir
-Your honorable <unclear/> servant
-For <unclear/> France
-Acting Consul
-<unclear/>
+</div1>
+
+</body>
+</text>
+
+</TEI>

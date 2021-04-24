@@ -1,18 +1,297 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-U.S. Consulate 
-<unclear/>
-Oct 12th 1878
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0323">
 
-John, A Parm
-to Department of State 
-Washington D.C.
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
 
-Subject
-Acknowledgement of the receipt of dispatch No 3-4 with . enclosed <unclear> property </unclear> <unclear/>of the <unclear extent=two words/>
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
 
-Abstract of Content
-To infrom the department of the disbelief of <unclear/> was of the U.S. Consuate to one by Broadhurst and or app of on insanity of some.
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0323</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
 
-Enclosure
-Copy of <unclear/>
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1864-05-23">May 23, 1864</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Rider, Henry</persName>
+<roleName>United State Consular Agent</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1864-05-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Seward, Frederick W.</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D. C.</placeName>
+<date when="1864-07-08"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-03" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="313"/>
+
+<p>U.S. Consulate<lb/> 
+Sierra Leone<lb/>
+Oct 12th 1878</p>
+
+<p>John A Parm<lb/>
+To Department of State<lb/> 
+Washington D.C.</p>
+
+<p>Subject</p>
+
+<p>Acknowledgement of the receipt of Dispatch 
+No 3-4 with inclosed <sic>pasports</sic><lb/> Delivery of the Records &amp; Archives.</p>
+
+<p>Abstract of Content</p>
+
+<p>To inform the Department of the delivery 
+of Records, Archives &amp;c of the U.S. Consulate 
+to me by Mr Broadhurst, and a copy of 
+an inventory of same.</p>
+
+<p>Enclosure</p>
+
+<p>Copy of inventory.</p>
+
+<pb n="314"/>
+
+<note>No 2</note>
+
+<p>United States Consulate<lb/> 
+at Sierra Leone Africa<lb/>
+Oct 12th 1878</p>
+
+<p>Sir-</p>
+
+<p>I have the honor to acknowledge 
+the receipt of your Dispatch No 3-4 with 
+special <sic>pasport</sic>, under date of the 28 ultimo.
+The copy of Consular Regulations with a Register 
+of the Department under <sic>seperate</sic> cover have 
+also been received.</p>
+
+<p>I beg to inform the Department, 
+that on the 4th inst Mr Broadhurst the Acting Consul,
+delivered to me all of the Records, Flag, Books,
+and papers he acknowledges to be in his possession, 
+belonging to the U.S. Consulate.</p>
+
+<p>Mr Broadhurst refused 
+to give one an inventory of the Articles delivered, 
+and in order that the Department may see what 
+is now in the Consulate, I have taken an inventory 
+of <unclear>every</unclear> thing delivered to me by said Gentlemen as 
+belonging to the U.S. Consulate. A copy of which
+I have inclosed.</p>
+
+<p>In Entering upon my duties as Consul, I have 
+deferred informing the Authorities here, Officially 
+of my Appointment, until I have received my 
+Commission and Exequatur.</p>
+
+<p>I have the honor to be<lb/> 
+Sir<lb/>
+Your Obedient Servant,<lb/>
+John A. Parm<lb/>
+U.S. Consul</p>
+
+<fw type="address">Hon.
+F. W. Seward<lb/>
+Acting Secretary of State</fw>
+
+<pb n="315"/>
+
+<p>Inventory of the Records, Archives &amp;c
+received from Mr. J. Broadhurst actg U.S. Consul at Sierra Leone Africa.</p>
+
+<p>1st Records<lb/>
+1 Record of Inventory Statements<lb/>
+1 " " Arrivals &amp; departures of
+American vessels<lb/>
+1 Inventory Book<lb/>
+1 Seamen Register<lb/>
+1 Marine Extended Protest<lb/>
+1 " Notes of Protests<lb/>
+1 Ships daily Journal<lb/>
+1 Dispatches<lb/>
+1 Miscellaneous Correspondence<lb/>
+1 U.S. Treasury Fees<lb/>
+1 Passport<lb/>
+1 Ledger<lb/>
+1 American Seamen Relieved<lb/>
+1 " Distressed Seamen<lb/>
+3 Blank Books<lb/>
+1 Letters <sic>Recieved</sic><lb/>
+1 " Sent<lb/>
+1 " Book<lb/>
+1 Miscellaneous Record Book<lb/>
+1 Instructions to Naval Store Keepers
+and Pursers<lb/>
+1 Log Book<lb/>
+2nd Books Leather Bound<lb/>
+1 Wheaton's Elements of International Law<lb/>
+2 U.S. Statutes of Large<lb/>
+3rd Books Cloth Bound<lb/>
+4 Diplomatic Correspondence<lb/>
+5 Commercial Relations<lb/>
+1 Customs Regulations<lb/>
+
+<pb n="316"/>
+
+4th Books Pamphlet<lb/>
+3 Statutes of the U.S.A.<lb/>
+10 " at Large<lb/>
+4 List of Diplomatic &amp; Consul Officers<lb/> 
+1 Heyl's Rates of duties on Imports<lb/>
+5th<lb/>
+1 Flag<lb/>
+6th<lb/>
+4 Seals<lb/> 
+7th<lb/>
+1 Post Office Endorsement Box<lb/>
+8th Stationary<lb/>
+3 Reams Letter Paper<lb/>
+20 Doz " Envelopes<lb/>
+25 " Dispatch "<lb/>
+3 Boxes Seals. 1 Red. 2 Blue<lb/>
+1 " Wafers. Box containing 100<lb/>
+2 Pen <unclear>Staffs</unclear><lb/>
+2 Lead Pencils<lb/>
+9th Forms<lb/>
+5 " No 1<lb/> 
+112 " " 13<lb/>
+12 " " 15<lb/>
+6 " " 16<lb/>
+17 " " 36<lb/>
+50 " " 37<lb/>
+94 " " 38<lb/>
+74 " " 33<lb/>
+8 " " <unclear>47</unclear><lb/>
+12 " " 58<lb/>
+20 " " 121<lb/>
+20 " " <unclear>144</unclear><lb/>
+10th<lb/>
+<unclear extent="one line of text" reason="imcomplete image"/></p>
+
+<pb n="317"/>
+
+<p>I beg to state that the 
+stationary is much soiled 
+and yellow from long standing</p>
+
+<p>I have the honor to be<lb/> 
+Sir<lb/>
+Your Obedient Servant<lb/>
+John A. Parm<lb/> 
+U.S. Consul at Sierra Leone<lb/> 
+Oct 12th 1878</p>
+
+<fw type="address">To
+Hon: F. W. Seward<lb/>
+Acting Secretary of State.</fw>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
