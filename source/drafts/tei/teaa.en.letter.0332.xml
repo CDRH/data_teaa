@@ -1,11 +1,11 @@
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0331">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0332">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<title>Dispatch from Theodore A. Rosenbush to Frederick W. Seward, March 29, 1869</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<title level="a">Dispatch from Theodore A. Rosenbush to Frederick W. Seward, March 29, 1869</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-438, Roll 1</biblScope>
-<date when="1864-05-23">May 23, 1864</date>
+<date when="1869-03-29">March 29, 1869</date>
 </bibl>
 </sourceDesc>
 
@@ -71,15 +71,36 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Brown, Charles E.</term>
+<term>Brown, John</term>
+<term>Clarke, Henry</term>
+<term>Edwards, Abraham</term>
+<term>Foreman, Alexander</term>
+<term>Gage, Isaac B.</term>
+<term>Jones, E. J.</term>
+<term>Kendall, J. J.</term>
+<term>Lass, John</term>
+<term>Lewis, Alfred Walter</term>
+<term>Linscoff, G. F.</term>
+<term>Loggie, J. Craig</term>
+<term>McDonald, John</term>
+<term>Miller, David C.</term>
+<term>Tracey, W. H.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Bissão (Portuguese Guinea)</term>
+<term>Boston (Massachusetts)</term>
+<term>Bulama (Sierra Leone)</term>
+<term>Freetown (Sierra Leone)</term>
+<term>Îles de Los</term>
+<term>Liverpool (England)</term>
+<term>Orange Island</term>
 </keywords>
     
 <keywords scheme="original" n="empires">
-<term/>
+<term>Portugal</term>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -98,16 +119,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Rider, Henry</persName>
-<roleName>United State Consular Agent</roleName>
+<persName>Rosenbush, Theodore A.</persName>
+<roleName>U.S. Vice Commercial Agent</roleName>
 <placeName>Sierra Leone</placeName>
-<date when="1864-05-23"/>
+<date when="1869-03-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Seward, Frederick W.</persName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D. C.</placeName>
-<date when="1864-07-08"/>
+<placeName>Washington, D.C.</placeName>
 </correspAction>
 </correspDesc>
 
@@ -202,7 +222,7 @@ the loss of the U.S. Barque "Gem".</p>
 <p>I have the honor to be,<lb/>
 Sir<lb/>
 Your most obedient Servant<lb/> 
-signed "I. I. Kendall<lb/>
+signed "J. J. Kendall<lb/>
 Colonial Secretary</p>
 
 <fw type="address">T. Rosenbush Esqre<lb/>
@@ -342,7 +362,7 @@ of Bulama by</p>
 <pb n="126"/>
 
 <p>Signed "David C. Miller"<lb/>
-Late Master of th Barque "Gem"<lb/>
+Late Master of the Barque "Gem"<lb/>
 "G. F. Linscoff" A.B.<lb/>
 "E. J. Jones" A.B.<lb/>
 "John McDonald"<lb/>
@@ -360,7 +380,7 @@ Police Clerk<lb/>
 Police Sergeant.</p>
 
 <p>"A True Copy"<lb/>
-Signed "I. Craig Loggie"<lb/>
+Signed "J. Craig Loggie"<lb/>
 J.P.
 Civil Commandant Bulama.</p>
 
@@ -412,7 +432,7 @@ Fits that they cannot be removed. I have therefore been unable to send them on. 
 <p>I have the honor to be,<lb/>
 Sir,<lb/>
 Your obt Servant<lb/>
-signed "I. Craig Loggie"<lb/>
+signed "J. Craig Loggie"<lb/>
 Acting Civil Commandant</p>
 
 <fw type="address">The Hon.
