@@ -1,41 +1,179 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-No. 1 
-U.S. Consulate at
-Sierra Leone Africa April 19th 1879
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0687">
 
-Capt T.J. Burgess Statement
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from John A. Parm to Frederick W. Seward, June 30, 1879</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
 
-"This morning about 7 O'Clock while writing my letters for maid I heard a noise on deck,of some <unclear/> of row or fight, I proceeded to the deck at once. I saw Mr. Fordick the first-Officer, and one of the men gus Bennis denched and <unclear/> about on the deck: I took hold of Mr.Fordick and pulled him off from this man, and told that, was quite enough, I did not allow any such work, and they must stop it at once; while in the act of seperating the parties, the rest of the crew came after, armed with the windlass normon and knives. One of the men named Gus Carlisle struck me in the head with the windlass normon, and once on the shoulder, and was in the act of doing it again when the normon was taken out his hand by the second officer of the ship. As soon as I come to my senses from the effects of the blow, I proceeded to the cabin, and from <unclear/> to the deck bein nearly blind from the effects of the blow, I had received. As I proceeded to the deck I met the 1st Officer coming down bleedng very badly from blows and stabs. After I got to the deck i found things quiet with the exception, that the men said they would do no more work while on board the ship. I at once sent the st Officer to the Doctor for medical attendance.
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
 
-One of the men Gus Carlisle made the remark "If he came back again that he would fix him good. I sent the men to breakfast. After breakfast I went to turn them to their work. They refused to work. i then asked them one by one if they were willing to work? Their answer was "No! and wanted to <unclear/> what I was going to do wth them." I told them I had nothing to say, and proceeded at nce to the American Consul for protection."
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0687</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
 
-No. 2 
-Statement of O.G. Fosdick 1st Mate
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from John A. Parm to Frederick W. Seward, June 30, 1879</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1879-06-30">June 30, 1879</date>
+</bibl>
+</sourceDesc>
 
-"This morning about 7'Oclock while walking on the quarter deck I percieved signs of intoxication in Jus Bennis, one of the sailors. I spoke to him and told him to hurry up and not be idling around when he replied that he was <unclear/> as just as he intended to, and would wor no faster, I then advanced toward him ad he made a <unclear/> at one, and we both clenched, and fell down on deck. While then the Capt ran up and ordered as to stop and tried to partes. The remainder of the crew then rushed out of the hold armed with mindless normon, bolts, and <unclear/> and rushed upon the Capt strick him twice with an <unclear/> normon, stabbed me between the eyes, in the forehead and in the arm.
+</fileDesc>
 
-I became incensible from loss of blood, a few moments of the recovery was sent on shore to the Dr to be attended to."
+<profileDesc>
+<langUsage>
 
-No. 3
-Statement of Jas Bennis
+<language ident="en">English</language>
+</langUsage>
 
-"This morning I wa sworking on the quarter deck of the Anna Elizabth and the chief officer came to me began a growl with me about the sail, and said I was getting on <unclear/> I am getting on as quick as I can. The told me he would have none of my check. I told him I was not giving him any of my check. Says he, "shut up you dam son of a Bitch, and he jumped on top of me sitting on the sail below. He picked up a maillspike and sruck me over the head. I was stupud. Often I recovered I saw the rest of my shipmates taking my part. I was lying on the propdect, and as near as I can remember the Capt caught me by the throat (and one of the men told me that he said to the mate to give it to me.) The next place I found myself was in the forecasel."
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
 
-No.4
-Statement of Jos Dolan
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
 
-"This morning about 7 O'Clock the Roo boy sung out that" Scott is getting killed." I rushed in to the poop I saw the chief Officer having Bennis under and striking him- The Capt had him by the throat. I took hold of the Capt and said knoc off. The Capt said give it to him. I took the mate off of him. The mate said what the hell you want, then he put his hand for his revolver, I then struck him and knocked him down, and kicked him, he ran down to the at the companion door waiting for him, but he didn't come up. The second Officer told me to keep quiet. (seix days ago while on duty, coming in harbour, the  1st officer damed my soul to hell) I went forward and said I would do no more work while the chief officer was on board that vessel. Aftter  <unclear/> the Capt came forward and told me to burn too I said no."
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
 
-No. 5
-Statement if Jas Rilly
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
 
-About 7 O'Clock this morning I was stowing casks between deck on board the "Ann Elizabeth" when Joe sung out "come up Relly, the mate and Capt is Rilling Scotty." So I jumped up the main hatch, I rushed to them and took the Capt by the shoulder and told him to knock off. I hardly had the word out of my mouth when Carlisle struck the Capt with the normon. I jumped back myself and then the Capt jumped down off the poup; then they sung out that he had some for a revolver. I then went to the cabin door to prevent his shooting anyone if he did come up then I saw the mate coming up out of the cabin, and I saw a white handle revolver, in his pocket behind, so I was going to make a snap for it and throw it over board, but he turned mind and I missed my chance. The Capt came forward and told us to stop it he wanted no more of the row. We told him we were not gazing to work any more he told us to go to breaskfast: after breakfast he came forward and asked us if were going to turn too. <unclear/> each of told him no, we would not work any more."
+</textClass>
 
-No. 6
-Statement of Jas F. Carlisle 
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Parm, John A.</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1879-06-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1879-08-06"/>
+</correspAction>
+</correspDesc>
 
-"This morning I was in Ann Elizabeth's hold about 7' OClock, when I heard a sudden cry. "Come up on deck, they are killing Scott."
+</profileDesc>
 
-I jumped up the fore hatch and took the normon and as I can after I saw the Capt have hold of Bunnis by the throat. I struck the Capt with this weapon, but did not get a fair hour at him. For is I had,he would have been a dead man, which was my intention. Then the Capt went down in the cabin and the secondmate took the normon from me. and the first-mate went down in the after companion, and we took the man Bennis forward. I came after again and the mate was on the top of the house. He used come foul expressions. I then took out my knife and attempted to stab him, but it broke. I have been struck by 1st Officer before and called out of my name. Capt then after breakfast came dorward to the main hatch, I asked the Capt-what-he was going to do no more work in board that skip, and mentioned that as long as, i had been going to since I had never been trusted as I had been the chief officer of that ship with continnal stirs and snoring at."
+<revisionDesc>
+<change when="2021-06" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
 
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="375"/>
+
+<note>Department of State Received Aug 6 1879</note>
+
+<note>No 12&#178;</note>
+
+<p>John A. Parm<lb/>
+To<lb/>
+Department of State</p>
+
+<p>Subject<lb/>
+Report</p>
+
+<p>Abstract of Content<lb/>
+Returns and Accounts for
+the quarter ending game June 30th 1879</p>
+
+<p>Enclosures 7</p>
+
+<pb n="376"/>
+
+<note>No 12</note>
+
+<p>U.S. Consulate at
+Sierra Leone<lb/>
+June 30th 1879</p>
+
+<p>Hon F. W. Seward<lb/>
+Assistant Secretary of State<lb/>
+Washington D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to transmit 
+herewith Enclosed returns and accounts 
+for the quarter ending June 30th 1879.</p>
+
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your obdt Servant<lb/>
+Jno. A. Parm<lb/>
+U.S. Consul</p>
+
+<p>Enclosures 7</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

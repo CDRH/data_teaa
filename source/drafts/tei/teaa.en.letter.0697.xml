@@ -1,33 +1,191 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-No 11
-John A Parson
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0697">
 
-To
-Department of State
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dispatch from John A. Parm to Frederick W. Seward, May 5, 1879</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
 
-Subject
-Receipt of Stationary
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
 
-Abstract of Contents 
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0697</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Dispatch from John A. Parm to Frederick W. Seward, May 5, 1879</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1879-05-05">May 5, 1879</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Correspondence</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="empires">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="language">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Parm, John A.</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1879-05-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington, D.C.</placeName>
+<date when="1879-06-02"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-06" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="369"/>
+
+<note>Department of State Received Jun 2 1879</note>
+
+<note>No 11</note>
+
+<p>John A Parson</p>
+
+<p>To
+Department of State.</p>
+
+<p>Subject.<lb/>
+Receipt of Stationary.</p>
+
+<p>Abstract of Contents<lb/> 
 Acknowledgment of the 
-receipt of Flag. Arms
-Stationary and Forms
+receipt of Flag, Arms,
+Stationary &amp; Forms</p>
 
-No 11
-United States Consulate at
-Sierra Leone Africa May 5th 1879
+<pb n="370"/>
 
-To
-Hon F.W. Seward
-Assistant Secretary of State
-Washington D.C. 
-Sir,
-I have the honor to acknowledge the receipt of two cases addressed U.S. Consul Sierra Leone. Containing Flag, Arms, Stationary and Forms. 
-i regret that I omited to add to the list of forms needed.
-Form No 142, also that there was no ink sent with the stationary; I will therefore be compelled to have a few of the forms printed, and ink purchased at the <unclear/> of the Consulate.
-I have the honor to be
-Sir
-Your Obedient Servant
-John A Parson
-U.S. Consul
+<note>No 11</note>
+
+<p>United States Consulate at<lb/>
+Sierra Leone Africa May 5th/79</p>
+
+<p>To<lb/>
+Hon F.W. Seward<lb/>
+Assistant Secretary of State<lb/>
+Washington D.C.</p> 
+
+<p>Sir,</p>
+
+<p>I have the honor to 
+acknowledge the receipt of two 
+cases addressed U.S. Consul 
+Sierra Leone. containing Flag, Arms, Stationary and Forms. </p>
+
+<p>I regret that I <sic>omited</sic> to add to 
+the list of Forms needed.
+Form No 142. also that there was 
+no Ink sent with the stationary; 
+I will therefore be compelled to have 
+a few of the Forms printed, &amp; 
+Ink purchased at the <sic>expence</sic>
+of the Consulate.</p>
+
+<p>I have the honor to be<lb/>
+Sir<lb/>
+<catchwords>Your</catchwords>
+
+<pb n="371"/>
+
+Your Obedient Servant<lb/>
+John A. Parm<lb/>
+U.S. Consul.</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

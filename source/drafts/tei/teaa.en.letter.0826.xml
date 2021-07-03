@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0551">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0826">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from W. H. Randall to Frederick W. Seward, March 6, 1878</title>
+<title>Dispatch from Judson A. Lewis to William Hunter, November 12, 1879</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
-<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0551</idno>
+<idno type="project">teaa.en.letter.0826</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from W. H. Randall to Frederick W. Seward, March 6, 1878</title>
+<title level="a">Dispatch from Judson A. Lewis to William Hunter, November 12, 1879</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-438, Roll 1</biblScope>
-<date when="1878-03-06">March 6, 1878</date>
+<date when="1879-11-12">November 12, 1879</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Commerce and Trade</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,7 +71,7 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Cabell, J. L.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
@@ -99,24 +98,24 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Randall, W. H.</persName>
+<persName>Lewis, Judson A.</persName>
 <roleName>U.S. Consul</roleName>
 <placeName>Sierra Leone</placeName>
-<date when="1878-03-06"/>
+<date when="1879-11-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
-<roleName>Assistant U.S. Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/3981158369766001460009">Hunter, William, 1805-1886</persName>
+<roleName>Acting U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
-<date when="1878-04-13"/>
+<date when="1879-12-15"/>
+<date/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2021-03" who="#kln">Encoding, transcription edits, and review</change>
-<change when="2019-09" who="#csls">Transcription</change>
+<change when="2021-07" who="#kln">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,54 +125,43 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="290"/>
+<pb n="407"/>
 
-<note>Department of State Received Apr 13 1878</note>
+<note>Department of State Received Dec 15 1879</note>
 
-<note>No 25.</note>
+<p>No 7. U.S. Consulate Sierra Leone Nov 12th 1879</p>
 
-<p>United States Consulate 
-at Sierra Leone<lb/>
-6th March 1878</p>
+<p>Judson A. Lewis - To Dept of State</p>
 
-<p>Mr. W. H. Randall<lb/>
-to Department of State</p>
+<p>Acknowledging receipt of Letter
+Dated Washington Sept 11th 1879
+"Separate"</p>
 
-<p>Subject</p>
+<pb n="408"/>
 
-<p>Statement of Fees received during year 
-ending 31st december 1877</p>
+<note>No 7.</note>
 
-<pb n="291"/>
+<p>U.S. Consulate at 
+Sierra Leone<lb/>
+Nov. 12th 1879</p>
 
-<note>No 25.</note>
+<p>Hon W. Hunter<lb/>
+Acting Secretary of State<lb/>
+Washington D.C.</p>
 
-<p>United States Consulate 
-at Sierra Leone 
-March 6th 1878</p>
+<p>Sir:</p>
 
-<p>The honorable F. W. Seward<lb/>
-Assistant Secretary of State<lb/>
-Washington, D.C.</p>
+<p>Acknowledge the receipt of
+your circular letter dated
+Sept. 11th 1879 and marked
+"Separate" - regarding the transmission
+of the "Weekly Reports"
+direct to Dr J. L. Cabell President
+of the National Board of Health.</p>
 
-<p>Sir,</p>
-
-<p>I have the honor to 
-forward enclosed statement of fees 
-taken at this consulate during the 
-year ending December 1877.</p>
-
-<p>I am Sir<lb/>
-Your obedient Servant<lb/>
-W H Randall<lb/>
-Consul</p>
-
-<p>(Seal)</p>
-
-<p>Inclosure</p>
-
-<p>Statement of fee for year commencing 
-1st January and ending 31st december 1877</p>
+<p>I am Sir Your Obt Srvt<lb/>
+Judson A. Lewis<lb/>
+U.S. Consul</p>
 
 </div1>
 

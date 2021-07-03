@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0551">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0825">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from W. H. Randall to Frederick W. Seward, March 6, 1878</title>
+<title>Dispatch from Judson A. Lewis to Frederick W. Seward, October 27, 1879</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
-<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
 </respStmt>
 </titleStmt>
 
@@ -33,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0551</idno>
+<idno type="project">teaa.en.letter.0825</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -42,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from W. H. Randall to Frederick W. Seward, March 6, 1878</title>
+<title level="a">Dispatch from Judson A. Lewis to Frederick W. Seward, October 27, 1879</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-438, Roll 1</biblScope>
-<date when="1878-03-06">March 6, 1878</date>
+<date when="1879-10-27">October 27, 1879</date>
 </bibl>
 </sourceDesc>
 
@@ -60,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Commerce and Trade</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -76,7 +75,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Freetown (Sierra Leone)</term>
 </keywords>
     
 <keywords scheme="original" n="empires">
@@ -99,24 +98,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Randall, W. H.</persName>
+<persName>Lewis, Judson A.</persName>
 <roleName>U.S. Consul</roleName>
 <placeName>Sierra Leone</placeName>
-<date when="1878-03-06"/>
+<date when="1879-10-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
-<date when="1878-04-13"/>
+<date/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2021-03" who="#kln">Encoding, transcription edits, and review</change>
-<change when="2019-09" who="#csls">Transcription</change>
+<change when="2021-07" who="#kln">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -126,54 +124,106 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="290"/>
+<pb n="404"/>
 
-<note>Department of State Received Apr 13 1878</note>
+<p>No 6 U.S. Consulate at Sierra Leone Oct 27th 1879</p>
 
-<note>No 25.</note>
+<p>Mr J A Lewis to Dept of State</p>
 
-<p>United States Consulate 
-at Sierra Leone<lb/>
-6th March 1878</p>
+<p>Amount of Rain Fall in Sierra Leone
+Comparative Statement showing the
+"Rain Fall" in inches for each quarter
+of the years 1877-1878-1879</p>
 
-<p>Mr. W. H. Randall<lb/>
-to Department of State</p>
+<pb n="405"/>
 
-<p>Subject</p>
+<p>No 6 U.S. Consulate at Sierra Leone<lb/>
+October 27th 1879</p>
 
-<p>Statement of Fees received during year 
-ending 31st december 1877</p>
+<p>Hon F. W. Seward<lb/>
+Ass't Sect'y of State<lb/>
+Washington D.C.</p>
 
-<pb n="291"/>
+<p>Sir:</p>
 
-<note>No 25.</note>
+<p>I have the honor
+to forward you herewith a Comparative
+Statement showing the 
+Rain Fall in Sierra Leone during
+each quarter of the years 1877,
+1878 and 1879</p>
 
-<p>United States Consulate 
-at Sierra Leone 
-March 6th 1878</p>
+<p>Rain Fall in Sierra Leone</p>
 
-<p>The honorable F. W. Seward<lb/>
-Assistant Secretary of State<lb/>
-Washington, D.C.</p>
+<table>
+<row>
+<cell>Period</cell>
+<cell>Quantity in inches.</cell>
+</row>
+<row>
+<cell/>
+<cell>1877.</cell>
+<cell>1878.</cell>
+<cell>1879.</cell>
+</row>
+<row>
+<cell>Jan. to March</cell>
+<cell>2.02</cell>
+<cell>3.01</cell>
+<cell>5.18</cell>
+</row>
+<row>
+<cell>April to June</cell>
+<cell>26.39</cell>
+<cell>32.02</cell>
+<cell>36.88</cell>
+</row>
+<row>
+<cell>July to Sept.</cell>
+<cell>70.58</cell>
+<cell>101.74</cell>
+<cell>105.70</cell>
+</row>
+<row>
+<cell>Oct. to Dec.</cell>
+<cell>32.61</cell>
+<cell>26.37</cell>
+<cell/>
+</row>
+<row>
+<cell>Total</cell>
+<cell>131.60</cell>
+<cell>163.14</cell>
+<cell/>
+</row>
+</table>
 
-<p>Sir,</p>
+<p><sic>Free town</sic> is so situated as regards
+<unclear extent="one word"/> and the drains are so
+well arranged that this immense 
 
-<p>I have the honor to 
-forward enclosed statement of fees 
-taken at this consulate during the 
-year ending December 1877.</p>
+<pb n="406"/>
 
-<p>I am Sir<lb/>
-Your obedient Servant<lb/>
-W H Randall<lb/>
-Consul</p>
+amount of water is readily
+conveyed to the sea without
+doing any damage.</p>
 
-<p>(Seal)</p>
+<p>The Health of the Colony
+during the past rainy season
+has been remarkably good
+the Temperature ranging from
+76° to 86° in the Shade.</p>
 
-<p>Inclosure</p>
+<p>I transmit herewith one Inclosure
+<del>with</del> tabulated statement of Rain
+Fall as above.</p>
 
-<p>Statement of fee for year commencing 
-1st January and ending 31st december 1877</p>
+<p>I am Sir Very Respectfully<lb/>
+Your Obt Servant<lb/>
+J. A. Lewis<lb/>
+U.S. Consul</p>
+
+<p>One Enclosure</p>
 
 </div1>
 
