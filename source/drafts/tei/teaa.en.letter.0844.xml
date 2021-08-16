@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0828">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0844">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Judson A. Lewis to Frederick W. Seward, December 7, 1879</title>
+<title>Official Gazette, April 20, 1880</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0828</idno>
+<idno type="project">teaa.en.letter.0844</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Judson A. Lewis to Frederick W. Seward, December 7, 1879</title>
+<title level="a">Official Gazette, April 20, 1880</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-438, Roll 1</biblScope>
-<date when="1879-12-07">December 7, 1879</date>
+<date when="1880-04-20">April 20, 1880</date>
 </bibl>
 </sourceDesc>
 
@@ -71,15 +71,17 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Bushnell, Albert</term>
+<term>Griffith, T. Risely</term>
+<term>John, Simeon Hemmings</term>
+<term>Tobey, Marcellus William</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Sierra Leone</term>
 </keywords>
     
 <keywords scheme="original" n="empires">
-<term/>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -98,16 +100,16 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Lewis, Judson A.</persName>
-<roleName>U.S. Consul</roleName>
+<persName/>
+<roleName/>
 <placeName>Sierra Leone</placeName>
-<date when="1879-12-07"/>
+<date when="1880-04-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
-<roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
-<date when="1880-01-06"/>
+<persName/>
+<roleName/>
+<placeName/>
+<date/>
 <date/>
 </correspAction>
 </correspDesc>
@@ -115,7 +117,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2021-07" who="#kln">Transcription and encoding.</change>
+<change when="2021-08" who="#kln">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -125,49 +127,25 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="413"/>
+<pb n="478"/>
 
-<note>Department of State Received Jan 6 1880</note>
+<p>Official Gazette.</p>
 
-<p>No 9 U.S. Consulate Sierra Leone<lb/>
-Judson A. Lewis To Dept State</p>
+<p>His Excellency the Governor-in-Chief has been
+pleased to recognize Mr. Marcellus William
+Tobey provisionally to act as Vice-Consul for the
+United States in Sierra Leone, pending the receipt
+of Her Majesty's Exequatur.</p>
 
-<p>Death of Dr Albert Bushnell
-D.D. Commercial Agent
-at Gaboon</p>
+<p>By His Excellency's Command,<lb/>
+T. Risely Griffith,<lb/>
+Colonial Secretary &amp; Treasurer.</p>
 
-<pb n="414"/>
+<p>Colonial Secretariat &amp; Treasury,<lb/>
+Sierra Leone,<lb/>
+20th April, 1880.</p>
 
-<note>No 9</note>
-
-<p>US Consulate at
-Sierra Leone Dec. 7th 1879</p>
-
-<p>Hon F. W Seward<lb/>
-Asst Secty of State<lb/>
-Washington D.C.</p>
-
-<p>Sir:</p>
-
-<p>I have to inform
-you of the Death of Revd
-Albert Bushnell D.D.
-on the evening of Dec 2nd on
-board the Steamer <unclear>Dubriz</unclear>
-soon after arrival in this
-Harbor. Cause of death Bronchitis
-and congestion of Lungs.</p>
-
-<p>The funeral took place at 4
-o'clock on the evening of the 3rd
-The Flags of this Consulate and of an
-American Vessel in harbor were
-displayed at Half mast through
-out the day.</p>
-
-<p>Very Truly Your Obt Servt<lb/>
-Judson A Lewis<lb/>
-U.S. Consul</p>
+<p>Printed by Simeon Hemmings John, Acting Government Printer.</p>
 
 </div1>
 
