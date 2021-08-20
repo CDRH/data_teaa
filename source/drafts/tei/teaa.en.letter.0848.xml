@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0847">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0848">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Marcellus William Tobey to John Hay, May 24, 1880</title>
+<title>Dispatch from Judson A. Lewis to John Hay, June 5, 1880</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0847</idno>
+<idno type="project">teaa.en.letter.0848</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Marcellus William Tobey to John Hay, May 24, 1880</title>
+<title level="a">Dispatch from Judson A. Lewis to John Hay, June 5, 1880</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-438, Roll 1</biblScope>
-<date when="1880-05-24">May 24, 1880</date>
+<date when="1880-06-01">June 5, 1880</date>
 </bibl>
 </sourceDesc>
 
@@ -59,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,38 +71,21 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Amurat</term>
-<term>Brama, Sanky</term>
-<term>Fisher</term>
-<term>Lardner, W.</term>
-<term>Lewis, Judson A.</term>
-<term>Macaulay, Kenneth</term>
-<term>Mahomodu, Alimamie Dalla</term>
-<term>McVicar, William</term>
-<term>Randall</term>
+<term ref="http://viaf.org/viaf/18600856">Shufeldt, Robert Wilson, 1822-1895</term>
+<term>Wood, Arthur B.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Conta (Sierra Leone)</term>
-<term>Ferighna (Sierra Leone)</term>
-<term>Fouricaria</term>
-<term>Malicourie</term>
-<term>Mandingo Country</term>
-<term>Matacong Island</term>
-<term>Moribah</term>
+<term>Liberia</term>
 <term>Sierra Leone</term>
-<term>Soombia Country</term>
-<term>Tanani</term>
 </keywords>
     
 <keywords scheme="original" n="empires">
-<term>France</term>
-<term>Great Britain</term>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term>Soombia Soosoos</term>
-<term>Tura Family</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -117,18 +100,16 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Tobey, Marcellus William</persName>
-<roleName>U.S. Vice Consul</roleName>
+<persName>Lewis, Judson A.</persName>
+<roleName>U.S. Consul</roleName>
 <placeName>Brooklyn, New York</placeName>
-<date when="1880-05-24"/>
+<date when="1880-06-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington, D.C.</placeName>
-<date when="1880-06-26"/>
-<date/>
-<date/>
+<date when="1880-06-07"/>
 </correspAction>
 </correspDesc>
 
@@ -144,6 +125,52 @@
 <body>
 
 <div1 xml:lang="en" type="document">
+
+<pb n="512"/>
+
+<note>Department of State Received Jun 7 1880</note>
+
+<p>34 Smith St Brooklyn June 5th 1880</p>
+
+<p>J. A. Lewis To Dept State</p>
+
+<p>Transmitting Dispatch on American
+Trade West Coast Africa
+and recommendation for
+reclassification of Consulate</p>
+
+<pb n="513"/>
+
+<p>34 Smith St Brooklyn N.Y.<lb/>
+June 5th 1880</p>
+
+<p>Hon John Hay<lb/>
+Asst Secty State<lb/>
+Washington D.C.</p>
+
+<p>Sir</p>
+
+<p>I have the
+honor to transmit<del>t</del> herewith 
+Dispatch on "The American
+trade on the West Coast 
+of Africa &amp; how the same
+may be increased,"
+together with a recommendation
+that the Consulate at
+Sierra Leone be placed in
+"Class C," duly endorsed
+by a goodly number of
+solid merchants &amp; shippers
+together with two Bank Presidents.
+The list of signers might have 
+been greatly extended but I 
+consider the number sufficient.</p>
+
+<p>I have the honor to remain<lb/>
+Sir Your Obt Servt<lb/>
+Judson A Lewis<lb/>
+U S Consul</p>
 
 <pb n="497"/>
 
@@ -375,7 +402,198 @@ is no doubt a very important
 one and will repay
 the Government many fold.
 And I would recommend
-that an American </p>
+that an American Man of
+War should be allowed to 
+visit the West Coast of Africa
+from time to time in the interest
+not of war but of commerce
+with special instructions to
+study up the needs of the various
+markets and report accordingly
+and to these American Men
+of War thus cruising along 
+<catchwords>the</catchwords>
+
+<pb n="506"/>
+
+the coast the U.S. Consul
+could be of very great
+service. in this way the
+consumer abroad and
+the manufacturer at home
+could be made acquainted
+with each others wants and 
+the Government <sic>benefitted</sic>
+in many ways.</p>
+
+<p>Another method of opening
+up new trade would be to
+establish a Commercial depot
+at some point on the coast
+where samples of goods should
+be kept for inspection.</p>
+
+<p>This could be done by the
+Government and merchants
+together. The Government
+furnishing the man in charge
+who could be a government
+official and who might give
+records for the faithful and honest
+performance of his duty in
+which case merchants would
+no doubt furnish samples of
+their goods free, depending on
+future orders for their remunerative
+it would in other words be
+<catchwords>opening</catchwords>
+
+<pb n="507"/>
+
+opening of an Exposition where
+all merchants and travellers as
+they pass up and down the
+coast could inspect free 
+of charge the goods, and give 
+their orders. in other words
+this would be the American
+Market to which all merchants
+north &amp; south at very little
+expense could come for their
+supplies, instead of visiting
+New York Boston Philadelphia
+Baltimore and Chicago (which is impossible)
+for their goods. They
+would find nearly as favorable
+a chance to select goods near
+at home and the Government
+could assist in an enterprise
+of this kind and the merchants
+combined would do the 
+balance.</p>
+
+<p>Again as I have already
+said in a former dispatch
+merchants who desire to extend
+their trade abroad ought to
+evince a little more liberality
+than heretofore in discounts on
+sample goods and I have no 
+<catchwords>doubt</catchwords>
+
+<pb n="508"/>
+
+doubt they would if the subject
+matter was properly brought
+to their notice and they could 
+be assured that their goods
+were placed in the hands of
+honest men and especially,
+authorized officials of the United
+States Government.</p>
+
+<p>Transportation is a very important
+matter to be considered
+in this connection without
+which the finest schemes and
+plans are comparatively worthless.
+when samples of goods
+have been shown and are
+accepted and orders given for
+them, then transportation must
+be at command to place <del>in</del>
+the articles in the market. at 
+present the only direct communication
+is by sailing
+vessels from New York and 
+Boston. It would seem that 
+the time is not far distant
+when a line of American
+Steamers sailing from New York
+to Madeira, Canary Islands, the 
+Gambia, Sierra Leone, Liberia
+<catchwords>and</catchwords>
+
+<pb n="509"/>
+
+and so on down the West
+Coast will present a <unclear>field</unclear>
+sufficiently investing for capitalists
+to safely and profitably engage
+in. This is possibly an
+enterprise in which the Government 
+could render
+valuable assistance.</p>
+
+<p>I am Sir<lb/>
+Your Obt Servt<lb/>
+Judson A. Lewis<lb/>
+U S Consul</p>
+
+<pb n="510"/>
+
+<note>Department of State Received Jun 7 1880</note>
+
+<p>New York June 2nd 1880.</p>
+
+<p>Hon John Hay<lb/>
+Asst Secty of State<lb/>
+Washington D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the
+honor respectfully to recommend
+to the Department that
+the Consulate at Sierra Leone 
+West Coast of Africa be
+reclassified and placed
+in class "C."</p>
+
+<p>Sierra Leone is one of the 
+most important Military, 
+Naval and trading stations
+on the West Coast and I believe
+it would be for the best
+interest of American Commerce
+that this action be taken at
+least temporarily as an
+experiment.</p>
+
+<p>I have the honor to
+remain Sir<lb/>
+Your Most Obt Servt<lb/>
+Judson A. Lewis<lb/>
+U.S. Consul</p>
+
+<pb n="511"/>
+
+<p>We whose names are
+hereto subscribed heartily
+endorse the above
+recommendation of
+Judson A. Lewis knowing 
+him to be a worthy man
+and an energetic worker
+in whatever he undertakes</p>
+
+<p>Yates &amp; Porterfield 115 Wall St<lb/>
+B. F. Metcalf &amp; Co 120 Wall St<lb/>
+<unclear extent="one name"/> &amp; Co 57 South St<lb/>
+<unclear extent="one name"/> Peters 53 "<lb/>
+Nesmith <unclear extent="middle initial"/> Jones 28 South St<lb/>
+<unclear extent="one name"/> &amp; Co 34 &amp; 35 South St<lb/>
+<unclear>Gilcherst</unclear> <unclear extent="one name"/> &amp; Co 36 South St<lb/>
+Parsons &amp; <unclear>Loud</unclear> 50 South St<lb/>
+Snow &amp; Burgess 66 " "<lb/>
+<unclear extent="one name"/> 78 Wall St<lb/>
+R. B. Hinman 78 <unclear extent="address"/><lb/>
+John T <unclear>Nelson</unclear> 78 <unclear>Fulton</unclear> NY<lb/>
+John N Quick 80 Wall St N.Y.<lb/>
+<unclear extent="one name"/> 33 <unclear extent="address"/><lb/>
+<unclear extent="one name"/> 33 Wall St<lb/>
+<unclear extent="one name"/> 113 Wall St<lb/>
+Whitlock Stover &amp; Co 115 Wall St</p>
 
 </div1>
 
