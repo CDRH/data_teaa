@@ -36,3 +36,15 @@ If you have made a lot of changes, especially any file deletion, you should clea
 ```
 es_clear_index
 ```
+
+## Spreadsheets
+
+The personography and Images are populated via CSV's downloaded from Google Sheets: 
+
+### Images
+
+https://docs.google.com/spreadsheets/d/1KN06GKm2XucbCUl49alPFP89GUtJO6hTZ4fQ3urJZlE/edit#gid=0
+
+### Personography
+
+(link to come)
