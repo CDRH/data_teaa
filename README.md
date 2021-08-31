@@ -47,4 +47,4 @@ https://docs.google.com/spreadsheets/d/1KN06GKm2XucbCUl49alPFP89GUtJO6hTZ4fQ3urJ
 
 ### Personography
 
-(link to come)
+https://docs.google.com/spreadsheets/d/1-Nk0eIBSmQVvV1toGWyGS9Pg_ALbcyPqhE-5nZn1CkY/edit#gid=0
