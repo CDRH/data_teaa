@@ -17,6 +17,12 @@ class TeiToEs
     xpaths["ethnicgroup"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='ethnic_group'][1]/term"
     xpaths["religion"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='religion'][1]/term"
 
+    xpaths["places"] = [
+      "/TEI/teiHeader/profileDesc/textClass/keywords[@n='places']/term",
+      "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='sentBy']/placeName",
+      "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/placeName"
+    ]
+
     return xpaths
   end
 
