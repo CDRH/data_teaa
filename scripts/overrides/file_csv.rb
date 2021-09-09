@@ -14,33 +14,12 @@ class FileCsv < FileType
   end
 
   def row_to_es_gallery(header, row)
-    CsvToEsGallery.new(row, @options, @csv, self.self.filename(false)).json
+    CsvToEsGallery.new(row, @options, @csv, self.filename(false)).json
   end
 
   def row_to_es_personography(header, row)
     CsvToEsPersonography.new(row, @options, @csv, self.filename(false)).json
   end
-
-  # def transform_es
-  #     puts "transforming #{self.filename}"
-  #     es_doc = []
-  #     @csv.each do |row|
-  #       # include first row in personography, will use to generate "all personography" record
-  #       if self.filename(false) == "personography"
-  #         es_doc << row_to_es(@csv.headers, row)
-  #       # remove header row in all other csv's
-  #       else
-  #         if !row.header_row?
-  #           es_doc << row_to_es(@csv.headers, row)
-  #         end
-  #       end
-  #     end
-  #     if @options["output"]
-  #       filepath = "#{@out_es}/#{self.filename(false)}.json"
-  #       File.open(filepath, "w") { |f| f.write(pretty_json(es_doc)) }
-  #     end
-  #     es_doc
-  # end
 
   def build_html_from_csv
     # --- personography ---
@@ -74,9 +53,29 @@ class FileCsv < FileType
     
     # --- gallery ---
     elsif self.filename(false) == "gallery"
-      # currently not writing HTML and pulling 
-      # all data from api, will change to add 
-      # annotations
+      @csv.each_with_index do |row, index|
+        next if row.header_row?
+        builder = Nokogiri::XML::Builder.new do |xml|
+          # Reading in annotations
+          annotation_id = row["identifier"]
+          annotation_path = "source/gallery_html/#{annotation_id}.html"
+          annotation_data = (File.exist?(annotation_path))  ? File.read(annotation_path) : ''
+
+          xml.div(class: "main_content") {
+            xml.ul {
+              xml.li(row["identifier"])
+            }
+
+            if annotation_data != '' 
+              xml.div {
+                xml.h3('Annotations')
+                xml << annotation_data
+              }
+            end
+          }
+        end
+        write_html_to_file(builder, row["identifier"])
+      end
     else 
       # do nothing
     end

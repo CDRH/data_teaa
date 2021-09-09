@@ -3,6 +3,16 @@ class CsvToEsPersonography < CsvToEs
   # and be sure to either use the _d, _i, _k, or _t to use the correct field type
 
   ##########
+  # Filed Builders #
+  ##########
+
+  def array_to_string (array,sep)
+    return array.map { |i| i.to_s }.join(sep)
+  end
+
+
+
+  ##########
   # FIELDS #
   ##########
   # Original fields:
@@ -17,7 +27,26 @@ class CsvToEsPersonography < CsvToEs
   end
 
   def date_display
-    "date"
+    built_date_display = Array.[]
+    built_date_display << @row["birth"]
+    built_date_display << @row["Death"]
+    return array_to_string(built_date_display," - ")
   end
-  
+
+  def title
+    built_title = Array.[]
+    built_title << @row["fullname"]
+    built_title << "(Person)"
+    return array_to_string(built_title," ")
+  end
+
+  def text
+    built_text = Array.[]
+    built_text << @row["fullname"]
+    built_text << @row["surname"]
+    built_text << @row["forename"]
+    built_text << @row["occupation"]
+    return array_to_string(built_text," ")
+  end
+
 end
