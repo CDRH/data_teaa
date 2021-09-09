@@ -1,3 +1,5 @@
+
+
 class CsvToEs
   # Note to add custom fields, use "assemble_collection_specific" from request.rb
   # and be sure to either use the _d, _i, _k, or _t to use the correct field type
@@ -10,23 +12,20 @@ class CsvToEs
 
   # --- personography ---
   if @filename == "personography"
-    def id
-      @row["identifier"]
-    end
-  
-    def category
-      "Personography"
-    end
+
+      def category
+        "Personography"
+      end
 
   # --- gallery ---
-  elsif @filename == "gallery"
+  elsif @filename.to_s.include?("gallery")
 
     def id
       @row["identifier"]
     end
   
     def category
-      "Gallery"
+      @filename
     end
 
     def subcategory
@@ -40,5 +39,11 @@ class CsvToEs
   else 
     # do nothing
   end
-  
+
+    def subcategory
+      @filename.to_s
+    end
+
+
+
 end
