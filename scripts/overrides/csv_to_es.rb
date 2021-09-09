@@ -8,19 +8,37 @@ class CsvToEs
   # Original fields:
   # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
 
-  def id
-    @row["identifier"]
-  end
+  # --- personography ---
+  if @filename == "personography"
+    def id
+      @row["identifier"]
+    end
+  
+    def category
+      "Personography"
+    end
 
-  def category
-    "Gallery"
-  end
+  # --- gallery ---
+  elsif @filename == "gallery"
 
-  def subcategory
-    @row["subtype"].capitalize()
-  end
+    def id
+      @row["identifier"]
+    end
+  
+    def category
+      "Gallery"
+    end
 
-  def date_display
-    @row["date"]
+    def subcategory
+      @row["subtype"].capitalize()
+    end
+
+    def date_display
+      @row["date"]
+    end
+
+  else 
+    # do nothing
   end
+  
 end
