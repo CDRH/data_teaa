@@ -3,7 +3,7 @@ class CsvToEsPersonography < CsvToEs
   # and be sure to either use the _d, _i, _k, or _t to use the correct field type
 
   ##########
-  # Filed Builders #
+  # Field Builders #
   ##########
 
   def array_to_string (array,sep)
@@ -43,7 +43,7 @@ class CsvToEsPersonography < CsvToEs
     return array_to_string(built_title," ")
   end
 
-
+  # Notes for fields to add later
   # id [done]
   # fullname (person, selected_people)
   # match [skip]
@@ -57,9 +57,6 @@ class CsvToEsPersonography < CsvToEs
   # residence (other)  (html)
   # occupation  (html)
   # VIAF  (html)
-
-
-
 
   def text
     built_text = Array.[]

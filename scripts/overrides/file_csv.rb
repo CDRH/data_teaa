@@ -28,12 +28,19 @@ class FileCsv < FileType
       # file write for whole personography
       builder = Nokogiri::XML::Builder.new do |xml|
         xml.div(class: "main_content") {
-          xml.ul {
-            @csv.each_with_index do |row, index|
-              next if row.header_row?
-              xml.li(row["id"])
-            end
-          }
+          @csv.each_with_index do |row, index|
+            next if row.header_row?
+            name = row["fullname"] ? row["fullname"] : "#{row["forename"]}, #{row["surname"]}"
+
+            xml.div() {
+              xml.h2(name)
+              xml.ul {
+                @csv.headers.each do |header|
+                  xml.li("#{header}: #{row[header]}")
+                end
+              }
+            }
+          end
         }
       end
       write_html_to_file(builder, "personography")

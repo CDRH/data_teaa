@@ -42,8 +42,6 @@ class CsvToEsGallery < CsvToEs
     end
   end
 
-
-
   #theme
 
   def text
