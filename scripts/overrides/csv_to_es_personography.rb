@@ -33,11 +33,19 @@ class CsvToEsPersonography < CsvToEs
 
   def title
     built_title = Array.[]
+    built_name = ""
+    built_name << @row["surname"].to_s
+    if not(@row["forename"].to_s.empty?) || not(@row["forename"].nil?)
+      built_name << ", "
+    end
+    built_name << @row["forename"].to_s
+    if built_name.empty?
+      built_name << "no name in spreadsheet"
+    end
     if @row["fullname"]
-      
       built_title << @row["fullname"]
     else
-      built_title << "#{@row["forename"]}, #{@row["surname"]}"
+      built_title << built_name
     end
     built_title << "(Person)"
     return array_to_string(built_title," ")
