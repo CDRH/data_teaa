@@ -26,9 +26,23 @@ class CsvToEsGallery < CsvToEs
   end
 
   # person, creator.name
-  def person
-    @row["creator.name"]
+  def creator
+    if @row["creator.name"]
+      @row["creator.name"].split("; ").map do |p|
+        { "name" => p }
+      end
+    end
   end
+
+  def person
+    if @row["creator.name"]
+      @row["creator.name"].split("; ").map do |p|
+        { "name" => p }
+      end
+    end
+  end
+
+
 
   #theme
 

@@ -44,7 +44,11 @@ class FileCsv < FileType
         builder = Nokogiri::XML::Builder.new do |xml|
           xml.div(class: "main_content") {
             xml.ul {
-            xml.li(row["id"])
+              @csv.headers.each do |header|
+                if header != '' && header != nil
+                  xml.li("#{header}: #{row[header]}")
+                end
+              end
             }
           }
         end
@@ -55,6 +59,10 @@ class FileCsv < FileType
     elsif self.filename(false) == "gallery"
       @csv.each_with_index do |row, index|
         next if row.header_row?
+
+        img_path = File.join(@options["media_base"],
+        "iiif/2", "teaa%2F#{row["identifier"]}.jpg", "full", "!800,800", "0/default.jpg")
+
         builder = Nokogiri::XML::Builder.new do |xml|
           # Reading in annotations
           annotation_id = row["identifier"]
@@ -62,9 +70,8 @@ class FileCsv < FileType
           annotation_data = (File.exist?(annotation_path))  ? File.read(annotation_path) : ""
 
           xml.div(class: "main_content") {
-            xml.ul {
-              xml.li(row["identifier"])
-            }
+
+            xml.img(src: img_path){}
 
             if annotation_data != ""
               xml.div {

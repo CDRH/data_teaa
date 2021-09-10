@@ -9,9 +9,7 @@ class CsvToEsPersonography < CsvToEs
   def array_to_string (array,sep)
     return array.map { |i| i.to_s }.join(sep)
   end
-
-
-
+  
   ##########
   # FIELDS #
   ##########
@@ -35,7 +33,12 @@ class CsvToEsPersonography < CsvToEs
 
   def title
     built_title = Array.[]
-    built_title << @row["fullname"]
+    if @row["fullname"]
+      
+      built_title << @row["fullname"]
+    else
+      built_title << "#{@row["forename"]}, #{@row["surname"]}"
+    end
     built_title << "(Person)"
     return array_to_string(built_title," ")
   end
