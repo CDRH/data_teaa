@@ -59,16 +59,16 @@ class FileCsv < FileType
           # Reading in annotations
           annotation_id = row["identifier"]
           annotation_path = "source/gallery_html/#{annotation_id}.html"
-          annotation_data = (File.exist?(annotation_path))  ? File.read(annotation_path) : ''
+          annotation_data = (File.exist?(annotation_path))  ? File.read(annotation_path) : ""
 
           xml.div(class: "main_content") {
             xml.ul {
               xml.li(row["identifier"])
             }
 
-            if annotation_data != '' 
+            if annotation_data != ""
               xml.div {
-                xml.h3('Annotations')
+                xml.h3("Annotations")
                 xml << annotation_data
               }
             end

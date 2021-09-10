@@ -40,6 +40,24 @@ class CsvToEsPersonography < CsvToEs
     return array_to_string(built_title," ")
   end
 
+
+  # id [done]
+  # fullname (person, selected_people)
+  # match [skip]
+  # surname (text)
+  # forename (text)
+  # birth (date, html)
+  # birth - placename (html)
+  # Death (date, html)
+  # death - placename (html)
+  # residence (africa)  (html)
+  # residence (other)  (html)
+  # occupation  (html)
+  # VIAF  (html)
+
+
+
+
   def text
     built_text = Array.[]
     built_text << @row["fullname"]
