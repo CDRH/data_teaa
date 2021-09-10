@@ -21,6 +21,24 @@ class FileCsv < FileType
     CsvToEsPersonography.new(row, @options, @csv, self.filename(false)).json
   end
 
+  def transform_es
+    puts "transforming #{self.filename}"
+    es_doc = []
+    if self.filename(false) == "personography"
+
+    end
+    @csv.each do |row|
+      if !row.header_row?
+        es_doc << row_to_es(@csv.headers, row)
+      end
+    end
+    if @options["output"]
+      filepath = "#{@out_es}/#{self.filename(false)}.json"
+      File.open(filepath, "w") { |f| f.write(pretty_json(es_doc)) }
+    end
+    es_doc
+  end
+
   def build_html_from_csv
     # --- personography ---
     if self.filename(false) == "personography"
@@ -57,6 +75,7 @@ class FileCsv < FileType
                 end
               end
             }
+            xml.h2("List of files person is mentioned in will go here")
           }
         end
         write_html_to_file(builder, row["id"])
