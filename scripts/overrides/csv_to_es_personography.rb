@@ -9,12 +9,33 @@ class CsvToEsPersonography < CsvToEs
   def array_to_string (array,sep)
     return array.map { |i| i.to_s }.join(sep)
   end
+
+  def build_name
+    built_fullname = Array.[]
+    if @row["fullname"]
+      built_fullname << @row["fullname"]
+    else
+      built_fullname << @row["surname"].to_s
+      if not(@row["forename"].to_s.empty?) || not(@row["forename"].nil?)
+        built_fullname << ", "
+      end
+      built_fullname << @row["forename"].to_s
+      if built_fullname.empty?
+        built_fullname << "no name in spreadsheet"
+      end
+    end
+    return array_to_string(built_fullname,"")
+  end
   
   ##########
   # FIELDS #
   ##########
   # Original fields:
   # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
+
+  def assemble_collection_specific
+    @json["person_selected_k"] = build_name
+  end
 
   def category
     "People"
@@ -32,23 +53,7 @@ class CsvToEsPersonography < CsvToEs
   end
 
   def title
-    built_title = Array.[]
-    built_name = ""
-    built_name << @row["surname"].to_s
-    if not(@row["forename"].to_s.empty?) || not(@row["forename"].nil?)
-      built_name << ", "
-    end
-    built_name << @row["forename"].to_s
-    if built_name.empty?
-      built_name << "no name in spreadsheet"
-    end
-    if @row["fullname"]
-      built_title << @row["fullname"]
-    else
-      built_title << built_name
-    end
-    built_title << "(Person)"
-    return array_to_string(built_title," ")
+    return "#{build_name} (Person)"
   end
 
   # Notes for fields to add later
