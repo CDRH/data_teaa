@@ -6,12 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton to the Assistant Secretary of State, January 15, 1884</title>
+<title>Despatch from Robert S. Newton to John Davis, January 15, 1884</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Brown, Sophie" xml:id="sab">Sophie A. Brown</name>
-
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Robert S. Newton to the Assistant Secretary of State</title>
+<title level="a">Despatch from Robert S. Newton to John Davis</title>
 <title level="m" type="microformat">Despatches from United States Consuls in St Paul Loanda</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">Roll 4</biblScope>
@@ -72,14 +72,23 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Pevart, Francisco Markins</term>
-<term>du Verge, L de R</term>
+<term ref="http://viaf.org/viaf/5711584">Goldsmid, F. J. (Frederic John), 1818-1908</term>
+<term>Swart, Francisco Martens</term>
+<term>Verge, Louis Astyanax de Rathier du</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Loanda</term>
+<term>Banana (Congo)</term>
+<term>Lisbon (Portugal)</term>
+<term>Vivi (Congo)</term>
 </keywords>
     
+<keywords scheme="original" n="empires">
+<term>Belgium</term>
+<term>Great Britain</term>
+<term>Portugal</term>
+<term>Spain</term>
+</keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
@@ -93,20 +102,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Robert S. Newton</persName>
-<roleName>U.S. Vice Consul</roleName>
-<placeName>St Paul de Loanda</placeName>
+<persName>Newton, Robert Scott</persName>
+<roleName>U.S. Vice Counsel</roleName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
+<date when="1884-01-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
+<persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington</placeName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2021-09" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
 </teiHeader>
@@ -135,9 +146,9 @@ charge of the Consulate, I have to
 acknowledge the receipt of your
 despatch No 20 of the 26th October
 last, informing Mr du Verge that his
-nomination of Francisco <unclear>Marhus</unclear> Pivart
+nomination of Francisco Martens Swart
 as Vice Consul to succeed me has been 
-approved, and enclosing a black form
+approved, and enclosing a blank form
 of bond which should be executed and 
 <catchwords>returned</catchwords>
 
@@ -165,12 +176,12 @@ for such ulterior measures as may be
 deemed fit.</p>
 
 <p>Having thus become acquainted with 
-the
+<catchwords>the</catchwords>
 
 <pb n="Scan30008"/>
 
 the fact of being suspended without
-having rendered my resignation, or
+having tendered my resignation, or
 informed in anyway by Mr du Verge
 of his having nominated Mr Swart
 to fulfil the duties of Vice Consul&#8212;an
@@ -205,7 +216,7 @@ have to submit whether, conformably
 with official procedure, and as a matter
 of personal satisfaction, the Department
 will not, prior to re-confirming
-Mr. Swart's nomination, transmit to 
+Mr Swart's nomination, transmit to 
 me a copy of Mr du Verge's despatch or despatches
 on the subject, in order that I may
 offer such explanations as the case
@@ -243,9 +254,9 @@ consideration or respect either of the
 
 Governor General of this Province or
 of the higher class of inhabitants of
-this town.</p>
+this town</p>
 
-<p>I  have the honor to be<lb/>
+<p>I have the honor to be<lb/>
 Sir<lb/>
 Your Obedient Servant<lb/>
 Robt S. Newton<lb/>
@@ -256,6 +267,8 @@ Assistant Secretary of State<lb/>
 Washington</fw>
 
 <pb n="Scan30012"/> 
+
+<note>Copy</note>
 
 <p>United States Consulate<lb/>
 Banana, Congo<lb/>
@@ -270,10 +283,10 @@ St. Paul de Loanda</p>
 <p>I beg to acknowledge the receipt
 of your letter, and to thank you for
 all the letters and papers you have
-forwarded me since my departure.</p>
+forwarded me since my departure</p>
 
 <p>I would also state that I am
-learning for Europe and the United
+leaving for Europe and the United
 States by the first English or Portuguese
 mail steamer, according to leave of
 absence received from the Department
