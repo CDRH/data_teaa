@@ -7,11 +7,23 @@ class CsvToEsGallery < CsvToEs
     return array.map { |i| i.to_s }.join(sep)
   end
 
+  def build_image_id
+    built_image_id = []
+    built_image_id << @row["identifier"]
+    built_image_id << ".jpg"
+    return array_to_string(built_image_id,"")
+  end
+
+
   ##########
   # FIELDS #
   ##########
   # Original fields:
   # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
+
+  def image_id
+    build_image_id
+  end
 
   def category
       "Gallery"
@@ -51,7 +63,6 @@ class CsvToEsGallery < CsvToEs
     annotation_text = Nokogiri::HTML(annotation_data).text.gsub(/\n/," ")
 
     built_text = []
-    #todo: add more text to fields
 
     @row.each do |key, value|
       built_text << value.to_s.gsub('"',"")
