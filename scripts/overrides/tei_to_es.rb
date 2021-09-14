@@ -23,6 +23,9 @@ class TeiToEs
       "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/placeName"
     ]
 
+    xpaths["recipient"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/persName"
+    xpaths["person"] = "//persName"
+
     return xpaths
   end
 
@@ -40,6 +43,10 @@ class TeiToEs
     # change the resulting @json object here
   end
 
+  def array_to_string (array,sep)
+    return array.map { |i| i.to_s }.join(sep)
+  end
+
   ########################
   #    Field Builders    #
   ########################
@@ -47,6 +54,58 @@ class TeiToEs
   def assemble_collection_specific
     @json["ethnicgroup_k"] = get_list(@xpaths["ethnicgroup"])
     @json["religion_k"] = get_list(@xpaths["religion"])
+  end
+
+  def build_person_obj(personXml)
+    xmlid = personXml["id"]
+    pers_select = array_to_string(personXml.xpath("text()"),"") 
+    display_name = (pers_select == "") ? "unknown" : pers_select
+    {
+      "id" => xmlid,
+      "name" => display_name,
+      "role" => ""
+    }
+  end
+
+  # person is pulling fine without the code below, but the role is not populating. Given that we already have separate creator and recipient fields though, O am not sure it is necessary?
+
+  def person
+    list = []
+    people = @xml.xpath(@xpaths["person"])
+    people.each do |p|
+      personname = array_to_string(p.xpath("text()"),"")
+      # exclude blank people so there is no "unknown" or "No Label"
+      if personname != ""
+        person = build_person_obj(p)
+        # get parent element to determine the role
+        parent_type = p.parent["type"]
+        if parent_type
+          role = "recipient" if parent_type == "deliveredTo"
+          role = "creator" if parent_type == "sentBy"
+          person["role"] = role
+        end
+        list << person
+      end
+    end
+    return list.uniq
+  end
+
+  def recipient
+    list = []
+    people = @xml.xpath(@xpaths["recipient"])
+    people.each do |p|
+      person = build_person_obj(p)
+      # get parent element to determine the role
+      parent_type = p.parent["type"]
+      if parent_type
+        role = "recipient" if parent_type == "deliveredTo"
+        role = "creator" if parent_type == "sentBy"
+        person["role"] = role
+      end
+      list << person
+    end
+    return list.uniq
+
   end
 
 end
