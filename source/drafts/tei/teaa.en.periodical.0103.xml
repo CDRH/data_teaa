@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0093">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0103">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Missionary Review of the World, "Bishop William Taylor" (1889)</title>
+<title>The Missionary Review of the World, "Liberia College" (1882)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.periodical.0093</idno>
+<idno type="project">teaa.en.periodical.0103</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,10 +41,10 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main">Bishop William Taylor</title>
+<title level="a" type="main">Liberia College</title>
 <title level="j">The Missionary Review of the World</title>
-<date when="1889-03">March 1889</date>
-<biblScope unit="page">227</biblScope>
+<date when="1883-01">January 1883</date>
+<biblScope unit="page">64</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -56,7 +56,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Missionaries</term>
+<term>Commerce and Trade</term>
+<term>Emigration</term>
 </keywords>
  
 <keywords scheme="original" n="type">
@@ -68,11 +69,13 @@
 </keywords> 
  
 <keywords scheme="viaf" n="people">
-<term ref="http://viaf.org/viaf/10651368">Taylor, William, 1821-1902</term>
+<term ref="http://viaf.org/viaf/54942091">Blyden, Edward Wilmot, 1832-1912</term>
+<term ref="http://viaf.org/viaf/51080627">Browne, Hugh M. (Hugh Mason)</term>
+<term ref="http://viaf.org/viaf/17098270">Stewart, T. McCants (Thomas McCants), 1854?-1923</term>
 </keywords>
  
 <keywords scheme="original" n="places">
-<term>Greenville (Liberia)</term>
+<term>Monrovia (Liberia)</term>
 <term>New York (New York)</term>
 </keywords>
 
@@ -86,14 +89,14 @@
  
 <keywords scheme="original" n="religion">
 <term>African Methodist Episcopal</term>
+<term>Presbyterian</term>
 </keywords>
 
 </textClass>
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-11" who="#kln">metadata edits</change>
-<change when="2019-11-26" who="#kln">transcribed, encoded</change>
+<change when="2021-09" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -103,11 +106,14 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb n="p227"/>
+<pb n="p64"/>
 
-<p>Bishop William Taylor, now in his 68th year, left New York for a second four years' sojourn in Africa, December 1. Notwithstanding his age, he plunges into the wilds to accomplish a work sufficient to tax the physical energies of the strongest man, thirty years younger. Fevers, perils from the natives, a burning equatorial sun &#8212; these have no terrors for him. He is "moving out on the high lines of human impossibilities, trusting alone in Him with whom all things are possible," and he is strong in faith for the conversion of the heathen millions of the "Dark Continent." He was to preside over the annual Conference of the African Methodist Episcopal Church, at Greenville, Liberia, on January 10.</p>
+<p>Liberia College.&#8212;We are glad to see Dr. Blyden seems intent on promoting the efficiency of this college, at Monrovia. He is reported to have secured two able men, Rev. T. McCants Stewart, Pastor of the Bethel African M. E. Church in Sullivan street, New York, and Rev. H. M. Browne, to fill professorships. Mr. Browne, latterly supplying the late Dr. Garnet's Shiloh Presbyterian Church in Twenty-sixth street, New York, has also the appointment of U. S. Consul at Monrovia. We wish these brethren health and long years of service, with great success in training young Liberians for usefulness.</p>
+
+<p>Dr. Blyden, President of the College, reports increasing prosperity among the emigrants who have gone from this country, and speaks of the prospects of Liberia with much hopefulness. We notice that the bark Monrovia recently sailed from New York carrying some 50 emigrants. Of the increasing commercial interests of Liberia, we notice that the bark Monrovia, sailing thence the 14th of April last, brought 150,000 pounds of coffee, with a good supply of other products, and another American vessel was loading at the same time, to sail in a few days.</p>
 
 </div1>
+
 </body>
 </text>
 
