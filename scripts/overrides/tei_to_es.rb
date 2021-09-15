@@ -55,22 +55,6 @@ class TeiToEs
   ########################
   #    Field Builders    #
   ########################
-  
-  def build_selected_person
-    list = []
-    people_in_doc = @xml.xpath(@xpaths["person"])
-    people_in_doc.each do |p|
-      persname = p.xpath("text()").to_s
-      if persname != ""
-        row = @people.find { |row| row["fullname"].to_s == persname }
-        if row != nil
-          list << row["fullname"]
-        end
-        
-      end
-    end
-    return list
-  end
 
   def assemble_collection_specific
     @json["ethnicgroup_k"] = get_list(@xpaths["ethnicgroup"])
@@ -89,7 +73,21 @@ class TeiToEs
     }
   end
 
-  
+  def build_selected_person
+    list = []
+    people_in_doc = @xml.xpath(@xpaths["person"])
+    people_in_doc.each do |p|
+      persname = p.xpath("text()").to_s
+      if persname != ""
+        row = @people.find { |row| row["fullname"].to_s == persname }
+        if row != nil
+          list << row["fullname"]
+        end
+        
+      end
+    end
+    return list
+  end
 
   # person is pulling fine without the code below, but the role is not populating. Given that we already have separate creator and recipient fields though, O am not sure it is necessary?
 
@@ -98,7 +96,7 @@ class TeiToEs
     people = @xml.xpath(@xpaths["person"])
     people.each do |p|
       personname = array_to_string(p.xpath("text()"),"")
-      # exclude blank people so there is no "unknown" or "No Label"
+      # exclude blank people so there is no "unknown" or "No"
       if personname != ""
         person = build_person_obj(p)
         # get parent element to determine the role
