@@ -39,8 +39,13 @@ class TeiToEs
   end
 
   # do something after pulling the fields
-  def postprocessing
-    # change the resulting @json object here
+  def preprocessing
+    file_location = File.join(@options["collection_dir"], "source/csv/personography.csv")
+    @people = CSV.read(file_location, {
+      encoding: "utf-8",
+      headers: true,
+      return_headers: true
+    })
   end
 
   def array_to_string (array,sep)
@@ -50,10 +55,27 @@ class TeiToEs
   ########################
   #    Field Builders    #
   ########################
+  
+  def build_selected_person
+    list = []
+    people_in_doc = @xml.xpath(@xpaths["person"])
+    people_in_doc.each do |p|
+      persname = p.xpath("text()").to_s
+      if persname != ""
+        row = @people.find { |row| row["fullname"].to_s == persname }
+        if row != nil
+          list << row["fullname"]
+        end
+        
+      end
+    end
+    return list
+  end
 
   def assemble_collection_specific
     @json["ethnicgroup_k"] = get_list(@xpaths["ethnicgroup"])
     @json["religion_k"] = get_list(@xpaths["religion"])
+    @json["person_selected_k"] = build_selected_person
   end
 
   def build_person_obj(personXml)
@@ -66,6 +88,8 @@ class TeiToEs
       "role" => ""
     }
   end
+
+  
 
   # person is pulling fine without the code below, but the role is not populating. Given that we already have separate creator and recipient fields though, O am not sure it is necessary?
 
