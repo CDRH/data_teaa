@@ -48,38 +48,39 @@ class FileCsv < FileType
     if self.filename(false) == "personography"
 
       # file write for whole personography
-      builder = Nokogiri::XML::Builder.new do |xml|
-        xml.div(class: "main_content") {
-          @csv.each_with_index do |row, index|
-            next if row.header_row?
-            name = row["fullname"] ? row["fullname"] : "#{row["forename"]}, #{row["surname"]}"
+      # builder = Nokogiri::XML::Builder.new do |xml|
+      #   xml.div(class: "main_content") {
+      #     @csv.each_with_index do |row, index|
+      #       next if row.header_row?
+      #       name = row["fullname"] ? row["fullname"] : "#{row["forename"]}, #{row["surname"]}"
 
-            xml.div() {
-              xml.h2(name)
-              xml.ul {
-                @csv.headers.each do |header|
-                  xml.li("#{header}: #{row[header]}")
-                end
-              }
-            }
-          end
-        }
-      end
-      write_html_to_file(builder, "personography")
+      #       xml.div() {
+      #         xml.h2(name)
+      #         xml.ul {
+      #           @csv.headers.each do |header|
+      #             xml.li("#{header}: #{row[header]}")
+      #           end
+      #         }
+      #       }
+      #     end
+      #   }
+      # end
+      # write_html_to_file(builder, "personography")
 
       # file write for each person
       @csv.each_with_index do |row, index|
         next if row.header_row?
         builder = Nokogiri::XML::Builder.new do |xml|
           xml.div(class: "main_content") {
-            xml.ul {
+            # xml.ul {
               @csv.headers.each do |header|
                 if header != '' && header != nil
-                  xml.li("#{header}: #{row[header]}")
+                  xml.h3("#{header}")
+                  xml.p("#{row[header]}")
                 end
               end
-            }
-            xml.h2("List of files person is mentioned in will go here")
+            # }
+            
           }
         end
         write_html_to_file(builder, row["id"])
