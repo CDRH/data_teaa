@@ -10,21 +10,18 @@ class TeiToEs
     xpaths["subcategory"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subtype']/term"
     xpaths["language"] = "//langUsage/language/@ident"
     xpaths["publisher"] = "//div2[@type='bibliography']/bibl/publisher"
-
     xpaths["keywords"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='empires'][1]/term"
     xpaths["topics"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='theme'][1]/term"
-
     xpaths["ethnicgroup"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='ethnic_group'][1]/term"
     xpaths["religion"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='religion'][1]/term"
-
     xpaths["places"] = [
       "/TEI/teiHeader/profileDesc/textClass/keywords[@n='places']/term",
       "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='sentBy']/placeName",
       "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/placeName"
     ]
-
     xpaths["recipient"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/persName"
-    xpaths["person"] = "//persName"
+
+    xpaths["sender"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='sentBy']/persName"
 
     return xpaths
   end
@@ -60,6 +57,7 @@ class TeiToEs
     @json["ethnicgroup_k"] = get_list(@xpaths["ethnicgroup"])
     @json["religion_k"] = get_list(@xpaths["religion"])
     @json["person_selected_k"] = build_selected_person
+    @json["person_sender_k"] = build_sender
   end
 
   def build_person_obj(personXml)
@@ -75,59 +73,56 @@ class TeiToEs
 
   def build_selected_person
     list = []
-    people_in_doc = @xml.xpath(@xpaths["person"])
+    people_in_doc = get_list(@xpaths["person"])
     people_in_doc.each do |p|
-      persname = p.xpath("text()").to_s
-      if persname != ""
-        row = @people.find { |row| row["fullname"].to_s == persname }
+      if p != ""
+        row = @people.find { |row| row["fullname"].to_s == p }
         if row != nil
-          list << row["fullname"]
+          list << p
         end
-        
       end
     end
     return list
   end
 
-  # person is pulling fine without the code below, but the role is not populating. Given that we already have separate creator and recipient fields though, O am not sure it is necessary?
-
-  def person
+  def build_sender
     list = []
-    people = @xml.xpath(@xpaths["person"])
-    people.each do |p|
-      personname = array_to_string(p.xpath("text()"),"")
-      # exclude blank people so there is no "unknown" or "No"
-      if personname != ""
-        person = build_person_obj(p)
-        # get parent element to determine the role
-        parent_type = p.parent["type"]
-        if parent_type
-          role = "recipient" if parent_type == "deliveredTo"
-          role = "creator" if parent_type == "sentBy"
-          person["role"] = role
-        end
-        list << person
+    eles = get_elements(@xpaths["sender"]).map do |p|
+      persname = get_text(".", xml: p)
+      if persname != ""
+        list << persname
       end
     end
-    return list.uniq
+    list.uniq
+  end
+
+  def person
+    eles = get_elements(@xpaths["person"]).map do |p|
+      persname = get_text(".", xml: p)
+      if persname != ""
+        {
+          "id" => get_text("@id", xml: p),
+          "name" => persname,
+          "role" => get_text("@role", xml: p)
+          # not setting role currently, since we have separate receiver, sender, creator
+        }
+      end
+    end
+    eles.uniq
   end
 
   def recipient
-    list = []
-    people = @xml.xpath(@xpaths["recipient"])
-    people.each do |p|
-      person = build_person_obj(p)
-      # get parent element to determine the role
-      parent_type = p.parent["type"]
-      if parent_type
-        role = "recipient" if parent_type == "deliveredTo"
-        role = "creator" if parent_type == "sentBy"
-        person["role"] = role
+    eles = get_elements(@xpaths["recipient"]).map do |p|
+      persname = get_text(".", xml: p)
+      if persname != ""
+        {
+          "id" => get_text("@id", xml: p),
+          "name" => persname,
+          "role" => "recipient"
+        }
       end
-      list << person
     end
-    return list.uniq
-
+    eles.uniq
   end
 
 end
