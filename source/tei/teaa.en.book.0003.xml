@@ -44,9 +44,9 @@
 <bibl>
 <title level="a" type="main">An Open Letter to His Serene Majesty Leopold II, King of the Belgians and Sovereign of the Independent State of Congo by Colonel, the Honorable Geo. W. Williams, of the United States of America</title>
 <title level="m">Apropos of Africa: Sentiments of Negro American Leaders on Africa from the 1800s to the 1950s</title>
-<author n="Williams, George Washington, 1849-1891">George Washington Williams</author>
-<editor n="Kilson, Martin">Martin Kilson</editor>
-<editor n="Cromwell, Adeleide">Adeleide Cromwell</editor>
+<author ref="http://viaf.org/viaf/100373407">Williams, George Washington, 1849-1891</author>
+<editor>Kilson, Martin</editor>
+<editor>Cromwell, Adeleide</editor>
 <pubPlace>London</pubPlace>
 <publisher>Frank Cass &amp; Co. LTD.</publisher>
 <date when="1969">1969</date>
@@ -67,7 +67,7 @@
 </keywords>
     
 <keywords scheme="original" n="type">
-<term>Tests</term>
+<term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
@@ -81,7 +81,6 @@
 <term ref="http://viaf.org/viaf/264072032">Leopold II, King of the Belgians, 1835-1909</term>
 <term ref="http://viaf.org/viaf/27071894">Stanley, Henry M. (Henry Morton), 1841-1904</term>
 <term ref="http://viaf.org/viaf/1472156">Taft, Alphonso, 1810-1891</term>
-<term ref="http://viaf.org/viaf/100373407">Williams, George Washington, 1849-1891</term>
 </keywords>
     
 <keywords scheme="original" n="places">
@@ -143,11 +142,11 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p98" facs="teaa.en.book.0003.001.jpg"/>
+<pb n="p98"/>
 
 <div2 type="title">
 
-<p>George Washington Williams, 1849-1891</p>
+<head type="head">George Washington Williams, 1849-1891</head>
 
 </div2>
 
@@ -177,10 +176,14 @@ by the United States government to make an investigation
 of conditions in the Congo, and he was also at one time Minister
 to Haiti.</p>
 
-<p>An Open Letter to His Serene Majesty Leopold II, King
+</div2>
+
+<div2 type="body">
+
+<head type="sub">An Open Letter to His Serene Majesty Leopold II, King
 of the Belgians and Sovereign of the Independent
 State of Congo by Colonel, the Honorable Geo. W.
-Williams, of the United States of America</p>
+Williams, of the United States of America</head>
 
 <p>Good and Great Friend,</p>
 
@@ -188,7 +191,7 @@ Williams, of the United States of America</p>
 some reflections respecting the <sic>Independant</sic> State of Congo, based
 upon a careful study and inspection of the country and character of
 
-<pb xml:id="p99" facs="teaa.en.book.0003.002.jpg"/>
+<pb n="p99"/>
 
 the personal Government you have established upon the African
 Continent. . . .</p>
@@ -235,7 +238,7 @@ cap gun, tore the end of the paper which held the powder to
 the bullet, and poured the powder and paper into the gun, at the
 same time slipping the bullet into the sleeve of the left arm. A cap
 
-<pb xml:id="p100" facs="teaa.en.book.0003.003.jpg"/>
+<pb n="p100"/>
 
 was placed upon the nipple of the gun, and the black brother was
 implored to step off ten yards and shoot at his white brother to
@@ -259,8 +262,8 @@ River to its head-waters, here at the seventh cataract, a distance of
 three sheds for sick Africans in the service of the State, not fit to be
 occupied by a horse. Sick sailors frequently die on board their
 vessels at Banana Point; and if it were not for the humanity of the
-Dutch Trading Company at that place—who have often opened their
-private hospital to the sick of other countries—many more might die.
+Dutch Trading Company at that place&#8212;who have often opened their
+private hospital to the sick of other countries&#8212;many more might die.
 There is not a single chaplain in the employ of your Majesty's
 Government to console the sick or bury the dead. Your white men
 sicken and die in their quarters or on the caravan road, and seldom
@@ -283,7 +286,7 @@ by force; that the Government is cruel and arbitrary, and declare
 that they neither love nor respect the Government and its flag. Your
 Majesty's Government has sequestered their land, burned their
 
-<pb xml:id="p101" facs="teaa.en.book.0003.004.jpg"/>
+<pb n="p101"/>
 
 towns, stolen their property, enslaved their women and children, and
 committed other crimes too numerous to mention in detail. It is
@@ -319,7 +322,7 @@ Government. They are enemies, not patriots.</p>
 <p>There are from sixty to seventy officers of the Belgian army in the
 service of your Majesty's Government in the Congo of whom only
 about thirty are at their post; the other half are in Belgium on furlough. 
-These officers draw double pay—as soldiers and as civilians.
+These officers draw double pay&#8212;as soldiers and as civilians.
 It is not my duty to criticise the unlawful and unconstitutional use of
 these officers coming into the service of this African State. Such
 criticism will come with more grace from some Belgian statesman,
@@ -331,7 +334,7 @@ inexperienced to be entrusted with the difficult work of dealing with
 native races. They are ignorant of native character, lack wisdom,
 justice, fortitude and patience. They have estranged the natives from
 
-<pb xml:id="p102" facs="teaa.en.book.0003.005.jpg"/>
+<pb n="p102"/>
 
 your Majesty's Government, have sown the seed of discord between
 tribes and villages, and some of them have stained the uniform of the
@@ -341,7 +344,7 @@ served the State faithfully, and deserve well of their Royal Master....</p>
 <p>From these general observations I wish now to pass to specific
 charges against your Majesty's Government.</p>
 
-<p>First.—Your Majesty's Government is deficient in the moral,
+<p>First.&#8212;Your Majesty's Government is deficient in the moral,
 military and financial strength, necessary to govern a territory of
 1,508,000 square miles, 7,251 miles of navigation, and 31,694 square
 miles of lake surface. In the Lower Congo River there is but one
@@ -360,7 +363,7 @@ by the most cruel and murderous agencies, are carried on within the
 territorial limits of your Majesty's Government which is impotent.
 There are only 2,300 soldiers in the Congo.</p>
 
-<p>Second.—Your Majesty's Government has established nearly
+<p>Second.&#8212;Your Majesty's Government has established nearly
 fifty posts, consisting of from two to eight mercenary slave-soldiers
 from the East Coast. There is no white commissioned officer at these
 posts; they are in charge of the black Zanzibar soldiers, and the State
@@ -379,14 +382,14 @@ take; they are only required to subsist upon the natives and thus
 relieve your Majesty's Government of the cost of feeding them.
 They are the greatest curse the country suffers now.</p>
 
-<pb xml:id="p103" facs="teaa.en.book.0003.006.jpg"/>
+<pb n="p103"/>
 
-<p>Third.—Your Majesty's Government is guilty of violating its
+<p>Third.&#8212;Your Majesty's Government is guilty of violating its
 contracts made with its soldiers, mechanics and workmen, many of
 whom are subjects of other Governments. Their letters never reach
 home.</p>
 
-<p>Fourth.—The Courts of your Majesty's Government are abortive,
+<p>Fourth.&#8212;The Courts of your Majesty's Government are abortive,
 unjust, partial and delinquent. I have personally witnessed and
 examined their clumsy operations. The laws printed and circulated in
 Europe "for the protection of the blacks" in the Congo, are a dead
@@ -408,7 +411,7 @@ for these thefts, and now they were glad to be vindicated. But to the
 surprise of every honest man, the thief was sheltered by the Governor-General 
 of your Majesty's Government.</p>
 
-<p>Fifth.—Your Majesty's Government is excessively cruel to its
+<p>Fifth.&#8212;Your Majesty's Government is excessively cruel to its
 prisoners, condemning them, for the slightest offences, to the chain
 gang, the like of which cannot be seen in any other Government in the
 civilised or uncivilised world. Often these ox-chains eat into the necks
@@ -423,11 +426,11 @@ wretched prisons here in the Upper River. I cannot deal with the
 dimensions of these prisons in this letter, but will do so in my report
 to my Government.</p>
 
-<p>Sixth.—Women are imported into your Majesty's Government for
+<p>Sixth.&#8212;Women are imported into your Majesty's Government for
 immoral purposes. They are introduced by two methods, viz., black
 men are dispatched to the Portuguese coast where they engage these
 
-<pb xml:id="p104" facs="teaa.en.book.0003.007.jpg"/>
+<pb n="p104"/>
 
 women as mistresses of white men, who pay to the procurer a monthly
 sum. The other method is by capturing native women and condemning 
@@ -448,7 +451,7 @@ military officers of your Majesty's Government abandoned to
 degradation; white men bringing their own flesh and blood under the
 lash of a most cruel master, the State of Congo.</p>
 
-<p>Seventh.—Your Majesty's Government is engaged in trade and
+<p>Seventh.&#8212;Your Majesty's Government is engaged in trade and
 commerce, competing with the organised trade companies of Belgium, 
 England, France, Portugal and Holland. It taxes all trading
 companies and exempts its own goods from export-duty, and makes
@@ -462,7 +465,7 @@ trade-companies the State has punished their independence by
 burning the villages in the vicinity of the trading houses and driving
 the natives away.</p>
 
-<p>Eighth.—Your Majesty's Government has violated the General
+<p>Eighth.&#8212;Your Majesty's Government has violated the General
 Act of the Conference of Berlin by firing upon native canoes; by
 confiscating the property of natives; by intimidating native traders,
 and preventing them from trading with white trading companies;
@@ -474,9 +477,9 @@ mission steamer to fly its national flag without permission from a
 local Government; by permitting the natives to carry on the slave-trade, 
 and by engaging in the wholesale and retail slave-trade itself.</p>
 
-<pb xml:id="p105" facs="teaa.en.book.0003.008.jpg"/>
+<pb n="p105"/>
 
-<p>Ninth.—Your Majesty's Government has been, and is now,
+<p>Ninth.&#8212;Your Majesty's Government has been, and is now,
 guilty of waging unjust and cruel wars against natives, with the hope
 of securing slaves and women, to minister to the behests of the officers
 of your Government. In such slave-hunting raids one village is armed
@@ -497,7 +500,7 @@ rifles. Three shots were fired and the native fell dead, pierced through
 the head, and the trade canoe was transformed into a funeral barge
 and floated silently down the river. . . .</p>
 
-<p>Tenth.—Your Majesty's Government is engaged in the slave-trade,
+<p>Tenth.&#8212;Your Majesty's Government is engaged in the slave-trade,
 wholesale and retail. It buys and sells and steals slaves. Your
 Majesty's Government gives £3 per head for ablebodied slaves for
 military service. Officers at the chief stations get the men and receive
@@ -509,19 +512,19 @@ hundreds of miles away from their villages, to serve among other
 natives whose language they do not know. When these men run
 away a reward of 1,000 N'taka is offered. Not long ago such a
 recaptured slave was given one hundred "chikote" each day until he
-died. Three hundred N'taka—brassrod—is the price the State pays
+died. Three hundred N'taka&#8212;brassrod&#8212;is the price the State pays
 for a slave, when bought from a native. The labour force at the
 stations of your Majesty's Government in the Upper River is
 composed of slaves of all ages and both sexes.</p>
 
-<p>Eleventh.—Your Majesty's Government has concluded a contract 
+<p>Eleventh.&#8212;Your Majesty's Government has concluded a contract 
 with the Arab Governor at this place for the establishment of a
 line of military posts from the Seventh Cataract to Lake Tanganyika
 territory to which your Majesty has no more legal claim, than I have
 to be Commander-in-Chief of the Belgian army. For this work the
 Arab Governor is to receive five hundred stands of arms, five
 
-<pb xml:id="p106" facs="teaa.en.book.0003.009.jpg"/>
+<pb n="p106"/>
 
 thousand kegs of powder, and £20,000 sterling, to be paid in several
 instalments. As I write, the news reaches me that these much-treasured 
@@ -532,7 +535,7 @@ the Arabs here, and they seem to feel that they are being trifled with.
 As to the significance of this move Europe and America can judge
 without any comment from me, especially England.</p>
 
-<p>Twelfth.—The agents of your Majesty's Government have misrepresented 
+<p>Twelfth.&#8212;The agents of your Majesty's Government have misrepresented 
 the Congo country and the Congo railway. Mr. H. M.
 Stanley, the man who was your chief agent in setting up your
 authority in this country, has grossly misrepresented the character
@@ -566,7 +569,7 @@ religion of your Majesty's Government to the blush. During thirteen
 years only one white man has lost his life by the hands of the natives,
 and only two white men have been killed in the Congo. Major
 
-<pb xml:id="p107" facs="teaa.en.book.0003.010.jpg"/>
+<pb n="p107"/>
 
 Barttelot was shot by a Zanzibar soldier, and the captain of a
 Belgian trading-boat was the victim of his own rash and unjust
@@ -592,7 +595,7 @@ ameliorations, the utility of which may be demonstrated experience".</p>
 <p>I appeal to the Belgian people and to their Constitutional Government, 
 so proud of its traditions, replete with the song and story of its
 champions of human liberty, and so jealous of its present position in
-the sisterhood of European States—to cleanse itself from the imputation 
+the sisterhood of European States&#8212;to cleanse itself from the imputation 
 of the crimes with which your Majesty's personal State of
 Congo is polluted.</p>
 
