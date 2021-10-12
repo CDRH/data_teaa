@@ -106,7 +106,6 @@ class FileCsv < FileType
 
             if annotation_data != ""
               xml.div {
-                xml.h3("Annotations")
                 xml << annotation_data
               }
             end
