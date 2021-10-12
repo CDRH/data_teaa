@@ -12,14 +12,14 @@ class CsvToEsPersonography < CsvToEs
 
   def build_name
     built_fullname = Array.[]
-    if @row["fullname"]
-      built_fullname << @row["fullname"]
+    if @row["Full Name"]
+      built_fullname << @row["Full Name"]
     else
-      built_fullname << @row["surname"].to_s
-      if not(@row["forename"].to_s.empty?) || not(@row["forename"].nil?)
+      built_fullname << @row["Surname"].to_s
+      if not(@row["Forename"].to_s.empty?) || not(@row["Forename"].nil?)
         built_fullname << ", "
       end
-      built_fullname << @row["forename"].to_s
+      built_fullname << @row["Forename"].to_s
       if built_fullname.empty?
         built_fullname << "no name in spreadsheet"
       end
@@ -33,6 +33,8 @@ class CsvToEsPersonography < CsvToEs
   # Original fields:
   # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
 
+
+  
   def assemble_collection_specific
     @json["person_selected_k"] = build_name
   end
@@ -47,7 +49,7 @@ class CsvToEsPersonography < CsvToEs
 
   def date_display
     built_date_display = Array.[]
-    built_date_display << @row["birth"]
+    built_date_display << @row["Birth"]
     built_date_display << @row["Death"]
     return array_to_string(built_date_display," - ")
   end
@@ -58,12 +60,12 @@ class CsvToEsPersonography < CsvToEs
 
   # Notes for fields to add later
   # id [done]
-  # fullname (person, selected_people)
+  # Full Name (person, selected_people)
   # match [skip]
-  # surname (text)
-  # forename (text)
-  # birth (date, html)
-  # birth - placename (html)
+  # Surname (text)
+  # Forename (text)
+  # Birth (date, html)
+  # Birth - placename (html)
   # Death (date, html)
   # death - placename (html)
   # residence (africa)  (html)
@@ -73,10 +75,10 @@ class CsvToEsPersonography < CsvToEs
 
   def text
     built_text = Array.[]
-    built_text << @row["fullname"]
-    built_text << @row["surname"]
-    built_text << @row["forename"]
-    built_text << @row["occupation"]
+    built_text << @row["Full Name"]
+    built_text << @row["Surname"]
+    built_text << @row["Forename"]
+    built_text << @row["Occupation"]
     return array_to_string(built_text," ")
   end
 
