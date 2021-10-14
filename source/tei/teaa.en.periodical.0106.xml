@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0100">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0106">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mary Effie Lee - Morning Light (The Dew-drier) (1918)</title>
+<title>Virginia P. Jackson - Africa (1919)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.periodical.0100</idno>
+<idno type="project">teaa.en.periodical.0106</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main">Morning Light (The Dew-drier)</title>
-<author ref="http://viaf.org/viaf/4468125">Newsome, Effie Lee, 1885-1979</author>
+<title level="a" type="main">Africa</title>
+<author>Jackson, Virginia P.</author>
 <title level="j">The Crisis</title>
-<date when="1918-11">November 1918</date>
-<biblScope unit="page">17</biblScope>
+<date when="1919-02">February 1919</date>
+<biblScope unit="page">166</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -89,14 +89,14 @@
 </keywords>
 
 <classCode scheme="original">
-<ref type="analysis" target="teaa.analysis.0011">Analysis</ref>
+<ref type="analysis" target="teaa.analysis.0006">Analysis</ref>
 </classCode>
 
 </textClass>
 </profileDesc>
 
 <revisionDesc>
-<change when="2021-02" who="#kln">transcribed, encoded</change>
+<change when="2021-10" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -106,48 +106,27 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb n="p17"/>
+<pb n="p166"/>
 
 <div2 type="title">
 
-<head type="main">Morning Light</head>
+<head type="main">Africa</head>
 
-<head type="main"><hi rend="italics">(The Dew-drier)</hi></head>
-
-<head type="sub">Mary Effie Lee</head>
+<head type="sub">Virginia P. Jackson</head>
 
 </div2>
 
 <div2 type="poetry">
 
-<p rend="italics">It is a custom in some parts of Africa for travelers into the jungles to send before them in the early  morning little African boys called "Dew-driers" to brush with their bodies the dew from the high grasses&#8212;and be, perchance, the first to meet the leopard's or hyena's challenge&#8212;and so open the road. "Human Brooms," Dan Crawford Calls them.</p>
-
 <lg type="stanza">
-<l>Brother to the firefly&#8212;</l>
-<l>For as the firefly lights the night</l>
-<l>So lights he the morning&#8212;</l>
-<l>Bathed in the dank dews as he goes forth</l>
-<l>Through heavy menace and mystery</l>
-<l>Of half-waking tropic dawns,</l>
-<l>Behold a little black boy, a naked black boy,</l>
-<l>Sweeping aside with his slight frame</l>
-<l>Night's pregnant tears,</l>
-<l>And making a morning path to the light</l>
-<l>For the tropic traveler!</l>
-</lg>
-
-<lg type="stanza">
-<l>Bathed in the blood of battle,</l>
-<l>Treading toward a new morning,</l>
-<l>May not his race&#8212;its body long bared to the world's disdain,</l>
-<l>Its face schooled to smile for a light to come&#8212;</l>
-<l>May not his race, even as the dew-boy leads,</l>
-<l>Bear onward the world toward a new day-dawn</l>
-<l>When tolerance, forgiveness,</l>
-<l>Such as reigned in the heart of One</l>
-<l>Whose heart was gold,</l>
-<l>Shall shape the earth for that fresh dawning</l>
-<l rend="indent">After the dews of blood?</l>
+<l>Often now I hear a voice a-calling,</l>
+<l rend="indent">Calling me across the mighty sea,</l>
+<l>And responsively my heart is swelling,</l>
+<l rend="indent">Native land, I long to answer thee.</l>
+<l>Long to leave the hate of foster mother,</l>
+<l rend="indent">To be nurtured by thy kindly hand,</l>
+<l>Sitting at thy feet with my black brother,</l>
+<l rend="indent">Africa! to know thy sunny land.</l>
 </lg>
 
 </div2>
