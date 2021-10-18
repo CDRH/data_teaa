@@ -16,7 +16,7 @@
  -->
 
   <!-- For display in TEI framework, have changed all namespace declarations to http://www.tei-c.org/ns/1.0. If different (e.g. Whitman), will need to change -->
-  <xsl:output method="xml" indent="no" encoding="UTF-8" omit-xml-declaration="yes"/>
+  <xsl:output method="xml" indent="yes" encoding="UTF-8" omit-xml-declaration="yes"/>
 
 
   <!-- ==================================================================== -->
@@ -58,12 +58,27 @@
   <!-- overwriting ref to add special rules for included analysis docs -->
   <xsl:template match="ref">
     <xsl:choose>
+      <!-- when analysis doc -->
       <xsl:when test="contains(/TEI/@xml:id,'analysis')">
         <xsl:choose>
+          <!-- when footnote or target starts with "#" apply superscript but no link -->
+          <xsl:when test="@type='footnote' or starts-with(@target,'#')"><sup><xsl:apply-templates/></sup></xsl:when>
+          
+          <!-- internal or external, use target as is -->
           <xsl:when test="@type='internal' or @type='external'">
             <a>
-              <xsl:attribute name="href" select="@target"/><xsl:apply-templates/></a></xsl:when>
-          <xsl:when test="@type='footnote'"><sup><xsl:apply-templates/></sup></xsl:when>
+              <xsl:attribute name="href" select="@target"/>
+              <!-- adding class attribute to style external links if needed -->
+              <xsl:attribute name="class">
+                <xsl:text>tei_ref_type_</xsl:text>
+              <xsl:value-of select="@type"/>
+              </xsl:attribute>
+              
+              <xsl:apply-templates/>
+            </a>
+          </xsl:when>
+          
+          <!-- all other instances, add span for later styling -->
           <xsl:otherwise><span class="analysis_ref"><xsl:apply-templates/></span></xsl:otherwise>
         </xsl:choose>
       </xsl:when>
