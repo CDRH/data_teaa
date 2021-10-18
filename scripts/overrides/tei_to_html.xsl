@@ -35,6 +35,95 @@
   <!--                            OVERRIDES                                 -->
   <!-- ==================================================================== -->
   
+  <xsl:template match="body">
+    <xsl:apply-templates/>
+    
+    <!-- for each doc with ref tyle=analysis (this is serving as the "if statement" -->
+    <xsl:for-each select="/TEI/teiHeader/profileDesc/textClass//ref[@type='analysis']">
+      <!-- build location for analysis files -->
+      <xsl:variable name="analysis_loaction">
+        <xsl:text>../../source/analysis/</xsl:text>
+        <xsl:value-of select="@target"/>
+        <xsl:text>.xml</xsl:text>
+      </xsl:variable>
+      
+      <!-- for-each being used to select the analysis doc -->
+      <xsl:for-each select="document($analysis_loaction)//TEI">
+        <xsl:apply-templates/>
+      </xsl:for-each>
+      
+    </xsl:for-each>
+  </xsl:template>
+  
+  <!-- overwriting ref to add special rules for included analysis docs -->
+  <xsl:template match="ref">
+    <xsl:choose>
+      <xsl:when test="contains(/TEI/@xml:id,'analysis')">
+        <xsl:choose>
+          <xsl:when test="@type='internal' or @type='external'">
+            <a>
+              <xsl:attribute name="href" select="@target"/><xsl:apply-templates/></a></xsl:when>
+          <xsl:when test="@type='footnote'"><sup><xsl:apply-templates/></sup></xsl:when>
+          <xsl:otherwise><span class="analysis_ref"><xsl:apply-templates/></span></xsl:otherwise>
+        </xsl:choose>
+      </xsl:when>
+      <!-- When target starts with #, assume it is an in page link (anchor) -->
+      <xsl:when test="starts-with(@target, '#')">
+        <xsl:variable name="n" select="@target"/>
+        <xsl:text> </xsl:text>
+        <a>
+          <xsl:attribute name="id">
+            <xsl:text>ref</xsl:text>
+            <xsl:value-of select="@target"/>
+          </xsl:attribute>
+          <xsl:attribute name="class">
+            <xsl:text>inlinenote</xsl:text>
+          </xsl:attribute>
+          <xsl:attribute name="href">
+            <xsl:text>#note</xsl:text>
+            <xsl:value-of select="@target"/>
+          </xsl:attribute>
+          <xsl:text>[note </xsl:text>
+          <xsl:apply-templates/>
+          <xsl:text>]</xsl:text>
+        </a>
+        <xsl:text> </xsl:text>
+      </xsl:when>
+      <!-- when marked as link, treat as an external link -->
+      <xsl:when test="@type = 'link'">
+        <a href="{@target}">
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <!-- external link -->
+      <xsl:when test="starts-with(@target, 'http://') or starts-with(@target, 'https://')">
+        <a href="{@target}">
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <!-- if the above are not true, it is assumed to be an internal to the site link -->
+      <xsl:when test="@type = 'sitelink'">
+        <a href="../{@target}" class="internal_link">
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <xsl:otherwise>
+        <!-- the below will generate a footnote / in page link -->
+        <a>
+          <xsl:attribute name="href">
+            <xsl:value-of select="concat('#', @target)"/>
+          </xsl:attribute>
+          <xsl:attribute name="class">
+            <xsl:text>internal_link</xsl:text>
+          </xsl:attribute>
+          <xsl:apply-templates/>
+        </a>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+  
+  
+  
   <xsl:template match="gap">
     <span>
       <xsl:if test="@extent or @reason">
