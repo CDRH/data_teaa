@@ -36,7 +36,7 @@
   <!-- ==================================================================== -->
   
   <xsl:template match="body">
-    <xsl:apply-templates/>
+    <!-- Analysis first, then the document -->
     
     <!-- for each doc with ref tyle=analysis (this is serving as the "if statement" -->
     <xsl:for-each select="/TEI/teiHeader/profileDesc/textClass//ref[@type='analysis']">
@@ -49,10 +49,14 @@
       
       <!-- for-each being used to select the analysis doc -->
       <xsl:for-each select="document($analysis_loaction)//TEI">
-        <xsl:apply-templates/>
+        <div class="tei_type_analysis">
+          <xsl:apply-templates/>
+        </div>
       </xsl:for-each>
       
     </xsl:for-each>
+
+    <xsl:apply-templates/>
   </xsl:template>
   
   <!-- overwriting ref to add special rules for included analysis docs -->
