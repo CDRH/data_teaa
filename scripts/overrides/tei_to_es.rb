@@ -97,19 +97,23 @@ class TeiToEs
     list.uniq
   end
 
+  def person_hash_build
+    
+  end
+
   def person
     eles = get_elements(@xpaths["person"]).map do |p|
-      persname = get_text(".", xml: p)
-      if persname != ""
+      if (get_text(".", xml: p) != "" && get_text(".", xml: p) != nil)
         {
-          "id" => get_text("@id", xml: p),
-          "name" => persname,
+          "id" => get_text("@ref", xml: p),
+          "name" => get_text(".", xml: p),
           "role" => get_text("@role", xml: p)
-          # not setting role currently, since we have separate receiver, sender, creator
         }
+      else
+        next
       end
     end
-    eles.uniq
+    eles.uniq.compact
   end
 
   def recipient
@@ -123,7 +127,7 @@ class TeiToEs
         }
       end
     end
-    eles.uniq
+    eles.uniq.compact
   end
 
 end
