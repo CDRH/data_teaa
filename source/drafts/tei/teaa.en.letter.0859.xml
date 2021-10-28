@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.125">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0859">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert Scott Newton to John Hay, September 14, 1880</title>
+<title>Despatch from Judson A. Lewis to John Hay, October 6, 1880</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
-<name n="Sims, Lee-Ann L." xml:id="ls">Lee-Ann L. Sims</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura Weakly</name>
 </respStmt>
 </titleStmt>
 
 <editionStmt>
 <edition>
-<date>2018</date>
+<date>2019</date>
 </edition>
 </editionStmt>
 
@@ -34,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0125</idno>
+<idno type="project">teaa.en.letter.0859</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,23 +41,25 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Robert Scott Newton to the Assistant Secretary of State</title>
-<title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
+<title level="a">Despatch from Judson A. Lewis to John Hay, October 6, 1880</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
 <publisher>National Archives and Records Administration</publisher>
-<biblScope unit="roll">3</biblScope>
-<date from="1880-09-14">September 14, 1880</date>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1880-10-06">October 6, 1880</date>
 </bibl>
 </sourceDesc>
+
 </fileDesc>
 
 <profileDesc>
 <langUsage>
+
 <language ident="en">English</language>
 </langUsage>
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Commerce and Trade</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -68,24 +68,26 @@
 
 <keywords scheme="original" n="subtype">
 <term>Despatches</term>
-</keywords>       
+</keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Joy, E. J.</term>
+<term>Tobey, Marcellus William</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>New Calabar River</term>
+<term>Sierra Leone</term>
 </keywords>
-
+    
 <keywords scheme="original" n="powers">
 <term/>
 </keywords>
-    
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-        
+    
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -94,25 +96,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Newton, Robert Scott</persName>
-<roleName>U.S. Vice Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda (Angola)</placeName>
-<date when="1880-09-14"/>
+<persName>Lewis, Judson A.</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1880-10-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1880-11-29"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-07-09" who="kln">Reviewed and edited encoding</change>
-<change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
-<change when="2018" who="ls">Transcription and initial encoding</change>
+<change when="2021-10" who="#kln">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -120,54 +119,79 @@
 
 <body>
 
-<div1 type="document" xml:lang="en">
+<div1 xml:lang="en" type="document">
 
-<pb n="teaa.en.letter.0125.001"/>
+<pb n="549"/>
 
-<note>Department of State Received Nov 29 1880</note>
-<note>No 58</note>
+<p>No 32. U.S. Consulate at Sierra Leone<lb/>
+Judson A. Lewis To Dept. of State</p>
 
-<p>United States Consulate<lb/>
-... at St Paul de Loanda</p>
+<p>Transmitting Quarterly Returns
+for Quarter Ending June 30th</p>
 
-<p>To the Department of State</p>
+<pb n="550"/>
 
-<p>Mr. Robert Scott Newton</p>
+<p>No. 32. U.S. Consulate at 
+Sierra Leone Oct 6th 1880.</p>
 
-<p>Subject:</p>
-
-<p>Ordering two House Flags:</p>
-
-</div1>
-
-<div1 type="document" xml:lang="en">
-
-<pb n="teaa.en.letter.0125.002"/>
-
-<note>No 58</note>
-
-<p>United States Consulate<lb/>
-St Paul de Loanda<lb/>
-14 September 1880</p>
+<p>Hon John Hay<lb/>
+Asst Secty of State<lb/>
+Washington D.C.</p>
 
 <p>Sir</p>
 
-<p>I have the honor to request
-that the Department will give orders for
-two House Flags to be sent to this Consulate
-as those at present in use are in a very 
-bad state.</p>
+<p>I have the honor 
+to forward herewith to the 
+Department the Returns for 
+Quarter Ending June 30th which
+the Vice Consul neglected to
+forward during my absence
+on leave.</p>
 
-<p>I have the honor to be,<lb/>
-Your most obedient servant,<lb/>
-Robt S Newton<lb/>
-U.S. Vice-Consul</p>
+<p>I am Sir Your<lb/>
+Obt Servant<lb/>
+Judson A. Lewis
+U.S. Consul</p>
 
-<p>To the<lb/> 
-Assistant Secretary of State<lb/>
-Washington U.S.</p>
+<p>(Inclosures)<lb/>
+Forms numbered 117, 118, 119,
+120, 121, 122, and 90.</p>
 
 </div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="551"/>
+
+<p>(Form No. 121.)</p>
+
+<p>Names of all Deceased American Citizens, including Seamen or Mariners, together with the value of the personal effects belonging to them, and taken possession of by or deposited with M W Tobey U.S. Vice Consul at Sierra Leone, from April 1st to June 30th, inclusive.</p>
+
+<table>
+<row>
+<cell>Date of Decease.</cell>
+<cell>Names of Persons.</cell>
+<cell>Of What Place a Native or Resident.</cell>
+<cell>If a Seaman, to What Vessel Belonging.</cell>
+<cell>Where Deceased.</cell>
+<cell>Value of Effects.</cell>
+<cell>Disposition Made Thereof.</cell>
+</row>
+<row>
+<cell>1880 April 20</cell>
+<cell>Capt. E. J. Joy</cell>
+<cell>Augusta</cell>
+<cell>Ann Elizabeth</cell>
+<cell>New Calabar</cell>
+<cell>None Known</cell>
+<cell>Sent to Collector of Customs <unclear>Oporto</unclear></cell>
+</row>
+</table>
+
+<p>M W Tobey Vice U.S. Consul</p> 
+
+</div1>
+
 </body>
 </text>
 
