@@ -24,6 +24,8 @@ class TeiToEs
 
     xpaths["sender"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='sentBy']/persName"
 
+    xpaths["analysis_file"] = "//ref[@type='analysis']/@target"
+
     return xpaths
   end
 
@@ -38,8 +40,8 @@ class TeiToEs
 
   # do something after pulling the fields
   def preprocessing
-    file_location = File.join(@options["collection_dir"], "source/csv/personography.csv")
-    @people = CSV.read(file_location, {
+    people_file_location = File.join(@options["collection_dir"], "source/csv/personography.csv")
+    @people = CSV.read(people_file_location, {
       encoding: "utf-8",
       headers: true,
       return_headers: true
@@ -51,8 +53,10 @@ class TeiToEs
   end
 
   ########################
-  #    Field Builders    #
+  #    Helpers Builders    #
   ########################
+
+  
 
   def assemble_collection_specific
     @json["ethnicgroup_k"] = get_list(@xpaths["ethnicgroup"])
@@ -97,9 +101,9 @@ class TeiToEs
     list.uniq
   end
 
-  def person_hash_build
-    
-  end
+  ########################
+  #    Field Builders    #
+  ########################
 
   def person
     eles = get_elements(@xpaths["person"]).map do |p|
@@ -128,6 +132,41 @@ class TeiToEs
       end
     end
     eles.uniq.compact
+  end
+
+  def text_build
+    
+  end
+
+  def call_analysis_file(filename)
+
+    analysis_xml_file = @options["collection_dir"] + "/source/analysis/" + filename + ".xml"
+
+    if (File.exist?(analysis_xml_file))
+      analysis_object = CommonXml.create_xml_object(
+        File.join(analysis_xml_file)
+      )
+    return analysis_object
+    end
+
+  end
+
+  def text
+    analysis = get_text(@xpaths["analysis_file"])
+    # puts analysis
+    analysis_xml = call_analysis_file(analysis)
+
+    # handling separate fields in array
+    # means no worrying about handling spacing between words
+    text_all = []
+    analysis_text = get_text("//text", xml: analysis_xml)
+    body = get_text(@xpaths["text"], keep_tags: false)
+    text_all << analysis_text
+    text_all << body
+    # TODO: do we need to preserve tags like <i> in text? if so, turn get_text to true
+    # text_all << CommonXml.convert_tags_in_string(body)
+    text_all += text_additional
+    Datura::Helpers.normalize_space(text_all.join(" "))
   end
 
 end
