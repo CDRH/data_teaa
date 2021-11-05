@@ -76,12 +76,26 @@ class TeiToEs
     }
   end
 
+  def selected_person_id
+    list = []
+    people_in_doc = get_list(@xpaths["person"])
+    people_in_doc.each do |p|
+      if p != ""
+        row = @people.select { |row| row["Full Name"].to_s == p }
+        if row != nil
+          list << p
+        end
+      end
+    end
+    return list
+  end
+
   def build_selected_person
     list = []
     people_in_doc = get_list(@xpaths["person"])
     people_in_doc.each do |p|
       if p != ""
-        row = @people.find { |row| row["fullname"].to_s == p }
+        row = @people.find { |row| row["Full Name"].to_s == p }
         if row != nil
           list << p
         end
@@ -146,27 +160,37 @@ class TeiToEs
       analysis_object = CommonXml.create_xml_object(
         File.join(analysis_xml_file)
       )
-    return analysis_object
+    analysis_text = get_text("//text", xml: analysis_object)
+    return analysis_text
     end
 
   end
 
   def text
-    analysis = get_text(@xpaths["analysis_file"])
-    # puts analysis
-    analysis_xml = call_analysis_file(analysis)
+    # analysis = get_text(@xpaths["analysis_file"])
+    # # puts analysis
+    # analysis_text = call_analysis_file(analysis)
 
-    # handling separate fields in array
-    # means no worrying about handling spacing between words
-    text_all = []
-    analysis_text = get_text("//text", xml: analysis_xml)
-    body = get_text(@xpaths["text"], keep_tags: false)
-    text_all << analysis_text
-    text_all << body
-    # TODO: do we need to preserve tags like <i> in text? if so, turn get_text to true
-    # text_all << CommonXml.convert_tags_in_string(body)
-    text_all += text_additional
-    Datura::Helpers.normalize_space(text_all.join(" "))
+    # # handling separate fields in array
+    # # means no worrying about handling spacing between words
+    # text_all = []
+
+    
+
+    # # This is a cheaty way to make sure the analysis docs show up when 
+    # # you search for analysis, needed until datura issue #179 is solved
+    # if analysis_text != '' && analysis_text != nil
+    #   text_all << " Analysis "
+    # end
+
+    # body = get_text(@xpaths["text"], keep_tags: false)
+    
+    # text_all << analysis_text
+    # text_all << body
+    # # TODO: do we need to preserve tags like <i> in text? if so, turn get_text to true
+    # # text_all << CommonXml.convert_tags_in_string(body)
+    # text_all += text_additional
+    # Datura::Helpers.normalize_space(text_all.join(" "))
   end
 
 end
