@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0259">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0276">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Henry Rider to William H. Seward, March 20, 1863</title>
+<title>Despatch from Henry Rider to Frederick W. Seward, February 19, 1864</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0259</idno>
+<idno type="project">teaa.en.letter.0276</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -43,11 +43,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Henry Rider to William H. Seward, March 20, 1863</title>
+<title level="a">Despatch from Henry Rider to Frederick W. Seward, February 19, 1864</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-438, Roll 1</biblScope>
-<date when="1863-03-20">March 20, 1863</date>
+<date when="1864-02-19">February 19, 1864</date>
 </bibl>
 </sourceDesc>
 
@@ -61,7 +61,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>"Othering" Africans</term>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -73,13 +73,15 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Alexander</term><!-- Capt. -->
+<term>Baillie</term><!-- Mr. -->
+<term>Dung, Albert</term><!-- Dr. -->
+<term>Fraser</term><!-- Dr. -->
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Boston (Massachusetts)</term>
-<term>Liberia</term>
-<term>Sherbro Country</term>
+<term>Calabar (Nigeria)</term>
+<term>Fernando Po</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -99,15 +101,15 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Rider, Henry</persName>
-<roleName>U.S. Consular Agent</roleName>
+<roleName>United States Consular Agent</roleName>
 <placeName>Sierra Leone</placeName>
-<date when="1863-03-20"/>
+<date when="1864-02-19"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<roleName>U.S. Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Acting Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1863-05-28"/>
+<date when="1864-03-25"/>
 </correspAction>
 </correspDesc>
 
@@ -126,50 +128,95 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="60"/>
+<pb n="69"/>
 
-<note>Recd May 28th</note>
+<note>Rec'd March 25 '64</note>
 
-<p>Consulate of the United States 
+<note>No. 3</note>
+
+<p>Consulate of the United States<lb/> 
 of America at Sierra Leone<lb/>
-20th March 1863</p>
+19th February 1864.</p>
 
-<p>Sir</p>
+<p>Sir,</p>
 
-<p>I have the honor to inform 
-you that Her Majesty's Government 
-at home having confirmed 
-a treaty lately made 
-between this colonial Government 
-and the Native Chiefs 
-of the Sherbro country in which 
-they have ceded an <sic>immence</sic> 
-tract of country lying between 
-this colony and Liberia to 
-the colonial Government all 
-the ordinances of this colony, 
-(Copies of which were forwarded 
-to the Department of State 
-by me per Bark "Orlando" which 
-vessel sailed for Boston March 
-22nd 1862.) are now in force in that 
-country, and vessel bound to 
-the Sherbro are required to 
-<catchwords>pay</catchwords>
+<p>I have the honor to acknowledge 
+a communication 
+from you desiring me 
+to obtain for the United 
+States Government a parcel 
+of the "Bean of Calabar" also 
+a similar parcel for Doctor 
+Albert Dung of New York.</p>
 
-<fw type="address">Hon William H Seward<lb/>
-Secretary of State<lb/>
-Washington D.C.</fw>
+<p>The article does not grow 
+in or adjacent to this Colony 
+and is little known 
+here but I have been fortunate 
+enough to meet two gentleman, 
+by this packet form down 
+the Coast (Calabar) of whom 
+I have obtained some information 
+with regard to the 
+article. It is not cultivated 
+<catchwords>at</catchwords>
 
-<pb n="61"/>
+<fw type="address">F. W. Seward Esq<lb/>
+Actg Secretary of State<lb/>
+&amp;c &amp;c &amp;c </fw>
 
-pay the customs duties at this 
-port before entering the Sherbro 
-river to trade.</p>
+<pb n="70"/>
+
+at present but there beginning 
+to be a demand for 
+it <sic>it</sic> will probably attract 
+the attention of the natives 
+very soon as an article of 
+trade, it is used by them 
+in some of their ceremonies 
+and is <sic>know</sic> by the name 
+of the "Ordeal Bean" investigation 
+has proved it of great 
+value in many other diseases 
+as well as those of the eye.</p>
+
+<p>One of the Gentlemen kindly 
+gave me a letter through the 
+influence of which I hope 
+to obtain a parcel to send 
+as requested, I have also 
+written Capt Alexander of the 
+bark "Thos Pope" bound for 
+Fernando Po requesting him 
+to endeavor to get me some 
+of the beans.</p>
+
+<p>The beans are sold in 
+<catchwords>England</catchwords>
+
+<pb n="72"/>
+
+England at half a crown 
+an <sic>once</sic> for medicinal 
+purposes.</p>
+
+<p>Mr Baillie the gentleman 
+from whom I received 
+the letter has kindly promised 
+to send me from 
+England an essay on the 
+article by a Doctor Fraser 
+who has given great attention 
+to it and through 
+whom it was brought to the 
+notice of the medical world 
+Hoping I may soon be 
+able to report success in 
+my efforts</p>
 
 <p>I have the honor to be<lb/>
 Sir<lb/>
-Your most obdt servant<lb/>
+Your ob'd't servant<lb/>
 Henry Rider<lb/>
 U.S. Consular Agent</p>
 
