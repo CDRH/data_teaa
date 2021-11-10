@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0571">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from W. H. Randall to Frederick W. Seward, May 11, 1878</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0571</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from W. H. Randall to Frederick W. Seward</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1878-05-11">May 11, 1878</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Broadhurst, John</term>
+<term>Frame, James</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Randall, W. H.</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1878-05-11"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1878-06-10"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-03" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="298"/>
+
+<note>Department of State Received Jun 10 1878</note>
+
+<note>No 29</note>
+
+<p>United States Consulate
+at Sierra Leone<lb/>
+May 11th 1878</p>
+
+<p>Mr W. H. Randall<lb/>
+to Department of State</p>
+
+<p>Subject</p>
+
+<p>Notifying intended absence of consul 
+on account of health and asking approval.
+Consulate left in charge of Mr. 
+John Broadhurst.</p>
+
+<pb n="299"/>
+
+<note>No 29</note> 
+
+<p>United States Consulate<lb/>
+Sierra Leone<lb/>
+11th May 1878</p>
+
+<p>Sir,</p>
+
+<p>My health necessitating 
+a temporary change of climate I beg 
+leave respectfully to notify my intention 
+of leaving the consulate in charge 
+of my partner Mr John Broadhurst 
+in the absence of the Vice Consul Mr 
+James Frame.</p>
+
+<p>Trusting this will as in previous 
+instances meet with the approval of the 
+department of state, and hoping to 
+return and resume my official <unclear extent="one or two words"/> 
+in about four months</p>
+
+<p>I have the honor to remain<lb/>
+Sir<lb/>
+Your most obedt servant<lb/>
+W H Randall<lb/>
+U.S. Consul</p>
+
+<fw type="address">The Honorable F. W. Seward<lb/>
+Assistant Secretary of State</fw>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
