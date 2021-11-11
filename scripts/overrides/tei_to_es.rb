@@ -76,19 +76,19 @@ class TeiToEs
     }
   end
 
-  def selected_person_id
-    list = []
-    people_in_doc = get_list(@xpaths["person"])
-    people_in_doc.each do |p|
-      if p != ""
-        row = @people.select { |row| row["Full Name"].to_s == p }
-        if row != nil
-          list << p
-        end
-      end
-    end
-    return list
-  end
+  # def selected_person_id
+  #   list = []
+  #   people_in_doc = get_list(@xpaths["person"])
+  #   people_in_doc.each do |p|
+  #     if p != ""
+  #       row = @people.select { |row| row["Full Name"].to_s == p }
+  #       if row != nil
+  #         list << p
+  #       end
+  #     end
+  #   end
+  #   return list
+  # end
 
   def build_selected_person
     list = []
