@@ -47,39 +47,110 @@ class FileCsv < FileType
     # --- personography ---
     if self.filename(false) == "personography"
 
-      # file write for whole personography
-      # builder = Nokogiri::XML::Builder.new do |xml|
-      #   xml.div(class: "main_content") {
-      #     @csv.each_with_index do |row, index|
-      #       next if row.header_row?
-      #       name = row["fullname"] ? row["fullname"] : "#{row["forename"]}, #{row["surname"]}"
-
-      #       xml.div() {
-      #         xml.h2(name)
-      #         xml.ul {
-      #           @csv.headers.each do |header|
-      #             xml.li("#{header}: #{row[header]}")
-      #           end
-      #         }
-      #       }
-      #     end
-      #   }
-      # end
-      # write_html_to_file(builder, "personography")
-
       # file write for each person
       @csv.each_with_index do |row, index|
         next if row.header_row?
         builder = Nokogiri::XML::Builder.new do |xml|
-          xml.div(class: "main_content") {
-            # xml.ul {
-              @csv.headers.each do |header|
-                if header != '' && header != nil
-                  xml.h3("#{header}")
-                  xml.p("#{row[header]}")
-                end
-              end
-            # }
+          xml.div(class: "person_container") {
+
+            xml.h1(row["Full Name"])
+
+            xml.div(class: "person_basic_information") {
+              xml.div(class: "person_birth") {
+                xml.strong("Birth: ")
+                xml.span(row["Birth"])
+                xml.span(row["Birthplace"])
+              }
+              xml.div(class: "person_death") {
+                xml.strong("Death: ")
+                xml.span(row["Death"])
+                xml.span(row["Deathplace"])
+              }
+            }
+
+            # TODO: simplify code
+
+            # Birth
+            xml.div(class: "person_data row") {
+              xml.div(class: "person_cathead col-md-4") {
+                xml.h2("Birth")
+              }
+              xml.div(class: "person_catdata col-md-8") {
+                xml.p() {
+                  xml.span(row["Birth"])
+                  xml.span(row["Birthplace"])
+                }
+              }
+            }
+
+            # Death
+            xml.div(class: "person_data row") {
+              xml.div(class: "person_cathead col-md-4") {
+                xml.h2("Residence (Africa)")
+              }
+              xml.div(class: "person_catdata col-md-8") {
+                xml.p(row["Residence (Africa)"])
+              }
+            }
+            
+            # Residence (Africa)
+            xml.div(class: "person_data row") {
+              xml.div(class: "person_cathead col-md-4") {
+                xml.h2("Residence (Africa)")
+              }
+              xml.div(class: "person_catdata col-md-8") {
+                xml.p(row["Residence (Africa)"])
+              }
+            }
+
+            # Residence (Other)
+            xml.div(class: "person_data row") {
+              xml.div(class: "person_cathead col-md-4") {
+                xml.h2("Residence (Other)")
+              }
+              xml.div(class: "person_catdata col-md-8") {
+                xml.p(row["Residence (Other)"])
+              }
+            }
+
+            # Occupation
+            xml.div(class: "person_data row") {
+              xml.div(class: "person_cathead col-md-4") {
+                xml.h2("Occupation")
+              }
+              xml.div(class: "person_catdata col-md-8") {
+                xml.p(row["Occupation"])
+              }
+            }
+
+            # Race
+            xml.div(class: "person_data row") {
+              xml.div(class: "person_cathead col-md-4") {
+                xml.h2("Race")
+              }
+              xml.div(class: "person_catdata col-md-8") {
+                xml.p(row["Race"])
+              }
+            }
+
+            # VIAF
+            xml.div(class: "person_data row") {
+              xml.div(class: "person_cathead col-md-4") {
+                xml.h2("VIAF")
+              }
+              xml.div(class: "person_catdata col-md-8") {
+                xml.p(row["VIAF"])
+              }
+            }
+   
+              # @csv.headers.each do |header|
+                
+              #   if header != '' && header != nil
+              #     xml.h3("#{header}")
+              #     xml.p("#{row[header]}")
+              #   end
+              # end
+  
             
           }
         end
