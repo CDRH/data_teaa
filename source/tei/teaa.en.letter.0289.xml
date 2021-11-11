@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0289">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Henry Rider to Frederick W. Seward, May 23, 1864</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0289</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Henry Rider to Frederick W. Seward</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1864-05-23">May 23, 1864</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Commerce and Trade</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Baillie</term>
+<term>Mitchell</term><!-- Dr -->
+<term>Robb, Alexander</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Calabar (Nigeria)</term>
+<term>Corsica</term>
+<term>Gaboon</term>
+<term>Philadelphia (Pennsylvania)</term>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Rider, Henry</persName>
+<roleName>U.S. Consular Agent</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1864-05-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1864-07-08"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-03" who="#kln">Edits and review</change>
+<change when="2019-10" who="#lkw">Encoding</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="73"/>
+
+<note>Recd July 8</note>
+
+<note>No. 7.</note>
+
+<p>Consulate of the United States 
+of America at Sierra Leone<lb/>
+23rd May 1864</p>
+
+<p>Sir,</p>
+
+<p>I have the pleasure to 
+forward the Department 
+of State, per British brig 
+"Emma" a package of the 
+"Bean of Calabar", about 10 lbs, 
+which I obtained through the 
+kindness of the Rev. A. Robb 
+at Calabar, whose letter 
+I enclose, should more be 
+required I can obtain them 
+from the same source 
+<catchwords>You</catchwords>
+
+<fw type="address">Hon. F. W. Seward<lb/>
+Secretary of State<lb/>
+Washington</fw>
+
+<pb n="74"/>
+
+you will notice the article 
+cost 6/ per lb., sterling, 
+which is, here, $1.44, there 
+has been about 50 cents expense 
+on them.</p>
+
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your ob'd't Servant<lb/>
+Henry Rider<lb/>
+U.S. Consular Agent.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="75"/>
+
+<p>Creek Town<lb/>
+Old Calabar,<lb/>
+2d May 1864</p>
+
+<p>Sir:</p>
+
+<p>I duly received your letter of 12th April, 
+desiring, on behalf of the government of the 
+United States, a supply of Calabar bean.</p>
+
+<p>I have much pleasure in being able 
+to comply with your request, and shall 
+send per Mail a small box containing 
+10 lbs. If Analysis is the object, there 
+will probably be too few for any extensive 
+experiments. But Mr Baillie says 
+that "500 or so would perhaps be enough". 
+There are more than that in 10 lbs. I should
+think there are at lest 1000. Should
+more be needed I shall be happy to 
+supply them; such if may be well that you
+
+<pb n="76"/>
+
+give me notice without any long delay, lest 
+my supply should run out.</p>
+
+<p>By the present mail I learn that 
+10/- has been paid per pound in London 
+but as these are for scientific purposes
+I shall give them for 6/- per pound.</p>
+
+<p>It is not out of place to state that 
+about four years ago, I supplied some 
+of these beans to a <unclear>Dr</unclear> Mitchell in Philadelphia 
+who, I understood was engaged 
+in an analysis of African ordeals.</p>
+
+<p>The request came to me through one 
+of the missionaries at <unclear>Corsica</unclear> or Gaboon.</p>
+ 
+<p>I may further state that the <unclear>fullest</unclear> 
+I believe the only, account of the bean
+is to be found in a "Graduation Thesis"
+published by Messrs Oliver and Boyd, 
+Edinburgh. The title is 
+"The Characters, Actions and Therapeutic 
+Uses of the Ordeal Bean
+
+<pb n="77"/>
+
+Calabar (Physostigma Venenosum, Balfour):
+A Graduation Thesis, for which a Gold Medal 
+was awarded by the Edinburgh University <unclear>Aug 62</unclear>
+By Thomas R. Fraser M.D. Edin, &amp;c . 
+It is published in the form of a pamphlet 
+and gives a full account of the experiments 
+and their results, and also specimen cases
+of diseases in which the bean has been 
+used as a remedy, with good results.</p>
+
+<p>I have the honour to be<lb/>
+Sir<lb/>
+Your obedient servant<lb/>
+Alexander Robb</p>
+
+<fw type="address">Henry Esq<lb/>
+U.S. Vice Consul<lb/>
+Sierra Leone</fw>
+
+<pb n="78"/>
+
+<p>P.S. I may warn you that the bean is a deadly 
+poison, and should be kept out of the <unclear>way</unclear> lest 
+any accident happen. There is no danger unless 
+it be eaten, of course; but I believe that <unclear>less</unclear> 
+<unclear>than</unclear> one may be a fatal dose. Its native
+name is é-ser-e (e, as in met)</p>
+
+<p>A.R.</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
