@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0346">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Seth A. Pratt to William F. Wharton, August 15, 1889</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0346</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Seth A. Pratt to William F. Wharton</title>
+<date when="1889-08-15">August 15, 1889</date>
+<title level="m" type="microformat">Despatches from United States Consuls in Zanzibar, Br. Africa, 1836-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="date">July 1, 1886-November 15, 1895</biblScope>
+<biblScope unit="film">M468</biblScope>
+<biblScope unit="roll">4</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Commerce and Trade</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Aloe Shi</term>
+<term ref="http://viaf.org/viaf/38108124">Bayard, Thomas F. (Thomas Francis), 1828-1898</term>
+<term ref="http://viaf.org/viaf/15566890">Blaine, James Gillespie, 1830-1893</term>
+<term>Gifford</term>
+<term>Halliday Shi</term>
+<term>Sultan Abdallah, King of Johanna</term>
+<term>Wilson, Benjamin F.</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Johanna (French Comoros)</term>
+<term>Zanzibar</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Pratt, Seth A.</persName>
+<roleName>U.S. Consul for Zanzibar</roleName>
+<placeName>Zanzibar</placeName>
+<date when="1889-08-15"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1889-09-23"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
+<change when="2019-10-11" who="#kln">separating despatches, additional encoding</change>
+<change when="2018" who="pr">Transcription and initial encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="150044"/>
+
+<note>Department of State Received Sep 23 1889</note>
+
+<note>No. 105</note>
+
+<p>Consulate of the United States<lb/>
+Zanzibar August 15, 1889</p>
+
+<p>Mr. Pratt<lb/>
+To the Dept. of State</p>
+
+<p>Subject:</p>
+
+<p>Claim of Dr. Benj. F. Wilson
+against King of Johanna.</p>
+
+<p>Abstract of Contents</p>
+
+<pb n="150051"/>
+
+<note>No. <unclear>105</unclear>.</note>
+
+<p>Consulate of the United States<lb/>
+Zanzibar August 15 1889</p>
+
+<p>Honorable William F. Wharton<lb/>
+Assistant Secretary of State<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor to enclose
+herewith documents relating
+to the claim of Dr. B. F. Wilson
+against the King of Johanna.</p>
+
+<p>I beg to call the attention 
+of the Department again
+to the importance of early
+action in this matter, since
+I am informed that a Foreclosure 
+of the mortgage in Dr.
+Wilson's Estate is in contemplation. 
+Besides which
+there are debts here in Zanzibar,
+to the amount of
+Twenty three thousand rupees,
+which are being pressed
+for collected before this
+consulate.</p>
+
+<p><catchwords>I</catchwords>
+
+<pb n="150123"/>
+
+I have the honor to be<lb/>
+Sir<lb/>
+Your obedient servant<lb/>
+Seth A. Pratt<lb/>
+U.S. Consul</p>
+
+<p>Enclosures:</p>
+
+<p>No. 1. Dr. Wilson to Mr. Pratt, June 25/89</p>
+
+<p>2. " " July 29/89</p>
+
+<p>3. Statement of Jules <unclear/></p>
+
+<p>4. " " Abdaraman <unclear>Cheshi</unclear></p>
+
+<p>5. " " <unclear>Alloe</unclear> <unclear>Shi</unclear></p>
+
+<p>6. " " <unclear>Halliday</unclear> <unclear>Shi</unclear></p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="150135"/>
+
+<note>No. 1/105</note>
+
+<p>Patsy Estate<lb/>
+Johanna 25 June 1889</p>
+
+<p>Seth A Pratt Esqr<lb/>
+U.S. Consul<lb/>
+Zanzibar</p>
+
+<p>Dear Sir:</p>
+
+<p>I last wrote to you on the 19th inst
+and sent letters by the American Whaler
+"Kathleen" and no doubt you have on this
+received them. I however enclose press copies
+of the same herewith. I wrote to you that
+three Johannamen were on their way to you
+to give their testimony and to be away from the
+vengeance of the Sultan. One Dray man <unclear extent="two words"/>
+has got as far as <unclear>Comoro</unclear> but the other two
+Aloe Shi and Halliday Shi were arrested as they
+were on the point of embarking in a canoe to go
+on board of Capt Giffords vessel. They were imprisoned
+for the night and in the morning taken before the
+Sultan who abused and threatened them all he
+knew how and will not permit any more vessels
+leave in the night for fear they may get on boat
+and get away and give evidence against him
+These two men have <unclear extent="one word"/> written statements what
+I have had "Englishized" and at their request herewith 
+enclose to you. It simply shows what
+
+<pb n="150144"/>
+
+what means and devices this old tyrant
+will use to further his own ends. The French
+handle him pretty roughly at times but when
+he demands pardon <unclear extent="one word"/> all over and they
+are as thick and happy as bees together <unclear extent="one word"/>
+I am anxious to know how the
+arbitrating business in my case is to be <unclear extent="one word"/>
+If the Resident and French Government
+call their <unclear extent="one word"/> a proper investigation I
+do not and enter every point I have
+demanded is given into I certainly protest
+against it. Here the Resident calls any
+one he chooses and asks any question he chooses
+without my <unclear>knowing</unclear> any thing about it
+on an opportunity of refuting any false
+statements: but so far as I can learn
+they cannot bring one such thing against
+me, although they would the affairs of
+supplies to his brother which I think they
+have given to that they have not a leg to stand
+on there. They might as well accuse you as me.
+But over there, that was not the <unclear extent="one word"/>
+of my grievances &amp; the serious ones too. His
+brother only rebelled in 1884 &amp; my trouble date from
+1882. If all works well here I intend going
+<unclear>hence</unclear> on this business and I am glad we
+have the Hon: J. G. Blane to the which <unclear extent="one word"/>
+of the Hon. T. F. Bayard. I cannot imagine
+
+<pb n="150151"/>
+
+the Hon. Mr Bayard <unclear extent="four words"/>
+a treaty as the French have here. <unclear>Apparently</unclear>
+they are not responsible for anything and
+<unclear extent="three words"/> hold the Sultan responsible.
+I have been writing to the Resident about
+the salve trade treaty here with the English and
+requested a reply to my letter but he would
+not write but came out to see me. He did not
+recognize the English treaty at all. He says they
+have made a treaty since which holds the slave
+five years longer &amp;c. Of course the English
+Consul at Zanzibar will know about this
+and I wish you would call upon on this matter.
+According to the English treaty all slaves are
+to be absolutely free in August next, French
+say free yes but they must work for their
+masters five years <unclear>more</unclear> and then engage
+for another five years!! I think "<unclear>Extra</unclear> <unclear extent="one word"/>"
+will grow under that business. Anyone
+can buy a slaves labour now for 150 <unclear>francs</unclear> for
+five years if he wishes. I would like to
+know the English opinion of it. Of course
+slaves are bought and sold here daily and have been
+ever since the English Treaty and <unclear extent="four words"/>
+French have "the ball". They say the English have
+not <unclear extent="about five words"/> of the treaty.</p>
+
+<p>Hoping to hear from you soon &amp; <unclear>patiently</unclear><lb/>
+I am your obedient servant
+B. F. Wilson</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="150159"/>
+
+<note>No 2/105.</note>
+
+<p>Patsy Estate<lb/>
+Johanna 29 July 1889</p>
+
+<p>Seth A. Pratt Esqr<lb/>
+U.S. Consul<lb/>
+Zanzibar</p>
+
+<p>Sir:</p>
+
+<p>Your two valuable favors of the
+dates 31st May and 2nd July duly to hand
+by this months <sic>courrier</sic>. The U.S.S. <unclear extent="one word"/>
+was too late to be of any service as regards the
+enquiry and I do not know but it is all
+for the best that there was no vessel here or
+no <sic>representant</sic> of my Government. I never
+feared any thing but false statements and
+lies and my only reason for <unclear>wanting</unclear> a
+word myself on a U.S. Government Official
+that could prove that but as they have had
+all their own way they cannot surely
+find any fault. The only thing I
+fear now is that the U.S. Government will
+be too <unclear extent="one word"/> and not <unclear>back</unclear> my claim.</p>
+
+<p>I received a letter from Baron <unclear extent="one or two words"/> by
+the last mail. (a <unclear>Persian</unclear>) He says that
+my Government have not proved my claim
+and they will have to if I am <unclear extent="one word"/>.
+Do you think I should go home for
+that purpose? It is now <unclear extent="two or three words"/>
+
+<pb n="150207"/>
+
+and I would not like to leave here unless
+necessary. Still I could do so. I could
+only relate some facts and important ones
+which perhaps have not been written but if
+the U.S. Government observe well all that has
+been sent to the Department of State since 1884
+they will have my case pretty well. I know
+the French Government will wish to get out of
+it by saying the King cannot pay. He has nothing
+they say. He could have paid and would
+have paid if the French had kept out of these
+islands. I consider now that they are
+responsible for the Sultan and I have good
+French Authority also for saying this. His
+action is political and they are responsible.</p>
+
+<p>I am astonished that the U.S. Government
+and the English Government also did not
+object from the first to one or two Articles
+in their Treaty of the Protectorate. Perhaps they
+have. Certainly Mr. Blaine will bring
+them to their hearings.</p>
+
+<p>You no doubt have had the "<unclear extent="one word"/>" with
+you on this. It does ones' heart good
+to see an American man of war: They
+are altogether too rare.</p>
+
+<p>Hoping to hear good news
+from you and the Department of State<lb/>
+I am Your obedient servant<lb/>
+B. F. Wilson</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="150222"/>
+
+<gap extent="one page" reason="illegible image"/>
+
+<pb n="150227"/>
+
+<gap extent="one page" reason="illegible image"/>
+
+<pb n="150232"/>
+
+<gap extent="one page" reason="illegible image"/>
+
+</div1>
+
+<div1 type="document">
+
+<pb n="150238"/>
+
+<div2 xml:lang="ar" type="document">
+
+<gap extent="one paragraph" reason="in Arabic"/>
+
+</div2>
+
+<div2 xml:lang="ar" type="document">
+
+<gap extent="one paragraph" reason="in French"/>
+
+</div2>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="150247"/>
+
+<note>No. 5/105.</note>
+
+<p>Translation of letter of Aloe Shi <unclear extent="one word"/></p>
+
+<p>I Aloe Shi Dreyman do hereby swear by the <unclear>Koran</unclear> that
+I went to French Resident of Johanna three
+days in succession and <unclear extent="two words"/> three different
+times to give my testimony while he was making the
+enquiry. I went to tell what I know that Sultan
+Abdallah had done to Dr. Wilson and these times
+I was <sic>acompanied</sic> by Halliday Shi. On the third
+day the Resident told us he would not take our statements
+at all. <unclear>About</unclear> the same time he was taking the
+statements of men who Sultan Abdallah sent. We
+came to the conclusion (Halliday and myself) that we
+would go to Zanzibar and make our statements there
+and intended to letter passage in the vessel of Capt
+Gifford ("Kathleen") but were taken and imprisoned
+by the Police of the Sultan and kept in prison until morning
+when we were taken before the Sultan. who said to 
+us "you wish to run away and go to sea". The reason
+that we wished to go to Zanzibar was that the Sultan
+sent to me one Said Omar and told me that
+I must go before the Resident and swear that
+the Doctor agreed to give me three thousand dollars
+if I would be witness for him. I informed this
+<unclear>morning</unclear> that I could not tell such a lie about the
+Doctor but he the Sultan should go and tell this to the Resident <unclear/>
+<unclear extent="three lines"/>
+
+<pb n="150259"/>
+
+one hundred and twenty six dollars and if the
+American Government does not <unclear extent="one word"/> well this
+Sultan will kill us. He told me also that he would not
+allow me to go to Patsy to Dr Wilson, and I want the
+U.S. Consul to know all of this.</p>
+
+<p>Signed Aloe Shi Dreyman</p>
+
+</div1>
+
+<div1 xml:lang="ar" type="document">
+
+<pb n="150306"/>
+
+<gap extent="one page" reason="document in Arabic"/>
+
+<pb n="150312"/>
+
+<gap extent="one page" reason="document in Arabic"/>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="150320"/>
+
+<p>Translation of the <unclear extent="one word"/> letter of Halliday Shi <unclear extent="about four words"/></p>
+
+<p><unclear extent="three lines of text"/>
+I went to the Resident of France in Johanna at three
+different times to tell what I know about the Sultan
+Abdallah and Dr. Wilson. I went to the Resident
+accompanied by Aloe Shi and on the third
+day he told me &amp; Aloe Shi that he would not take
+<unclear>any</unclear> more evidence at all, but when Sultan
+Abdallahs men came to him he took their evidence.</p>
+
+<p><unclear extent="one word"/> Aloe Shi and my self wished to go to Zanzibar
+to give our evidence there and attempted to
+go on board of the American ship of Capt Gofford
+and the Sultan sent his police and arrested
+us and put us in prison until morning and
+said to us that we wanted to run away and
+<unclear>Sultan</unclear> Abdallah called me to his house and <unclear>abused</unclear>
+me and for the reason that I wished to be a witness
+for Dr Wilson. He called me in his <unclear extent="one word"/> an <unclear extent="one word"/>
+and all of this is true. If we do not get relief
+from this man we will die. And all of his people
+say that if he the Sultan gets the best of Dr Wilson in
+his complaint he will cut off all of the heads that
+had given evidence against him. You must
+<unclear extent="about four words"/> is the truth only that I say.</p>
+
+<p>(signed) Halliday Shi <unclear>bin</unclear> <unclear extent="two words"/> Shi</p>
+
+</div1>
+
+<div1 xml:lang="ar" type="document">
+
+<pb n="150325"/>
+
+<gap extent="one page" reason="document in Arabic"/>
+
+<pb n="150339"/>
+
+<gap extent="one page" reason="document in Arabic"/>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
