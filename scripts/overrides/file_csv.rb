@@ -56,92 +56,84 @@ class FileCsv < FileType
             xml.h1(row["Full Name"])
 
             xml.div(class: "person_basic_information") {
-              xml.div(class: "person_birth") {
-                xml.strong("Birth: ")
-                xml.span(row["Birth"])
-                xml.span(row["Birthplace"])
-              }
-              xml.div(class: "person_death") {
-                xml.strong("Death: ")
-                xml.span(row["Death"])
-                xml.span(row["Deathplace"])
-              }
-            }
-
-            # TODO: simplify code
-
-            # Birth
-            xml.div(class: "person_data row") {
-              xml.div(class: "person_cathead col-md-4") {
-                xml.h2("Birth")
-              }
-              xml.div(class: "person_catdata col-md-8") {
-                xml.p() {
+              if not(row["Birthplace"].to_s.empty?)
+                xml.div(class: "person_birth") {
+                  xml.strong("Birth: ")
                   xml.span(row["Birth"])
                   xml.span(row["Birthplace"])
                 }
-              }
+              end
+              if not(row["Deathplace"].to_s.empty?)
+                xml.div(class: "person_death") {
+                  xml.strong("Death: ")
+                  xml.span(row["Death"])
+                  xml.span(row["Deathplace"])
+                }
+              end
             }
 
-            # Death
-            xml.div(class: "person_data row") {
-              xml.div(class: "person_cathead col-md-4") {
-                xml.h2("Residence (Africa)")
-              }
-              xml.div(class: "person_catdata col-md-8") {
-                xml.p(row["Residence (Africa)"])
-              }
-            }
+            # TODO: simplify code
             
             # Residence (Africa)
-            xml.div(class: "person_data row") {
-              xml.div(class: "person_cathead col-md-4") {
-                xml.h2("Residence (Africa)")
+
+            if not(row["Residence (Africa)"].to_s.empty?)
+              xml.div(class: "person_data row") {
+                xml.div(class: "person_cathead col-md-4") {
+                  xml.h2("Residence (Africa)")
+                }
+                xml.div(class: "person_catdata col-md-8") {
+                  xml.p(row["Residence (Africa)"])
+                }
               }
-              xml.div(class: "person_catdata col-md-8") {
-                xml.p(row["Residence (Africa)"])
-              }
-            }
+            end
 
             # Residence (Other)
-            xml.div(class: "person_data row") {
-              xml.div(class: "person_cathead col-md-4") {
-                xml.h2("Residence (Other)")
+            if not(row["Residence (Other)"].to_s.empty?)
+              xml.div(class: "person_data row") {
+                xml.div(class: "person_cathead col-md-4") {
+                  xml.h2("Residence (Other)")
+                }
+                xml.div(class: "person_catdata col-md-8") {
+                  xml.p(row["Residence (Other)"])
+                }
               }
-              xml.div(class: "person_catdata col-md-8") {
-                xml.p(row["Residence (Other)"])
-              }
-            }
+            end
 
             # Occupation
-            xml.div(class: "person_data row") {
-              xml.div(class: "person_cathead col-md-4") {
-                xml.h2("Occupation")
+            if not(row["Occupation"].to_s.empty?)
+              xml.div(class: "person_data row") {
+                xml.div(class: "person_cathead col-md-4") {
+                  xml.h2("Occupation")
+                }
+                xml.div(class: "person_catdata col-md-8") {
+                  xml.p(row["Occupation"])
+                }
               }
-              xml.div(class: "person_catdata col-md-8") {
-                xml.p(row["Occupation"])
-              }
-            }
+            end
 
             # Race
-            xml.div(class: "person_data row") {
-              xml.div(class: "person_cathead col-md-4") {
-                xml.h2("Race")
+            if not(row["Race"].to_s.empty?)
+              xml.div(class: "person_data row") {
+                xml.div(class: "person_cathead col-md-4") {
+                  xml.h2("Race")
+                }
+                xml.div(class: "person_catdata col-md-8") {
+                  xml.p(row["Race"])
+                }
               }
-              xml.div(class: "person_catdata col-md-8") {
-                xml.p(row["Race"])
-              }
-            }
+            end
 
             # VIAF
-            xml.div(class: "person_data row") {
-              xml.div(class: "person_cathead col-md-4") {
-                xml.h2("VIAF")
+            if not(row["VIAF"].to_s.empty?)
+              xml.div(class: "person_data row") {
+                xml.div(class: "person_cathead col-md-4") {
+                  xml.h2("VIAF")
+                }
+                xml.div(class: "person_catdata col-md-8") {
+                  xml.p(row["VIAF"])
+                }
               }
-              xml.div(class: "person_catdata col-md-8") {
-                xml.p(row["VIAF"])
-              }
-            }
+            end
    
               # @csv.headers.each do |header|
                 
