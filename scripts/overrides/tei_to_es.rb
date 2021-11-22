@@ -23,8 +23,7 @@ class TeiToEs
     xpaths["contributor"] = [
       "/TEI/teiHeader/revisionDesc/change/name",
       "/TEI/teiHeader/fileDesc/titleStmt/editor",
-      "/TEI/teiHeader/fileDesc/titleStmt/respStmt/name",
-      "/TEI/teiHeader/fileDesc/titleStmt/principal"
+      "/TEI/teiHeader/fileDesc/titleStmt/respStmt/name"
     ]
     xpaths["recipient"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/persName"
 
@@ -154,10 +153,6 @@ class TeiToEs
     eles.uniq.compact
   end
 
-  def text_build
-    
-  end
-
   def call_analysis_file(filename)
 
     analysis_xml_file = @options["collection_dir"] + "/source/analysis/" + filename + ".xml"
@@ -173,30 +168,30 @@ class TeiToEs
   end
 
   def text
-    # analysis = get_text(@xpaths["analysis_file"])
-    # # puts analysis
-    # analysis_text = call_analysis_file(analysis)
+    analysis = get_text(@xpaths["analysis_file"])
+    # puts analysis
+    analysis_text = call_analysis_file(analysis)
 
-    # # handling separate fields in array
-    # # means no worrying about handling spacing between words
-    # text_all = []
+    # handling separate fields in array
+    # means no worrying about handling spacing between words
+    text_all = []
 
     
 
-    # # This is a cheaty way to make sure the analysis docs show up when 
-    # # you search for analysis, needed until datura issue #179 is solved
-    # if analysis_text != '' && analysis_text != nil
-    #   text_all << " Analysis "
-    # end
+    # This is a cheaty way to make sure the analysis docs show up when 
+    # you search for analysis, needed until datura issue #179 is solved
+    if analysis_text != '' && analysis_text != nil
+      text_all << " Analysis "
+    end
 
-    # body = get_text(@xpaths["text"], keep_tags: false)
+    body = get_text(@xpaths["text"], keep_tags: false)
     
-    # text_all << analysis_text
-    # text_all << body
-    # # TODO: do we need to preserve tags like <i> in text? if so, turn get_text to true
-    # # text_all << CommonXml.convert_tags_in_string(body)
-    # text_all += text_additional
-    # Datura::Helpers.normalize_space(text_all.join(" "))
+    text_all << analysis_text
+    text_all << body
+    # TODO: do we need to preserve tags like <i> in text? if so, turn get_text to true
+    # text_all << CommonXml.convert_tags_in_string(body)
+    text_all += text_additional
+    Datura::Helpers.normalize_space(text_all.join(" "))
   end
 
 end
