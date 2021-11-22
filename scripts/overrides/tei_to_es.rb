@@ -20,6 +20,12 @@ class TeiToEs
       "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='sentBy']/placeName",
       "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/placeName"
     ]
+    xpaths["contributor"] = [
+      "/TEI/teiHeader/revisionDesc/change/name",
+      "/TEI/teiHeader/fileDesc/titleStmt/editor",
+      "/TEI/teiHeader/fileDesc/titleStmt/respStmt/name",
+      "/TEI/teiHeader/fileDesc/titleStmt/principal"
+    ]
     xpaths["recipient"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/persName"
 
     xpaths["sender"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='sentBy']/persName"
