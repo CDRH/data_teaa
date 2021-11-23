@@ -1,6 +1,8 @@
 # data_teaa
 Data Repository for To Enter Africa from America 
 
+Issues should go in the [TEAA Rails Repository](https://github.com/CDRH/teaa)
+
 ## Posting files on dev subsite
 
 ssh into `cdrhdev1.unl.edu`
