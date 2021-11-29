@@ -44,12 +44,11 @@
 <bibl>
 <title level="a" type="main">Despatch from John H. Smyth to Frederick T. Frelinghuysen, October 2, 1882</title>
 <title level="m">Apropos of Africa: Sentiments of Negro American Leaders on Africa from the 1800s to the 1950s</title>
-<author ref="http://viaf.org/viaf/63570490">Smyth, John H., 1830-1888</author>
 <editor>Kilson, Martin</editor>
 <editor>Cromwell, Adeleide</editor>
 <pubPlace>London</pubPlace>
-<publisher>Frank Cass &amp; Co. LTD.</publisher>
-<date when="1969">1969</date>
+<publisher>Frank Cass &amp; Co. LTD., 1969</publisher>
+<date when="1882-10-02">October 2, 1882</date>
 <biblScope unit="page">94-97</biblScope>
 </bibl>
 </sourceDesc>
@@ -75,7 +74,6 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term ref="http://viaf.org/viaf/58082142">Frelinghuysen, Frederick T. (Frederick Theodore), 1817-1885</term>
 <term>Gardiner, Anthony W.</term>
 <term ref="http://viaf.org/viaf/43915538">Havelock, Arthur Elibank, Sir, 1844-1908</term>
 <term>Macaulay, G. M.</term>
@@ -104,6 +102,20 @@
 </keywords>
 
 </textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/63570490">Smyth, John H., 1830-1888</persName>
+<placeName>Liberia</placeName>
+<date when="1882-10-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/58082142">Frelinghuysen, Frederick T. (Frederick Theodore), 1817-1885</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+</correspAction>
+</correspDesc>
+
 </profileDesc>
 
 <revisionDesc>
