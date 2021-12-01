@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<title>
+			TEAA
+		</title>
+		<!-- Leaflet -->
+		<link rel="stylesheet" href="lib/leaflet/leaflet.css"/>
+		<link rel ="stylesheet" href="lib/leaflet/nouislider.css"/>
+		<script src="lib/leaflet/leaflet.js" ></script>
+		<script src="lib/leaflet/nouislider.js" ></script>
+		<script src="data/borders.json"></script>
+		<script src="data/diplo.json"></script>
+		<script src="data/poltext.json"></script>
+		<style type="text/css">
+			#map {height : 600px;}
+			
+			.legend {
+					padding: 6px 8px;
+					background-color: rgba(255,255,255,0.8);
+					box-shadow: 0 0 15px rgba(0,0,0,0.2);
+					border-radius: 5px;
+				
+				}
+				.legend i {
+					width: 27px;
+					height: 27px;
+					float: left;
+					margin-right: 16px;
+					opacity: 0.7;
+				}
+				div.legend.leaflet-control br {
+					clear: both;
+				}
+				
+			.MyLabel {  position: absolute;
+						font-size: 10px;
+						color: rgba(88, 250, 208, 1);
+						-webkit-text-stroke-width: .4px;
+						-webkit-text-stroke-color: black;
+						background: transparent;
+						border: none;
+						box-shadow: none;
+				}
+				
+				
+			
+		</style>
+	</head>
+	<body>
+		<h1>TEAA</h1>
+		<div id="map"></div>
+		<div id="slider" style="top: 0px; right: 1px; margin: 10px 25px;"></div>
+		<div style="margin-right: auto; margin-left: auto; width: 90%; margin-bottom: 10px; text-align: center;">
+		<input type="number" min='1862' max='1919' id="input-number">
+		</div>
+		<script>	
+
+			function bordersStyle(feature) {
+				
+				return {
+					fillColor: CountryColor(feature.properties.Country),
+					weight: 2,
+					opacity: 1,
+					color: 'black',
+					dashArray : 1,
+					fillOpacity : 1
+					
+				};	
+			}
+			
+			function poltextStyle(feature) {
+				
+				return {
+					fillColor: 'white',
+					weight: 0,
+					opacity: 0,
+					color: 'white',
+					dashArray : 0,
+					fillOpacity : 0
+					
+				};	
+			}
+			
+			
+			function diploStyle(feature, latlng) {
+				
+				return L.circleMarker(latlng, {
+					radius: 6.0,
+					fillColor: StatusColor(feature.properties.Status),
+					color: 'white',
+					weight: 2,
+					opacity: 1.0,
+					fillOpacity: 1
+				})
+			}
+			
+			function diploPop(feature, layer) {
+				var popupContent = 'Location: ' + String(feature.properties['Name']) + '<br>Status: ' + String(feature.properties['Status'])+ '<br>Start: ' + String(feature.properties['Start'])+ '<br>End: ' + String(feature.properties['End'])
+				+ '<br>Personnel: ' + String(feature.properties['Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin'])+ '<br>History: ' + String(feature.properties['History']);
+				layer.bindPopup(popupContent);
+			}
+			
+			function bordersPop(feature, layer) {
+				var popupContent = 'Name: ' + String(feature.properties['Name'])+ '<br>Sovereignty: ' + String(feature.properties['Country']);
+				layer.bindPopup(popupContent);
+			}
+			
+			function StatusColor(c) {
+				if (c === 'Commercial Agency') return 'blue'; else
+				if (c === 'Legation') return 'red'; else
+				if (c === 'Consulate General') return 'white'; else
+				return 'gray';
+			}
+			
+			function CountryColor(c) {
+				if (c === 'France') return '#0101DF'; else
+				if (c === 'Great Britain') return '#DF0101'; else
+				if (c === 'Spain') return '#F3F781'; else
+				if (c === 'Portugal') return '#04B45F'; else
+				if (c === 'Germany') return '#424242'; else
+				if (c === 'Italy') return '#F5A9BC'; else
+				if (c === 'Belgium') return '#81DAF5'; else
+				if (c === 'The Netherlands') return '#F3E2A9'; else
+				if (c === 'Union of South Africa') return '#F5DA81'; else
+				if (c === 'Orange Free State') return '#FFBF00'; else
+				if (c === 'The Transvaal Republic') return '#0B614B'; else
+				if (c === 'United States of Stellaland') return '#5882FA'; else
+				if (c === 'The New Republic') return '#B4045F'; else
+				if (c === 'Goshen') return '#610B21'; else
+				if (c === 'Stellaland') return '#CEECF5'; else
+				if (c === 'Independent') return '#58FAD0'; else
+				return 'gray';
+			}	
+			
+			
+			//var map = L.map('map').setView([-95.940140, 41.240616], 0);
+			//var bordersLayer = L.geoJson(
+				//borders,
+				//{style : bordersStyle}
+			//).addTo(map);
+			//map.fitBounds(bordersLayer.getBounds());
+			
+			
+			var map = L.map('map', {
+				zoom: 0,
+				center: [-95.940140, 41.240616],
+				
+			});
+			
+			var basemap_0 = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}', {
+				maxZoom: 5,
+				minZoom: 3,
+				attribution: 'Tiles &copy; Esri &mdash; Source: Esri',
+			});
+			basemap_0.addTo(map);
+			
+			
+						
+			var legend = L.control({position : 'bottomright'});
+			legend.onAdd = function(map){
+				var div = L.DomUtil.create('div', 'legend');
+				div.innerHTML = 
+				'<b>Major Sovereignties</b><br>' +
+				'<i style = "background-color: #58FAD0"></i>Independent<br>'+
+				'<i style = "background-color: #0101DF"></i>France<br>'+
+				'<i style = "background-color: #DF0101"></i>Great Britain<br>'+
+				'<i style = "background-color: #F3F781"></i>Spain<br>'+
+				'<i style = "background-color: #04B45F"></i>Portugal<br>'+
+				'<i style = "background-color: #424242"></i>Germany<br>'+
+				'<i style = "background-color: #F5A9BC"></i>Italy<br>'+
+				'<i style = "background-color: #81DAF5"></i>Belgium<br>'+
+				'<i style = "background-color: #F3E2A9"></i>The Netherlands<br>'+
+				'<i style = "background-color: #F5DA81"></i>Union of South Africa<br>'
+				;
+				return div;
+			}	
+			legend.addTo(map);
+			
+			var legend = L.control({position : 'topright'});
+			legend.onAdd = function(map){
+				var div = L.DomUtil.create('div', 'legend');
+				div.innerHTML = 
+				'<b>Diplomatic Status</b><br>' +
+				'<i style = "background-color: blue"></i>Commercial Agency<br>'+
+				'<i style = "background-color: white"></i>Consulate General<br>'+
+				'<i style = "background-color: red"></i>Legation<br>'+
+				'<i style = "background-color: gray"></i>Other/Undefined<br>'
+				;
+				return div;
+			}	
+			legend.addTo(map);
+			
+			
+			var bordersLayer = L.geoJson(
+				borders,
+				{style : bordersStyle}
+			).addTo(map);
+			map.fitBounds(bordersLayer.getBounds());
+			
+			var diploLayer = L.geoJson(
+				diplo,
+				{style : diploStyle}
+			).addTo(map);
+			map.fitBounds(diploLayer.getBounds());
+			
+			//var PoltextLayer = L.geoJson(
+				//poltext, {style: poltextStyle
+					//}).bindTooltip(function (layer) {
+						//return String(layer.feature.properties.TextString); // Needs to be a string
+					//} , {direction: 'center', permanent: true, className: 'MyLabel', opacity: 0.9, interactive: true}
+					//).addTo(map);
+					
+			var PoltextLayer = L.geoJson(
+				poltext, {style: poltextStyle,
+					onEachFeature: function (feature, layer) {
+						layer.bindTooltip(feature.properties.TextString, {direction: 'center', permanent: true, className: 'MyLabel', opacity: 0.9, interactive: true}).openTooltip();
+					}
+				}).addTo(map)
+			
+			
+			var slidervar = document.getElementById('slider');
+			noUiSlider.create(slidervar, {
+				connect: true,
+				step: 1,
+				start: [ 1862],
+				range: {
+					min: 1862,
+					max: 1919
+				},
+				
+				
+		
+			
+			});			
+			
+			document.getElementById('input-number').setAttribute("value", 1862);
+			
+			var inputNumber = document.getElementById('input-number');
+			inputNumber.addEventListener('change', function(){
+				slidervar.noUiSlider.set([this.value, null]);
+			});
+			
+			slidervar.noUiSlider.on('update', function( values, handle ) {
+				
+				if (handle==0){
+					document.getElementById('input-number').value = values[0];}
+					
+				rangeMin = document.getElementById('input-number').value;
+				rangeMax = document.getElementById('input-number').value;
+				
+				map.removeLayer(bordersLayer);
+				
+				bordersLayer = new L.geoJson(borders,{
+					style : bordersStyle,
+					onEachFeature: bordersPop,
+					filter:
+						function(feature, layer) {
+							 return (feature.properties.End >= rangeMax) && (feature.properties.Start <= rangeMin);
+						},
+				})
+				
+				
+				bordersLayer.addTo(map)
+				
+				
+				
+				map.removeLayer(diploLayer);
+				
+				diploLayer = new L.geoJson(diplo,{
+					onEachFeature: diploPop,
+					filter:
+						function(feature, layer) {
+							 return (feature.properties.End >= rangeMax) && (feature.properties.Start <= rangeMin);
+						},
+					pointToLayer: diploStyle
+				})
+				
+				diploLayer.addTo(map)
+				
+				map.removeLayer(PoltextLayer);
+				
+				PoltextLayer = new L.geoJson(poltext,{
+					style: poltextStyle, onEachFeature: function (feature, layer) {
+						layer.bindTooltip(feature.properties.TextString, {direction: 'center', permanent: true, className: 'MyLabel', opacity: 0.9, interactive: true}).openTooltip();
+					},
+					filter:
+						function(feature, layer) {
+							 return (feature.properties.End >= rangeMax) && (feature.properties.Start <= rangeMin);
+						},
+				})
+				
+				
+				PoltextLayer.addTo(map)
+			})
+			
+			
+			//Patrick Hoehne
+			
+			//function bordersStyle(feature){
+				//return{
+					//fillColor : 'red',
+					//weight : 2,
+					//opacity : 1,
+					//color: 'white',
+					//dashArray : 3,
+					//fillOpacity : 0.7
+				//}
+			//}	
+		
+			//var map = L.map('map').setView([-95.940140, 41.240616], 0);
+			//var bordersLayer = L.geoJson(
+				//borders,
+				//{style : bordersStyle}
+			//).addTo(map);
+			//map.fitBounds(bordersLayer.getBounds());
+		</script>
+	</body>
+</html>
