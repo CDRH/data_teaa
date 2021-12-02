@@ -11,13 +11,13 @@ class TeiToEs
     xpaths["language"] = "//langUsage/language/@ident"
     #xpaths["publisher"] = "//div2[@type='bibliography']/bibl/publisher"
     xpaths["publisher"] = "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/publisher[1]"
-    xpaths["bibl"] = "/TEI/teiHeader[1]/fileDesc[1]/sourceDesc[1]"
+    xpaths["bibliography"] = "/TEI/teiHeader[1]/fileDesc[1]/sourceDesc[1]"
     xpaths["title_a"] = "/TEI/teiHeader[1]/fileDesc[1]/sourceDesc[1]/bibl/title[@level='a']"
     xpaths["title_m"] = "/TEI/teiHeader[1]/fileDesc[1]/sourceDesc[1]/bibl/title[@level='m']"
     xpaths["title_j"] = "/TEI/teiHeader[1]/fileDesc[1]/sourceDesc[1]/bibl/title[@level='j']"
     xpaths["pub_place"] = "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/pubPlace"
     xpaths["pub_date"] = "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/date"
-    xpaths["pub_date_2"] = "/TEI/teiHeader/fileDesc/sourceDesc/bibl[last()-1]/date"
+    xpaths["pub_date2"] = "/TEI/teiHeader/fileDesc/sourceDesc/bibl[last()-1]/date"
     xpaths["volume"] = "/TEI/teiHeader[1]/fileDesc[1]/sourceDesc[1]/bibl/biblScope[@unit='vol']"
     xpaths["pages"] = "/TEI/teiHeader[1]/fileDesc[1]/sourceDesc[1]/bibl/biblScope[@unit='pages']"
     xpaths["issue"] = "/TEI/teiHeader[1]/fileDesc[1]/sourceDesc[1]/bibl/biblScope[@unit='issue']"
@@ -34,7 +34,6 @@ class TeiToEs
     ]
     xpaths["contributor"] = [
       "/TEI/teiHeader/revisionDesc/change/name",
-      "/TEI/teiHeader/fileDesc/titleStmt/editor",
       "/TEI/teiHeader/fileDesc/titleStmt/respStmt/name"
     ]
     xpaths["recipient"] = "/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type='deliveredTo']/persName"
@@ -82,16 +81,16 @@ class TeiToEs
     @json["person_sender_k"] = build_sender
     
     @json["format_k"] = build_format
-    @json["title_a"] = get_text(@xpaths["title_a"])
-    @json["title_m"] = get_text(@xpaths["title_m"])
-    @json["title_j"] = get_text(@xpaths["title_j"])
+    @json["title_a_k"] = get_text(@xpaths["title_a"])
+    @json["title_m_k"] = get_text(@xpaths["title_m"])
+    @json["title_j_k"] = get_text(@xpaths["title_j"])
     @json["author_cite_k"] = get_text(@xpaths["creator"])
     @json["volume_k"] = get_text(@xpaths["volume"])
     @json["pages_k"] = get_text(@xpaths["pages"])
     @json["issue_k"] = get_text(@xpaths["issue"])
     @json["pub_place_k"] = get_text(@xpaths["pub_place"])
     @json["pub_date_k"] = get_text(@xpaths["pub_date"])
-    @json["pub_date_k2"] = get_text(@xpaths["pub_date_2"])
+    @json["pub_date2_k"] = get_text(@xpaths["pub_date2"])
   end
 
   def build_person_obj(personXml)
@@ -104,20 +103,6 @@ class TeiToEs
       "role" => ""
     }
   end
-
-  # def selected_person_id
-  #   list = []
-  #   people_in_doc = get_list(@xpaths["person"])
-  #   people_in_doc.each do |p|
-  #     if p != ""
-  #       row = @people.select { |row| row["Full Name"].to_s == p }
-  #       if row != nil
-  #         list << p
-  #       end
-  #     end
-  #   end
-  #   return list
-  # end
 
   def build_selected_person
     list = []
@@ -145,7 +130,7 @@ class TeiToEs
   end
 
   def build_format
-    formats = get_elements(@xpaths["bibl"]).map do |ele|
+    formats = get_elements(@xpaths["bibliography"]).map do |ele|
       if (get_text("bibl/title/@level", xml: ele).include? "a") && (get_text("bibl/title/@level", xml: ele).include? "m")
       	if (get_text("bibl/title[@level='m']/@type", xml: ele).include? "main")
       		"book"
@@ -166,6 +151,10 @@ class TeiToEs
   ########################
   #    Field Builders    #
   ########################
+
+  def source
+    build_source
+  end
 
   def person
     eles = get_elements(@xpaths["person"]).map do |p|
@@ -194,6 +183,48 @@ class TeiToEs
       end
     end
     eles.uniq.compact
+  end
+  
+  def build_source
+    source = ""
+    format_k = build_format
+    pub_date = get_text(@xpaths["pub_date"])
+    pub_date2 = get_text(@xpaths["pub_date2"])
+    creator = get_text(@xpaths["creator"])
+    title_a = get_text(@xpaths["title_a"])
+    title_j = get_text(@xpaths["title_j"])
+    title_m = get_text(@xpaths["title_m"])
+    pages = get_text(@xpaths["pages"])
+    publisher = get_text(@xpaths["publisher"])
+    pub_place = get_text(@xpaths["pub_place"])
+    if get_text(@xpaths["pub_date2"]) != ""
+      pub_span = " (" + pub_date + "-" + pub_date2 +") "
+      (source = creator + ", ") unless creator.empty?
+      source = source + "\"" + title_a + ",\" "  + title_j + pub_span
+    elsif format_k == "despatch"
+      source = title_m + ", " + publisher
+    elsif format_k == "article"
+      (source = creator + ", ") unless creator.empty?
+      source = source + "\"" + title_a + ",\" " + title_j
+      (source = source + " (" + pub_date + ")") unless pub_date.empty?
+      (source = source + ": " + pages) unless pages.empty?
+    elsif format_k == "other"
+      (source = creator + ", ") unless creator.empty?
+      source = source + "\"" + title_a + ",\" "  
+      (source = source + title_m) unless title_m.empty?
+      (source = source + title_j) unless title_j.empty?
+      (source = source + " (" + pub_date + ")") unless pub_date.empty?
+      (source = source + ": " + pages) unless pages.empty?
+    else
+      (source = creator + ", ") unless creator.empty?
+      (source = source + "\"" + title_a + ",\" ") unless title_a.empty?
+      source = source + title_m
+      (source = source + ", " + pub_place) unless pub_place.empty?
+      (source = source + ", " + publisher) unless publisher.empty?
+      (source = source + " (" + pub_date + ")") unless pub_date.empty?
+      (source = source + ": " + pages) unless pages.empty?
+    end
+    source
   end
 
   def call_analysis_file(filename)
