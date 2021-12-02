@@ -184,7 +184,7 @@ class TeiToEs
     end
     eles.uniq.compact
   end
-
+  
   def build_source
     source = ""
     format_k = build_format
