@@ -91,7 +91,6 @@ class TeiToEs
     @json["pub_place_k"] = get_text(@xpaths["pub_place"])
     @json["pub_date_k"] = get_text(@xpaths["pub_date"])
     @json["pub_date2_k"] = get_text(@xpaths["pub_date2"])
-    @json["source"] = build_source
   end
 
   def build_person_obj(personXml)
@@ -104,20 +103,6 @@ class TeiToEs
       "role" => ""
     }
   end
-
-  # def selected_person_id
-  #   list = []
-  #   people_in_doc = get_list(@xpaths["person"])
-  #   people_in_doc.each do |p|
-  #     if p != ""
-  #       row = @people.select { |row| row["Full Name"].to_s == p }
-  #       if row != nil
-  #         list << p
-  #       end
-  #     end
-  #   end
-  #   return list
-  # end
 
   def build_selected_person
     list = []
@@ -166,6 +151,10 @@ class TeiToEs
   ########################
   #    Field Builders    #
   ########################
+
+  def source
+    build_source
+  end
 
   def person
     eles = get_elements(@xpaths["person"]).map do |p|
