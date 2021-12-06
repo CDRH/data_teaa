@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Drouyn de L'huy to Count of Chasseloup-Laubat, March 4, 1863</title>
+<title>Correspondence from Édouard Drouyn de Lhuys to Prosper de Chasseloup-Laubat, March 7, 1863</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas, Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
@@ -42,8 +43,8 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Drouyn de L'huy to Count of Chasseloup-Laubat</title>
-<date when="1863-03-04">March 4, 1863</date>
+<title level="m">Correspondence from Édouard Drouyn de Lhuys to Prosper de Chasseloup-Laubat</title>
+<date when="1863-03-07">March 7, 1863</date>
 </bibl>
 <msDesc>
 <msIdentifier>
@@ -75,24 +76,22 @@
 </keywords>   
     
 <keywords scheme="viaf" n="people">
-<term>May, Francis</term>
-<term>Didelot</term>
-<term>Seward</term>
+<term ref="http://viaf.org/viaf/173655340">Didelot, Octave François Charles 1812-1887</term>
+<term>May, Henry</term><!-- misnamed Francis -->
+<term ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
-<term>Washington</term>
-<term>Paris</term>
+<term>Gaboon</term>
+</keywords>
 
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
-</keywords>
-    
-<keywords scheme="original" n="language">
-<term>French</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -103,24 +102,25 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Drouyn de L'huy</persName>
-<roleName/>
+<persName ref="http://viaf.org/viaf/17525718">Drouyn de Lhuys, Édouard, 1805-1881</persName>
+<roleName>Minister of Foreign Affairs</roleName>
 <placeName>Paris (France)</placeName>
-<date when="1863-03-04"/>
+<date when="1863-03-07"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName>Count of Chasseloup-Laubat</roleName>
+<persName ref="http://viaf.org/viaf/2461198">Chasseloup-Laubat, Prosper, marquis de, 1805-1873</persName>
+<roleName>Minister of the Navy and the Colonies</roleName>
 <placeName/>
+<date when="1863-03-08"/>
 </correspAction>
 </correspDesc>
-
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -132,29 +132,26 @@
 
 <pb n="20160614_110833.jpg"/>
 
-<ab>
+<fw type="letterhead">
 Ministère
 des
-Affaires Etrangèrs
-</ab>
+Affaires Étrangers
+</fw>
 
-<ab>
+<fw type="letterhead">
 DIRECTION DE CONSULATS
 et
-AFFAIRES ETRANGÈRS
-</ab>
+AFFAIRES ÈTRANGERS
+</fw>
 
-<ab>
-Paris, le 4 Mars 1863
-</ab>
+<p>Paris, le 7 Mars 1863.</p>
 
-<p>
-Monsieur le Comte et Cher
+<p>Monsieur le Comte et Cher
 Collègue, vous m'avez fait l'honneur
 de me communiquer, le 20 du mois
 dernier, un rapport adressé à votre
 Département par M. le Commandant
-et Chef de la Division navale des
+en Chef de la Division Navale des
 côtes Occidentales d'Afrique au
 sujet de M. Francis May, qui
 s'est présenté au Gabon en qualité
@@ -167,43 +164,22 @@ qu'il fait porteur d'une Commission
 signée par M. Seward, Secrétaire
 d'Etat à Washington, et qu'il s'est
 borné à lui faire délivrer un permis
-</p>
 
-<ab>
-<supplied>Le</supplied> Monsieur le Comte de Chasseloup-Laubat,
-ministre de la Marin et des Colonies.
-</ab>
 
-<note>
-768
-V
-</note>
-
-<note>
-801/17 mar
-</note>
-
-<note>
-Dans <supplied>le</supplied> 26 Mars à
-M. le Cons. <supplied>de</supplied> <supplied>le</supplied> DA. des <supplied>Côte</supplied>
-Occide. d'Afrique
-</note>
-
-<note>
-Rép: 24 Mars 1833
-</note>
+<fw type="address">
+Le Monsieur le Comte de Chasseloup-Laubat,<lb/>
+Ministre de la Marine et des Colonies.
+</fw>
 
 <pb n="20160614_110842.jpg"/>
 
-<p>
-de séjour en l'invitant à se mettre en
-règle vis à vis du gouvernement Impérial <!-- 'Impérial' is split and hyphenated across two lines between 'Impé-' and '-rial' -->
-par l'entremise de la légation
-des Etats-Unis à Paris.
-</p>
 
-<p>
-Je ne puis qu'approuver,
+de séjour en l'invitant à se mettre en
+règle vis à vis du gouvernement Impérial
+par l'entremise de la légation
+des Etats-Unis à Paris.</p>
+
+<p>Je ne puis qu'approuver,
 Mousieur le Comte et Cher Collègue,
 la conduite tenue par M. le
 Commandant Didelot en cette
@@ -215,193 +191,165 @@ ce qui concerne M. May. Je crois
 devoir seulement vous faire observer
 que si une demande d'exequatur
 m'était adressée pour cet agent par
-la voie réguliére, il serait difficile
+la voie régulière, il serait difficile
 de n'y pas donner suite, à moins
 de motif, tout à fait exceptionnels,
 et les objections indiquées par M.
 le Commandant Didelot, quelque
-</p>
+
 
 <pb n="20160614_110856.jpg"/>
 
-<p>
+
 sérieuses qu'elles puissent être, ne me
 paraîtraient pas suffisantes pour
 justifier un refus de notre part nous
 ne devons pas, en effet, nous exposer
 à ce que le gouvernement fédéral, qui
 autorise nos agents à résider
-sur tous les points des Etats-Unis <!-- 'Etats-Unis' was originally on two seperate lines. -->
+sur tous les points des Etats-Unis
 où il nous convient d'en
 établir, vienne à se prévaloir,
 pour apporter dorénavant des 
 obstacles à leur admission,
 de considérations analogues à
-celles que nous aurions nous-mêmes <!-- 'nous-mêmes' was originally on two lines. -->
-invoquées en cette circonstance. <!-- 'circonstance' is hyphenated and split across lines between 'circons' and '-tance' -->
+celles que nous aurions nous-mêmes 
+invoquées en cette circonstance. 
 Je n'ai d'ailleurs pas
 besoin d'ajouter que s'il existait,
-pour ne pas reconnaître M. <supplied>May</supplied>
+pour ne pas reconnaître M. May
 le cas échéant, comme Agent
 Consulaire des Etats-Unis au gabon
-des motifs qui présenteraient <supplied>une</supplied>
+des motifs qui présenteraient une
 gravité réelle sans être de nature
-</p>
+
 
 <pb n="20160614_110911.jpg"/>
 
-<p>
+
 créer un précédent à notre propre
 préjudice, je serais tout disposé
-à en tenir compte./.
-</p>
+à en tenir compte.</p>
 
-<p>
-Agréez, Monsieur le Comte
+<p>Agréez, Monsieur le Comte
 et Cher Collègue, les assurances de
-ma haute considération.
+ma haute considération.</p>
 
-Drouyn de Lhuys <!-- Signature -->
-</p>
+<p>Drouyn de Lhuys</p> 
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_110833.jpg"/>
-                
-                <ab>
-                    Minister
-                    of
-                    Foreign Affairs
-                </ab>
-                
-                <ab>
-                    DIRECTION OF CONSULATS
-                    and
-                    FOREIGN AFFAIRS
-                </ab>
-                
-                <ab>
-                    Paris, March 4th 1863
-                </ab>
-                
-                <p>
-                    Mister Count and dear
-                    colleague, you gave me the honor
-                    of communicating to me, the 20th of last
-                    month, a report addressed to your
-                    Department by Mr. Commander
-                    and Chief of the naval Division of the
-                    East coasts of Africa on the
-                    subject of Mr. Francis May, who
-                    presented himself in Gabon in quality
-                    of Commercial officer of the United States
-                    in this colony. It resulted
-                    that Mr. Commander Didelot
-                    did not believe to be able to meet the 
-                    official character of this officer, even
-                    though he is a supporter of a Commission
-                    signed by Mr. Seward, Secretary
-                    of State in Washington, and that he limited
-                    himself to deliver to him a permit
-                </p>
-                
-                <ab>
-                    <supplied>The</supplied> Mister Count of Chasseloup-Laubat,
-                    minister of the Navy and the Colonies.
-                </ab>
-                
-                <note>
-                    768
-                    V
-                </note>
-                
-                <note>
-                    801/17 mar
-                </note>
-                
-                <note>
-                    In <supplied>the</supplied> March 6th to
-                    Mr. Cons. <supplied>of</supplied> <supplied>the</supplied> DA. of the East <supplied>Coast</supplied>
-                    of Africa
-                </note>
-                
-                <note>
-                    Rép: March 24th 1833
-                </note>
-                
-                <pb n="20160614_110842.jpg"/>
-                
-                <p>
-                    of stay and invited him to put himself
-                    according to the law regarding the Imperial government <!-- 'Impérial' is split and hyphenated across two lines between 'Impé-' and '-rial' -->
-                    by mediator of the legation
-                    of the United States in Paris.
-                </p>
-                
-                <p>
-                    I can only approve,
-                    Mister Count and dear colleague,
-                    of the behavior held by Mr. 
-                    Commander Didelot in this
-                    occasion. Until to preserve, of the
-                    rest, no communication
-                    was addressed to my Department
-                    by the Legation of the United States
-                    concerning  Mr. May. I believe
-                    to be able to only make you observe
-                    that if a demand of authorization
-                    was addressed to me for this officer by
-                    the regular route, it would be difficult
-                    not to follow up, at least
-                    with reason, completely exceptional,
-                    and the ojections indicated by Mr.
-                    Commander Didelot, some
-                </p>
-                
-                <pb n="20160614_110856.jpg"/>
-                
-                <p>
-                    serious things they can be, do not
-                    seem to me sufficient for
-                    justifying a refusal on our part we
-                    do not need to, in effect, expose ourselves
-                    to what the federal government, who
-                    is authorizing our officers to reside
-                    in all of the points of the United States  <!-- 'Etats-Unis' was originally on two seperate lines. -->
-                    where it is suitable for us to establish
-                    ourselves, has come to claim,
-                    to bring from now on the 
-                    obstacles to their admission,
-                    of similar considerations to
-                    those that we will have ourselves <!-- 'nous-mêmes' was originally on two lines. -->
-                    invoked in this circumstance. <!-- 'circonstance' is hyphenated and split across lines between 'circons' and '-tance' -->
-                    I do not incidentally
-                    need to add that if it existed,
-                    to not meet Mr. <supplied>May</supplied>
-                    the due case, as Consulate
-                    Officer of the United States in gabon
-                    of the motives that present <supplied>a</supplied>
-                    real gravity without being of the nature
-                </p>
-                
-                <pb n="20160614_110911.jpg"/>
-                
-                <p>
-                    creates a precedent of our own
-                    prejudice, I would be completely prone
-                    to consider it./.
-                </p>
-                
-                <p>
-                    Accept, Mister Count
-                    and dear colleague, the assurances of
-                    my highest consideration.
-                    
-                    Drouyn de Lhuys <!-- Signature -->
-                </p>
-                
-            </div1>
+<pb n="20160614_110833.jpg"/>
+
+<fw type="letterhead">
+Minister
+of
+Foreign Affairs
+</fw>
+
+<fw type="letterhead">
+DIRECTION OF CONSULATES
+and
+FOREIGN AFFAIRS
+</fw>
+
+<p>Paris, March 4, 1863.</p>
+
+<p>Mister Count and dear
+colleague, you gave me the honor
+of communicating to me, the 20th of last
+month, a report addressed to your
+Department by Mr. Commander
+and Chief of the naval Division of the
+East coasts of Africa on the
+subject of Mr. Francis May, who
+presented himself in Gabon as
+Commercial Agent of the United States
+in this colony. It resulted
+that Commander Didelot
+did not believe he had to recognize the 
+official character of this agent, even
+though he carries a Commission
+signed by Mr. Seward, Secretary
+of State in Washington, and that he limited
+himself to deliver to him a permit
+
+
+<fw type="address">
+Mr. Count of Chasseloup-Laubat,<lb/>
+Minister of the Navy and the Colonies.
+</fw>
+
+
+<pb n="20160614_110842.jpg"/>
+
+
+of stay and invited him to put himself
+according to the law regarding the Imperial government
+by mediator of the legation
+of the United States in Paris.</p>
+
+<p>I can only approve,
+Mr. Count and dear colleague,
+of the behavior held by  
+Commander Didelot in this
+occasion. Until to preserve, of the
+rest, no communication
+was addressed to my Department
+by the Legation of the United States
+concerning Mr. May. I believe
+to be able to only make you observe
+that if a demand of authorization
+was addressed to me for this agent by
+the regular route, it would be difficult
+not to follow up, at least
+with reason, completely exceptional,
+and the objections indicated by Mr.
+Commander Didelot, some
+
+
+<pb n="20160614_110856.jpg"/>
+
+
+serious things they can be, do not
+seem to me sufficient for
+justifying a refusal on our part we
+do not need to, in effect, expose ourselves
+to what the federal government, who
+is authorizing our officers to reside
+in all of the points of the United States 
+where it is suitable for us to establish
+ourselves, has come to claim,
+to bring from now on the 
+obstacles to their admission,
+of similar considerations to
+those that we will have ourselves 
+invoked in this circumstance. 
+I do not incidentally
+need to add that if it existed,
+to not meet Mr. May
+the due case, as Consulate
+Agent of the United States in Gabon
+of the motives that present a
+real gravity without being of the nature
+
+
+<pb n="20160614_110911.jpg"/>
+
+
+creates a precedent of our own
+prejudice, I would be completely prone
+to consider it.</p>
+
+<p>Accept, Mr. Count
+and dear colleague, the assurances of
+my highest consideration.</p>
+
+<p>Drouyn de Lhuys</p>
+
+</div1>
 </body>
 </text>
 

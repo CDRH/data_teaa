@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0025.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0025">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Director of Personel to Director of Colonies, March 4, 1864</title>
+<title>Correspondence from the Director of Personnel to the Director of the Colonies, March 4, 1864</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Director of Personel to Director of Colonies</title>
+<title level="m">Correspondence from the Director of Personnel to the Director of the Colonies</title>
 <date when="1864-03-04">March 4, 1864</date>
 </bibl>
 <msDesc>
@@ -76,21 +77,18 @@
     
 <keywords scheme="viaf" n="people">
 <term>May, Henry</term>
-
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
-<term>Paris</term>
-
+<term>Gaboon</term>
 </keywords>
     
-<keywords scheme="original" n="ethnic_group">
+<keywords scheme="original" n="powers">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>French</term>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -102,24 +100,25 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName/>
-<roleName>Director of Personel</roleName>
+<roleName>Director of Personnel</roleName>
 <placeName>Paris (France)</placeName>
 <date when="1864-03-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName/>
-<roleName>Director of Colonies</roleName>
+<roleName>Director of the Colonies</roleName>
 <placeName/>
+<date when="1864-03-04"/>
 </correspAction>
 </correspDesc>
-
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2019" who="sab">Edited encoding.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -131,144 +130,95 @@
 
 <pb n="20160614_111236.jpg"/>
 
-<ab>
+<fw type="letterhead">
 Ministère
 de la Marine
 et des Colonies
-</ab>
+</fw>
 
-<ab>
-2e Direction
+<fw type="letterhead">
+2e Direction<lb/>
 Personnel
-</ab>
+</fw>
 
-<ab>
-2e Bureau
-1e Section
-<unclear/> Maritime
-</ab>
+<fw type="letterhead">
+2e Bureau<lb/>
+1e Section<lb/>
+Inscription Maritime
+</fw>
 
-<ab>
-NOTA. Les répouses doivent être
+<fw type="letterhead">
+NOTA. Les réponses doivent être
 adressées au Ministre et porter en
 marge l'indication ci-dessus.
-</ab>
+</fw>
 
-<ab>
-Paris, le 4 Mars      1864.
-</ab>
+<p>Paris, le 4 Mars 1864.</p>
 
-<ab>
-Note
-pour la 4e Direction
-</ab>
+<p>Note<lb/>
+pour la 4e Direction</p>
 
-<p>
-J'ai l'honneur de transmettre ci-joint à
-Monsieur le Directeur des Colonies comme rentrans
+<p>J'ai l'honneur de transmettre ci-joint à
+Monsieur le Directeur des Colonies comme rentrant
 par son objet dans ses attributions une lettre du
 Ministre des Affaires Etrangers relative à une demande
 d'exequatur formée par la Légation des Etats unis à
 Paris en faveur de M. Henry May que le
-Gouvernment de l'union vient de nommer agent
-commercial au Gabon.
-</p>
+Gouvernement de l'union vient de nommer agent
+commercial au Gabon.</p>
 
-<p>
-Le Directeur du Personnel
-<unclear>A. Mocitoe</unclear> <!-- Signature -->
-</p>
+<p>Le Directeur du Personnel</p>
 
-<note>
-<unclear>M Roy,</unclear>
-</note>
-
-<note>
-Avez vous le lettre qui a été
-<unclear/> il y <unclear>déja quelque fois</unclear>
-<unclear>pour la</unclear> <unclear/> <unclear/> <unclear/>?
-</note>
-
-<note>
-E.132.
-</note>
-
-<note>
-No <unclear>671</unclear>
-</note>
+<p><unclear>A. Mocitoe</unclear></p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_111236.jpg"/>
-                
-                <ab>
-                    Minister
-                    of the Navy
-                    and the Colonies
-                </ab>
-                
-                <ab>
-                    2nd Direction
-                    Personal
-                </ab>
-                
-                <ab>
-                    2nd Office
-                    1st Section
-                    <unclear/> Maritime
-                </ab>
-                
-                <ab>
-                    NOTA. The responses must be
-                    adressed to the Minister and put in the
-                    margin the indication above.
-                </ab>
-                
-                <ab>
-                    Paris, March 4th      1864.
-                </ab>
-                
-                <ab>
-                    Note
-                    for the 4th Direction
-                </ab>
-                
-                <p>
-                    I have the honor of transmitting enlcosed to
-                    Mister Director of the Colonies as a substitute
-                    by his object in his attributions a letter of the
-                    Minister of Foreign Affairs relative to a demand
-                    of authorization formed by the Legation of the United States in
-                    Paris in favor of Mr. Henry May that the
-                    Government of the union has just named commercal
-                    officer in Gabon
-                </p>
-                
-                <p>
-                    The Director of Personnel
-                    <unclear>A. Mocitoe</unclear> <!-- Signature -->
-                </p>
-                
-                <note>
-                    <unclear>M Roy,</unclear>
-                </note>
-                
-                <note>
-                    Do you have the letter that was
-                    <unclear/> il y a <unclear>already a few times</unclear>
-                    <unclear>for the</unclear> <unclear/> <unclear/> <unclear/>?
-                </note>
-                
-                <note>
-                    E.132.
-                </note>
-                
-                <note>
-                    No <unclear>671</unclear>
-                </note>
-                
-            </div1>
+<pb n="20160614_111236.jpg"/>
+
+<fw type="letterhead">
+Minister
+of the Navy
+and the Colonies
+</fw>
+
+<fw type="letterhead">
+2nd Direction<lb/>
+Personal
+</fw>
+
+<fw type="letterhead">
+2nd Office<lb/>
+1st Section<lb/>
+Maritime Registration
+</fw>
+
+<fw type="letterhead">
+NOTE. The responses must be
+addressed to the Minister and put in the
+above indication in the margin.
+</fw>
+
+<p>Paris, March 4th  1864.</p>
+
+<p>Note<lb/>
+for the 4th Direction</p>
+
+<p>I have the honor of transmitting the enclosed to
+the Director of the Colonies as a substitute
+by his object in his attributions a letter from the
+Minister of Foreign Affairs relative to a demand
+of authorization by the Legation of the United States in
+Paris in favor of Mr. Henry May that the
+Government of the Union has just named Commercial
+Agent in Gabon.</p>
+
+<p>The Director of Personnel</p>
+
+<p><unclear extent="one signature"/></p>
+
+</div1>
 </body>
 </text>
 

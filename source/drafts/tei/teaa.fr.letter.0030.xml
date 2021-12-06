@@ -10,9 +10,10 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -75,35 +76,25 @@
 </keywords>     
     
 <keywords scheme="viaf" n="people">
-<term>M. le Comte</term>
-<term>Minister of the Navy and the Colonies</term>
-
-
-</keywords>
-    
-<keywords scheme="original" n="places">
-<term>Côte-d'Or</term>
-<term>Gabon</term>
-<term>Paris</term>
-
-</keywords>
-    
-<keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="places">
+<term>Gaboon</term>
+<term>Ivory Coast</term>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
@@ -116,15 +107,17 @@
 <correspAction type="deliveredTo">
 <roleName>M. le Comte</roleName>
 <placeName/>
+<date when="1864-04-16"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2018" who="sab">Encoded.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -136,33 +129,28 @@
 
 <pb n="20160614_111350.jpg"/>
 
-<ab>
+<fw type="letterhead">
 Ministère
 des
 Affaires Etrangères
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 DIRECTION DES CONSULATS
 et
 Affaires Commerciales
-</ab>
+</fw>
 
-<ab>
-Paris, le 15 Avril 1864
-</ab>
+<p>Paris, le 15 Avril 1864.</p>
 
-<p>
-Monsieur le Comte et cher collègue, J'ai
-l'honneur de vous adresser ci-joint l'exequator
+<p>Monsieur le Comte et cher collègue, J'ai
+l'honneur de vous adresser ci-joint l'exequatur
 que, d'après les renseignements contenus dans
 votre lettre du 24 du mois dernier, j'ai cru devoir
 délivrer à M. Henry May, nommé Agent
-Commercial des Etats Unis au Gabon.
-</p>
+Commercial des Etats Unis au Gabon.</p>
 
-<p>
-Conformément à la marche adoptée,
+<p>Conformément à la marche adoptée,
 au mois d'Août 1834, entre le Département des
 Affaires Etrangères et celui de la Marine et des
 Colonies en ce qui concerne la reconnaissance des
@@ -171,11 +159,67 @@ je prie Votre Excellence de vouloir bien donner
 l'ordre que cette pièce soit envoyée à M. le
 Gouverneur des Etablissements français
 de la Côte d'Or et du Gabon, pour qu'il
+
+<fw type="address">
+Son Excellence Monsieur le Ministre de la Marine
+et des Colonies.
+</fw>
+
+<pb n="20160614_111402.jpg"/>
+
+en fasse la remise à M. Henry May.</p>
+
+<p>Agréez, Monsieur le comte et cher collègue, les <unclear>assurances</unclear>
+de ma haute considération.</p>
+
+<p>Drouyn de Lhuys</p>
+
+</div1>
+
+<div1 xml:lang="en" type="translation">
+                
+<pb n="20160614_111350.jpg"/>
+
+<ab>
+Minister
+of
+Foreign Affairs
+</ab>
+
+<ab>
+DIRECTION of CONSULATS
+and
+Commercial Affairs
+</ab>
+
+<ab>
+Paris, April 15th 1864
+</ab>
+
+<p>
+Mister Count and dear colleague, I have
+the honor to address to you enclosed the exequatur
+that,according to the information contained in
+your letter from the 24th of last month, I believed to have to
+deliver to Mr. Henry May, named Commercial
+Agent of the United States in Gabon.
+</p>
+
+<p>
+In compliance with the adopted demonstration,
+in the month of August 1834, between the Department of
+Foreign Affairs and the Navy and the
+Colonies concerning the recognition of the
+foreign Consuls in the french colonies,
+I pray Your Excellence that you give
+the order that this document be sent to Mr.
+Governor of the french colonies
+of the Côte d'Or and of Gabon, so that he
 </p>
 
 <ab>
-<supplied>Son</supplied> Excellence Monsieur le Ministre de la Marine
-<supplied>et</supplied> des Colonies.
+<supplied>His</supplied> Excellence Mister Minister of the Navy
+<supplied>and</supplied> the Colonies.
 </ab>
 
 <note>
@@ -193,102 +237,23 @@ E. 211
 
 <note>
 <unclear>C de la</unclear> <unclear/>
-21 Avril 1863.
+April 21st 1863.
 </note>
 
 <pb n="20160614_111402.jpg"/>
 
 <p>
-en fasse la remise à M. Henry May./.
+delivery to Mr. Henry May./.
 </p>
 
 <p>
-Agréez, Monsieur le comte et cher collègue, les <supplied>assurances</supplied>
-de ma haute considération.
+Accept, Mister Count and dear colleague, the <supplied>assurances</supplied>
+of my highest consideration.
 
 <unclear/> <!-- Signature -->
 </p>
 
 </div1>
-
-<div1 xml:lang="en" type="translation">
-                
-                <pb n="20160614_111350.jpg"/>
-                
-                <ab>
-                    Minister
-                    of
-                    Foreign Affairs
-                </ab>
-                
-                <ab>
-                    DIRECTION of CONSULATS
-                    and
-                    Commercial Affairs
-                </ab>
-                
-                <ab>
-                    Paris, April 15th 1864
-                </ab>
-                
-                <p>
-                    Mister Count and dear colleague, I have
-                    the honor to address to you enclosed the exequatur
-                    that,according to the information contained in
-                    your letter from the 24th of last month, I believed to have to
-                    deliver to Mr. Henry May, named Commercial
-                    Agent of the United States in Gabon.
-                </p>
-                
-                <p>
-                    In compliance with the adopted demonstration,
-                    in the month of August 1834, between the Department of
-                    Foreign Affairs and the Navy and the
-                    Colonies concerning the recognition of the
-                    foreign Consuls in the french colonies,
-                    I pray Your Excellence that you give
-                    the order that this document be sent to Mr.
-                    Governor of the french colonies
-                    of the Côte d'Or and of Gabon, so that he
-                </p>
-                
-                <ab>
-                    <supplied>His</supplied> Excellence Mister Minister of the Navy
-                    <supplied>and</supplied> the Colonies.
-                </ab>
-                
-                <note>
-                    M. Roy
-                </note>
-                
-                <note>
-                    Col
-                    1199
-                </note>
-                
-                <note>
-                    E. 211
-                </note>
-                
-                <note>
-                    <unclear>C de la</unclear> <unclear/>
-                    April 21st 1863.
-                </note>
-                
-                <pb n="20160614_111402.jpg"/>
-                
-                <p>
-                    delivery to Mr. Henry May./.
-                </p>
-                
-                <p>
-                    Accept, Mister Count and dear colleague, the <supplied>assurances</supplied>
-                    of my highest consideration.
-                    
-                    <unclear/> <!-- Signature -->
-                </p>
-                
-            </div1>
 </body>
 </text>
 
