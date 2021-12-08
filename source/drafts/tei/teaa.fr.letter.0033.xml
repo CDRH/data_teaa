@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0033.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0033">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Minister of Navy and Colonies to Marquis of Chasseloup-Laubat, January 4, 1867</title>
+<title>Correspondence from   to Prosper de Chasseloup-Laubat, January 4, 1867</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Minister of Navy and Colonies to Marquis of Chasseloup-Laubat</title>
+<title level="m">Correspondence from   to Prosper de Chasseloup-Laubat</title>
 <date when="1867-01-04">January 4, 1867</date>
 </bibl>
 <msDesc>
@@ -75,56 +75,49 @@
 </keywords>     
     
 <keywords scheme="viaf" n="people">
-<term>Fleuriot</term>
+<term ref="http://viaf.org/viaf/57396365">Langle, Paul Antoine Marie Fleuriot, vicomte de, 1744-1787</term>
 <term>May, Henry</term>
-<term>Perrot, Augustin</term>
-
+<term>Perrot, Augustus</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
+<term>Fernando Po (Spanish Guinea)</term>
+<term>Gaboon</term>
+</keywords>
 
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
-    
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName/>
-<roleName>Minister of Navy and Colonies</roleName>
+<roleName/>
 <placeName>Paris (France)</placeName>
 <date when="1867-01-04"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName>Marquis of Chasseloup-Laubat</roleName>
-<placeName>Gabon</placeName>
+<persName ref="http://viaf.org/viaf/2461198">Chasseloup-Laubat, Prosper, marquis de, 1805-1873</persName>
+<roleName>Minister of the Navy and the Colonies</roleName>
+<date when="1867-01-05"/>
 </correspAction>
 </correspDesc>
-
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
 <change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -136,178 +129,122 @@
 
 <pb n="20160614_111510.jpg"/>
 
-<ab>
+<fw type="letterhead">
 Ministère
 des
-<supplied>Affaires</supplied> Etrangères
-</ab>
+Affaires Etrangères
+</fw>
 
-<ab>
-<supplied>DIRECTION DES CONSULATS</supplied>
+<fw type="letterhead">
+DIRECTION DES CONSULATS
 et
-<supplied>les Affaires Commerciales</supplied>
-</ab>
+Affaires Commerciales
+</fw>
 
-<ab>
-Paris, le 4 Janvier     1867
-</ab>
+<p>Paris, le 4 Janvier 1867</p>
 
-<p>
-Monsieur le Marquis et Cher
+<p>Monsieur le Marquis et Cher
 Collègue, Vous avez bien voulu me communiquer,
 le 17 du mois dernier, une lettre
-par laquelle M. le Commandant en Chef de
+par laquelle Mr. le Commandant en Chef de
 la Division navale des Côtes Occidentales
-d'Afrique vous a fair connaître l'arrivée
-à Fernando Põ de Me Augstin Perrot,
+d'Afrique vous a fait connaître l'arrivée
+à Fernando Põ de Mr Augustin Perrot,
 nommé Agent Commercial des Etats-Unis
-au Gabon en remplacement de Me. He.
-May.
-</p>
+au Gabon en remplacement de Mr. H.
+May.</p>
 
-<p>
-Je remercie Votre Excellence de
+<p>Je remercie Votre Excellence de
 cette communication. Lorsque la commission
-</p>
 
-<ab>
-<supplied>Votre Excellence</supplied> Monsieur le Marquis de Chasseloup - Laubat,
-<supplied>le Ministre</supplied> de la Marine et des Colonies.
-</ab>
-
-<note>
-Rép le 14 Janvier 1867.
-</note>
-
-<note>
-Dép. au Gabon, le 14 Janv, 1867. no. g.
-</note>
-
-<note>
-97 M Roy
-</note>
-
-<note>
-96.8
-</note>
+<fw type="address">
+<unclear>Son</unclear> Excellence Monsieur le Marquis de Chasseloup-Laubat,<lb/>
+<unclear>le</unclear> Ministre de la Marine et des Colonies.
+</fw>
 
 <pb n="20160614_111519.jpg"/>
 
-<p>
 délivrée par le gouvernement Fédéral à
-Me Perrot aura été régulièrement transmise
+Mr Perrot aura été régulièrement transmise
 à mon Département, je m'empresserai
 de la soumettre à l'approbation de Sa
 Majesté. Ce n'est, qu'après avoir reçu avis
 de l'accomplissement de cette formalité, que
-Me le Contre-Amiral Fleuriot de <supplied>L'Angle</supplied>
-devra autoriser le nouvel agent des Etats-Unis <!-- 'Etats-Unis' is on two lines and is split between 'Etats' and 'Unis' -->
+Mr le Contre-Amiral Fleuriot de Langle
+devra autoriser le nouvel agent des Etats-Unis 
 à exercer ses fonctions dans notre
-colonie du gabon./.
-</p>
+colonie du Gabon.</p>
 
-<p>
-Agréez, Monsieur le Marquis et Cher
-Collègue, les assurances de ma haut considération.
-</p>
+<p>Agréez, Monsieur le Marquis et Cher
+Collègue, les assurances de ma haute considération.</p>
 
-<p>
-Pour le Ministre et par autorisation.
-Le Conseiller d'Etat, Directeur
-des Consulats et Affaires Commerciales.
+<p>Pour le Ministre et par autorisation.<lb/>
+Le Conseiller d'Etat, Directeur<lb/>
+des Consulats et Affaires Commerciales.</p>
 
-<unclear>M. herbel</unclear> <!-- Signature -->
-</p>
+<p><unclear extent="signature"/></p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_111510.jpg"/>
-                
-                <ab>
-                    Minister
-                    of
-                    <supplied>Foreign</supplied> Affairs
-                </ab>
-                
-                <ab>
-                    <supplied>DIRECTION OF THE CONSULATS</supplied>
-                    and
-                    <supplied>Commercial Affairs</supplied>
-                </ab>
-                
-                <ab>
-                    Paris, January 4th     1867
-                </ab>
-                
-                <p>
-                    Mister Marquis and dear
-                    colleague, you communicated to me,
-                    on the 17th of last month, a letter
-                    by which Mr. Commander in Chief of
-                    the naval Division of the West Coast
-                    of Africa informed you of the arrival
-                    to Fernando Põ of Mr Augstin Perrot,
-                    named Commercial Officer of the United States
-                    in Gabon in replacement of Mr. He.
-                    May.
-                </p>
-                
-                <p>
-                    I rethank Your Excellence for
-                    this communication. When the commission
-                </p>
-                
-                <ab>
-                    <supplied>Your Excellence</supplied> Mister Marquis of Chasseloup - Laubat,
-                    <supplied>the Minister</supplied> of the Navy and the Colonies.
-                </ab>
-                
-                <note>
-                    Responded January 4th 1867.
-                </note>
-                
-                <note>
-                    Dép. in Gabon, Jan 14th, 1867. no. g.
-                </note>
-                
-                <note>
-                    97 M Roy
-                </note>
-                
-                <note>
-                    96.8
-                </note>
-                
-                <pb n="20160614_111519.jpg"/>
-                
-                <p>
-                    delivered by the Federal government to
-                    Mr Perrot is transmitted regularly
-                    to my department, I will hasten to
-                    submit it to the approval of His
-                    Majesty. This is, after having received notice
-                    of the accomplishment of this formality, only
-                    Mr Counter Admiral Fleuriot de <supplied>L'Angle</supplied>
-                    will need to authorize the new agent of the United States <!-- 'Etats-Unis' is on two lines and is split between 'Etats' and 'Unis' -->
-                    to exercise his duties in our
-                    colony of gabon./.
-                </p>
-                
-                <p>
-                    Accept, Mister Marquis and dear
-                    colleague, the assurances of my highest consideration.
-                </p>
-                
-                <p>
-                    For the Minister and by authorization.
-                    The Councillor of State, Director
-                    of Consulats and Commercial Affairs.
-                    
-                    <unclear>Mr. herbel</unclear> <!-- Signature -->
-                </p>
-                
-            </div1>
+<pb n="20160614_111510.jpg"/>
+
+<fw type="letterhead">
+Minister
+of
+Foreign Affairs
+</fw>
+
+<fw type="letterhead">
+DIRECTION OF THE CONSULATES
+and
+Commercial Affairs
+</fw>
+
+<p>Paris, January 4, 1867</p>
+
+<p>Mr. Marquis and dear
+colleague, you communicated to me,
+on the 17th of last month, a letter
+by which Mr. Commander in Chief of
+the Naval Division of the West Coast
+of Africa informed you of the arrival
+to Fernando Põ of Mr. Augustin Perrot,
+named Commercial Officer of the United States
+in Gabon in replacement of Mr. H.
+May.</p>
+
+<p>I thank Your Excellency for
+this communication. When the commission
+
+<fw type="address">
+His Excellency the Marquis de Chasseloup-Laubat,<lb/>
+the Minister of the Navy and the Colonies.</fw>
+
+<pb n="20160614_111519.jpg"/>
+
+delivered by the Federal government to
+Mr Perrot is transmitted regularly
+to my department, I will hasten to
+submit it to the approval of His
+Majesty. Only after receiving notice
+of the completion of this formality, that
+Mr. Rear-Admiral Fleuriot de Langle
+will need to authorize the new United States agent 
+to exercise his duties in our
+colony of Gabon.</p>
+
+<p>Accept, Mr. Marquis and dear
+colleague, the assurances of my highest consideration.</p>
+
+<p>For the Minister and by authorization.
+The Councillor of State, Director
+of Consulates and Commercial Affairs.</p>
+
+<p><unclear extent="signature"/></p>
+
+</div1>
 </body>
 </text>
 

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0031.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0031">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Minister to Minister of Foreign Affairs, October 19, 1864</title>
+<title>Correspondence from Minister to Édouard Drouyn de Lhuys, October 19, 1864</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
@@ -43,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Minister to Minister of Foreign Affairs</title>
+<title level="m">Letter from Minister to Édouard Drouyn de Lhuys</title>
 <date when="1864-10-19">October 19, 1864</date>
 </bibl>
 <msDesc>
@@ -77,30 +77,23 @@
     
 <keywords scheme="viaf" n="people">
 <term>May, Henry</term>
-
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>Gabon</term>
+</keywords>
 
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
-    
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
@@ -112,19 +105,18 @@
 <date when="1864-10-19"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
+<persName ref="http://viaf.org/viaf/17525718">Drouyn de Lhuys, Édouard, 1805-1881</persName>
 <roleName>Minister of Foreign Affairs</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
 
-
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated and encoded header information.</change>
 <change when="2019" who="sab">Edited encoding.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -136,106 +128,67 @@
 
 <pb n="20160614_111435.jpg"/>
 
-<ab>
-1er Bureau
-</ab>
+<ab>1er Bureau</ab>
 
-<ab>
-de la <unclear>remi</unclear>r <unclear>faute</unclear>
+<ab>de la <unclear extent="one or two words"/>
 Henri May du
-<unclear><supplied>exequatur</supplied></unclear> <unclear>qui</unclear> <unclear/>
-<unclear/> <unclear>d'agence commercial</unclear>
-<supplied>des Etats</supplied> Unis
-</ab>
+<unclear>exequatur</unclear> qui <unclear extent="one or two words"/>
+<unclear extent="one word"/> d'agence commercial
+des Etats Unis</ab>
 
-<ab>
-Paris, le 19 8bre - 1864.
-</ab>
+<p>Paris, le 19 8bre 1864.</p>
 
-<ab>
-Le Ministre
-à M le Ministre
-des Affaires Etrangères
-</ab>
+<p>Le Ministre
+à Mr le Ministre
+des Affaires Etrangères</p>
 
-<p>
-Monsieur le Ministre et cher Collegue,
+<p>Monsieur le Ministre et cher Collègue,</p>
 
-J'ai l'honneur de vous faire connaître que <unclear>pour</unclear>
-lettre le 12 <unclear>Aout</unclear> <unclear/> M. le Chef de <unclear>le Dr</unclear> <unclear/> <unclear/> côte
-occidentale d'Afrique, m'annonce qu'il a <unclear/> à M.
-Henry May, le 30 Mai 1868, l'exequateur  qui <unclear/>
-<unclear>ce dernier</unclear> <unclear/> <unclear/> d'agence commercial des Etats Unis
-au Gabon.
-</p>
+<p>J'ai l'honneur de vous faire connaître que <unclear>pour</unclear>
+lettre le 12 <unclear>Aout</unclear> <unclear extent="abbreviation"/> M. le Chef de le Dr à la Côte 
+Occidentale d'Afrique, m'annonce qu'il a <unclear extent="one word"/> à M.
+Henry May, le 30 Mai 1868, l’exequatur qui <unclear extent="one word"/>
+ce dernier <unclear extent="one or two words"/> d'agence commercial des Etats Unis
+au Gabon.</p>
 
-<p>
-<unclear>Cet agence en</unclear> <unclear/> <unclear>en fonction</unclear> <unclear/>
-<unclear/> <!-- Signature -->
-</p>
+<p><unclear extent="about six words"/></p>
 
-<note>
-<unclear>E</unclear>
-</note>
-
-<note>
-<unclear/>
-<unclear>M. Gou</unclear> <!-- picture is cut off -->
-</note>
+<p><unclear extent="one signature"/></p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_111435.jpg"/>
-                
-                <ab>
-                    1st Office
-                </ab>
-                
-                <ab>
-                    de la remir <unclear>fault</unclear>
-                    Henri May of the
-                    <unclear><supplied>exequatur</supplied></unclear> <unclear>who</unclear> <unclear/>
-                    <unclear/> <unclear>commercial agent</unclear>
-                    <supplied>of the United</supplied> States
-                </ab>
-                
-                <ab>
-                    Paris, October 19th - 1864.
-                </ab>
-                
-                <ab>
-                    The Minister
-                    to Mr Minister
-                    of Foreign Affairs
-                </ab>
-                
-                <p>
-                    Mister Minister and dear colleague,
-                    
-                    I have the honor of informing you that <unclear>pour</unclear>
-                    letter on August 12th <unclear/> Mr. Chief of <unclear>le Dr</unclear> <unclear/> <unclear/> West
-                    coast of Africa, announced to me that he returned to Mr.
-                    Henry May, on May 30th 1868, the exequatur that <unclear/>
-                    <unclear>this last</unclear> <unclear/> <unclear/> commercial agent of the United States
-                    in Gabon.
-                </p>
-                
-                <p>
-                    <unclear>This agence</unclear> <unclear/> <unclear>in function</unclear> <unclear/>
-                    <unclear/> <!-- Signature -->
-                </p>
-                
-                <note>
-                    <unclear>E</unclear>
-                </note>
-                
-                <note>
-                    <unclear/>
-                    <unclear>Mr. Gou</unclear> <!-- picture is cut off -->
-                </note>
-                
-            </div1>
+<pb n="20160614_111435.jpg"/>
+
+<ab>1st Office</ab>
+
+<ab>from the <unclear extent="one or two words" />
+Henry May from
+<unclear>exequatur</unclear> which <unclear extent="one or two words"/>
+<unclear extent="one word"/> of the commercial agency
+of the United States</ab>
+
+<p>Paris, October 19, 1864.</p>
+
+<p>The Minister
+to the Minister
+of Foreign Affairs</p>
+
+<p>Mister Minister and dear colleague,</p>
+
+<p>I have the honor of informing you that <unclear extent="one word"/>
+letter on August 12 <unclear extent="abbreviation"/> Mr. Chief of <unclear>le Dr</unclear> <unclear/> <unclear/> West
+Coast of Africa, announced to me that he returned to Mr.
+Henry May, on May 30, 1868, the exequatur that <unclear extent="one word"/>
+<unclear>this last</unclear> <unclear extent="one or two words"/> commercial agent of the United States
+in Gabon.</p>
+
+<p><unclear extent="about six words"/></p>
+
+<p><unclear extent="one signature"/></p>
+
+</div1>
 </body>
 </text>
 
