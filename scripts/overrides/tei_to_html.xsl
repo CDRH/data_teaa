@@ -151,7 +151,7 @@
         </xsl:attribute>
       </xsl:if>
       <xsl:apply-templates/>
-      <xsl:if test="@extent or @reason">
+      <!-- <xsl:if test="@extent or @reason">
         <xsl:text>[</xsl:text>
         <xsl:value-of select="@reason"/> 
         <xsl:if test="@extent">
@@ -161,7 +161,8 @@
           <xsl:value-of select="@extent"/>
         </xsl:if>
         <xsl:text>]</xsl:text>
-      </xsl:if>
+      </xsl:if> -->
+      <xsl:text>[illegible]</xsl:text>
     </span>
   </xsl:template>
   
