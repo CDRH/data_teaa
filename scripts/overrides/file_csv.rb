@@ -163,12 +163,12 @@ class FileCsv < FileType
           annotation_path = "source/gallery_html/#{annotation_id}.html"
           annotation_data = (File.exist?(annotation_path))  ? File.read(annotation_path) : ""
 
-          xml.div(class: "main_content") {
+          xml.div(class: "main_content gallery_item") {
 
-            xml.img(src: img_path){}
+            xml.img(src: img_path)
 
             if annotation_data != ""
-              xml.div {
+              xml.div(class: "gallery_analysis") {
                 xml << annotation_data
               }
             end
