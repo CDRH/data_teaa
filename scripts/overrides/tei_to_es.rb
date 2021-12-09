@@ -9,7 +9,6 @@ class TeiToEs
     xpaths["category"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='type'][1]/term"
     xpaths["subcategory"] = "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subtype']/term"
     xpaths["language"] = "//langUsage/language/@ident"
-    #xpaths["publisher"] = "//div2[@type='bibliography']/bibl/publisher"
     xpaths["publisher"] = "/TEI/teiHeader/fileDesc/sourceDesc/bibl[1]/publisher[1]"
     xpaths["bibliography"] = "/TEI/teiHeader[1]/fileDesc[1]/sourceDesc[1]"
     xpaths["title_a"] = "/TEI/teiHeader[1]/fileDesc[1]/sourceDesc[1]/bibl/title[@level='a']"
@@ -106,7 +105,12 @@ class TeiToEs
 
   def build_selected_person
     list = []
-    people_in_doc = get_list(@xpaths["person"])
+    #people_in_doc = get_list(@xpaths["person"])
+
+    people_in_doc = get_list(@xpaths["person"]) + get_list(@xpaths["sender"]) + get_list(@xpaths["recipient"]) + get_list(@xpaths["creator"])
+
+
+
     people_in_doc.each do |p|
       if p != ""
         row = @people.find { |row| row["Full Name"].to_s == p }
@@ -157,7 +161,8 @@ class TeiToEs
   end
 
   def person
-    eles = get_elements(@xpaths["person"]).map do |p|
+    combined_people_array = get_elements(@xpaths["person"]) + get_elements(@xpaths["sender"]) + get_elements(@xpaths["recipient"]) + get_elements(@xpaths["creator"])
+    eles = combined_people_array.map do |p|
       if (get_text(".", xml: p) != "" && get_text(".", xml: p) != nil)
         {
           "id" => get_text("@ref", xml: p),
@@ -168,6 +173,7 @@ class TeiToEs
         next
       end
     end
+
     eles.uniq.compact
   end
 
