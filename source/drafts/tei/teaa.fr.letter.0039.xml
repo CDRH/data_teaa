@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Minister to Minister of Foreign Affairs, April 12, 1869</title>
+<title>Correspondence from Minister to Charles, Marquis de La Valette, April 12, 1869</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
@@ -43,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Minister to Minister of Foreign Affairs</title>
+<title level="m">Correspondence from Minister to Charles, Marquis de La Valette</title>
 <date when="1869-04-12">April 12, 1869</date>
 </bibl>
 <msDesc>
@@ -78,31 +78,23 @@
 <keywords scheme="viaf" n="people">
 <term>Brown, William R.</term>
 <term>May, Henry</term>
-
-
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
-
+<term>Gaboon</term>
 </keywords>
     
+<keywords scheme="original" n="powers">
+<term>United States</term>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
-</keywords>
-    
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
+</keywords>    
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
@@ -114,9 +106,9 @@
 <date when="1869-04-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
+<persName ref="http://viaf.org/viaf/27055613">La Valette, Charles-Jean-Marie-Félix, marquis de, 1806-1881</persName>
 <roleName>Minister of Foreign Affairs</roleName>
-<placeName/>
+<placeName>Paris (France)</placeName>
 </correspAction>
 </correspDesc>
 
@@ -124,9 +116,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated and encoded header information.</change>
 <change when="2019" who="sab">Edited encoding.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -138,30 +130,21 @@
 
 <pb n="20160614_111715.jpg"/>
 
-<ab>
-1er Bureau
-</ab>
+<ab>1er Bureau</ab>
 
-<ab>
-<unclear/> <unclear>M. R Brown</unclear> nommé Vice Commercial
-des Etats Unis au Gabon
-</ab>
+<ab><unclear extent="one or two words"/> W. R. Brown nommé Vice Commercial
+des Etats Unis au Gabon</ab>
 
-<ab>
-Paris, le 12 Avril 1869
-</ab>
+<p>Paris, le 12 Avril 1869</p>
 
-<ab>
-Le Ministre <unclear/>
-à <unclear/> M. le Marquis de la <unclear/>
-Ministre <unclear/> <unclear>Affaires Etrangèrs</unclear>
-<unclear>au Gabon</unclear>
-</ab>
+<p>Le Ministre <unclear extent="one abbreviation"/>
+à <unclear>S E.</unclear> M. le Marquis de la Valette
+Ministre du Affaires Etrangèrs
+à <unclear>Paris</unclear></p>
 
-<p>
-Monsieur le Marquis et cher Collègue
+<p>Monsieur le Marquis et cher Collègue</p>
 
-<unclear/> au <unclear/> que <unclear/> <unclear>m'avez</unclear> <unclear/>
+<p><unclear/> au <unclear/> que <unclear/> <unclear>m'avez</unclear> <unclear/>
 <unclear/> du H May au <unclear>G, joint à M le Connu g</unclear>
 Chef de la Division <unclear/> <unclear/> <unclear/> <unclear>Côte Occidentale d'Afrique,</unclear>
 <unclear/> de <del>lui <unclear>donner</unclear> <unclear/> de</del> <unclear/> <unclear/> M Williams
@@ -169,77 +152,19 @@ Chef de la Division <unclear/> <unclear/> <unclear/> <unclear>Côte Occidentale 
 américain au Gabon, <del>pour le <unclear/></del> <del><unclear/></del> <unclear>si ordre ci</unclear> <unclear/> <del><unclear/></del> <unclear/>
 les condition indiqués pour M. pour <unclear>remplir au</unclear>
 <unclear>emploi, et</unclear> <unclear/> <unclear/> <unclear>ou d'empêche</unclear> <unclear/> <del><unclear/></del> <unclear>agence</unclear>
-consulaire <unclear/>.
+consulaire <unclear/>.</p>
 
-<unclear/> <!-- Signature -->
-</p>
-
-<note>
-<unclear/> 28
-</note>
-
-<note>
-<unclear/>
-</note>
-
-<note>
-<unclear>Ministre</unclear>
-</note>
+<p><unclear/> <!-- Signature --></p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_111715.jpg"/>
-                
-                <ab>
-                    1st Office
-                </ab>
-                
-                <ab>
-                    <unclear/> <unclear>Mr. R Brown</unclear> named Vice Commercial
-                    of the United States in Gabon
-                </ab>
-                
-                <ab>
-                    Paris, April 12th 1869
-                </ab>
-                
-                <ab>
-                    The Minister <unclear/>
-                    to <unclear/> Mr. Marquis of the <unclear/>
-                    Minister <unclear/> <unclear>Foreign Affairs</unclear>
-                    <unclear>in Gabon</unclear>
-                </ab>
-                
-                <p>
-                    Mister Marquis and dear colleague
-                    
-                    <unclear/> au <unclear/> que <unclear/> <unclear>m'avez</unclear> <unclear/>
-                    <unclear/> du H May au <unclear>G, joint à M le Connu g</unclear>
-                    Chef de la Division <unclear/> <unclear/> <unclear/> <unclear>Côte Occidentale d'Afrique,</unclear>
-                    <unclear/> de <del>lui <unclear>donner</unclear> <unclear/> de</del> <unclear/> <unclear/> M Williams
-                    <unclear>P. Brown, commice</unclear> Vice Commercial agence de l'Unis
-                    américain au Gabon, <del>pour le <unclear/></del> <del><unclear/></del> <unclear>si ordre ci</unclear> <unclear/> <del><unclear/></del> <unclear/>
-                    les condition indiqués pour M. pour <unclear>remplir au</unclear>
-                    <unclear>emploi, et</unclear> <unclear/> <unclear/> <unclear>ou d'empêche</unclear> <unclear/> <del><unclear/></del> <unclear>agence</unclear>
-                    consulaire <unclear/>.
-                    
-                    <unclear/> <!-- Signature -->
-                </p>
-                
-                <note>
-                    <unclear/> 28
-                </note>
-                
-                <note>
-                    <unclear/>
-                </note>
-                
-                <note>
-                    <unclear>Ministre</unclear>
-                </note>
-                
-            </div1>
+<pb n="20160614_111715.jpg"/>
+
+
+
+</div1>
 </body>
 </text>
 

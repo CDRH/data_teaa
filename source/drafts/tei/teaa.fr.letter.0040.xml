@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Mr Commander in chief of the Naval Division of the West Coast of Africa to the Minister of the Navy and Colonies, May 5, 1869</title>
+<title>Correspondence from Alexandre François Dauriac to Charles Rigault de Genouilly, May 5, 1869</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,7 +44,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Mr Commander in chief of the Naval Division of the West Coast of Africa to the Minister of the Navy and Colonies</title>
+<title level="m">Correspondence from Alexandre François Dauriac to Charles Rigault de Genouilly</title>
 <date when="1869-05-05">May 5, 1869</date>
 </bibl>
 <msDesc>
@@ -75,58 +76,49 @@
 </keywords>   
     
 <keywords scheme="viaf" n="people">
-<term>Mr. Brown</term>
-<term>Commander in Chief of the Naval Division of the West Coast of Africa</term>
-<term>Ferdinand Vaz</term>
-<term>Minister of the Navy and the Colonies</term>
-<term>Mr. Perrot</term>
-<term>Mr. Seward</term>
-
+<term>Brown, William R.</term>
+<term>Perrot, Augustus</term>
+<term ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
-<term>Paris</term>
-<term>West Coast of Africa</term>
+<term>Fernand Vaz (Gaboon)</term>
+<term>Gaboon</term>
+</keywords>
 
+<keywords scheme="original" n="powers">
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
-    
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<roleName>Commander in Chief of the Naval Division of the West Coast of Africa</roleName>
+<persName>Dauriac, Alexandre François</persName>
+<roleName>Commander-in-Chief of the Naval Division of the West Coast of Africa</roleName>
 <placeName/>
 <date when="1869-05-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/107024773">Rigault de Genouilly, Charles, 1807-1873</persName>
 <roleName>Minister of the Navy and the Colonies</roleName>
-<placeName/>
 </correspAction>
 </correspDesc>
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2018" who="sab">Encoded.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -138,18 +130,15 @@
 
 <pb n="20160614_111816.jpg"/>
 
-<p>
-Extrait d'une lettre adressée le 5 Mai 1869,
-au Ministre de la Marine et des Colonies
-par M le Commandant en chef de la
-Division navale des Côtes occidenales
-d'Afriques.
-</p>
+<p>Extrait d'une lettre adressée le <unclear>5</unclear> Mai 1869,
+au Ministre de la Marine &amp; des Colonies
+par Mr le Commandant en chef de la
+Division navale des Côtes occidentales
+d'Afrique.</p>
 
-<p>
-Monsieur le Ministre
+<p>Monsieur le Ministre</p>
 
-Le Commerce, tant au
+<p>Le Commerce, tant au
 Gabon qu'au Fernand Vaz, paraît avoir
 assez d'activité et je dois encore signaler
 à votre Excellence la fondation au Gabon
@@ -158,63 +147,77 @@ fois. La maison Américaine qui s'est
 établie récemment a pour chef au
 Gabon Monsieur Brown, le quel m'a
 présenté une lettre par la quelle le
-secrétaire des affaires étrangères des Etats-Unis, <!-- 'Etats-Unis' was originally broken apart on two lines between 'Etats-' and 'Unis' -->
-M. Seward, l'informe que des
+secrétaire des affaires étrangères des Etats-Unis, 
+Mr. Seward, l'informe que des
 démarches sous faites à Paris pour qu'il
 soit reconnu comme vice agent commercial
 des Etats Unis au Gabon en l'absence
 de Mr Perrot qui était investi des fonctions
 d'agent commercial et a dû, il y a plusieurs
 mois déjà, quitter la colonie pour raison
-de santé. Mr Brown me demandait
+de santé. Mr. Brown me demandait
 l'autorisation de hisser le pavillon
 Américain, j'ai du la lui refuser, jusqu'à
 ce que votre Excellence m'eût fait
-parvenir
-</p>
+<catchwords>parvenir</catchwords>
+
+<pb n="20160614_111836.jpg"/>
+
+parvenir avis officiel de son exequatur.</p>
+
+<p>Signé: Dauriac</p>
+
+<p>Pour entrait conforme:<lb/>
+Le 1 Directeur des Colonies,
+<unclear extent="one signature"/></p>
 
 </div1>
 
 <div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_111816.jpg"/>
-                
-                <p>
-                    Extract from a letter addressed May 5th 1869,
-                    to the Minister of the Navy and the Colonies
-                    by Mr Commander in chief of the
-                    Naval Division of the West Coast
-                    of Africa.
-                </p>
-                
-                <p>
-                    Mister Minister
-                    
-                    The Commerce, tant in <!-- cant find translation for "tant"-->
-                    Gabon to Fernand Vaz, appeared to have
-                    sufficient activity and I must signal again
-                    to your Excellence the foundation in Gabon
-                    of a new factory, English, this
-                    time. The American house that established
-                    itself recently has for chief in
-                    Gabon Mister Brown, who presented
-                    to me a letter by which the
-                    secretary of Foreign Affairs of the United States, <!-- 'Etats-Unis' was originally broken apart on two lines between 'Etats-' and 'Unis' -->
-                    Mr. Seward, informed that the
-                    steps are taken in Paris so that he
-                    be recognized as vice commercial agent
-                    of the United States in Gabon in the absence
-                    of Mr Perrot who was invested in the duties
-                    of commercial agent and had to, several months
-                    ago, leave the colony for reasons
-                    of health. Mr Brown asked me for
-                    the authorization to raise the American
-                    flag,I had to refuse him, until
-                    your Excellence sends
-                    to me
-                </p>
-                
-            </div1>
+<pb n="20160614_111816.jpg"/>
+
+<p>Extract from a letter addressed May 5, 1869,
+to the Minister of the Navy &amp; the Colonies
+by the Commander-in-Chief of the
+Naval Division of the West Coast
+of Africa.</p>
+
+<p>Mr. Minister</p>
+
+<p>Commerce, both in 
+Gabon and in Fernand Vaz, appeared to have
+sufficient activity and I must signal again
+to your Excellency the foundation in Gabon
+of a new factory, this time English. The American house that established
+itself recently has for chief in
+Gabon Mr. Brown, who presented
+to me a letter by which the
+Secretary of Foreign Affairs of the United States,
+Mr. Seward, informed him that
+steps are taken in Paris so that he
+be recognized as vice commercial agent
+of the United States in Gabon in the absence
+of Mr. Perrot who was invested in the duties
+of commercial agent and had to, several months
+ago, leave the colony for reasons
+of health. Mr. Brown asked me for
+the authorization to raise the American
+flag, I had to refuse him, until
+your Excellence sends
+to me
+
+<pb n="20160614_111836.jpg"/>
+
+official notice of his exequatur.</p>
+
+<p>Signed: Dauriac</p>
+
+<p>For compliant entry:<lb/>
+The 1st Director of the Colonies,
+<unclear extent="one signature"/></p>
+
+</div1>
 </body>
 </text>
 
