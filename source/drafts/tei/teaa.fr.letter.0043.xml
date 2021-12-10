@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Minister of Navy and Colonies to Admiral, May 31 1871</title>
+<title>Correspondence from Jean Joachim Meurand to Louis Marie Alexis Pothuau, May 31 1871</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,7 +44,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Minister of Navy and Colonies to Admiral</title>
+<title level="m">Correspondence from Jean Joachim Meurand to Louis Marie Alexis Pothuau</title>
 <date when="1871-05-31">May 31, 1871</date>
 </bibl>
 <msDesc>
@@ -76,15 +77,16 @@
 </keywords>      
     
 <keywords scheme="viaf" n="people">
-<term>Bushnell, Albert</term>
+<term ref="http://viaf.org/viaf/2304541">Bushnell, Albert, 1818-1879</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
+<term>Gaboon</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
-<term/>
+<term>France</term>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -99,25 +101,25 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName/>
-<roleName>Minister of Navy and Colonies</roleName>
-<placeName>Versailles</placeName>
+<persName>Meurand, Jean Joachim</persName>
+<roleName>Director of Consulates and Commercial Affairs</roleName>
+<placeName>Versailles (France)</placeName>
 <date when="1871-05-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName>Admiral</roleName>
-<placeName>Gabon</placeName>
+<persName ref="http://viaf.org/viaf/178359147">Pothuau, Louis Pierre Alexis 1815-1882</persName>
+<roleName>Minister of the Navy and the Colonies</roleName>
+<placeName/>
 </correspAction>
 </correspDesc>
-
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2019" who="sab">Edited transcription.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -129,32 +131,27 @@
 
 <pb n="20160614_112103.jpg"/>
 
-<ab>
+<fw type="letterhead">
 Ministère
 des
 Affaires Etrangères
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 DIRECTION DES CONSULATS
 et
-Affaires Commercials
-</ab>
+Affaires Commerciales
+</fw>
 
-<ab>
-Versailles, <del>Paris</del> Le 31 mai     1871
-</ab>
+<p>Versailles, <del>Paris</del> le 31 Mai 1871</p>
 
-<p>
-Monsieur l'Amiral et Cher
+<p>Monsieur l'Amiral et Cher
 Collègue, le Gouvernement Fédéral
 Américain a nommé M Albert
 Bushnell agent commercial des
-Etats-Unis au Gabon.
-</p>
+Etats-Unis au Gabon.</p>
 
-<p>
-Conformément à la marche
+<p>Conformément à la marche
 concertée entre le Ministère des
 Affaires Etrangères et celui de la
 Marine et des Colonies, pour la
@@ -162,129 +159,91 @@ reconnaissance des Agents étrangers
 dans les possessions françaises, j'ai
 l'honneur de vous adresser, ci-joint
 l'exequatur de mon Département
-</p>
 
-<ab>
+<fw type="address">
 Monsieur le Ministre de la Marine et des
 Colonies.
-</ab>
-
-<note>
-971
-</note>
-
-<note>
-Mr le
-Paris au Gabon
-</note>
+</fw>
 
 <pb n="20160614_112115.jpg"/>
 
-<p>
-recouvré à M Bushnell en sa dite
+<unclear>recouvré</unclear> à Mr Bushnell en sa dite
 qualité. Je vous serai obligé, Monsieur
 l'Amiral et cher Collègue, de vouloir
 bien faire parvenir cette pièce à
 l'autorité compétente, qui se chargera
-de la remettre à M Bushnell, à
+de la remettre à Mr Bushnell, à
 moins que l'admission de cet agent
-ne lui paraisse offrir des inconvénients.
-</p>
+ne lui paraisse offrir des inconvénients.</p>
 
-<p>
-Agréez, Monsieur l'Amiral et cher
+<p>Agréez, Monsieur l'Amiral et cher
 Collégue, les assurances de ma haute
-considération.
-</p>
+considération.</p>
 
-<p>
-Pour le Ministre et par autorisation./.
-Le Directeur des Consulats et Affaires Commerciales,
-
-Meurand <!-- Signature -->
-</p>
+<p>Pour le Ministre et par autorisation:<lb/>
+Le Directeur des Consulats et Affaires Commerciales,<lb/>
+Meurand</p>
 
 </div1>
-<div1 xml:lang="en" type="transltion">
+
+<div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_112103.jpg"/>
-                
-                <ab>
-                    Minister
-                    of
-                    Foreign Affairs
-                </ab>
-                
-                <ab>
-                    DIRECTION OF CONSULATS
-                    and
-                    Commercial Affairs
-                </ab>
-                
-                <ab>
-                    Versailles, <del>Paris</del> May 31st     1871
-                </ab>
-                
-                <p>
-                    Mister Admiral and dear
-                    colleague, the American Federal
-                    Government named Mr. Albert
-                    Bushnell commercial agent of the
-                    United States in Gabon.
-                </p>
-                
-                <p>
-                    In compliance with the step
-                    concerted between the Minister of
-                    Foreign Affairs and that of the
-                    Navy and the Colonies, for the
-                    recognition of the foreign agents
-                    in the french possession, I have
-                    the honor of addressing to you, enclosed
-                    the exequatur of my Department
-                </p>
-                
-                <ab>
-                    Mister Minister of the Navy and the
-                    Colonies.
-                </ab>
-                
-                <note>
-                    971
-                </note>
-                
-                <note>
-                    Mr le
-                    Paris to Gabon
-                </note>
-                
-                <pb n="20160614_112115.jpg"/>
-                
-                <p>
-                    covered by Mr Bushnell in his said
-                    quality. I will be obliged to you, Mister
-                    Admiral and dear colleague, to
-                    transmit this document to
-                    the competent authority, who will charge themself
-                    with giving it to Mr Bushnell, unless
-                    the admission of this agent
-                    seems to offer to him incoveniences.
-                </p>
-                
-                <p>
-                    Accept, Mister Admiral and dear
-                    colleague, the assurances of my highest
-                    consideration.
-                </p>
-                
-                <p>
-                    For the Minister and by authorization./.
-                    The Director of Consulats and Commercial Affairs,
-                    
-                    Meurand <!-- Signature -->
-                </p>
-                
-            </div1>
+<pb n="20160614_112103.jpg"/>
+
+<fw type="letterhead">
+Minister
+of
+Foreign Affairs
+</fw>
+
+<fw type="letterhead">
+DIRECTION OF CONSULATES
+and
+Commercial Affairs
+</fw>
+
+<p>Versailles, <del>Paris</del> May 31, 1871</p>
+
+<p>Mr. Admiral and dear
+colleague, the American Federal
+Government named Mr. Albert
+Bushnell commercial agent of the
+United States in Gabon.</p>
+
+<p>In compliance with the concerted
+step between the Minister of
+Foreign Affairs and that of the
+Navy and the Colonies, for the
+recognition of the foreign agents
+in French possessions, I have
+the honor to send you, herewith 
+the exequatur of my Department
+
+<fw type="address">
+Mr. Minister of the Navy and the
+Colonies.
+</fw>
+
+<pb n="20160614_112115.jpg"/>
+
+recovered from Mr Bushnell in his said
+capacity. I will be obliged to you, Mr.
+Admiral and dear colleague, to
+transmit this document to
+the competent authority, who will charge themselves
+with giving it to Mr Bushnell, unless
+the admission of this agent
+seems to offer disadvantages.</p>
+
+<p>Accept, Mr. Admiral and dear
+colleague, the assurances of my highest
+consideration.</p>
+
+<p>For the Minister and by authorization:<lb/>
+The Director of Consulates and Commercial Affairs,<lb/>
+Meurand</p>
+
+</div1>
 </body>
 </text>
 
