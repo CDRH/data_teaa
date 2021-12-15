@@ -12,6 +12,7 @@ development:
   es_index: cdrhapidev-v1
   site_url: https://cdrhdev1.unl.edu/teaa
 production:
+  site_url: https://africafromamerica.unl.edu
   es_path: https://cdrhapi.unl.edu/elastic
   es_index: cdrhapi-v1
 
