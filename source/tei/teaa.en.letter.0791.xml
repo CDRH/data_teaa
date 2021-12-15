@@ -68,7 +68,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
@@ -79,7 +79,7 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term/>
 </keywords>
     
@@ -95,7 +95,7 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Bent, William S.</persName>
+<persName>Bent, William Stanley</persName>
 <roleName>Acting U.S. Vice Counsel</roleName>
 <placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1885-10-11"/>
@@ -103,7 +103,7 @@
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/38108124">Bayard, Thomas F. (Thomas Francis), 1828-1898</persName>
 <roleName>U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1885-11-28"/>
 </correspAction>
 </correspDesc>
@@ -111,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2020-09" who="kln">reviewed, edited, and encoded.</change>
 <change when="2019" who="sab">transcribed.</change>
 </revisionDesc>
@@ -122,7 +123,7 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan60006"/>
+<pb n="Scan60006"/>
 
 <note>Department of State Received Nov 28 1885</note>
 

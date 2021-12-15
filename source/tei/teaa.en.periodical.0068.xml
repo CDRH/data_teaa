@@ -42,7 +42,7 @@
 <sourceDesc>
 <bibl>
 <title level="a" type="main">The Return of the Exiles</title>
-<author n="Blyden, Edward Wilmot, 1832-1912">Edward W. Blyden</author>
+<author ref="http://viaf.org/viaf/54942091">Blyden, Edward Wilmot, 1832-1912</author>
 <title level="j">African Repository</title>
 <biblScope unit="volume">68</biblScope>
 <biblScope unit="issue">1</biblScope>
@@ -68,19 +68,19 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Periodicals</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
 <term ref="http://viaf.org/viaf/54942091">Blyden, Edward Wilmot, 1832-1912</term>
-<term>Caesar Augustus</term>
+<term ref="http://viaf.org/viaf/18013086">Augustus, Emperor of Rome, 63 B.C.-14 A.D.</term>
 <term ref="http://viaf.org/viaf/17231583">Columbus, Christopher</term>
 <term ref="http://viaf.org/viaf/39456173">Crowther, Samuel, 1806?-1891</term>
 <term ref="http://viaf.org/viaf/39758543">Dicey, Edward, 1832-1911</term>
 <term ref="http://viaf.org/viaf/99297727">Drummond, Henry, 1851-1897</term>
 <term ref="http://viaf.org/viaf/89016430">Emin Pasha, 1840-1892</term>
 <term>Flemynge, Francis P.</term>
-<term>Glover, John Hawley</term>
+<term ref="http://viaf.org/viaf/104455074">Glover, John Hawley, Sir, 1829-1885</term>
 <term ref="http://viaf.org/viaf/52469168">Hawkins, John, Sir, 1532-1595</term>
 <term ref="http://viaf.org/viaf/24703169">Jephson, A. J. Mounteney (Arthur Jermy Mounteney), 1858-1908</term>
 <term>Kennedy, Arthur</term>
@@ -90,9 +90,9 @@
 <term>Neville, G. W.</term>
 <term ref="http://viaf.org/viaf/74650916">Newton, John, 1725-1807</term>
 <term>Parke</term>
-<term ref="http://viaf.org/viaf/104835683">Pope-Hennessy, John Wyndham, Sir, 1913-1994</term>
+<term ref="http://viaf.org/viaf/81928866">Pope-Hennessy, John, Sir, 1834-1891</term>
 <term ref="http://viaf.org/viaf/44350506">Salisbury, Robert Cecil, Marquess of, 1830-1903</term>
-<term ref="http://viaf.org/viaf/27071894">Stanley, Henry M. (Henry Morton), 1841-1904</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry Morton, 1841-1904</term>
 <term ref="http://viaf.org/viaf/36925883">Wilberforce, William, 1759-1833</term>
 </keywords>
  
@@ -101,9 +101,9 @@
 <term>Banana Point (Congo)</term>
 <term>Boma (Congo)</term>
 <term>Brazil</term>
-<term>Cape Coast</term>
+<term>Cape Coast (Gold Coast)</term>
 <term>Carthage</term>
-<term>Charleston (S.C.)</term>
+<term>Charleston (South Carolina)</term>
 <term>Congo Free State</term>
 <term>Congo River</term>
 <term>Dahomey</term>
@@ -111,24 +111,24 @@
 <term>Gambia</term>
 <term>Greece</term>
 <term>Havana (Cuba)</term>
-<term>Hayti</term>
-<term>Jacksonville (Fla.)</term>
-<term>Kilmanjaro</term>
+<term>Haiti</term>
+<term>Jacksonville (Florida)</term>
+<term>Kilimanjaro</term>
 <term>Lagos (Nigeria)</term>
 <term>Liverpool (England)</term>
 <term>Niger River</term>
 <term>Phenicia</term>
 <term>Rwenzori Mountains</term>
 <term>Rome</term>
-<term>Shiré River</term>
+<term>Shire River</term>
 <term>Sierra Leone</term>
 <term>Soudan</term>
-<term>Stanely Pool</term>
+<term>Stanley Pool</term>
 <term>Vivi (Congo)</term>
 <term>West Indies</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="powers">
 <term>England</term>
 <term>Great Britain</term>
 <term>United States</term>
@@ -144,14 +144,11 @@
 <term>Islam</term>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-11-04" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -162,14 +159,14 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0068.001"/>
+<pb n="p1"/>
 
 <div2 type="title">
 
-<p>The Return of the Exiles.</p>
+<head type="main">The Return of the Exiles.</head>
 
-<p>A Lecture Delivered at Lagos, West Africa, January
-2, 1892, by Prof. Edward W. Blyden, L.L. D.</p>
+<head>A Lecture Delivered at Lagos, West Africa, January
+2, 1892, by Prof. Edward W. Blyden, L.L. D.</head>
 
 </div2>
 
@@ -202,9 +199,9 @@ years of peaceful and judicious administration.</p>
 reminded of some of the cities in the Southern States of America
 which I visited a year ago, especially Charleston, South Carolina,
 
-<note>* Governor Sir Alfred Moloney, K. C. M. G.</note>
+<fw type="note">* Governor Sir Alfred Moloney, K. C. M. G.</fw>
 
-<pb xml:id="p2" facs="teaa.en.periodical.0068.002"/>
+<pb n="p2"/>
 
 and Jacksonville, Florida, though the advantage seemed to me
 far and away in favor of Lagos, considering the remote date of
@@ -247,7 +244,7 @@ and women, and children, living in the joys of home; and there
 is not a breathing of the common wind that blows which does
 not inspire them with the love of that home. The trees and the
 
-<pb xml:id="p3" facs="teaa.en.periodical.0068.003"/>
+<pb n="p3"/>
 
 clouds, the sluggish rivers, the quiet waters of the lagoon, the
 boisterous and perilous bar, are all their own.</p>
@@ -291,7 +288,7 @@ marked the track of the piratical monsters who disgraced
 humanity by their atrocious deeds; good government was unknown,
 and utterly impossible under the fiendish proceedings of those
 
-<pb xml:id="p4" facs="teaa.en.periodical.0068.004"/>
+<pb n="p4"/>
 
 enemies of the human race who infested the coast. Agriculture
 and honest trade were constantly interrupted by raiding from
@@ -334,7 +331,7 @@ in the vast equatorial regions of this country; but recently she
 has been forced to depart from her policy by the intermeddling
 activity of others, whose enterprises, however, whatever promise
 
-<pb xml:id="p5" facs="teaa.en.periodical.0068.005"/>
+<pb n="p5"/>
 
 they may now present, must give way to the inexorable destiny
 which guards the continent. Lord Salisbury, in his speech in
@@ -376,7 +373,7 @@ his brightness and music; Venus with her beauty and love; Mars
 with his war&#8212;the whole Olympian circle, but they produced no
 impression upon the country; at least, even the fertile imagination
 
-<pb xml:id="p6" facs="teaa.en.periodical.0068.006"/>
+<pb n="p6"/>
 
 of their worshippers could invent none. Africa has always
 resisted and thrown off foreign influences, because those 
@@ -419,7 +416,7 @@ Christianity into this country by members of a foreign race.
 Experience everywhere shows the extreme difficulty and 
 impossibility of the enterprise.</p>
 
-<pb xml:id="p7" facs="teaa.en.periodical.0068.007"/>
+<pb n="p7"/>
 
 <p>As samples of the uniform experience of missionary operations
 in Africa, and of the general effect of the climate, even in the
@@ -467,7 +464,7 @@ fearful odds, they are carrying on their work."</p>
 
 <p>"Malarial fever is the one sad certainty which every African traveler
 
-<pb xml:id="p8" facs="teaa.en.periodical.0068.008"/>
+<pb n="p8"/>
 
 must face. For months he may escape, but its finger is upon him, and
 well for him if he has a friend near when it finally overtakes him. It is
@@ -515,7 +512,7 @@ Africa</hi>, he summarizes his own experience:</p>
 
 <p>"On the plateau of Kavalli and Undussuma Messrs. Jephson, Parke,
 
-<pb xml:id="p9" facs="teaa.en.periodical.0068.009"/>
+<pb n="p9"/>
 
 and myself were successively prostrated by fever, and the average level
 of the land was over 4,500 feet above the sea. On descending to the
@@ -560,7 +557,7 @@ same creed, doing openly and with indifference the very things
 they were commissioned to denounce. Modern commerce in its
 agents is a most potent drawback to all the ideas held up by the
 
-<pb xml:id="p10" facs="teaa.en.periodical.0068.010"/>
+<pb n="p10"/>
 
 missionary. The natives have the example of the white and black
 missionary preaching on the one hand against the very things
@@ -603,7 +600,7 @@ together, holding the present world in one hand and trying to
 point to the next with the other, missionary societies must not
 expect to realize those large results which their theory requires.
 
-<pb xml:id="p11" facs="teaa.en.periodical.0068.011"/>
+<pb n="p11"/>
 
 Apostolic results must have apostolic circumstances. The 
 exigencies of trade&#8212;and they are increasing daily&#8212;are imperious, and
@@ -641,10 +638,10 @@ American and West Indian Negroes, and the Negroes in
 European Colonies in West and East Africa accepted Christianity
 either by force of circumstances, or through gratitude for deliverance
 
-<note>* One of the charges against a native missionary in the Niger is that he
-introduced into his school a Sierra Leone boy.</note>
+<fw type="note">* One of the charges against a native missionary in the Niger is that he
+introduced into his school a Sierra Leone boy.</fw>
 
-<pb xml:id="p12" facs="teaa.en.periodical.0068.012"/>
+<pb n="p12"/>
 
 from their enslavers. But very few free and independent
 men in Africa submit to the religion brought to them from Europe.
@@ -686,7 +683,7 @@ with the deepest gratitude and admiration for all the sacrifices
 and expenditures, all the sufferings and trials endured, all the
 good work accomplished by the band of self-denying men of all
 
-<pb xml:id="p13" facs="teaa.en.periodical.0068.013"/>
+<pb n="p13"/>
 
 Christian denominations who have come and are still coming
 from Europe and America to evangelize Africa. But I repeat,
@@ -729,9 +726,9 @@ be nil.</p>
 
 <p>Mr. Edward Dicey, in a recent number of the <hi rend="italics">Nineteenth Century</hi>
 
-<note>* "Emin Pasha and the Rebellion at the Equator," etc. By A. J. Mounteney-Jephson. London, 1890.</note>
+<fw type="note">* "Emin Pasha and the Rebellion at the Equator," etc. By A. J. Mounteney-Jephson. London, 1890.</fw>
 
-<pb xml:id="p14" facs="teaa.en.periodical.0068.014"/>
+<pb n="p14"/>
 
 (Sept., 1890), after a serious and eloquent survey of the
 difficulties attending the efforts of the Europeans in Central
@@ -775,7 +772,7 @@ years of conflict, the bill was passed, and the trade received from
 the British Government the coup de grace which led up to the
 abolition of slavery throughout the British dominions.</p>
 
-<pb xml:id="p15" facs="teaa.en.periodical.0068.015"/>
+<pb n="p15"/>
 
 <p>God&#8212;knowing how He has made the climate, how impossible
 it is for foreigners to live here and introduce their improvements,
@@ -817,7 +814,7 @@ I may be allowed to say that the name of Moloney will in years
 to come be cited as that character. He is the only representative
 of Great Britain, in official position, who has announced it as a
 
-<pb xml:id="p16" facs="teaa.en.periodical.0068.016"/>
+<pb n="p16"/>
 
 public policy to repatriate the exiles. He is the only British officer
 who has as yet practically recognized the gravity of the African
@@ -859,7 +856,7 @@ repatriation of the exiles as the only Providential plan for Africa's
 regeneration, and sending home from time to time repatriates in
 small numbers. But the world generally, especially England,
 
-<pb xml:id="p17" facs="teaa.en.periodical.0068.017"/>
+<pb n="p17"/>
 
 has not been ready for this work. Philanthropic and commercial
 associations still think that their methods for the regeneration of
@@ -907,7 +904,7 @@ I have laid the matter before Lord Salisbury and other authorities.</p>
 
 <p>"I propose to form a society totally irrespective of all religions or political
 
-<pb xml:id="p18" facs="teaa.en.periodical.0068.018"/>
+<pb n="p18"/>
 
 differences of opinion, and purely based on philanthropic principles,
 to try and carry out this laudable object. I hope I do not overrate the

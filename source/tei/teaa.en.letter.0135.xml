@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to Robert R. Hitt, September 30, 1881 </title>
+<title>Despatch from Robert Scott Newton to Robert R. Hitt, September 30, 1881 </title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to Robert R. Hitt</title>
+<title level="a">Despatch from Robert Scott Newton to Robert R. Hitt</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">3</biblScope>
 <date from="1881-09-30">September 30, 1881</date>
 </bibl>
@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -75,18 +75,17 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>New Bedford (Mass.)</term>
-<term>St. Paul de Loanda (Angola)</term>
+<term>New Bedford (Massachusetts)</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -97,13 +96,13 @@
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
 <roleName>U.S. Vice Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1881-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/41403558">Hitt, Robert R. (Robert Roberts), 1834-1906</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1881-12-14"/>
 </correspAction>
 </correspDesc>
@@ -111,6 +110,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-07-10" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
@@ -123,10 +123,9 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0135.001"/>
-<note>Department of State Received Dec 14 1881</note>
+<pb n="teaa.en.letter.0135.001"/>
 
-<note>Ackd Jan. 16/81</note>
+<note>Department of State Received Dec 14 1881</note>
 
 <note>No 81</note>
 
@@ -144,15 +143,15 @@ discharged from the "Platina"</p>
 
 </div1>
 
-<pb facs="teaa.en.letter.0135.002"/>
+<pb n="teaa.en.letter.0135.002"/>
 
 <div1 type="document" xml:lang="en">
 
 <note>No 81.</note>
 
-<opener><dateline>United States Consulate<lb/>
+<p>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-30th September 1881</dateline></opener>
+30th September 1881</p>
 
 <p>Sir,</p>
 
@@ -194,7 +193,7 @@ viz:</p>
 
 <p><catchwords>so</catchwords>
 
-<pb facs="teaa.en.letter.0135.003"/>
+<pb n="teaa.en.letter.0135.003"/>
 
 so that as his expenses amounted
 to more than his 3 months 
@@ -203,16 +202,15 @@ that he was entitled
 to receive anything from this
 Consulate.</p>
 
-<closer><salute>I have the honor to be<lb/>
+<p>I have the honor to be<lb/>
 Sir<lb/>
-Your most Obedient Servant</salute>
-<signed>Robt S Newton<lb/>
-Vice Consul</signed>
+Your most Obedient Servant<lb/>
+Robt S Newton<lb/>
+Vice Consul</p>
 
-<address><addrLine>To the</addrLine>
-<addrLine>Assistant Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
-</closer>
+<p>To the<lb/>
+Assistant Secretary of State<lb/>
+Washington D.C.</p>
 
 </div1>
 </body>

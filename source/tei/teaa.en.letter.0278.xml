@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0278">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Henry May to William H. Seward, June 16, 1863</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0278</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Henry May to William H. Seward</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-466, Roll 1</biblScope>
+<date when="1863-06-16">June 16, 1863</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Commerce and Trade</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>United States</term>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>May, Henry</persName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Gaboon River</placeName>
+<date when="1863-06-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1863-08-27"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-02-21" who="#kln">reviewed, encoded</change>
+<change when="2019-10" who="#unm">transcribed</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="20170615_110631"/>
+
+<note>Recd 27 Aug</note>
+    
+<p>United States Comml. Agency<lb/>
+at Gaboon River June 16th 1863</p>
+
+<p>Hon. William H. Seward<lb/>
+Secretary of State <lb/>
+Washington D.C.</p>
+
+<p>Dear Sir</p>
+
+<p>I would beg to state that the trade 
+between the United States and this port is very 
+limited. During the past year there has been 
+but three American vessels in this river. These 
+belonged to a single firm in the City of
+New York. There has been no consular books 
+kept in this place, but according to my best 
+information there has not been more than 
+three American vessels here during any one 
+year for the past three years. I know of no 
+American vessel expected here at present.
+The trade of this river is <sic>princefly</sic> in the hands 
+of the English. The exports from this part during 
+the past year were, of Ivory 25 tons;
+Bonwood 2000 tons,, Rubber 125 tons also 
+small quantities of Bees-Wax, Gum-Copel
+and Ebony. The American trade at this 
+port since my arrival (3d November 1862) has 
+not exceeded $1200;</p>
+
+<p>I am sir with much respect<lb/>
+your most obedient servant<lb/> 
+Henry May<lb/>
+U S Comml Agt</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

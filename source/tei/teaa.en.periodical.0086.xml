@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Washington Bee, "An Army in Africa" (1885)</title>
+<title>The Washington Bee, "An Army in Africa" (August 29, 1885)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -56,7 +56,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Emigration</term>
+<term>Resistance</term>
 </keywords>
  
 <keywords scheme="original" n="type">
@@ -64,7 +65,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Newspapers</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
@@ -74,15 +75,15 @@
 </keywords>
  
 <keywords scheme="original" n="places">
-<term>Bammakoo</term>
-<term>Boure</term>
+<term>Bamako (French Sudan)</term>
+<term>Boure (French Guinea)</term>
 <term>Liberia</term>
 <term>Niger River</term>
 <term>Sierra Leone</term>
-<term>Timbuctoo</term>
+<term>Timbuctoo (French Sudan)</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="powers">
 <term>France</term>
 </keywords>
  
@@ -94,14 +95,11 @@
 <term>Islam</term>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-11-21" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -112,13 +110,13 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0086.001"/>
+<pb n="p1"/>
 
 <div2 type="title">
 
-<p>An Army in Africa</p>
+<head type="main">An Army in Africa</head>
 
-<p>The Remarkable March of 100,000 Mohammedans to the West Coast.</p>
+<head type="sub">The Remarkable March of 100,000 Mohammedans to the West Coast.</head>
 
 </div2>
 

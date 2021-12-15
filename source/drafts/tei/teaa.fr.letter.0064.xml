@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
@@ -79,7 +79,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<keywords scheme="original" n="places">
 <term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
 
 </keywords>
@@ -106,7 +106,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <revisionDesc>
 <change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+
 </revisionDesc>
 </teiHeader>
 
@@ -116,7 +116,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <div1 xml:lang="fr" type="document">
 
-<pb facs="20160613_163053.jpg"/>
+<pb n="20160613_163053.jpg"/>
 
 <ab>
 Nouvelle communication relative
@@ -216,7 +216,7 @@ E
 <unclear>H</unclear>
 </note>
 
-<pb facs="20160613_163103.jpg"/>
+<pb n="20160613_163103.jpg"/>
 
 <ab>
 <unclear/>, en effet de <unclear>ne pas</unclear>

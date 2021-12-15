@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0029.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0029">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Unknown Letter, March 24, 1864</title>
+<title>Correspondence from , March 24, 1864</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation and encoding</resp>
@@ -42,12 +42,12 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from ___ to ____</title>
-<date when="1864-03-24"></date>
+<title level="m">Correspondence from </title>
+<date when="1864-03-24">March 24, 1864</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR ANOM</repository>
+<repository>Archives Nationales d'Outre-Mer</repository>
 <collection>Afrique VI</collection>
 <idno>195a Gabon Congo</idno>
 </msIdentifier>
@@ -71,35 +71,28 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>     
     
 <keywords scheme="viaf" n="people">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="places">
 <term/>
+</keywords>
 
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
-    
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
@@ -107,7 +100,7 @@
 <correspAction type="sentBy">
 <persName/>
 <roleName/>
-<placeName>Paris, France</placeName>
+<placeName>Paris (France)</placeName>
 <date when="1864-03-24"/>
 </correspAction>
 <correspAction type="deliveredTo">
@@ -117,12 +110,11 @@
 </correspAction>
 </correspDesc>
 
-
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
 <change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -132,104 +124,56 @@
 
 <div1 xml:lang="fr" type="document">
 
-<pb facs="20160614_111332.jpg"/>
+<pb n="20160614_111332.jpg"/>
 
-<ab>
-1er Bureau
-</ab>
+<ab>1er Bureau</ab>
 
-<ab>
-Paris, le 24 Mars 1864
-</ab>
+<p>Paris, le 24 Mars 1864</p>
 
-<ab>
-Note
+<p>Note<lb/>
 pour la Direction des Mouvements
-<unclear/> Militaire
-</ab>
+<unclear extent="one word"/> Militaire</p>
 
-<p>
-<unclear/> <unclear>me transmettre par  Nor du 14</unclear>
+<p><unclear/> <unclear>me transmettre par  Nor du 14</unclear>
 de ce mois <unclear/> lettre du Ministre des Affaires Etrangères
 du 7 <unclear>Mars</unclear> 1863, <unclear/> à <del><unclear/></del> M <unclear>Francois May</unclear>
 <unclear>agence</unclear> <unclear/> <unclear>Etats Unis au Gabon.</unclear> <unclear>Monsieur</unclear>
 le Chef <unclear>d'être Majeur du Ministre</unclear> <unclear/> <unclear/> <unclear>de la</unclear> <unclear/> <unclear/>
 <unclear>ma</unclear> <del><unclear>par</unclear></del> <unclear>demeur</unclear> lui faire <unclear/> de cettre pièce <unclear>qui du</unclear> <unclear/> <unclear>dans</unclear>
-"<unclear>la</unclear> <unclear/> <unclear>du</unclear> <unclear/> <unclear/>."
-</p>
+"<unclear>la</unclear> <unclear/> <unclear>du</unclear> <unclear/> <unclear/>."</p>
 
-<p>
-Je <unclear/> Mon Collègue de <unclear/> <unclear>bien remarquer</unclear>
+<p>Je <unclear/> Mon Collègue de <unclear/> <unclear>bien remarquer</unclear>
 qu'il <unclear>s'agit</unclear> de la nomination <unclear/> <unclear>Consul dans mon</unclear>
 de <unclear>nos Colonies ce que la</unclear> <unclear/> <unclear/> <unclear/>
 <unclear/> <unclear/> à la <unclear>Diction des Colonies.</unclear> Monsieur le <unclear>68 de la</unclear>
 <unclear/> <unclear/> <unclear>bien</unclear> <del><unclear>au mettre</unclear></del> <unclear/> <unclear>qui en l'éva</unclear> la <del><unclear>pieu</unclear></del> lettre <del><unclear/></del> de
 <del><unclear/></del> M <unclear/> de <unclear/> <del><unclear/></del> <unclear/> <unclear/> <unclear/> <del>au</del> <unclear/> <unclear/>
 de <unclear>l'affaire</unclear> qu'elle <unclear/> <del>laquelle <unclear/> <unclear/> <unclear/> <unclear>sur de</unclear></del> <del><unclear/> <unclear/></del>
-<del>moi,</del> <unclear/> à <unclear/> <unclear/> <unclear/> <unclear/>.
+<del>moi,</del> <unclear/> à <unclear/> <unclear/> <unclear/> <unclear/>.</p>
 
-<unclear/> <!-- Signature -->
-</p>
-
-<note>
-<unclear>E</unclear>
-</note>
-
-<note>
-<unclear>M</unclear> <!-- the letters after 'M' are cut off by the picture -->
-</note>
+<p>Le Dr</p>
 
 </div1>
-<div1 xml:lang="en" type="document">
+
+<div1 xml:lang="en" type="translation">
                 
-                <pb facs="20160614_111332.jpg"/>
-                
-                <ab>
-                    1st Office
-                </ab>
-                
-                <ab>
-                    Paris, March 24th 1864
-                </ab>
-                
-                <ab>
-                    Note
-                    for the Direction of Movements
-                    <unclear/> Military
-                </ab>
-                
-                <p>
-                    <unclear/> <unclear>me transmettre par  Nor du 14</unclear>
-                    of this month <unclear/> letter of the Minister of Foreign Affairs
-                    of <unclear>March</unclear> 7th 1863, <unclear/> à <del><unclear/></del> M <unclear>Francois May</unclear>
-                    <unclear>agence</unclear> <unclear/> <unclear>Etats Unis au Gabon.</unclear> <unclear>Monsieur</unclear>
-                    le Chef <unclear>d'être Majeur du Ministre</unclear> <unclear/> <unclear/> <unclear>de la</unclear> <unclear/> <unclear/>
-                    <unclear>ma</unclear> <del><unclear>par</unclear></del> <unclear>demeur</unclear> lui faire <unclear/> de cettre pièce <unclear>qui du</unclear> <unclear/> <unclear>dans</unclear>
-                    "<unclear>la</unclear> <unclear/> <unclear>du</unclear> <unclear/> <unclear/>."
-                </p>
-                
-                <p>
-                    Je <unclear/> Mon Collègue de <unclear/> <unclear>bien remarquer</unclear>
-                    qu'il <unclear>s'agit</unclear> de la nomination <unclear/> <unclear>Consul dans mon</unclear>
-                    de <unclear>nos Colonies ce que la</unclear> <unclear/> <unclear/> <unclear/>
-                    <unclear/> <unclear/> à la <unclear>Diction des Colonies.</unclear> Monsieur le <unclear>68 de la</unclear>
-                    <unclear/> <unclear/> <unclear>bien</unclear> <del><unclear>au mettre</unclear></del> <unclear/> <unclear>qui en l'éva</unclear> la <del><unclear>pieu</unclear></del> lettre <del><unclear/></del> de
-                    <del><unclear/></del> M <unclear/> de <unclear/> <del><unclear/></del> <unclear/> <unclear/> <unclear/> <del>au</del> <unclear/> <unclear/>
-                    de <unclear>l'affaire</unclear> qu'elle <unclear/> <del>laquelle <unclear/> <unclear/> <unclear/> <unclear>sur de</unclear></del> <del><unclear/> <unclear/></del>
-                    <del>moi,</del> <unclear/> à <unclear/> <unclear/> <unclear/> <unclear/>.
-                    
-                    <unclear/> <!-- Signature -->
-                </p>
-                
-                <note>
-                    <unclear>E</unclear>
-                </note>
-                
-                <note>
-                    <unclear>M</unclear> <!-- the letters after 'M' are cut off by the picture -->
-                </note>
-                
-            </div1>
+<pb n="20160614_111332.jpg"/>
+
+<ab>1st Office</ab>
+
+<p>Paris, March 24th 1864</p>
+
+<p>Note<lb/>
+for the Direction of Movements
+<unclear extent="one word"/> Military</p>
+
+<p></p>
+
+<p></p>
+
+<p>the Director</p>
+
+</div1>
 </body>
 </text>
 

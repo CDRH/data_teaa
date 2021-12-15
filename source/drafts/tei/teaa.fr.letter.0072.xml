@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
@@ -79,7 +79,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<keywords scheme="original" n="places">
 <term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
 
 </keywords>
@@ -106,7 +106,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <revisionDesc>
 <change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+
 </revisionDesc>
 </teiHeader>
 
@@ -116,7 +116,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <div1 type="document" xml:lang="fr">
 
-<pb facs="20160614_144635.jpg"/>
+<pb n="20160614_144635.jpg"/>
 
 <ab>
 Bureau du Régime <unclear/> 
@@ -200,7 +200,7 @@ pour les
 fr.
 </note>
 
-<pb facs="20160614_144645.jpg"/>
+<pb n="20160614_144645.jpg"/>
 
 <ab>
 <unclear/> gorée
@@ -282,7 +282,7 @@ que <del><unclear/></del> <unclear>droits</unclear> de navigation <add><unclear/
 2
 </note>
 
-<pb facs="20160614_144652.jpg"/>
+<pb n="20160614_144652.jpg"/>
 
 <p>
 <unclear>pourrait être</unclear> <del>modifié</del> <add>augmenté</add> <del><unclear>à la</unclear> 1839, December 27 1839, December 27</del>

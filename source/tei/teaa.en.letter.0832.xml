@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0832">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Judson A. Lewis to John Hay, January 5, 1880</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0832</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Judson A. Lewis to John Hay</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1880-01-05">January 5, 1880</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Lewis, Judson A.</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1880-01-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1880-02-01"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-07" who="#kln">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="421"/>
+
+<note>Department of State Received Feb 1 1880</note>
+
+<p>No 13. U.S. Consulate Sierra Leone Jan 5th 1880</p>
+
+<p>J. A. Lewis To Dept of State</p>
+
+<p>Receipt of Book "Labor in Europe"
+also Circular Letter dated Nov. 22
+appointing Mr John Hay Ass't
+Secty of State</p>
+
+<pb n="422"/>
+
+<note>No. 13</note>
+
+<p>U.S. Consulate at<lb/>
+Sierra Leone Jan 5th 1880</p>
+
+<p>Hon John Hay<lb/>
+Ass't Secty of State<lb/>
+Washington D.C.</p>
+
+<p>Sir</p>
+
+<p>I have to
+acknowledge the receipt at
+this Consulate of a Book
+Entitled "Labor in Europe"
+also the receipt of
+Circular Letter Dated Nov 22 1879
+stating that Mr John Hay has
+been appointed Assistant Secretary
+of State and entered upon the
+duties of his office</p>
+
+<p>I am Sir very Respectfully<lb/>
+Your Obt Srvt<lb/>
+Judson A. Lewis<lb/>
+U.S. Consul</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

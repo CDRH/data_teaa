@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0044.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0044">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>New York Times, "Debate on Congo Question" (1904)</title>
+<title>New York Times, "Debate on Congo Question" (October 21, 1904)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -70,22 +70,21 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term>Barbour, Thomas S. (Thomas Seymour), 1853-1915</term>
+<term ref="http://viaf.org/viaf/2333037">Barbour, Thomas S. (Thomas Seymour), 1853-1915</term>
 <term>Kowalsky, Henry I.</term>
-<term>Roosevelt, Theodore, 1858-1919</term>
+<term ref="http://viaf.org/viaf/44346731">Roosevelt, Theodore, 1858-1919</term>
 </keywords>
  
 <keywords scheme="original" n="places">
+<term>Boston (Massachusetts)</term>
+<term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
 <term>Belgium</term>
-<term>Boston (Mass.)</term>
-<term/>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
-<term/>
-</keywords>
-
-<keywords scheme="original" n="language">
 <term/>
 </keywords>
 
@@ -112,11 +111,11 @@
 
 <div2 type="titles">
 
-<p>Debate on Congo Question.</p>
+<head type="main">Debate on Congo Question.</head>
 
-<p>Challenge from Boston for King Leopold's Personal Agent.</p>
+<head type="sub">Challenge from Boston for King Leopold's Personal Agent.</head>
 
-<p>Special to The New York Times.</p>
+<head type="sub">Special to The New York Times.</head>
 
 </div2>
 

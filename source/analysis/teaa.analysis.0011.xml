@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.analysis.0011">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Mary Effie Lee - Morning Light (The Dew-drier) (1918). Analysis</title>
+<author n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</author>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.analysis.0011</idno>
+</publicationStmt>
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+<keywords scheme="original" n="type">
+<term>Analysis</term>
+</keywords>
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-10" who="#kln">encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="analysis">
+
+<head type="main">Analysis</head>
+
+<p>Mary Effie Lee (later Mary Effie Lee Newsome) was a children's poet who published frequently in <hi rend="italics">The Crisis</hi>, a magazine founded in 1910 as the official organ of the NAACP. Although the magazine focused on inspiring adult readers to political activism&#8212;particularly, in its first decades, against lynching&#8212;<hi rend="italics">The Crisis</hi> also devoted annual special issues to children's literature and later ran a regular children's column edited by Lee from 1925 to 1930 titled "The Little Page." Although Lee has fallen out of view in African American literary history, Katharine Capshaw Smith points out that Du Bois listed Lee alongside Langston Hughes, Countee Cullen, and Jean Toomer as the four poets praised on his list of "Debit and Credit" for the year 1922.<ref xml:id="r1" target="#n1">1</ref> Lee's "Morning Light (The Dew Drier)" appeared in the November 1918 issue of <hi rend="italics">The Crisis</hi> and was anthologized in Countee Cullen's 1927 <hi rend="italics">Caroling Dusk</hi> and Arna Bontemps's 1963 <hi rend="italics">American Negro Poetry</hi>, among other collections.</p> 
+
+<p>According to Smith, <hi rend="italics">The Crisis</hi>'s "ambivalences about Africa" can be seen in the fairy tales published in <hi rend="italics">The Brownies' Book</hi>, an offshoot of <hi rend="italics">The Crisis</hi> devoted to children's literature, which "sometimes reinscribe conventional romanticizations of the 'Dark Continent.'"<ref xml:id="r2" target="#n2">2</ref> Lee's stark poem does not follow this pattern. "Morning Light (The Dew-Drier)" begins with an explicatory epigraph: "It is a custom in some parts of Africa for travelers into the jungles to send before them in the early morning little African boys called 'Dew-driers' to brush with their bodies the dew from the high grasses&#8212;and be, perchance, the first to meet the leopard's or hyena's challenge&#8212;and so open the road. 'Human Brooms,' Dan Crawford calls them." The poem's first stanza directs the reader to view the scene, in which the "little black boy" plunges into the deadly jungle to forge a path for the adults to follow. He is "bathed in the dank dews," but, in the poem's second stanza, he is suddenly "bathed in the blood of battle"&#8212;the implied end of a child fated to serve as a dew-drier. The entirety of the second stanza asks a single question, one that extends to the black world in general; Lee wonders if the race of this little boy, like the boy himself, may "bear onward the world toward a new day-dawn."</p>
+
+</div1>
+
+</body>
+
+<back>
+<div1 type="notes">
+
+   <note xml:id="n1" target="#ref1" place="margin-bottom">
+   1. Katharine Capshaw Smith, <hi rend="italics">Children's Literature of the Harlem Renaissance</hi> (Indiana University Press, 2004), page 45.
+   </note>
+
+   <note xml:id="n2" target="#ref2" place="margin-bottom">
+   2. Ibid., page 31, 34.
+   </note>
+
+</div1>
+
+</back>
+
+</text>
+
+</TEI>

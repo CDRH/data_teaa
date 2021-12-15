@@ -42,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Albert Bushnell to William M. Evarts, September 20, 1879</title>
+<title level="a">Despatch from Albert Bushnell to William M. Evarts</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
@@ -68,18 +68,18 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Bushnell</term><!-- Mrs. -->
+<term>Bushnell, Lucina</term>
 <term>Murphy, S. H.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>Gaboon</term>
 <term>Liverpool (England)</term>
-<term>New York (N.Y.)</term>
+<term>New York (New York)</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,23 +90,19 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Bushnell, Albert</persName>
+<persName ref="http://viaf.org/viaf/2304541">Bushnell, Albert, 1818-1879</persName>
 <roleName>U.S. Commercial Agent</roleName>
-<placeName>Nassau, New York</placeName>
+<placeName>Nassau (New York)</placeName>
 <date when="1879-09-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/20436089">Evarts, William Maxwell, 1818-1901</persName>
 <roleName>U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
@@ -123,7 +119,7 @@
 <body>
 <div1 xml:lang="en" type="document">
 
-<pb facs="20170615_144312"/>
+<pb n="20170615_144312"/>
 
 <p>Nassau, Rens. Co. N.Y.<lb/>
 September 20th 1879</p>
@@ -157,7 +153,7 @@ in charge of the Commercial Agency
 informing me that soon after 
 my departure, he had been <sic>denyed</sic>
 
-<pb facs="20170615_144316"/>
+<pb n="20170615_144316"/>
     
 the privilege of flying the flag,
 because the Government at Paris,
@@ -169,7 +165,7 @@ If I return as Commercial
 Agent, or as Consul; it will
 be necessary for the Government 
 at Paris, to be officially informed 
-of the fact, and an Exequater 
+of the fact, and an <sic>Exequater</sic> 
 be solicited.</p>
 
 <p>Permit me to add, new forms 

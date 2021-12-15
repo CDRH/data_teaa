@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from L. de R. du Verge to J. C. Bancroft Davis, September 30, 1882</title>
+<title>Despatch from Louis Astyanax de Rathier du Verge to J. C. Bancroft Davis, September 30, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from L. de R. du Verge to J. C. Bancroft Davis</title>
+<title level="a">Despatch from Louis Astyanax de Rathier du Verge to J. C. Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">4</biblScope>
 <date from="1882-09-30" >September 30, 1882</date>
 </bibl>
@@ -67,32 +67,27 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term ref="http://viaf.org/viaf/255734976">Amaral, Francisco Joaquim Ferreira do</term>
+<term ref="http://viaf.org/viaf/255734976">Amaral, Francisco Ferreira do, 1844-1923</term>
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>Lisbon (Portugal)</term>
-<term>St. Paul de Loanda (Angola)</term>
 </keywords>
     
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>England</term>
 <term>France</term>
-<term>Holland</term>
+<term>Netherlands</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -101,21 +96,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Verge, L. de R. du</persName>
+<persName>Verge, Louis Astyanax de Rathier du</persName>
 <roleName>U.S. Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1882-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-07-17" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
@@ -128,18 +124,17 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0153.001"/>
+<pb n="teaa.en.letter.0153.001"/>
 
 <note>No <del>35</del> 13</note>
 
-<opener><dateline>United States Consulate<lb/>
+<p>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-Sept 30th, 1882.</dateline>
+Sept 30th, 1882.</p>
 
-<address><addrLine>Hon. J.C. Bancraft Davis</addrLine>
-<addrLine>Asst. Secty of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
-</opener>
+<p>Hon. J.C. Bancroft Davis<lb/>
+Asst. Secty of State<lb/>
+Washington D.C.</p>
 
 <p>Sir,</p>
 
@@ -165,7 +160,7 @@ to the State Department for my quarter
 ending December 1882. You will be able 
 to see what a R.R. Company here
 
-<pb facs="teaa.en.letter.0153.002"/>
+<pb n="teaa.en.letter.0153.002"/>
 
 would be able to realize in 10 years; a 
 great profit would consequently be the 
@@ -197,7 +192,7 @@ Dutch, French and English goods are
 daily coming by the English mail
 and other merchant vessels. On the
 
-<pb facs="teaa.en.letter.0153.003"/>
+<pb n="teaa.en.letter.0153.003"/>
 
 coast you see nothing but English Trading 
 Houses, and the goods we are now wearing
@@ -211,11 +206,11 @@ to them, and if you have such great
 ships as England has <unclear extent="one word"/> big guns;
 Why not let us see them".</p>
 
-<closer><salute>I have the honor to be<lb/>
+<p>I have the honor to be<lb/>
 Sir<lb/>
-Your obedient servant</salute>
-<signed>L de R du Verge<lb/>
-US Consul</signed></closer>
+Your obedient servant<lb/>
+L de R du Verge<lb/>
+US Consul</p>
 
 </div1>
 </body>

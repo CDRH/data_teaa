@@ -1,6 +1,8 @@
 # data_teaa
 Data Repository for To Enter Africa from America 
 
+Issues should go in the [TEAA Rails Repository](https://github.com/CDRH/teaa)
+
 ## Posting files on dev subsite
 
 ssh into `cdrhdev1.unl.edu`
@@ -36,3 +38,15 @@ If you have made a lot of changes, especially any file deletion, you should clea
 ```
 es_clear_index
 ```
+
+## Spreadsheets
+
+The personography and Images are populated via CSV's downloaded from Google Sheets: 
+
+### Images
+
+https://docs.google.com/spreadsheets/d/1KN06GKm2XucbCUl49alPFP89GUtJO6hTZ4fQ3urJZlE/edit#gid=0
+
+### Personography
+
+https://docs.google.com/spreadsheets/d/1-Nk0eIBSmQVvV1toGWyGS9Pg_ALbcyPqhE-5nZn1CkY/edit#gid=0

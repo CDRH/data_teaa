@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Missionary Review, "Progress and Results of Missions: Africa" (1889)</title>
+<title>The Missionary Review of the World, "Bishop William Taylor" (1889)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -41,13 +41,10 @@
 
 <sourceDesc>
 <bibl>
-<title level="a" type="main">Progress and Results of Missions: Africa</title>
-<title level="j">The Missionary Review</title>
-<pubPlace>Princeton (N.J.)</pubPlace>
-<biblScope unit="volume">12</biblScope>
-<biblScope unit="issue">3</biblScope>
-<biblScope unit="page">227</biblScope>
+<title level="a" type="main">Bishop William Taylor</title>
+<title level="j">The Missionary Review of the World</title>
 <date when="1889-03">March 1889</date>
+<biblScope unit="page">227</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -67,7 +64,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Periodicals</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
@@ -76,9 +73,10 @@
  
 <keywords scheme="original" n="places">
 <term>Greenville (Liberia)</term>
+<term>New York (New York)</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="powers">
 <term/>
 </keywords>
  
@@ -90,14 +88,11 @@
 <term>African Methodist Episcopal</term>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-11-26" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -108,23 +103,9 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0093.001"/>
+<pb n="p227"/>
 
-<div2 type="title">
-
-<p>V.&#8212;Progress and Results of Missions&#8212;Monthly Bulletin.</p>
-
-</div2>
-
-<div2 type="article">
-
-<p>Africa.</p>
-
-<gap reason="sampling"/>
-
-<p>&#8212;Bishop William Taylor, now in his 68th year, left New York for a second four years' sojourn in Africa, December 1. Notwithstanding his age, he plunges into the wilds to accomplish a work sufficient to tax the physical energies of the strongest man, thirty years younger. Fevers, perils from the natives, a burning equatorial sun&#8212;these have no terrors for him. He is "moving out on the high lines of human impossibilities, trusting alone in Him with whom all things are possible," and he is strong in faith for the conversion of the heathen millions of the "Dark Continent." He was to preside over the annual Conference of the African Methodist Episcopal Church, at Greenville, Liberia, on January 10.</p>
-
-</div2>
+<p>Bishop William Taylor, now in his 68th year, left New York for a second four years' sojourn in Africa, December 1. Notwithstanding his age, he plunges into the wilds to accomplish a work sufficient to tax the physical energies of the strongest man, thirty years younger. Fevers, perils from the natives, a burning equatorial sun &#8212; these have no terrors for him. He is "moving out on the high lines of human impossibilities, trusting alone in Him with whom all things are possible," and he is strong in faith for the conversion of the heathen millions of the "Dark Continent." He was to preside over the annual Conference of the African Methodist Episcopal Church, at Greenville, Liberia, on January 10.</p>
 
 </div1>
 </body>

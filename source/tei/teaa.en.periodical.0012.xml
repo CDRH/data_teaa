@@ -7,7 +7,6 @@
 <fileDesc>
 <titleStmt>
 <title>The North American Review, John A. Kasson, The Congo Conference and the President's Message (1886)</title>
-<author n="Kasson, John A.">John A. Kasson</author>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -38,8 +37,8 @@
 
 <sourceDesc>
 <bibl>
-<author n="Kasson, John A.">John A. Kasson</author>
 <title level="a" type="main">The Congo Conference and the President's Message</title>
+<author ref="http://viaf.org/viaf/115616647">Kasson, John A. 1822-1910</author>
 <title level="j">The North American Review</title>
 <biblScope unit="vol">142</biblScope>
 <biblScope unit="issue">351</biblScope>
@@ -58,7 +57,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>International Conferences and Treaties</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -70,7 +69,7 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term>Kasson, John A.</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="places">
@@ -79,16 +78,14 @@
 <term>Lake Tanganyika</term>
 <term>Loge River</term>
 <term>Niger River</term>
-<term>Zambesi River</term>
+<term>Zambezi River</term>
 <term>Zanzibar</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
+
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -101,6 +98,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-03-21" who="#kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-08-05" who="#kln">Edited for new TEI and file naming structures.</change>
@@ -115,33 +113,27 @@
 
 <div1 type="document" xml:lang="en">
 
-<head type="main">The Conference at Berlin on the West-African Question.</head>
+<div2 type="article">
 
-<head type="sub">Daniel De Leon</head>
+<head type="main">The Congo Conference and the President's Message.</head>
 
-<gap reason="sampling" extent="about five pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<head type="sub">John A. Kasson</head>
 
-<div2 xml:id="teaa.en.periodical.0012.e001">
+<p>[ . . . ]</p>
+
+</div2>
+
+<div2 type="article">
 
 <p>This declaration constitutes an agreement on the part of all the governments adhering to it that the commerce of each of their nations shall enjoy complete liberty in all the region drained by the Congo and its affluents, including therewith Lake Tanganyika and its eastern tributaries: also in the Atlantic zone lying on both sides of the Congo basin proper between latitude 2° degrees 30' south, and the river Logé, prolonging these lines eastward from the Atlantic until they reach the Congo basin also: in the zone lying eastward of the Congo basin and situate between the 5th degree of north latitude and the river Zambesi on the south and extending to the Indian Ocean on the east. But it was expressly understood that the provisions should only apply to the territories of any independent power in this eastward zone (like Zanzibar) after such Government should give its assent; and the Conference powers agreed to use their influence to obtain this consent.</p>
 
-</div2>
-    
-<gap reason="sampling" extent="about five pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
-
-<div2 xml:id="teaa.en.periodical.0012.e002">
+<p>[ . . . ]</p>
         
 <p>The fourth and fifth of the resolutions of the Conference establish an agreement that the two greatest commercial rivers of Western Africa, the Niger and Congo, as well as all artificial water ways or railroads connecting their waters respectively, shall forever remain open to the navigation and commercial use of all nations, on terms of perfect equality. No embarrassing or discriminating regulations shall be applied; and other national interests shall have the same liberty and rights on these rivers as those of the possessory powers. No nation may create a monopoly on either river. This navigation is to remain forever free and open to neutral commerce, even in time of war.</p>
-        
-</div2>    
 
-<gap reason="sampling" extent="about four pages">
-<desc>irrelevant to author's discussion</desc>
-</gap>
+<p>[ . . . ]</p>
+        
+</div2>   
 
 </div1>
 

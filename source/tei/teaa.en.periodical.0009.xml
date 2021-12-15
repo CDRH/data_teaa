@@ -61,7 +61,9 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
+<term>International Conferences and Treaties</term>
 <term>Missionaries</term>
+<term>Commerce and Trade</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -73,13 +75,12 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Leopold II, King of the Belgians, 1835-1909</term>
-<term>Livingstone, David, 1813-1873.</term>
-<term>Stanley, Henry M. (Henry Morton), 1841-1904</term>
+<term ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/82967082">Livingstone, David, 1813-1873</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry Morton, 1841-1904</term>
 </keywords>
     
 <keywords scheme="viaf" n="places">
-<term>Africa</term>
 <term>Amazon River</term>
 <term>Atlantic Ocean</term>
 <term>Belgium</term>
@@ -88,32 +89,25 @@
 <term>Congo Free State</term>
 <term>Congo River</term>
 <term>Egypt</term>
-<term>England</term>
-<term>France</term>
 <term>Kindu (Congo)</term>
 <term>Mississippi River</term>
 <term>Missouri River</term>
 <term>Nile River</term>
 <term>Ponthierville (Congo)</term>
-<term>Portugal</term>
 <term>Stanley Falls</term>
 <term>Stanleyville (Congo)</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>Great Britain</term>
+<term>Portugal</term>
 <term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
-<term>Belgians</term>
 <term>Bengala</term>
-<term>Boers</term>
-<term>Englishmen</term>
-<term>Italians</term>
-<term>Negros</term>
-<term>Scandinavians</term>
-<term>Swiss</term>
-</keywords>
-    
-<keywords scheme="original" n="language">
-<term/>
+<term>Boer</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -124,6 +118,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-03-05" who="#kln">encoded</change>
 <change when="2017" who="ks">corrections, marked up</change>
 <change when="2016" who="jp">transcription</change>
@@ -136,11 +131,11 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p189" facs="teaa.en.periodical.0009.001.jpg"/>
+<pb n="p189"/>
 
 <div2 type="title">
 
-<p>The Locomotive in Central Africa.</p>
+<head type="main">The Locomotive in Central Africa.</head>
 
 </div2>
 
@@ -171,7 +166,7 @@ wrangle with gray parrots. Churning steamboat wheels invade the dwelling
 places of hippopotami among the reeds on the river banks. A saw mill
 sings at the spot where Henry M. Stanley, 20 years ago, heard the horns.
 
-<pb xml:id="p190" facs="teaa.en.periodical.0009.002.jpg"/>
+<pb n="p190"/>
 
 drums and savage yells of the cannibals and told his men they must go
 down the river before them or die.</p>
@@ -236,7 +231,7 @@ Boers were advancing on the south. The interest aroused by Stanley's tale
 terminated in 1885 in the Treaty of Berlin, whereby the Congo Free State
 became neutral territory for a number of years.</p>
 
-<pb xml:id="p191" facs="teaa.en.periodical.0009.003.jpg"/>
+<pb n="p191"/>
 
 <p>By the end of the century, or in a brief two years, the steamers 
 numbered 100. The largest of them now has a burden of 500 tons The
@@ -300,7 +295,7 @@ ties are of bomball trees-the "sham cedar'-a tough durable wood cut
 from the neighboring forests. The steel rails are brought from Europe the
 freight charges being $2500 for a kilometer of track, or $4160 for a mile.
 
-<pb xml:id="p192" facs="teaa.en.periodical.0009.004.jpg"/>
+<pb n="p192"/>
 
 This expense raised the; cost of the Stanleyville-Ponthierville road to 
 between $15,000 and $20,000 a kilometer, or from $25,000 to $33,300 a mile.</p>

@@ -7,7 +7,7 @@ RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/te
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>W. O. Blake, "Historical Sketch of Sierra Leon and Liberia", The History of Slavery and the Slave Trade (1858)</title>
+<title>W. O. Blake - "Historical Sketch of Sierra Leone and Liberia", The History of Slavery and the Slave Trade (1858)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -41,13 +41,13 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </publicationStmt>
 <sourceDesc>
 <bibl>
-<title level="a" type="main">1862--Emancipation Day--1884; The Negro as a Political Problem</title>
+<title level="a" type="main">Historical Sketch of Sierra Leone and Liberia</title>
 <title level="m">The History of Slavery and the Slave Trade, Ancient and Modern</title>
-<author n="Blake, W. O.">W. O. Blake</author>
-<editor/>
+<author ref="http://viaf.org/viaf/10568507">Blake, W. O., 1810-1865</author>
 <pubPlace>Columbus, Ohio</pubPlace>
 <publisher>J. &amp; H. Miller</publisher>
 <date when="1858">1858</date>
+<biblScope unit="page">358-369</biblScope>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -60,7 +60,9 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <keywords scheme="original" n="theme">
 <term>Commerce and Trade</term>
-<term>Encounters with Africans</term>
+<term>Emigration</term>
+<term>"Othering" Africans</term>
+<term>Resistance</term>
 <term>Slave Trade and Slavery</term>
 </keywords>
 
@@ -90,7 +92,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term ref="http://viaf.org/viaf/13099571">Mansfield, William Murray, Earl of, 1705-1793</term>
 <term>Mechlin, Joseph, Jr.</term>
 <term>Mills</term>
-<term>Pinney. J. B.</term>
+<term>Pinney, John B.</term>
 <term>Randall, Richard</term>
 <term ref="http://viaf.org/viaf/63021631">Roberts, Joseph J. (Joseph Jenkins), 1809-1876</term>
 <term ref="http://viaf.org/viaf/62663866">Russwurm, John Brown, 1799-1851</term>
@@ -121,14 +123,14 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>Monrovia (Liberia)</term>
 <term>New Sestos (Liberia)</term>
 <term>Nova Scotia</term>
-<term>Sherboro Island (Sierra Leone)</term>
+<term>Sherbro Island (Sierra Leone)</term>
 <term>Sierra Leone</term>
-<term>St. Paul's River</term>
+<term>Saint Paul River</term>
 <term>West Indies</term>
 <term>Yando's Town (Liberia)</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>Belgium</term>
 <term>Brazil</term>
 <term>France</term>
@@ -140,11 +142,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term>Golah</term>
-</keywords>
-
-<keywords scheme="original" n="language">
-<term>English</term>
+<term>Gola</term>
 </keywords>
 
 <keywords scheme="original" n="religion">
@@ -155,6 +153,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 </profileDesc>
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-12-02" who="kln">encoding and transcription.</change>
 </revisionDesc>
 </teiHeader>
@@ -165,17 +164,32 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p358" facs="teaa.en.book.0016.001"/>
+<pb n="p0"/>
 
 <div2 type="title">
 
-<p>Historical Sketch of Sierra Leone and Liberia</p>
+<head type="main">The History of Slavery and the Slave Trade.</head>
+
+<head type="sub">Ancient and Modern.</head>
+
+<p>Compiled from Authentic Materials<lb/>
+by W. O. Blake.</p>
+
+</div2>
+
+<pb n="p358"/>
+
+<div2 type="title">
+
+<head type="sub">Chapter XX.</head>
+
+<head type="sub">Historical Sketch of Sierra Leone and Liberia</head>
+
+<p>[ . . . ]</p>
 
 </div2>
 
 <div2 type="body">
-
-<p>Colony of Sierra Leone founded by the English, 1787.&#8212;Free negroes colonized.&#8212;Present extent and condition of the colony.&#8212;Establishment of English factories on the slave coast.&#8212;Treaties with the African chiefs.&#8212;Scheme of African Colonization agitated in 1783&#8212;by Jefferson and others.&#8212;Movements in Va., in 1800 and 1805.&#8212;Formation of the American Colonization Society in 1816.&#8212;Its object "to colonize the free people of color."&#8212;Cape Mesurado purchased and colonized in 1821.&#8212;Defense of the infant settlement from an attack by the natives.&#8212;Mortality among the early settlers.&#8212;Increase of the colony in 1835.&#8212;State colonization societies establish settlements.&#8212;Consolidation of the state colonies, and establishment of the Commonwealth.&#8212;Governor Buchanan's efforts to suppress the slave-trade.&#8212;His death, 1841.&#8212;Republic of Liberia established 1847.&#8212;Joseph J. Roberts (colored) first President.&#8212;Its independence acknowledged by European powers.&#8212;The Republic attacks the slave establishments.&#8212;Natural resources of Liberia&#8212;its climate, soil, productions, exports, schools, churches, &amp;c.&#8212;Settlements and population.&#8212;The Maryland settlement at Cape Palmas.</p>
 
 <p>In connection with the subject of the slave-trade, the English and American colonies deserve notice. Sierra Leone was founded by the English, May 9th, 1787, as a colony for free negroes. At the close of the American war, several hundred were discharged from the army and navy, and were wandering about in a desolate condition. There were others who had gained their freedom under the decision of Lord Mansfield. Granville Sharp had noticed the condition of these negroes in the streets of London, and formed the plan of transporting them to Africa. He obtained the aid of government, and in the year mentioned about four hundred were landed upon a district purchased of the king of Sierra Leone. In 1792, about twelve hundred more were landed from Nova Scotia. These last were those who had been seduced from their masters in the States during the revolutionary war. Some five hundred Maroons from Jamaica, were also sent to the colony a few years afterwards. In 1807, the colony was surrendered to the crown. After the employment of British cruisers on the coast to suppress the slave-trade, the vessels which were captured were taken to the colony and the slaves liberated. They were provided with a daily allowance for the first six months, after which lands were assigned them.</p> 
 
@@ -183,7 +197,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <p>For a distance of twelve hundred miles along the coast from Cape Palmas
 
-<pb xml:id="p359" facs="teaa.en.book.0016.002"/>
+<pb n="p359"/>
 
 to the Gaboon, English factories and agents are established; for commercial purposes and for the suppression of the slave-trade. These establishments are supported by the government; and its authorized commissioners enter into negotiations with the powerful chiefs of the interior on the subject of the slave-trade. The Danish ports on the coast have recently been sold to the English. A treaty has been formed with the powerful king of Dahomey, whose chief revenue was derived from incursions against his neighbors and seizing and selling them to the slavers. He had kept an army of men and women trained for the purpose, and his victims numbered about nine thousand annually. An annual stipend from England supplies the deficiency in his revenue, and the trade is abolished in his dominions. Human sacrifices have also been to a great extent abolished in the two great states of Dahomey and Ashantee, and both are opened to missionary influences.</p> 
 
@@ -193,7 +207,7 @@ to the Gaboon, English factories and agents are established; for commercial purp
 
 <p>On the 3d of March, 1819, Congress passed an act by which the President was authorized to restore to their own country any Africans captured from American or foreign vessels attempting to introduce them into the United States; and to provide, by the establishment of a suitable government agency on the coast, for their subsistence and comfort. It was determined to make the site of the government agency, that of the colonial also, and to incorporate into the settlement all the Africans delivered by our men-of-war to the government agent.</p>
 
-<pb xml:id="p360" facs="teaa.en.book.0016.003"/>
+<pb n="p360"/>
 
 <p>Rev. Samuel Bacon was appointed both government and colonial agent; two society's agents were associated with him. In February, 1820, they sailed for the coast of Africa, accompanied by eighty emigrants. They found Sherboro an unhealthy spot; the fever made its appearance among them, and about twenty died, including Mr. Bacon. Lieutenant Townsend, of the sloop-of-war Cyane, which accompanied the emigrant vessel, also died of the fever. After this disastrous attempt, Sherboro was abandoned, and the emigrants removed to Sierra Leone.</p> 
 
@@ -205,7 +219,7 @@ to the Gaboon, English factories and agents are established; for commercial purp
 
 <p>"Notwithstanding this disastrous result, the natives determined upon another attack. They collected auxiliaries from all the neighboring tribes who could be induced to join them. The colonists, on the other hand, under Ashmun, the agent, were busily engaged in fortifying themselves for the decisive battle, upon which the fate of the settlement was suspended. On the 2d of December the enemy attacked simultaneously the three sides of the fortifications. The colonists
 
-<pb xml:id="p361" facs="teaa.en.book.0016.004"/>
+<pb n="p361"/>
 
 received them with that bravery and determination which the danger of total destruction, in case of defeat, was calculated to inspire. The main body of the enemy being exposed to a galling fire from the battery, both in front and flank, and the assault on the opposite side of the town having been repulsed, a general retreat immediately followed, and the colonists were again victorious.</p> 
 
@@ -217,7 +231,7 @@ received them with that bravery and determination which the danger of total dest
 
 <p>Meantime, state societies had been establishing settlements in Liberia. In 1837 there were: Monrovia, under the American colonization society; Bassa Cove, of the New York and Pennsylvania societies; Greenville, of the Mississippi society, and Cape Palmas, of the Maryland society&#8212;embracing twelve towns and five thousand emigrants. From this chaotic entanglement of interests and jurisdictions sprung the commonwealth of Liberia, and Thomas H. Buchanan became its governor. The friends of the American Colonization
 
-<pb xml:id="p362" facs="teaa.en.book.0016.005"/>
+<pb n="p362"/>
 
 Society, and of the state societies, had <sic>forseen</sic> the necessity of a union, and a committee met at Washington City and drew up a common constitution for the colonies. Elisha Whittlesey moved, and the motion was adopted, that no white man should become a landholder in Liberia, and that full rights of citizenship should be enjoyed only by colored men. The American Colonization Society retained the right to veto the acts of the colonial legislature.</p> 
 
@@ -227,7 +241,7 @@ Society, and of the state societies, had <sic>forseen</sic> the necessity of a u
 
 <p>"The force left Millsburg on Friday, 27th of March. Swamps and thickets soon obliged him to leave the gun behind. Through heavy rains, drenched and weary, they made their way, without any other resistance, to a bivouac in an old deserted town. Starting at daylight next morning, they forced their way through flooded streams and ponds, "in mud up to their knees, and water up to the waist." After a halt at ten o'clock, and three hours' march subsequently, they learnt that the enemy had become aware of their movements, and was watching them. About six miles from their destination, after floundering through the mud of a deep ravine, followed by a weary pull up a long hill, a sharp turn brought them in front of a rude barricade of felled trees. A fire of musketry from it brought to the ground Captain Snetter, of the riflemen, who was in advance of his men. The men made a dash on the enemy so suddenly that soon no body was in front of them. The line moved on without stopping, and met only a straggling fire here and there, as they threaded their narrow path through the bushes in single file. A few men were wounded in this disheartening march. At length those in advance came to a halt before the fortress, and the rear closed up. There the line was extended, and the party advanced in two divisions. The place was a kind of square, palisaded
 
-<pb xml:id="p363" facs="teaa.en.book.0016.006"/>
+<pb n="p363"/>
 
 inclosure, having outside cleared patches here and there, intermingled with clumps of brush.</p> 
 
@@ -243,7 +257,7 @@ inclosure, having outside cleared patches here and there, intermingled with clum
 
 <p>Several kings met with the president in his excursion, with whom a conversation was held, "on the subject of trade, the course and extent of the river, native wars, religion, &amp;c." One, "who was seated in state, on a sofa of raised earth, gave us a hearty shake of the hand, and said he was glad to see us;" adding, "this country be your country, all this people be your countryman, you be first king." This king was informed by the president, "that he and his people must agree to abandon the slave-trade, to discontinue the use of sassy-wood, engage in no war except by permission of the colonial government." On one occasion, "Ballasada, the principal war-man of the Golah tribe, made his appearance; he entered the gate of the barricade, at the head of some twenty or thirty armed warriors, with drums beating, horns blowing, dressed in a large robe, and stepping with all the majesty of a great monarch." At
 
-<pb xml:id="p364" facs="teaa.en.book.0016.007"/>
+<pb n="p364"/>
 
 Yando's town, arrangements were made for establishing a school. At Gelby, one of the missionaries preached to a large congregation&#8212;the king with most of his people being present. The audience was attentive, and, with the king, gave "a nod of the head at almost every word uttered by the interpreter."</p> 
 
@@ -255,7 +269,7 @@ Yando's town, arrangements were made for establishing a school. At Gelby, one of
 
 <p>In March, 1849, several English and French cruisers placed themselves at the disposal of President Roberts for an expedition against the slave establishments at New Sestos. Roberts embarked 400 men in the cruisers, and accompanied by the U. S. sloop-of-war Yorktown, proceeded to the scene of action. Some of the native chiefs had been induced to defend the slavers, but a shell from the French steamer bursting over their heads, the natives made
 
-<pb xml:id="p365" facs="teaa.en.book.0016.008"/>
+<pb n="p365"/>
 
 tracks for the jungle. Roberts marched his men upon the barracoons. The defense was abandoned and the buildings fired. The slaves were liberated and New Sestos annexed.</p> 
 
@@ -267,7 +281,7 @@ tracks for the jungle. Roberts marched his men upon the barracoons. The defense 
 
 <p>A thirst for education has been awakened among the surrounding aborigines of Liberia, many of whom send their children 400 and 500 miles, to be educated in the republic. The Liberians have built for themselves above thirty churches of brick and stone; and possess numerous schools, and a considerable number of printing-presses. More than 20,000 natives have requested to be taken under the protection of the state, while not less than 100,000 live on its territory, and 350,000 are bound to it by treaties to abolish the slave-trade. At different times, ten buildings, erected by slave-traders for the storage of slaves, have been burned down by the Liberians, and hundreds of their fellow-creatures, therein confined, liberated; and they at all times afford refuge to the weak and the oppressed. Monrovia, the capital and port of the colony, is situated on Cape Mesurado. There are, besides, above twenty towns and villages in the territory. The government of the country is precisely on the American model; consisting of a president, a vice-president, a senate, and a
 
-<pb xml:id="p366" facs="teaa.en.book.0016.009"/>
+<pb n="p366"/>
 
 house of representatives; the number of members in the former being six, and in the latter twenty-eight. A company has recently been organized in the United States for establishing steam communication between Liberia and this country. Population in 1850, 250,000.*</p> 
 
@@ -282,7 +296,7 @@ house of representatives; the number of members in the former being six, and in 
 <note>* Lippincott's Gazetteer of the World.</note>
 
 
-<pb xml:id="p367" facs="teaa.en.book.0016.010"/>
+<pb n="p367"/>
 
 and what is of more importance, our sentiments and our opinions, have their due weight in the government we live under. Our laws are altogether our own; they grow out of our circumstances, are framed for our exclusive benefit, and administered by officers of our own appointment, and as such possess our confidence. We have a judiciary chosen from among ourselves; we serve as jurors in the trials of others, and are liable to be tried only by juries of our fellow-citizens ourselves. We have all that is meant by <hi rend="italics">liberty of conscience</hi>. The time and mode of worshiping God, as prescribed to us in His word, and dictated by our conscience, we are not only free to follow, but are protected in following.</p> 
 
@@ -294,7 +308,7 @@ and what is of more importance, our sentiments and our opinions, have their due 
 
 <p>"The true character of the African climate is not well understood in other countries. Its inhabitants are as robust, as healthy, as long-lived, to say the least, as those of any other country. Nothing like an epidemic has ever appeared
 
-<pb xml:id="p368" facs="teaa.en.book.0016.011"/>
+<pb n="p368"/>
 
 in this colony; nor can we learn from the natives, that the calamity of a sweeping sickness ever yet visited this part of the continent. But the change from a temperate to a tropical country is a great one&#8212;too great not to affect the health more or less, and in the cases of old people, and very young people, it often causes death. In the early years of the colony, want of good houses, the great fatigues and dangers of the settlers, their irregular mode of living, and the hardships and discouragements they met with, greatly helped the other causes of sickness, which prevailed to an alarming extent, and were attended with great mortality. But we look back to those times as a season of trial long past, and nearly forgotten. Our houses and circumstances are now comfortable; and for the last two or three years not one person in forty, from the middle and southern states, has died from the change of climate.</p> 
 
@@ -304,7 +318,7 @@ in this colony; nor can we learn from the natives, that the calamity of a sweepi
 
 <p>"Truly, we have a goodly heritage; and if there is any thing lacking in the character or condition of the people of this colony, it can never be charged to the account of the country; it must be the fruit of our own mismanagement, or slothfulness, or vices. But from all these evils we confide in Him to whom we are indebted for our blessings, to preserve us. It is the topic of our weekly and daily thanksgiving to Almighty God, both in public and private, and He knows with what sincerity we were conducted, by His providence, to this shore. Such great favors, in so short a time, and mixed with so few trials, are to be ascribed to nothing but His special blessing. This we acknowledge. We only want the gratitude which such signal favors call for. Nor are we willing to close this paper, without adding a heartfelt testimonial to the deep obligations we owe to our American patrons and best earthly benefactors, whose wisdom pointed us to this home of our nation, and whose active and persevering benevolence enabled us to reach it. Judge, then, of the feelings with which we hear the motives and doings of the Colonization Society traduced&#8212;and that, too, by men too ignorant to know what the society has already accomplished; too weak to look through its plans and intentions; or
 
-<pb xml:id="p369" facs="teaa.en.book.0016.012"/>
+<pb n="p369"/>
 
 too dishonest to acknowledge either. But, without pretending to any prophetic sagacity, we can certainly predict to that Society the ultimate triumph of their hopes and labors; and disappointment and defeat to those who oppose them. Men may theorize and speculate upon their plans in America, but there can be no speculation here. The cheerful abodes of civilization and happiness which are scattered over this verdant mountain&#8212;the flourishing settlements which are spreading around it&#8212;the sound of Christian instruction, and scenes of Christian worship, which are heard and seen in this land of brooding pagan darkness&#8212;a thousand contented freemen united in founding a new Christian empire, happy themselves, and the instrument of happiness to others&#8212;every object, every individual, is an argument, is a demonstration, of the wisdom and goodness of the plan of colonization."</p>
 

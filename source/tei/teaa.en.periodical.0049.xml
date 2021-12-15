@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0049.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0049">
 
 <teiHeader>
 <fileDesc>
@@ -71,26 +71,26 @@
 </keywords> 
 
 <keywords scheme="viaf" n="people">
-<term>Albert I, King of the Belgians, 1875-1934</term><!-- actually his brother, not nephew -->
-<term>Clementine, Princess of Belgium, 1872-1955</term>
-<term>Cromer, Evelyn Baring, Earl of, 1841-1917</term>
-<term>Grey of Fallodon, Edward Grey, Viscount, 1862-1933</term>
-<term>Leopold II, King of the Belgians, 1835-1909</term>
-<term>Ryan, Thomas Fortune, 1851-1928</term>
+<term ref="http://viaf.org/viaf/121795014">Albert I, King of the Belgians, 1875-1934</term><!-- actually his brother, not nephew -->
+<term ref="http://viaf.org/viaf/71589738">Clementine, Princess of Belgium, 1872-1955</term>
+<term ref="http://viaf.org/viaf/9879377">Cromer, Evelyn Baring, Earl of, 1841-1917</term>
+<term ref="http://viaf.org/viaf/295001983">Grey of Fallodon, Edward Grey, Viscount, 1862-1933</term>
+<term ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/38615601">Ryan, Thomas Fortune, 1851-1928</term>
 </keywords>
  
 <keywords scheme="original" n="places">
-<term>Belgium</term>
+<term>Belgian Congo</term>
 <term>Congo Free State</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>Belgium</term>
 <term>France</term>
 <term>Great Britain</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
-<term/>
-</keywords>
-
-<keywords scheme="original" n="language">
 <term/>
 </keywords>
 
@@ -117,9 +117,9 @@
 
 <div2 type="titles">
 
-<p>Reforms in the Kongo</p>
+<head type="main">Reforms in the Kongo</head>
 
-<p>Leopold's domain may become a Belgian domain</p>
+<head type="sub">Leopold's domain may become a Belgian domain</head>
 
 </div2>
 

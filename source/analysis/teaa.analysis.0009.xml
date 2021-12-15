@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.analysis.0009">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Martin R. Delany - Blake, or the Huts of America (1859-1862). Analysis</title>
+<author n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</author>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.analysis.0009</idno>
+</publicationStmt>
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+<keywords scheme="original" n="type">
+<term>Analysis</term>
+</keywords>
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-10" who="#kln">encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="analysis">
+
+<head type="main">Analysis</head>
+
+<p>Martin Delany's <hi rend="italics">Blake; or, the Huts of America</hi> was a serially published novel; the first part appeared in the <hi rend="italics">Anglo-African Magazine</hi> in 1859, and the second part in the periodical's successor, the <hi rend="italics">Weekly Anglo-African</hi>, from 1861 to 1862. The issue(s) of the <hi rend="italics">Weekly Anglo-African</hi> believed to have concluded the novel have been lost. Delany was a well-known activist and physician who advocated for African American emigration to Africa at various times in his life. His emigration projects included "A Project for an Expedition of Adventure, to the Eastern Coast of Africa," written in the 1830s but published almost 20 years later, and "Official Report of the Niger Valley Exploring Party," published in 1861, which details a treaty he signed "with the Alake and chiefs of Abeokuta that granted [him] and his commissioners the right to establish a settlement of African American emigrants on land of the Egba people."<ref xml:id="r1" target="#n1">1</ref></p>
+
+<p><hi rend="italics">Blake</hi> follows the larger-than-life character of Henry Blake, a black man from the West Indies who mistakenly boards a slave ship and is enslaved as a young adult in the United States. When his enslaved wife is sold by her owner, an enraged Blake begins a journey throughout the American South to find her and to incite insurrection among enslaved people along the way. He eventually finds his wife in Cuba and continues his anti-slavery work by joining the crew of a slave ship&#8212;aptly named the <hi rend="italics">Vulture</hi>&#8212;headed for Africa, presumably planning to incite mutiny among those captured for the slave trade. Although Blake's mutinous efforts fail, the newly enslaved Africans (among them Abyssa from Sudan and Mendi from Congo) later join an underground organization headed by Blake that conspires against the colonial Cuban government.</p>
+
+<p>When the <hi rend="italics">Vulture</hi> docks in the Gulf of Guinea, the crew meets with Ludo Draco, a Portuguese trader who is said to be friends with King Geza (more commonly spelled "Ghezo") of Dahomi (more commonly spelled "Dahomey," in current-day Benin). Draco's wife, Zorina, is "a handsome native African" with whom he has two adolescent daughters; Delany notes that she is based on "the sister of the native wife of a once noted slave trader on the Coast, whom the writer met in Africa&#8212;a very respectable, intelligent, Christian young woman." Zorina and her daughters close their eyes to the source of their wealth until one of the girls witnesses the branding of a group of enslaved people in the nearby barracoons and falls unconscious from shock. As her condition worsens and she is believed to be near death, her desperate father promises never to participate in the slave trade again. Upon hearing this, his daughter, who was delirious and cold to the touch, suddenly arises and appears to be perfectly well. Delany, again, claims that this story is true to life: in a note, he says that "an interesting scene is said to have taken place between the family&#8212;which is colored&#8212;of a slave trader and himself who had renounced the trade previous to his renouncement and leaving the coast."</p>
+
+</div1>
+
+</body>
+
+<back>
+<div1 type="notes">
+
+   <note xml:id="n1" target="#ref1" place="margin-bottom" type="footnote">
+   1. Robert S. Levine, Introduction to "Official Report of the Niger Valley Exploring Party," in <hi rend="italics">Martin R. Delany: A Documentary Reader</hi> (University of North Carolina Press, 2003), page 336.
+   </note>
+
+</div1>
+
+</back>
+
+</text>
+
+</TEI>

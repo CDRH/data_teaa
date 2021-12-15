@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0035.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0035">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Chicago Daily Tribune, "President Snubs Belgium's King" (1908)</title>
+<title>Chicago Daily Tribune, "President Snubs Belgium's King" (February 2, 1908)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -70,32 +70,30 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term>Leopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</term>
 <term>Memminger, Lucien</term>
-<term>Morgan, J. Pierpont (John Pierpont), 1837-1913.</term>
-<term>Roosevelt, Theodore, 1858-1919</term>
-<term>Root, Elihu, 1845-1937</term>
-<term>Ryan, Thomas Fortune, 1851-1928</term>
-<term>Slocum, Clarence R.</term>
+<term ref="http://viaf.org/viaf/57410770">Morgan, J. Pierpont (John Pierpont), 1837-1913</term>
+<term ref="http://viaf.org/viaf/44346731">Roosevelt, Theodore, 1858-1919</term>
+<term ref="http://viaf.org/viaf/32065073">Root, Elihu, 1845-1937</term>
+<term ref="http://viaf.org/viaf/38615601">Ryan, Thomas Fortune, 1851-1928</term>
+<term>Slocum, Clarence Rice</term>
 <term>Smith, James A.</term>
 </keywords> 
  
 <keywords scheme="original" n="places">
-<term>Belgium</term>
 <term>Boma (Congo)</term>
+<term>Congo Free State</term>
 <term>Brussels (Belgium)</term>
-<term/>
-<term>Great Britain</term>
 <term>Mexico</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>Belgium</term>
+<term>Great Britain</term>
 <term>United States</term>
-<term>Washington (D.C.)</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
-<term/>
-</keywords>
-
-<keywords scheme="original" n="language">
 <term/>
 </keywords>
 
@@ -107,6 +105,7 @@
 </profileDesc>
    
 <revisionDesc>
+<change when="2020-12" who="#kln">metadata edits</change>
 <change when="2019-04-04" who="#kln">updated encoding</change>
 <change when="2014-11-13" who="#kln">added subtype</change>
 <change when="2014-09-05" who="#kln">Initial transcription and encoding.</change>
@@ -122,13 +121,13 @@
 
 <div2 type="titles">
 
-<p>President Snubs Belgium's King.</p>
+<head type="head">President Snubs Belgium's King.</head>
 
-<p>Roosevelt Refuses to Invite Leopold to Visit United States.</p>
+<head type="sub">Roosevelt Refuses to Invite Leopold to Visit United States.</head>
 
-<p>Trouble Over The Congo</p>
+<head type="sub">Trouble Over The Congo</head>
 
-<p>Fear of Establishing a Precedent Also Prevents Call by President of Mexico.</p>
+<head type="sub">Fear of Establishing a Precedent Also Prevents Call by President of Mexico.</head>
 
 </div2>
 
@@ -136,11 +135,15 @@
 
 <p>Washington, D. C., Feb. 1. -- [Special.] -- President Roosevelt has refused to extend an invitation to King Leopold of Belgium to visit the United States.</p>
 
-<p>The president's refusal followed an unomcial intimation that the king contemplated coming to this country to observe and meet the American people. No suggestion was advanced that one of his objects was to prevent action by the United States in connection with the amelioration of the conditions in the Congo Free State. That this was in the king's mind there is no doubt. Even if he had come, however, it is extremely doubtful if he would have been able to influence the policy of the administration.</p>
+<p>The president's refusal followed an <sic>unomcial</sic> intimation that the king contemplated coming to this country to observe and meet the American people. No suggestion was advanced that one of his objects was to prevent action by the United States in connection with the amelioration of the conditions in the Congo Free State. That this was in the king's mind there is no doubt. Even if he had come, however, it is extremely doubtful if he would have been able to influence the policy of the administration.</p>
 
 <p>As a result of an exhaustive investigation made by American consular representatives in the Congo. Secretary Root has made vigorous representations to the Belgian sovereign looking to the adoption of radically different methods in the treatment of natives. These representations have been made almost simultaneously with those to the same effect offered by Great Britain.</p>
 
-<p>Pressure from Two Nations.</p>
+</div2>
+
+<div2>
+
+<head type="sub">Pressure from Two Nations.</head>
 
 <p>King Leopold is now undergoing pressure from two great nations who propose to see that practical slavery shall be abolished from the Congo region and that natives there shall have an opportunity to enjoy blessings which modern civilization ought to bring to them.</p>
 
@@ -150,7 +153,11 @@
 
 <p>Aside from the reputation his majesty has achieved both as a ruler of the Congo and as a man, he has a charming personality and is most courteous to Americans whom he chances to meet. In spite of his age he has a splendid physique, and his mind is as clear as a bell. He resents emphatically the charges that his administration has been detrimental to the natives of the Congo region, and he has insisted that the British lust of territory is directly responsible for the campaign which has been made against him and his officials.</p>
 
-<p>Investigation Is Made.</p>
+</div2>
+
+<div2>
+
+<head type="sub">Investigation Is Made.</head>
 
 <p>His majesty's point of view is not that or the American representatives in the Congo Free State. At the instance of congress Secretary Root appointed Clarence R. Slocum consul general at Boma more than two years ago, and directed him to report upon conditions in the vast Congo territory. Mr. Slocum was stricken with fever and was transferred, his place being taken by James A. Smith of Michigan, for some years consul at Leghorn, Italy. As vice consul, Mr. Root appointed a young newspaper man, Lucien Memminger. The two agents were ordered to carry out the instructions given to Mr. Slocum. Their report was received recently by Secretary Root and was carefully considered by him and laid before President Roosevelt, with a recommendation for action.</p>
 
@@ -158,7 +165,11 @@
 
 <p>Both Mr. Smith and Mr. Memminger found that the government was not such as to bring happiness to the people and they both concluded that something must be done in their behalf. To what extent they dwelt upon the alleged cruelties that have been perpetrated in the Congo is not known. That these cruelties have occurred is beyond question.</p>
 
-<p>Missionaries Ask Investigation.</p>
+</div2>
+
+<div2>
+
+<head type="sub">Missionaries Ask Investigation.</head>
 
 <p>The Belgian authorities assert that the natives themselves have committed atrocities upon one another, but independent observers, and especially the American missionaries, say this is evading the truth. Some time ago a memorial was presented to congress by various American missionary societies, praying that an investigation be made of the existing conditions in the Congo state, and that steps be taken to ameliorate and correct evils from which the people were suffering. There are between twenty and thirty million Congoese, and it is alleged that they have suffered grossly from wrongs of malgovernment.</p>
 
@@ -168,7 +179,11 @@
 
 <p>In connection with the Congo question, it must never be forgotten that King Leopold exercises an independent sovereignty over the African region which has no relation whatever to Belgium. He proposed more than a year ago that the territory be transferred to Belgium as a colony, but the conditions he imposed were not acceptable to the Belgian parliament.</p>
 
-<p>King Scored by Parliament.</p>
+</div2>
+
+<div2>
+
+<head type="sub">King Scored by Parliament.</head>
 
 <p>The king's proposition was exhaustively discussed in parliament and members and speakers characterized the administration as "an enormous and continual butchery." It is understood the king has agreed to modify the conditions, especially with relation to the private domain he possesses and which at first he intended to reserve for his continued personal exploitation. The parliament probably will pass a resolution this winter agreeing to receive the territory.</p>
 
@@ -176,9 +191,7 @@
 
 <p>The suggestion that the king should come was made in a purely unofficial manner, and it is probable that an attempt will be made to deny officially that it was advanced. Nevertheless it is true that it was submitted, and President Roosevelt could not see his way clear to extend an invitation to the king to come. </p>
 
-<gap reason="sampling" extent="two paragraphs">
-<desc>Irrelevent to discussion</desc>
-</gap>
+<p>[ . . . ]</p>
 
 </div2>
 

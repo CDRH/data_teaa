@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Cunningham to William H. Seward, September 30, 1862</title>
+<title>Despatch from Robert Cunningham to William H. Seward, September 30, 1862</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,10 +43,10 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Cunningham to William H. Seward</title>
+<title level="a">Despatch from Robert Cunningham to William H. Seward</title>
 <date when="1862-09-30">September 30, 1862</date>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">1</biblScope>
 <date from="1854-01-12" to="1893-03-29">January 12, 1854 - March 29, 1893</date>
 </bibl>
@@ -68,31 +68,29 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
 <term>Bernie, E. A.</term>
-<term>Innman</term>
+<term>Inman</term>
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>Angola</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
 <term>Brazil</term>
 <term>Portugal</term>
 <term>Spain</term>
-<term>St. Paul de Loanda (Angola)</term>
 <term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -103,13 +101,13 @@
 <correspAction type="sentBy">
 <persName>Cunningham, Robert</persName>
 <roleName>Acting U.S. Commercial Agent for Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1862-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
 <roleName>U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1863-01-02"/>
 </correspAction>
 </correspDesc>
@@ -117,6 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-04-25" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
@@ -127,17 +126,17 @@
 
 <body>
 
-<pb facs="teaa.en.letter.0040.001"/>
+<pb n="teaa.en.letter.0040.001"/>
 
 <div1 type="document" xml:lang="en">
 
 <note>Recd <del>Dec</del> Jan 2</note>
 <note>No 12</note>
 
-<opener><dateline>United States Commercial Agency at<lb/>
-Loanda 30th September 1862</dateline></opener>
+<p>United States Commercial Agency at<lb/>
+Loanda 30th September 1862</p>
 
-<salute>Sir</salute>
+<p>Sir</p>
 
 <p>Herewith I have the honor to
 forward to the Department of State in
@@ -153,23 +152,21 @@ place is with Portugal, Untied States,
 and the Brazils.</p>
 
 <p>Imports from Portugal consisting
-principally in Wines <unclear>Liver &#38;</unclear> Oil, and 
+principally in Wines <unclear>Liver &amp;</unclear> Oil, and 
 English Manufactured Goods $250000:00</p>
 
 <p>Exports, Palm, Fish, and Ground <unclear>nut</unclear>
 Oil, Wax, Hides, Ivory, Copal, and Coffee. $400,000:00</p>
 
 <p>United States Imports, Rum Provisions
-<fw type="catch">Lumber</fw>
+<catchwords>Lumber</catchwords>
 
-<fw type="address"><address>
-<addrLine>To the Honble</addrLine>
-<addrLine>W. H. Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine>
-</address></fw>
+<fw type="address">To the Honble
+W. H. Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
 
-<pb facs="teaa.en.letter.0040.002"/>
+<pb n="teaa.en.letter.0040.002"/>
 
 Lumber, Powder, and Cotton manufactured
 Goods, the importation of the latter Article
@@ -181,13 +178,13 @@ of Cotton. $150.000.00</p>
 <p>Exports. Palm and Fish Oil, Coffee, Copal,
 Ivory and Ground Nuts. $250,000:00</p>
 
-<p>Brazils, Imports, Rum, Sugar, &#38; Tobacco. $100,000:00</p>
+<p>Brazils, Imports, Rum, Sugar, &amp; Tobacco. $100,000:00</p>
 
 <p>Exports, Palm and Ground Nut Oil, Wax
 and Hides. $20,000:00</p>
 
 <p>Great Britain. The principal Article
-imported has been Coals abouts 5000 tons
+imported has been Coals about 5000 tons
 freighted in American bottoms at the
 low rate of 25 and <unclear>28/0</unclear> per Ton, Valuation
 including freight laid down here is $55000.00</p>
@@ -201,9 +198,9 @@ according to Treaty has to pay two thirds
 (2/3) and national vessels on third (1/3) on 
 an average I may safely estimate it at
 35 pr cent ad valorem on all merchandise
-<fw type="catch">imported</fw>
+<catchwords>imported</catchwords>
 
-<pb facs="teaa.en.letter.0040.003"/>
+<pb n="teaa.en.letter.0040.003"/>
 
 imported from the United States</p> 
 
@@ -212,7 +209,7 @@ was formerly Fourteen hundred reis to the
 American or Spanish Dollar, but in July 1861 
 on the arrival of the new Governor the Currency 
 was changed to the same rate as Lisbon which
-is nine hundred &#38; twenty reis to the American or 
+is nine hundred &amp; twenty reis to the American or 
 Spanish Dollar, one mil reis equal to one 
 Dollar nine Quarter Cents ($1. 9 1/4)</p>
 
@@ -235,7 +232,7 @@ of this place</p>
 <p>To think an official in the Employ of the
 U.S. Government in a foreign Port should be
 
-<pb facs="teaa.en.letter.0040.004"/>
+<pb n="teaa.en.letter.0040.004"/>
 
 shut up in a filthy prison for Seventy
 days is shameful and contrary to 
@@ -260,10 +257,10 @@ America the U.S. Government will
 demand satisfaction from Portugal 
 for so gross an insult</p>
 
-<closer><salute>Very respectfully<lb/>
-Your Obdt Servant</salute>
-<signed>Robert Cunningham<lb/>
-Actg U.S. Coml Agt</signed></closer>
+<p>Very respectfully<lb/>
+Your Obdt Servant<lb/>
+Robert Cunningham<lb/>
+Actg U.S. Coml Agt</p>
 
 </div1>
 </body>

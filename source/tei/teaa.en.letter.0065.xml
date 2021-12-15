@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Augustus Archer Silva to William H. Seward, September 14, 1865</title>
+<title>Despatch from Augustus Archer Silva to William H. Seward, September 14, 1865</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Augustus Archer Silva to William H. Seward</title>
+<title level="a">Despatch from Augustus Archer Silva to William H. Seward</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">2</biblScope>
 <date when="1865-09-14">September 14, 1865</date>
 </bibl>
@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -78,23 +78,17 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Lisbon (Brazil)</term>
-<term>St. Paul de Loanda (Angola)</term>
+<term>Lisbon (Portugal)</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>Brazil</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-<term>Portuguese</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -105,19 +99,20 @@
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
 <roleName>U.S. Commercial Agent for Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1865-09-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
 <roleName>U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-05" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Transcription and initial encoding</change>
 </revisionDesc>
@@ -129,14 +124,14 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0065.001"/>
+<pb n="teaa.en.letter.0065.001"/>
 
 <note>Recd Dec 2<unclear/></note>
-<note>ack " 2<unclear/></note>
+
 <note>No. 12</note>
 
-<opener><dateline>United States Commercial Agency.<lb/>
-St Paul de Loanda Sept 14th 1865</dateline></opener>
+<p>United States Commercial Agency.<lb/>
+St Paul de Loanda Sept 14th 1865</p>
 
 <p>On the 7th inst. I received an <unclear>invitation</unclear>
 from one of the Chief Justices of the
@@ -150,15 +145,13 @@ the Brazilian Consular Regulations. My
 attention was called to an article of the
 Regulations wherein it was written
 that whenever a Brazilian Consul
-<fw type="catch">should</fw>
+<catchwords>should</catchwords>
 
-<fw type="address"><address>
-<addrLine>Hon William H. Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine>
-</address></fw>
+<fw type="address">Hon William H. Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
 
-<pb facs="teaa.en.letter.0065.002"/>
+<pb n="teaa.en.letter.0065.002"/>
 
 should die, it was requested of the
 competent Authority to cull together two
@@ -180,7 +173,7 @@ say to His Excellency that I am
 moved with pride as the Representative
 of the United States in this country to
 
-<pb facs="teaa.en.letter.0065.003"/>
+<pb n="teaa.en.letter.0065.003"/>
 
 have it in my power to be of service
 to this friendly Empire of Brazil.
@@ -195,22 +188,22 @@ in this case founded as I
 suppose they are, upon the correct
 principle of International Courtesy.</p>
 
-<closer><salute>I have the honor<lb/>
+<p>I have the honor<lb/>
 To be<lb/>
-Your most obedt Servant</salute>
-<signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed></closer>
+Your most obedt Servant<lb/>
+Augustus Archer Silva<lb/>
+Commercial Agent</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0065.004"/>
+<pb n="teaa.en.letter.0065.004"/>
 
-<opener><dateline>United States Commercial Agency<lb/>
-St Paul de Loanda Sept 14th 1865</dateline></opener>
+<p>United States Commercial Agency<lb/>
+St Paul de Loanda Sept 14th 1865</p>
 
-<salute>Sir</salute>
+<p>Sir</p>
 
 <p>It devolves upon me the unpleasant 
 duty to inform Your Excellency of the 
@@ -225,15 +218,13 @@ de Bettencourt "Juiz de Direito" (Chief Justice) of
 this District. I assisted the sealing of
 the Archives, and accepted the invitation 
 to assume charge of the duties of the 
-<fw type="catch">Brazilian</fw>
+<catchwords>Brazilian</catchwords>
 
-<fw type="address"><address>
-<addrLine>His Excellency</addrLine>
-<addrLine>The Minister of Foreign Affairs</addrLine>
-<addrLine>Empire of Brazil</addrLine>
-</address></fw>
+<fw type="address">His Excellency<lb/>
+The Minister of Foreign Affairs<lb/>
+Empire of Brazil</fw>
 
-<pb facs="teaa.en.letter.0065.005"/>
+<pb n="teaa.en.letter.0065.005"/>
 
 Brazilian Consulate until it should please
 Your Excellency to appoint another to fill 
@@ -255,7 +246,7 @@ Empire of Brazil.</p>
 <p>Considering myself, under
 the circumstances, fully empowered by the
 
-<pb facs="teaa.en.letter.0065.006"/>
+<pb n="teaa.en.letter.0065.006"/>
 
 "Juiz de Direito", to act on behalf of Brazilian
 interest, in this Province; I have this day
@@ -277,7 +268,7 @@ the Archives of the Brazilian Consulate for
 reference and information. I may not 
 carry out exactly the wishes of the 
 
-<pb facs="teaa.en.letter.0065.007"/>
+<pb n="teaa.en.letter.0065.007"/>
 
 Brazilian Government, but nevertheless 
 will endeavour, guided by the Consular 
@@ -297,21 +288,21 @@ the Empire of Brazil in this City.</p>
 <p>With the assurance of my 
 highest respect.</p>
 
-<closer><salute>I have the Honor to be<lb/>
-Your most obedt Servant,</salute>
-<signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed></closer>
+<p>I have the Honor to be<lb/>
+Your most obedt Servant,<lb/>
+Augustus Archer Silva<lb/>
+Commercial Agent</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0065.008"/>
+<pb n="teaa.en.letter.0065.008"/>
 
-<opener><dateline>United States Commercial Agency<lb/>
-St Paul de Loanda Sept 14th 1865.</dateline></opener>
+<p>United States Commercial Agency<lb/>
+St Paul de Loanda Sept 14th 1865.</p>
 
-<salute>Sir,</salute>
+<p>Sir,</p>
 
 <p>I was invited on the 7th inst by
 Dr Carlos Pacheco de Bettencourt, 
@@ -325,16 +316,14 @@ Brazilian Consulate, and to assume
 charge of the duties and interests of 
 the Brazilian Nation in this city 
 until his Imperial Majesty 
-<fw type="catch">should</fw>
+<catchwords>should</catchwords>
 
-<fw type="address"><address>
-<addrLine>His Excellency</addrLine>
-<addrLine>José Baptista de Andrade</addrLine>
-<addrLine>Governor General of the</addrLine>
-<addrLine>Province of Angola.</addrLine>
-</address></fw>
+<fw type="address">His Excellency<lb/>
+José Baptista de Andrade<lb/>
+Governor General of the
+Province of Angola.</fw>
 
-<pb facs="teaa.en.letter.0065.009"/>
+<pb n="teaa.en.letter.0065.009"/>
 
 should be pleased to appoint another.</p>
 
@@ -355,7 +344,7 @@ of the Untied States I am moved
 with pride. I have it in my power
 to be of service to a nation so
 
-<pb facs="teaa.en.letter.0065.010"/>
+<pb n="teaa.en.letter.0065.010"/>
 
 friendly to my country.</p>
 
@@ -370,11 +359,11 @@ as it has been my good fortune
 to receive as Commercial Agent of 
 the United States.</p>
 
-<closer><salute>I have the Honor<lb/>
+<p>I have the Honor<lb/>
 To Be<lb/>
-Your most obedt Servant</salute>
-(Sg) <signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed></closer>
+Your most obedt Servant<lb/>
+(Sg) Augustus Archer Silva<lb/>
+Commercial Agent</p>
 
 </div1>
 

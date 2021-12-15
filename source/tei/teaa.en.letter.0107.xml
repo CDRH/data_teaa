@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert S. Newton to John L. Cadwalader, December 29, 1876</title>
+<title>Despatch from Robert S. Newton to John L. Cadwalader, December 29, 1876</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert S. Newton to John L. Cadwalader</title>
+<title level="a">Despatch from Robert S. Newton to John L. Cadwalader</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">3</biblScope>
 <date when="1876-12-29">December 29, 1876</date>
 </bibl>
@@ -60,7 +60,7 @@
 <textClass>
 <keywords scheme="original" n="theme">
 <term>Commerce and Trade</term>
-<term>Encounters with Africans</term>
+<term>"Othering" Africans</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -68,7 +68,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -76,7 +76,7 @@
 <term>Burton, William</term>
 <term>Davis, J. W.</term>
 <term>Hanson, William</term>
-<term>Hewitt, William</term>
+<term ref="http://viaf.org/viaf/65667828">Hewett, William Nathan Wrighte, Sir, 1834-1888</term>
 <term>Holmberg, Albert</term>
 <term>Morris, George</term>
 <term>Porterfield, Robert</term>
@@ -93,10 +93,9 @@
 <term>Congo River</term>
 <term>Liverpool (England)</term>
 <term>New York</term>
-<term>St. Paul de Loanda (Angola)</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>Great Britain</term>
 <term>Netherlands</term>
 </keywords>
@@ -104,11 +103,7 @@
 <keywords scheme="original" n="ethnic_group">
 <term>Kroo</term>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -119,13 +114,13 @@
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
 <roleName>U.S. Vice Commercial Agent for Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1876-12-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Cadwalader, John L. (John Lambert), 1836-1914</persName>
 <roleName>U.S. Assistant Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1877-03-06"/>
 </correspAction>
 </correspDesc>
@@ -145,14 +140,13 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0107.001"/>
+<pb n="teaa.en.letter.0107.001"/>
 
-<note>Ack. Apl. 17.77.</note>
 <note>Department of State Received Mar 6 1877</note>
 
-<opener><dateline>United States Commercial Agency.<lb/>
+<p>United States Commercial Agency.<lb/>
 St Paul de Loanda.<lb/>
-29th December 1876.</dateline></opener>
+29th December 1876.</p>
 
 <p>No. 120<lb/>
 Mr Robt. S. Newton<lb/>
@@ -173,13 +167,13 @@ declaration &amp; Register of ship enclosed.</p>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0107.002"/>
+<pb n="teaa.en.letter.0107.002"/>
 
 <note>No. 120.</note>
 
-<opener><dateline>United States Commercial Agency<lb/>
+<p>United States Commercial Agency<lb/>
 St. Paul de Loanda <lb/>
-29th December 1876.</dateline></opener>
+29th December 1876.</p>
 
 <p>Sir,</p>
 
@@ -199,13 +193,11 @@ was <unclear>recurring</unclear>, attempts more made to
 get her off, and the vessel would 
 <catchwords>in</catchwords>
 
-<fw type="address"><address>
-<addrLine>To the</addrLine> 
-<addrLine>Assistant Secretary of State</addrLine>
-<addrLine>Washington, U.S.</addrLine>
-</address></fw>
+<fw type="address">To the <lb/>
+Assistant Secretary of State<lb/>
+Washington, U.S.</fw>
 
-<pb facs="teaa.en.letter.0107.003"/>
+<pb n="teaa.en.letter.0107.003"/>
 
 in all probability have been saved, 
 had not the natives come down
@@ -230,7 +222,7 @@ them to the owners in New York.</p>
 steam vessel "Avon" has gone to
 <catchwords>Shark's</catchwords>
 
-<pb facs="teaa.en.letter.0107.004"/>
+<pb n="teaa.en.letter.0107.004"/>
 
 Shark's Point, at the request of 
 the English consul to enquire into 
@@ -255,7 +247,7 @@ of the African Royal Mail Steamer
 and shipwrecked men of the "Joseph
 <catchwords>Nickerson"</catchwords>
 
-<pb facs="teaa.en.letter.0107.005"/>
+<pb n="teaa.en.letter.0107.005"/>
 
 Nickerson" a free passage from Banana
 Congo River, to Loanda, and, he
@@ -275,16 +267,16 @@ delivered to me by the Captain of
 the "Joseph Nickerson" although I am 
 unable to find instructions to do so.</p>
 
-<closer><salute>I have the honor to be<lb/>
-Your most obedt Servt,</salute>
-<signed>Robt S Newton<lb/>
-Vice Commercial Agent</signed></closer>
+<p>I have the honor to be<lb/>
+Your most obedt Servt,<lb/>
+Robt S Newton<lb/>
+Vice Commercial Agent</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0107.006"/>
+<pb n="teaa.en.letter.0107.006"/>
 
 <p>Declaration made before me, Robt.
 Scott Newton, Vice-Commercial
@@ -307,7 +299,7 @@ and about 18 tons of coffee shipped
 in Ambriz. The wind was light
 <catchwords>and the</catchwords>
 
-<pb facs="teaa.en.letter.0107.007"/>
+<pb n="teaa.en.letter.0107.007"/>
 
 and the current very strong running
 out of the River; so in order to make
@@ -329,7 +321,7 @@ but the natives prevented me. Three
 men came on board and tendered
 <catchwords>me</catchwords>
 
-<pb facs="teaa.en.letter.0107.008"/>
+<pb n="teaa.en.letter.0107.008"/>
 
 me assistance. they called themselves
 "King Peter's Son," &#8212; "Jack Wash" &#8212; "Walker".</p>
@@ -352,7 +344,7 @@ cannot say for certain that these
 three men took part in the plundering
 <catchwords>but</catchwords>
 
-<pb facs="teaa.en.letter.0107.009"/>
+<pb n="teaa.en.letter.0107.009"/>
 
 but afterwards I saw many things belonging
 to the ship in the native
@@ -375,7 +367,7 @@ natives out of the ship. in fact
 the natives ran away when they 
 <catchwords>saw</catchwords>
 
-<pb facs="teaa.en.letter.0107.010"/>
+<pb n="teaa.en.letter.0107.010"/>
 
 saw the assistance coming. I left
 the ship about 6 o'clock in the evening
@@ -397,7 +389,7 @@ Dutchmen I went back on board
 of the vessel and found her completely
 <catchwords>gutted</catchwords>
 
-<pb facs="teaa.en.letter.0107.011"/>
+<pb n="teaa.en.letter.0107.011"/>
 
 gutted, bulkheads gone, copper torn
 off, sails and rigging cut, in fact
@@ -419,7 +411,7 @@ He said in a sharp tone of voice,
 man must have brought it in
 <catchwords>here</catchwords>
 
-<pb facs="teaa.en.letter.0107.012"/>
+<pb n="teaa.en.letter.0107.012"/>
 
 here". I make this statement 
 just to show how much one can
@@ -444,7 +436,7 @@ Steward of do.</p>
 the truth of the above statement
 <catchwords>so</catchwords>
 
-<pb facs="teaa.en.letter.0107.013"/>
+<pb n="teaa.en.letter.0107.013"/>
 
 so far as it relates to matters
 that occurred up to the time we

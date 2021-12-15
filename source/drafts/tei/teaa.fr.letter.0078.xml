@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from the Minister to the President of the Consul of Foreign Affaires, August 26, 1840</title> 
+<title>Despatch from the Minister to the President of the Consul of Foreign Affaires, August 26, 1840</title> 
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
@@ -48,9 +48,9 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR ANOM</repository>
-<collection>Guinee V 1 VI 1-6</collection>
-<idno>1506 COL 2</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR ANOM Guinée V 1 VI 1-6</collection>
+<idno>1506 COL 2, Guinee Gin VI 2</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +71,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
@@ -81,7 +81,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<keywords scheme="original" n="places">
 <term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
 
 </keywords>
@@ -108,7 +108,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <revisionDesc>
 <change when="2017" who="NN"></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+
 </revisionDesc>
 </teiHeader>
 
@@ -119,7 +119,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 <div1 xml:lang="fr" type="document">
 
 
-<pb facs="20160614_145237.jpg"/>
+<pb n="20160614_145237.jpg"/>
 
 <ab>
 Bureau du Régime <supplied>Politique</supplied>
@@ -218,7 +218,7 @@ le 2 Juillet <unclear>1840. 91</unclear>
 4
 </note>
 
-<pb facs="20160614_145255.jpg"/>
+<pb n="20160614_145255.jpg"/>
 
 <p>
 <add><unclear>aux</unclear></add> <unclear/> <unclear/> de <unclear/> <unclear>formation</unclear> <del><unclear/></del>

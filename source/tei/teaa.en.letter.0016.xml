@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from John G. Willis to Lewis Cass, May 23, 1860</title>
+<title>Despatch from John G. Willis to Lewis Cass, May 23, 1860</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,10 +43,10 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from John G. Willis to Lewis Cass</title>
+<title level="a">Despatch from John G. Willis to Lewis Cass</title>
 <date when="1860-05-23">May 23, 1860</date>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">1</biblScope>
 </bibl>
 </sourceDesc>
@@ -60,7 +60,7 @@
 <textClass>
 <keywords scheme="original" n="theme">
 <term>Commerce and Trade</term>
-<term>Encounters with Africanss</term>
+<term>"Othering" Africans</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -68,7 +68,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -81,24 +81,24 @@
     
 <keywords scheme="original" n="places">
 <term>Ambriz (Angola)</term>
-<term>Brazil</term>
-<term>England</term>
-<term>Kisembo (Congo)</term>
+<term>Kinsembo (Congo)</term>
 <term>Lisbon (Portugal)</term>
 <term>Loge River</term>
-<term>Portugual</term>
-<term>Salem (Mass.)</term>
+<term>Salem (Massachusetts)</term>
 <term>St. Paul de Loanda (Angola)</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>Brazil</term>
+<term>Great Britain</term>
+<term>Portugal</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -109,7 +109,7 @@
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
 <roleName>U.S. Commercial Agent for Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1860-05-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
@@ -122,6 +122,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-04-17" who="kln">Reviewed and edited encoding.</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
@@ -133,24 +134,24 @@
 
 <body>
 
-<pb facs="teaa.en.letter.0016.001"/>
+<pb n="teaa.en.letter.0016.001"/>
 
 <div1 type="document" xml:lang="en">
 
 <note>Rec 27 July</note>
-<note>" 13 October</note>
+
 <note>No 9.</note>
 
-<opener><dateline>United States Commercial Agency<lb/>
-Loanda May 23 1860.</dateline></opener>
+<p>United States Commercial Agency<lb/>
+Loanda May 23 1860.</p>
 
-<salute>Sir.</salute>
+<p>Sir.</p>
 
 <p>Herewith I enclose Returns from
 this Commercial Agency for the Quarter ending
-March 31, 1860. The several accounts &#38; certificates
+March 31, 1860. The several accounts &amp; certificates
 I have directed to the Treasury Department
-&#38; have drawn on the Hon Secretary of Treasury
+&amp; have drawn on the Hon Secretary of Treasury
 for $227.11&#162; being balance of my Salary for that
 Quarter.</p>
 
@@ -162,96 +163,94 @@ effect as soon as practicable after the receipt of your
 answer, which I trust has been granted.</p>
 
 <p>For three months past there has been considerable
-trouble at Ambriz &#38; Kisembo caused by the receipt
+trouble at Ambriz &amp; Kisembo caused by the receipt
 of a Letter at Ambriz sent by HBM Commissioner
 of this place, but said to have been written by the
 Brazilian Consul of this Port, said Letter being
 directed to His Royal Highness Don Nicolau,
-Prince of Congo &#38;c &#38;c. said Nicolau a Black
+Prince of Congo &amp;c &amp;c. said Nicolau a Black
 being at the time employed by the Portuguese 
-Govern-<fw type="catch">-ment</fw>
+Govern-<catchwords>-ment</catchwords>
 
-<fw type="address">
-<address><addrLine>Hon Lewis Cass</addrLine>
-<addrLine>Secretary of State.</addrLine></address>
-</fw>
+<fw type="address">Hon Lewis Cass<lb/>
+Secretary of State.</fw>
 
-<pb facs="teaa.en.letter.0016.002"/>
+<pb n="teaa.en.letter.0016.002"/>
 
 -ment at Ambriz in some moderate capacity.</p> 
 
 <p>The Letter informed "Nicolau" that the Governor-General 
 of this Province intended to imprison him
-for writing to the Libson Journals in respect to his
-Government, &#38; advising him to leave immediately for
+for writing to the Lisbon Journals in respect to his
+Government, &amp; advising him to leave immediately for
 Kisembo. On his arrival at Kisembo he entered
-an English house &#38; soon afterwards the Natives collected
-&#38; demanded him. After considerable delay
-Don Nicolau was given up &#38; immediately shot &#38; beheaded
+an English house &amp; soon afterwards the Natives collected
+&amp; demanded him. After considerable delay
+Don Nicolau was given up &amp; immediately shot &amp; beheaded
 by the Natives.</p>
 
 <p>As there is an American House at Kisembo
-owned by Messrs Brookhouse &#38; Co. of Salem Mass. I
+owned by Messrs Brookhouse &amp; Co. of Salem Mass. I
 at once on hearing the proceedings of the Natives requested
 Capt Colhoun of the USS "Portsmouth" to
 go there, to which request he immediately complied.
-On his arrival at Kisembo &#38; during his stay there of
+On his arrival at Kisembo &amp; during his stay there of
 two or three days, everything was quiet.  Some days
 afterwards the Gov. Genl of this Province went with
-a force of 300 to 400 men to Ambriz &#38; Kisembo.
-At the latter place they burnt the native town &#38; then
-returned to Loanda.  While the Portguese Troops
+a force of 300 to 400 men to Ambriz &amp; Kisembo.
+At the latter place they burnt the native town &amp; then
+returned to Loanda.  While the Portuguese Troops
 were at Kisembo, Capt Brent of the USS "Marion",
 together with Capt Fitzroy of the HBMS "Falcon" were
 on Shore with a number of their men. On the arrival
 of the Gov Genl with his Troops requesting permission
-to enter the Houses for Refreshment &#38; Rest. he was
+to enter the Houses for Refreshment &amp; Rest. he was
 
-<pb facs="teaa.en.letter.0016.003"/>
+<pb n="teaa.en.letter.0016.003"/>
 
 Refused, as it was the opinion of the Residents there,
-that if the Portuguese entered, their Lives &#38; Property
+that if the Portuguese entered, their Lives &amp; Property
 would not be so secure after the Portuguese
-Americans &#38; English left, as they would if they were
+Americans &amp; English left, as they would if they were
 not allowed to enter. Since then the Natives
 have made two unsuccessful attacks on Ambriz.
 Trade continues to be brought in by the Natives to
-Kisembo &#38; it is now quiet there.</p>
+Kisembo &amp; it is now quiet there.</p>
 
 <p>About the 1st of April some Portuguese Soldiers
-were coming from the Copper Mines to Ambriz &#38; 
+were coming from the Copper Mines to Ambriz &amp; 
 when within 15 miles of the latter place they were
-attacked by a large number of Natives &#38; obliged to
+attacked by a large number of Natives &amp; obliged to
 retreat. in doing so they jumped into the River
 "Loge" in order to cross to the other side. Their
 loss was near 100, including one Lady, the Wife of 
 the officer in command of the Party.</p>
 
-<p>The Roads between Ambriz &#38; the Mines
-are filled with Natives &#38; the Portguese have
+<p>The Roads between Ambriz &amp; the Mines
+are filled with Natives &amp; the Portuguese have
 collected a force of about 1000 men to march
 into the Interior. They left Ambriz on the 21st
-to punish the Natives &#38; also open the roads to
+to punish the Natives &amp; also open the roads to
 the Mines. This force is commanded by the
 best of the Portuguese officers attached to this Province,
-&#38; it is thought will be sufficient to drive
+&amp; it is thought will be sufficient to drive
 the Natives from the vicinity.</p>
 
 <p>This interference of HBM Commissioner
 
-<pb facs="teaa.en.letter.0016.004"/>
+<pb n="teaa.en.letter.0016.004"/>
 
-&#38; the Brazilian Consul General, has been the source
+&amp; the Brazilian Consul General, has been the source
 of great anxiety to the Government of this Province,
-&#38; causing great expense. It will probably result
+&amp; causing great expense. It will probably result
 in the Portuguese Government requesting the withdrawal
 of the above mentioned parties from their
 official functions.</p>
 
-<closer><salute>Very Respectfully<lb/>
-Your Obt Servt</salute>
-<signed>John G. Willis<lb/>
-US Coml Agent.</signed></closer>
+<p>Very Respectfully<lb/>
+Your Obt Servt<lb/>
+John G. Willis<lb/>
+US Coml Agent.</p>
 
 </div1>
 </body>

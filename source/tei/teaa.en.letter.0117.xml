@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert S. Newton to Frederick W. Seward, February 21, 1879</title>
+<title>Despatch from Robert S. Newton to Frederick W. Seward, February 21, 1879</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert S. Newton to Frederick W. Seward</title>
+<title level="a">Despatch from Robert S. Newton to Frederick W. Seward</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">3</biblScope>
 <date when="1879-02-21">February 21, 1879</date>
 </bibl>
@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -77,17 +77,16 @@
     
 <keywords scheme="original" n="places">
 <term>Lisbon (Portugal)</term>
-<term>St. Paul de Loanda (Angola)</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -98,13 +97,13 @@
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
 <roleName>U.S. Vice Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1879-02-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
@@ -123,12 +122,12 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0117.001"/>
+<pb n="teaa.en.letter.0117.001"/>
 
 <note>No 33.</note>
 
-<opener><dateline>United States Consulate
-at St Paul de Loanda, 21st Feby. 1879</dateline></opener>
+<p>United States Consulate<lb/>
+at St Paul de Loanda, 21st Feby. 1879</p>
 
 <p>Sir</p>
 
@@ -157,13 +156,11 @@ of January last has not yet arrived
 and although two steamers with later
 <catchwords>dates</catchwords>
 
-<fw type="address"><address>
-<addrLine>To the</addrLine>
-<addrLine>Assistant Secretary of State</addrLine>
-<addrLine>Washington, D.C.</addrLine>
-</address></fw>
+<fw type="address">To the
+Assistant Secretary of State<lb/>
+Washington, D.C.</fw>
 
-<pb facs="teaa.en.letter.0117.002"/>
+<pb n="teaa.en.letter.0117.002"/>
 
 dates have since come into Port, they 
 give no news of her so there is little
@@ -172,11 +169,11 @@ something serious has happened
 to her. It is to be hoped that Consul 
 Thomas was not on board of her.</p>
 
-<closer><salute>I have the honor to be<lb/>
+<p>I have the honor to be<lb/>
 Sir<lb/>
-Your most obedient Servt.</salute>
-<signed>Robt S Newton<lb/>
-Vice Consul</signed></closer>
+Your most obedient Servt.<lb/>
+Robt S Newton<lb/>
+Vice Consul</p>
 
 </div1>
 </body>

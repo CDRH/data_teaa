@@ -7,7 +7,7 @@ RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/te
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Frederick Starr, "The Truth About the Congo" (1907)</title>
+<title>Frederick Starr - "The Truth About the Congo" (1907)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,10 +43,10 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <sourceDesc>
 <bibl>
 <title level="a" type="main">The Truth About the Congo: The Chicago Tribune Articles</title>
-<editor n="Starr, Frederick 1858-1933">Frederick Starr</editor>
-<pubPlace>Washington, D.C.</pubPlace>
-<publisher>Cornelius Wendell</publisher>
-<date when="1857">1857</date>
+<editor ref="http://viaf.org/viaf/45085839">Starr, Frederick 1858-1933</editor>
+<pubPlace>Chicago</pubPlace>
+<publisher>Forbes &amp; Company</publisher>
+<date when="1907">1907</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -59,7 +59,10 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <keywords scheme="original" n="theme">
 <term>Commerce and Trade</term>
-<term>Encounters with Africans</term>
+<term>Exploration</term>
+<term>Imagined Africa</term>
+<term>Missionaries</term>
+<term>"Othering" Africans</term>
 <term>Slave Trade and Slavery</term>
 </keywords>
 
@@ -96,12 +99,11 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term ref="http://viaf.org/viaf/32065073">Root, Elihu, 1845-1937</term>
 <term ref="http://viaf.org/viaf/27187771">Schweinfurth, Georg August, 1836-1925</term>
 <term>Smith, Jacob H.</term>
-<term ref="http://viaf.org/viaf/27071894">Stanley, Henry M. (Henry Morton), 1841-1904</term>
-<term ref="http://viaf.org/viaf/45085839">Starr, Frederick 1858-193</term>
+<term ref="http://viaf.org/viaf/27071894">Stanley, Henry Morton, 1841-1904</term>
 <term ref="http://viaf.org/viaf/54448046">Supan, Alexander, 1847-1920</term>
 <term>Tumba</term>
 <term>Vankerckhoven</term>
-<term>Verner, S. P.</term>
+<term>Verner, Samuel P.</term>
 <term ref="http://viaf.org/viaf/68999368">Vierkandt, Alfred, 1867-1953</term>
 <term ref="http://viaf.org/viaf/47066218">Wagner, Hermann, 1840-1929</term>
 <term ref="http://viaf.org/viaf/284497166">Wahis, Théophile, 1844-1921</term>
@@ -117,7 +119,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>Bomanih (Congo)</term>
 <term>Basoko (Congo)</term>
 <term>Benin</term>
-<term>Boston (Mass.)</term>
+<term>Boston (Massachusetts)</term>
 <term>Brussels (Belgium)</term>
 <term>Burauen (Philippines)</term>
 <term>Chumbiri (Congo)</term>
@@ -130,7 +132,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>German Africa</term>
 <term>Ikoko (Congo)</term>
 <term>Isangila (Congo)</term>
-<term>Ituri (Congo)</term>
+<term>Ituri Rainforest</term>
 <term>Kasai (Congo)</term>
 <term>Kasai River</term>
 <term>Lake Leopold II</term>
@@ -168,14 +170,14 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>Yambuya (Congo)</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>Austria</term>
 <term>Belgium</term>
 <term>Denmark</term>
 <term>France</term>
 <term>Germany</term>
 <term>Great Britain</term>
-<term>Holland</term>
+<term>Netherlands</term>
 <term>Italy</term>
 <term>Norway</term>
 <term>Portugal</term>
@@ -185,7 +187,6 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term>American Indians</term>
 <term>Arab</term>
 <term>Bakete</term>
 <term>Bakuba</term>
@@ -195,9 +196,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term>Batetela</term>
 <term>Batua</term>
 <term>Bobangi</term>
-<term>Egyptians</term>
-<term>Filipinos</term>
-<term>Pulajanes</term>
+<term>Egyptian</term>
 <term>Pygmy</term>
 <term>Zappo Zap</term>
 </keywords>
@@ -221,33 +220,15 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p000a"/>
+<pb n="p000a"/>
 
 <div2 type="title">
 
-<p>The Truth About the Congo</p>
+<head type="main">The Truth About the Congo</head>
 
-<p>The Chicago Tribune Articles</p>
+<head type="sub">The Chicago Tribune Articles</head>
 
-<p>By Frederick Starr</p>
-
-<p>Chicago<lb/>
-Forbes &amp; Company<lb/>
-1907</p>
-
-</div2>
-
-<pb n="p000b"/>
-
-<div2 type="body">
-
-<p>This book is dedicated 
-to 
-Manuel Gonzales, 
-my companion and photographer 
-upon my Congo Expedition 
-and to 
-our black boys, Manoeli and Tumba</p>
+<head type="sub">By Frederick Starr</head>
 
 </div2>
 
@@ -255,7 +236,7 @@ our black boys, Manoeli and Tumba</p>
 
 <div2 type="title">
 
-<p>Preface</p>
+<head type="sub">Preface</head>
 
 </div2>
 
@@ -326,9 +307,9 @@ undertaken for their betterment, will only harm them.</p>
 
 <div2 type="title">
 
-<p>The Truth About the Congo</p>
+<head type="main">The Truth About the Congo</head>
 
-<p>I.</p>
+<head type="sub">I.</head>
 
 </div2>
 
@@ -885,7 +866,7 @@ of life closes at thirty-five.</p>
 
 <div2 type="title">
 
-<p>II.</p>
+<head type="sub">II.</head>
 
 </div2>
 
@@ -1240,15 +1221,15 @@ to me, from this apparent lack of pain under scarring,
 medical treatment, and self-infliction, that there is a notable 
 difference between the Bantu and ourselves.</p>
 
-</div2>
+<p>[ . . . ]</p>
 
-<gap reason="sampling"/>
-    
+</div2>
+   
 <pb n="81"/>
 
 <div2 type="titles">
 
-<p>X.</p>
+<head type="sub">X.</head>
 
 </div2>
 
@@ -1455,7 +1436,7 @@ elevation to their object.</p>
 
 <div2 type="titles">
 
-<p>XI.</p>
+<head type="sub">XI.</head>
 
 </div2>
 
@@ -1751,7 +1732,7 @@ to cruelty.</p>
 
 <div2 type="titles">
 
-<p>XII.</p>
+<head type="sub">XII.</head>
 
 </div2>
 
@@ -1778,7 +1759,7 @@ old. He had been found, a child of three or four years, by
 the side of his dead mother, after a punitive expedition had 
 visited the town. His mother's body had been mutilated
 
-<note>* I am here in error. Casement <hi rend="italics">saw</hi> more than one case of mutilation; he carefully <hi rend="italics">investigated</hi> but one.</note>
+<fw type="note">* I am here in error. Casement <hi rend="italics">saw</hi> more than one case of mutilation; he carefully <hi rend="italics">investigated</hi> but one.</fw>
     
 <pb n="96"/>
 
@@ -2062,7 +2043,7 @@ the argument further.</p>
 
 <div2 type="title">
 
-<p>XIII.</p>
+<head type="sub">XIII.</head>
 
 </div2>
 
@@ -2293,15 +2274,16 @@ off the heads of dead chiefs for purposes of identification?
 But let it pass&#8212;we are not undertaking an assault
 on Britain.</p>
 
+<p>[. . . ]</p>
+
 </div2>
 
-<gap reason="sampling"/>
     
 <pb n="119"/>
 
 <div2 type="titles">
 
-<p>XV.</p>
+<head type="sub">XV.</head>
 
 </div2>
 

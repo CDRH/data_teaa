@@ -66,7 +66,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Periodicals</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
@@ -77,6 +77,7 @@
 <term>Abyssinia</term>
 <term>Basutoland</term>
 <term>Bechuanaland</term>
+<term>Belgium Congo</term>
 <term>British Uganda</term>
 <term>Congo Free State</term>
 <term>Equatorial Africa</term>
@@ -96,7 +97,7 @@
 <term>West Indies</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="powers">
 <term>Belgium</term>
 <term>England</term>
 <term>France</term>
@@ -112,14 +113,11 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-11-08" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -130,13 +128,13 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0075.001"/>
+<pb n="p1"/>
 
 <div2 type="title">
 
-<p>National Association for the Advancement of Colored People</p>
+<head type="main">National Association for the Advancement of Colored People</head>
 
-<p>The Future of Africa</p>
+<head type="sub">The Future of Africa</head>
 
 </div2>
 
@@ -170,7 +168,7 @@
 
 <note>* Reprinted by N.A.A.C.P. Price 5 cents per copy; 50 cents per hundred.</note>
 
-<pb xml:id="p2" facs="teaa.en.periodical.0075.002"/>
+<pb n="p2"/>
 
 and the four and one-half millions of colored people in the Union of South Africa.</p>
 

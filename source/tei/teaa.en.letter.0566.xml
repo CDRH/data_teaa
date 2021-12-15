@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Héli Chatelain to William F. Wharton, October 19, 1891</title>
+<title>Despatch from Héli Chatelain to William F. Wharton, October 19, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -42,9 +42,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Héli Chatelain to William F. Wharton</title>
+<title level="a">Despatch from Héli Chatelain to William F. Wharton</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">5</biblScope>
 <date from="1891-10-19">October 19, 1891</date>
 </bibl>
@@ -67,19 +67,19 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
-<term ref="http://viaf.org/viaf/255734976">Amaral, Francisco Joaquim Ferreira do</term>
+<term ref="http://viaf.org/viaf/255734976">Amaral, Francisco Ferreira do, 1844-1923</term>
 <term>Bannister, Edward</term>
-<term>Baracho, Dantes</term>
+<term>Baracho, Dantas</term>
 <term>Chagas, João</term>
-<term>Downing, Henry F.</term>
-<term>du Verge, Louis Astyanax De Rathier</term>
+<term ref="http://viaf.org/viaf/315533938 ">Downing, Henry Francis, 1846-1928</term>
+<term>Verge, Louis Astyanax de Rathier du</term>
 <term>Jackson, Joseph E.</term>
 <term>Judson, Julius Leroy</term>
-<term>Newton, Robert S.</term>
+<term>Newton, Robert Scott</term>
 <term>Silva, Augustus Archer</term>
 </keywords>
     
@@ -87,25 +87,24 @@
 <term>Ambriz (Angola)</term>
 <term>Angola</term>
 <term>Banana (Congo)</term>
-<term>Bihe (Angola)</term>
+<term>Bihé (Angola)</term>
 <term>Cabinda (Angola)</term>
 <term>Caconda (Angola)</term>
 <term>Congo Free State</term>
 <term>Dondo (Angola)</term>
 <term>Kasanji (Congo)</term>
+<term>Kingdom of Lunda</term>
 <term>Kunene River</term>
-<term>Lunda</term>
 <term>Mossamedes (Angola)</term>
-<term>Oporto</term>
+<term>Oporto (Portugal)</term>
 <term>Pengo Andongo (Angola)</term>
 <term>Portuguese Guinea</term>
-<term>Principe</term>
-<term>St. Antonio</term>
+<term>St. Antonio (Congo)</term>
 <term>St. Paul de Loanda (Angola)</term>
-<term>St. Thomé</term>
+<term>St. Thomas and Prince</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>Brazil</term>
 <term>Great Britain</term>
 <term>Netherlands</term>
@@ -118,10 +117,6 @@
 <term>Lunda</term>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -130,21 +125,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName ref="http://viaf.org/viaf/68793274">Chatelain, Héli</persName>
+<persName ref="http://viaf.org/viaf/68793274">Chatelain, Héli, 1859-1908</persName>
 <roleName>U.S. Commercial Agent at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1891-10-19"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2020-01-28" who="kln">Reviewed transcription and encoded</change>
 <change when="2019" who="caa">Transcribed</change>
 </revisionDesc>
@@ -156,7 +152,7 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0566.001"/>
+<pb n="teaa.en.letter.0566.001"/>
 
 <note>No. 12</note>
 
@@ -196,7 +192,11 @@ Loanda</p>
 Portugal and Angola, with annexed
 printed documents</p>
 
-<pb facs="teaa.en.letter.0566.002"/>
+</div1>
+
+<div1 type="document" xml:lang="en">
+
+<pb n="teaa.en.letter.0566.002"/>
 
 <p>Report on present State
 and Needs of U.S. Consulate at
@@ -230,7 +230,7 @@ were.</p>
 have hired two rooms as the American 
 Mission, one for myself, the other for office</p>
 
-<pb facs="teaa.en.letter.0566.003"/>
+<pb n="teaa.en.letter.0566.003"/>
 
 <p>The latter is on the ground-floor, has a door
 to the front of the house, and another door opening 
@@ -263,7 +263,7 @@ Furniture is very dear at Loanda;
 so I propose to the Department to either
 appropriate a sufficient seem to buy said
 
-<pb facs="teaa.en.letter.0566.004"/>
+<pb n="teaa.en.letter.0566.004"/>
 
 furniture here (counting the cost here to be
 at least 100% more than it would be in the 
@@ -280,7 +280,7 @@ cared for.</p>
  
 <p>Of these nothing was turned over except what
 is mentioned in the Inventory (Two stamps,
-a few waifers, sheets of paper and envelopes).
+a few <sic>waifers</sic>, sheets of paper and envelopes).
 The stamp mentioned as "hand stamp" bears
 the inscription "Commercial Agency" and is
 therefore no longer correct, nor is it in good condition. 
@@ -297,7 +297,7 @@ no bookbinder in this place, it would seem
 advisable for the Department to send some
 material wherewith the officer might find
 
-<pb facs="teaa.en.letter.0566.005"/>
+<pb n="teaa.en.letter.0566.005"/>
 
 himself what things require binding (and there
 are some). Packing-paper, too, which, here, is
@@ -370,8 +370,7 @@ me, are Nos:</p>
 to be of sufficient importance shall be
 sent, in moderate numbers, by first opportunity.</p>
 
-
-<pb facs="teaa.en.letter.0566.006"/>
+<pb n="teaa.en.letter.0566.006"/>
 
 <p>b) Books. The list of those extant is found 
 in the Inventory.</p>
@@ -413,7 +412,7 @@ by Judson</p>
 <p>The Treasury Fee Book regularly kept, by Newton's
 firm, from 1881-1891</p>
 
-<pb facs="teaa.en.letter.0566.007"/>
+<pb n="teaa.en.letter.0566.007"/>
 
 <p>The Record-Book was used by Downing to copy some
 extravagant letters to high personages, and since, by
@@ -448,7 +447,7 @@ copies of documents from Nov. 1887 to
 March 1888. After another gap, Newton's
 Inventory of things taken over by him
 
-<pb facs="teaa.en.letter.0566.008"/>
+<pb n="teaa.en.letter.0566.008"/>
 
 on Judson's death, and subsequent dispatches
 and letters from <unclear>Nov.</unclear> 1888 to Bannister's correspondence
@@ -490,7 +489,7 @@ sole charge.</p>
 
 <p>It took me a long time to sort what
 
-<pb facs="teaa.en.letter.0566.009"/>
+<pb n="teaa.en.letter.0566.009"/>
 
 there is, and now all the letters are chronologically 
 arranged in different packages, awaiting
@@ -529,7 +528,7 @@ has escaped.</p>
 
 <p>It is high time to bind what is left.</p>
 
-<pb facs="teaa.en.letter.0566.010"/>
+<pb n="teaa.en.letter.0566.010"/>
 
 <p>5) Flagstaff and flags.</p>
 
@@ -562,7 +561,7 @@ hoisted the flag on the flagstaff of the
 Mission House where the Consular office is
 temporarily located</p>
 
-<pb facs="teaa.en.letter.0566.011"/>
+<pb n="teaa.en.letter.0566.011"/>
 
 <p>As to the flags, the boat-flag, though some
 what moth-eaten will yet do for the rare occasions
@@ -596,7 +595,7 @@ of the office in all that line, should have
 been an Englishman, Mr Newton, is rather
 humiliating; and not less humiliating
 
-<pb facs="teaa.en.letter.0566.012"/>
+<pb n="teaa.en.letter.0566.012"/>
 
 is the fact that he used to give the American
 Consulate openly or <unclear extent="one word"/> as part-salary to
@@ -616,7 +615,7 @@ by sending here men who are a disgrace
 to their country and to mankind, even in darkest
 Africa.</p>
 
-<p>But this improvement in the personel
+<p>But this improvement in the <sic>personel</sic>
 of the Consulate depends chiefly on the
 Salary. While I, who have got a reputation 
 as a philanthropic Diogenes, can
@@ -629,7 +628,7 @@ The price for a poorly furnished room
 and board (two meals a day) at any one
 of the two or three better hotels of the place is
 
-<pb facs="teaa.en.letter.0566.013"/>
+<pb n="teaa.en.letter.0566.013"/>
 
 2.75 per day, if taken by the week or month,
 and the extras entailed by living in such a hotel
@@ -665,8 +664,12 @@ and the same for the "Mercantil" another leading papers of Loanda.</p>
 
 <p>Heli Chatelain<lb/>
 U.S. Coml Agent</p>
+
+</div1>
+
+<div1 type="document" xml:lang="en">
  
-<pb facs="teaa.en.letter.0566.014"/>
+<pb n="teaa.en.letter.0566.014"/>
 
 <p>Report
 on Present Political Situation
@@ -698,7 +701,7 @@ returned to give that amount to those who were not
 on his list of OPorto men, the whole crowd resolved
 &amp; declared, they would not sail unless all got
 
-<pb facs="teaa.en.letter.0566.015"/>
+<pb n="teaa.en.letter.0566.015"/>
 
 the same amount. The minister of Marine ordered
 to delay the departures of the ship, as company of <del>4</del>
@@ -730,7 +733,7 @@ a red flag would fly on the first launch &amp; the
 crowd would sing the "Portugueza" the new
 Portuguese <unclear extent="one Portuguese word"/> which the government
 
-<pb facs="teaa.en.letter.0566.016"/>
+<pb n="teaa.en.letter.0566.016"/>
 
 tried in vain to prohibit in Portugal. Before the ship
 sailed from Principe, a big bon-fire was lit on the
@@ -758,7 +761,7 @@ at a time when S. Thomé &amp; Principe cannot
 get a sufficient number of (slave) laborers for
 its coffee plantations.</p>
 
-<p>3) The <unclear>Cession</unclear> (as it is called) of part of the
+<p>3) The <unclear>cession</unclear> (as it is called) of part of the
 Lunda empire to the same Congo State.</p>
 
 <p>The population of S. Thomé &amp; Principe whose 
@@ -766,7 +769,7 @@ black workers are Angolans and whose white
 population is intimately connected with that of
 Angola is now one with the latter in the opinion
 
-<pb facs="teaa.en.letter.0566.017"/>
+<pb n="teaa.en.letter.0566.017"/>
 
 that the home government is the worst <unclear extent="one word"/> of the
 colonies and that the time is come for the latter
@@ -799,7 +802,7 @@ firm (Nieuwe Afrikaanse Handels vennootschap)
 in building three new homes in Kabinda with
 a view to transferring here the bulk of their
 
-<pb facs="teaa.en.letter.0566.018"/>
+<pb n="teaa.en.letter.0566.018"/>
 
 Banana business, and thus escape to some extent the
 vexation taxation and regulation of the Kongo State</p>
@@ -834,7 +837,7 @@ to state that the first thing, on meeting me
 again, which the two first men of Loanda
 (the first lawyer &amp; the director of the Bank) told
 
-<pb facs="teaa.en.letter.0566.019"/>
+<pb n="teaa.en.letter.0566.019"/>
 
 me in a whisper was: Things are in bad shape
 in Portugal, are they not? The Republic and
@@ -866,7 +869,7 @@ soon as they see an opportunity.</p>
 of the capital (Loanda) against the two
 contracts with the Congo State, in which
 
-<pb facs="teaa.en.letter.0566.020"/>
+<pb n="teaa.en.letter.0566.020"/>
 
 protest they declare that for them the Portuguese
 parliament does not represent the nation, but is 
@@ -900,7 +903,7 @@ his wife and children being born Angolans, his
 sympathies are with them. The protest of the
 municipality though <unclear extent="one word"/> in the most rebellious
 
-<pb facs="teaa.en.letter.0566.021"/>
+<pb n="teaa.en.letter.0566.021"/>
 
 <unclear extent="one or two words"/> was signed by most of the whites of
 Pengo Andongo. On sending the protest of the
@@ -934,7 +937,7 @@ is still somewhat mysterious; but one thing is
 known, namely that a <unclear>sergeant</unclear> &amp; some of the
 new immigrants had made a plot to seize <unclear>the</unclear>
 
-<pb facs="teaa.en.letter.0566.022"/>
+<pb n="teaa.en.letter.0566.022"/>
 
 <unclear extent="one word"/> Governor and make a revolution. One betrayed
 his companions and these were shipped to Portuguese
@@ -969,7 +972,7 @@ time, and for a few days, had the company of
 an English flagship and of a German cruiser.
 After the departure of the latter, the <unclear extent="one word"/> men
 
-<pb facs="teaa.en.letter.0566.023"/>
+<pb n="teaa.en.letter.0566.023"/>
 
 of Loanda gave a grand reception to the Spanish
 officers, and, ironically, also invited the English.
@@ -1000,7 +1003,7 @@ before, by independence, it opens with it doors
 to all nations, and thus secure the predominance
 of the Portuguese language and tradition as
 
-<pb facs="teaa.en.letter.0566.024"/>
+<pb n="teaa.en.letter.0566.024"/>
 
 in Brazil. As in all other things, honour, the
 Portuguese Government goes against its own interests,
@@ -1028,45 +1031,6 @@ ideal after which they are striving.</p>
 
 <p>Heli Chatelain<lb/>
 U.S. Coml Agent.</p>
-
-<pb facs="teaa.en.letter.0566.025"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.026"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.027"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.028"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.029"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.030"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.031"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.032"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.033"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.034"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.035"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.036"/>
-<!-- in Portuguese -->
-
-<pb facs="teaa.en.letter.0566.037"/>
-<!-- in Portuguese -->
 
 </div1>
 

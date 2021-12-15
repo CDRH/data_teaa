@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Washington Bee, "Beauties of Madagascar" (1885)</title>
+<title>The Washington Bee, "Beauties of Madagascar" (January 31, 1885)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -56,7 +56,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term>Encounters with Natives</term>
+<term>"Othering" Africans</term>
+<term>Exploration</term>
 </keywords>
  
 <keywords scheme="original" n="type">
@@ -64,7 +65,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Newspapers</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
@@ -76,21 +77,18 @@
 <term>Sizebouge River</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="powers">
 <term/>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
 <term>Barra</term>
 <term>Betsileo</term>
-<term>Hovas</term>
+<term>Hova</term>
+<term>Malay</term>
 </keywords>
  
 <keywords scheme="original" n="religion">
-<term/>
-</keywords>
-
-<keywords scheme="original" n="language">
 <term/>
 </keywords>
 
@@ -98,6 +96,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-11-20" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -108,11 +107,11 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0085.001"/>
+<pb n="p1"/>
 
 <div2 type="title">
 
-<p>Beauties of <sic>Madagscar</sic>.</p>
+<head type="main">Beauties of <sic>Madagscar</sic>.</head>
 
 </div2>
 

@@ -68,12 +68,12 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Periodicals</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
 <term>Adams, Charles Hall</term>
-<term>Barclay, E. J.</term>
+<term>Barclay, Ernest James</term>
 <term ref="http://viaf.org/viaf/78345975">Hannington, James, 1847-1885</term>
 <term ref="http://viaf.org/viaf/63008966">Latrobe, John H. B. (John Hazlehurst Boneval), 1803-1891</term>
 <term>Parker, Henry</term>
@@ -85,45 +85,45 @@
  
 <keywords scheme="original" n="places">
 <term>Alongo (Corisco)</term>
-<term>Angoma</term>
+<term>Angoma (Gaboon)</term>
 <term>Banza Manteke (Congo)</term>
-<term>Baraka</term>
-<term>Basuto-land</term>
+<term>Baraka (Gaboon)</term>
+<term>Basutoland</term>
 <term>Brazil</term>
-<term>Cameroons</term>
 <term>Cavalla River</term>
 <term>Dondo (Angola)</term>
 <term>Gaboon River</term>
+<term>Kamerun</term>
 <term>Kangwe (French Congo)</term>
 <term>Kasai River</term>
-<term>Kilimandjaro</term>
+<term>Kilimanjaro</term>
 <term>Lake Tanganyika</term>
 <term>Lake Victoria Nyanza</term>
 <term>Liberia</term>
-<term>Malange (Angola)</term>
+<term>Malanje (Angola)</term>
 <term>Monrovia (Liberia)</term>
 <term>Nhanguepepo (Angola)</term>
 <term>Ogowe River</term>
 <term>Pungo Andongo (Angola)</term>
 <term>Sierra Leone</term>
 <term>St. Paul de Loanda (Angola)</term>
-<term>St. Paul's River</term>
-<term>Stanely Falls</term>
+<term>Saint Paul River</term>
+<term>Stanley Falls</term>
 <term>Zanzibar</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="powers">
 <term>Belgium</term>
 <term>England</term>
 <term>France</term>
 <term>Germany</term>
 <term>Great Britain</term>
-<term>Holland</term>
+<term>Netherlands</term>
 <term>United States</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
-<term>Kroomen</term>
+<term>Kroo</term>
 <term>Tushilange</term>
 </keywords>
  
@@ -133,17 +133,14 @@
 <term>Free Church of Scotland</term>
 <term>Methodist Episcopal</term>
 <term>Presbyterian</term>
-<term>Roman Catholic</term>
-</keywords>
-
-<keywords scheme="original" n="language">
-<term/>
+<term>Catholic</term>
 </keywords>
 
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-10-31" who="#kln">encoded, finished transcription</change>
 <change when="2019-04" who="#caa">started transcription</change>
 </revisionDesc>
@@ -155,21 +152,21 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p21" facs="teaa.en.periodical.0062.001"/>
+<pb n="p21"/>
 
 <div2 type="title">
 
-<p>Progress in Africa.*</p>
+<head type="main">Progress in Africa.*</head>
 
-<p>* Thanks are cordially tendered to the <hi rend="italics">Missionary Herald</hi> of Boston; <hi rend="italics">Church at Home and Abroad</hi> of Philadelphia; <hi rend="italics">Interior</hi> of Chicago; <hi rend="italics">African Times</hi> of London, and <hi rend="italics">L'Afrique</hi> of Geneva, for matter freely used in this paper.</p>
+<p>[ . . . ]</p>
+
+<fw type="note">* Thanks are cordially tendered to the <hi rend="italics">Missionary Herald</hi> of Boston; <hi rend="italics">Church at Home and Abroad</hi> of Philadelphia; <hi rend="italics">Interior</hi> of Chicago; <hi rend="italics">African Times</hi> of London, and <hi rend="italics">L'Afrique</hi> of Geneva, for matter freely used in this paper.</fw>
 
 </div2>
 
 <div2 type="article">
 
-<gap reason="sampling"/>
-
-<p>Christian Missions.</p>
+<head type="sub">Christian Missions.</head>
 
 <p>Many of the English missionary societies laboring in Africa are
 experiencing serious trials in connection with the sickness and death
@@ -214,11 +211,11 @@ part. The boys, too, have brought half-loads.</p>
 Conference of the Methodist Episcopal Church, says that he had
 superintended the regular work in the Liberia Conference and established 
 self-supporting missions on the Cavalla river. He has made
-a beginning in the Congo region, and Angola south of the Congo riv-
+a beginning in the Congo region, and Angola south of the Congo river;
 
-<pb xml:id="p22" facs="teaa.en.periodical.0062.002"/>
+<pb n="p22"/>
 
-er; in all 36 new stations have been opened by him, with 32 mission
+in all 36 new stations have been opened by him, with 32 mission
 houses, built at a cost of £20,000 and all are free from debt. The stations 
 in Angola are, 1. St. Paul de Loando, with a self-supporting
 school. 2. Dondo, 240 miles distant from Loanda, with a self-supporting 
@@ -265,7 +262,7 @@ other Roman Catholic mission is that of the 'African Algerian Missionaries,'
 commonly called 'the White Fathers.' They have advanced
 their stations far into the interior, and set them as widely as possible
 
-<pb xml:id="p23" facs="teaa.en.periodical.0062.003"/>
+<pb n="p23"/>
 
 apart. As it appears, they limit themselves mainly to proper missionary 
 work. We do not know the number of their laborers. As we
@@ -312,9 +309,13 @@ Christian in all its aspects, it has all been a part of that foundation
 work upon which the grand edifice of a pure Christianity will at
 length be reared.</p>
 
-<pb xml:id="p24" facs="teaa.en.periodical.0062.004"/>
+</div2>
 
-<p>Liberia.</p>
+<pb n="p24"/>
+
+<div2 type="article">
+
+<head type="sub">Liberia.</head>
 
 <p>Liberia is growing more and more indigenous and hopeful. The
 Aborigines are entering the political and social life of the Republic.
@@ -362,7 +363,7 @@ perpetuation of the philanthropic institution, the American Colonization
 Society. I shall pray that the choicest benedictions of Heaven
 may rest upon the executive and members and friends. The most
 
-<pb xml:id="p25" facs="teaa.en.periodical.0062.005"/>
+<pb n="p25"/>
 
 <sic>tacile</sic> pen, the most eloquent or gifted orator cannot describe the
 possibilities of Liberia as they present themselves <sic>ot</sic> the eye."</p>
@@ -379,7 +380,11 @@ Brazilian Negroes that there is a steady current setting
 eastward from that Empire, the "expatriates" paying their own way
 to West Africa.</p>
 
-<p>America's Share.</p>
+</div2>
+
+<div2 type="article">
+
+<head type="sub">America's Share.</head>
 
 <p>Is not America to share more largely in this new interest for Africa? 
 We, who have millions of people the best adapted to its climate&#8212;

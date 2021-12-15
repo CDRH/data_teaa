@@ -44,7 +44,7 @@
 <sourceDesc>
 <bibl>
 <title level="a" type="main">Facts About Africa and the African Negro</title>
-<author n="Kealing, H. T.">H. T. Kealing</author>
+<author ref="http://viaf.org/viaf/251368604">Kealing, H. T. (Hightower Theodore), 1860-1918</author>
 <title level="j">African Methodist Episcopal Church Review</title>
 <biblScope unit="volume">14</biblScope>
 <biblScope unit="issue">4</biblScope>
@@ -78,7 +78,7 @@
     
 <keywords scheme="viaf" n="places">
 <term>Angola</term>
-<term>Ashanti</term>
+<term>Ashantee</term>
 <term>Baguirmi (Chad)</term>
 <term>Dahomey</term>
 <term>French Congo</term>
@@ -99,23 +99,25 @@
 <term>North Africa</term>
 <term>Portuguese Mozambique</term>
 <term>Sahara Desert</term>
-<term>Saint-Louis (Senegal; region)</term>
+<term>Saint-Louis (Senegal)</term>
 <term>Sierra Leone</term>
 <term>Slave Coast</term>
 <term>Sokoto Caliphate</term>
 <term>South Africa</term>
-<term>Sudan (Region)</term>
+<term>Soudan</term>
 <term>Upper Guinea</term>
 <term>Wadai (Chad)</term>
 <term>Zambezi River</term>
 </keywords>
+
+<keywords scheme="viaf" n="powers">
+<term/>
+</keywords>
     
 <keywords scheme="original" n="ethnic_group">
-<!-- as named in article - see teaa.en.periodical.0004.txt for Kayla's notes re. modern-day names -->
 <term>Ambuella</term>
 <term>Angoche</term>
-<term>Arabs</term>
-<term>Asante</term>
+<term>Arab</term>
 <term>Baluba</term>
 <term>Barotse</term>
 <term>Barua</term>
@@ -133,14 +135,14 @@
 <term>Ephe</term>
 <term>Fang</term>
 <term>Ga</term>
-<term>Hamites</term>
-<term>Hottentots</term>
-<term>Housa</term>
+<term>Hamite</term>
+<term>Hottentot</term>
+<term>Houssa</term>
 <term>Hungu</term>
 <term>Ibo</term>
 <term>Imoshagh</term>
 <term>Kaffir</term>
-<term>Krumen</term>
+<term>Kroo</term>
 <term>Lornoe</term>
 <term>Luaugu</term>
 <term>Ma-iaka</term>
@@ -161,7 +163,7 @@
 <term>Ova-hereto</term>
 <term>Ovi-mbundu</term>
 <term>Pangu</term>
-<term>Pygmies</term>
+<term>Pygmy</term>
 <term>Solongo</term>
 <term>Sundi</term>
 <term>Susu</term>
@@ -180,7 +182,7 @@
 <term>Wa Zaramo</term>
 <term>Wolof</term>
 <term>Yariba</term>
-<term>Zulus</term>
+<term>Zulu</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -190,14 +192,11 @@
 <term>Protestant</term>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term>Bantu</term>
-</keywords>
-
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-03-01" who="#kln">encoded</change>
 <change when="2017" who="ks">corrections, marked up</change>
 <change when="2016" who="jp">transcription</change>
@@ -210,19 +209,19 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p453" facs="teaa.en.periodical.0004.001.jpg"/>
+<pb n="p453"/>
 
 <div2 type="title">
 
-<p>Facts About Africa and the African Negro.</p>
+<head type="main">Facts About Africa and the African Negro.</head>
 
-<p>By the Editor.</p>
+<head type="main">By the Editor.</head>
    
 </div2>
 
 <div2 type="article">
 
-<p>Negro Tribes.</p>
+<head type="sub">Negro Tribes.</head>
 
 <p>The Teda or Tibbu, found in the Sahara Desert, north of Lake Tshad.</p>
 
@@ -232,9 +231,7 @@
 
 <p>Inhabitants of Sokoto, called Housa, between Lake Tshad and Niger River. (These are said to be the most promising nation of the
 
-
-<pb xml:id="p454" facs="teaa.en.periodical.0004.002.jpg"/>
-
+<pb n="p454"/>
 
 Sudan, whose language persists even against the Arab and English tongues.</p>
 
@@ -274,15 +271,17 @@ Sudan, whose language persists even against the Arab and English tongues.</p>
 
 <p>This showing of tribes and nations, while not perfect, sets forth the best knowledge we have of the real Negro peoples of Africa. It should be remembered that we have, in this list, rejected all Hamites, not Negro, such as the white Hamites along the Mediterranean coast of North Africa, the mixed people (brown) of the Sudan, the Malay of Madagascar, the Hottentots of South Africa, the Bushmen, and the Pygmies.</p>
 
-<p>Negro Languages.</p>
+</div2>
 
-<p>One would suppose that in all this multiplicity of tribes there would be a hopeless tangle of unrelated tongues, the despair of grammarians and philologists, but it has been shown that many widely separated tribes may be classified into two: the Bantu, or Negroes south of the Equa-
+<div2 type="section">
 
+<head type="sub">Negro Languages.</head>
 
-<pb xml:id="p455" facs="teaa.en.periodical.0004.003.jpg"/>
+<p>One would suppose that in all this multiplicity of tribes there would be a hopeless tangle of unrelated tongues, the despair of grammarians and philologists, but it has been shown that many widely separated tribes may be classified into two: the Bantu, or Negroes south of the Equator;
 
+<pb n="p455"/>
 
-tor; and the Negroes of Upper Guinea and the Sudan, north of the Equator; and we are even told that the distinction between them is a myth, the chief difference between them being traceable to the difference in amount of contact with foreign influence on the part of the two. The Negroes north of the Equator show traces in their language
+and the Negroes of Upper Guinea and the Sudan, north of the Equator; and we are even told that the distinction between them is a myth, the chief difference between them being traceable to the difference in amount of contact with foreign influence on the part of the two. The Negroes north of the Equator show traces in their language
 of the Bantu root origin, but this is so overlaid with a mass of new language-growths as to be difficult of discernment, while all the 180 languages and 60 dialects of the Bantu south of the Equator are resolvable into very few languages, possibly only one, and many dialects. If it be found, as is strongly suspected, that the original language 
 of the tribes north of the Equator be referable to the same root stock, we shall see this formidable tangle of tongues that has seemed to erect almost insuperable obstacles to successful missionary effort, and to forbid the building of a written language and literature, melt away, leaving the future to point to one great homogeneous people 
 in all Central Africa, speaking and writing the same virile language.</p>
@@ -293,9 +292,7 @@ in all Central Africa, speaking and writing the same virile language.</p>
 
 <p>The Bantu, or Negroes south of the equator, are in some respects the most remarkable sections of mankind. Separated from the world by wide oceans, virgin forests and the Sahara Desert, they have been less than any other race, subject to foreign influences. No strange blood has altered their physical constitution, no foreign languages have permanently mangled the structure and the word-store of their principal forms of speech; no outside religion has seriously affected their conceptions of God, the spiritual, the animal and the natural worlds Now they are receiving Christianity and the highest civilization  the world has ever known, by methods which, however crude,
 
-
-<pb xml:id="p456" facs="teaa.en.periodical.0004.004.jpg"/>
-
+<pb n="p456"/>
 
 inconsiderate and unjust they may appear fifty years hence, are yet far superior to all that our most sanguine forefathers could have anticipated.</p>
 

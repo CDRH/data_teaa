@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0101">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>T. Thomas Fortune - The Pyramids (1906)</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.periodical.0101</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a" type="main">The Pyramids</title>
+<author ref="http://viaf.org/viaf/47670966">Fortune, Timothy Thomas, 1856-1928</author>
+<title level="j">Colored American Magazine</title>
+<date when="1906-01">January 1906</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Imagined Africa</term>
+</keywords>
+ 
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Poetry</term>
+</keywords> 
+ 
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+ 
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-08" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb n="p00"/>
+
+<div2 type="title">
+
+<head type="main">The Pyramids</head>
+
+<head type="sub">by T. Thomas Fortune</head>
+
+</div2>
+
+<div2 type="poetry">
+
+<lg type="stanza">
+<l>Upon the future life we build,</l>
+<l>As built the toilers of the Nile,</l>
+<l>Whose rude and ruthless tyrants willed</l>
+<l>That God's eternal sun should smile</l>
+</lg>
+
+<lg type="stanza">
+<l>On monuments of dust and stone</l>
+<l>Which should defy the flight of Time,</l>
+<l>Beneath dumb hieroglyphics groan,</l>
+<l>The wonder of each age and clime!</l>
+</lg>
+
+<lg type="stanza">
+<l>And still they stand, in Winter's storms</l>
+<l>And vernal Summer's rays benign,</l>
+<l>Lifting on high grand, gloomy forms</l>
+<l>Round which eternity may twine!</l>
+</lg>
+
+<lg type="stanza">
+<l>The Pyramids! When did they rear</l>
+<l>Their sombre bulk to Time's stern gaze?</l>
+<l>Canst estimate the thought&#8212;the care&#8212;</l>
+<l>The lives condemned&#8212;the flight of days&#8212;</l>
+</lg>
+
+<lg type="stanza">
+<l>That went to consecrate the pile</l>
+<l>Where Egypt's tyrants now repose,</l>
+<l>The sentient serpents of the Nile,</l>
+<l>At whose commands the phantoms rose?</l>
+</lg>
+
+<lg type="stanza">
+<l>Each stone cemented with the gore,</l>
+<l>The tears and sweat of some poor slave!</l>
+<l>For each dead king the millions bore</l>
+<l>Into the gloomy vaults, his grave,</l>
+</lg>
+
+<lg type="stanza">
+<l>A thousand men, perchance, had bled,</l>
+<l>Had sacrificed their all in death,</l>
+<l>To guard the tyrant in his bed</l>
+<l>And watch for his returning breath!</l>
+</lg>
+
+<lg type="stanza">
+<l>Yes; on the Future Life we build,</l>
+<l>Rear crumbling monuments to fame,</l>
+<l>When Death's remorseless clasp has stilled</l>
+<l>The currents of the mortal frame!</l>
+</lg>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

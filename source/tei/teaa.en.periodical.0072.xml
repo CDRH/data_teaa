@@ -66,7 +66,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Periodicals</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
@@ -79,7 +79,7 @@
 <term>Leopoldville (Congo)</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="powers">
 <term>Belgium</term>
 <term>England</term>
 <term>United States</term>
@@ -93,14 +93,11 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-11-07" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -111,11 +108,11 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0072.001"/>
+<pb n="p1"/>
 
 <div2 type="title">
 
-<p>The Acquittal of Sheppard</p>
+<head type="main">The Acquittal of Sheppard</head>
 
 </div2>
 

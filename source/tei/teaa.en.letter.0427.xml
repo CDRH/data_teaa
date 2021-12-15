@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0427">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from William Hogan to J. C. Bancroft Davis, June 12, 1873</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0427</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from William Hogan to J. C. Bancroft Davis</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1873-06-12">June 12, 1873</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Ashwood, John</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Sierra Leone</term>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Hogan, William</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1873-06-12"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1873-07-22"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-03" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="213"/>
+
+<note>Department of State Received Jul 22 1873</note>
+
+<p>United States Consulate<lb/>
+Sierra Leone June 12/73</p>
+
+<p>Your communication of the 14th March has 
+been received.</p>
+
+<p>I beg to inform you that the records and Archive 
+of the Consulate as well as the seals &amp;c &amp;c &amp;c 
+mentioned by you are now in my possession</p> 
+
+<p>I find the Office with but very 
+little stationary such as Official paper 
+large &amp; small also envelopes to correspond.
+Envelopes with address of State Department 
+as well as short and long ones addressed to
+Collectors of Customs. Red tape, sealing 
+wax suitable to the tropics and large 
+wafers to use with <unclear>gum</unclear>. The flag is 
+pretty well worn out and requires 
+renewal.</p>
+
+<p>Inclosed I forward my provisional
+recognition until the arrival of the 
+Exequatur.</p>
+
+<p>I Am, Sir<lb/>
+Your Obedient Servant<lb/>
+William Hogan<lb/>
+United States Consul</p>
+
+<fw type="address">Honble
+J. C. B. Davis<lb/>
+Assistant Secretary<lb/>
+Department of State<lb/>
+Washington</fw>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="214"/>
+
+<p>OFFICIAL
+GAZETTE.</p>
+
+<p>In accordance with instructions received from
+His Excellency the Administrator-in-Chief, His
+Excellency the Administrator has been pleased 
+to recognize William Hogan, Esquire, provisionally, 
+as United States' Consul at Sierra Leone, 
+until the arrival of the Exequatur.</p>
+
+<p>By His Excellency's Command,<lb/>
+John Ashwood,<lb/>
+Acting Colonial Secretary.</p>
+
+<p>Colonial Secretary's Office,<lb/>
+Sierra Leone,<lb/>
+26th May, 1873.</p>
+
+<fw type="footer">Printed by Robert Hagon Spencer, Government Printer.</fw>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

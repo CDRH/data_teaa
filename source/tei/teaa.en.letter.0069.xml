@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Augustus Archer Silva to William H. Seward, November 25, 1865</title>
+<title>Despatch from Augustus Archer Silva to William H. Seward, November 25, 1865</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Augustus Archer Silva to William H. Seward, November 30, 1865</title>
+<title level="a">Despatch from Augustus Archer Silva to William H. Seward, November 30, 1865</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">2</biblScope>
 <date when="1865-11-25">November 25, 1865</date>
 </bibl>
@@ -68,7 +68,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -85,7 +85,7 @@
 <term>de Viagas de O., Joaquim</term>
 <term>Ferreira, Luis Pedro</term>
 <term>Finlay, Kirkman</term>
-<term>Gover, Augustus E. B.</term>
+<term ref="http://viaf.org/viaf/9835147270628635700003">Govea, Augustus E. B. (Augustus Edward Bothelho), approximately 1826-1890</term>
 <term>Mason, Charles</term>
 <term>Vredenburg, Watson</term>
 </keywords>
@@ -93,25 +93,24 @@
 <keywords scheme="original" n="places">
 <term>Angola</term>
 <term>Bahia (Brazil)</term>
-<term>Boston (Mass.)</term>
+<term>Boston (Massachusetts)</term>
 <term>Glasgow (Scotland)</term>
 <term>Hong Kong</term>
 <term>Isle of Wight (England)</term>
 <term>Lisbon (Portugal)</term>
 <term>Liverpool (England)</term>
-<term>Mossâmedes (Angola)</term>
-<term>Nantucket (Mass.)</term>
-<term>New London (Conn.)</term>
-<term>New York (N.Y.)</term>
-<term>Salem (Mass.)</term>
-<term>San Francisco (Calif.)</term>
+<term>Mossamedes (Angola)</term>
+<term>Nantucket (Massachusetts)</term>
+<term>New London (Connecticut)</term>
+<term>New York (New York)</term>
+<term>Salem (Massachusetts)</term>
+<term>San Francisco (California)</term>
 <term>Shanghai (China)</term>
 <term>St. Helena</term>
-<term>St. Paul de Loanda (Angola)</term>
-<term>Westport (R.I.)</term>
+<term>Westport (Rhode Island)</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>England</term>
 <term>Portugal</term>
 </keywords>
@@ -119,11 +118,7 @@
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -134,13 +129,13 @@
 <correspAction type="sentBy">
 <persName>Silva, Augustus Archer</persName>
 <roleName>U.S. Commercial Agent for Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1865-11-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
 <roleName>U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1866-03-05"/>
 </correspAction>
 </correspDesc>
@@ -148,6 +143,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-05" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
@@ -160,16 +156,16 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.001"/>
+<pb n="teaa.en.letter.0069.001"/>
 
 <note>Recd Mch 5</note>
-<note>Ack March 14</note>
+
 <note>No 15.</note>
 
-<opener><dateline>United States Commercial Agency<lb/>
-St Paul de Loanda 25th November 1865.</dateline></opener>
+<p>United States Commercial Agency<lb/>
+St Paul de Loanda 25th November 1865.</p>
 
-<salute>Sir;</salute>
+<p>Sir;</p>
 
 <p>In my despatch No 13, I had the honor of informing the 
 Department that an American Seaman calling himself Edward
@@ -185,14 +181,12 @@ sea, he came down to the town and made arrangements with Captain
 this place and presented himself to me, as stated. I listened to 
 <catchwords>his</catchwords>
 
-<fw type="address"><address>
-<addrLine>Hon William H Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington,</addrLine>
-<addrLine>D.C.</addrLine>
-</address></fw>
+<fw type="address">Hon William H Seward<lb/>
+Secretary of State<lb/>
+Washington,
+D.C.</fw>
 
-<pb facs="teaa.en.letter.0069.002"/>
+<pb n="teaa.en.letter.0069.002"/>
 
 his story with apprehension and doubt, but not wishing to show, that 
 I entertained such a feeling, I treated the subject, for a time with
@@ -214,7 +208,7 @@ day sail for England. I was still under excitement on account
 of this extraordinary occurrence. Captain <unclear/>
 <catchwords>of</catchwords>
 
-<pb facs="teaa.en.letter.0069.003"/>
+<pb n="teaa.en.letter.0069.003"/>
 
 of the Portuguese Corvette "Infante D. João" came into
 my office, and in a few words I explained to him the course of
@@ -236,7 +230,7 @@ made by Baxter of an <sic>embarcation</sic> of slaves in a Portuguese
 port, and addressed me a note requesting me the kindness to 
 <catchwords>inform</catchwords>
 
-<pb facs="teaa.en.letter.0069.004"/>
+<pb n="teaa.en.letter.0069.004"/>
 
 inform them fully on the subject. The following evening, I 
 invited three witnesses to my house and before them, took the 
@@ -258,7 +252,7 @@ to Prison by order of the Government, to be tried on
 the charge of the false <unclear/>. I replied on the 3rd inst 
 <catchwords>requesting</catchwords>
 
-<pb facs="teaa.en.letter.0069.005"/>
+<pb n="teaa.en.letter.0069.005"/>
 
 requesting copies of the depositions taken at Mossamedes. In 
 the meantime Baxter was brought up before the Judicial 
@@ -280,7 +274,7 @@ termination of this case, which at one time indicated serious
 alarm, on the probable revival of the slave trade in American
 <catchwords>vessels</catchwords>
 
-<pb facs="teaa.en.letter.0069.006"/>
+<pb n="teaa.en.letter.0069.006"/>
 
 vessels and in Portuguese waters. On the 20th inst I addressed 
 a note of congratulations  and thanks to Commander <unclear>Viagas de O.</unclear>
@@ -302,7 +296,7 @@ Portugal and the United States and without entertaining the
 least consideration would have sent Baxter to the Foreign 
 <catchwords>Office</catchwords>
 
-<pb facs="teaa.en.letter.0069.007"/>
+<pb n="teaa.en.letter.0069.007"/>
 
 Office in England and thereby compromise this Provincial 
 Government and the Commercial Agency of the United States.
@@ -324,7 +318,7 @@ to send Baxter to England, when he had no reason to
 suppose that I had done with him. Baxter was commanded 
 <catchwords>to</catchwords>
 
-<pb facs="teaa.en.letter.0069.008"/>
+<pb n="teaa.en.letter.0069.008"/>
 
 to present himself to the Foreign Office, on his arrival on  
 England, to be there questioned on the subject and the 
@@ -347,7 +341,7 @@ carried on, most disgracefully, under the American Flag.
 I learn from the President of the Government Council that 
 <catchwords>Baxter's</catchwords>
 
-<pb facs="teaa.en.letter.0069.009"/>
+<pb n="teaa.en.letter.0069.009"/>
 
 Baxter's trial will soon take place. I was surprised to hear 
 him say that the penalty applicable to him by the Criminal 
@@ -370,71 +364,69 @@ Government in assisting me to penetrate the truth of Baxter's
 representation, and it is worthy of commendable honor to the 
 <catchwords>Authorities</catchwords>
 
-<pb facs="teaa.en.letter.0069.010"/>
+<pb n="teaa.en.letter.0069.010"/>
 
 Authorities here to note the indignation which the story of 
 Baxter aroused within them, when their National honor was 
 in danger of being stigmatized with the revival of the slave 
 trade in their waters.</p>
 
-<closer><salute>I have the Honor<lb/>
+<p>I have the Honor<lb/>
 To be<lb/>
-Your most obedt Servant,</salute>
-<signed>Augustus Archer Silva</signed><lb/>
-Commercial Agent</closer>
+Your most obedt Servant,<lb/>
+Augustus Archer Silva<lb/>
+Commercial Agent</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.011"/>
+<pb n="teaa.en.letter.0069.011"/>
 
-<opener><dateline>United States Commercial Agency<lb/>
-St Paul de Loanda Octob 9th 1865.</dateline></opener>
+<p>United States Commercial Agency<lb/>
+St Paul de Loanda Octob 9th 1865.</p>
 
-<salute>Sir,</salute>
+<p>Sir,</p>
 
 <p>The Seaman who claimed the protection of 
 this Commercial Agency as a destitute American 
 Citizen, &amp; who ran away from the American Barque 
 "Governor Carver" at Mossamedes, for the alleged 
-reason that said vessel was a slaver, &#38; who 
+reason that said vessel was a slaver, &amp; who 
 afterwards was shipped by you as a British 
 Subject, on board of the British Brig "Elizabeth" 
 but detained on account of some irregularity; You 
 will please send said Seaman to this office, that 
-he may explain to me, why he claimed &#38; received 
+he may explain to me, why he claimed &amp; received 
 protection as an American Citizen, when he was 
-not such &#38; likewise to prove the charge made 
+not such &amp; likewise to prove the charge made 
 <catchwords>by</catchwords>
 
-<fw type="footer"><address>
-<addrLine>M Vredenburg Esqr</addrLine>
-<addrLine>British Consul</addrLine>
-<addrLine>St Paul de Loanda.</addrLine>
-</address></fw>
+<fw type="address">M Vredenburg Esqr<lb/>
+British Consul<lb/>
+St Paul de Loanda.</fw>
 
-<pb facs="teaa.en.letter.0069.012"/>
+<pb n="teaa.en.letter.0069.012"/>
 
 by him, against the character of the American  
 Barque Governor Carver.</p>
 
-<closer><salute>I have the honor<lb/>
+<p>I have the honor<lb/>
 To be<lb/>
-Your Most Obedt Servant</salute> <lb/>
-(Signed) <signed>Augustus Archer Silva.<lb/>
-Commercial Agent.</signed></closer>
+Your Most Obedt Servant<lb/>
+(Signed) Augustus Archer Silva.<lb/>
+Commercial Agent.</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.013"/>
+<pb n="teaa.en.letter.0069.013"/>
 
-<opener><dateline>British Consulate Loanda<lb/>
-9th October 1865.</dateline></opener>
+<p>British Consulate Loanda<lb/>
+9th October 1865.</p>
 
-<salute>Sir;</salute>
+<p>Sir;</p>
 
 <p>In accordance with the request contained 
 in your despatch of Today's date, I have the 
@@ -452,13 +444,11 @@ my receiving his deposition. If I misunderstood
 your intentions and object you will I 
 <catchwords>hope</catchwords>
 
-<fw type="address"><address>
-<addrLine>A A Silva Esqr</addrLine>
-<addrLine>United States Commercial Agent.</addrLine>
-<addrLine>&amp;c. &amp;c. &amp;c.</addrLine>
-</address></fw>
+<fw type="address">A A Silva Esqr<lb/>
+United States Commercial Agent.<lb/>
+&amp;c. &amp;c. &amp;c.</fw>
 
-<pb facs="teaa.en.letter.0069.014"/>
+<pb n="teaa.en.letter.0069.014"/>
 
 hope accept the above explanation as an excuse.</p>
 
@@ -469,18 +459,18 @@ you coincide with those that he told to me,
 and you are at liberty, if you think proper, to 
 take and use a copy of this statement.</p>
 
-<closer><salute>I have the honor to be<lb/>
+<p>I have the honor to be<lb/>
 Sir,<lb/>
 Your most obedient<lb/>
-humble Servant,</salute>
-(Signed) <signed>W. Vredenburg</signed><lb/>
-Consul.</closer>
+humble Servant,<lb/>
+(Signed) W. Vredenburg<lb/>
+Consul.</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.015"/>
+<pb n="teaa.en.letter.0069.015"/>
 
 <p>I, Edward Baxter, a native of Liverpool, 
 twenty-five years of age, do solemnly declare, and 
@@ -503,7 +493,7 @@ and as I was afraid of what they were doing, I
 ran away in the dark, as I shipped to go 
 <catchwords>on</catchwords>
 
-<pb facs="teaa.en.letter.0069.016"/>
+<pb n="teaa.en.letter.0069.016"/>
 
 on a whaling voyage, and not to run slaves; I 
 cannot say what number of Blacks, they took the 
@@ -525,7 +515,7 @@ said Boatswain do you know what these things
 are for? "this is where we shall put the first 
 <catchwords>seventy</catchwords>
 
-<pb facs="teaa.en.letter.0069.017"/>
+<pb n="teaa.en.letter.0069.017"/>
 
 seventy niggers we get." and it was there they put 
 the seventy-five they brought on board that Friday
@@ -549,7 +539,7 @@ this 6th Day of October 1865.</p>
 <p>(Signed) W. Vredenburg<lb/>
 Consul.</p>
 
-<pb facs="teaa.en.letter.0069.018"/>
+<pb n="teaa.en.letter.0069.018"/>
 
 <p>This is to certify that the above 
 named Edward Baxter, being an illiterate
@@ -571,7 +561,6 @@ Consul.</p>
 
 <p>(Signed &amp; officially stamped)</p>
 
-
 <note type="label">with Despatch No. 15.<lb/>
 Deposition of Seaman
 Edward Baxter, taken
@@ -584,7 +573,7 @@ October 6th 1865.</note>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.019"/>
+<pb n="teaa.en.letter.0069.019"/>
 
 <p>Translation</p>
 
@@ -613,7 +602,7 @@ as much information as possible regarding said
 <addrLine>United States Commercial Agency</addrLine>
 </address></fw>
 
-<pb facs="teaa.en.letter.0069.020"/>
+<pb n="teaa.en.letter.0069.020"/>
 
 seaman and all particulars bearing on this subject.</p>
 
@@ -621,14 +610,14 @@ seaman and all particulars bearing on this subject.</p>
 
 <p>Secretary General's office at Loanda October 9th 1865.</p>
 
-<closer>(Signed) <signed><unclear>Antonio de Mello Varajãs</unclear><lb/>
-Government Secretary General</signed></closer>
+<p>(Signed) <unclear>Antonio de Mello Varajãs</unclear><lb/>
+Government Secretary General</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.021"/>
+<pb n="teaa.en.letter.0069.021"/>
 
 <p>I, Edward Baxter; a native of
 Liverpool, employed in the commerce of the United
@@ -650,7 +639,7 @@ privateer at Bahia where I shipped on
 board the American Barque "<unclear/> bound
 <catchwords>for</catchwords>
 
-<pb facs="teaa.en.letter.0069.022"/>
+<pb n="teaa.en.letter.0069.022"/>
 
 for San <sic>Franchisco</sic> at which port I
 shipped on board the American Ship "Flying
@@ -674,7 +663,7 @@ we arnt after these kind of Whales"
 
 <gap reason="possible missing page" extent="1 page?"/>
 
-<pb facs="teaa.en.letter.0069.023"/>
+<pb n="teaa.en.letter.0069.023"/>
 
 About 9 days out from St Helena, stood
 off and on, off Little Fish bay for three
@@ -696,7 +685,7 @@ dropped it again in about half an hour
 after sailing that time in a northerly
 <catchwords>direction</catchwords>
 
-<pb facs="teaa.en.letter.0069.024"/>
+<pb n="teaa.en.letter.0069.024"/>
 
 direction, which brought us off the North
 point of the bay. Lowered four boats and
@@ -718,7 +707,7 @@ to said bars, on doing which, grass ropes
 were removed. The four boats again
 <catchwords>returned</catchwords>
 
-<pb facs="teaa.en.letter.0069.025"/>
+<pb n="teaa.en.letter.0069.025"/>
 
 returned to the shore; I being as before
 in second Mates' boat; Reached the
@@ -740,7 +729,7 @@ Same day British Mail Steamer "Lincolnshire"
 arrived from Lisbon. About 12 oclock started
 <catchwords>for</catchwords>
 
-<pb facs="teaa.en.letter.0069.026"/>
+<pb n="teaa.en.letter.0069.026"/>
 
 for the town of Mossamedes; Little Fish
 bay, and there met on the beach Captain
@@ -754,7 +743,7 @@ then to go on board myself, which I
 did on same day. Do no remember
 whether it was same evening or next that
 the Steamer sailed for Loanda. During
-the disembarcation of said seventy five
+the <sic>disembarcation</sic> of said seventy five
 slaves, one of the Boatsteerers remarked
 that if procurable two hundred and fifty
 slaves would be shipped. Arrived at
@@ -762,14 +751,14 @@ Loanda September 24th. immediately after
 which I landed and presented myself 
 <catchwords>to</catchwords>
 
-<pb facs="teaa.en.letter.0069.027"/>
+<pb n="teaa.en.letter.0069.027"/>
 
 to the United States Commercial Agents
 who on hearing my statement, gave
 me protection, and during the interval
 from said date, till the 5th inst; was 
 from day to day <unclear/> examined
-by him regarding preceeding statement
+by him regarding <sic>preceeding</sic> statement
 and on one occasion was sent to the
 British Commissioner of the Slave
 Trade in this City for examination;
@@ -784,7 +773,7 @@ protection papers, last of which was
 procured at New London, State of Connecticut
 <catchwords>United</catchwords>
 
-<pb facs="teaa.en.letter.0069.028"/>
+<pb n="teaa.en.letter.0069.028"/>
 
 United States of America, five years ago.
 The British Commissioner who is also British
@@ -806,7 +795,7 @@ Portuguese authorities.</p>
 be an American Citizen and as such
 ask American protection.</p>
 
-<pb facs="teaa.en.letter.0069.029"/>
+<pb n="teaa.en.letter.0069.029"/>
 
 <p>I do hereby solemnly declare
 and state, that all the foregoing statements
@@ -837,10 +826,10 @@ Kirkman Finlay</p>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.030"/>
+<pb n="teaa.en.letter.0069.030"/>
 
-<opener><dateline>United States Commercial Agency<lb/>
-St Paul de Loanda Oct 10th 1865</dateline></opener>
+<p>United States Commercial Agency<lb/>
+St Paul de Loanda Oct 10th 1865</p>
 
 <p>Sworn before me this tenth day of 
 October, in the year of Our Lord, One thousand, 
@@ -852,20 +841,19 @@ this document over to him and he has
 certified to the same by his mark in
 this my presence.</p>
 
-<closer><signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed>
-</closer>
+<p>Augustus Archer Silva<lb/>
+Commercial Agent</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.031"/>
+<pb n="teaa.en.letter.0069.031"/>
 
-<opener><dateline>United States Commercial Agency<lb/>
-St Paul de Loanda Oct 10th 1865</dateline></opener>
+<p>United States Commercial Agency<lb/>
+St Paul de Loanda Oct 10th 1865</p>
 
-<salute>Sir;</salute>
+<p>Sir;</p>
 
 <p>I have the honor to acknowledge the 
 receipt of your despatch of the 9th inst, requesting of 
@@ -874,26 +862,24 @@ Baxter, a run-away seaman of the American
 Whaling Barque, "Governor Carver" at Mossamedes 
 to the effect said Barque did take in slaves, while 
 at anchor at Mossamedes, during the past 
-month &#38; for which reason said seaman 
+month &amp; for which reason said seaman 
 Edward Baxter gave as an excuse for deserting 
 said vessel.</p>
 
 <p>I have the honor to forward you 
 <catchwords>enclosed</catchwords>
 
-<fw type="address"><address>
-<addrLine><unclear/></addrLine>
-<addrLine><unclear>Anton de Mello Varajãs</unclear></addrLine>
-<addrLine>Colonial Secretary for the</addrLine>
-<addrLine>Province of Angola</addrLine>
-</address></fw>
+<fw type="address"><unclear/><lb/>
+<unclear>Anton de Mello Varajãs</unclear><lb/>
+Colonial Secretary for the
+Province of Angola</fw>
 
-<pb facs="teaa.en.letter.0069.032"/><!-- start here -->
+<pb n="teaa.en.letter.0069.032"/>
 
 enclosed, for the information of the Honorable 
 Conselho de Governo, a copy of two depositions,
 signed by him; One taken before 
-the British Consul &#38; the other before me 
+the British Consul &amp; the other before me 
 by which it will be seen that the honor of 
 Portugal as well as the United States is brought 
 into question.</p>
@@ -912,7 +898,7 @@ the notice of the United States Government <unclear>a</unclear>
 
 <gap reason="possible missing page" extent="1 page?"/>
 
-<pb facs="teaa.en.letter.0069.033"/>
+<pb n="teaa.en.letter.0069.033"/>
 
 his representation. I felt apprehension of his
 veracity &amp; therefore adopted a <unclear>mood</unclear> of indifference
@@ -936,7 +922,7 @@ subject on board of the British Brig "Elizabeth",
 that your action was unintentional, although I
 <catchwords>gave</catchwords>
 
-<pb facs="teaa.en.letter.0069.034"/>
+<pb n="teaa.en.letter.0069.034"/>
 
 gave you no cause whatever for you to suppose I
 had done with him. My mind was relieved of
@@ -961,19 +947,18 @@ request to thoroughly investigate this important
 
 <gap reason="possible missing page" extent="1 page?"/>
 
-<pb facs="teaa.en.letter.0069.035"/>
+<pb n="teaa.en.letter.0069.035"/>
 
 that the honor alike of Portugal &amp; the United
 States now involved, may be properly vindicated
 &amp; better qualify me to bring the case to the
 notice of my Government.</p>
 
-<closer><salute>I have the honor<lb/>
+<p>I have the honor<lb/>
 To be<lb/>
-Your Most Obedt Servant.</salute>
-(Signed) <signed>Augustus Archer Silva.</signed><lb/>
-Commercial Agent.
-</closer>
+Your Most Obedt Servant.<lb/>
+(Signed) Augustus Archer Silva.<lb/>
+Commercial Agent.</p>
 
 <note type="label">Enclosure<lb/>
 with Despatch No. 15.</note>
@@ -991,11 +976,11 @@ his Despatch of the
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.036"/>
+<pb n="teaa.en.letter.0069.036"/>
 
 <note>Translation</note>
 
-<salute>Sir;</salute>
+<p>Sir;</p>
 
 <p><sic>I</sic> accordance with your last despatch
 concerning the seaman Edward Baxter and in
@@ -1012,25 +997,22 @@ said despatch.</p>
 
 <p>Secretary General's office at Loanda October 12th 1865</p>
 
-<closer>
-<address>
-<addrLine>To The</addrLine>
-<addrLine>United States Commercial Agent</addrLine>
-</address>
-(Signed) <signed>Antonio de Mello Varajãs<lb/>
-Government Secretary General.</signed>
-</closer>
+<p>(Signed) Antonio de Mello Varajãs<lb/>
+Government Secretary General.</p>
+
+<fw type="address">To The<lb/>
+United States Commercial Agent</fw>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.037"/>
+<pb n="teaa.en.letter.0069.037"/>
 
-<opener><dateline>United States Commercial Agency<lb/>
-St Paul de Loanda October 12th 1865</dateline></opener>
+<p>United States Commercial Agency<lb/>
+St Paul de Loanda October 12th 1865</p>
 
-<salute>Sir,</salute>
+<p>Sir,</p>
 
 <p>Agreeable to the wish of the Hon "Conselho
 de Governo," I have the honor to send on board
@@ -1045,28 +1027,25 @@ clear up the mystery which now hangs over
 the character of said American Barque, and
 the authorities of that place.</p>
 
-<closer><salute>I have the Honor<lb/>
+<p>I have the Honor<lb/>
 To be<lb/>
-Your most obdt Servt</salute>
-(Signed) <signed>Augustus Archer Silva<lb/>
-Commercial Agent</signed>
+Your most obdt Servt<lb/>
+(Signed) Augustus Archer Silva<lb/>
+Commercial Agent</p>
 
-<address>
-<addrLine>Captain Joaqm de <unclear>Viegas de O.</unclear></addrLine>
-<addrLine>Commanding</addrLine>
-<addrLine>H. M. <unclear>T.</unclear> Ship</addrLine>
-<addrLine>"Infante D. João."</addrLine>
-</address>
-</closer>
+<fw type="address">Captain Joaqm de <unclear>Viegas de O.</unclear>
+Commanding<lb/>
+H. M. <unclear>T.</unclear> Ship<lb/>
+"Infante D. João."</fw>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.038"/>
+<pb n="teaa.en.letter.0069.038"/>
 
-<opener><dateline>British Consulate Loanda<lb/>
-14th October 1865.</dateline></opener>
+<p>British Consulate Loanda<lb/>
+14th October 1865.</p>
 
 <p>Sir;</p>
 
@@ -1087,24 +1066,22 @@ copy of the statement made in my presence by Baxter
 of the alleged shipment of slaves, and I take the
 <catchwords>opportunity</catchwords>
 
-<fw type="address"><address>
-<addrLine>A A Silva Esqre.</addrLine>
-<addrLine>United States Commercial Agent</addrLine>
-<addrLine>&amp;c. &amp;c. &amp;c.</addrLine>
-</address></fw>
+<fw type="address">A A Silva Esqre.<lb/>
+United States Commercial Agent<lb/>
+&amp;c. &amp;c. &amp;c.</fw>
 
-<pb facs="teaa.en.letter.0069.039"/>
+<pb n="teaa.en.letter.0069.039"/>
 
 opportunity of observing that it is entirely false that
 any conversation of the nature mentioned took place
 between us, declared by him in his depositions.</p>
 
-<closer><salute>I have the honor to be<lb/>
+<p>I have the honor to be<lb/>
 Sir,<lb/>
 Your most obedient<lb/>
-humble Servant.</salute>
-(Signed) <signed>W. Vredenburg.</signed><lb/>
-Consul.</closer>
+humble Servant.<lb/>
+(Signed) W. Vredenburg.<lb/>
+Consul.</p>
 
 <note type="label">
 <p>Enclosure<lb/>
@@ -1123,9 +1100,9 @@ October 14th 1865.</p>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.040"/>
+<pb n="teaa.en.letter.0069.040"/>
 
-<salute>Sir;</salute>
+<p>Sir;</p>
 
 <p>Having returned from Mossamedes where I 
 <unclear/> the United States Citizen Edward Baxter for the 
@@ -1147,10 +1124,10 @@ own evidence the falsity of several points set forth in
 his statement. The fact that becomes evident is 
 <catchwords>that</catchwords>
 
-<fw type="address"><address><addrLine>United States Commercial Agent.</addrLine>
-<addrLine>St Paul de Loanda</addrLine></address></fw>
+<fw type="address">United States Commercial Agent.<lb/>
+St Paul de Loanda</fw>
 
-<pb facs="teaa.en.letter.0069.041"/>
+<pb n="teaa.en.letter.0069.041"/>
 
 that whether from not agreeing with the Captain
 of the Barque "Governor Carver" or because he may 
@@ -1173,7 +1150,7 @@ the authorities, but also several individuals some of
 which have been detained and are now awaiting 
 <catchwords>their</catchwords>
 
-<pb facs="teaa.en.letter.0069.042"/>
+<pb n="teaa.en.letter.0069.042"/>
 
 their trial, that has to be instituted for having 
 been pointed out by him as having assisted the 
@@ -1185,14 +1162,14 @@ related.</p>
 <p>Sloop Infante D. João, at anchor in the
 Port of Loanda 30th October 1865.</p>
 
-<closer>(Signed) <signed>Joaquim Viagas de O.<lb/>
-Commander</signed></closer>
+<p>(Signed) Joaquim Viagas de O.<lb/>
+Commander</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.043"/>
+<pb n="teaa.en.letter.0069.043"/>
 
 <p>Translation</p>
 
@@ -1217,13 +1194,11 @@ is already in Jail.</p>
 
 <p><catchwords>The</catchwords>
 
-<fw type="address"><address>
-<addrLine>To The</addrLine>
-<addrLine>Commercial Agent of the United States</addrLine>
-<addrLine>of America.</addrLine>
-</address></fw>
+<fw type="address">To The<lb/>
+Commercial Agent of the United States<lb/>
+of America.</fw>
 
-<pb facs="teaa.en.letter.0069.044"/>
+<pb n="teaa.en.letter.0069.044"/>
 
 The Council of Government has to thank you 
 for your services in producing said seaman, thus 
@@ -1241,19 +1216,19 @@ conveyed to her, so as to identify the seaman</p>
 
 <p>Palace of the Government, at Loanda. Novr 1st 1865.</p>
 
-<closer>(Signed) <signed>Luis José Mendes Affonso</signed><lb/>
-President of Council of Government.</closer>
+<p>(Signed) Luis José Mendes Affonso<lb/>
+President of Council of Government.</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.045"/>
+<pb n="teaa.en.letter.0069.045"/>
 
-<opener><dateline>United States Commercial Agency.<lb/>
-St Paul de Loanda Nov 5 1865.</dateline></opener>
+<p>United States Commercial Agency.<lb/>
+St Paul de Loanda Nov 5 1865.</p>
 
-<salute>Sir,</salute>
+<p>Sir,</p>
 
 <p>I have the honor to acknowledge the receipt of your despatch
 of yesterday's date, wherein I am informed that 
@@ -1270,13 +1245,11 @@ request of you, the kindness to furnish me at your
 earliest convenience with copies of all the depositions 
 <catchwords>taken</catchwords>
 
-<fw type="catch"><address>
-<addrLine>His Excellency</addrLine>
-<addrLine>The President of the</addrLine>
-<addrLine>Conselho de Governo.</addrLine>
-</address></fw>
+<fw type="address">His Excellency<lb/>
+The President of the<lb/>
+Conselho de Governo.</fw>
 
-<pb facs="teaa.en.letter.0069.046"/>
+<pb n="teaa.en.letter.0069.046"/>
 
 taken at Mossamedes by the Authorities of that place, 
 that I may be enabled not only to express to you my views
@@ -1292,19 +1265,19 @@ case, on the part of the United States Government, in
 which light I have the honor to request the depositions 
 herein named.</p>
 
-<closer><salute>I have the honor<lb/>
+<p>I have the honor<lb/>
 To be,<lb/>
-Your most Obedt Servant</salute>
-(Signed) <signed>Augustus Archer Silva</signed><lb/>
-Commercial Agent.</closer>
+Your most Obedt Servant<lb/>
+(Signed) Augustus Archer Silva<lb/>
+Commercial Agent.</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.047"/>
+<pb n="teaa.en.letter.0069.047"/>
 
-<salute>Sir;</salute>
+<p>Sir;</p>
 
 <p>I have the honor to acknowledge the receipt 
 of your despatch of the 3d inst, in which you request 
@@ -1325,12 +1298,10 @@ Commercial Treaty between the United States of
 America and Portugal. That in the mean time 
 <catchwords>said</catchwords>
 
-<fw type="address"><address>
-<addrLine>United States Commercial Agent.</addrLine>
-<addrLine>St Paul de Loanda.</addrLine>
-</address></fw>
+<fw type="address">United States Commercial Agent.<lb/>
+St Paul de Loanda.</fw>
 
-<pb facs="teaa.en.letter.0069.048"/>
+<pb n="teaa.en.letter.0069.048"/>
 
 said seaman has withdrawn his former statements, as
 false, and in public audience, as is shown from
@@ -1352,14 +1323,14 @@ as copies can be taken by the Court.</p>
 <p>Palace of the Government at Loanda<lb/>
 November 9th 1865</p>
 
-<closer>(Signed) <signed>Luis José Mendes Affonso</signed><lb/>
-President of the Council of Government</closer>
+<p>(Signed) Luis José Mendes Affonso<lb/>
+President of the Council of Government</p>
 
 </div1>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.049"/>
+<pb n="teaa.en.letter.0069.049"/>
 
 <p>Translation</p>
 
@@ -1384,7 +1355,7 @@ Edward Baxter for the purpose of being re-examined.
 This was performed in the following manner.
 <catchwords>In</catchwords>
 
-<pb facs="teaa.en.letter.0069.050"/>
+<pb n="teaa.en.letter.0069.050"/>
 
 In the presence of the witnesses Luis Pedro Ferreira
 and José Antonio de Santos, Public Officers of 
@@ -1406,7 +1377,7 @@ was Edward Baxter, Native of Liverpool, age
 25 years, a son of John and Mary Baxter, 
 <catchwords>married,</catchwords>
 
-<pb facs="teaa.en.letter.0069.051"/>
+<pb n="teaa.en.letter.0069.051"/>
 
 married, a seaman, and that he enjoys the 
 liberty of his profession, that his last residence 
@@ -1428,7 +1399,7 @@ for what purpose he had made such a statement.
 He replied, that having deserted the said Barque, 
 <catchwords>and</catchwords>
 
-<pb facs="teaa.en.letter.0069.052"/>
+<pb n="teaa.en.letter.0069.052"/>
 
 and fearing future punishment, he had invented 
 that means, not only to avoid it but also in the 
@@ -1452,7 +1423,7 @@ interrogation, of which I have caused a true
 and faithful certified copy to be taken from 
 <catchwords>the</catchwords>
 
-<pb facs="teaa.en.letter.0069.053"/>
+<pb n="teaa.en.letter.0069.053"/>
 
 the original documents, in my possession, which 
 has been compared and signed by me and filed 
@@ -1471,12 +1442,12 @@ Government Secretary</p>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.054"/>
+<pb n="teaa.en.letter.0069.054"/>
 
-<opener><dateline>United States Commercial Agency.<lb/>
-St Paul de Loanda Novr 20 1865.</dateline></opener>
+<p>United States Commercial Agency.<lb/>
+St Paul de Loanda Novr 20 1865.</p>
 
-<salute>Sir;</salute>
+<p>Sir;</p>
 
 <p>I have the honor to request of you the kindness 
 to deliver the enclosed letter to Captain Charles Mason 
@@ -1494,14 +1465,12 @@ more than was generally anticipated.</p>
 
 <p><catchwords>It</catchwords>
 
-<fw type="address"><address>
-<addrLine>To The</addrLine>
-<addrLine>Illustrious Senhor</addrLine>
-<addrLine>Fernando da Costa Leal</addrLine>
-<addrLine>Governor General of Mossamedes</addrLine>
-</address></fw>
+<fw type="address">To The<lb/>
+Illustrious Senhor<lb/>
+Fernando da Costa Leal<lb/>
+Governor General of Mossamedes</fw>
 
-<pb facs="teaa.en.letter.0069.055"/>
+<pb n="teaa.en.letter.0069.055"/>
 
 It must have been extremely unpleasant to the 
 inhabitants of Mossamedes and particularly to 
@@ -1524,7 +1493,7 @@ the final results to force from Edward Baxter
 his voluntary confession; I am not unmindful
 <catchwords>that</catchwords>
 
-<pb facs="teaa.en.letter.0069.056"/>
+<pb n="teaa.en.letter.0069.056"/>
 
 that a portion of this credit belongs to you and you will 
 please accept the acknowledgement of my warmest 
@@ -1536,23 +1505,23 @@ will appreciate the able manner in which the
 authorities of this province defended the innocence of 
 the American Barque "Governor Carver".</p>
 
-<closer><salute>I have the Honor<lb/>
+<p>I have the Honor<lb/>
 To be<lb/>
-Your most obedt Servant.</salute>
-(Sg) <signed>Augustus Archer Silva</signed><lb/>
-Commercial Agent</closer>
+Your most obedt Servant.<lb/>
+(Sg) Augustus Archer Silva<lb/>
+Commercial Agent</p>
 
 </div1>
 
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0069.057"/>
+<pb n="teaa.en.letter.0069.057"/>
 
-<opener><dateline>United States Commercial Agency<lb/> 
-St Paul de Loanda Novr 20th 1865.</dateline></opener>
+<p>United States Commercial Agency<lb/> 
+St Paul de Loanda Novr 20th 1865.</p>
 
-<salute>Sir;</salute>
+<p>Sir;</p>
 
 <p>On the 24th of September, Edward Baxter, styling 
 himself an American Seaman, presented himself to this 
@@ -1570,13 +1539,11 @@ also, and at my request was sent to Little Fish Bay
 on board of the Portuguese Corvette "Infante D. João,"
 <catchwords>which</catchwords>
 
-<fw type="address"><address>
-<addrLine>Captain Charles Mason</addrLine>
-<addrLine>of the</addrLine>
-<addrLine>American Barque "Governor Carver"</addrLine> 
-</address></fw>
+<fw type="address">Captain Charles Mason<lb/>
+of the<lb/>
+American Barque "Governor Carver" </fw>
 
-<pb facs="teaa.en.letter.0069.058"/>
+<pb n="teaa.en.letter.0069.058"/>
 
 which vessel left here October 12th and returned on the 
 30th of the same month, on which day, I received a 
@@ -1598,7 +1565,7 @@ is still in Prison, waiting his trial. The acting
 Governor General told me, a few days ago, that 
 <catchwords>the</catchwords>
 
-<pb facs="teaa.en.letter.0069.059"/>
+<pb n="teaa.en.letter.0069.059"/>
 
 the penalty of his crime, by the criminal laws of 
 Portugal was very light and that he would only be 
@@ -1612,11 +1579,11 @@ much good. I have been requested by the Governor
 General of this Province to invite you to 
 visit this Port.</p>
 
-<closer><salute>I have the honor<lb/>
+<p>I have the honor<lb/>
 To be<lb/>
-Your most obedt Servt.</salute>
-(Sg) <signed>Augustus Archer Silva</signed><lb/>
-Commercial Agent.</closer>
+Your most obedt Servt.<lb/>
+(Sg) Augustus Archer Silva<lb/>
+Commercial Agent.</p>
 
 </div1>
 

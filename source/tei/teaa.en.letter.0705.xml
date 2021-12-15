@@ -42,9 +42,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Rainilaiarivony to Chester A. Arthur, August 20, 1885</title>
+<title level="a">Despatch from Rainilaiarivony to Chester A. Arthur</title>
 <title level="m" type="microformat">Notes From the Madagascan Legation in the United States to the Department of State, 1883-1894</title>
-<publisher>National Archives and Records Service General Services Administration</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T806</biblScope>
 <date when="1885-08-20">August 20, 1885</date>
 </bibl>
@@ -63,11 +63,11 @@
 </keywords>
     
 <keywords scheme="original" n="type">
-<term>Document</term>
+<term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term/>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
@@ -78,7 +78,7 @@
 <term>Tamatave (Madagascar)</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>France</term>
 <term>Italy</term>
 </keywords>
@@ -95,21 +95,22 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Rainilaiarivony</persName>
-<roleName>Prime Minister</roleName>
-<placeName>Antananarivo, Madagascar</placeName>
+<persName ref="http://viaf.org/viaf/37788378">Rainilaiarivony, 1828-1896</persName>
+<roleName>Prime Minister of Madagascar</roleName>
+<placeName>Antananarivo (Madagascar)</placeName>
 <date when="1885-08-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/35249995">Arthur, Chester Alan, 1829-1886</persName>
 <roleName>President of the United States</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-12" who="#kln">metadata edits</change>
 <change when="2020-05-20" who="#kln">reviewed, encoded</change>
 <change when="2020-03-04" who="#unm">transcribed</change>
 </revisionDesc>
@@ -121,7 +122,7 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="20170614_160059"/>
+<pb n="20170614_160059"/>
 
 <p>Translation No. 8</p>
 
@@ -157,7 +158,7 @@ Foreign Affairs<lb/>
 &amp;c &amp;c &amp;c<lb/>
 Washington</fw>
     
-<pb facs="20170614_160106"/>
+<pb n="20170614_160106"/>
 
 solution in the present difficulty.</p>
 

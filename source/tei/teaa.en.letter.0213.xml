@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from William McCall Davis to James G. Blaine, November 20, 1890</title>
+<title>Despatch from William McCall Davis to James G. Blaine, November 20, 1890</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from William McCall Davis to James G. Blaine</title>
+<title level="a">Despatch from William McCall Davis to James G. Blaine</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -62,7 +62,6 @@
 <textClass>
 <keywords scheme="original" n="theme">
 <term>Emigration</term>
-<term>Encounters with Africans</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
@@ -86,10 +85,10 @@
 <term>Dahomey</term>
 <term>Monrovia (Liberia)</term>
 <term>Musardu</term>
-<term>San Predro River</term>
+<term>San Pedro River</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>France</term>
 <term>United States</term>
 </keywords>
@@ -102,23 +101,19 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Davis, William McCall</persName>
 <roleName>Liberian Commissioner</roleName>
-<placeName>Philadelphia, Pennsylvania</placeName>
+<placeName>Philadelphia (Pennsylvania)</placeName>
 <date when="1890-11-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/15566890">Blaine, James Gillespie, 1830-1893</persName>
 <roleName>U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1891-01-09"/>
 </correspAction>
 </correspDesc>
@@ -126,6 +121,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2020-02-06" who="#kln">reviewed, encoded</change>
 <change when="2019-09" who="#lkw"> encoded</change>
 <change when="2019-09" who="#unm"> transcribed</change>
@@ -138,7 +134,7 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="20170616_150110"/>
+<pb n="20170616_150110"/>
 
 <note>Liberia, Notes.</note>
 
@@ -178,7 +174,7 @@ Com- <catchwords>mander</catchwords>
 Secretary of State<lb/>
 Washington D.C.</fw>
 
-<pb facs="20170616_150118"/>
+<pb n="20170616_150118"/>
 
 mander called upon the President. During the conversation
 the Commander said that he had stopped 
@@ -212,7 +208,7 @@ no protectorate over Liberia; but the circumstances, that
 the Republic originated through the Colonization of 
 American citizens and was established under the <unclear>foster</unclear>
 
-<pb facs="20170616_150126"/>
+<pb n="20170616_150126"/>
 
 ing sanction of this Government give us the right as 
 the next friend of Liberia to aid her in preventing any 
@@ -244,7 +240,7 @@ from us is represented in his map of French Territory.</p>
 movement towards taking possession of our territory 
 yet, Mr. Secretary under the circumstances we feel <catchwords>warranted</catchwords>
 
-<pb facs="20170616_150135"/>
+<pb n="20170616_150135"/>
 
 warranted in appealing to your Government as "<unclear>Liberia's</unclear>
 next Friend" and asking you to make such a demonstration 
@@ -270,11 +266,11 @@ and that you will advise his recommending it to the Congress
 and trusting that you will pardon my trespassing on 
 your valuable time.</p>
 
-<closer><salute>I have the honor to be<lb/>
+<p>I have the honor to be<lb/>
 Sir,<lb/>
-Your humble Servant</salute>
-<signed>W. M. Davis<lb/>
-Liberian Commissioner</signed></closer>
+Your humble Servant<lb/>
+W. M. Davis<lb/>
+Liberian Commissioner</p>
    
 </div1>
 

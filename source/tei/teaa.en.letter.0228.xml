@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0228">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Bailey &amp; Alexander to Thomas B. Florence, January 31, 1859</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0228</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Bailey &amp; Alexander to Thomas B. Florence</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1859-01-31">January 31, 1859</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Commerce and Trade</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/23947754">Mayo, Isaac, 1791-1861</term>
+<term>Taylor, John Etting</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Sierra Leone</term>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term>United States</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Bailey, E. Headley</persName>
+<persName>Alexander, M. S.</persName>
+<roleName/>
+<placeName>Philadelphia (Pennsylvania)</placeName>
+<date when="1859-01-31"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/46612863">Florence, Thomas B. (Thomas Birch), 1812-1875</persName>
+<roleName>U.S. House of Representatives</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-02" who="#kln">Edits and review</change>
+<change when="2019-10" who="#lkw">Encoding</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="18"/>
+
+<p>Philadelphia 31st January 1859</p>
+
+<p>To Honl Thomas B. Florence<lb/>
+<unclear>H. R.</unclear></p>
+
+<p>Dear Sir,</p>
+
+<p>We have <unclear>instructed</unclear> to <unclear>our</unclear> 
+several copies of Certificates, also an Original petition from Ship
+<unclear>masters</unclear> for the appointment of John E. Taylor as consul at Sierra
+<unclear>Leone</unclear> on the Coast of Africa, Mr Taylor was appointed by Commodore
+Mayo commander of the United States Squadron in the year 
+<unclear extent="one word" reason="incomplete image"/> as you will perceive by enclosed Copies of Certificates to you, 
+<unclear extent="one word" reason="incomplete image"/> object in writing is to have the appointment of John E. Taylor 
+by Commodore Mayo, confirmed by the President of the United States
+and by the Senate if <sic>neccessary</sic> or in any manner that is legal 
+and right to have the said appointment confirmed, your attention 
+<unclear>to</unclear> this will place us under another obligation to you were we
+already owe you so much, Please let <unclear>us</unclear> hear from you at your
+earliest convenience, we know how much your valuable time is 
+taken up but still take the liberty of addressing you on this 
+subject.</p>
+
+<p>Very Respectfully,<lb/>
+yrs<lb/>
+Bailey &amp; Alexander<lb/>
+No 402 Library Street</p>
+
+<p><unclear>Papers</unclear> enclosed we 
+requested to take great 
+<unclear extent="one word" reason="incomplete image"/>as there are no Copies</p>
+
+<pb n="19"/>
+
+<ab>Bailey &amp; Alexr<lb/>
+Jany 31/59</ab>
+
+<ab>Respectfully <unclear>refer</unclear>
+to the consideration
+of the Secretary
+of <del>the</del> State,
+by
+Thomas B. Florence<lb/>
+H of R</ab>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

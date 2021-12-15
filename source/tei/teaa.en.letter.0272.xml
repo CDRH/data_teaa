@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from Augustus E. B. Govea to George L. Rives, November 1, 1888</title>
+<title>Despatch from Augustus E. B. Govea to George L. Rives, November 1, 1888</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -42,10 +42,10 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from Augustus E. B. Govea to George L. Rives</title>
+<title level="a">Despatch from Augustus E. B. Govea to George L. Rives</title>
 <date when="1888-11-01">November 1, 1888</date>
 <title level="m" type="microformat">Despatches from United States Consuls in Zanzibar, Br. Africa, 1836-1906</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="date">July 1, 1886-November 15, 1895</biblScope>
 <biblScope unit="film">M468</biblScope>
 <biblScope unit="roll">4</biblScope>
@@ -69,20 +69,20 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>bin Salim, Saidi Abdallah</term>
-<term>Wilson, B. F.</term>
+<term>Saidi Abdallah bin Salim</term>
+<term>Wilson, Benjamin F.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Johanna Island</term>
-<term>Mayotte</term>
+<term>Johanna (French Comoros)</term>
+<term>Mayotte (French Comoros)</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term/>
 </keywords>
 
@@ -91,10 +91,6 @@
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
-</keywords>
-
-<keywords scheme="original" n="language">
 <term/>
 </keywords>
 
@@ -117,6 +113,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-10-02" who="#kln">separating despatches, additional encoding</change>
 <change when="2017" who="pr">Transcription and initial encoding</change>
 </revisionDesc>
@@ -128,7 +125,7 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="140400"/>
+<pb n="140400"/>
 
 <note>No 57</note>
 
@@ -160,7 +157,11 @@ Vice Consul of the U.S. actg Consul</p>
 
 <p>Copy of Dr Wilson's letter</p>
 
-<pb facs="140412"/>
+</div1>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="140412"/>
 
 <note>Copy</note>
 
@@ -195,7 +196,7 @@ or the Sultan after that unless they are
 obliged by pressure to pay my indemnity.
 <catchwords>The</catchwords>
 
-<pb facs="140419"/>
+<pb n="140419"/>
 
 The Sultan is now trying another
 <sic>schem</sic> to deprive me of free labour

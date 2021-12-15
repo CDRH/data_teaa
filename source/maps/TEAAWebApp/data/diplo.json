@@ -1,0 +1,678 @@
+﻿var diplo = {
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          38.765580999999997,
+          8.9604870000000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "Name" : "Addis Ababa, Ethiopia (Abyssinia)",
+        "Status" : "Legation",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Minister Resident/Consul General (MR/CG); MR/CG Hoffman Philip (July 6, 1909-Feb. 8, 1910)",
+        "Start" : 1909,
+        "End" : 1919,
+        "History" : "When Philip served, he was commissioned to Abyssinia. The post was later changed to Ethiopia. According to the Department of State, \"Diplomatic relations between the United States and Ethiopia were established on December 27, 1903, when King of Ethiopia Menelik II and U.S. representative Robert P. Skinner signed a treaty of commerce in which the two states agreed to receive representatives “in order to perpetuate and strengthen the friendly relations which exist between Ethiopia and the United States of America.” https://et.usembassy.gov/our-relationship/policy-history/",
+        "Link" : "",
+        "Lat" : 8.9604870000000005,
+        "Long" : 38.765580999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          29.893429000000001,
+          31.16433
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "Name" : "Alexandria, Egypt",
+        "Status" : "Consulate General",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1862,
+        "End" : 1873,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 31.16433,
+        "Long" : 29.893429000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2.8276500000000002,
+          36.825330000000001
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "Name" : "Algiers, Algeria",
+        "Status" : "Consulate General",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Consul-Charles T. Grellet (November 17, 1886); Daniel S. Kidder (November 18, 1899); James Johnston (Feb. 2, 1905)",
+        "Start" : 1862,
+        "End" : 1906,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 36.825330000000001,
+        "Long" : 2.8276500000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -16.668465999999999,
+          13.51295
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "Name" : "Bathurst, Gambia, British Africa",
+        "Status" : "",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1862,
+        "End" : 1889,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 13.51295,
+        "Long" : -16.668465999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          13.166876,
+          -5.7667000000000002
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "Name" : "Boma, Congo",
+        "Status" : "Commercial Agency",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Commercial Agent-R. Dorsey Mohun(Mar. 12, 1891) Vice Commercial Agent-Louis W. Mohun (Feb. 1, 1892)",
+        "Start" : 1888,
+        "End" : 1895,
+        "History" : "",
+        "Link" : "",
+        "Lat" : -5.7667000000000002,
+        "Long" : 13.166876
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          31.301682,
+          30.14715
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "Name" : "Cairo, Egypt",
+        "Status" : "Consulate General ",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Agent/Consul General (Agt/CG) Charles Hale (Oct. 15, 1864-May 23, 1870); Agt/CG George H. Butler (June 2, 1870-July 16, 1872); Agt/CG Richard Beardsley (Sept. 24, 1872-Jan. 23, 1876); Agt/CG Elbert E. Farman (July 17, 1876-May 17, 1881); Agt/CG Simon Wolf (Oct. 22, 1881-Mar. 27, 1882); Agt/CG George P. Pomeroy (Dec. 16, 1882-July 20, 1884); Agt/CG John Cardwell (Apr. 18, 1886-Oct. 7, 1889); Agt/CG Eugene Schuyler ( Nov. 23, 1889-July 2, 1890); Agt/CG John A. Anderson (July 13, 1891-Apr. 21, 1892); Agt/CG Edward C. Little (Apr. 22, 1893-Aug. 22, 1893); Agt/CG Frederic C. Penfield (Dce. 11, 1893-June 17, 1897); Agt/CG Thomas S. Harrison (Dec. 23, 1897- Mar. 22, 1899); Agt/CG John G. Long (Apr 2, 1900-July 15, 1903); Agt/CG John W. Riddle (Mar. 28, 1904-June 9, 1905); Agt/CG Lewis M. Iddings (Dec. 23, 1905-Apr. 14, 1910); Agt/CG Peter Augustus Jay (Nov. 28, 1910-Oct. 8, 1913); Agt/CG Olney Arnold (Mar. 23, 1914-Jan. 8, 1916); Agt/CG Hampson Gary (Feb. 7, 1918-Dec. 7, 1919)",
+        "Start" : 1864,
+        "End" : 1919,
+        "History" : "The US established the Consulate General in 1848, with Daniel Smith McCauley serving as the first Agent/Consul General. He died at his post in 1852. The consulate remained staffed until 1861 when Agt/CG Edward De Leon relinquished his charge on March 4, 1861 (most likely due to the American Civil War). The consulate did not open again until 1864.  https://eg.usembassy.gov/our-relationship/policy-history/ ",
+        "Link" : "",
+        "Lat" : 30.14715,
+        "Long" : 31.301682
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          18.652464999999999,
+          -33.887500000000003
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "Name" : "Cape Town, Cape Colony",
+        "Status" : "",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1862,
+        "End" : 1906,
+        "History" : "",
+        "Link" : "",
+        "Lat" : -33.887500000000003,
+        "Long" : 18.652464999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.7228349999999999,
+          33.594911000000003
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "Name" : "Casablanca, Morocco",
+        "Status" : "Consulate General",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Consul-General Samuel Rene Gummere (May 4, 1898); Hoffman Philip (Jan. 11, 1906)/Conrad Heinrich. Toel (June 27, 1900; June 24, 1904), Vice Consul-James W.S. Langerman (Nov. 2, 1901) Hoffman Philip (Nov. 18, 1902), Acting Consul ",
+        "Start" : 1878,
+        "End" : 1919,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 33.594911000000003,
+        "Long" : -7.7228349999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -13.244465,
+          8.5665080000000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "Name" : "Freetown, Sierra Leone, British Africa",
+        "Status" : "Consulate General",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Consul-William Hogan (June 10, 1872); Judson A. Lewis (May 26, 1879); Bolding Bowser (July 12, 1890); John T. WIlliams (Feb. 25, 1898); William J. Yerby (June 28, 1906), Vice Consul-James Frame (Apr. 20, 1876); M.W. Tobey (December 6, 1879); Alexander R. Yates (Feb. 7, 1882); Julien M. Burnett (July 11, 1885, November 17, 1887); Elliot F. Smart (September 7, 1897); James A.L. Trice (Sep. 30, 1898); John R. King (June 20, 1906), Acting Consul; Consul-William H. Randall (July 17, 1874);",
+        "Start" : 1862,
+        "End" : 1906,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 8.5665080000000007,
+        "Long" : -13.244465
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          9.4518959999999996,
+          0.39522000000000002
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "Name" : "Gaboon",
+        "Status" : "Commercial Agency",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Commercial Agent-Aug. Perrot (April 23, 1866) Commercial Agent-Albert Bushnell (Mar. 14, 1871) Vice Commercial Agent-William Walker (Oct. 28, 1868) Vice Commercial Agent-W.G. Taylor (Jan. 13, 1874) Vice Commercial Agent-John H. Reading (June 7, 1875) Commercial Agent- G.C. Campbell (May 25, 1881) Vice-Commercial Agent-S.H. Murphy (Feb. 7, 1878) Vice-Commercial Agent-A.C. Good (July 10, 1883) Acting Commercial Agent-William C. Gault",
+        "Start" : 1862,
+        "End" : 1888,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 0.39522000000000002,
+        "Long" : 9.4518959999999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -17.433795,
+          14.746420000000001
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "Name" : "Gorée-Dakar, Senegal, French Africa",
+        "Status" : "",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1883,
+        "End" : 1906,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 14.746420000000001,
+        "Long" : -17.433795
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -10.067280999999999,
+          5.9133490000000002
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "Name" : "Granda Bassa, Liberia",
+        "Status" : "Consulate General",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Consul-John H. Smyth (Apr. 12, 1882)/John W. Worrell (Agent. July 14, 1881)",
+        "Start" : 1868,
+        "End" : 1882,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 5.9133490000000002,
+        "Long" : -10.067280999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          55.449207999999999,
+          -4.6441299999999996
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "Name" : "Mahé, Seychelles Islands, Indian Ocean",
+        "Status" : "",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1868,
+        "End" : 1888,
+        "History" : "",
+        "Link" : "",
+        "Lat" : -4.6441299999999996,
+        "Long" : 55.449207999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -10.763683,
+          6.3670749999999998
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "Name" : "Monrovia, Liberia",
+        "Status" : "",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1862,
+        "End" : 1898,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 6.3670749999999998,
+        "Long" : -10.763683
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -10.763683,
+          6.3670749999999998
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "Name" : "Monrovia, Liberia",
+        "Status" : "Legation",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Minister Resident/Consul-Abraham Hanson (Feb. 23, 1864-July1-2, 1866); MR/CG-John Seys (Jan. 2, 1867- June 11, 1870); MR/CG-J. Milton Turner (Jul. 19, 1871-May 7, 1878); MR-CG-John H. Smith (Aug. 19.1871-Dec. 22, 1881) MR/CG-Henry Highland Garnet (Dec. 22, 1881- Feb. 13, 1881?) MR/CG-John H. Smyth (Aug. 4, 1882-Dec. 14, 1885) MR/CG- Moses A. Hopkins (Dec. 14, 1885-Aug. 3, 1886) MR/CG-C.H.J. Taylor (June 4, 1887-Sept. 22, 1887) MR/CG-Ezekiel E. Smith (July 21, 1888-May 20, 1890); MR/CG-Alexander Clark (Nov. 25, 1890-MY 10, 1891); MR/CG-William D. McCoy (Mar. 28, 1892-May 15, 1893); MR/CG-William H. Heard (May 6, 1895-Apr. 28, 1898); MR/CG-Owen L.W. Smith (May 11, 1898-May 13, 1902); MR/CG-John R.A. Crossland (July 27, 1903-Jan. 30, 1903); MR/CG-Ernest Lyon (July 27, 1903-Aug. 25, 1910)",
+        "Start" : 1863,
+        "End" : 1906,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 6.3670749999999998,
+        "Long" : -10.763683
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          32.329645999999997,
+          31.265969999999999
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "Name" : "Port Said, Egypt",
+        "Status" : "",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1870,
+        "End" : 1876,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 31.265969999999999,
+        "Long" : 32.329645999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          28.074090000000002,
+          -25.740300000000001
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "Name" : "Pretoria, The Transvaal",
+        "Status" : "",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1898,
+        "End" : 1906,
+        "History" : "",
+        "Link" : "",
+        "Lat" : -25.740300000000001,
+        "Long" : 28.074090000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          55.526156999999998,
+          -20.944500000000001
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "Name" : "St. Denis, Réunion Island, Mascarene Islands",
+        "Status" : "",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1880,
+        "End" : 1892,
+        "History" : "",
+        "Link" : "",
+        "Lat" : -20.944500000000001,
+        "Long" : 55.526156999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -5.6997450000000001,
+          -15.948862999999999
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "Name" : "St. Helena, British West Africa",
+        "Status" : "",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1862,
+        "End" : 1906,
+        "History" : "",
+        "Link" : "",
+        "Lat" : -15.948862999999999,
+        "Long" : -5.6997450000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          13.342389000000001,
+          -8.9060799999999993
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "Name" : "St. Paul de Loanda, Portuguese Africa",
+        "Status" : "Commercial Agency",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Commercial Agent-Augustus Archer Silva (May 14, 1864), Acting Commercial Agent, Vice-Commercial Agent-F.A. Silva; Simon Stodder; Commercial Agent-Heli Chatelaine (March 2, 1891) Vice-Commercial Agent-Lancaster C. Burling (January 14, 1892); Vice-Commercial Agent-Robert S. Newton (October 17, 1868); Commercial Agent-Joseph E. Jackson (August 7, 1877)",
+        "Start" : 1862,
+        "End" : 1893,
+        "History" : "",
+        "Link" : "",
+        "Lat" : -8.9060799999999993,
+        "Long" : 13.342389000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          49.326943,
+          -18.138097999999999
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "Name" : "Tamatave, Madagascar",
+        "Status" : "Commercial Agency",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Commercial Agent-J.P. Finkelmeier (Feb. 13, 1866) Vice-Commercial Agent-C. Finkelmeier (July 14, 1871)",
+        "Start" : 1866,
+        "End" : 1874,
+        "History" : "",
+        "Link" : "",
+        "Lat" : -18.138097999999999,
+        "Long" : 49.326943
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          49.326943,
+          -18.138097999999999
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "Name" : "Tamatave, Madagascar",
+        "Status" : "Consulate General",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Consul-General-Wm. W. Robinson (Mar. 16, 1875); John P. Campbell (Oct. 20, 1886); John Walker (Feb. 12, 1891); Mifflin W. Gibbs (Oct. 28, 1897); William H. Hunt (Aug. 23, 1901); James G. Carter (Nov. 1, 1906) Vice-Consul General-Chas. Finkelmeier (Ja. 7, 1875); J. Orse Ryder (Jan. 15, 1876); Richard M. Whitney (Jul. 7, 1880); Richard W. Geldart(Feb . 5, 1893); Joseph de Lanète-David de Floris (Jan. 17, 1903); Oscar d'E de Charmoy (Jul. 13, 1905), Gustave Streuli (Apr. 3, 1912)",
+        "Start" : 1874,
+        "End" : 1916,
+        "History" : "",
+        "Link" : "",
+        "Lat" : -18.138097999999999,
+        "Long" : 49.326943
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          47.523021999999997,
+          -18.850587000000001
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "Name" : "Tananarivo, Madagascar",
+        "Status" : "Consulate General",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Consul or Consul General-James G. Carter (July 8, 1916) Vice-Consul-Gustave Streuli (Aug. 15, 1916); Edgar A. Feibelman (Sept. 17, 1917)",
+        "Start" : 1916,
+        "End" : 1919,
+        "History" : "",
+        "Link" : "",
+        "Lat" : -18.850587000000001,
+        "Long" : 47.523021999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -5.9147590000000001,
+          35.756872000000001
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "Name" : "Tangier, Morocco",
+        "Status" : "Consulate General",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Consul-General James DeLong (September 1861-March 1862); Consul-Jesse H. McMath (Mar. 26, 1862); Consul-John T. Robeson ( November 12, 1869) Consul-Felix A. Mathews (July 9, 1870) Consul-William Reed Lewis (Feb. 12, 1887) Vice-Consul-Edward K. Foote (Mar. 20, 1887) Vice-Consul-Robert Stalker (Aug. 24, 1888)",
+        "Start" : 1862,
+        "End" : 1905,
+        "History" : "The first offical US presence in Tangier dates back to 1791. However, the government did not establish a consulate there until 1797. This was part of the so-called Barbary Consuls. James Simpson, former Consul at Gilbraltar, was appointed the first Consul at Tangier, moving to the city in 1796. The post was later upgraded to a legation in 1905. When the United States officially recognized Morocco as a French protectorate, it downgraded the position to Diplomatic Agent/Consul Agent. ",
+        "Link" : "",
+        "Lat" : 35.756872000000001,
+        "Long" : -5.9147590000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -5.9147590000000001,
+          35.756872000000001
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "Name" : "Tangier, Morocco",
+        "Status" : "Legation",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Consul-General Samuel Rene Gummere (September 1906-June 1909), Consul-General Henry Percival Dodge (June 1909-July 1910), Consul-General Fred Warner Carpenter (July 1910-September 1912), Chargé d’Affaires ad interim Maxwell Blake (September 1912-July 1917)",
+        "Start" : 1905,
+        "End" : 1917,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 35.756872000000001,
+        "Long" : -5.9147590000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -5.9147590000000001,
+          35.756872000000001
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "Name" : "Tangier, Morocco",
+        "Status" : "Consulate General",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Consul-General Maxwell Blake (October 1917-April 1922)",
+        "Start" : 1917,
+        "End" : 1919,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 35.756872000000001,
+        "Long" : -5.9147590000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -5.366358,
+          35.583559999999999
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "Name" : "Tetuàn, Morocco",
+        "Status" : "",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1877,
+        "End" : 1888,
+        "History" : "",
+        "Link" : "",
+        "Lat" : 35.583559999999999,
+        "Long" : -5.366358
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          10.142244,
+          36.896639999999998
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "Name" : "Tunis, Tunisia",
+        "Status" : "Consulate General ",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "Consul-General Amos Perry (1862-1867), Consul-General Gwynne Harris Heap (1874-1876)-Consul-G.H. Heap (Mar. 14, 1867)",
+        "Start" : 1862,
+        "End" : 1919,
+        "History" : "The United States and Tunisia signed their first treaty of amity and commerce in 1799. The consulate was established on Janaury 20, 1800. William Eaton served as the first Consul General.",
+        "Link" : "",
+        "Lat" : 36.896639999999998,
+        "Long" : 10.142244
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          39.228458000000003,
+          -6.1312100000000003
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "Name" : "Zanzibar, British Africa",
+        "Status" : "",
+        "Personnel_and_Term__Presentation_of_Credentials_to_End_of_Appoin" : "",
+        "Start" : 1862,
+        "End" : 1906,
+        "History" : "",
+        "Link" : "",
+        "Lat" : -6.1312100000000003,
+        "Long" : 39.228458000000003
+      }
+    }
+  ]
+}

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>New York Times, "British-American Alliance" (1885)</title>
+<title>New York Times, "British-American Alliance" (February 4, 1885)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -65,21 +65,24 @@
 </keywords>    
 
 <keywords scheme="viaf" n="people">
-<term>Cleveland, Grover, 1837-1908</term>
-<term>Kasson, John A. 1822-1910</term>
+<term ref="http://viaf.org/viaf/30330745">Cleveland, Grover, 1837-1908</term>
+<term ref="http://viaf.org/viaf/115616647">Kasson, John A. 1822-1910</term>
 </keywords>
 
 <keywords scheme="original" n="places">
-<term>Africa</term>
 <term>Asia</term>
 <term>Austria</term>
 <term>Chili</term>
 <term>Europe</term>
 <term>Germany</term>
-<term>Great Britain</term>
 <term>Korea</term>
 <term>London (England)</term>
 <term>Peru</term>
+
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>Great Britain</term>
 <term>United States</term>
 </keywords>
 
@@ -87,17 +90,10 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-<classCode scheme="original">
-<ref type="analysis" target="teaa.analysis.0017">Analysis</ref>
-</classCode>
 </textClass>
 </profileDesc>
 
@@ -116,9 +112,9 @@
 
 <div2 type="titles">
 
-<p>British-American Alliance.</p>
+<head type="main">British-American Alliance.</head>
 
-<p>London Papers Favor Close Political Relations with the United States.</p>
+<head type="sub">London Papers Favor Close Political Relations with the United States.</head>
 
 </div2>
 

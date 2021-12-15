@@ -68,7 +68,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
@@ -79,13 +79,13 @@
     
 <keywords scheme="original" n="places">
 <term>Dondo (Angola)</term>
-<term>Malange (Angola)</term>
+<term>Malanje (Angola)</term>
 <term>Mozambique</term>
 <term>Muata-Janvo</term>
 <term>Quanza River</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>Portugal</term>
 </keywords>
 
@@ -103,13 +103,13 @@
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
 <roleName>U.S. Vice Counsel</roleName>
-<placeName>Loanda, Angola</placeName>
+<placeName>Loanda (Angola)</placeName>
 <date when="1884-06-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1884-07-28"/>
 </correspAction>
 </correspDesc>
@@ -117,6 +117,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
@@ -128,7 +129,7 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan40000"/> 
+<pb n="Scan40000"/> 
 
 <note>Department of State Received Jul 28 1884</note>
 

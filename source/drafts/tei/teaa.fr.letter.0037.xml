@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fr.letter.0037.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.fr.letter.0037">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Unkown Letter, 1869</title>
+<title>Correspondence from Charles, Marquis de La Valette to Charles Rigault de Genouilly, March 31, 1869</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,12 +44,12 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Unknowm Letter</title>
-<date when="1869">1869</date>
+<title level="m">Correspondence from Charles, Marquis de La Valette to Charles Rigault de Genouilly</title>
+<date when="1869-03-31">March 31, 1869</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR ANOM</repository>
+<repository>Archives Nationales d'Outre-Mer</repository>
 <collection>Afrique VI</collection>
 <idno>195a Gabon Congo</idno>
 </msIdentifier>
@@ -72,59 +73,54 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>      
     
 <keywords scheme="viaf" n="people">
 <term>Brown, William R.</term>
-
+<term>Perrot, Augustus</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
+<term>Gaboon</term>
+</keywords>
 
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
-    
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName/>
-<roleName/>
-<placeName/>
-<date when="1869"/>
+<persName ref="http://viaf.org/viaf/27055613">La Valette, Charles-Jean-Marie-Félix, marquis de, 1806-1881</persName>
+<roleName>Minister of Foreign Affairs</roleName>
+<placeName>Paris (France)</placeName>
+<date when="1869-03-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName/>
+<persName ref="http://viaf.org/viaf/107024773">Rigault de Genouilly, Charles, 1807-1873</persName>
+<roleName>Minister of the Navy and the Colonies</roleName>
 <placeName/>
+<date when="1869-04-06"/>
 </correspAction>
 </correspDesc>
-
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2019" who="sab">Edited encoding.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -134,86 +130,172 @@
 
 <div1 xml:lang="fr" type="document">
 
-<pb facs="20160614_111637.jpg"/>
+<pb n="20160614_111637.jpg"/>
 
-<ab>
+<fw type="letterhead">
 MINISTÈRE
 DE
 LA MARINE ET DES COLONIES
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 DIRECTION
 DES COLONIES
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 BUREAU.
-</ab>
+</fw>
 
-<ab>
-Rapports avec l'Etranger.
-</ab>
+<p>Rapports avec l'Etranger.</p>
 
-<ab>
-TITRE général: Consuls.
-</ab>
+<p>TITRE général: Consuls.</p>
 
-<ab>
-TITRE spécial Côtes occidentales d'Afrique
-</ab>
+<p>TITRE spécial: Côtes occidentales d'Afrique.</p>
 
-<ab>
-Mr. William R. Brown, nommé Vice-Commercial <!-- 'Vice-Commercial' is split between lines as 'Vice-' and 'Commercial' -->
-Agent des Etats-Unis au Gabon.
-</ab>
+<p>Mr. William R. Brown, nommé Vice-Commercial 
+Agent des Etats-Unis au Gabon.</p>
 
-<ab>
-1869.
-</ab>
+<p>1869.</p>
+
+<pb n="20160614_111651.jpg"/>
+
+<fw type="letterhead">
+Ministère
+des
+Affaires Etrangères
+</fw>
+
+<fw type="letterhead">
+DIRECTION DES CONSULATS
+et
+AFFAIRES COMMERCIALES
+</fw>
+
+<p>Paris, le 31 Mars 1869</p>
+
+<p>Monsieur l'Amiral et cher
+Collègue, Il résulte d'une communication
+qui m'a été faite par M. le Ministre
+des Etats Unis à Paris que M.
+William R. Brown vient d'être nommé
+Vice Commercial agent de l'Union
+au Gabon.</p>
+
+<p>Je vous prie, en conséquence,
+Monsieur l'Amiral et cher Collègue
+de vouloir bien donner les ordres
+nécessaires pour que cet agent soit
+reconnu en la dite qualité, et qu'il
+puisse, notamment, remplis les
+
+<fw type="address">
+Son Excellence Monsieur l'Amiral Ministre
+de la Marine et des Colonies.
+</fw>
+
+<pb n="20160614_111701.jpg"/>
+
+fonctions qui lui sont conférées, en cas
+d'absence on d'empêchement de M.
+Augustus Perrot, agent commercial
+de l'Union à la même résidence,
+à moins que, comme français, il ne
+remplisse des fonctions incompatibles
+avec le mandat d'agent consulaire
+d'une Puissance étrangère.</p>
+
+<p>Agréez, Monsieur l'Amiral et
+cher Collègue, les assurances de ma
+haute considération</p>
+
+<p>La Valette</p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
                 
-                <pb facs="20160614_111637.jpg"/>
-                
-                <ab>
-                    MINISTER
-                    OF
-                    THE NAVY AND THE COLONIES
-                </ab>
-                
-                <ab>
-                    DIRECTION
-                    OF THE COLONIES
-                </ab>
-                
-                <ab>
-                    BUREAU.
-                </ab>
-                
-                <ab>
-                    Reports with the Foreigner.
-                </ab>
-                
-                <ab>
-                    General Title: Consuls.
-                </ab>
-                
-                <ab>
-                    Special Title: West Coast of Africa
-                </ab>
-                
-                <ab>
-                    Mr. William R. Brown, named Vice-Commercial <!-- 'Vice-Commercial' is split between lines as 'Vice-' and 'Commercial' -->
-                    Agent of the United States in Gabon.
-                </ab>
-                
-                <ab>
-                    1869.
-                </ab>
-                
-            </div1>
+<pb n="20160614_111637.jpg"/>
+
+<fw type="letterhead">
+MINISTER
+OF
+THE NAVY AND THE COLONIES
+</fw>
+
+<fw type="letterhead">
+DIRECTION
+OF THE COLONIES
+</fw>
+
+<fw type="letterhead">
+BUREAU.
+</fw>
+
+<p>Reports with the Foreigner.</p>
+
+<p>General Title: Consuls.</p>
+
+<p>Special Title: West Coast of Africa.</p>
+
+<p>Mr. William R. Brown, named Vice-Commercial 
+Agent of the United States in Gabon.</p>
+
+<p>1869.</p>
+
+<pb n="20160614_111651.jpg"/>
+
+<fw type="letterhead">
+Minister
+of
+Foreign Affairs
+</fw>
+
+<fw type="letterhead">
+DIRECTION OF THE CONSULATES
+and
+COMMERCIAL AFFAIRS
+</fw>
+
+<p>Paris, March 31, 1869</p>
+
+<p>Mr. Admiral and dear
+colleague, it resulted from a communication
+that was made to me by the Minister
+of the United States in Paris that Mr.
+William R. Brown has just been named
+Vice Commercial agent of the Union
+in Gabon.</p>
+
+<p>I urge you, consequently,
+Mister Admiral and dear colleague
+to give the necessary
+orders so that this agent be
+recognized in the said quality, and that he
+can, notably, fill the
+
+<fw type="address">
+His Excellency the Admiral Minister
+of the Navy and the Colonies.</fw>
+
+<pb n="20160614_111701.jpg"/>
+
+duties that are bestowed on him, in case
+of absence or impediment of Mr.
+Augustus Perrot, commercial agent
+of the Union in the same residence,
+unless, as a frenchman, he does not
+fill the incompatible duties
+with the mandate of consular agent
+of a Foreign Power.</p>
+
+<p>Accept, Mr. Admiral and
+dear colleague, the assurances of my
+highest consideration</p>
+
+<p>La Valette</p>
+
+</div1>
 </body>
 </text>
 

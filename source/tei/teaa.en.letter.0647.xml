@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0647">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from John A. Parm to William Hunter, March 31, 1879</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0647</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from John A. Parm to William Hunter</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1879-03-31">March 31, 1879</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Hamilburge, Robert</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Parm, John A.</persName>
+<roleName>U.S. Consul</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1879-03-31"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/3981158369766001460009">Hunter, William, 1805-1886</persName>
+<roleName>Second Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1879-05-08"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-06" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="335"/>
+
+<note>Department of State Received May 8 1879</note>
+
+<note>No 7</note>
+
+<p>United States Consulate<lb/> 
+Sierra Leone<lb/>
+31st March 1879</p>
+
+<p>John A Parm<lb/>
+To Department of State</p>
+
+<p>Subject<lb/>
+Quarterly returns</p>
+
+<p>Abstract of Contents<lb/>
+Returns and Accounts for the
+quarter ending March 31st 1879</p>
+
+<pb n="336"/>
+
+<note>No 7</note>
+
+<note>U.S. Consulate at
+Sierra Leone<lb/>
+March 31st 1879</note>
+
+<p>To Hon W. Hunter<lb/>
+Second Assistant Secretary<lb/>
+Washington D.C.</p>
+
+<p>Sir</p>
+
+<p>I have the honor to transmit 
+herewith enclosed, returns and accounts 
+for the quarter ending March 31st 1879.</p>
+
+<p>I have the honor to be<lb/> 
+Sir<lb/>
+Your Obt Servant<lb/>
+John A. Parm<lb/>
+U.S. Consul</p>
+
+<p>Enclosures 5 Accounts for 
+the quarter ending March 31st</p>
+
+</div1>
+
+<div1 type="document" xml:lang="en">
+
+<pb n="337"/>
+
+<p>United States Consulate at<lb/>
+Sierra Leone March 31st 1879</p>
+
+<p>Department of State, United States Dr
+To Jno A Parm U.S. Consul</p>
+
+<table>
+<row>
+<cell/>
+<cell>Dr</cell>
+</row>
+<row>
+<cell>For Postage and Official 
+Correspondence to and from
+this Consulate, for the quarter
+ending March 31st as per form
+No 118 &amp; 119, herewith <sic>transmited</sic></cell>
+<cell>$2.20</cell>
+</row>
+<row>
+<cell>For Stationary furnished this Consulate</cell>
+<cell>$1.00</cell>
+</row>
+<row>
+<cell/>
+<cell>$3.20</cell>
+</row>
+</table>
+
+<p>John A Parm<lb/>
+U.S. Consul</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

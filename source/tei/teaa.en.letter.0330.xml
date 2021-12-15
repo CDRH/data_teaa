@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0330">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Theodore A. Rosenbush to William Hunter, November 24, 1868</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Sherrod, C'yera" xml:id="csls">C'yera Sherrod</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0330</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Theodore A. Rosenbush to William Hunter</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Sierra Leone, 1858-1906 T-438</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-438, Roll 1</biblScope>
+<date when="1868-11-24">November 24, 1868</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Hanson, John B.</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Mellacouri River</term>
+<term>Salem (Massachusetts)</term>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Rosenbush, Theodore A.</persName>
+<roleName>U.S. Vice Commercial Agent</roleName>
+<placeName>Sierra Leone</placeName>
+<date when="1868-11-24"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/3981158369766001460009">Hunter, William, 1805-1886</persName>
+<roleName>2nd Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1868-12-29"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-03" who="#kln">Encoding, transcription edits, and review</change>
+<change when="2019-09" who="#csls">Transcription</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="114"/>
+
+<note>Dept. of State Recd Dec 29 '68</note>
+
+<note>No 17.</note>
+
+<p>Vice Commercial Agency of the
+United States of America<lb/>
+Sierra Leone, Novbr: 24th 1868.</p>
+
+<p>Sir,</p>
+
+<p>I have the honor to acknowledge 
+the receipt of despatch No 8, dated 
+Octbr: 7th, 1868, informing me of the 
+receipt of my despatches Nos 4, 5, and 12; 
+my oath of Office, which had been 
+placed on the files of the Department, 
+and that a Box containing 
+books, stationary, flag, etc. were 
+sent to the care of the Collector 
+Customs at Boston for 
+remission to me.</p> 
+
+<p>I followed a precedent of this 
+Office in numbering all my Official 
+correspondence consecutively Nos 
+
+<fw type="address"><unclear>A.</unclear> Hunter Esquire<lb/>
+2d Asst Secretary</fw>
+
+<pb n="115"/>
+
+2, 3, and there intermediate 5 and 12 were not addressed to the Department of State, but other Official communications.</p>
+
+<p>The American Barque "Helen
+Maria" of Salem, John B. Hanson 
+Master, entered this port in distress 
+on the 15th instant, having been on 
+Rocks in the Mellacourie River, 
+and has been condemned as being 
+unable to be repaired here. I shall 
+further report to the 5th Auditor.</p>
+
+<p>I have the honor to be,<lb/>
+Sir,<lb/>
+Your obedient Servant,<lb/>
+Rosenbush<lb/>
+U.S. Vice Comm: Agt:</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

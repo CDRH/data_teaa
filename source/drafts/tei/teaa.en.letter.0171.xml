@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0171">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from H. Bertram Cox to George Curzon, May 6, 1898</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0171</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m">Letter from H. Bertram Cox to James Fergusson</title>
+<date when="1898-05-06">May 6, 1898</date>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>The National Archives, Kew, UK</repository>
+<collection>Foreign Office</collection>
+<idno>5/2382</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>"Othering" Africans</term>
+<term>Missionaries</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>   
+
+<keywords scheme="viaf" n="people">
+<term>Archer, Mary C.</term>
+<term>Burtner, Jennie L.</term>
+<term>Burtner, Luther O.</term>
+<term>Cain, Mary Elizabeth</term>
+<term>Cain, Isaac Newton</term>
+<term>Cardew, Frederic</term>
+<term ref="http://viaf.org/viaf/76324934">Chamberlain, Joseph, 1836-1914</term>
+<term>Hatfield, Marietta</term>
+<term ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</term>
+<term>Minshall, Frederick S.</term>
+<term>Minshall, Myrtle E.</term>
+<term>Mullen</term>
+<term ref="http://viaf.org/viaf/44350506">Salisbury, Robert Cecil, Marquess of, 1830-1903</term>
+<term>Schenck, Ella</term>
+<term>Ward</term>
+</keywords>
+
+<keywords scheme="original" n="places">
+<term>Freetown (Sierra Leone)</term>
+<term>Mamaligi (Sierra Leone)</term>
+<term>Rotifunk (Sierra Leone)</term>
+<term>Shaingay (Sierra Leone)</term>
+<term>Sierra Leone</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>United States</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/34819875">Cox, H. Bertram (Hugh Bertram), 1861-</persName>
+<placeName>London (England)</placeName>
+<date when="1898-05-06"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/27094651">Curzon of Kedleston, George Nathaniel Curzon, Marquess, 1859-1925</persName>
+<roleName>British Under-Secretary of State for Foreign Affairs</roleName>
+<placeName>London (England)</placeName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
+<change when="2019-03-18" who="#kln">edited encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<pb n="teaa.en.letter.0171.001.jpg"/>
+
+<p>Communications on this subject 
+should be addressed to--<lb/> 
+The Under Secretary of State,<lb/> 
+Colonial Office,<lb/>
+London, S.W.,<lb/>
+and the following 
+Number quoted. 9978/98</p>
+
+<p>Downing Street<lb/>
+6 May 1898.</p>
+
+<p>Sir,</p>
+
+<p>I am directed by Mr. Secretary Chamberlain to 
+transmit to you, for communication to the American Ambassador,
+the accompanying extract from a telegram received 
+from the Governor of Sierra Leone, reporting the
+death of certain American Missionaries at the hands of 
+insurgents, and that certain others were safe at Freetown.</p>
+
+<p>In communicating this sad intelligence to Mr. 
+Hay, I am to request that you will move the Marquess of 
+Salisbury to add an expression of Mr. Chamberlain's regret 
+at the loss of life which has occurred.</p>
+
+<p>I am, Sir,<lb/>
+Your most obedient servant,<lb/>
+H. Bertram Cox</p>
+
+<fw type="address">Under Secretary of State<lb/>
+Foreign Office.</fw>
+
+<pb n="teaa.en.letter.0171.002.jpg"/>
+
+<p>Colonial Office<lb/>
+6 May 1898<lb/>
+R 7</p>
+
+<p><unclear/></p>
+
+<p>Murder of American 
+Missionaries in Sierra Leone<lb/>
+<unclear extent="three words"/> <unclear>Sir F. Carden</unclear>
+Expresses regret.</p> 
+
+<p>? Inform the 
+United States Embassy.</p>
+ 
+<p>done<lb/>
+May 7<lb/>
+F.B.</p>
+
+<p><unclear>S.</unclear>
+I hope U.S. will not 
+demand an African 
+<unclear/><lb/>
+<unclear>S.</unclear></p>
+
+<pb n="teaa.en.letter.0171.003.jpg"/>
+
+<p>Extract from Telegram from 
+Governor Sir F. Carden to Mr. Chamberlain.<lb/>
+(<unclear>Reed</unclear>. 1.30. pm 5 May)</p>
+
+<p>Regret to inform you that following 
+American missionaries Mr &amp; Mrs Cain, 
+Misses Archer Hatfield and Schenk killed 
+by insurgent bands at Rotifunk, but 
+Miss Ward, as well as following American missionaries, Mr and Mrs Burtner and
+Mr and Mrs Minshall from Shengeh, 
+and Miss Mullen from Mamaligi, 
+are here quite safe; please 
+inform American Ambassador.</p>
+
+</div1>
+</body>
+</text>
+
+</TEI>

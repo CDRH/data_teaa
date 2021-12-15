@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>     
     
 <keywords scheme="viaf" n="people"><!-- List the people that are named in the document. Alphabetized. -->
@@ -79,7 +79,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 </keywords>
     
-<keywords scheme="original" n="places"><!-- List the places that are named in the document. Alphabetized.-->
+<keywords scheme="original" n="places">
 <term><!-- PLACE NAME. EXAMPLE: Congo River --></term>
 
 </keywords>
@@ -106,7 +106,7 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <revisionDesc>
 <change when="2017" who="NN"><!-- Corrections, marked up. --></change>
-<!-- I know Jade did stuff with this, but I don't know the extent, so I can't write credits for her.  Are there details? Scanned? Transcription? OCR? -->
+
 </revisionDesc>
 </teiHeader>
 
@@ -114,9 +114,9 @@ EXAMPLE: <term>Fortune, Timothy Thomas, 1856-1928</term> -->
 
 <body>
 
-<div1 xml:lang="en" type="document">
+<div1 xml:lang="en" type="translation">
 
-<pb facs="20160613_164410.jpg"/>
+<pb n="20160613_164410.jpg"/>
 
 <p>
 Sir,
@@ -141,7 +141,7 @@ he anchored the ship off King Glass town,
 the following day an officer came on board
 </p>
 
-<pb facs="20160613_164420.jpg"/>
+<pb n="20160613_164420.jpg"/>
 
 <p>
 from the French brick of mar "Malouine"
@@ -168,7 +168,7 @@ explanation. This his determination he
 conveyed to Comm. Bell in writing. Both
 </p>
 
-<pb facs="20160613_164448.jpg"/>
+<pb n="20160613_164448.jpg"/>
 
 <p>
 <unclear/> <unclear/> with the "<unclear/>" In that

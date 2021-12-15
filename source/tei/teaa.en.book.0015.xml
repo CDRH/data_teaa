@@ -7,7 +7,7 @@ RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/te
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>M. W. Cluskey, "The Political Text-Book" (1857)</title>
+<title>M. W. Cluskey - "The Political Text-Book" (1857)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -42,7 +42,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <sourceDesc>
 <bibl>
 <title level="a" type="main">The Political Text-Book, Or Encyclopedia, Containing Everything Necessary for the Reference of the Politicians and Statesmen of the United States</title>
-<editor n="Cluskey, M. W.">M. W. Cluskey</editor>
+<editor ref="http://viaf.org/viaf/14636713">Cluskey, M. W. (Michael W.)</editor>
 <pubPlace>Washington, D.C.</pubPlace>
 <publisher>Cornelius Wendell</publisher>
 <date when="1857">1857</date>
@@ -122,12 +122,12 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <term/>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>Great Britain</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term>Cooley</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="religion">
@@ -148,29 +148,30 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p524"/>
+<pb n="p1"/>
 
 <div2 type="title">
 
-<p>The Political Text-Book,<lb/>
+<head type="main">The Political Text-Book,<lb/>
 or<lb/>
-Encyclopedia,<lb/>
-Containing Everything Necessary for the Reference of the Politicians and Statesmen of the United States.</p>
+Encyclopedia,</head>
+
+<head type="sub">Containing Everything Necessary for the Reference of the Politicians and Statesmen of the United States.</head>
 
 <p>Edited by M. W. Cluskey,<lb/>
 of Washington, D.C.</p>
 
 <p>"Let the editor or speaker who discusses politics for the information of the people, know what he is writing or speaking about, that he may write and speak knowingly."</p>
 
-<p>Washington:<lb/>
-Published by Cornelius Wendell.<lb/>
-1857.</p>
+<p>[ . . . ]</p>
 
 </div2>
 
+<pb n="p524"/>
+
 <div2 type="title">
 
-<p>Slave Trade, African.</p>
+<head type="sub">Slave Trade, African.</head>
 
 <p>Revival of.</p>
 
@@ -210,7 +211,7 @@ Published by Cornelius Wendell.<lb/>
 
 <p>Mr. Puryear. Before I vote upon this question, I desire to ask the indulgence of the House to state that I am as much opposed to the revival of the slave trade as any gentleman upon this floor; but I believe that this resolution
 
-<pb xml:id="p525"/>
+<pb n="p525"/>
 
 is introduced out of place, and that this is not the time for it. I shall therefore vote against it. If the time shall ever arrive when my vote can affect the question, I shall vote against the revival of the slave trade.</p>
 
@@ -272,7 +273,7 @@ is introduced out of place, and that this is not the time for it. I shall theref
 
 <p>Mr. Millson. I do not ask to debate it; I merely wish to give "the special reason" for
 
-<pb xml:id="p526"/>
+<pb n="p526"/>
 
 my request to be excused from voting on the adoption of the resolution. A vote for or against the resolution will place me in a false position. There are parts and bearings of the resolution to which I have objection, and I cannot consistently vote for it; while I am in favor of the general objects of the resolution, and am therefore unwilling to vote against it. For these reasons, like some of my colleagues, I desire to be excused from voting at all, as neither an affirmative nor a negative vote will represent me correctly.</p>
 
@@ -330,7 +331,7 @@ my request to be excused from voting on the adoption of the resolution. A vote f
 
 <p>Mr. McMullen. I rise for the purpose of voting, and I vote "no," against this demagogical resolution.</p>
 
-<pb xml:id="p527"/>
+<pb n="p527"/>
 
 <p>The resolution was then adopted, yeas 152, nays 57. The ayes and noes on this resolution will be found in a tabular statement with that on Mr. Orr's resolution.</p>
 
@@ -398,9 +399,9 @@ my request to be excused from voting on the adoption of the resolution. A vote f
 
 <p>102 Republicans, 23 Fillmore Americans, and 58 Democrats, voted for Mr. Orr's resolution, and 8 Democrats against it.</p>
 
-<gap extent="one page with a table" reason="sampling"/>
+<!--<gap extent="one page with a table" reason="sampling"/>--><p>[ . . . ]</p>
 
-<pb xml:id="p529"/>
+<pb n="p529"/>
 
 <p>The Hon. John A. Quitman, of Mississippi, in alluding to the reasons which induced his vote against the resolutions of Messrs. Orr and Etheridge, thus spoke on the 15th of Dec., 1856, in House:&#8212;</p>
 
@@ -412,14 +413,13 @@ my request to be excused from voting on the adoption of the resolution. A vote f
 
 <p>Mr. Quitman [addressing Mr. Orr]. Well,
 
-<pb xml:id="p530"/>
+<pb n="p530"/>
 
 I recall the word "complain;" but, in making a request of a political opponent, you implied that it should have been granted. Now, Mr. Speaker, my position on this subject is simply this: I am not in favor of the revival of the African slave trade. Not because I look upon it as "shocking, horrid, or deserving the execration of the civilized world;" for I believe it has resulted in practical benefit to the negro; not that I believe that transfer of a slave from benighted Africa to America&#8212;from the dominion of a cruel and despotic negro master, to a kind and humane white master, does any harm to him, or to the world; but I am opposed to the revival of the African slave trade because, in my judgment, it is inexpedient, impolitic, and adverse to the interests of the section of country which I represent. Such, too, I believe to be the prevailing sentiment at the South. I should have voted, and am ready to vote, for any proposition which shall confine itself to a declaration against the policy or expediency of the African slave-trade; but I will not, by any fear of consequences or misconstruction, be driven to adopt the affectedly denunciatory language of the gentleman from Tennessee. It is the language either of cowardice or of hypocrisy; not that of plain dealing. I speak of the resolution, not of the gentleman. I should not be much surprised to find it followed by a resolution condemning the internal slave trade. I say again, distinctly, that, had these resolutions simply declared that the revival of the African slave trade was inexpedient, and even against public policy, my voice would have been heard strongly in the affirmative; but I am opposed to lectures upon the morality of that trade. There I stand; and I cannot be coaxed or dragooned into the support of resolutions, which I do not believe to be true.</p>
 
 <p>The resolution of the gentleman from South Carolina [Mr. Orr] was also objectionable, though not in the same degree. It proclaimed "the settled policy of the country" to be against a repeal of the present laws. Now, in the first place, in a progressive country like ours, where public sentiment sways the public policy, there is an impropriety in any Congress resolving what shall be the future or settled policy of the country. Every Congress will have enough to do to adapt its action and legislation to its own proper term of authority and power. I regard such language, to say the least of it, as empty declamation.</p>
 
 <p>In the next place, it being admitted that treaties are laws, this language of the resolution goes to the extent of approving and perpetuating all our treaty stipulations in relation to the African slave trade; and of some of these I do not approve, but, on the contrary, believe them to be unwise and impolitic. Such, for instance, is the stipulation to aid Great Britain in watching, with a naval force, the coast of Africa. Neither am I prepared to say, though opposed to the slave trade, that it ought to be treated as piracy. I doubt much whether the horrors of the middle passage do not arise, mainly, from the false philanthropy of exaggerated punishments. Resting in this uncertainty, I could not, by my vote, declare the laws and treaties on this subject to be our "settled policy." For these reasons, now given, because explanation was refused when the resolutions were offered, and because I regarded both resolutions as useless and unnecessary, I opposed them.</p>
-
 <p>The Hon. John V. Wright of Tenn., in alluding to the reasons which induced his vote against Mr. Etheridge's resolution, thus spoke in the House, on the 4th of Feb. 1857:&#8212;</p>
 
 <p>"Mr. Chairman, one word more, and I will close. When my colleague from the Trenton district [Mr. Etheridge], a few days ago, offered a resolution with regard to the reopening the African slave trade, I voted against it, because, sir, as I then stated, I thought it was offered for the purpose of dividing and distracting, if possible, the Democratic party. Knowing my colleague's deep-rooted hatred to that party to which I am attached, and believing that it is the only party to which the destinies of the country can safely be intrusted, I was unwilling to give my countenance to a scheme which I then thought was set on foot to embarrass its action. I also think, with the distinguished gentleman from Mississippi [Mr. Quitman], whom I am proud to call my friend, that Congress is a very unsafe tribunal to decide for the people of the United States what shall or shall not be their standard of morality. But, sir, while I voted against that resolution, as I then stated, I am opposed to the policy of reopening the African slave trade. I voted very cheerfully for the resolution of the gentleman from South Carolina [Mr. Orr,] which declared it to be 'unwise, inexpedient, and against the settlement policy of the government' to reopen that trade. I regretted exceedingly that my colleague [Mr. Etheridge] should have raised that question at a time when he well knew that the whole of the people of Tennessee, with scarcely an exception, are opposed to the policy alluded to. I do not believe there is a single member here from the South (with perhaps one exception) who does favor that policy; and yet a settled attempt is being made to impress upon the public mind of the North that the South desires the reopening of that trade. But, whatever the motive of my colleague may have been, it is passed; and if he intended what I have said, I am very happy that he disappointed in his hopes."</p>
@@ -428,7 +428,7 @@ I recall the word "complain;" but, in making a request of a political opponent, 
 
 <p>"In the Democratic party were to be found those who openly advocated a revival of the African slave trade, or denounced the laws and treaties by which it is prohibited. Every day they were growing bolder, and increasing
 
-<pb xml:id="p531"/>
+<pb n="p531"/>
 
 their numbers. They could have been found here&#8212;here, we are told, on this floor. The late Presidential election, which so many fondly hoped would break up the government, was over. Kansas, which, under Mr. Buchanan's administration, we are assured by his political friends will soon be a free state, could not much longer furnish northern or southern disunionists with political capital. A proposition to reopen the African slave trade would be the best thing&#8212;the very best, because it is impossible&#8212;to stir up anew the excited millions of the North. It would furnish them a pretext to stigmatize their southern brethren as a race of cannibals. Worcester would again be filled with an assemblage of disunionists seeking the overthrow of the Union, to destroy slavery in the states, while Nashville might be the rendezvous of a counter convocation, urging the same means to preserve and perpetuate it.</p>
 
@@ -450,7 +450,7 @@ their numbers. They could have been found here&#8212;here, we are told, on this 
 
 <p>"There were introduced into the convention two leading measures, viz., the laying of a state tariff on northern goods, and the reopening of the slave-trade; the one to advance our commercial interest, the other our agricultural interest, and which, when taken together, as they were doubtless intended to be, and although they have each been attacked by presses of doubtful service to the South, are characterized in the private judgment of politicians as one of the completest southern remedies ever submitted to popular action."</p>
 
-<pb xml:id="p532"/>
+<pb n="p532"/>
 
 <p>Now, sir, between this author and myself there is, in the language of a good Baptist brother on a memorable occasion, "a slight variation." [Great laughter.] In my judgment, the two propositions, when taken together, constitute a plan the enforcement of which would involve at once the commercial and agricultural ruin of the South. The writer then addresses himself to those who are a little squeamish upon the subject, who, like some of our newspaper correspondents, have troublesome "moral convictions." He says:&#8212;</p>
 
@@ -458,10 +458,12 @@ their numbers. They could have been found here&#8212;here, we are told, on this 
 
 <p>This forcibly reminds me of some lines we all have read:&#8212;</p>
 
-<p>"Vice is a monster of so frightful mien,<lb/>
-As to be hated, needs but to be seen;<lb/>
-Yet seen too oft, familiar with her face,<lb/>
-We first endure, then pity, then embrace."</p>
+<lg type="stanza">
+<l>"Vice is a monster of so frightful mien,</l>
+<l>As to be hated, needs but to be seen;</l>
+<l>Yet seen too oft, familiar with her face,</l>
+<l>We first endure, then pity, then embrace."</l>
+</lg>
 
 <p>But as the author applied them to individuals, I shall demur to a prosaic application to whole communities: "The South will commence by enduring, and end by embracing the project!" I hope not. It is true I have witnessed some striking evidences of Democratic party endurance, but I trust when public attention is called to this project, the people will forbid the banns&#8212;repudiate an embrace which must end in dishonor and death.</p>
 

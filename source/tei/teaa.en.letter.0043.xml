@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from John G. Willis to William H. Seward, January 15, 1863</title>
+<title>Despatch from John G. Willis to William H. Seward, January 15, 1863</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,10 +43,10 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from John G. Willis to William H. Seward</title>
+<title level="a">Despatch from John G. Willis to William H. Seward</title>
 <date when="1863-01-15">January 15, 1863</date>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">1</biblScope>
 </bibl>
 </sourceDesc>
@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -76,16 +76,15 @@
     
 <keywords scheme="original" n="places">
 <term>England</term>
-<term>St. Paul de Loanda (Angola)</term>
 <term>Washington (D.C.)</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
-</keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -98,13 +97,13 @@
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
 <roleName>Acting U.S. Vice Commercial Agent for Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1863-01-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
 <roleName>U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1863-04-06"/>
 </correspAction>
 </correspDesc>
@@ -122,17 +121,17 @@
 
 <body>
 
-<pb facs="teaa.en.letter.0043.001"/>
+<pb n="teaa.en.letter.0043.001"/>
 
 <div1 type="document" xml:lang="en">
 
 <note>Recd Ap. 6</note>
 <note>No 1</note>
 
-<opener><dateline>United States Commercial Agency<lb/>
-St Paul 'd Loanda January 15, 1863</dateline></opener>
+<p>United States Commercial Agency<lb/>
+St Paul 'd Loanda January 15, 1863</p>
 
-<salute>Sir</salute>
+<p>Sir</p>
 
 <p>By request of Mr R Cunningham
 who returns to the States via England in account of 
@@ -147,16 +146,14 @@ arrival to visit Washington, where he will give you
 such further particulars as you may desire in respect 
 to the duties of this Agency.</p>
 
-<closer><salute>Very Respectfully<lb/>
-Your Obt Servt</salute>
-<signed>John G. Willis<lb/>
-Acting Vice Coml Agent</signed></closer>
+<p>Very Respectfully<lb/>
+Your Obt Servt<lb/>
+John G. Willis<lb/>
+Acting Vice Coml Agent</p>
 
-<fw type="address"><address>
-<addrLine>Hon Wm. H. Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine>
-</address></fw>
+<fw type="address">Hon Wm. H. Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
 
 </div1>
 </body>

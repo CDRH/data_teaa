@@ -66,7 +66,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Periodicals</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
@@ -82,41 +82,37 @@
 <term>Congo Free State</term>
 <term>Egypt</term>
 <term>Eritrea</term>
+<term>French Congo</term>
 <term>Guinea</term>
 <term>Kamerun</term>
 <term>Liberia</term>
 <term>Morocco</term>
 <term>Muni River</term>
-<term>Rio de Oro</term>
+<term>Rio de Oro (Spanish Sahara)</term>
 <term>Somaliland</term>
 <term>South Africa</term>
-<term>Sudan</term>
+<term>Soudan</term>
 <term>Togoland</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="powers">
 <term>Belgium</term>
 <term>Denmark</term>
 <term>England</term>
 <term>France</term>
 <term>Germany</term>
 <term>Great Britain</term>
-<term>Holland</term>
+<term>Netherlands</term>
 <term>Italy</term>
 <term>Portugal</term>
 <term>Spain</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
-<term>Caucasian</term>
-<term>Jews</term>
+<term/>
 </keywords>
  
 <keywords scheme="original" n="religion">
-<term/>
-</keywords>
-
-<keywords scheme="original" n="language">
 <term/>
 </keywords>
 
@@ -124,6 +120,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-11-08" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -134,25 +131,24 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0077.001"/>
+<pb n="p1"/>
 
 <div2 type="title">
 
-<p>Editorial</p>
+<head type="main">Editorial</head>
 
-<gap reason="sampling"/>
-
-<p>Africa</p>
+<p>[ . . . ]</p>
 
 </div2>
 
 <div2 type="article">
 
+<head type="sub">Africa</head>
+
 <p>Europe had begun to look with covetous eyes toward Africa as early as 1415 when the Portuguese at the Battle of Ceuta gained a foothold in Morocco. Thereafter Prince Henry of Portugal instituted the series of explorations which resulted not only in the discovery of Cape Verde, the Guinea Coast and the Cape of Good Hope, but by 1487 gave to Portugal the possession of a very fair slice of the African East Coast. This was the beginning of the Portuguese Colonies of Guinea, Angola and East Africa. Other European nations, France, Holland, Spain, England and Denmark, followed and set up trading stations along the African coast whose chief reason for existence was the fostering of the slave trade.</p>
 
 <p>But the partition of Africa as we know it is much more recent and begins with the founding in 1884 of the Congo Free State whose inception was so zealously fostered by Leopold of Belgium and which in 1908 was annexed to Belgium. The
-
-<pb xml:id="p2" facs="teaa.en.periodical.0077.002"/>
+<pb n="p2"/>
 
 "scramble" for African colonies was on and within a quarter of a century Africa was virtually in the hands of Europe.</p>
 
@@ -160,20 +156,18 @@
 
 <p>This was the state of affairs when the war broke out in 1914. In Africa the only independent states were the Republic of Liberia, and the kingdom of Abyssinia which, according to history, has been independent since the days of Menelek, the reputed Son of Solomon, and the Queen of Sheba. The number of souls thus under the rule of aliens is astounding, amounting in the case of England, France, Germany and Belgium to more than 110,000,000. During the course of the war Germany lost all four of her African colonies with a population estimated at 13,420,000. It is the question of the reapportionment of this vast number of human beings which has started the Pan-African movement. Colored America is indeed involved.</p>
 
-<p><hi rend="italics">"If we do not feel the chain<lb/>
-When it works another's pain,<lb/>
-Are we not base slaves indeed,<lb/>
-Slaves unworthy to be freed?</hi></p>
-
-</div2>
-
-<div2 type="title">
-
-<p>Reconstruction and Africa</p>
+<lg type="stanza">
+<l>"If we do not feel the chain</l>
+<l>When it works another's pain,</l>
+<l>Are we not base slaves indeed,</l>
+<l>Slaves unworthy to be freed?"</l>
+</lg>
 
 </div2>
 
 <div2 type="article">
+
+<head type="sub">Reconstruction and Africa</head>
 
 <p>The suggestion has been made that these colonies which Germany has lost should not be handed over to any other nation of Europe but should, under the guidance of <hi rend="italics">organized civilization,</hi> be brought to a point of development which shall finally result in an autonomous state. This plan has met with much criticism and ridicule. Let the natives develop along their own lines and they will "go back," has been the cry. Back to what, in Heaven's name?</p>
 
@@ -181,7 +175,7 @@ Slaves unworthy to be freed?</hi></p>
 
 <p>The truth is, white men are merely juggling with words&#8212;or worse&#8212;when they declare that the withdrawal of Europeans from Africa will plunge that continent into chaos. What Europe, and indeed only a small group in Europe, wants in Africa is not a field for the spread of European civilization, but a field for exploitation. They covet the raw materials,&#8212;
 
-<pb xml:id="p3" facs="teaa.en.periodical.0077.003"/>
+<pb n="p3"/>
 
 ivory, diamonds, copper and rubber in which the land abounds, and even more do they covet cheap native labor to mine and produce these things. Greed,&#8212;naked, pitiless lust for wealth and power, lie back of all of Europe's interest in Africa and the white world knows it and is not ashamed.</p>
 
@@ -189,13 +183,9 @@ ivory, diamonds, copper and rubber in which the land abounds, and even more do t
 
 </div2>
 
-<div2 type="title">
-
-<p>Not "Separatism"</p>
-
-</div2>
-
 <div2 type="article">
+
+<head type="sub">Not "Separatism"</head>
 
 <p>This is not a "separatist" movement. There is no need to think that those who advocate the opening up of Africa for Africans and those of African descent desire to deport any large number of colored Americans to a foreign and, in some respects inhospitable land. Once for all, let us realize that we are Americans, that we were brought here with the earliest settlers, and that the very sort of civilization from which we came made the complete adoption of western modes and customs imperative if we were to survive at all. In brief, there is nothing so indigenous, so completely "made in America" as we. It is as absurd to talk of a return to Africa, merely because that was our home 300 years ago, as it would be to expect the members of the Caucasian race to return to the fastnesses of the Caucasus Mountains from which, it is reputed, they sprang.</p>
 

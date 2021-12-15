@@ -41,7 +41,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Albert Bushnell to William M. Evarts, December 6, 1877</title>
+<title level="a">Despatch from Albert Bushnell to William M. Evarts</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-466, Roll 1</biblScope>
@@ -60,6 +60,7 @@
 <textClass>
 <keywords scheme="original" n="theme">
 <term>Commerce and Trade</term>
+<term>Exploration</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -67,7 +68,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
@@ -76,7 +77,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Congo</term>
+<term>International Congo Society</term>
 <term>St. Paul de Loanda (Angola)</term>
 </keywords>
 
@@ -88,15 +89,11 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Bushnell, Albert</persName>
+<persName ref="http://viaf.org/viaf/2304541">Bushnell, Albert, 1818-1879</persName>
 <roleName>U.S. Commercial Agent</roleName>
 <placeName>Gaboon</placeName>
 <date when="1877-12-06"/>
@@ -104,7 +101,7 @@
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/20436089">Evarts, William Maxwell, 1818-1901</persName>
 <roleName>U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
@@ -121,7 +118,7 @@
 
 <div1 xml:lang="en" type="document">  
     
-<pb facs="20170615_142803"/>   
+<pb n="20170615_142803"/>   
 
 <note>No 17</note>
 
@@ -149,11 +146,11 @@ attentions. Permit me to make
 honorable mention of the French-Commandant
 Capt. J. <unclear>Boitard</unclear>
 who promptly furnished Commander
-Schley with all needfull supplies,
+Schley with all <sic>needfull</sic> supplies,
 to enable him to continue his 
 voyage to the Congo and
 
-<pb facs="20170615_142843"/> 
+<pb n="20170615_142843"/> 
 
 St Paul de Loando. The visit
 of this beautiful ship. with her

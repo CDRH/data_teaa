@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0026">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Mark Twain - King Leopold's Soliloquy (1905)</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.book.0026</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">King Leopold's Soliloquy</title>
+<author ref="http://viaf.org/viaf/50566653">Twain, Mark, 1835-1910</author>
+<pubPlace>Boston, Massachusetts</pubPlace>
+<publisher>The P. R. Warren Co.</publisher>
+<date when="1905">1905</date>
+<respStmt>
+<resp>transcription</resp>
+<orgName>Project Gutenberg</orgName>
+</respStmt>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+
+<keywords scheme="original" n="theme">
+<term>"Othering" Africans</term>
+<term>International Conferences and Treaties</term>
+<term>Missionaries</term>
+<term>Slave Trade and Slavery</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Fiction</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/52609813">Abbott, Lyman, 1835-1922</term>
+<term ref="http://viaf.org/viaf/64062958">Casement, Roger, 1864-1916</term>
+<term ref="http://viaf.org/viaf/99340678">Cattier, F. (Félicien), 1869-</term>
+<term>Eldridge, Thomas Bailey</term>
+<term>Gilder, Richard Waterson</term>
+<term ref="http://viaf.org/viaf/14952249">Grenfell, George, 1849-1906</term>
+<term>Harris, John H.</term>
+<term ref="http://viaf.org/viaf/71453279">Jordan, David Starr, 1851-1931</term>
+<term ref="http://viaf.org/viaf/264072032">Leopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/41884042">Morel, E.D. (Edmund Dene), 1873-1924</term>
+<term ref="http://viaf.org/viaf/4795204">Morrison, W. M. (William McCutchan), 1867-1918</term>
+<term ref="http://viaf.org/viaf/60656012">Nadal, B. H. (Bernard Harrison), 1812-1870</term>
+<term>Poskine, M. Alfred</term>
+<term>Scrivener, A. E.</term>
+<term ref="http://viaf.org/viaf/62614395">Sheppard, William H. (William Henry), 1865-1927</term>
+<term ref="http://viaf.org/viaf/39762343">Sill, Louise Morgan</term>
+<term>Stead, W. T.</term>
+<term ref="http://viaf.org/viaf/2458987">Van Dyke, Henry, 1852-1933</term>
+</keywords>
+
+<keywords scheme="original" n="places">
+<term>Baringa (Congo)</term>
+<term>Berlin (Germany)</term>
+<term>Brussels (Belgium)</term>
+<term>Congo Free State</term>
+<term>Mambogo River</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>Belgium</term>
+<term>France</term>
+<term>Germany</term>
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term>Bena Pianga</term>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term>Christianity</term>
+</keywords>
+
+</textClass>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-09" who="kln">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="book" xml:lang="en">
+
+<pb n="0"/>
+
+<div2 type="epigraph">
+
+<head type="sub">"It Is I"</head>
+
+<p>"Leopold II is the  absolute Master of the whole of the internal and  external activity of the  Independent State of the Congo. The organization of justice, the army, the industrial and commercial regimes are established freely by himself. He would say, and with greater accuracy than did Louis XIV., 'The State,  it is I.'" Prof. F. Cattier, Brussels University. "Let us repeat after so many others what has become a platitude, the success of the African work is the work of a sole  directing will, without being hampered by the hesitation of timorous politicians, carried out under his sole responsibility,&#8212;intelligent, thoughtful, conscious of the perils and the advantages, discounting with an admirable prescience the great results of a near future." M. Alfred Poskine in "Bilans Congolais."</p>
+
+</div2>
+
+<pb n="1"/>
+
+<div2 type="title">
+
+<head type="main">King Leopold's Soliloquy</head>
+
+<head type="sub">A Defense of His Congo Rule</head>
+
+<head type="sub">By Mark Twain</head>
+
+</div2>
+
+<pb n="3"/>
+
+<div2 type="body">
+
+<head type="sub">King Leopold's Soliloquy</head>
+
+<p>[<hi rend="italics">Throws down pamphlets which he has been reading. Excitedly combs his
+flowing spread of whiskers with his fingers; pounds the table with his
+fists; lets off brisk volleys of unsanctified language at brief
+intervals, repentantly drooping his head, between volleys, and kissing
+the Louis XI crucifix hanging from his neck, accompanying the kisses
+with mumbled apologies; presently rises, flushed and perspiring, and
+walks the floor, gesticulating</hi>]</p>
+
+<p>&#8212;&#8212; &#8212;&#8212;!! &#8212;&#8212; &#8212;&#8212;!! If I had them by the throat! [<hi rend="italics">Hastily kisses the
+crucifix, and mumbles</hi>] In these twenty years I have spent millions to
+keep the press of the two hemispheres quiet, and still these leaks keep
+on occurring. I have spent other millions on religion and art, and what
+do I get for it? Nothing. Not a compliment. These generosities are
+studiedly ignored, in print. In print I get nothing but slanders&#8212;and
+slanders again&#8212;and still slanders, and slanders on top of slanders!
+Grant them true, what of it? They are slanders all the same, when
+uttered against a king.</p>
+
+<p>Miscreants&#8212;they are telling <hi rend="italics">everything</hi>! Oh, everything: how I went
+pilgriming among 
+
+<pb n="4"/>
+
+the Powers in tears, with my mouth full of Bible and my
+pelt oozing piety at every pore, and implored them to place the vast and
+rich and populous Congo Free State in trust in my hands as their agent,
+so that I might root out slavery and stop the slave raids, and lift up
+those twenty-five millions of gentle and harmless blacks out of darkness
+into light, the light of our blessed Redeemer, the light that streams
+from his holy Word, the light that makes glorious our noble
+civilization&#8212;lift them up and dry their tears and fill their bruised
+hearts with joy and gratitude&#8212;lift them up and make them comprehend that
+they were no longer outcasts and forsaken, but our very brothers in
+Christ; how America and thirteen great European states wept in sympathy
+with me, and were persuaded; how their representatives met in convention
+in Berlin and made me Head Foreman and Superintendent of the Congo
+State, and drafted out my powers and limitations, carefully guarding the
+persons and liberties and properties of the natives against hurt and
+harm; forbidding whisky traffic and gun traffic; providing courts of
+justice; making commerce free and fetterless to the merchants and
+traders of all nations, and welcoming and safeguarding all missionaries
+of all creeds and denominations. They have told how I planned and
+prepared my establishment and selected my horde of officials&#8212;"pals" and
+"pimps" of mine, 
+
+<pb n="5"/>
+
+"unspeakable Belgians" every one&#8212;and hoisted my flag,
+and "took in" a President of the United States, and got him to be the
+first to recognize it and salute it. Oh, well, let them blackguard me if
+they like; it is a deep satisfaction to me to remember that I was a
+shade too smart for that nation that thinks itself so smart. Yes, I
+certainly did bunco a Yankee&#8212;as those people phrase it. Pirate flag? Let
+them call it so&#8212;perhaps it is. All the same, <hi rend="italics">they were the first to
+salute it</hi>.</p>
+
+<p>These meddlesome American missionaries! these frank British consuls!
+these blabbing Belgian-born traitor officials!&#8212;those tiresome parrots
+are always talking, always telling. They have told how for twenty years
+I have ruled the Congo State not as a trustee of the Powers, an agent, a
+subordinate, a foreman, but as a sovereign&#8212;sovereign over a fruitful
+domain four times as large as the German Empire&#8212;sovereign absolute,
+irresponsible, above all law; trampling the Berlin-made Congo charter
+under foot; barring out all foreign traders but myself; restricting
+commerce to myself, through concessionaires 
+
+<pb n="6"/>
+
+who are my creatures and
+confederates; seizing and holding the State as my personal property, the
+whole of its vast revenues as my private "swag"&#8212;mine, solely
+mine&#8212;claiming and holding its millions of people as my private property,
+my serfs, my slaves; their labor mine, with or without wage; the food
+they raise not their property but mine; the rubber, the ivory and all
+the other riches of the land mine&#8212;mine solely&#8212;and gathered for me by the
+men, the women and the little children under compulsion of lash and
+bullet, fire, starvation, mutilation and the halter.</p>
+
+<p>These pests!&#8212;it is as I say, they have kept back nothing! They have
+revealed these and yet other details which shame should have kept them
+silent about, since they were exposures of a king, a sacred personage
+and immune from reproach, by right of his selection and appointment to
+his great office by God himself; a king whose acts cannot be criticized
+without blasphemy, since God has observed them from the beginning and
+has manifested no dissatisfaction with them, nor shown disapproval of
+them, nor hampered nor interrupted them in any way. By this sign I
+recognize his approval of what I have done; his cordial and glad
+approval, I am sure I may say. Blest, crowned, beatified with this great
+reward, this golden reward, this unspeakably precious reward, why should
+I care for 
+
+<pb n="7"/>
+
+men's cursings and revilings of me? [<hi rend="italics">With a sudden outburst
+of feeling</hi>] May they roast a million æons in&#8212;[<hi rend="italics">Catches his breath and
+effusively kisses the crucifix; sorrowfully murmurs, "I shall get myself
+damned yet, with these indiscretions of speech."</hi>]</p>
+
+<p>Yes, they go on telling everything, these chatterers! They tell how I
+levy incredibly burdensome taxes upon the natives&#8212;taxes which are a pure
+theft; taxes which they must satisfy by gathering rubber under hard and
+constantly harder conditions, and by raising and furnishing food
+supplies gratis&#8212;and it all comes out that, when they fall short of their
+tasks through hunger, sickness, despair, and ceaseless and exhausting
+labor without rest, and forsake their homes and flee to the woods to
+escape punishment, my black soldiers, drawn from unfriendly tribes, and
+instigated and directed by my Belgians, hunt them down and butcher them
+and burn their villages&#8212;reserving some of the girls. They tell it all:
+how I am wiping a nation of friendless creatures out of existence by
+every form of murder, for my private pocket's sake, and how every
+shilling I get costs a rape, a mutilation or a life. But they never say,
+although they know it, that I have labored in the cause of religion at
+the same time and all the time, and have sent missionaries there (of a
+"convenient stripe," as they phrase it), to teach them the error of
+their ways and bring them to Him who is all mercy and love, and who
+
+<pb n="8"/>
+
+is
+the sleepless guardian and friend of all who suffer. They tell only what
+is against me, they will not tell what is in my favor.</p>
+
+<p>They tell how England required of me a Commission of Inquiry into Congo
+atrocities, and how, to quiet that meddling country, with its
+disagreeable Congo Reform Association, made up of earls and bishops and
+John Morleys and university grandees and other dudes, more interested in
+other people's business than in their own. I appointed it. Did it stop
+their mouths? No, they merely pointed out that it was a commission
+composed wholly of my "Congo butchers," "the very men whose acts were to
+be inquired into." They said it was equivalent to appointing a
+commission of wolves to inquire into depredations committed upon a
+sheepfold. <hi rend="italics">Nothing</hi> can satisfy a cursed Englishman!*</p>
+
+<p>And were the fault-finders frank with my private
+
+<fw type="note">* Recent information is to the effect that the resident missionaries
+found the commission as a whole apparently interested to 
+promote reforms. One of its members was a leading Congo official, 
+another an official of the government in Belgium, the third a Swiss 
+jurist. The commission's report will reach the public only through
+the king, and will be whatever he consents to make it; it is not 
+yet forthcoming, though six months have passed since the investigation
+was made. There is, however, abundant evidence that horrible abuses
+were found and conceded, the testimony of missionaries, which had
+been scouted by the king's defenders, being amply vindicated. One
+who was present at one hearing of the commission writes: "Men of
+stone would be moved by the stories that are being unfolded as the 
+commission probes into the awful history of rubber collection." Certain 
+reforms were ordered in the one section visited, but the latest
+word is that after the commission's departure, conditions soon became
+worse than before its coming. Very well, then, the king has investigated
+himself. One state is achieved. The next one in order
+is the investigation of conditions in the Congo State <hi rend="italics">by the Powers
+responsible for the creation of the Congo State</hi>. The United States
+is one of these. Such an investigation is advocated by Lyman
+Abbott, Henry Van Dyke, David Starr Jordan and other prominent
+citizens in a petition to Congress.&#8212;M. T.</fw>
+
+<pb n="9"/>
+
+character? They could
+not be more so if I were a plebeian, a peasant, a mechanic. They remind
+the world that from the earliest days my house has been chapel and
+brothel combined, and both industries working full time; that I
+practised cruelties upon my queen and my daughters, and supplemented
+them with daily shame and humiliations; that, when my queen lay in the
+happy refuge of her coffin, and a daughter implored me on her knees to
+let her look for the last time upon her mother's face, I refused; and
+that, three years ago, not being satisfied with the stolen spoils of a
+whole alien nation, I robbed my own child of her property and appeared
+by proxy in court, a spectacle to the civilized world, to defend the act
+and complete the crime. It is as I have said: they are unfair, unjust;
+they will resurrect and give new currency to such things as those, or to
+any other things that count against me, but they will not mention any
+act of mine that is in my favor. I have spent more money on art than any
+other monarch of my time, and they know it. Do they speak of it, do they
+tell about it? No, they do not. They prefer to work up what they call
+"ghastly statistics" into offensive kindergarten object lessons, whose
+purpose is to make sentimental people shudder, and prejudice them
+against me. They remark that "if the innocent blood shed in the Congo
+State by King Leopold 
+
+<pb n="10"/>
+
+were put in buckets and the buckets placed side by
+side, the line would stretch 2,000 miles; if the skeletons of his ten
+millions of starved and butchered dead could rise up and march in single
+file, it would take them seven months and four days to pass a given
+point; if compacted together in a body, they would occupy more ground
+than St. Louis covers, World's Fair and all; if they should all clap
+their bony hands at once, the grisly crash would be heard at a distance
+of&#8212;" Damnation, it makes me tired! And they do similar miracles with the
+money I have distilled from that blood and put into my pocket. They pile
+it into Egyptian pyramids; they carpet Saharas with it; they spread it
+across the sky, and the shadow it casts makes twilight in the earth. And
+the tears I have caused, the hearts I have broken&#8212;oh, nothing can
+persuade them to let <hi rend="italics">them</hi> alone!</p>
+
+<p>[<hi rend="italics">Meditative pause</hi>] Well . . . no matter, I <hi rend="italics">did</hi> beat the Yankees,
+anyway! there's comfort in that. [<hi rend="italics">Reads with mocking smile, the
+President's Order of Recognition of April 22, 1884</hi>]</p>
+
+<p>" . . . the government of the United States announces its sympathy with
+and approval of the humane and benevolent purposes of (my Congo
+scheme), and will order the officers of the United States, both on
+land and sea, to recognize its flag as the flag of a friendly
+government."</p>
+
+<p>Possibly the Yankees would like to take that back, now, but they will
+find that my agents are 
+
+<pb n="11"/>
+
+not over there in America for nothing. But there
+is no danger; neither nations nor governments can afford to confess a
+blunder. [<hi rend="italics">With a contented smile, begins to read from "Report by Rev.
+W. M. Morrison, American missionary in the Congo Free State"</hi>]</p>
+
+<p>"I furnish herewith some of the many atrocious incidents which have
+come under my own personal observation; they reveal the <hi rend="italics">organized
+system</hi> of plunder and outrage which has been perpetrated and is now
+being carried on in that unfortunate country by King Leopold of
+Belgium. I say King Leopold, because he and he <hi rend="italics">alone</hi> is now
+responsible, since he is the <hi rend="italics">absolute sovereign</hi>. <hi rend="italics">He styles
+himself such.</hi> When our government in 1884 laid the foundation of
+the Congo Free State, by recognizing its flag, little did it know
+that this concern, parading under the guise of philanthropy, was
+really King Leopold of Belgium, one of the shrewdest, most heartless
+and most conscienceless rulers that ever sat on a throne. This is
+apart from his known corrupt morals, which have made his name and
+his family a byword in two continents. Our government would most
+certainly not have recognized that flag had it known that it was
+really King Leopold individually who was asking for recognition; had
+it known that it was setting up in the heart of Africa an <hi rend="italics">absolute
+monarchy</hi>; had it known that, having put down African slavery in our
+own country at great cost of blood and money, it was <hi rend="italics">establishing a
+worse form of slavery right in Africa</hi>."</p>
+
+<p>[<hi rend="italics">With evil joy</hi>] Yes, I certainly was a shade too clever for the
+Yankees. It hurts; it gravels them. They can't get over it! Puts a shame
+upon them in another way, too, and a graver 
+
+<pb n="12"/>
+
+way; for they never can rid
+their records of the reproachful fact that their vain Republic,
+self-appointed Champion and Promoter of the Liberties of the World, is
+the only democracy in history that has lent its power and influence to
+the establishing of an <hi rend="italics">absolute monarchy</hi>!</p>
+
+<p>[<hi rend="italics">Contemplating, with an unfriendly eye, a stately pile of pamphlets</hi>]
+Blister the meddlesome missionaries! They write tons of these things.
+They seem to be always around, always spying, always eye-witnessing the
+happenings; and everything they see they commit to paper. They are
+always prowling from place to place; the natives consider them their
+only friends; they go to them with their sorrows; they show them their
+scars and their wounds, inflicted by my soldier police; they hold up the
+stumps of their arms and lament because their hands have been chopped
+off, as punishment for not bringing in enough rubber, and as proof to be
+laid before my officers that the required punishment was well and truly
+carried out. One of these missionaries saw eighty-one of these hands
+drying over a fire for transmission to my officials&#8212;and of course he
+must go and set it down and 
+
+<pb n="13"/>
+
+print it. They travel and travel, they spy
+and spy! And nothing is too trivial for them to print. [<hi rend="italics">Takes up a
+pamphlet. Reads a passage from Report of a "Journey made in July, August
+and September, 1903, by Rev. A. E. Scrivener, a British missionary"</hi>]</p>
+
+<p>" . . . . Soon we began talking, and without any encouragement on my part
+the natives began the tales I had become so accustomed to. They were
+living in peace and quietness when the white men came in from the
+lake with all sorts of requests to do this and that, and they
+thought it meant slavery. So they attempted to keep the white men
+out of their country but without avail. The rifles were too much for
+them. So they submitted and made up their minds to do the best they
+could under the altered circumstances. First came the command to
+build houses for the soldiers, and this was done without a murmur.
+Then they had to feed the soldiers and all the men and women&#8212;hangers
+on&#8212;who accompanied them. Then they were told to bring in rubber.
+This was quite a new thing for them to do. There was rubber in the
+forest several days away from their home, but that it was worth
+anything was news to them. A small reward was offered and a rush was
+made for the rubber. 'What strange white men, to give us cloth and
+beads for the sap of a wild vine.' They rejoiced in what they
+thought their good fortune. But soon the reward was reduced until at
+last they were told to bring in the rubber for nothing. To this they
+tried to demur; but to their great surprise several were shot by the
+soldiers, and the rest were told, with many curses and blows, to go
+at once or more would be killed. Terrified, they began to prepare
+their food for the fortnight's absence from the village which the
+collection of rubber entailed. 
+
+<pb n="14"/>
+
+The soldiers discovered them sitting
+about. 'What, not gone yet?' Bang! bang! bang! and down fell one and
+another, dead, in the midst of wives and companions. There is a
+terrible wail and an attempt made to prepare the dead for burial,
+but this is not allowed. All must go at once to the forest. Without
+food? Yes, without food. And off the poor wretches had to go without
+even their tinder boxes to make fires. Many died in the forests of
+hunger and exposure, and still more from the rifles of the ferocious
+soldiers in charge of the post. In spite of all their efforts the
+amount fell off and more and more were killed. I was shown around
+the place, and the sites of former big chiefs' settlements were
+pointed out. A careful estimate made the population of, say, seven
+years ago, to be 2,000 people in and about the post, within a radius
+of, say, a quarter of a mile. All told, they would not muster 200
+now, and there is so much sadness and gloom about them that they are
+fast decreasing."</p>
+
+<p>"We stayed there all day on Monday and had many talks with the
+people. On the Sunday some of the boys had told me of some bones
+which they had seen, so on the Monday I asked to be shown these
+bones. Lying about on the grass, within a few yards of the house I
+was occupying, were numbers of human skulls, bones, in some cases
+complete skeletons. I counted thirty-six skulls, and saw many sets
+of bones from which the skulls were missing. I called one of the men
+and asked the meaning of it. 'When the rubber palaver began,' said
+he, 'the soldiers shot so many we grew tired of burying, and very
+often we were not allowed to bury; and so just dragged the bodies
+out into the grass and left them. There are hundreds all around if
+you would like to see them.' But I had seen more than enough, and
+was sickened by the stories that came from men and 
+
+<pb n="15"/>
+
+women alike of
+the awful time they had passed through. The Bulgarian atrocities
+might be considered as mildness itself when compared with what was
+done here. How the people submitted I don't know, and even now I
+wonder as I think of their patience. That some of them managed to
+run away is some cause for thankfulness. I stayed there two days and
+the one thing that impressed itself upon me was the collection of
+rubber. I saw long files of men come in, as at Bongo, with their
+little baskets under their arms; saw them paid their milk tin full
+of salt, and the two yards of calico flung to the headmen; saw their
+trembling timidity, and in fact a great deal that all went to prove
+the state of terrorism that exists and the virtual slavery in which
+the people are held."</p>
+
+<p>That is their way; they spy and spy, and run into print with every
+foolish trifle. And that British consul, Mr. Casement, is just like
+them. He gets hold of a <hi rend="italics">diary which had been kept by 
+
+<pb n="16"/>
+
+one of my
+government officers</hi>, and, although it is a private diary and intended
+for no eye but its owner's, Mr. Casement is so lacking in delicacy and
+refinement as to print passages from it. [<hi rend="italics">Reads a passage from the
+diary</hi>]</p>
+
+<p>"Each time the corporal goes out to get rubber, cartridges are given
+him. He must bring back all not used, and for every one used he must
+bring back a right hand. M. P. told me that sometimes they shot a
+cartridge at an animal in hunting; they then cut off a hand from a
+living man. As to the extent to which this is carried on, he
+informed me that in six months the State on the Mambogo River had
+used 6,000 cartridges, which means that 6,000 people are killed or
+mutilated. It means more than 6,000, for the people have told me
+repeatedly that the soldiers kill the children with the butt of
+their guns."</p>
+
+<p>When the subtle consul thinks silence will be more effective than words,
+he employs it. Here he leaves it to be recognized that a thousand
+killings and mutilations a month is a large output for so small a region
+as the Mambogo River concession, silently indicating the dimensions of
+it by accompanying his report with a map of the prodigious Congo State,
+in which there is not room for so small an object as that river. That
+silence is intended to say, "If it is a thousand a month in this little
+corner, imagine the output of the whole vast State!" A gentleman would
+not descend to these furtivenesses.</p>
+
+<p>Now as to the mutilations. You can't head 
+
+<pb n="17"/>
+
+off a Congo critic and make
+him stay headed-off; he dodges, and straightway comes back at you from
+another direction. They are full of slippery arts. When the mutilations
+(severing hands, unsexing men, etc.) began to stir Europe, we hit upon
+the idea of excusing them with a retort which we judged would knock them
+dizzy on that subject for good and all, and leave them nothing more to
+say; to wit, we boldly laid the custom on the natives, and said we did
+not invent it, but only followed it. Did it knock them dizzy? did it
+shut their mouths? Not for an hour. They dodged, and came straight back
+at us with the remark that "if a Christian king can perceive a saving
+moral difference between inventing bloody barbarities, and <hi rend="italics">imitating
+them from savages</hi>, for charity's sake let him get what comfort he can
+out of his confession!"</p>
+
+<p>It is most amazing, the way that that consul acts&#8212;that spy, that
+busy-body. [<hi rend="italics">Takes up pamphlet "Treatment of Women and Children in the
+Congo State; what Mr. Casement Saw in 1903"</hi>] <hi rend="italics">Hardly two years ago!</hi>
+<hi rend="italics">Intruding</hi> that date upon the public was a piece of cold malice. It was
+intended to weaken the force of my press syndicate's assurances to the
+public that my severities in the Congo <hi rend="italics">ceased</hi>, and ceased utterly,
+<hi rend="italics">years and years ago</hi>. This man is fond of trifles&#8212;revels in them,
+gloats over them, pets them, fondles them, sets them 
+
+<pb n="18"/>
+
+all down. One
+doesn't need to drowse through his monotonous report to see that; the
+mere subheadings of its chapters prove it. [<hi rend="italics">Reads</hi>]</p>
+
+<p>"Two hundred and forty persons, <hi rend="italics">men, women and children</hi>, compelled
+to supply government with <hi rend="italics">one ton</hi> of carefully prepared foodstuffs
+<hi rend="italics">per week</hi>, receiving in remuneration, all told, the princely sum of
+15s. 10d!"</p>
+
+<p>Very well, it was liberal. It was not much short of a penny a week for
+each nigger. It suits this consul to belittle it, yet he knows very well
+that I could have had both the food and the labor for nothing. I can
+prove it by a thousand instances. [<hi rend="italics">Reads</hi>]</p>
+
+<p>"Expedition against a village behindhand in its (compulsory)
+supplies; result, slaughter of sixteen persons; among them three
+women and a boy of five years. Ten carried off, to be prisoners till
+ransomed; among them a child, who died during the march."</p>
+
+<p>But he is careful not to explain that we are <hi rend="italics">obliged</hi> to resort to
+ransom to collect debts, where the people have nothing to pay with.
+Families that escape to the woods sell some of their members into
+slavery and thus provide the ransom. He knows that I would stop this if
+I could find a less objectionable way to collect their debts.... Mm&#8212;here
+is some more of the consul's delicacy! He reports a conversation he had
+with some natives:</p>
+
+<p>Q. "How do you know it was the <hi rend="italics">white</hi> men themselves 
+
+<pb n="19"/>
+
+who ordered
+these cruel things to be done to you? These things must have been
+done without the white man's knowledge by the black soldiers."</p>
+
+<p>A. "The white men told their soldiers: 'You only kill <hi rend="italics">women</hi>; you
+cannot kill men. You must prove that you kill men.' So then the
+soldiers when they killed us" (here he stopped and hesitated and
+then pointing to . . . he said:) "then they . . . and took them to the
+white men, who said: 'It is true, you have killed <hi rend="italics">men</hi>.'"</p>
+
+<p>Q. "You say this is true? Were many of you so treated after being
+shot?"</p>
+
+<p>All [<hi rend="italics">shouting out</hi>]: "<hi rend="italics">Nkoto! Nkoto!</hi>" ("Very many! Very many!")</p>
+
+<p>"There was no doubt that these people were not inventing. Their
+vehemence, their flashing eyes, their excitement, were not
+simulated."</p>
+
+<p>Of course the critic had to divulge that; he has no self-respect. All
+his kind reproach me, although they know quite well that I took no
+pleasure in punishing the men in that particular way, but only did it as
+a warning to other delinquents. Ordinary punishments are no good with
+ignorant savages; they make no impression. [<hi rend="italics">Reads more sub-heads</hi>]</p>
+
+<p>"Devastated region; population reduced from 40,000 to 8,000."</p>
+
+<p>He does not take the trouble to say how it happened. He is fertile in
+concealments. He hopes his readers and his Congo reformers, of the
+Lord-Aberdeen-Norbury-John-Morley-Sir
+
+<pb n="20"/>
+
+Gilbert-Parker stripe, will think
+they were all killed. They were not. The great majority of them escaped.
+They fled to the bush with their families because of the rubber raids,
+and it was there they died of hunger. Could we help that?</p>
+
+<p>One of my sorrowing critics observes: "Other Christian rulers tax their
+people, but furnish schools, courts of law, roads, light, water and
+protection to life and limb in return; King Leopold taxes his stolen
+nation, but provides <hi rend="italics">nothing in return but hunger, terror, grief,
+shame, captivity, mutilation and massacre</hi>." That is their style! I
+furnish "nothing"! I send the gospel to the survivors; these
+censure-mongers know it, but they would rather have their tongues cut
+out than mention it. I have several times required my raiders to give
+the dying an opportunity to kiss the sacred emblem; and if they obeyed
+me I have without doubt been the humble means of saving many souls. None
+of my traducers have had the fairness to mention this; but let it pass;
+there is One who has not overlooked 
+
+<pb n="21"/>
+
+it, and that is my solace, that is
+my consolation.</p>
+
+<p>[<hi rend="italics">Puts down the Report, takes up a pamphlet, glances along the middle of
+it</hi>]</p>
+
+<p>This is where the "death-trap" comes in. Meddlesome missionary spying
+around&#8212;Rev. W. H. Sheppard. Talks with a black raider of mine after a
+raid; cozens him into giving away some particulars. The raider remarks:</p>
+
+<p>"'I demanded 30 slaves from this side of the stream and 30 from the
+other side; 2 points of ivory, 2,500 balls of rubber, 13 goats, 10
+fowls and 6 dogs, some corn chumy, etc.'</p>
+
+<p>'How did the fight come up?' I asked.</p>
+
+<p>'I sent for all their chiefs, sub-chiefs, men and women, to come on
+a certain day, saying that I was going to finish all the palaver.
+When they entered these small gates (the walls being made of fences
+brought from other villages, the high native ones) I demanded all my
+pay or I would kill them; so they refused to pay me, and I ordered
+the fence to be closed so they couldn't run away; then we killed
+them here inside the fence. The panels of the fence fell down and
+some escaped.'</p>
+
+<p>'How many did you kill?' I asked.</p>
+
+<p>'We killed plenty, will you see some of them?'</p>
+
+<p>That was just what I wanted.</p>
+
+<p>He said: 'I think we have killed between eighty and ninety, and
+those in the other villages I don't know, I did not go out but sent
+my people.'</p>
+
+<p>He and I walked out on the plain just near the camp. There were
+three dead bodies with the flesh carved off from the waist down.</p>
+
+<p>'Why are they carved so, only leaving the bones?' I asked.</p>
+
+<p>'My people ate them,' he answered promptly. He then 
+
+<pb n="22"/>
+
+explained, 'The
+men who have young children do not eat people, but all the rest ate
+them.' On the left was a big man, shot in the back and without a
+head. (All these corpses were nude.)</p>
+
+<p>'Where is the man's head?' I asked.</p>
+
+<p>'Oh, they made a bowl of the forehead to rub up tobacco and diamba
+in.'</p>
+
+<p>We continued to walk and examine until late in the afternoon, and
+counted forty-one bodies. The rest had been eaten up by the people.</p>
+
+<p>On returning to the camp, we crossed a young woman, shot in the back
+of the head, one hand was cut away. I asked why, and Mulunba N'Cusa
+explained that they always cut off the right hand to give to the
+State on their return.</p>
+
+<p>'Can you not show me some of the hands?' I asked.</p>
+
+<p>So he conducted us to a framework of sticks, under which was burning
+a slow fire, and there they were, the right hands&#8212;I counted them,
+eighty-one in all.</p>
+
+<p>There were not less than sixty women (Bena Pianga) prisoners. I saw
+them.</p>
+
+<p>We all say that we have as fully as possible investigated the whole
+outrage, and find it was a plan previously made to get all the stuff
+possible and to catch and kill the poor people in the 'death-trap.'"</p>
+
+<p><hi rend="italics">Another</hi> detail, as we see!&#8212;cannibalism. They report cases of it with a
+most offensive frequency. My traducers do not forget to remark that,
+inasmuch as I am absolute and with a word can prevent in the Congo
+anything I choose to prevent, then whatsoever is done there by my
+permission is my act, my <hi rend="italics">personal</hi> act; that <hi rend="italics">I</hi> do it; that the hand
+of my agent is as truly 
+
+<pb n="23"/>
+
+<hi rend="italics">my</hi> hand as if it were attached to my own arm;
+and so they picture me in my robes of state, with my crown on my head,
+munching human flesh, saying grace, mumbling thanks to Him from whom all
+good things come. Dear, dear, when the soft-hearts get hold of a thing
+like that missionary's contribution they quite lose their tranquility
+over it. They speak out profanely and reproach Heaven for allowing such
+a fiend to live. Meaning me. They think it irregular. They go shuddering
+around, brooding over the reduction of that Congo population from
+25,000,000 to 15,000,000 in the twenty years of my administration; then
+they burst out and call me "the King with Ten Million Murders on his
+Soul." They call me a "record." The most of them do not stop with
+charging merely the 10,000,000 against me. No, they reflect that but for
+me the population, by natural increase, would now be 30,000,000, so they
+charge another 5,000,000 against me and make my total death-harvest
+15,000,000. They remark that the man who killed the goose that laid the
+golden egg was responsible for the eggs she would subsequently have laid
+if she had been let alone. Oh, yes, they call me a "record." They remark
+that twice in a generation, in India, the Great Famine destroys
+2,000,000 out of a population of 320,000,000, and the whole world holds
+up its hands in pity and horror; then they fall to wondering 
+
+<pb n="24"/>
+
+where the
+world would find room for its emotions if I had a chance to trade places
+with the Great Famine for twenty years! The idea fires their fancy, and
+they go on and imagine the Famine coming in state at the end of the
+twenty years and prostrating itself before me, saying: "Teach me, Lord,
+I perceive that I am but an apprentice." And next they imagine Death
+coming, with his scythe and hour-glass, and begging me to marry his
+daughter and reorganize his plant and run the business. For the whole
+world, you see! By this time their diseased minds are under full steam,
+and they get down their books and expand their labors, with me for text.
+They hunt through all biography for my match, working Attila,
+Torquemada, Ghengis Khan, Ivan the Terrible, and the rest of that crowd
+for all they are worth, and evilly exulting when they cannot find it.
+Then they examine the historical earthquakes and cyclones and blizzards
+and cataclysms and volcanic eruptions: verdict, none of them "in it"
+with me. At last they do really hit it (as they think), and they close
+their labors with conceding&#8212;reluctantly&#8212;that I have <hi rend="italics">one</hi> match in
+history, but only one&#8212;the <hi rend="italics">Flood</hi>. This is intemperate.</p>
+
+<p>But they are always that, when they think of me. They can no more keep
+quiet when my name is mentioned than can a glass of water control its
+feelings with a seidlitz powder in its 
+
+<pb n="25"/>
+
+bowels. The bizarre things they
+can imagine, with me for an inspiration! One Englishman offers to give
+me the odds of three to one and bet me anything I like, up to 20,000
+guineas, that for 2,000,000 years I am going to be the most conspicuous
+foreigner in hell. The man is so beside himself with anger that he does
+not perceive that the idea is foolish. Foolish and unbusinesslike: you
+see, there could be no winner; both of us would be losers, on account of
+the loss of interest on the stakes; at four or five per cent.
+compounded, this would amount to&#8212;I do not know how much, exactly, but,
+by the time the term was up and the bet payable, a person could buy hell
+itself with the accumulation.</p>
+
+<p>Another madman wants to construct a memorial for the perpetuation of my
+name, out of my 15,000,000 skulls and skeletons, and is full of
+vindictive enthusiasm over his strange project. He has it all ciphered
+out and drawn to scale. Out of the skulls he will build a combined
+monument and mausoleum to me which shall exactly duplicate the Great
+Pyramid of Cheops, whose base covers thirteen acres, and whose apex is
+451 feet above ground. He desires to stuff me and stand me up in the sky
+on that apex, robed and crowned, with my "pirate flag" in one hand and a
+butcher-knife and pendant handcuffs in the other. He will build the
+pyramid in the centre of a depopulated tract, a brooding solitude
+covered 
+
+<pb n="26"/>
+
+with weeds and the mouldering ruins of burned villages, where
+the spirits of the starved and murdered dead will voice their laments
+forever in the whispers of the wandering winds. Radiating from the
+pyramid, like the spokes of a wheel, there are to be forty grand avenues
+of approach, each thirty-five miles long, and each fenced on both sides
+by skull-less skeletons standing a yard and a half apart and festooned
+together in line by short chains stretching from wrist to wrist and
+attached to tried and true old handcuffs stamped with my private
+trade-mark, a crucifix and butcher-knife crossed, with motto, "By this
+sign we prosper;" each osseous fence to consist of 200,000 skeletons on
+a side, which is 400,000 to each avenue. It is remarked with
+satisfaction that it aggregates three or four thousand miles
+(single-ranked) of skeletons,&#8212;15,000,000 all told&#8212;and would stretch
+across America from New York to San Francisco. It is remarked further,
+in the hopeful tone of a railroad company forecasting showy extensions
+of its mileage, that my output is 500,000 corpses a year when my plant
+is running full time, and that therefore if I am spared ten years longer
+there will be fresh skulls enough to add 175 feet to the pyramid, making
+it by a long way the loftiest architectural construction on the earth,
+and fresh skeletons enough to continue the transcontinental file (on
+piles) a thousand miles into 
+
+<pb n="27"/>
+
+the Pacific. The cost of gathering the
+materials from my "widely scattered and innumerable private graveyards,"
+and transporting them, and building the monument and the radiating grand
+avenues, is duly ciphered out, running into an aggregate of millions of
+guineas, and then&#8212;why then, (&#8212;&#8212; &#8212;&#8212;!! &#8212;&#8212; &#8212;&#8212;!!) this idiot asks me to
+<hi rend="italics">furnish the money!</hi> [<hi rend="italics">Sudden and effusive application of the crucifix</hi>]
+He reminds me that my yearly income from the Congo is millions of
+guineas, and that "<hi rend="italics">only</hi>" 5,000,000 would be required for his
+enterprise. Every day wild attempts are made upon my purse; they do not
+affect me, they cost me not a thought. But <hi rend="italics">this one</hi>&#8212;this one troubles
+me, makes me nervous; for there is no telling what an unhinged creature
+like this may think of next. . . . <hi rend="italics">If he should think of Carnegie</hi>&#8212;but I
+must banish that thought out of my mind! it worries my days; it troubles
+my sleep. That way lies madness. [<hi rend="italics">After a pause</hi>] There is no other
+way&#8212;I have got to buy Carnegie.</p>
+
+<p>[<hi rend="italics">Harrassed and muttering, walks the floor a while, then takes to the
+Consul's chapter-headings again. Reads</hi>]</p>
+
+<p>"Government starved a woman's children to death and killed her
+sons."</p>
+
+<p>"Butchery of women and children."</p>
+
+<p>"<hi rend="italics">The native has been converted into a being without ambition
+because without hope.</hi>"</p>
+
+<pb n="28"/>
+
+<p>"Women chained by the neck by rubber sentries."</p>
+
+<p>"Women refuse to bear children because, with a baby to carry, they
+cannot well run away and hide from the soldiers."</p>
+
+<p>"Statement of a child. 'I, my mother, my grandmother and my sister,
+we ran away into the bush. A great number of our people were killed
+by the soldiers. . . . After that they saw a little bit of my mother's
+head, and the soldiers ran quickly to where we were and caught my
+grandmother, my mother, my sister and another little one younger
+than us. Each wanted my mother for a wife, and argued about it, so
+they finally decided to kill her. They shot her through the stomach
+with a gun and she fell, and when I saw that I cried very much,
+because they killed my grandmother and mother and I was left alone.
+I saw it all done!'"</p>
+
+<p>It has a sort of pitiful sound, although they are only blacks. It
+carries me back and back into the past, to when my children were little,
+and would fly&#8212;to the bush, so to speak&#8212;when they saw me coming. . . .
+[<hi rend="italics">Resumes the reading of chapter-headings of the Consul's report</hi>]</p>
+
+<pb n="29"/>
+
+<p>"They put a knife through a child's stomach."</p>
+
+<p>"They cut off the hands and brought them to C. D. (white officer)
+and spread them out in a row for him to see. They left them lying
+there, because the white man had seen them, so they did not need to
+take them to P."</p>
+
+<p>"Captured children left in the bush to die, by the soldiers."</p>
+
+<p>"Friends came to ransom a captured girl; but sentry refused, saying
+the white man wanted her because she was young."</p>
+
+<p>"Extract from a native girl's testimony. 'On our way the soldiers
+saw a little child, and when they went to kill it the child laughed,
+so the soldier took the butt of his gun and struck the child with it
+and then cut off its head. One day they killed my half-sister and
+cut off her head, hands and feet, because she had bangles on. Then
+they caught another sister, and sold her to the W. W. people, and
+now she is a slave there.'"</p>
+
+<p>The little child laughed! [<hi rend="italics">A long pause. Musing</hi>] That innocent
+creature. Somehow&#8212;I wish it had not laughed. [<hi rend="italics">Reads</hi>]</p>
+
+<p>"Mutilated children."</p>
+
+<p>"Government encouragement of inter-tribal slave-traffic. The
+monstrous fines levied upon villages tardy in their supplies of
+foodstuffs compel the natives to sell their fellows&#8212;and children&#8212;to
+other tribes in order to meet the fine."</p>
+
+<p>"A father and mother forced to sell their little boy."</p>
+
+<p>"Widow forced to sell her little girl."</p>
+
+<pb n="30"/>
+
+<p>[<hi rend="italics">Irritated</hi>] Hang the monotonous grumbler, what would he have me do!
+Let a widow off merely because she is a widow? He knows quite well that
+there is nothing much left, now, <hi rend="italics">but</hi> widows. I have nothing against
+widows, as a class, but business is business, and I've got to live,
+haven't I, even if it does cause inconvenience to somebody here and
+there? [<hi rend="italics">Reads</hi>]</p>
+
+<p>"Men intimidated by the torture of their wives and daughters. (To
+make the men furnish rubber and supplies and so get their captured
+women released from chains and detention.) The sentry explained to
+me that he caught the women and brought them in (chained together
+neck to neck) by direction of his employer."</p>
+
+<p>"An agent explained that he was forced to catch women in preference
+to men, as then the men brought in supplies quicker; but he did not
+explain how the children deprived of their parents obtained their
+own food supplies."</p>
+
+<p>"A file of 15 (captured) women."</p>
+
+<p>"Allowing women and children to die of starvation in prison."</p>
+
+<p>[<hi rend="italics">Musing</hi>] Death from <hi rend="italics">hunger</hi>. A lingering, long misery that must be.
+Days and days, and still days and days, the forces of the body failing,
+dribbling away, little by little&#8212;yes, it must be the hardest death of
+all. And to see food carried by, every day, and you can have none of it!
+Of course the little children cry for it, and that wrings the mother's
+heart.... [<hi rend="italics">A sigh</hi>] Ah, well, it cannot be helped; circumstances make
+this discipline necessary. [<hi rend="italics">Reads</hi>]</p>
+
+<pb n="31"/>
+
+<p>"The crucifying of sixty women!"</p>
+
+<p>How stupid, how tactless! Christendom's goose flesh will rise with
+horror at the news. "Profanation of the sacred emblem!" That is what
+Christendom will shout. Yes, Christendom will buzz. It can hear me
+charged with half a million murders a year for twenty years and keep its
+composure, but to profane the Symbol is quite another matter. It will
+regard this as serious. It will wake up and want to look into my record.
+Buzz? Indeed it will; I seem to hear the distant hum already.... It was
+wrong to crucify the women, clearly wrong, manifestly wrong, I can see
+it now, myself, and am sorry it happened, sincerely sorry. I believe it
+would have answered just as well to skin them.... [<hi rend="italics">With a sigh</hi>] But
+none of us thought of that; one cannot think of everything; and after
+all it is but human to err.</p>
+
+<p>It will make a stir, it surely will, these crucifixions. Persons will
+begin to ask again, as now and then in times past, how I can hope to win
+and keep the respect of the human race if I continue to give up my life
+to murder and pillage. [<hi rend="italics">Scornfully</hi>] When have they heard me say I
+wanted the respect of the human race? Do they confuse me with the common
+herd? do they forget that I am a king? What king has valued the respect
+of the human race? I mean deep down in his private heart. If they would
+reflect, 
+
+<pb n="32"/>
+
+they would know that it is impossible that a king should value
+the respect of the human race. He stands upon an eminence and looks out
+over the world and sees multitudes of meek human things worshiping the
+persons, and submitting to the oppressions and exactions, of a dozen
+human things who are in no way better or finer than themselves&#8212;made on
+just their own pattern, in fact, and out of the same quality of mud.
+When it <hi rend="italics">talks</hi>, it is a race of whales; but a king knows it for a race
+of tadpoles. Its history gives it away. If men were really <hi rend="italics">men</hi>, how
+could a Czar be possible? and how could I be possible? But we <hi rend="italics">are</hi>
+possible; we are quite safe; and with God's help we shall continue the
+business at the old stand. It will be found that the race will put up
+with us, in its docile immemorial way. It may pull a wry face now and
+then, and make large talk, but it will stay on its knees all the same.</p>
+
+<p>Making large talk is one of its specialties. It works itself up, and
+froths at the mouth, and just when you think it is going to throw a
+brick,&#8212;it heaves a poem! Lord, what a race it is!</p>
+
+<pb n="35"/>
+
+<p>[<hi rend="italics">Reads</hi>]</p>
+
+<p>A CZAR&#8212;1905</p>
+
+<lg type="stanza">
+<l>"A pasteboard autocrat; a despot out of date;</l>
+<l rend="indent">A fading planet in the glare of day;</l>
+<l rend="indent">A flickering candle in the bright sun's ray,</l>
+<l>Burnt to the socket; fruit left too late,</l>
+<l rend="indent">High on a blighted bough, ripe till it's rotten.</l>
+</lg>
+
+<lg type="stanza">
+<l rend="indent">By God forsaken and by time forgotten,</l>
+<l>Watching the crumbling edges of his lands,</l>
+<l rend="indent">A spineless god to whom dumb millions pray,</l>
+<l rend="indent">From Finland in the West to far Cathay,</l>
+<l>Lord of a frost-bound continent he stands,</l>
+<l rend="indent">Her seeming ruin his dim mind appalls,</l>
+<l>And in the frozen stupor of his sleep</l>
+<l rend="indent">He hears dull thunders, pealing as she falls,</l>
+<l>And mighty fragments dropping in the deep."*</l>
+</lg>
+
+<p>It is fine, one is obliged to concede it; it is a great picture, and
+impressive. The mongrel handles his pen well. Still, with opportunity, I
+would cruci&#8212;flay him. . . . "A spineless god." It is the Czar to a dot&#8212;a
+god, and spineless; a royal invertebrate, poor lad; soft-hearted and out
+of place. "A spineless god <hi rend="italics">to whom dumb millions pray</hi>." Remorselessly
+correct; concise, too, and compact&#8212;the soul and spirit of the human race
+compressed into half a sentence. On their knees&#8212;140,000,000. On their
+knees to a little tin deity. Massed together, they would stretch away,
+and away, and away, across the plains, fading and dimming and failing in
+a measureless perspective&#8212;why, even 
+
+<fw type="foot">B. H. Nadal, in <hi rend="italics">New York Times</hi>.</fw>
+
+<pb n="34"/>
+
+the telescope's vision could not
+reach to the final frontier of that continental spread of human
+servility. Now <hi rend="italics">why</hi> should a king value the respect of the human race?
+It is quite unreasonable to expect it. A curious race, certainly! It
+finds fault with me and with my occupations, and forgets that neither of
+us could exist an hour without its sanction. It is our confederate and
+all-powerful protector. It is our bulwark, our friend, our fortress. For
+this it has our gratitude, our deep and honest gratitude&#8212;but not our
+respect. Let it snivel and fret and grumble if it likes; that is all
+right; we do not mind that.</p>
+
+<p>[<hi rend="italics">Turns over leaves of a scrapbook, pausing now and then to read a
+clipping and make a comment</hi>] The poets&#8212;how they do hunt that poor Czar!
+French, Germans, English, Americans&#8212;they all have a bark at him. The
+finest and capablest of the pack, and the fiercest, are Swilburne
+(English, I think), and a pair of Americans, Thomas Bailey Eldridge and
+Colonel Richard Waterson Gilder, of the sentimental periodical called
+<hi rend="italics">Century Magazine and Louisville Courier-Journal</hi>. They certainly have
+uttered some very strong yelps. I can't seem to find them&#8212;I must have
+mislaid them. . . . If a poet's bite were as terrible as his bark, why dear
+me&#8212;but it isn't. A wise king minds neither of them; but the poet doesn't
+know it. It's a case of little dog and lightning express. 
+
+<pb n="35"/>
+
+When the Czar
+goes thundering by, the poet skips out and rages alongside for a little
+distance, then returns to his kennel wagging his head with satisfaction,
+and thinks he has inflicted a memorable scare, whereas nothing has
+really happened&#8212;the Czar didn't know he was around. They never bark at
+me; I wonder why that is. I suppose my Corruption-Department buys them.
+That must be it, for certainly I ought to inspire a bark or two; I'm
+rather choice material, I should say. Why&#8212;here <hi rend="italics">is</hi> a yelp at me.
+[<hi rend="italics">Mumbling a poem</hi>]</p>
+
+<lg>
+<l>". . . What gives thee holy right to murder hope</l>
+<l>And water ignorance with human blood?</l>
+<l>· · · · ·</l>
+<l>From what high universe-dividing power</l>
+<l>Draw'st thou thy wondrous, ripe brutality?</l>
+<l>· · · · ·</l>
+<l>O horrible . . . Thou God who seest these things</l>
+<l>Help us to blot this terror from the earth."</l>
+</lg>
+
+<p>. . . No, I see it is "To the Czar,"* after all. But there are those who
+would say it fits me&#8212;and rather snugly, too. "Ripe brutality." They
+would say the Czar's isn't ripe yet, but that mine is; and not merely
+ripe but rotten. Nothing could keep them from saying that; they would
+think it smart. "This terror." Let the Czar keep that name; I am
+supplied. This long time I have been "the monster"; that was their
+
+<fw type="note">Louise Morgan Sill, in <hi rend="italics">Harper's Weekly</hi>.</fw>
+
+<pb n="36"/>
+
+favorite&#8212;the monster of crime. But now I have a new one. They have found
+a fossil Dinosaur fifty-seven feet long and sixteen feet high, and set
+it up in the museum in New York and labeled it "Leopold II." But it is
+no matter, one does not look for manners in a republic. Um . . . that
+reminds me; I have never been caricatured. Could it be that the corsairs
+of the pencil could not find an offensive symbol that was big enough and
+ugly enough to do my reputation justice? [<hi rend="italics">After reflection</hi>] There is
+no other way&#8212;I will buy the Dinosaur. And suppress it. [<hi rend="italics">Rests himself
+with some more chapter-headings. Reads</hi>]</p>
+
+<p>"More mutilation of children." (Hands cut off.)</p>
+
+<p>"Testimony of American Missionaries."</p>
+
+<p>"Evidence of British Missionaries."</p>
+
+<p>It is all the same old thing&#8212;tedious repetitions and duplications of
+shop-worn episodes; mutilations, murders, massacres, and so on, and so
+on, till one gets drowsy over it. Mr. Morel intrudes at this point, and
+contributes a comment which he could just as well have kept to
+himself&#8212;and throws in some italics, of course; these people can never
+get along without italics:</p>
+
+<p>"It is one heartrending story of human misery from beginning to end,
+and <hi rend="italics">it is all recent</hi>."</p>
+
+<p>Meaning 1904 and 1905. I do not see how a 
+
+<pb n="37"/>
+
+person can act so. This Morel
+is a king's subject, and reverence for monarchy should have restrained
+him from reflecting upon me with that exposure. This Morel is a
+reformer; a Congo reformer. That sizes <hi rend="italics">him</hi> up. He publishes a sheet in
+Liverpool called "The West African Mail," which is supported by the
+voluntary contributions of the sap-headed and the soft-hearted; and
+every week it steams and reeks and festers with up-to-date "Congo
+atrocities" of the sort detailed in this pile of pamphlets here. I will
+suppress it. I suppressed a Congo atrocity book there, after it was
+actually in print; it should not be difficult for me to suppress a
+newspaper.</p>
+
+<p>[<hi rend="italics">Studies some photographs of mutilated negroes&#8212;throws them down.
+Sighs</hi>] The kodak has been a sore calamity to us. The most powerful
+enemy that has confronted us, indeed. In the early years we had no
+trouble in getting the press to "expose" the tales of the mutilations as
+slanders, lies, inventions of busy-body American missionaries and
+exasperated foreigners who had found the "open door" of the Berlin-Congo
+charter closed against them when they innocently 
+
+<pb n="38"/>
+
+went out there to
+trade; and by the press's help we got the Christian nations everywhere
+to turn an irritated and unbelieving ear to those tales and say hard
+things about the tellers of them. Yes, all things went harmoniously and
+pleasantly in those good days, and I was looked up to as the benefactor
+of a down-trodden and friendless people. Then all of a sudden came the
+crash! That is to say, the incorruptible <hi rend="italics">kodak</hi>&#8212;and all the harmony
+went to hell! The only witness I have encountered in my long experience
+that I couldn't bribe. Every Yankee missionary and every interrupted
+trader sent home and got one; and now&#8212;oh, well, the pictures get sneaked
+around everywhere, in spite of all we can do to ferret them out and
+suppress them. Ten thousand pulpits and ten thousand presses are saying
+the good word for me all the time and placidly and convincingly denying
+the mutilations. Then that trivial little kodak, that a child can carry
+in its pocket, gets up, uttering never a word, and knocks them dumb!</p>
+
+<p>. . . What is this fragment? [<hi rend="italics">Reads</hi>]</p>
+
+<p>"But enough of trying to tally off his crimes! His list is
+interminable, we should never get to the end of it. His awful shadow
+lies across his Congo Free State, and under it an unoffending nation
+of 15,000,000 is withering away and swiftly succumbing to their
+miseries. It is a land of graves; it is <hi rend="italics">The</hi> Land of Graves; it is
+the Congo Free 
+
+<pb n="39"/>
+
+Graveyard. It is a majestic thought: that is, this
+ghastliest episode in all human history is the work of <hi rend="italics">one man
+alone</hi>; one solitary man; just a single individual&#8212;Leopold, King of
+the Belgians. He is personally and solely responsible for all the
+myriad crimes that have blackened the history of the Congo State. He
+is <hi rend="italics">sole</hi> master there; he is absolute. He could have prevented the
+crimes by his mere command; he could stop them today with a word. He
+withholds the word. For his pocket's sake.</p>
+
+<p>"It seems strange to see a king destroying a nation and laying waste
+a country for mere sordid money's sake, and solely and only for
+that. Lust of conquest is royal; kings have always exercised that
+stately vice; we are used to it, by old habit we condone it,
+perceiving a certain dignity in it; but <hi rend="italics">lust of money&#8212;lust of
+shillings&#8212;lust of nickels&#8212;lust of dirty coin</hi>, not for the nation's
+enrichment but for <hi rend="italics">the king's alone</hi>&#8212;this is new. It distinctly
+revolts us, we cannot seem to reconcile ourselves to it, we resent
+it, we despise it, we say it is shabby, unkingly, out of character.
+Being democrats we ought to jeer and jest, we ought to rejoice to
+see the purple dragged in the dirt, but&#8212;well, account for it as we
+may, we don't. We see this awful king, this pitiless and
+blood-drenched king, this money-crazy king towering toward the sky
+in a world-solitude of sordid crime, unfellowed and apart from the
+human race, sole butcher for personal gain findable in all his
+caste, ancient or modern, pagan or Christian, proper and legitimate
+target for the scorn of the lowest and the highest, and the
+execrations of all who hold in cold esteem the oppressor and the
+coward; and&#8212;well, it is a mystery, but <hi rend="italics">we do not wish to look</hi>; for
+he is a king, and it hurts us, it troubles us, by ancient and
+inherited instinct it shames us to see a king degraded to this
+aspect, and we shrink 
+
+<pb n="40"/>
+
+from hearing the particulars of how it
+happened. <hi rend="italics">We shudder</hi> and <hi rend="italics">turn away</hi> when we come upon them in
+print."</p>
+
+<p>Why, certainly&#8212;<hi rend="italics">that</hi> is my protection. And you will continue to do it.
+I know the human race.</p>
+
+</div2>
+
+<pb n="41"/>
+
+<div2 type="epigraph">
+
+<head type="sub">"An Original Mistake"</head>
+
+<p>"This work of 'civilization' is an enormous and continual butchery." "All the facts we brought forward in this chamber were denied at first most energetically; but later, little by little, they were proved by documents and by official texts." "The practice of cutting off hands is said to be contrary to instructions; but you are content to say that indulgence must be shown and that this bad habit must be corrected 'little by little' and you plead, moreover, that only the hands of <hi rend="italics">fallen</hi> enemies are cut off, and that if hands are cut off 'enemies' not quite dead, and who, after recovery, have had the bad taste to come to the missionaries and show them their stumps, it was due to an original mistake in thinking that they were dead." <hi rend="italics">From Debate in Belgian Parliament, July, 1903</hi>.</p>
+
+</div2>
+
+<pb n="43"/>
+
+<div2 type="body">
+
+<head type="main">Supplementary</head>
+
+<pb n="45"/>
+
+<head type="sub">Ought King Leopold to be Hanged?*</head>
+
+<p>Interview by Mr. W. T. Stead with the Rev. John H. Harris, Baringa, Congo State, in the English Review of Reviews for September, 1905.</p>
+
+<p>For the somewhat startling suggestion in the heading of this interview, the missionary interviewed is in no way responsible. The credit of it, or, if you like, the discredit, belongs entirely to the editor of the <hi rend="italics">Review</hi>, who, without dogmatism, wishes to pose the question as a matter for serious discussion. Since Charles I's head was cut off, opposite Whitehall, nearly two hundred and fifty years ago, the sanctity which doth hedge about a king has been held in slight and scant regard by the Puritans and their descendants. Hence there is nothing antecedently shocking or outrageous in the discussion of the question whether the acts of any Sovereign are such as to justify the calling in of the services of the public executioner. It is not, of course, for a journalist to pronounce judgment, but no function of the public writer is so imperative as that of calling attention to great wrongs, and no duty is more imperious than that of insisting that no rank or station should be allowed to shield from justice the real criminal when he is once discovered.</p>
+
+<p>The controversy between the Congo Reform Association and the Emperor of the Congo has now arrived at a stage in which it is necessary to take a further step towards the
+
+<fw type="notes">* The above article which came to hand as the foregoing is in press is commended to the king and to readers of his Soliloquy.&#8212;M. T.</fw>
+
+<pb n="46"/>
+
+redress of unspeakable wrongs and the punishment of no less unspeakable criminals. The Rev. J. H. Harris, an English missionary, has lived for the last seven years in that region of Central Africa&#8212;the Upper Congo&#8212;which King Leopold has made over to one of his vampire groups of financial associates (known as the A.B.I.R. Society) on the strictly business basis of a half share in the profits wrung from the blood and misery of the natives. He has now returned to England, and last month he called at Mowbray House to tell me the latest from the Congo. Mr. Harris is a young man in a dangerous state of volcanic fury, and no wonder. After living for seven years face to face with the devastations of the vampire State, it is impossible to deny that he does well to be angry. When he began, as is the wont of those who have emerged from the depths, to detail horrifying stories of murder, the outrage and torture of women, the mutilation of children, and the whole infernal category of horrors, served up with the background of cannibalism, sometimes voluntary and sometimes, incredible though it seems, enforced by the orders of the officers, I cut him short, and said:&#8212;</p>
+
+<p>"Dear Mr. Harris, as in Oriental despatches the India Office translator abbreviates the first page of the letter into two words 'after compliments,' or 'a.c.,' so let us abbreviate our conversation about the Congo by the two words 'after atrocities,' or 'a.a.' They are so invariable and so monotonous, as Lord Percy remarked in the House the other day, that it is unnecessary to insist upon them. There is no longer any dispute in the mind of any reasonable person as to what is going on in the Congo. It is the economical exploitation of half a continent carried on by the use of armed force wielded by officials the aim-all and be-all of whose existence is to extort the maximum amount of 
+
+<pb n="47"/>
+
+rubber in the shortest possible time in order to pay the largest possible dividend to the holders of shares in the concessions."</p>
+
+<p>"Well," said Mr. Harris reluctantly, for he is so accustomed to speaking to persons who require to be told the whole dismal tale from A to Z, "what is it you want to know?"</p>
+
+<p>"I want to know," I said, "whether you consider the time is ripe for summoning King Leopold before the bar of an international tribunal to answer for the crimes perpetrated under his orders and in his interest in the Congo State."</p>
+
+<p>Mr. Harris paused for a moment, and then said:&#8212;"That depends upon the action which the king takes upon the report of the Commission, which is now in his hands."</p>
+
+<p>"Is that report published?"</p>
+
+<p>"No," said Mr. Harris; "and it is a question whether it will ever be published. Greatly to our surprise, the Commission, which every one expected would be a mere blind whose appointment was intended to throw dust in the eyes of the public, turned out to be composed of highly respectable persons who heard the evidence most impartially, refused no <hi rend="italics">bona fide</hi> testimony produced by trustworthy witnesses, and were overwhelmed by the multitudinous horrors brought before them, and who, we feel, must have arrived at conclusions which necessitate an entire revolution in the administration of the Congo."</p>
+
+<p>"Are you quite sure, Mr. Harris," I said, "that this is so?"</p>
+
+<p>"Yes," said Mr. Harris, "quite sure. The Commission impressed us all in the Congo very favorably. Some of its members seemed to us admirable specimens of public-spirited, independent statesmen. They realized that they were acting in a judicial capacity; they knew that the eyes
+
+<pb n="48"/>
+
+of Europe were upon them, and, instead of making their inquiry a farce, they made it a reality, and their conclusions must be, I feel sure, so damning to the State, that if King Leopold were to take no action but to allow the whole infernal business to proceed unchecked, any international tribunal which had powers of a criminal court, would upon the evidence of the Commission alone, send those responsible to the gallows."</p>
+
+<p>"Unfortunately," I said, "at present the Hague Tribunal is not armed with the powers of an international assize court, nor is it qualified to place offenders, crowned or otherwise, in the dock. But don't you think that in the evolution of society the constitution of such a criminal court is a necessity?"</p>
+
+<p>"It would be a great convenience at present," said Mr. Harris; "nor would you need one atom of evidence beyond the report of the Commission to justify the hanging of whoever is responsible for the existence and continuance of such abominations."</p>
+
+<p>"Has anybody seen the text of the report?" I asked.</p>
+
+<p>"As the Commission returned to Brussels in March, some of the contents of that report are an open secret. A great deal of the evidence has been published by the Congo Reform Association. In the Congo the Commissioners admitted two things: first, that the evidence was overwhelming as to the existence of the evils which had hitherto been denied, and secondly, that they vindicated the character of the missionaries. They discovered, as anyone will who goes out to that country, that it is the missionaries, and the missionaries alone, who constitute the permanent European element. The Congo State officials come out ignorant of the language, knowing nothing of the country, and with no other sense of their duties beyond that of supporting the concession companies 
+
+<pb n="49"/>
+
+in extorting rubber. They are like men who are dumb and deaf and blind, nor do they wish to be otherwise. In two or three years they vanish, giving place to other migrants as ignorant as themselves, whereas the missionaries remain on the spot year after year; they are in personal touch with the people, whose language they speak, whose customs they respect, and whose lives they endeavor to defend to the best of their ability."</p>
+
+<p>"But, Mr. Harris," I remarked, "was there not a certain Mr. Grenfell, a Baptist Missionary, who has been all these years a convinced upholder of the Congo State?"</p>
+
+<p>"'Twas true," said Mr. Harris, "and pity 'tis 'twas true; but 'tis no longer true. Mr. Grenfell has had his eyes opened at last, and he has now taken his place among those who are convinced. He could no longer resist the overwhelming evidence that has been brought against the Congo Administration."*</p>
+
+<p>"Was the nature of the Commissioners' report," I resumed, "made known to the officials of the State before they left the Congo?"</p>
+
+<p>"To the head officials&#8212;yes," said Mr. Harris.</p>
+
+<p>"With what result?"</p>
+
+<p>"In the case of the highest official in the Congo, the man who corresponds in Africa to Lord Curzon in India, no sooner was he placed in possession of the conclusions of the Commission than the appalling significance of their indictment convinced him that the game was up, and he went into his room and cut his throat. I was amazed on returning to Europe to find how little the significance of this suicide was appreciated. A paragraph in the newspaper announced the suicide of a Congo official. None of those who read that 
+
+<fw type="notes">* Mr. Grenfell's station is in the Lower Congo, a section remote from the vast rubber areas of the interior.</fw>
+
+<pb n="50"/>
+
+paragraph could realize the fact that that suicide had the same significance to the Congo that the suicide, let us say, of Lord Milner would have had if it had taken place immediately on receiving the conclusions of a Royal Commission sent out to report upon his administration in South Africa."</p>
+
+<p>"Well, if that be so, Mr. Harris," I said, "and the Governor-General cuts his throat rather than face the ordeal and disgrace of the exposure, I am almost beginning to hope that we may see King Leopold in the dock at the Hague, after all."</p>
+
+<p>"I will comment upon that," Mr. Harris said, "by quoting you Mrs. Sheldon's remark made before myself and my colleagues, Messrs. Bond, Ellery, Ruskin, Walbaum and Whiteside, on May 19th last year, when, in answer to our question, 'Why should King Leopold be afraid of submitting his case to the Hague tribunal?' Mrs. Sheldon answered, 'Men do not go to the gallows and put their heads in a noose if they can avoid it.'"</p>
+
+</div2>
+
+</div1>
+</body>
+</text>
+</TEI>

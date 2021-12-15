@@ -68,7 +68,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
@@ -78,10 +78,10 @@
 <keywords scheme="original" n="places">
 <term>Angra Pequena</term>
 <term>Cape of Good Hope</term>
-<term>St. Vincent</term>
+<term>St. Vincent (Cape Verde)</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>Germany</term>
 </keywords>
     
@@ -99,13 +99,13 @@
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
 <roleName>U.S. Vice Counsel</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1884-12-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1885-02-05"/>
 </correspAction>
 </correspDesc>
@@ -113,6 +113,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2020-08" who="kln">reviewed and edited.</change>
 <change when="2019" who="sab">transcribe, encode.</change>
 </revisionDesc>
@@ -124,7 +125,7 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan50003"/> 
+<pb n="Scan50003"/> 
 
 <note>Department of State Received Feb 5 1885</note>
 

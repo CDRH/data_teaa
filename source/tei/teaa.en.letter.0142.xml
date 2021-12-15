@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to J. C. Bancroft Davis, May 16, 1882 </title>
+<title>Despatch from Robert Scott Newton to J. C. Bancroft Davis, May 16, 1882 </title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to J. C. Bancroft Davis</title>
+<title level="a">Despatch from Robert Scott Newton to J. C. Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">3</biblScope>
 <date from="1882-05-16">May 16, 1882</date>
 </bibl>
@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -80,19 +80,18 @@
 <keywords scheme="original" n="places">
 <term>Benguela (Angola)</term>
 <term>Cape Verde</term>
-<term>Equinina (Angola)</term><!-- not positive it's Angola -->
-<term>New Bedford (Mass.)</term>
-<term>St. Paul de Loanda (Angola)</term>
+<term>Equimina (Angola)</term>
+<term>New Bedford (Massachusetts)</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -103,13 +102,13 @@
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
 <roleName>U.S. Vice Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1882-05-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1882-07-01"/>
 </correspAction>
 </correspDesc>
@@ -129,11 +128,9 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0142.001"/>
+<pb n="teaa.en.letter.0142.001"/>
 
 <note>Department of State Received July 1 1882</note>
-
-<note>Ackd July 5/82</note>
 
 <note>No 96</note>
 
@@ -153,13 +150,13 @@ Department of State</p>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0142.002"/>
+<pb n="teaa.en.letter.0142.002"/>
 
 <note>No 96</note>
 
-<opener><dateline>United States Consulate<lb/>
+<p>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-16th May 1882</dateline></opener>
+16th May 1882</p>
 
 <p>Sir,</p>
 
@@ -173,10 +170,10 @@ to understand and look after them.</p>
 <p>The men themselves state that they deserted 
 from the American Whaling Barque "Matta
 Poisette", Captain Stegburgh, of New Bedford, 
-at the Port of Equinnina and walked about
+at the Port of Equimina and walked about
 <gap extent="half a page" reason="incomplete image"/></p>
 
-<pb facs="teaa.en.letter.0142.003"/>
+<pb n="teaa.en.letter.0142.003"/>
 
 <p>When out whaling, they also complain 
 that the mate refused them water, and
@@ -193,15 +190,14 @@ for each</p>
 <p>Their names are Andrew Schmitt,
 Louis Umlandt, and Niels Hansen.</p>
 
-<closer><salute>I have the honor to be, Sir,<lb/>
-Your obedient servant</salute>
-<signed>Robt S Newton<lb/>
-U.S. Vice-Consul</signed>
+<p>I have the honor to be, Sir,<lb/>
+Your obedient servant<lb/>
+Robt S Newton<lb/>
+U.S. Vice-Consul</p>
 
-<address><addrLine>To the</addrLine>
-<addrLine>Assistant Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
-</closer>
+<p>To the<lb/>
+Assistant Secretary of State<lb/>
+Washington D.C.</p>
 
 </div1>
 </body>

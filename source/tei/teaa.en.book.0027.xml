@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.book.0027">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Joaquin Miller - Chants for the Boer (1900)</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.book.0027</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Chants for the Boer</title>
+<author ref="http://viaf.org/viaf/120784010">Miller, Joaquin, 1837-1913</author>
+<pubPlace>San Francisco</pubPlace>
+<publisher>The Whitaker &amp; Ray Company</publisher>
+<date when="1905">1900</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+
+<keywords scheme="original" n="theme">
+<term>Imagined Africa</term>
+<term>Resistance</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Poetry</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/39463346">Krüger, Paul 1825-1904</term>
+</keywords>
+
+<keywords scheme="original" n="places">
+<term>Egypt</term>
+<term>South Africa</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term>Boer</term>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term>Christianity</term>
+</keywords>
+
+<classCode scheme="original">
+<ref type="analysis" target="teaa.analysis.0020">Analysis</ref>
+</classCode>
+
+</textClass>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-10" who="kln">encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="book" xml:lang="en">
+
+<pb n="1"/>
+
+<div2 type="title">
+
+<head type="main">Chants For the Boer</head>
+
+<head type="sub">By Joaquin Miller</head>
+
+<lg type="stanza">
+<l>"And whether on the scaffold high,</l>
+<l>Or in the battle's van,</l>
+<l>The fittest place for man to die</l>
+<l>Is where he dies for man."</l>
+</lg>
+
+</div2>
+
+<pb n="3"/>
+
+<div2 type="body">
+
+<lg type="stanza">
+<l>For the right that needs assistance,</l>
+<l>For the wrong that needs resistance,</l>
+<l>For the glory in the distance,</l>
+<l>For the good that we can do.</l>
+</lg>
+
+</div2>
+
+<pb n="7"/>
+
+<div2 type="poem">
+
+<head type="sub">To the Boers.</head>
+
+<lg type="quote">
+<l><hi rend="italics">"For Freedom's battles once begun,</hi></l>
+<l><hi rend="italics">Bequeathed from bleeding sire to son,</hi></l>
+<l><hi rend="italics">Though baffled oft, are ever won."</hi></l>
+<l><hi rend="italics">&#8212;Byron.</hi></l>
+</lg>
+
+<lg type="stanza">
+<l>The Sword of Gideon, Sword of God</l> 
+<l>Be with ye, Boers. Brave men of peace</l> 
+<l>Ye hewed the path, ye brake the sod,</l> 
+<l>Ye fed white flocks of fat increase</l> 
+<l>Where Saxon foot had never trod;</l> 
+<l>Where Saxon foot unto this day</l> 
+<l>Had measured not, had never known</l> 
+<l>Had ye not bravely led the way</l> 
+<l>And made such happy homes your own.</l> 
+</lg>
+
+<lg type="stanza">
+<l>I think God's house must be such home.</l> 
+<l>The priestess Mother, choristers</l> 
+<l>Who spin and weave nor care to roam</l> 
+<l>Beyond this white God's house of hers,</l> 
+<l>But spinning sing and spin again.</l> 
+<l>I think such silent shepherd men</l> 
+<l>Most like that few the prophet sings&#8212;</l> 
+<l>Most like that few stout Abram drew</l> 
+<l>Triumphant o'er the slaughtered Kings.</l> 
+</lg>
+
+<pb n="8"/>
+
+<lg type="stanza">
+<l>Defend God's house! Let fall the crook.</l> 
+<l>Draw forth the plowshare from the sod</l> 
+<l>And trust, as in the Holy Book,</l> 
+<l>The Sword of Gideon and of God;</l> 
+<l>God and the right! Enough to fight</l> 
+<l>A million regiments of wrong.</l> 
+<l>Defend! Nor count what comes of it.</l> 
+<l>God's battle bides not with the strong;</l> 
+<l>And pride must fall. Lo, it is writ!</l>
+</lg> 
+
+<lg type="stanza">
+<l>Great England's Gold! how stanch she fares</l> 
+<l>Fame's wine cup pressing her proud lips&#8212;</l> 
+<l>Her checkerboard of battle squares</l> 
+<l>Rimmed round by steel-built battleships!</l> 
+<l>And yet meanwhiles ten thousand miles</l> 
+<l>She seeks ye out. Well, welcome her!</l> 
+<l>Give her such welcome with such will</l> 
+<l>As Boston gave in battle's whir</l> 
+<l>That red, dread day at Bunker Hill.</l>
+</lg> 
+
+<p>San Francisco, September, 1899.</p> 
+
+</div2>
+
+<pb n="9"/>
+
+<div2 type="poem">
+
+<head type="sub">To Ye Fighting Lords of London Town.</head>
+
+<p>Christmas Morning, 1899.</p> 
+
+<p><hi rend="italics">"The equipment of the Maine hospital ship by our American 
+cousins warrants us in saying at least that they wish us well."</hi></p> 
+
+<lg type="stanza">
+<l>We wish you well in all that's well,</l> 
+<l>Would bind your wounds, would clothe, would feed&#8212;</l> 
+<l>Lay flowers where your brave men fell</l> 
+<l>In desert lands, exalt each deed</l> 
+<l>Of sacrifice; would beg to lay</l> 
+<l>White lilies by the gray hearthstone</l> 
+<l>Where, bowed in black this Christmas day,</l> 
+<l>She wails her brave dead far away</l> 
+<l>And weeps, so more than all alone:</l> 
+<l>Weeps while the chime, the chilly chime,</l> 
+<l>Drops on her heart, drops all the time</l> 
+<l>As one might drop a stone.</l> 
+</lg>
+
+<lg type="stanza">
+<l>But you, ye lords and gentlemen</l> 
+<l>High throned, safe housed at home, fat fed,</l> 
+<l>When ye say we approve ye, when</l> 
+<l>Ye say this blood so bravely shed</l> 
+<l>Is shed with our consent, take care,</l> 
+<l>Lest Truth may take ye unaware;</l> 
+<l>Lest Truth be heard despite these chimes.</l> 
+<l>This hearthstone, brother's blood that cries</l> 
+<l>To God is Freedom's blood. Take care</l> 
+<l>Lest all sweet earth these piteous times</l> 
+
+
+<pb n="10"/>
+
+<l>Not only hate ye for your crimes,</l> 
+<l>But scorn ye for your lies!</l> 
+</lg>
+
+<lg type="stanza">
+<l>We would forgive could we forget:</l> 
+<l>We could forget all wrongs we knew</l> 
+<l>Had ye stayed hand some little yet&#8212;</l> 
+<l>Left to their own that farmer few</l> 
+<l>So like ourselves that fateful hour</l> 
+<l>Ye forced our farmers from the plow</l> 
+<l>To grapple with your tenfold power.</l> 
+<l>They guessed your greed, we know it now;</l> 
+<l>And now we ward ye from this hour!</l> 
+<l>Now, well awake no more we sleep,</l> 
+<l>But keep and keep and ever keep</l> 
+<l>To Freedom's high watchtower.</l>
+</lg> 
+
+<lg type="stanza">
+<l>Not all because our Washington</l> 
+<l>In battle's carnage, years and years,</l> 
+<l>And this same Boer braved ye as one&#8212;</l> 
+<l>Blent blood with blood and tears with tears</l> 
+<l>Not all because of kindred blood,</l> 
+<l>Not all because they built a town</l> 
+<l>And left such names of true renown.*</l>
+<l>Not all because of Luther, Huss:</l> 
+<l>But most because of Brotherhood</l> 
+<l>In Freedom's Hall; the holy right</l> 
+<l>To fight for Home, as freemen fight&#8212;</l> 
+<l>Who Freedom stabs, stabs Us!</l>
+</lg>  
+
+<fw type="note">* NOTE.&#8212;"I thank God there is not a drop of Saxon blood in 
+my veins. I am a Dutchman; Boer, if you please." &#8212;Rough-rider Roosevelt, Governor of New York and heir apparent to the Presidency of Us.</fw> 
+
+<pb n="11"/> 
+
+<lg type="stanza">
+<l>This Nation's heart, say what men may</l> 
+<l>Who butcher Peace and barter Truth,</l> 
+<l>Beats true as on its natal day,</l> 
+<l>Beats true as in its battle-youth,</l> 
+<l>Beats true to Freedom, true to Truth,</l> 
+<l>Whatever Tories dare to say.</l> 
+<l>Of all who fought with Washington</l> 
+<l>One Arnold was and only one.</l> 
+<l>Christ chose but twelve, yet one poor soul</l> 
+<l>Sold God for silver. Ever thus</l>
+<l>Some taint, and even so with Us:</l> 
+<l>But Freedom thrills the whole.</l>
+</lg> 
+
+<lg type="stanza">
+<l>My Lords, ye lead, through Him who died,</l> 
+<l>Your dauntless millions. Ye are wise</l> 
+<l>And learned. Ye are, beside,</l> 
+<l>As God's anointed in their eyes,</l> 
+<l>Ye sit so far above their reach.</l> 
+<l>Such trust! But are ye truly true</l> 
+<l>To what He taught, to what ye preach,</l> 
+<l>To those who trust and look to you?</l> 
+<l>Then why mocked ye that manly Russ,</l> 
+<l>That august man, that manliest man</l> 
+<l>That yet has been since time began?</l> 
+<l>Ye mocked, as ye mock Us!</l> 
+</lg>
+
+<lg type="stanza">
+<l>My Lords, slow paced and somber clad</l> 
+<l>Ye all will fare to church to-day</l> 
+<l>And there sit solemn faced and sad</l> 
+<l>With eyes to book, as if to pray.</l> 
+<l>And will ye think of Him who came</l> 
+<l>And lived so poor and died so lorn&#8212;</l> 
+
+<pb n="12"/> 
+
+<l>Came in the name of Peace, the name</l> 
+<l>Of God, that fair first Christmas morn?</l> 
+<l>My Lords, ye needs must think to-day&#8212;</l> 
+<l>Your eyes bent to the Holy Book</l> 
+<l>The while the people look and look&#8212;</l> 
+<l>For dare ye try to pray?</l> 
+</lg>
+
+<lg type="stanza">
+<l>And while ye think of Christ the child</l> 
+<l>Think of the childless mother, she</l> 
+<l>Whose dead boy has his desert wild,</l> 
+<l>While yours his Christmas tree;</l> 
+<l>Think of the mother, far away,</l> 
+<l>Who sits and weeps with hollow eyes,</l> 
+<l>Her hungry child that cries and cries</l> 
+<l>Forlorn and fatherless to-day:</l> 
+<l>Think of the thousand homes that weep</l> 
+<l>All desolate, who but for ye</l> 
+<l>To-day had decked their Christmas tree;</l> 
+<l>Then fare ye home and&#8212;sleep?</l> 
+</lg>
+
+</div2>
+
+<pb n="13"/> 
+
+<div2 type="poem">
+
+<head type="sub">Mother Egypt.</head> 
+
+<p><hi rend="italics">Dedicated to England on her invasion of North Africa.</hi></p> 
+
+<lg type="stanza">
+<l>Dark browed, she broods with weary lids</l> 
+<l>Beside her Sphinx and Pyramids,</l> 
+<l>With low and never-lifted head.</l> 
+<l>If she be dead, respect the dead;</l> 
+<l>If she be weeping, let her weep;</l> 
+<l>If she be sleeping, let her sleep;</l> 
+<l>For lo, this woman named the stars!</l> 
+<l>She suckled at her tawny dugs</l> 
+<l>Your Moses while you reeked in wars</l> 
+<l>And prowled your woods, nude, painted thugs.</l>
+</lg> 
+
+<lg type="stanza">
+<l>Then back, brave England; back in peace</l> 
+<l>To Christian isles of fat increase!</l> 
+<l>Go back! Else bid your high priests bear</l> 
+<l>The sword and curse the sweet plowshare;</l> 
+<l>Take down their cross from proud Saint Paul's</l> 
+<l>And coin it into cannon-balls!</l> 
+<l>You tent not far from Nazareth,</l> 
+<l>Your camps trench where his child-feet strayed.</l> 
+<l>If Christ had seen this work of death!</l> 
+<l>If Christ had seen these ships invade!</l>
+</lg>
+ 
+<lg type="stanza">
+<l>I think the patient Christ had said,</l> 
+<l>"Go back, brave men! Take up your dead;</l> 
+<l>Draw down your great ships to the seas;</l> 
+<l>Repass the gates of Hercules;</l> 
+<l>Go back to wife with babe at breast,</l> 
+<l>And leave lorn Egypt to her rest."</l> 
+
+<pb n="14"/> 
+
+<l>Or is Christ dead, as Egypt is?</l> 
+<l>Ah, England, hear me yet again;</l> 
+<l>There's something grimly wrong in this</l> 
+<l>So like some gray, sad woman slain.</l> 
+</lg>
+
+<lg type="stanza">
+<l>What would you have your mother do?</l> 
+<l>Hath she not done enough for you?</l> 
+<l>Go back! And when you learn to read,</l> 
+<l>Come read this obelisk. Her deed</l> 
+<l>Like yonder awful forehead is</l> 
+<l>Disdainful silence. Like to this</l> 
+<l>What lessons have you writ in stone</l> 
+<l>To passing nations that shall stand?</l> 
+<l>Why, years, as hers, will leave you lone</l> 
+<l>And level as yon yellow sand.</l> 
+</lg>
+
+<lg type="stanza">
+<l>Saint George? Your lions? Whence are they?</l> 
+<l>From awful, silent Africa.</l> 
+<l>This Egypt is the lion's lair;</l> 
+<l>Beware, brave Albion, beware!</l> 
+<l>I feel the very Nile should rise</l> 
+<l>To drive you from this sacrifice.</l> 
+<l>And if the seven plagues should come?</l> 
+<l>The red seas swallow sword and steed?</l> 
+<l>Lo! Christian lands stand mute and dumb</l> 
+<l>To see thy more than Moslem deed.</l> 
+</lg>
+
+</div2>
+
+<pb n="15"/> 
+
+<div2 type="poem">
+
+<head type="sub">Anglo-Saxon Alliance.</head> 
+
+<p><hi rend="italics">England's Colonial Secretary, who must bear a great part of the blame and shame of this Boer war, has said publicly that there is something like alliance between England and the United States. Our Secretary of State says there is nothing of the sort, and we know there is not, nor can be, until "We, the People," choose to have it, and that will not be until this crime against the Boer is forgotten, as well as Bunker Hill and the Fourth of July.</hi></p> 
+
+<lg type="stanza">
+<l>Alliance! And with whom? For what?</l> 
+<l>Comes there the skin-clad Vandal down</l> 
+<l>From Danube's wilds with vengeance hot?</l> 
+<l>Comes Turk with torch to sack the town</l> 
+<l>And wake the world with battle shot?</l> 
+<l>Come wild beasts loosened from the lair?</l> 
+<l>No, no! Right fair blue Danube sweeps.</l> 
+<l>No, no! The Turk, the wild beast sleeps.</l> 
+<l>No, no! There's something more than this&#8212;</l> 
+<l>Or Judas kiss? Or serpent's hiss?</l> 
+<l>There's mischief in the air!</l> 
+</lg>
+
+<lg type="stanza">
+<l>Alliance! And with whom? For what?</l> 
+<l>Did we not bear an hundred years</l> 
+<l>Of England's hate, hot battle shot,</l> 
+<l>Blent, ever blent, with scorn and jeers?</l> 
+<l>And we survived it, did we not?</l> 
+<l>We bore her hate, let's try to bear</l> 
+<l>Her love; but watch her and beware!</l> 
+<l>Beware the Greek with gifts and fair</l> 
+<l>Kind promises and courtly praise.</l> 
+<l>Beware the serpent's subtle ways&#8212;</l> 
+<l>There's mischief in the air!</l>
+</lg> 
+
+<pb n="16"/> 
+
+<lg type="stanza">
+<l>Alliance! And for what? With whom?</l> 
+<l>She burned our Freedom's Fane. She spat</l> 
+<l>Vile venom on the sacred tomb</l> 
+<l>Of Washington; the while she sat</l> 
+<l>High throned, fat fed, and safe at home,</l> 
+<l>And bade slaves hound and burn and slay,</l> 
+<l>Just as in Africa to-day;</l> 
+<l>Just as she would, will when she dare</l> 
+<l>Send sword and torch and once again</l> 
+<l>Make red the white rim of our main&#8212;</l> 
+<l>There's mischief in the air!</l>
+</lg> 
+
+<lg type="stanza">
+<l>Alliance! Twice with sword and flame:</l> 
+<l>Alliance! Thrice with craft and fraud:</l> 
+<l>And now you come in Freedom's name.</l> 
+<l>In Freedom's name? The name of God!</l> 
+<l>Go to&#8212;the Boers. For shame, for shame!</l> 
+<l>With wedge of gold you split us twain</l> 
+<l>Then launched your bloodhounds on the main;</l> 
+<l>But now, my Lords, so soft, so fair&#8212;</l> 
+<l>How long would this a-lie-ance last?</l> 
+<l>Just long enough to tie Us fast&#8212;</l> 
+<l>Then music in the air!</l> 
+</lg>
+
+</div2>
+
+<pb n="17"/> 
+
+<div2 type="poem">
+
+<head type="sub">India and the Boers.</head>
+
+<p><hi rend="italics">The Boers are a sober, industrious and most hospitable body of peasantry.&#8212;Dr. Livingstone.</hi></p> 
+
+<lg type="stanza">
+<l>You heard that song of the Jubilee!</l> 
+<l>Ten thousand cannon took up the song,</l> 
+<l>Ten million people came out to see,</l> 
+<l>A surging, eager and anxious throng.</l> 
+<l>And the great were glad as glad could be;</l> 
+<l>Glad at Windsor, glad at Saint James,</l> 
+<l>Glad of glory and of storied names,</l> 
+<l>Generals, lords and gentlemen,</l> 
+<l>Such as we never may see again,</l> 
+<l>And ten thousand banners aflying!</l> 
+<l>But up the Thames and down the Thames</l> 
+<l>Bare, hungered babes lay crying,</l> 
+<l>Poor, homeless men sat sighing;</l> 
+<l>And far away, in fair Cathay,</l> 
+<l>An Eden land but yesterday,</l> 
+<l>Lay millions, starving, dying.</l> 
+</lg>
+
+<lg type="stanza">
+<l>Prone India! All her storied gems&#8212;</l> 
+<l>Those stolen gems that decked the Crown</l> 
+<l>And glittered in those garment-hems,</l> 
+<l>That Jubilee in London town&#8212;</l> 
+<l>Were not, and all her walls were down,</l> 
+<l>Her plowshare eaten up with rust,</l> 
+<l>Her peaceful people prone in dust,</l> 
+<l>Her wells gone dry and drying.</l> 
+<l>You ask how came these things to be?</l> 
+
+<pb n="18"/> 
+
+<l>I turn you straight to historie;</l> 
+<l>To generals, lords and gentlemen</l> 
+<l>Who cut the dykes, blew down the walls</l> 
+<l>And plowed the land with cannon balls,</l> 
+<l>Then sacked the ruined land and then&#8212;</l> 
+<l>Great London and the Jubilee,</l> 
+<l>With lying banners aflying.</l> 
+</lg>
+
+<lg type="stanza">
+<l>Eight millions starved to death! You hear?*</l> 
+<l>You heard the song of that Jubilee,</l> 
+<l>And you might have heard, had you given ear,</l> 
+<l>My generals, lords and gentlemen,</l> 
+<l>From where the Ganges seeks the sea,</l> 
+<l>Such wails between the notes, I fear,</l> 
+<l>As you never had cared to hear again.</l> 
+<l>The dead heaped down in the dried-up wells,</l> 
+<l>The dead, like corn, in the fertile fields</l> 
+<l>You had plowed and crossed with your cannon wheels,</l> 
+<l>The dead in towns that were burning hells</l> 
+<l>Because the water was under your heels!</l> 
+<l>They thirsted! You drank at the Jubilee,</l> 
+
+<fw type="note">*See report of Julian Hawthorne, sent by a New York magazine to photograph and give details of the starving in India, about the time of the Jubilee. He does not give these figures, but his facts and photographs warrant a fearful estimate. As for the subjugation of India and the wanton destruction, not only of life, but the very means of life, this is history. And now, again, is despoiled India starving,&#8212;starving, dying of hunger as before; even more fearfully, even while England is trying to despoil the Boers. And when her speculators and politicians have beaten them and despoiled them of their gold and diamonds and herds, what then? Why, leave them to starve as in India, or struggle on in the wilderness as best they can.</fw> 
+
+<pb n="19"/>
+
+<l>My generals, lords and gentlemen,</l> 
+<l>Drank as you hardly may come to when</l> 
+<l>The final account of your deeds may be.</l> 
+</lg>
+
+<lg type="stanza">
+<l>Eight millions starved! Yet the Jubilee&#8212;</l> 
+<l>Why, never such glory since Solomon's throne.</l> 
+<l>The world was glad that it came to see,</l> 
+<l>And the Saxon said, "Lo, the world is mine own!"</l> 
+<l>But mark you! That glittering great Crown stone,</l> 
+<l>And the thousand stars that dimmed in this sun,</l> 
+<l>Were stolen, were stolen every one,</l> 
+<l>Were stolen from those who starved and died!</l> 
+</lg>
+
+<p>* * * * * * * * *</p>
+
+<lg type="stanza">
+<l>Brave Boers, grim Boers, look to your guns!</l> 
+<l>They want your diamonds, these younger ones&#8212;</l> 
+<l>Young generals, lords and gentlemen&#8212;</l> 
+<l>Robbers to-day as they were robbers then.</l> 
+<l>Look to your guns! for a child can see</l> 
+<l>(Can your children see now for crying?)</l> 
+<l>That they want your gems! Ah, that Jubilee,</l> 
+<l>With those lying banners aflying!</l> 
+</lg>
+
+</div2>
+
+<pb n="20"/>
+
+<div2 type="poem">
+
+<head type="sub">At the Calend's Close.</head>
+
+<lg type="quote">
+<l><hi rend="italics">"For faith hath still an Olivet</hi></l>
+<l><hi rend="italics">And Love a Galilee."</hi></l>
+</lg>
+
+<lg type="stanza">
+<l>Two things: the triple great North Star,</l> 
+<l rend="indent">To poise and keep His spheres in place,</l> 
+<l>And Zeus for peace: for peace the Tzar.</l> 
+<l rend="indent">Or Science, Progress, Good or Grace,</l> 
+<l>These two the centum's fruitage are;</l> 
+<l rend="double-indent">And of the two this olive tree</l> 
+<l rend="double-indent">Stands first, aye, first since Galilee.</l> 
+</lg>
+
+<lg type="stanza">
+<l>Christ's centum bends his frosted head;</l> 
+<l rend="indent">Christ's calend calls a solemn roll.</l> 
+<l>What shall be writ, what shall be said</l> 
+<l rend="indent">Of Saxon when this blood-writ scroll</l> 
+<l>By God's white light at last is read?</l> 
+<l rend="double-indent">What of ye Saxon nations, ye</l> 
+<l rend="double-indent">Who prate the Christ most noisily?</l> 
+</lg>
+
+<lg type="stanza">
+<l>The eagle's bent beak at the throat</l> 
+<l rend="indent">Of Peace where far, fair islands lie:</l> 
+<l>The greedy lion sees a mote</l> 
+<l rend="indent">In his brave, weaker brother's eye</l> 
+<l>And crouches low, to gorge and gloat.</l> 
+<l rend="double-indent">The Prince of Peace? Ye write his name</l> 
+<l rend="double-indent">In blood, then dare to pray! For shame!</l> 
+</lg>
+
+<lg type="stanza">
+<l>These Saxon lies on top of lies,</l> 
+<l rend="indent">Ten millstones to the neck of us,</l> 
+<l>Forbid that we should lift our eyes</l> 
+<l rend="indent">Till we dare meet that manlier Russ;</l> 
+<l>In peons for peace of paradise:</l> 
+<l rend="double-indent">Forbid that we, until the day</l> 
+<l rend="double-indent">We wash our hands, should dare to pray.</l> 
+</lg>
+
+</div2>
+
+<pb n="21"/>
+
+<div2 type="poem">
+
+<head type="sub">As It Is Written.</head>
+
+<lg type="stanza">
+<l>The she wolf's ruthless whelp that tare</l> 
+<l>Old Africa is dead and all</l> 
+<l>Despised; but Egypt still is fair,</l> 
+<l>Jugartha brave; and Hannibal</l> 
+<l>Still hero of the Alps and more</l> 
+<l>To-day than all red men of Rome.</l> 
+<l>Archimedes still holds his measured home;</l> 
+<l>Grim Marius his ruins as of yore,</l> 
+<l>And heart still turns to heart, as then.</l> 
+<l>Live by the sword and by the sword</l> 
+<l>Ye surely die: thus saith the Lord&#8212;</l> 
+<l>And die despised of men.</l> 
+</lg>
+
+</div2>
+
+<pb n="22"/>
+
+<div2 type="poem">
+
+<head type="sub">To Oom Paul Kruger.</head>
+
+<p>On his seventy-fifth birthday.</p>
+
+<lg type="stanza">
+<l>His shield a skin, his sword a prayer:</l> 
+<l rend="indent">Seventy-five years old to-day!</l> 
+<l>Yet mailed young hosts are marshaling there</l> 
+<l>To hound down in his native lair&#8212;</l> 
+<l rend="indent">Oom Paul Kruger, South Africa.</l> 
+</lg>
+
+<lg type="stanza">
+<l>Mars! Ever was such shameless shame?</l> 
+<l rend="indent">Christ's calend calls the roll to-day,</l> 
+<l>Yet Christians write the sweet Christ's name</l> 
+<l>In blood, and seek, with sword and flame&#8212;</l> 
+<l rend="indent">Oom Paul Kruger, South Africa.</l> 
+</lg>
+
+<lg type="stanza">
+<l>Stand firm, grim shepherd-hero, stand!</l> 
+<l rend="indent">The world's watchtowers teem to-day</l> 
+<l>With men who pray with lifted hand</l> 
+<l>For you and yours, old, simple, grand&#8212;</l> 
+<l rend="indent">Oom Paul Kruger, South Africa.</l>
+</lg> 
+
+<lg type="stanza">
+<l>God's pity for the foolish few</l> 
+<l rend="indent">Who guide great England's hosts to-day!</l> 
+<l>They cannot make the false the true;</l> 
+<l>They can but turn true hearts to you&#8212;</l> 
+<l rend="indent">Oom Paul Kruger, South Africa.</l>
+</lg> 
+
+<pb n="23"/>
+
+<lg type="stanza">
+<l>Or king or cowboy, steep or plain,</l> 
+<l>Or palace hall, where, what&#8212;to-day,</l> 
+<l>All, all, despite of place or gain,</l> 
+<l>Are with you, with you heart and brain&#8212;</l> 
+<l>Oom Paul Kruger, South Africa.</l>
+</lg>
+ 
+<lg type="stanza">
+<l>Brave England's bravest, best, her Fair,</l> 
+<l>Who love fair play, are yours to-day.</l> 
+<l>And oh, the heart, the hope, the prayer&#8212;</l> 
+<l>The <hi rend="italics">world</hi> is with you over there&#8212;</l> 
+<l>Oom Paul Kruger, South Africa.</l> 
+</lg>
+
+</div2>
+
+<pb n="24"/>
+
+<div2 type="poem">
+
+<head type="sub">Usland* To The Boers.</head>
+ 
+<lg type="stanza">
+<l>And where lies Usland, Land of Us?</l> 
+<l rend="indent">Where Freedom lives, there Usland lies!</l> 
+<l>Fling down that map and measure thus</l> 
+<l rend="indent">Or argent seas or sapphire skies:</l> 
+<l>To north the North Pole, south as far</l> 
+<l rend="indent">As ever eagle cleaved his way;</l> 
+<l>To east the blazing morning star,</l> 
+<l rend="indent">And west? West to the Judgment Day!</l> 
+</lg>
+
+<lg type="stanza">
+<l>No borrowed lion, rampt in gold;</l> 
+<l rend="indent">No bleeding Erin, plaintive strains;</l> 
+<l>No starving millions, mute and cold;</l> 
+<l rend="indent">No plundered India, prone in chains;</l> 
+<l>No peaceful farmer, forced to fly</l> 
+<l rend="indent">Or draw his plowshare from the sod,</l> 
+<l>And, fighting, one to fifty, die</l> 
+<l rend="indent">For freedom, fireside and God.</l> 
+</lg>
+
+<lg type="stanza">
+<l>Fear not, brave, freeborn, voiceless Boers.</l> 
+<l rend="indent">Great Usland's heart is yours to-day.</l> 
+<l>Aye, England's heart of hearts is yours,</l> 
+<l rend="indent">Whatever scheming men may say.</l> 
+<l>Her scheming men have mines to sell,</l> 
+<l rend="indent">And we? Why, meat and corn and wheat.</l> 
+<l>But, Boers, all brave hearts wish you well;</l> 
+<l rend="indent">For England's triumph means defeat.</l> 
+</lg>
+
+<fw type="note">* It is a waste of ink and energy to write "United States of America" always. All our property is marked Us. Then why not Usland? And why should we always say American? The Canadian, the Mexican, the Brazilian and so on are as entirely entitled to the name American as we. Why not say Usman, as Frenchman, German, and so on?</fw> 
+
+</div2>
+
+<pb n="25"/>
+
+<div2 type="poem">
+
+<head type="sub">That Ussian of Usland.</head>
+
+<p><hi rend="italics">Anent the boundary line&#8212;"Lest we forget, lest we forget."</hi></p> 
+
+<lg type="stanza">
+<l>"I am an Ussian true," he said;</l> 
+<l rend="indent">"Keep off the grass there, Mister Bull!</l> 
+<l>For if you don't I'll bang your head</l> 
+<l rend="indent">And bang your belly-full.</l> 
+</lg>
+
+<lg type="stanza">
+<l>"Now mark, my burly jingo-man,</l> 
+<l rend="indent">So prone to muss and fuss and cuss,</l> 
+<l>I am an Ussian, spick and span,</l> 
+<l rend="indent">From out the land of Us!"</l> 
+</lg>
+
+<lg type="stanza">
+<l>The stout man smole a frosty smile&#8212;</l> 
+<l rend="indent">"An Ussian! Russian, Rusk, or Russ?"</l> 
+<l>"No, no! an Ussian, every while;</l> 
+<l rend="indent">My land the land of Us."</l> 
+</lg>
+
+<lg type="stanza">
+<l>"Aw! Usland, Uitland? or, maybe,</l> 
+<l rend="indent">Some Venezuela I'd forgot.</l> 
+<l>Hand out your map and let me see</l> 
+<l rend="indent">Where Usland is and what."</l> 
+</lg>
+
+<lg type="stanza">
+<l>The lank man leaned and spread his map</l> 
+<l rend="indent">And shewed the land and shewed,</l> 
+<l>Then eyed and eyed that paunchy chap,</l> 
+<l rend="indent">And pulled his chin and chewed.</l>
+</lg> 
+
+<lg type="stanza">
+<l>"What do you want?" A face grew red,</l> 
+<l rend="indent">And red chop whiskers redder grew.</l> 
+<l>"I want the earth," the Ussian said,</l> 
+<l rend="indent">"And all Alaska, too.</l> 
+</lg>
+
+<pb n="26"/>
+
+<lg type="stanza">
+<l>"My stars swim up yon seas of blue;</l> 
+<l rend="indent">No Shind am I, Boer, Turk or Russ.</l> 
+<l>I am an Ussian&#8212;Ussian true;</l> 
+<l rend="indent">My land the land of Us.</l>
+</lg> 
+
+<lg type="stanza">
+<l>"My triple North Star lights me on,</l> 
+<l rend="indent">My Southern Cross leads ever thus;</l> 
+<l>My sun scarce sets till burst of dawn.</l> 
+<l rend="indent">Hands off the Land of Us!"</l> 
+</lg>
+
+</div2>
+
+<pb n="27"/>
+
+<div2 type="poem">
+
+<head type="sub">Fight A Boy Of Your Size.</head>
+
+<lg type="stanza">
+<l>Back, far back in that backwood's school</l> 
+<l rend="indent">Of Lincoln, Grant and the great we prize</l> 
+<l>We boys would fight, but we had one rule&#8212;</l> 
+<l rend="indent">You must fight a boy of your size.</l> 
+</lg>
+
+<lg type="stanza">
+<l>Or white boy or brown, aye, Boer no doubt,</l> 
+<l rend="indent">Whatever the quarrel, whatever the prize</l> 
+<l>You must stand up fair and so fight it out</l> 
+<l rend="indent">With a boy somewhat your size.</l> 
+</lg>
+
+<lg type="stanza">
+<l>But a big boy spoiled so for fights, he did,</l> 
+<l rend="indent">He lied most diplomatic-like-lies</l> 
+<l>And he fought such fights&#8212;ye gods forbid&#8212;</l> 
+<l rend="indent">But never a boy of his size.</l> 
+</lg>
+
+<lg type="stanza">
+<l>He skinned and he tanned, kept hide, kept hair,</l> 
+<l rend="indent">Now I am speaking figure-wise&#8212;</l> 
+<l>But he didn't care who and he didn't care where</l> 
+<l rend="indent">Just so he was under size.</l> 
+</lg>
+
+<lg type="stanza">
+<l>Then the big boy cried, "A big chief am I,</l> 
+<l rend="indent">I was born to bang and to civilize,</l> 
+<l>And yet sometimes I, in my pride I sigh</l> 
+<l rend="indent">For something about my size."</l> 
+</lg>
+
+<lg type="stanza">
+<l>Then the good Schoolmaster he reached a hand</l> 
+<l rend="indent">And across his knee he did flop crosswise</l> 
+<l>That bully, and raise in his good right hand</l> 
+<l rend="indent">A board of considerable size.</l> 
+</lg>
+
+<pb n="28"/> 
+
+<lg type="stanza">
+<l>And the good Schoolmaster he smote that chief,</l> 
+<l rend="indent">He smote both hips and he smote both thighs;</l> 
+<l>And he said as he smote, "It is my belief</l> 
+<l rend="indent">This board is about your size."</l> 
+</lg>
+
+<p>* * * * * * * * *</p>
+
+<lg type="stanza">
+<l>Beware the bully, of his words beware,</l> 
+<l rend="indent">His triangular lips are a nest of lies,</l> 
+<l>For he never did dare and he never will dare,</l> 
+<l rend="indent">To bang a boy of his size.</l> 
+</lg>
+
+</div2>
+
+</div1>
+</body>
+</text>
+</TEI>

@@ -3,7 +3,6 @@
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0692">
 
-
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -43,9 +42,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Ravoninahitriniarivo and Ramaniraka to Frederick T. Frelinghuysen, March 29, 1883</title>
+<title level="a">Despatch from Ravoninahitriniarivo and Ramaniraka to Frederick T. Frelinghuysen</title>
 <title level="m" type="microformat">Notes From the Madagascan Legation in the United States to the Department of State, 1883-1894</title>
-<publisher>National Archives and Records Service General Services Administration</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T806</biblScope>
 <date when="1883-03-29">March 29, 1883</date>
 </bibl>
@@ -64,11 +63,11 @@
 </keywords>
     
 <keywords scheme="original" n="type">
-<term>Document</term>
+<term>Texts</term>
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term/>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
@@ -81,7 +80,7 @@
 <term>New York (New York)</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>United States</term>
 </keywords>
 
@@ -99,13 +98,13 @@
 <correspAction type="sentBy">
 <persName>Ravoninahitriniarivo</persName>
 <persName>Ramaniraka</persName>
-<placeName>New York, New York</placeName>
+<placeName>New York (New York)</placeName>
 <date when="1883-03-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/58082142">Frelinghuysen, Frederick T. (Frederick Theodore), 1817-1885</persName>
 <roleName>U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1883-04-02"/>
 </correspAction>
 </correspDesc>
@@ -113,6 +112,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2020-05-14" who="#kln">reviewed, encoded</change>
 <change when="2020-02-26" who="#unm">transcribed</change>
 </revisionDesc>
@@ -124,13 +124,13 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="20170614_154632"/>
+<pb n="20170614_154632"/>
 
-<fw type="letterhead">Ambasadaoran<lb/> 
+<ab type="letterhead">Ambasadaoran<lb/> 
 ny<lb/> 
 Mpanjaka<lb/> 
 ny<lb/> 
-Madagascar</fw>
+Madagascar</ab>
 
 <note>Department of State Received Apr 2 1883</note>
 
@@ -166,7 +166,7 @@ F. T. Frelinghuysen<lb/>
 Principal Secretary of State<lb/>
 Washington, D.C.</fw>
 
-<pb facs="20170614_154644"/>
+<pb n="20170614_154644"/>
 
 our visit has been the means 
 of bringing to the notice of the 

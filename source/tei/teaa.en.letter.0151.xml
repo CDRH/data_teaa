@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from L. de R. du Verge to J. C. Bancroft Davis, August 12, 1882</title>
+<title>Despatch from Louis Astyanax de Rathier du Verge to J. C. Bancroft Davis, August 12, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from L. de R. du Verge to J. C. Bancroft Davis</title>
+<title level="a">Despatch from Louis Astyanax de Rathier du Verge to J. C. Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">3</biblScope>
 <date from="1882-08-12">August 12, 1882</date>
 </bibl>
@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -75,17 +75,17 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>St. Paul de Loanda (Angola)</term>
-</keywords>
-    
-<keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>English</term>
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
-    
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -94,15 +94,15 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Verge, L. de R. du</persName>
+<persName>Verge, Louis Astyanax de Rathier du</persName>
 <roleName>U.S. Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1882-08-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1882-10-07"/>
 </correspAction>
 </correspDesc>
@@ -122,13 +122,9 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0151.001"/>
+<pb n="teaa.en.letter.0151.001"/>
 
 <note>State Department Received Oct 7 1882</note>
-
-<note>ansd<lb/>
-flag &amp; arms ordered<lb/> 
-Oct. 20/82</note>
 
 <note>No <del>30</del> 11</note>
 
@@ -150,17 +146,16 @@ to Dept. of State</p>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0151.002"/>
+<pb n="teaa.en.letter.0151.002"/>
 
-<opener><dateline>United States Consulate<lb/>
+<p>United States Consulate<lb/>
 St. Paul de Loanda<lb/>
-Augt. 12th 1882</dateline>
+Augt. 12th 1882</p>
 
-<address><addrLine>To</addrLine>
-<addrLine>Honorable J.C. Bancroft Davis</addrLine>
-<addrLine>Asst. Secty of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
-</opener>
+<p>To<lb/>
+Honorable J.C. Bancroft Davis<lb/>
+Asst. Secty of State<lb/>
+Washington D.C.</p>
 
 <p>Sir</p>
 
@@ -174,16 +169,16 @@ Agents on this coast, together with six
 Consular Regulations; for which this
 consulate will be responsible.</p>
 
-<p>I would also respectfully aske that 
+<p>I would also respectfully <sic>aske</sic> that 
 another U.S. Coat of arms be forwarded
 to me, as the old one is now unfit for
 use</p>
 
-<closer><salute>I have the honor to be Sir<lb/>
+<p>I have the honor to be Sir<lb/>
 Respectfully<lb/>
-Your obedient servant</salute>
-<signed>L de R du Verge<lb/>
-US Consul</signed></closer>
+Your obedient servant<lb/>
+L de R du Verge<lb/>
+US Consul</p>
 
 </div1>
 </body>

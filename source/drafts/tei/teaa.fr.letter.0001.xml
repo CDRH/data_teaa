@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Letter from Etienne, Undersecretary of State for French Colonies, to the Undersecretary of State, August 14, 1889</title>
+<title>Correspondence from Eugène Spuller to Eugène Étienne, August 14, 1889</title>
 <principal n="Jones, Jeannette Eileen, 1970-" xml:id="jej">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,14 +44,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Etienne, Undersecretary of State for French Colonies, to the Undersecretary of State</title>
+<title level="m">Correspondence from Eugène Spuller to Eugène Étienne</title>
 <date when="1889-08-14">August 14, 1889</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR ANOM</repository>
-<collection>Guinee V 1 VI 1-6</collection>
-<idno>1506 COL 2</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR ANOM Guinée V 1 VI 1-6</collection>
+<idno>1506 COL 2, Guinee Gin VI 2</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -63,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,25 +72,23 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Bayol, D.</term>
-<term>Etienne</term>
+<term ref="http://viaf.org/viaf/9842797">Bayol, Jean, 1849-1905</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Africa</term>
-<term>Paris</term>
+<term/>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
-</keywords>
-    
-<keywords scheme="original" n="language">
-<term>French</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -100,24 +99,25 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Etienne</persName>
-<roleName>Under Secretary of State for the Colonies</roleName>
-<placeName>Paris, France</placeName>
+<persName ref="http://viaf.org/viaf/2568983">Spuller, Eugène, 1835-1896</persName>
+<roleName>Minister of Foreign Affairs</roleName>
+<placeName>Paris (France)</placeName>
 <date when="1889-08-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
+<persName ref="http://viaf.org/viaf/27216824">Étienne, Eugène 1844-1921</persName>
+<roleName>Undersecretary of State for the Colonies</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
 
-
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated.</change>
-<change when="2018" who="sab">Encoded.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
+<change when="2018" who="sab">Encoded</change>
+<change when="2018" who="pr">Translated</change>
+<change when="2017" who="nn">Transcribed</change>
 </revisionDesc>
 </teiHeader>
 
@@ -127,214 +127,178 @@
 
 <div1 xml:lang="fr" type="document">
 
-<pb facs="20160613_105442.jpg"/>
+<pb n="20160613_105442.jpg"/>
 
-<ab>
+<fw type="letterhead">
 MINISTÉRE
 DES
 AFFAIRES ÉTRANGÉRES
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 DIRECTION POLITIQUE
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 Protectorats
-</ab>
+</fw>
 
-<ab>
-Mission de M. le D.
+<fw type="letterhead">
+Mission de M. le Dr.
 Bayol à la Côte
-occidentale d'afrique
-</ab>
+occidentale d'Afrique
+</fw>
 
-<ab>
+<fw type="letterhead">
 RÈPUBLIQUE FRANÇAISE
-</ab>
+</fw>
 
-<ab>
-Paris, le 14 Août 1889
-</ab>
+<p>Paris, le 14 Août 1889</p>
 
-<p>
-Monsieur le Sous Secrétaire
-d'Etat et Cher Collègue,
+<p>Monsieur le Sous Secrétaire
+d'Etat et Cher Collègue,</p>
 
-Par votre lettre du 31 Juillet dernier,
+<p>Par votre lettre du 31 Juillet dernier,
 vous avez bien voulu me faire savoir
-que vous étiez complètement d'accord avec
+que vous étiez Complètement d'accord avec
 moi pour reconnaître que les frais de la
 nouvelle mission dont vous vous proposez
-de charger M. le D. Bayol à la Côte 
-occidentale d'Afrique, devaient, en
-principe, incomber à votre <supplied>Administration</supplied>
-mais que vous vous trouviez malheureusement <!-- 'malheureusement was originally hyphenated and split between 'malheureu' and 'sement' -->
+de charger M. le Dr. Bayol à la Côte 
+Occidentale d'Afrique, devaient, en
+principe, incomber à votre Administration
+mais que vous vous trouviez malheureusement 
 dans l'impossibilité de faire face
-</p>
 
-<ab>
-Monsieur Etienne,
-Sous Secrétaire d'Etat pour les Colonies
-</ab>
+<fw type="address">Monsieur Etienne,<lb/>
+Sous Secrétaire d'Etat pour les Colonies.</fw>
 
-<note>
-<unclear/> <!-- There is writing across the page in what appears to be pencil that is illegible. I'm assuming this writing is from an archivist. -->
-<unclear/>
-<unclear/>
-<unclear/>
-</note>
+<pb n="20160613_105457.jpg"/>
 
-<pb facs="20160613_105457.jpg"/>
-
-<p>
-à cette dépense au moyen des cuélili
+à cette dépense au moyen des crédits
 dont vous disposez. En conséquence,
 vous exprimiez de nouveau l'espoir
-qu'il me serait possible de prélave
+qu'il me serait possible de prélever
 sur les fonds spéciaux du Ministère
-des Affaires Etrangéres, la donne
-de 20,000 frs nécesaire au succès de
+des Affaires Etrangères, la Somme
+de 20,000 frs nécessaire au succès de
 la mission dont il s'agit, en ajoutant
-que vous deviez, dans ce cas, <unclear/>
-à prendre l'engagement de rembourser
+que vous seriez, dans ce cas, disposé
+à prendre l'engagement de remboursser
 ultérieurement cette avance à mon
-Département.
-</p>
+Département.</p>
 
-<p>
-Je m'impress de vous informer que
+<p>Je m'empresse de vous informer que
 je ne puis, à mon vif regret, que
 maintenir les conclusions de la lettre
 que j'ai eu l'honneur de vous adresser,
 à ce sujet, le 28 Juillet dernier. Les
-fonds spéciaux dont je dispose font
-</p>
+fonds spéciaux dont je dispose Sont
 
-<pb facs="20160613_105501.jpg"/>
+<pb n="20160613_105501.jpg"/>
 
-<p>
-à peine suffissant pour les objets
+à peine Suffisait pour les objets
 aux quels ils sont affectés et je ne
-pourrais en distraire <unclear>une somme</unclear>
-aussi importante <unclear>faces</unclear> courir le
+pourrais en distraire une somme
+aussi importante saus courir le
 risque de compromettre des intérêts
 que je suis plus particulièrement
-tenu de sauvegarder ./.
+tenu de sauvegarder.</p>
 
-Agréez, Monsieur le Sous Secrétaire
+<p>Agréez, Monsieur le Sous Secrétaire
 d'Etat et Cher Collègue, les assurances
-de ma haute Considération
-<unclear>Eaf????</unclear> <!-- Signature-->
-</p>
+de ma haute Considération</p>
+
+<p>E Spuller</p>
 
 </div1>
 
-           <div1 xml:lang="en" type="translation">
+<div1 xml:lang="en" type="translation">
+             
+<pb n="20160613_105442.jpg"/>
 
-                
-                <pb facs="20160613_105442.jpg"/>
-                
-                <ab>
-                   Minister
-                   of
-                   Foreign Affairs
-                </ab>
-                
-                <ab>
-                    Political Director
-                </ab>
-                
-                <ab>
-                    Protectorates
-                </ab>
-                
-                <ab>
-                    Mission of Mr. D.
-                    Bayol of the occidental
-                    coast of Africa
-                </ab>
-                
-                <ab>
-                    French Republic
-                </ab>
-                
-                <ab>
-                    Paris, August 14th, 1889
-                </ab>
-                
-                <p>
-                    Mister Under Secretary
-                    of State and Dear Colleague,
-                    
-                    In your previous letter from July 31st,
-                    you wanted to tell me
-                    that you were completely in agreement with
-                    me in looking over the costs of the
-                    new mission that you are proposing
-                    to charge Mr. D. Bayol of the west 
-                    coast of Africa, to become, in
-                    principal, incumbent upon your <supplied>Administration</supplied>
-                    but that you unfortunately found yourself <!-- 'malheureusement was originally hyphenated and split between 'malheureu' and 'sement' -->
-                    with the impossibility of coping
-                </p>
-                
-                <ab>
-                    Mister Etienne,
-                    Under Secretary of State for the Colonies
-                </ab>
-                
-                <note>
-                    <unclear/> <!-- There is writing across the page in what appears to be pencil that is illegible. I'm assuming this writing is from an archivist. -->
-                    <unclear/>
-                    <unclear/>
-                    <unclear/>
-                </note>
-                
-                <pb facs="20160613_105457.jpg"/>
-                
-                <p>
-                    with the means of gathering the expenditure
-                    that you are managing. Consequently,
-                    you are now expressing the hope
-                    that it would be possible for me to remove
-                    from the special funds of the Minister
-                    of Foreign Affairs, the order 
-                    of 20,000 francs necessary for the success of
-                    the mission in question, by adding
-                    what you need, in this case, <unclear/>
-                    to take the commitment of reimbursing
-                    this advance later on for my
-                    Department.
-                </p>
-                
-                <p>
-                    I hasten to inform you that
-                    I could only, to my strong regret,
-                    maintain the conclusions of the letter
-                    that I had the honor of adressing to you,
-                    on this subject, on July 28th. The
-                    special funds that you are managing are
-                </p>
-                
-                <pb facs="20160613_105501.jpg"/>
-                
-                <p>
-                    hardly sufficient for the objects
-                    to which they are assigned and I 
-                    could not embezzle <unclear>a sum</unclear>
-                    that important <unclear>faces</unclear> running the
-                    risk of compromising the interest
-                    that I am more particularly
-                    held to protect ./.
-                    
-                    Accept, Mister Under Secretary
-                    of State and Dear Colleague, the assurances
-                    of my highest consideration
-                    <unclear>Eaf????</unclear> <!-- Signature-->
-                </p>
-                
-            </div1>
+<fw type="letterhead">
+Minister
+of
+Foreign Affairs
+</fw>
+
+<fw type="letterhead">
+Political Director
+</fw>
+
+<fw type="letterhead">
+Protectorates
+</fw>
+
+<fw type="letterhead">
+Mission of Dr.
+Bayol of the Occidental
+Coast of Africa
+</fw>
+
+<fw type="letterhead">
+French Republic
+</fw>
+
+<p>Paris, August 14th, 1889</p>
+
+<p>Mr. Under Secretary
+State and Dear Colleague,</p>
+    
+<p>In your previous letter from July 31st,
+you wanted to tell me
+that you were completely in agreement with
+me in looking over the costs of the
+new mission that you are proposing
+to charge Dr. Bayol of the West 
+Coast of Africa, to become, in
+principal, incumbent upon your Administration
+but that you unfortunately found yourself
+with the impossibility of coping
+
+<fw type="address">
+Mr. Etienne,<lb/>
+Under Secretary of State for the Colonies</fw>
+
+<pb n="20160613_105457.jpg"/>
+
+with the means of gathering the expenditure
+that you are managing. Consequently,
+you are now expressing the hope
+that it would be possible for me to remove
+from the special funds of the Ministry
+of Foreign Affairs, the sum 
+of 20,000 francs necessary for the success of
+the mission in question, by adding
+that you would, in this case, be willing
+to take the commitment of reimbursing
+this advance later on for my
+Department.</p>
+
+<p>I hasten to inform you that
+I could only, to my strong regret,
+maintain the conclusions of the letter
+that I had the honor of addressing to you,
+on this subject, on July 28th. The
+special funds that you are managing are
+
+<pb n="20160613_105501.jpg"/>
+
+hardly sufficient for the objects
+to which they are assigned and I 
+could not embezzle a sum
+that important without running the
+risk of compromising the interest
+that I am more particularly
+held to protect.</p>
+
+<p>Accept, Mr. Under Secretary
+of State and Dear Colleague, the assurances
+of my highest consideration</p>
+
+<p>E Spuller</p>
+
+</div1>
 
 </body>
 </text>

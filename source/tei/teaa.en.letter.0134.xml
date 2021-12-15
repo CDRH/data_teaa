@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to Robert R. Hitt, September 30, 1881</title>
+<title>Despatch from Robert Scott Newton to Robert R. Hitt, September 30, 1881</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to Robert R. Hitt</title>
+<title level="a">Despatch from Robert Scott Newton to Robert R. Hitt</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">3</biblScope>
 <date from="1881-08-30">September 30, 1881</date>
 </bibl>
@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -75,17 +75,17 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>St. Paul de Loanda (Angola)</term>
+<term/>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -96,13 +96,13 @@
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
 <roleName>U.S. Vice Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1881-09-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/41403558">Hitt, Robert R. (Robert Roberts), 1834-1906</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1881-12-14"/>
 </correspAction>
 </correspDesc>
@@ -122,11 +122,9 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0134.001"/>
+<pb n="teaa.en.letter.0134.001"/>
 
 <note>Department of State Dec 14 1881</note>
-
-<note>Ackd Jan. 16/82</note>
 
 <note>No 80</note>
 
@@ -147,13 +145,13 @@ and Circulars.</p>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0134.002"/>
+<pb n="teaa.en.letter.0134.002"/>
 
 <note>No 80</note>
 
-<opener><dateline>United States Consulate<lb/>
+<p>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-30th September 1881</dateline></opener>
+30th September 1881</p>
 
 <p>Sir,</p>
 
@@ -169,15 +167,15 @@ dated July 25th with reference
 to the new Consular Regulations
 which has my attention.</p>
 
-<closer><salute>I have the honor to be<lb/> 
+<p>I have the honor to be<lb/> 
 Sir<lb/>
-Your most Obedient Servant</salute>
-<signed>Robt S Newton<lb/>
-Vice Consul</signed>
+Your most Obedient Servant<lb/>
+Robt S Newton<lb/>
+Vice Consul</p>
 
-<address><addrLine>To the</addrLine> 
-<addrLine>Assistant Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address></closer>
+<p>To the<lb/> 
+Assistant Secretary of State<lb/>
+Washington D.C.</p>
 
 </div1>
 </body>

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Joseph C. Hartzell to John Hay, October 31, 1898</title>
+<title>Despatch from Joseph C. Hartzell to John Hay, October 31, 1898</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Joseph C. Hartzell to John Hay, October 31, 1898</title>
+<title level="a">Despatch from Joseph C. Hartzell to John Hay</title>
 <title level="m" type="microformat">Notes from Liberian Legation In U.S. to Department of State, 1862-1898 T807</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">T-807, Roll 1</biblScope>
@@ -62,7 +62,7 @@
 <textClass>
 <keywords scheme="original" n="theme">
 <term>Commerce and Trade</term> 
-<term>Encounters with Africans</term>
+<term>"Othering" Africans</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -70,12 +70,13 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
 <term>Bailly-Forfillere, Jorge</term>
 <term ref="http://viaf.org/viaf/19678646">Hanotaux, Gabriel, 1853-1944</term>
+<term ref="http://viaf.org/viaf/62344773">Menelik II, Negus of Ethiopia, 1844-1913</term>
 <term>Pauly, Adriano</term>
 <term ref="http://viaf.org/viaf/3656148122897295200005">Roustan, Théodore 1833-1906</term>
 <term ref="http://viaf.org/viaf/21264538">Smith, Isaac Townsend, 1813-1906</term>
@@ -90,7 +91,7 @@
 <term>Sierra Leone</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>France</term>
 <term>Germany</term>
 <term>Great Britain</term>
@@ -105,30 +106,27 @@
 <term/>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Hartzell, Joseph C.</persName>
+<persName ref="http://viaf.org/viaf/14310823">Hartzell, Joseph C. (Joseph Crane), 1842-1929</persName>
 <roleName>Special Envoy to U.S. from Liberia</roleName>
-<placeName>New York, New York</placeName>
+<placeName>New York (New York)</placeName>
 <date when="1898-10-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</persName>
 <roleName>U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2020-02-17" who="#kln">reviewed, encoded</change>
 <change when="2019-10" who="#lkw"> encoded</change>
 <change when="2019-09" who="#unm"> transcribed</change>
@@ -141,7 +139,7 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="20170616_151019"/>
+<pb n="20170616_151019"/>
 
 <ab type="letterhead">Joseph C. Hartzell,<lb/>
 Bishop of Africa,<lb/>
@@ -182,9 +180,9 @@ JC Hartzell<lb/>
 Special Envoy to U.S. from the<lb/>
 Liberian Republic</p>
 
-<pb facs="20170616_151029"/>
+<pb n="20170616_151029"/>
 
-<p>LIBERIA</p>
+<p>Liberia</p>
 
 <p>From our Liverpool Correspondent.</p>
 
@@ -218,7 +216,7 @@ conclusively providing in a thousand ways that the American negro lacks the
 elementary principles of self-government, being deficient in the very
 essentialties of constructive administration. Certain foreign powers
 
-<pb facs="20170616_151024"/>
+<pb n="20170616_151024"/>
 
 have endeavored to take advantage of the utter incapacity of the 
 Liberians, and their motives in doing so are not far to seek. Not only 
@@ -250,7 +248,7 @@ State into her own hands, and, what perhaps is more dangerous still,
 trying to obtain a monopoly over Kroo labour throughout the territories
 of the Republic.</p>
 
-<pb facs="20170616_151035"/>
+<pb n="20170616_151035"/>
 
 <p>French intrigues in Liberia are not of yesterday. In 1879 a 
 very definite rumour arose that France had offered protections to Liberia,
@@ -282,7 +280,7 @@ to Liberia than to the Emperor Menelik, grabbed a large slice of Liberian
 territory between the San Pedro and <sic>Cavally</sic> Rivers, substituting the 
 latter river for the former as the boundary between the French possessions
 
-<pb facs="20170616_151120"/>
+<pb n="20170616_151120"/>
 
 on the Ivory Coast and Liberia. By this means a valuable portion
 of Liberia territory became French. And, to accentuate the irony of 
@@ -314,9 +312,9 @@ it is a distinct threat to Liberia never to cede any of her territory
 to anybody but France, under penalty of diplomatic remonstrance, followed 
 by physical action, which would obviously entail more land-grabbing.</p>
 
-<pb facs="20170616_151128"/>
+<pb n="20170616_151128"/>
 
-<p>GERMAN CONCESSION-HUNTERS.</p>
+<p>German Concession-Hunters.</p>
 
 <p>We must now turn to German proceedings in the Republic. Her
 merchants and her traders have been worming themselves for years past 

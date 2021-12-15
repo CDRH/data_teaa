@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.analysis.0008">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Vachel Lindsay - The Congo: A Study of the Negro Race (1914). Analysis</title>
+<author n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</author>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.analysis.0008</idno>
+</publicationStmt>
+
+<sourceDesc>
+<p>Original.</p>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+<keywords scheme="original" n="type">
+<term>Analysis</term>
+</keywords>
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-10" who="#kln">encoded</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="analysis">
+
+<head type="main">Analysis</head>
+
+<p>In the introduction to Nicholas Vachel Lindsay's 1914 <hi rend="italics">The Congo and Other Poems</hi>, the influential <hi rend="italics">Poetry</hi> magazine editor Harriet Monroe praised the "young Illinois troubadour" who had given an eccentric reading of the title poem at her magazine's banquet in honor of William Butler Yeats that year.<ref xml:id="r1" target="#n1">1</ref> A review in the <hi rend="italics">New Republic</hi> described Lindsay's dynamic performance: "his body tense and swaying, his hands keeping time like an orchestral leader to his own rhythms, his tone changing color in response to the noise and savage imagery of the lines."<ref xml:id="r2" target="#n2">2</ref> At the start of his career, Lindsay had wandered as a vagabond poet, trading his verses for something to eat (naming, in fact, one of his early pamphlets <hi rend="italics">Rhymes to Be Traded for Food and Bread</hi>). With "The Congo"&#8212;and its "savage imagery"&#8212;he became a household name. The long poem, accompanied by stage directions and placed first in a section of the book subtitled "Poems intended to be read aloud, or chanted," excited many readers and listeners at the time as authentically "primitive," but will undoubtedly strike a modern reader as a versified display of racial caricature and Afrophobia, complete with "glowering witch-men" and "tattooed cannibals." In a note appended to the poem when it appeared in a later edition, Lindsay writes that it "was suggested by an allusion in a sermon by my pastor, F. W. Burnham, to the heroic life and death of Ray Eldred. Eldred was a missionary of the Disciples of Christ who perished while swimming a treacherous branch of the Congo."<ref xml:id="r3" target="#n3">3</ref></p>
+
+</div1>
+
+</body>
+
+<back>
+<div1 type="notes">
+
+   <note xml:id="n1" target="#ref1" place="margin-bottom">
+   1. Harriet Monroe, Introduction to <hi rend="italics">"The Congo" and Other Poems</hi>, 1914.
+   </note>
+
+   <note xml:id="n2" target="#ref2" place="margin-bottom">
+   2. R.S.B., "Sincerity in the Making," <hi rend="italics">The New Republic</hi>, 5 Dec. 1914, 26-27.
+   </note>
+
+   <note xml:id="n3" target="#ref3" place="margin-bottom">
+   3. Lindsay, "The Congo."
+   </note>
+
+</div1>
+
+</back>
+
+</text>
+
+</TEI>

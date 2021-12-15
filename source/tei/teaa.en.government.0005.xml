@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.government.0005.xml">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Foreign Relations for 1907, Investigation of Affairs in the Kongo</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+ 
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.government.0005</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+ 
+<sourceDesc>
+<bibl>
+<author n="United States Department of State">United States Department of State</author>
+<title level="a" type="main">Investigation of Affairs in the Kongo</title>
+<title level="m">Papers Relating to the Foreign Relations of the United States</title>
+<date when="1907">1907</date>
+<pubPlace>Washington, D.C.</pubPlace>
+<publisher>U.S. Government Printing Office</publisher>
+<biblScope unit="pages">791-829</biblScope>
+<note>Selected documents from report.</note>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+ 
+<langUsage>
+<language ident="en">English</language>
+</langUsage> 
+ 
+<textClass>
+<keywords scheme="original" n="theme">
+<term>"Othering" Africans</term>
+<term>International Conferences and Treaties</term>
+<term>Missionaries</term>
+<term>Slave Trade and Slavery</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Government Documents</term>
+</keywords>
+
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/161311254">Alden, Percy, 1865-</term>
+<term ref="http://viaf.org/viaf/10192726">Bacon, Robert, 1860-1919</term>
+<term ref="http://viaf.org/viaf/76018602">Bennett, Charles G. (Charles Goodwin), 1863-1914</term>
+<term ref="http://viaf.org/viaf/73601123">Carter, John R. (John Ridgely), 1862-1944</term>
+<term ref="http://viaf.org/viaf/17340449">Carton de Wiart, Edmond, Comte, 1876-1959</term>
+<term>Chevalier van der Elst</term>
+<term>Dodds, C. J.</term>
+<term ref="http://viaf.org/viaf/265340794">Edward VII, King of Great Britain, 1841-1910</term>
+<term ref="http://viaf.org/viaf/75123579">Elst, Léon van der, baron, 1856-1933</term>
+<term ref="http://viaf.org/viaf/295001983">Grey of Fallodon, Edward Grey, Viscount, 1862-1933</term>
+<term ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/100166801">Lodge, Henry Cabot, 1850-1924</term>
+<term>Memminger, Lucien</term>
+<term ref="http://viaf.org/viaf/37234257">Reid, Whitelaw, 1837-1912</term>
+<term ref="http://viaf.org/viaf/44346731">Roosevelt, Theodore, 1858-1919</term>
+<term ref="http://viaf.org/viaf/32065073">Root, Elihu, 1845-1937</term>
+<term>Rose, H. M.</term>
+<term>Slocum, Clarence Rice</term>
+<term>Smith, James A.</term>
+<term ref="http://viaf.org/viaf/52858443">Wilson, Henry Lane, 1857-1932</term>
+</keywords> 
+ 
+<keywords scheme="original" n="places">
+<term>Bangala District</term> 
+<term>Bayenge (Congo)</term> 
+<term>Berlin (Germany)</term>
+<term>Bolenge (Congo)</term>
+<term>Bolobo (Congo)</term>
+<term>Boma (Congo)</term>
+<term>Brazzaville (Congo)</term>
+<term>Brussels (Belgium)</term>
+<term>Congo Basin</term>
+<term>Congo River</term>
+<term>Coquilhatville (Congo)</term>
+<term>Dobo (Congo)</term> 
+<term>Eala (Congo)</term> 
+<term>French Congo</term>
+<term>Ikoko (Congo)</term> 
+<term>Irebu (Congo)</term>
+<term>Kasai District</term>
+<term>Lake Leopold II</term>
+<term>Lake Tumba</term>
+<term>Leopoldville (Congo)</term>
+<term>London (England)</term>
+<term>Lulanga (Congo)</term> 
+<term>Matadi (Congo)</term>
+<term>Mopolanga (Congo)</term> 
+<term>N'Dolo (Congo)</term> 
+<term>N'gali (Congo)</term>
+<term>Nsona Mbata (Congo)</term> 
+<term>Nouvelle Anvers (Congo)</term>
+<term>Stanley Falls</term>
+<term>Stanleyville (Congo)</term>
+<term>Thysville (Congo)</term>
+<term>Ubangi River</term>
+<term>Upoto (Congo)</term> 
+<term>Yambata (Congo)</term> 
+<term>Washington (D.C.)</term>
+</keywords>
+
+<keywords scheme="original" n="organization">
+<term>American Baptist Missionary Union</term>
+<term>American Congo Company</term>
+<term>Belgian Parliament</term>
+<term>Compagnie Belge Maritime du Congo</term>
+</keywords> 
+ 
+<keywords scheme="original" n="powers">
+<term>Belgium</term>
+<term>Great Britain</term>
+<term>United States</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term>Budja</term>
+</keywords>
+
+<keywords scheme="original" n="religion">
+<term>Baptist</term>
+</keywords>
+
+</textClass>
+</profileDesc>
+   
+<revisionDesc>
+<change when="2019-04-08" who="#kln">updated encoding</change>
+<change when="2015" who="#kln">initial transcription and encoding</change>
+<change when="2014" who="#kln">initial transcription and encoding</change>
+</revisionDesc>
+ 
+</teiHeader>
+
+<text> 
+
+<group>
+
+<text type="report" xml:id="teaa.en.government.0005.d001">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">The Consul-General at Boma to the Secretary of State</head>
+
+<head type="sub">[Extract.]</head>
+
+<head type="sub">American Consulate-General, Boma, December 1, 1906.</head>
+
+<p>Sir: I have the honor to transmit herewith a confidential report concerning the Kongo Free State as a commercial undertaking.</p>
+
+<p>I beg to inform the department that this report is based upon personal observation, personal reading of public documents, and conversations with officials, traders, and other trustworthy men of affairs.</p>
+
+<p>I have, etc.,<lb/>
+Clarence Rice Slocum.</p>
+
+<div2 type="enclosure">
+
+<head type="main">[Inclosure.]</head>
+
+<head type="main">The Kongo Free State as a Commercial Undertaking.</head>
+
+<head type="sub">Boma, December 1, 1906.</head>
+
+<p>I have the honor to report that I find the Kongo Free State, under the present régime, to be nothing but a vast commercial enterprise for the exploitation of the products of the country, particularly that of ivory and rubber.</p>
+
+<p>Admitted by Belgian officials and other foreigners here, the State, as I find it, is not open to trade in the intended sense of article 5 of the Berlin act, under which the State was formed.</p>
+
+<p>The State's regulations as to taxation of river craft is such as to preclude the possibility of private competition in the waters of the Kongo and its affluents, and thus, in my opinion, creates a violation of the spirit of the same act.</p>
+
+<p>The governing power of the State has apparently made every effort to discourage trade in its proper sense, constantly increasing taxation and various restrictions which, I shall point out further on, have all tended to discourage the traders of years' standing here, especially as no public improvements have been made worthy of comment.</p>
+
+<p>While it is true that Boma, the capital, presents a much different appearance than was the case a few years ago, and that railroads have been constructed in the lower and upper Kongo, I state that this has been done for the benefit of the State, or rather, to be exact, the controller of the Kongo Free State, and as an aid to the exploitation(?) of the products of the country; while, on the contrary, public utilities, such as sewers, water pipes, etc., have not been constructed except a few kilometers here at Boma, where the tax for obtaining the service is so exorbitant that few are willing to pay it.</p>
+
+<p>With all the vast exportation of rubber and ivory, and its compensating value in European markets, not even a closed shed as a receptacle of imported goods exists in Boma.</p>
+
+<p>The quays at Boma and Matadi belong to railroad companies, in one of which the State is reputed to possess no interest.</p>
+
+<p>The charges are deemed so excessive that the boats of the Compagnie Belge Maritime du Congo are the only ones to employ this means of discharging their cargo.</p>
+
+<p>The German, French, Portuguese, and English boats discharge their cargo into small boats, which are beached, and occasionally the contents spoiled through this necessity of trade.</p>
+
+<p>At Matadi, I believe, the French boats pay the rate demanded and dock accordingly.</p>
+
+<p>Rubber.</p>
+
+<p>It is practically impossible for the trader to purchase and vend at a profit this commodity, as, in accordance with a decree of the King Sovereign under date of September 22, 1904, every trader purchasing rubber must, for every 100 kilograms or fraction collected from trees or vines, plant 50 trees, and for herb rubber collected or purchased in like quantity, 15 trees.</p>
+
+<p>If the trader possesses no ground upon which to plant the trees required, and it is obvious that he has none, as none can purchase land in quantity sufficient for such purposes, he must plant on the territory of the State and the trees become the property of the State thereby, and this notwithstanding the fact that the trader pays import and export duties, in addition to other taxes, such as that for the recruiting of clerks, office boys, servants, etc. -- thus, 100 francs for a license to recruit the same, and an additional tax of 300 francs per head for every clerical employee (black or white), including the manager.</p>
+
+<p>As a proof of the utter absurdity of the law governing the planting of trees, I beg to offer the following incident:</p>
+
+<p>A certain trader of Thysville, having bought rubber, was informed that he would have to conform to the law as stated above.</p>
+
+<p>He asked that ground might be indicated to him where he could plant the required trees, but was officially informed, wherein lies the pith of my remarks on this subject, that he could plant at Leopoldville, a distance of 160 kilometers interior.</p>
+
+<p>However, the more serious obstacle to rubber trading, so far as the "free trade" is concerned, is the export tax on this product, namely, the conventional tax for the present year of 40 centimes per kilogram, a supplementary tax of 25 centimes, and a further domanial tax of 25 centimes -- thus, 90 centimes per kilogram -- which, it is to be noted, is a higher rate than the State allows the native for rubber furnished in payment of taxes, which varies, for no apparent reason, from 35 to 50 centimes per kilogram.</p>
+
+<p>Ivory.</p>
+
+<p>The commercialism of the State or its governing power is further evidenced in the local (?) ordinance of September 30, 1905, regarding the stamping of ivory; thus, for each elephant killed, one tusk becomes the property of the State (?) and the other must now, by the ordinance referred to, be stamped before being placed on the market.</p>
+
+<p>As the chiefs of the posts charged with this duty are also charged with the purchase of ivory for the State, it is natural to presume that very little of the ivory reaches the open market, and, in fact, does not.</p>
+
+<p>Résumé</p>
+
+<p>There being no money in circulation in the interior of the State, the taxes are paid in kind, for the most part in rubber.</p>
+
+<p>The same is equally true of the colonial territory of the French Republic in the Kongo; but where the French Government have periodical sales of the products collected for taxes, enabling thereby the ordinary trader to acquire at its market value that produce and ship to Europe, the Free State, on the contrary, ships all produce so collected for its own account.</p>
+
+<p>It is obvious that this report applies principally to the domanial lands and not to the produce of the concessionary companies.</p>
+
+<p>As to the concessionary companies, it is obvious that where there is no competition the native is at the mercy of  the concessionaire, so far as the value of the goods given in exchange is concerned.</p>
+
+<p>In my opinion, it is thus obvious that under the system prevailing at the present time in the Kongo Free State, the just equivalent of foreign manufactures can not enter, and thus what should be a profitable market for the foreign producer, if the spirit of the Berlin act were carried out, is lost.</p>
+
+<p>That this is true is born out by the fact that there are no private traders in the upper Kongo with the exception of five trading companies at Stanleyville, which enjoy somewhat of a privilege in trading in what is known as the Free Zone, an area of about 50 by 10 kilometers.</p>
+
+<p>It is common report here, even among the officials of Belgian origin, that in every one of the concessionary companies the State holds the controlling interest.</p>
+
+<p>I have no means at my disposal to prove this statement.</p>
+
+<p>Respectfully submitted.<lb/>
+Clarence Rice Slocum, Consul-General.</p>
+
+</div2>
+</div1>
+</body>
+</text>
+
+
+<text type="report" xml:id="teaa.en.government.0005.d002">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">The Secretary of State to Chargé Carter</head>
+
+<head type="sub">[Telegram.]</head>
+
+<head type="sub">Department of State, Washington, December 10, 1906.</head>
+
+<p>Moved by the deep interest shown by all classes of the American people in the amelioration of conditions in the Kongo State, the President has observed with keen appreciation the steps which the British Government is considering toward that humanitarian end. You will say so to Sir Edward Grey, inviting from him such information as to the course and scope of the action which Great Britain may contemplate under the provisions of the general act of the Kongo and in view of the information which the British Government may have acquired concerning the conditions in Central Africa, and you will further express to Sir Edward Grey the desire of the President to contribute by such action and attitude as may be properly within his power toward the realization of whatever reforms may be counseled by the sentiments of humanity and by the experience developed by the past and present workings of Kongo administration. The President's interest in watching the trend toward reform is coupled with the earnest desire to see the full performance of the obligations of articles 2 and 5 of the <ref type="internal" target="teaa.en.government.0002">general Africa slave-trade act of Brussels</ref> of July 2, 1890, to which the United States is a party, in all that  affects involuntary servitude of the natives.</p>
+
+<p>Root.</p>
+
+</div1>
+</body>
+</text>
+
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d003">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">Chargé Carter to the Secretary of State.</head>
+
+<head type="sub">[Telegram.]</head>
+
+<head type="sub">American Embassy, London, December 12, 1906.</head>
+
+<p>With reference to your telegraphic instruction of 10th instant, received yesterday, I saw Sir Edward Grey same afternoon. He was much gratified to learn of the President's interest and the attitude of our Government in regard to the amelioration of conditions in the Kongo. His Majesty's Government are not at present advised of the attitude of the other signatory powers in this regard, but they think, in view of the reports of their own agents and that of the Belgian King's commission, that a radical change is necessary in the management of affairs in the Kongo. He specified more especially the conditions of forced labor in rubber under guise of taxation, which was practical slavery, leaving out of consideration the various reports of cruelty and other atrocities. He felt that there should be a parliament behind the government in the Kongo, by which he meant that the Belgian Government should become responsible for the administration of affairs in that locality. he therefore had postponed any action to await the result of the present debate upon the subject now going on in the Belgian Parliament. He seemed to think the main obstacle in the way to annexation by Belgium was the difficulty in agreeing upon terms with the King. In the event, however, of the Belgian Government not being able to arrive at such a conclusion His Majesty's Government would feel constrained to address a note to the signatory powers, suggesting a conference. He nevertheless hoped that such a contingency might be avoided by the action of Belgium, and he promised to keep us promptly informed of any developments.</p>
+
+<p>Carter.</p>
+
+</div1>
+</body>
+</text>
+
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d004">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">Chargé Carter to the Secretary of State.</head>
+
+<head type="sub">American Embassy, London, December 14, 1906.</head>
+
+<p>Sir: I have the honor to inclose herewith a translation of your telegram, dated the 10th instant and received at this embassy on the morning of the 11th, respecting affairs in the Kongo, and also a translation of my telegram in reply thereto of the 12th instant.</p>
+
+<p>In this connection I have the honor to inclose herewith a clipping from the Times of this date reporting a reply made by Sir Edward Grey in the House of Commons to a question put by Mr. Alden, the member for Middlesex, as to whether there would be an international conference to consider the situation in the Kongo Free State. It will be perceived that the answer mentioned was doubtless based upon the information which I conveyed to him at your instance.</p>
+
+<p>I have, etc.,<lb/>
+John Ridgely Carter.</p>
+
+<div2 type="enclosure">
+
+<head type="main">[Inclosure 1.]</head>
+
+<head type="main">Memorandum</head>
+
+<head type="sub">Handed by the American chargé d'affaires ad interim to the British secretary of state for foreign affairs December 11, 1906</head>
+
+<p>The President, moved by deep interest shown by all classes of the American people in the amelioration of conditions in the Kongo State, has observed with keen appreciation the steps which His Majesty's Government are considering toward that humanitarian end. The American Government would be glad to have such information as to the course and scope of action as Great Britain may contemplate under the provisions of the general act of the Kongo, having in view the information which His Majesty's Government may have acquired concerning the conditions in Central Africa, it being the desire of the President to contribute by such action and attitude as may be properly within his function toward the realization of whatever reforms may be counseled by the sentiments of humanity and by the experience developed by the past and present workings of the administration of the Kongo.</p>
+
+<p>The President's interest in watching the trend toward reform is coupled with the earnest desire to see the full performance of the obligations of articles 2 and 5 of the <ref type="internal" target="teaa.en.government.0002">general Africa slave-trade act of Brussels</ref> of July 2, 1890, to which the United States is a party, in all that affects involuntary servitude of the natives.</p>
+
+<p>December 11, 1906.</p>
+
+</div2>
+
+<div2 type="enclosure">
+
+<head type="main">[Inclosure 2.]</head>
+
+<head type="main">[The Times, Friday, December 14, 1906.]</head>
+
+<head type="sub">The Kongo.</head>
+
+<p>Sir E. Grey, replying to a question of Mr. Alden (Middlesex, Tottenham) as to an international conference to consider the situation in the Kongo Free State, said:</p>
+
+<p>"The plan of summoning an international conference has not specifically been mentioned. But the United States Government have recently intimated their desire to contribute to the realization of whatever reforms may be counseled by sentiments of humanity, and by the experience of past or present administration in the Kongo State. As the honorable member is no doubt aware, such an announcement is more cordially welcomed by His Majesty's Government. But, pending the decision to which Belgium may soon come, it is unnecessary to make any further statement at the moment."</p>
+
+</div2>
+</div1>
+</body>
+</text>
+
+<gap reason="sampling"/>
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d005">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">The Secretary of State to Minister Wilson.</head>
+
+<head type="sub">[Telegram.]</head>
+
+<head type="sub">Department of State, Washington, January 15, 1907.</head>
+
+<p>Our attitude toward Kongo question reflects deep interest of all classes of American people in the amelioration of conditions. The President's interest in watching the trend toward reform is coupled with earnest desire to see full performance of the obligations of articles 2 and 5 of <ref type="internal" target="teaa.en.government.0002">slave-trade act</ref>, to which we are a party. We will cheerfully accord all moral support toward these ends, especially as to all that affects involuntary servitude of the natives. It is the President's desire to contribute by such action toward the realization of whatever reforms may be counseled by the sentiments of humanity and by the experience developed by the past and present workings of the Kongo administration. The Belgian Parliament having adopted principle of annexation and appointed a committee to arrange details, it is alike proper that the wish of the President for substantial improvement of conditions in the Kongo be made known, and that he should for the present observe an expectant attitude, as we understand is the policy of some of the powers signatories to the act of Berlin.</p>
+
+<p>Root.</p>
+
+</div1>
+</body>
+</text>
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d006">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">Minister Wilson to the Secretary of State.</head>
+
+<head type="sub">American Legation, Brussels, January 23, 1907.</head>
+
+<p>Sir: I have the honor to acknowledge the receipt of department's cablegram of January 15.</p>
+
+<p>A study of the cablegram, after its translation, convinced me that the department had not overlooked the fact that I hold no credentials to the Kongo Free State and could not for that reason maintain an official correspondence with it, but, desiring to have our attitude and the President s views brought to the attention of the Kongo Government, relied upon me to accomplish that result in such way and manner, officially or unofficially, as might seem most advisable.</p>
+
+<p>On the day following the receipt of the cablegram I happened to meet at breakfast, in the house of a mutual friend, Mr. Edmond Carton de Wiart, the King's secretary, whom I have known more or less intimately since my first arrival here, and with whom I have frequently discussed phases of the Kongo question.</p>
+
+<p>When an opportunity offered, I asked Mr. Carton de Wiart whether it would suit him, and would be agreeable to His Majesty the King, to take knowledge of the contents of a cablegram from the Secretary of State expressing our attitude on the Kongo question. He answered that he would be very pleased to bring anything of that kind to the attention of His Majesty in a purely informal way. I accordingly handed him a copy of the cablegram.</p>
+
+<p>He read the text carefully and understandingly, but did not ask for a copy. The only comment he made was to inquire whether my government was fully informed as to the present status of the Kongo question and the reforms that were in contemplation.</p>
+
+<p>I answered that the legation had transmitted all available information to Washington.</p>
+
+<p>On the next day, not being entirely sure that I had taken the most effectual method of bringing our attitude to the knowledge of the King's Government, I paid a visit to the Chevalier van der Elst, the secretary-general of the Belgian cabinet, who has been the unofficial intermediary through which I have acted always in Kongo matters, and said to him that I was in possession of an expression of the attitude of our Government relative to the present status of the Kongo question, and being without credentials to the Kongo Government I was uncertain as to what would be the most acceptable manner of making these views known.</p>
+
+<p>The Chevalier expressed his willingness to convey the contents of my cablegram to the knowledge of His Majesty, and asked to be permitted to take a copy of the same. This I gave him, and I understood him to intimate that I might perhaps receive an acknowledgment, with some comments, later on.</p>
+
+<p>Yesterday the King's secretary, Mr. Carton de Wiart, came to the legation to ask me whether the department was in possession of the Bulletin Officiel de l'Etat Independant du Congo, No. 6, twenty-second year, June, 1906, which contains, on pages 230-231, under the caption "Impositions directes et personnelles" articles 1 and 2 of the royal decree relative to direct and personal taxes to be paid by the natives. This publication has already been forwarded to the department, but I take the precaution of inclosing another copy herewith.</p>
+
+<p>Whatever further information I obtain will be promptly transmitted to the department.</p>
+
+<p>I will be gratified to know whether my course in this matter meets with the approval of the department.</p>
+
+<p>I have, etc.,<lb/>
+Henry Lane Wilson.</p>
+
+</div1>
+
+</body>
+
+</text>
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d007">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">Minister Wilson to the Secretary of State.</head>
+
+<head type="sub">[Telegram. -- Paraphrase.]</head>
+
+<head type="sub">American Legation, Brussels, February 7, 1907.</head>
+
+<p>Minister for foreign affairs of Belgium called on me yesterday for the purpose of expressing his views relative to the possible effect of the Lodge resolution now before the Senate. Having expressed a desire that his observations should be transmitted by telegram to Washington, I requested a memorandum on the subject. This he gave me, and it is as follows:</p>
+
+<q>The Belgian Government having learned that the vote on the Lodge resolution is represented in the United States as being conducive to the immediate annexation of the Kongo by Belgium, the minister for foreign affairs, in a private conversation, has thought It expedient to call the attention of Mr. Wilson unofficially to the declarations of the Cabinet and of the leaders of the different political parties during the last discussion in the Chamber of Representatives on the Kongo question. according to which Belgium affirmed its intention to decide the question of annexation after a thorough examination of the subject and in the free exercise of its Independence and autonomy.</q>
+
+<p>Wilson.</p>
+
+</div1>
+
+</body>
+
+</text>
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d008">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">The Acting Secretary of State to Minister Wilson.</head>
+
+<head type="sub">Department of State, Washington, February 9, 1907.</head>
+
+<p>Sir: I have to acknowledge the receipt of your dispatch, No. 146, of the 23d ultimo, acknowledging the receipt of the department's telegram of the 15th of the same month communicating to you this Government's attitude in relation to the Kongo question, reporting your action in making His Majesty's Government aware of its contents, except so much thereof as refers to the resolution pending in the Senate, and asking whether the department approves your course.</p>
+
+<p>In view of the fact adverted to on page 2 of your dispatch, that you hold no credentials to the Kongo Free State and therefore can not maintain an official correspondence with it, the department is of the opinion that you have acted wisely in this matter and approves your course.</p>
+
+<p>You are requested to furnish the department with a list of the members of the diplomatic corps at Brussels who are accredited to the sovereign of the Kongo State and to report how they are so accredited.</p>
+
+<p>I am, etc.,<lb/>
+Robert Bacon.</p>
+
+</div1>
+
+</body>
+
+</text>
+
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d009">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">Senate resolution in regard to the Kongo.</head>
+
+<head type="sub">In the Senate of the United States.</head>
+
+<head type="sub">February 15, 1907.</head>
+
+<p>Whereas it is alleged that the native inhabitants of the Basin of the Congo have been subjected to inhuman treatment of a character that should claim the attention and excite the compassion of the people of the United States: Therefore, be it</p>
+
+<p>Resolved That the President is respectfully advised that in case he shall find that such allegations are established by proof, he will receive the cordial support of the Senate in any steps, not inconsistent with treaty or other international obligations or with the traditional American foreign policy which forbids participation by the United States in the settlement of political questions which are entirely European in their scope, he may deem it wise to take in cooperation with or in aid of any of the powers signatories of the <ref type="internal" target="teaa.en.government.0001">treaty of Berlin</ref> for the amelioration of the condition of such inhabitants.</p>
+
+<p>Attest:<lb/>
+(Signed) Charles G. Bennett, Secretary.<lb/>
+By H. M. Rose, Assistant Secretary.</p>
+
+</div1>
+
+</body>
+
+</text>
+
+
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d010">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">Minster Wilson to the Secretary of State.</head>
+
+<head type="sub">[Extract.]</head>
+
+<head type="sub">American Legation, Brussels, March 16, 1907.</head>
+
+<p>Sir: Referring to the last paragraph of the department's No. 93, of February 9 (File No. 1806/102-103), in which a list of the members of the diplomatic corps of Brussels who are accredited to the sovereign of the Kongo State is requested, I have the honor to report that I find upon investigation that none of the members of the resident corps are so accredited.</p>
+
+<p>Such business as diplomatic representatives are obliged, under instructions from their Governments, to transact with the Kongo Free State is usually carried on very much in the same manner as has been the custom in this legation.</p>
+
+<p>The experience of other legations in transacting diplomatic business in this irregular and informal way has not been found satisfactory.</p>
+
+<p>It should be remembered, however, that those acute phases of the Kongo question requiring delicate handling, accurate information, and intelligent understanding have developed only during. recent years, and the necessity for adequate diplomatic representation has therefore only lately become of pressing importance.</p>
+
+<p>I have no information as to the intention of any government to accredit representatives to the sovereign of the Kongo State.</p>
+
+<p>I am, however, of the opinion that, in our case, the clothing of the diplomatic representative of Belgium with additional powers to the sovereign of the Kongo State would contribute considerably toward more effective diplomatic action.</p>
+
+<p>I have, etc.,<lb/>
+Henry Lane Wilson.</p>
+
+</div1>
+
+</body>
+
+</text>
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d011">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">The Acting Secretary of State to Minister Wilson.</head>
+
+<head type="sub">Department of State, Washington, April 1, 1907.</head>
+
+<p>SIR: I have to acknowledge the receipt of your dispatch No. 160, of the 16th ultimo, reporting that none of the powers has accredited a diplomatic representative to the sovereign of the Kongo Free State, and suggesting that if the American minister were so accredited more effective diplomatic action would result.</p>
+
+<p>In view of the action of the other powers, no change in the practice of the United States in this regard appears to be necessary.</p>
+
+<p>I am, etc.,<lb/>
+Robert Bacon.</p>
+
+</div1>
+
+</body>
+
+</text>
+
+
+
+<gap reason="sampling"/>
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d012">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">The Acting Secretary of State to Ambassador Reid.</head>
+
+<head type="sub">Department of State, Washington, November 4, 1907.</head>
+
+<p>Mr Dear Mr. Reid: I inclose a copy of the English text of the bill for a colonial law now under discussion by a special committee of the Belgian Parliament.</p>
+
+<p>It seems to me that the enactment of this law would be a most unsatisfactory conclusion of the effort to redress and prevent for the future the outrages which have been committed on natives of the Kongo region under the control of the King of Belgium.</p>
+
+<p>You will see that practically the only attempt at any check upon the absolute power of the King is under a colonial council, which, under the nineteenth article of the proposed law, is to be nominated by the King himself. This is mere trifling with the people who have been justly dissatisfied with the conduct of affairs in the Kongo.</p>
+
+<p>I wish you would talk informally with Sir Edward Grey on this subject and ascertain whether, in case this bill becomes a law and the effort of Belgium ends there, Great Britain will accept such a result as being satisfactory performance of the trust which was committed to the International Association of the Kongo under the Berlin convention of 1885. I can not believe that he will consider that the duty of Great Britain, the performance of which she assumed by that convention, will have been discharged by an assent to such a disposal of the matter.</p>
+
+<p>You may say to Sir Edward Grey that the United States * * * are, however, gradually coming to a frame of mind in which we are disposed to consider the further continuance of the conditions which have existed in the Kongo as being a violation of the spirit, if not the letter, of the <ref type="internal" target="teaa.en.government.0002">Brussels convention of 1890</ref>, which, in its second article, expressly includes among its objects--</p>
+
+<q>To diminish intestine wars between tribes by means of arbitration; to initiate them in agricultural labor and in the industrial arts, so as to increase their welfare; to raise them to civilization and bring about the extinction of barbarous customs. * * * To give aid and protection to commercial enterprise; to watch over their legality by especially controlling contracts for service with natives, and to prepare the way for the foundation of permanent centers of cultivation and of commercial settlements.</q>
+
+<p>Faithfully yours,<lb/>
+Elihu Root.</p>
+
+</div1>
+
+</body>
+
+</text>
+
+
+
+<gap reason="sampling"/>
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d013">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">Ambassador Reid to the Secretary of State.</head>
+
+<head type="sub">[Extract.]</head>
+
+<head type="sub">[Personal.]</head>
+
+<head type="sub">American Embassy, London, November 19, 1907.</head>
+
+<p>My Dear Mr. Root: Your letter of November 4 was received a few days ago, and to-day I took the first opportunity since its receipt for talking unofficially with Sir Edward Grey about the Kongo business. After telling him that your letter was confidential I added that perhaps the simplest way of discharging my duty was to read it to him, and so I read it almost in full.</p>
+
+<p>He at once said that the views of this country, and his own views, coincided quite fully with those which you expressed. It was clear that the proposal to which you referred could not be acceptable either in the form in which you sent it or with the various amendments which had since been proposed.</p>
+
+<p>He did not believe, however, that the time had yet come from England to go beyond the expression on this subject recently made by the prime minister in his speech at the Mansion House.</p>
+
+<p>Sir Edward felt quite sure, however, that the English people would not be content with anything like the disposition of the case proposed in the projet de loi referred to. He was extremely glad to learn that the United States took an interest in the subject and held similar views. He would not fail to communicate with me later if any change in the situation should warrant it.</p>
+
+<p>I think the foregoing gives a fair idea of the spirit and purport of a conversation which was prompt, frank, and direct on Sir Edward's part and seemed to be without any reserves.</p>
+
+<p>Yours, sincerely,<lb/>
+Whitelaw Reid.</p>
+
+</div1>
+
+</body>
+
+</text>
+
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d014">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">The Consul-General at Boma to the Secretary of State.</head>
+
+<head type="sub">American Consulate-General, Boma, November 20, 1907.</head>
+
+<p>Sir: I have the honor to inclose herewith my report upon existing conditions in the Kongo. The conclusions I have formed as a result of observations made during my recent trip are concurred in by Mr. Memminger, who accompanied me, and to whose valuable aid, rendered in many ways during a somewhat difficult journey, I am very glad to acknowledge my indebtedness.</p>
+
+<p>I have, etc.,<lb/>
+Jas. A. Smith.</p>
+
+
+<div2 type="enclosure">
+
+<head type="main">[Inclosure.]</head>
+
+<p>In the administration of the Kongo Free State the chief question baa been, and is at the present time, the one of taxation. The fact that the State exacts a tax in labor, and the many abuses which have occurred, and still occur, as the result of the enforcement of this system of prestation, have given rise to a large part of the criticisms which have been directed against it. The ordinance of July 1, 1885, declared, in part, that the vacant lands were to be regarded as belonging to the State. The vacant lands were considered as all those not actually occupied or under cultivation by the natives; their proprietary rights in and over their own country were ignored, and the State, in continuation of this policy, has proceeded, under the guise of taxation, to compel the natives to contribute for its benefit, and that of a number of concessionary companies, the natural products of these lands, consisting, for the most part, in rubber, ivory. and gum copal. Briefly, the royal decree of June 3, 1906, provides that every valid and adult native is subject to an annual tax of from 6 to 24 francs, depending, as is stated, on the resources of the various regions and the degree of development of the natives. Children of 16 years of age are considered as adults, and the law is so worded as to include women. The tax is payable monthly in either products or labor, and, nominally, the number of hours of labor which the native must perform to acquit himself of his tax must not exceed forty hours each month, including transport. The law further provides, "pour faire naître chez les indigènes le goût du travail," that they shall receive a remuneration at the time of the delivery of the products, or in exchange for the number of hours of labor performed, calculated according to the value of the products or the average rate of local wage. Such, in substance, is the wording of the law, and the main purpose of my trip was to investigate the conditions which have arisen out of its application. It may be remarked here that in the lower Kongo, where money is in circulation, the tax is, as a rule, paid in cash.</p>
+
+<p>For administrative purposes the Kongo Free State is divided into districts, each of which is administered by a "commissaire de district," under the direction of the governor-general at Boma, who in turn is charged with the execution of measures approved by the central government at Brussels. The various districts are divided into zones, and these again into sections and posts, and administered respectively by a "chef de zone," "chef de secteur," and "chef de poste." The latter official is the agent for the collection of taxes.</p>
+
+<p>I left Boma, accompanied by Mr. Memminger, on August 1, on the steamship Leopoldville, reaching Matadi the same day, as run of four or five hours. Matadi is important as being the terminal port of the European steamers and the starting point of the railroad line to Leopoldville. I remained here one day, securing accommodations at the mission of the American Baptist Missionary Union. i had an interview during the day with the commissaire of the district, and learned from him that he had recently recommended to the governor-general that the tax in his district be fixed at 12 francs per year for each male of 14 years or over, payable in cash, females to be exempt. In certain parts of his district, away from the railroad, he had recommended that the tax be fixed at one-half the amount, or 6 francs per year. his recommendations had not, at the time of my visit, been approved, but I was informed upon my return that women were also to be taxed. Laborers working for the State here are paid at the rate of 6 francs per month, with rations consisting of dried fish and rice. It will be noted that the tax imposed amounts to one-sixth of the average wage, and the missionaries with whom I talked considered it excessive, especially for those living away from the railroad, where no work was to be had and no money was in circulation. Laborers in the employ of the railroad are paid, I was informed, from 10 to 15 francs per month, with rations. I questioned the missionaries whom I met at Matadi as to the general conditions among the natives in the district, and beyond the objection to the amount of tax they had no complaint to make. In the lower Kongo, of which the district of Matadi forms a part, money is in circulation, a condition of free trade exists, and the natives, so far as my observation goes, are not harshly treated and are apparently contented. In none of these respects can the same be said for the upper Kongo, at least in the regions I visited. Accompanied by the commissaire I inspected the prison for blacks. It consisted of a courtyard about 75 feet square, with a rough stone building on one side providing sleeping accommodations. The beds were wide wooden platforms raised a couple of feet from the ground. Four or five of the inmates sleep together on one of these. The prison is used for me convicted of minor offenses, the penalty for which is not more than a year's confinement. They are chained together in pairs, and do porterage work on the arrival of steamers and trains and general scavenger work in the town.</p>
+
+<p>I left Matadi on the evening of August 2 for Leopoldville. The journey requires two days, a stop for the night being made at Thysville. The railroad is narrow gauge and rock ballasted for most of the distance and is well managed, with the exception of the cars being uncomfortably small and far from clean. The first-class fare is exorbitantly high, 200 francs being charged for the journey of 250 miles, or at the rate of about 16 cents a mile. The second-class cars are open, with seats running across, and are occupied, as a rule, entirely by blacks. The second-class fare is 25 francs.</p>
+
+<p>The importance of Leopoldville arises from its being the terminal of the railroad from Matadi and the port of departure for the steamers leaving for the upper Kongo, and it is also, with the exception of the region around Stanley Falls, the end of the free-trade zone. Beyond this point practically the entire territory of the Kongo is exploited by the State itself or by concessionary companies in which the State holds a large and, in many cases, controlling interest. I remained at Leo until the 21st of August, visiting several of the native villages in the vicinity, making a trip to Brazzaville, on the French side of the river, and to the headquarters of the new American Congo Company, a day and a half's trip up the river. During my stay I had interviews with the leading state officials, several of the local missionaries, natives, and others familiar with the situation.</p>
+
+<p>The State has in its employ at Leopoldville at the present time about 1,200 native workmen. In addition there is a detachment of about 120 native soldiers. The workmen are employed in the loading and discharging cargo from the river steamers, building and repair work on the river front and on damaged steamers. Together with their wives the native force reaches an aggregate of about 2,000 souls. The workmen are impressed into service for a term of five years by military conscription for, as the law states, "the execution of works of public utility." The English vice-consul at Stanleyville, in a report of his Government, says in regard to this system:</p>
+
+<p>"* * * But I am not aware of any civilized state in which conscription is applied to 'works of public utility.' The abolition of compulsory porterage, canoe paddling, and the substitution of paid workmen appears to be a great relief. But these 'travailleurs salariés' are the conscripts; they are hunted in the forest by soldiers and are brought in bound by the neck, like criminals."</p>
+
+<p>At Leopoldville these conscript workmen are paid by the State in case at the rate of from 4 to 10 francs per month for their  first term of five years. In addition, they receive rations, consisting for the most part in chikwangue ("kwanga"), the native bread made from the manioc root. To provide this food the State levies an impost on the natives in the surrounding region and forces them to bring it in at intervals of four, eight, or twelve days, depending upon the distance from the town. Beyond the clearing of the forest the work of planting, digging the roots, soaking, barking and retting, making into loaves, and boiling falls entirely upon the women. Even the transport is for the most part performed by them or by the children. As a remuneration the State pays at the rate of 6 centimes a kilogram in cloth or other merchandise. The tax has been fixed in this district at the maximum of 24 francs per year, so that at the above rate of 6 centimes fixed by the State each woman (and I was informed that only the women are counted in reckoning the amount each village must furnish) must supply 400 kilograms of chikwangue per year. The commission of inquiry sent out here in 1904 by the King reported as follows in reference to this tax:</p>
+
+<p>"The worst feature of this imposition is its continuity. As the chikwangue can be preserved only a few days the native, even by doubling his activity, can not at one time discharge his obligations extending over a long period. The imposition, even if it does not demand his entire time, loses a part of its real character as a tax and besets him, therefore, continually, through the preoccupation of these approaching deliveries which make the task lose its true character and transforms it into incessant compulsory labor."</p>
+
+<p>And again:</p>
+
+<p>"* * * It is none the less inadmissible that he should be obliged to travel 150 kilometers to bring to the place of delivery a tax which represents a value of about one franc and a half. This remark is equally just, even if it is granted that the compensation given to the native represents the exact value of the article furnished."</p>
+
+<p>No one who visits Leopoldville and the surrounding region can do otherwise than admit the justness of these observations, and yet, beyond the fact that the State has arranged that the chikwangue from the zone farthest distant from the town can be delivered at a nearer receiving station located on the railroad line and from thence transported by rail to Leo, nothing has been done to relieve the situation. it is true that a small plantation of some 90 acres, entirely inadequate to meet the needs, has been started at N'Dolo, a few miles from Leo, which is principally given over to the cultivation of maize and sweet potatoes and manioc, but I was reliably informed that a normal crop would not suffice to feed the state employees for a month, so the improvement is more apparent than real. In my visits to the surrounding villages I did not see a woman who was not busily engaged in making kwanga for the State, from which they receive but a trifle more than half its market value at Leo. The men are subject to the corvée, or obligatory labor, at any time the State requires their services. The condition of their villages, the wretchedness of their miserable hovels, the entire absence of any and every thing indicating benefits derived from contact with the white man's civilization, or an improvement in economic condition as a result of an almost constant labor forced upon these poor people, could not fail to impress any impartial observer. The comissaire of this district is an intelligent and, I believe, humane man, but his efforts to ameliorate the condition of  the native can result in but little as long as the system under which he is compelled to administer his district is adhered to.</p>
+
+<p>With the testimony of the missionaries and the natives themselves it is not difficult to arrive at the conclusion that the law restricting the taxation in labor to forty hours per month as applied here is devoid of meaning. The evils of the system are further accentuated by the question of transport, devolving almost entirely on the women and children. One sees at Leo long caravans in which the women and children, some of the latter not more than 9 or 10 years of age, and of both sexes, arrive loaded down with heavy burdens of kwanga as a tribute to an administration which refuses to ration its employees and soldiers in cash because it can compel this form of imposition at a cost, as I have stated, but little more than half the amount it would be obliged to pay these employees if they purchased the same rations in the open market. Admitting, as a principle, that a certain tax should be imposed upon the natives, the only remedy for the conditions existing among them in this region requires the exaction of a reasonable sum yearly in case and payable at a time most convenient to the native. The sum of 24 francs, or its equivalent, in products at a depreciated valuation and paid for in merchandise upon which the State undoubtedly makes a profit, is ridiculously out of proportion to the economic condition of the native population in this district. I learned at Brazzaville that the natives in the French Kongo, where similar conditions prevail, are taxed at the rate of 5 francs per annum, which is paid in cash. Women are not taxed, and in the remoter sections where money is scarce and labor not much in demand the amount is but 3 francs per year.</p>
+
+<p>In contrast to the conditions prevailing in the surrounding region was the arrangement made by the State at Leo for the proper housing of its black laborers and soldiers. Situated on a high elevation at the back of the town, the houses well built in the native fashion, regularly lined out, and separated by wide spaces and broad streets to insure proper sanitary conditions, they are a credit to the administration. I also visited the lazaret, at some distance from the town, where patients suffering from sleeping sickness are isolated. Inclosed within a stockade are thirty or forty wretched houses in which at the time, and scattered around the inclosure, were 112 unfortunate blacks in various stages of disease. Filth abounded everywhere, a general air of neglect pervaded the place, and I came away with the question in my mind as to what a humane and generous administration would have done to properly house and care for these doomed and suffering people. The hospital for blacks consists of a series of eight or ten decently constructed buildings on the river front below the town. It was fairly clean, and the patients are well looked after by the physician in charge, evidently a skillful man interested in his work.</p>
+
+<p>I left Leo on August 21 on a small state steamer of 35 tons, the Ville de Bruxelles, and arrived at Irebu, a military instruction camp at the mouth of the outlet to Lake Tumba, on the 30th. The absence of any signs of life for the greater part of the distance was the most noticeable feature of the trip up the river. Occasional groups of palm trees marked the sites of former villages, the inhabitants of which had either fled to the French side or been decimated by the ravages of sleeping sickness. The State has a number of wood posts established along the river, at which the steamers stop to take on fuel. I learned that the men employed as choppers at the posts are paid from 4.50 to 7 francs per month in cloth or other merchandise, with rations of kwanga brought in as a tax from the interior villages. I was informed by a white agent at one of these posts that chickens and goats to supply the white personnel at the post and passing steamers are also contributed by these villages. The latter form of imposition would seem to be in violation of the spirit of the decree of June 3, 1906, which declares that the native can not be obliged o furnish such a tax as "sauf le cas de necessité" (except in case of necessity) and upon the authorization of the governor-general, but, as was remarked by my colleague, the British vice-consul at Leo, "the laws are elastic and the case of necessity ever present." The white agent, in answer to my inquiry, said his orders to exact this tax were only verbal and not official. Our steamer was regularly supplied at these posts with kwanga for the crew and goats and chickens for the whites on board. The black crew of the steamers are paid 5 to 7 francs per month, with rations. At Irebu the State has a military instruction camp. About 800 recruits are stationed here. The region around is taxed in kwanga and the riverine folk in smoked fish to supply food for the garrison. From Irebu I went to Ikoko, a mission station of the American Baptist Missionary Union on Lake Tumba, where I made arrangements to hire the small mission steamer Henry Reed for my trip up river. I found this not only cheaper than traveling by the state steamers, but preferable from every point of view. I was very anxious to get into the rubber-bearing districts, as I found it impossible to secure any accurate idea of the existing situation along the river.</p>
+
+<p>I left Ikoko on September 4, arriving at Upoto, in the Bangala district, on September 16. During the trip up the river I stopped at Bolenge, Coquilhatville, Eala, Lulanga, and Nouvelle Anvers. Coquilhatville is the residence of the commissaire of the Equator district, Nouvelle Anvers of the Bangala district, and Bolenge and Lulanga are mission stations of American and English societies, respectively. At Eala are located the botanical gardens of the State. At all of these places I inquired particularly as to the condition of the natives, the amount of their taxes, etc. Statements as to the latter were contusing and did not correspond even among the state officials. At Bolenge I was informed that the tax in dried fish was four bunches per week per man, weighing about a pound to the bunch. The State pays at the rate of one mitako (small brass rod) per bunch, while the current value is ten to fifteen times the amount. The native fishermen complain of the difficulties of supplying the amount demanded and of the inadequacy of the remuneration. In high water, when fish are scarce, they are obliged to go a distance of 80 miles to the Ubangi River to secure them. The region around Coquilhatville supplies kwanga as a tax, and I was informed that it was brought in from villages three days' journey from the post. At Lulanga similar conditions prevail. In addition to the mission station a state post is also located here. The remuneration for the kwanga and fish is only one-tenth of its current value, and I learned on the best of authority that the soldiers stationed here sold their rations exacted by the State as a tax at a price ten times in excess of the remuneration allowed the native. The missionaries at Lulanga informed me that formerly the villages here had a population of fully 5,000 people, while at present they contained scarcely 1,200, the greater part of the population having fled to the French side to escape the onerous burdens forced upon them by the State. I visited a number of the villages in the vicinity of the mission stations. The same destitute conditions as those I had seen at Leo and other points coming up river were evident, and the statements but tedious repetitions of the same story of excessive taxation with no corresponding benefits derived. At Eala the State has, as stated, a large botanical garden placed under the able direction of a well-known botanist, who received us with the utmost courtesy. Experiments are being made here with every variety of tropical plant, both foreign and Indigenous. Especial attention is being given to the various varieties of rubber vines and trees, to ascertain their relative value as producers. The State has for some time been engaged in establishing rubber plantations in the immediate proximity to its posts, the young plants being supplied from here. The director assured me that in many regions the rubber was practically exhausted, a fact which I had ample opportunity of proving later on.</p>
+
+<p>I had previously decided to make my trip into the interior from Upoto, in the Bangala district. This region has not previously been visited by any consular officer, and beyond the reports of the missionaries but little was known by the outside world as to the actual situation. Besides, it is considered one of the richest rubber-producing sections in the State. We arrived here on September 16, and a few days were spent in preparation for the trip, securing carriers, etc.</p>
+
+<p>Leaving Upoto on September 20, I arrived at N'gali on the following day, Friday, after a march of nine hours through the dense forest. Besides Mr. Memminger, I was accompanied by Mr. Dodds, an English missionary at Upoto, familiar with this section of the country and with the native Ngombe language. An American missionary, Mr. Metzger, who had had charge of the steamer, also accompanied me. N'gali is the center of a rubber-producing district. The State has a rubber-collecting post here, with an agent and assistant in charge, and there was also a small detachment of armed workmen commanded by a white officer. Previous to our arrival we were met by a native, who informed us that on Sunday the "rubber buying" was to take place at the post, it being the regular monthly delivery day. It seemed, therefore, as though our coming was well timed. Much to my surprise, however, the chef de poste informed me that he would not receive the rubber for several days. After questioning many of the natives in the near-by villages, who answered me that Sunday was tie regular day, I concluded that the agent for some reason did not desire our presence at the "market," and I therefore announced to him my intention of remaining until it took place. Seeing that I was determined to stay, he finally said he would "buy" on Monday. I spent the intervening days in questioning the natives in the various villages near the post as to the time required each month to collect their quota of rubber and as to the treatment received from the white agent. The tax here is fixed at 3 kilograms of rubber per month, and the nominal remuneration, 43 centimes per kilogram, paid in merchandise. I was told everywhere that the rubber in the surrounding territory was exhausted, that they were obliged to go four or five days' Journey before finding the vines, and that, ordinarily, it took them ten to fifteen days to fill their baskets after reaching the place -- in other words, twenty to twenty-five days each month spent in the forest to fulfill the obligation forced upon them by the State. While I was not inclined to be overcredulous in regard to these statements, the practical unanimity of the assertions as to the matter, both here and later at the villages farther on, convinced me of their truth. On Monday I was present at the delivery of the rubber. About 250 to 300 natives came to the post with their baskets. I had the day before asked to be allowed to weigh one of them filled with rubber, but was informed by the white agent that the scales had been sent to a distant village in his district, where rubber was also received. I was not able to dispute this, but on Monday morning, when the rubber was brought in, strange to say they were ready. The baskets vary in size, but the native is supposed to fill it. As to the amount in weight of rubber it contains he has not the shadow of an idea. He is only certain that if his basket does not contain the quantity demanded punishment will follow. As each man's name was called he came forward, hung his basket on the scales, the amount was called out by the agent and duly noted in a book by his assistant, and the native received his remuneration. This, if his basket was full, was a cheap machete and two or three small squares of salt weighing as many ounces, perhaps; if not, he was promptly seized by one of the armed workmen and marched off to prison and forced labor, to complete his tax by cutting up rubber for drying. Although a variety of articles were scattered about on the porch where the delivery took place, such as pieces of cloth, cheap leather belts, enameled-iron plates, small mirrors, cheap spoons, etc., the native apparently had no choice, the agent dictating each time the article to be given. The principal aim of each one seemed to be to have his rubber weighed and get out of sight as fast as possible. If his rubber was short, he received nothing but a small slip of paper upon which was written in a language he could not read or understand the amount brought in. In some cases for a particularly large basket two machetes were given with the salt; occasionally a cheap leather belt, but this was seldom. I stood for a time directly behind the scales, where I could watch closely the weighing and noted that the amounts as called out were not correct. Upon my calling the attention of the assistant to this he informed me that the scales were out of order and actually registered 1&#189; kilograms more than the correct weight. Even admitting that he told the truth, the natives were being unmercifully cheated, as I distinctly saw baskets weighing 6&#189; and 7 kilograms called out as 4 and 5. Many times baskets over 5 were called as 3. I remained a couple of hours watching this illuminating spectacle, during which time twenty or twenty-five men had already been marched away to prison for being short. One man who had obtained his full quota was seized because the quality was not acceptable to the white agent. The natives claimed that they were obliged to accept remuneration in machetes or salt, that when they demanded cloth or other articles they were given a slip of paper showing they had brought in their full quota, and the following month, if they also delivered their full tax, they were given the article desired. I did not see anyone flogged for being short, although such is said to be a common practice. Two men were brought to me in one of the villages who claimed they had been clubbed by the white assistant at the post for failure to furnish their full tax. One of these men was evidently in bad condition and unable to stand upright. I had no means tor proving these statements beyond the testimony of a number of other natives of the village, and they were denied by the chet de poste. It was reported to me by the natives that 11 men who had been imprisoned at the post for failure to bring in their tax had, in March last, escaped, been followed into the forest by the armed workmen, and clubbed to death. This matter bad been reported by the missionaries at Upoto, and an investigation had been made by the procureur d'État (state's attorney) a few days previous to my arrival at N'gali. The chef de poste, in reply to my questions regarding the matter, said that he had been at Nouvelle Anvers at the time, but had heard of only seven men, four of whom had died a natural death. I saw the procureur at Dobo a couple of weeks later and asked him what the result of his investigation had been. His reply was that be had ascertained that three escaping prisoners had been caught and clubbed and "afterwards died." I was not particularly interested in the actual number -- in fact, this was not important, the main point being to know if similar acts were possible. After the statement of the procureur there can be no question as to the fact that they are. The prison house on the post contained two rooms, each about 12 feet square, with dirt floors and no windows, and two small, dark closets, 7 by 3, the latter for women who are employed on the post and who, as I was informed by the agent, had been guilty of insubordination, they being under military discipline as well as the armed workmen. At the rate the men were being sent to forced labor when I left, the two rooms would have had a hundred occupants by night. Without light or ventilation of any sort, their situation may be imagined.</p>
+
+<p>A five and one-half hours' walk from N'gali brought us to Mopolanga, where the State has a travelers' rest house. There are a number of native villages here, and we listened to the same complaints as regards the rubber tax as at N'gali. There was no white agent here, the natives carrying the monthly contributions to Bayenge, a state post farther on, where we arrived late the following afternoon, having been delayed by a severe storm. The State has had some difficulty with the natives here, and the post is surrounded by a high stockade. Mr. Dodds informed me, however, that matters had improved since his visit to the post in May last. About 700 men are on the tax rolls as rubber gatherers, and the agent informed me that it was rare they did not bring in their full quota. It not, imprisonment and forced labor was the penalty. The tax is the same as at N'gali, 3 kilograms per month. The natives are remunerated here, as a rule, in "mitakos," viz, small brass rods about 8 or 9 Inches long, and with a nominal valuation here of ten to the franc (10 centimes each). The gauge and length, as well as the value, of these rods varies in different parts of the Kongo, and I found, in buying wood for the steamer above Coquilhatville, that the rods I had brought from Ikoko had no exchange value, although below they were accepted at twenty to the franc. The agent at Bayenge has a small "magasin," with a variety of merchandise similar to that at N'gali, and accepts from the natives these rods in payment for such articles as they desire, at valuations, however, fixed by the State and in most cases excessive. About 50 Dative workmen, 25 of whom were armed with guns, are employed on the post and in clearing the forest near by for planting rubber trees. A number of women, wives of the workmen, are also employed. They receive no remuneration outside the dally rations of kwanga. The whole force is under military discipline, and is fed on rations of kwanga supplied by the women of the villages in the surrounding country as a tax. The workmen are paid from 3 to 5 francs per month, with rations.</p>
+
+<p>We were delayed several days at Bayenge. Our intention was to proceed to the state post at Yambata, eight or nine hours' march distant, but we were informed by the chet de poste that the natives in that region, a numerous people belonging to the Budja tribe, were on the eve of revolt, and that it would be unsafe for us to go unless accompanied by an armed escort. A state officer in this region never ventures outside his post unless accompanied by armed men. This was not, however, a part of our programme, as we wished to be free to travel as we pleased, and, in particular, to prove that it was possible for a white man who was not connected with the State to travel without such escort. We thereupon decided to go on unaccompanied, but some of our carriers, becoming frightened, deserted, and the rest refused to go. A courier arriving from Yambata with the report that the road was tar from safe and offering to send a detachment of soldiers to meet us halfway, finally decided us to accept, and we left Bayenge with an armed escort, were met by a company of 30 soldiers commanded by a white officer, and reached the post at Yambata without incident.</p>
+
+<p>The region around the post at Yambata is rather densely populated and is inhabited by a race of natives known as Budjas. These people have never been brought entirely under subjection by the State, and I was informed by one of the officials at the post that indications pointed to a revolt at no distant day. A force of about 80 soldiers belonging to the regular army is stationed at the post. The tax rolls showed 1,500 men subject to the impost in rubber, which is 3 kilograms per month per man. Remuneration is 43 centimes per kilogram, paid in machetes. The women of the villages are taxed in kwanga to supply the personnel at the post. The day after our arrival I expressed a wish to visit some of the villages, and we started out, accompanied by the chef de secteur and a small force of soldiers. Arriving at the first village we found that the entire population -- men, women, and children -- had taken to the bush. Not a living soul was to be found. Upon looking into their huts I found the embers of their fires still aglow, showing that they had been gone but a few minutes, evidently fleeing at the news of our approach. The incident was an eloquent commentary upon the result of long years of cruel oppression forced upon the people by a government founded ostensibly for humanitarian and civilizing purposes. We passed on, and the same thing occurred in several of the villages until finally we met a native who had just emerged from the forest and was evidently unaware of our coming. He was sent in advance by the chef de secteur to tell the people that we had only come to "see." Their fears thus allayed, we found in the villages farther on that the people had remained. Here, as at all the villages I had visited since leaving Upoto, there is no visible sign that the people possess anything at all beyond their squalid and filthy hovels and a small patch of ground near by planted with manioc for the common use and to furnish kwanga for the post -- occasionally a few fowls or goats. The women are entirely naked and the men wear simply a loin cloth, made usually of the thin bark of some tree and rendered pliable by pounding.</p>
+
+<p>At Yambata the opportunity for which I bad been seeking -- namely, to prove by a practical test the assertions of the natives as to the time necessary to gather 3 kilograms of rubber -- presented itself. It was claimed by all the state agents whom I had questioned upon the subject that the tax was not excessive, it being easily possible to gather the amount of the impost within the forty hours monthly prescribed by the law as the maximum of time the native must labor to fulfill his obligations to the State. It was contended that the native idled his time away in the forest in the search of game; that, in substance, be did not apply himself to his task. The chef de secteur at Yambata was apparently so certain of this that I requested permission to take a number of natives into the forest, set them at work gathering rubber for a given time, and thus prove to my own satisfaction whether their complaints were or were not reasonable and just. The chef de secteur willingly consented, apparently confident, from the State's standpoint, of the successful result. Accordingly five natives were chosen from one of the villages and placed in charge of one of the state capitas. It was arranged that these five men should work for four hours each, or a total of twenty hours' work, in which time, to correspond to the tax imposed and the maximum of forty hours, they were supposed to produce 1&#189; kilograms (1,500 grams) of rubber. The place selected for carrying out this experiment was at one hour's march through the forest from the post, and was chosen by the chef de secteur as being especially rich in rubber vines. The men also were of his own choosing. I had nothing to do with this part of it. Arriving on the spot two of the men were put at work under the surveillance of Mr. Memminger and Mr. Dodds, the other three under the chef de secteur and myself. All the men had been promised an adequate remuneration and exemption from their taxes for the following month by the chef de secteur as an incentive, and certainly not a slight one, to do their best. I can testify to the fact that these men did not lose a minute from the time we commenced work until the expiration of the four hours. The vines were numerous and but little time was taken up in the search for another when one had been exhausted. The rubber was delivered to me and carefully weighed upon my return to the post, with the following result:</p>
+
+<p>Total weight -- 650 grams<lb/>
+2 men gathered each 200 grams, or -- 400<lb/>
+The other 3 -- 250</p>
+
+<p>An analysis of the result works out as follows:</p>
+
+<p>Collectively.<lb/>
+20 hours' labor should have produced -- 1,500 grams<lb/>
+20 hours' labor actually produced -- 650</p>
+
+<p>Individually.<lb/>
+4 hours' labor should have produced -- 300 grams<lb/>
+2 men actually produced in this time, each -- 200 grams</p>
+
+<p>Or 66<hi rend="super">2</hi>&#8260;<hi rend="sub">3</hi> per cent of the tax imposed. To gather the quantity required, these men would be obliged to work an average of sixty hours each per month, or seven and one-half days, ninety days each year.</p>
+
+<p>Again.<lb/>
+4 hours' labor should have produced -- 300 grams<lb/>
+3 men actually produced in this time an average of only -- 83<hi rend="super">1</hi>&#8260;<hi rend="sub">3</hi></p>
+
+<p>Or about 28 per cent of tax. To gather the quantity required, these men would be obliged to work an average of one hundred and forty-four hours each month, or eighteen days, two hundred and sixteen days each year.</p>
+
+<p>In considering the above, it must further be borne in mind that the time necessarily occupied in reaching the locality and returning is not calculated. This would, of course, relatively reduce the amount gathered within the given time and increase the average time necessary to produce the quota demanded by the state. It must also be remembered that the element of chance enters largely into the question. The two men who secured 200 grams each were fortunate in finding large vines immediately after entering the forest; the other three were not, and although they worked fully as hard only succeeded in securing 831 grams each. If, to be perfectly fair, we accept the average time employed by the five men as a basis and add thereto eight days each month for the time necessary to reach the place and return (eight days is not excessive as an average of the time thus employed), we find that these men must labor nineteen days and five hours each month, or practically two hundred and thirty-six days each year. During the month, if they produce 3 kilograms of rubber it is worth, according to the latest market value at Antwerp, 12.50 francs per kilogram, or 37.50 francs. They receive for this a machete, upon which the state places a valuation of 1.10 francs, and a small handful of salt. I purchased at Leopoldville from an English trader two of the same machetes for 50 centimes each. Is it to be wondered at, therefore, that these people possess nothing; that they stand either in abject fear of the state, which forces upon them these burdens and gives them nothing in return, or that they sometimes rise in open rebellion against a condition of things from which they see no hope of release? Nor are the conditions in the region through which I passed exceptional. It is, as I have already stated, said to be unusually rich in rubber. I learn upon the authority of my colleague, the Engl1sh vice-consul at Leopoldville, who has just returned from a tour of investigation in the Lake Leopold district, that the natives in that section, a mild and submissive people, travel 150 miles from their villages to find the rubber; that the supply is being rapidly exhausted, and it is only with increasing difficulty that they can supply their monthly contribution, which is fixed at 1,200 grams. His report was confirmed by identical statements by a missionary at Bolobo, who has also just been through the same region and who I saw on my return down river.</p>
+
+<p>Of atrocities or mutilations I did not see any, nor did I expect to. In this respect. undoubtedly, some improvement has taken place. The exposure of the evils of the sentry system, in which armed native sentries were placed in the villages to force the people to bring in their impositions at the point of a gun, has compelled the state to abandon it. It is replaced by the so-called "messager," or capita, usually a trustworthy native who acts as intermediary between the white officer at the post and the chief of the village. He exercises a general supervision over the rubber gatherers in the village, sees that they leave for the forest on a certain day each month to collect their impost, and reports to his employer any disaffection or other matters of importance occurring. He delivers delinquent taxpayers to the white man at the post, and I saw at Yambata two natives who had failed to appear with their rubber on delivery day brought in bound together by the neck with ropes. The destitute condition of the natives and the absence of all signs of improvement in the country through which I had passed is but too apparent. The roads are usually but native paths cut through the forest; the bridges, where there were any, mode of rough sticks and usually in a rotten and decaying condition. For hours each day we were on the march we waded through water and mud above our knees. It costs money to build roads. The time of the native is more valuable as a rubber collector than as a builder of highways. Beyond the two "colonies scolaires" (educational colonies), one at Boma and the other at Nouvelle Anvers, the inmates of which are children brought under the tutelage of the state through the operations of the law regarding orphans and abandoned children, and who, after an elementary instruction, are drafted into the army as subordinate officers or assigned as clerks in the administrative bureaus, the religious and educational development of the native is left entirely in the hands of the missionaries. One looks in vain for a school or other industrial or agricultural institution where the rising generation might receive such instruction as would tend to raise it from its present savage state. The state points with pride to the fact that it has suppressed the former Arab slave trade, and yet I am informed that the native races formerly under Arab influence are the most advanced in civilization of any throughout the entire Kongo territory. Every state officer with whom I talked admitted that cannibalism had not been entirely wiped out, although it is undoubtedly true that the state has taken energetic measures to suppress it and punishes severely those found guilty of the practice. The state claims that the native will not work voluntarily; that he must be forced to do so. The assertion is only partially true. Admitting that the problem is a somewhat difficult one -- and it has been made more so, I believe, by the treatment given the native -- it is at the same time legitimate to ask If he can be expected to give the greater part of his time to the service of the state, from which he receives no real benefit. The phrase in the law already alluded to, referring to the remuneration rendered "pour faire naître chez les indigènes le goût du travail," is but the baldest hypocrisy. I have been assured over and over again by people with long experience in the Kongo that if the native is properly paid, if he sees something he wants, he will work willingly and well to acquire it. My colleague at Leopoldville has told me that on his recent trip he was literally besieged by applications for employment as carriers by the natives in the region through which he passed. They came from long distances seeking work because the reports had gone abroad of his presence and that he paid well for services rendered.</p>
+
+<p>If we admit that a tax in labor is justifiable, the law restricting such to forty hours per month might appear reasonable, but in practice it is not adhered to, nor, in my opinion, is it possible in most instances to do so. It is obviously ridiculous to assume that a kilogram of fish represents either ten or one hundred hours' labor. It may be less than one or more than the other, depending upon conditions. The same holds true as regards the rubber imposition, where, as has been shown, chance enters so largely into the question. Furthermore, the terms of the law regarding taxation providing a monetary basis will not bear careful analysis without revealing their fallacy, because the native, as a rule, has no money, and the price of the products assessed to represent such basis is arbitrarily fixed by the State, and at a figure greatly inferior to their real value. Under such a system, therefore, it makes no difference whether the tax is placed at 1 or 100 francs, it being possible for the State to fix the value of the product at 1 centime or 1 franc per kilogram and compel the native to furnish 100 kilograms grams in either case.</p>
+
+<p>The above conclusions, which I have reached as the result of my observations, are, I believe, logical and just. That the obligations of the Kongo Government toward the natives, as provided for in the <ref type="internal" target="teaa.en.government.0001">Berlin act</ref>, "to care for the improvement of the conditions of their moral and material well-being" are being openly violated there is not the shadow of a doubt. The present conditions are those existing under the operations of the so-called reform decrees, promulgated as a result of the report of the King's commission of inquiry of 1904. If they are an improvement over former conditions it is natural to ask what those former conditions must have been. The remark of a state official, made in my presence, "My business is rubber," tersely expresses the attitude of the entire administration toward the native. The latter, so long as the present system is allowed to continue, can expect nothing from an administration whose desire for gain overshadows everything else and causes It to forget the obligations it has assumed toward him. Briefly, the tendency of this system is to brutalize rather than civilize -- to force the native into such a condition of poverty and degradation that his future is a hopeless one, and to keep him there.</p>
+
+<p>I find it impossible to reconcile the clauses in the Berlin act, by which the granting of a monopoly or favor of any kind in matters of trade was prohibited and free trade proclaimed in the Kongo basin, with the commercial conditions existing under the present regime. In excluding the native from any proprietary right in the only commodities he possessed which would serve as a trade medium -- that is, the products of the soil -- and in claiming for itself and granting to a few concessionary companies in which it holds an interest exclusive ownership of these products, the administration, in its commercial capacity, has effectively shut the door to free trade and created a vast monopoly in all articles the freedom of buying and selling which alone could form a proper basis for legitimate trade transactions between the native and independent purchasers. Competition, by which alone can a healthy condition of trade be maintained, has been entirely eliminated. The Government is but one tremendous commercial organization; its administrative machinery is worked to bar out all outside trade and to absolutely control for its own benefit and the concessionary companies the natural resources of the country. Its operations as a commercial company are subject to no parliamentary control; its profits are unknown to anyone except the central administration at Brussels. Business organizations are not often guided by philanthropic motives in the conduct of their affairs. The policy of the administration, therefore, is to extract the riches of the country at the lowest possible cost, and with the result that the profits accruing therefrom go to swell the dividends of the Europeans interested, and neither the country nor its inhabitants receive any corresponding benefit. The conditions in the regions which have come under my observation all go to prove this.</p>
+
+<p>I left Yambata on October 2, arrived at Dobo, on the river, the following day, reached Upoto on the 5th, and left there for Leo on the 8th, arriving the 17th. Mr. Memminger returned to Boma the following day. It was my intention to prolong my journey for another month or six weeks by making a trip alone into the Kasao district, but I found I could not leave Leo for another two weeks, and would require a much longer time to properly investigate conditions in that region. Leaving Leo on the 24th, I spent four days at the A. B. M. U. mission at Nsona Mbata, between Leo and Thysville, where I had been requested to investigate some matters concerning the treatment of orphans and abandoned children. The subject will be reported on at some later date, when I have had more opportunity to study the question. I arrived at Boma the evening of October 30.</p>
+
+<p>Jas. A. Smith, Consul-General<lb/>
+Boma, November 20, 1907.</p>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d015">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">The Consul-General at Boma to the Secretary of State.</head>
+
+<head type="sub">American Consulate-General, Boma, November 23, 1907.</head>
+
+<p>Sir: I have the honor to inclose herewith a report by Vice-Consul-General Memminger in reference to conditions in the Kongo. The report is forwarded without comment other than to say that the opinions expressed therein are in conformity with my own, and based upon personal observation during our recent trip to the upper Kongo.</p>
+
+<p>I have, etc.,<lb/>
+Jas. A. Smith.</p>
+
+
+<div2 type="enclosure">
+
+<head type="main">[Inclosure.]</head>
+
+<p>Having been authorized to accompany you on a trip to the upper Kongo, and thus having had the opportunity to observe conditions in a large part of the Kongo Free State, I have the honor to say that I concur in the conclusions reached by you in your report to the Department of State on "Conditions In the Kongo Free State."</p>
+
+<p>My observations convinced me that the system of taxation in labor in the Kongo Free State is not imposed in an equitable manner, and through the exercise of compulsion results in grave abuses. I am convinced, moreover, from the conditions in the part of the country which we visited, that the natives of the Kongo are not deriving from the Government which they are forced to support any measure of the benefits to which they are entitled. In return for the imposts of labor and products levied upon them they receive, so far as I have been able to observe, in no sense a commensurate remuneration, nor does the payment of this tax gain for them compensating advantages, or serve to better the economic condition of the people. One is forced to conclude that the Government is not administered in the interest of the native population. The system in effect rather operates to their oppression.</p>
+
+<p>In some localities the State has constructed public works, and throughout the country has improved communications, thereby rendering the country more habitable for white men, of whom by far the largest percentage are state officers. But in the benefits of these improvements, necessary for carrying on the state's business as a commercial organization, the natives do not share to an appreciable extent. Where state posts are established, in fact, an additional burden is imposed upon them. They are compelled to supply the state agents and employees with prestations of food. Invariably, near the state posts, I found the neighboring villages to be 10 a destitute condition. The material well-being of the native population seemed 10 no wise improved by the proximity of the people to the government stations. At Leopoldville, the principal commercial town of the upper Kongo, I saw in the surrounding country only a few small villages, the inhabitants of which seemed to be in a desperately poor condition. I was informed that this region previous to state occupancy was thickly populated by a people not unfriendly to the white man and who, according to the native standard, were in a highly prosperous condition.</p>
+
+<p>I saw no evidence of effort on the part of the State to assist the population in the improvement of native industries by practical education, or by the application of improved methods and implements -- this in spite of the fact that by development of the native along these lines it is admitted his capacity for working the resources of the country from which the Government derives its revenue would be increased; at the same time that there would be no relative increase of the amount of labor exacted as a tax. Instead, it would diminish the burden.</p>
+
+<p>In general, the condition of the people in the upper Kongo seemed unhappy and led to the conclusion that the system of government under which the natives must live does not promote their welfare. In its operation the system seems to be one in which considerations of humanity and benevolence are least important.</p>
+
+<p>Lucien Memminger, Vice-Consul-General.<lb/>
+Boma, November 23, 1907.</p>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+
+
+<gap reason="sampling"/>
+
+
+
+<text type="report" xml:id="teaa.en.government.0005.d016">
+
+<body>
+
+<div1 type="document" xml:lang="en">
+
+<head type="main">The Secretary of State to Minister Wilson.</head>
+
+<head type="sub">[Telegram.]</head>
+
+<head type="sub">Department of State, Washington, December 16, 1907.</head>
+
+<p>The telegram from Ambassador Reid on which cabled instructions were based was as follows:</p>
+
+<p>[Here follows text of telegram from London, December 5, 1907.]</p>
+
+<p>Our attitude and sentiment rest on the broad general purpose to elevate and benefit the native Africans as declared in the <ref type="internal" target="teaa.en.government.0001">Berlin act</ref>, to which we are, however, not a party, and emphatically reaffirmed in the <ref type="internal" target="teaa.en.government.0002">Brussels act of 1890</ref>, applicable to all dominion and control of civilized nations in Central Africa, to which we are a party. Our voice and sympathy are in favor of the full accomplishment of those declared purposes, and, while we are not directly interested in the administrative and financial details of the government of anyone of the several districts of Central Africa embraced in the compact of 1890, we are free, and indeed morally constrained, to express our trust and nope that every successive step taken by the active signatories will inure to the well-being of the native races and execute the transcendent obligations of the Brussels act, in all its humanitarian prescription, especially as to article 2. In these regards the interests of all the signatories are identical. You will impress these considerations on your British colleague and in your discretion to any other of your colleagues who may consult you on the subject.</p>
+
+<p>Root.</p>
+
+</div1>
+
+</body>
+
+</text>
+
+
+
+</group>
+
+</text>
+
+</TEI>

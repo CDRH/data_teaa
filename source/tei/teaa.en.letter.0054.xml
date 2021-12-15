@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from John G. Willis to William H. Seward, August 25, 1864</title>
+<title>Despatch from John G. Willis to William H. Seward, August 25, 1864</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -47,9 +47,9 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from John G. Willis to William H. Seward</title>
+<title level="a">Despatch from John G. Willis to William H. Seward</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">2</biblScope>
 <date when="1864-08-25">August 25, 1864</date>
 </bibl>
@@ -64,7 +64,7 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 <textClass>
 <keywords scheme="original" n="theme">
 <term>Commerce and Trade</term>
-<term>Encounters with Africans</term>
+<term>"Othering" Africans</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -72,7 +72,7 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -84,29 +84,27 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 <term>Roberts</term>
 <term>Robison</term>
 <term>Silva, Augustus Archer</term>
-<term>Silva, Frederic A.</term>
+<term>Silva, Frederick A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Boston (Mass.)</term>
+<term>Boston (Massachusetts)</term>
 <term>England</term>
-<term>Fernando Po</term>
-<term>Kisembo (Angola)</term>
+<term>Fernando Po (Spanish Guinea)</term>
+<term>Kinsembo (Congo)</term>
 <term>Lisbon (Portugal)</term>
-<term>Portugal</term>
-<term>Salem (Mass.)</term>
-<term>St. Paul de Loanda (Angola)</term>
+<term>Salem (Massachusetts)</term>
 <term>West India</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>Portugal</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -117,12 +115,12 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 <correspAction type="sentBy">
 <persName>Willis, John G.</persName>
 <roleName>Acting U.S. Commercial Agent for Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1864-08-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1864-12-20"/>
 </correspAction>
 </correspDesc>
@@ -130,6 +128,7 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-05-03" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and additional encoding</change>
 <change when="2017" who="ks">Transcription and initial encoding</change>
@@ -142,32 +141,32 @@ not been received at this Agency" near Willis' signature.</note></notesStmt>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0054.001"/>
+<pb n="teaa.en.letter.0054.001"/>
 
 <note>Recd Dec 20</note>
 <note>Duplicate</note>
 
-<opener><dateline>United States Coml Agency<lb/>
-St Paul 'd Loanda Aug 25, 1864.</dateline></opener>
+<p>United States Coml Agency<lb/>
+St Paul 'd Loanda Aug 25, 1864.</p>
 
-<salute>Sir,</salute>
+<p>Sir,</p>
 
 <p>I have the honor to acknowledge
-the receipt of Your despatches of May 13th &#38; 14th 
+the receipt of Your despatches of May 13th &amp; 14th 
 one requesting me to "continue to act as U.S. 
 Commercial Agent for this Port," the one informing
 me that the President had appointed
 Mr A A Silva as Coml Agent."</p>
 
 <p>Mr Silva not having signed any
-Bonds, nor taken the oath &#38; also not having 
+Bonds, nor taken the oath &amp; also not having 
 yet received his Commission, the Portuguese 
 Authorities here could not recognise 
 him as US C Agent. Neither do they recognise
 me as such, but allow me to act as far as 
 may be necessary in respect to the wants of 
-American Vessels arriving at this port &#38; to 
-keep charge of the Archives, Seal, flags &#38;c.</p>
+American Vessels arriving at this port &amp; to 
+keep charge of the Archives, Seal, flags &amp;c.</p>
 
 <p>I now enclose the Returns from the 
 Agency from Jany 1st to June 30th 1864. My 
@@ -175,26 +174,22 @@ reason for not doing so previous was, that as
 Mr Bradberry had died without appointing any
 one to act for him, I was uncertain whether 
 I had authority to make out the Returns, but
-<fw type="catch">since the</fw>
+<catchwords>since the</catchwords>
 
-<fw type="address">
-<address>
-<addrLine>Hon. Wm. H. Seward</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine>
-</address>
-</fw>
+<fw type="address">Hon. Wm. H. Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</fw>
 
-<pb facs="teaa.en.letter.0054.002"/>
+<pb n="teaa.en.letter.0054.002"/>
 
 since the receipt of your despatch of May 13th 
 I have given it my attention as pr the enclosed.
-The several Accounts &#38; Certificates I have directed 
-to the Treasury Department &#38; have drawn on 
+The several Accounts &amp; Certificates I have directed 
+to the Treasury Department &amp; have drawn on 
 the Hon. Secretary of the Treasury two Bills,
 one for $84.16&#162; the other for $247.00, being 
 balance of Salary for the Quarter ending March 
-31 &#38; June 30th 1864.</p>
+31 &amp; June 30th 1864.</p>
 
 <p>At the time Mr Bradberry died he was 
 in debt to several persons here, but they do 
@@ -204,35 +199,35 @@ with vouchers showing that my demands
 amount to <unclear>RS</unclear> 300$975 in this currency, or in U.S.
 Coin $201.32&#162; With the exception of my 
 private a/c <unclear>RS</unclear> 127$625 the rest is for Cash paid 
-by me for his Medical Attendance &#38; Burial Expenses.
+by me for his Medical Attendance &amp; Burial Expenses.
 I have drawn on the Hon. Secretary of 
 the Treasury for the Balance due Mr Bradberry 
 at the time of his death $142.75 informing 
-the Hon. Secretary of these circumstances &#38; trust 
+the Hon. Secretary of these circumstances &amp; trust 
 that as this was for money expended in such 
 a manner that the Draft will be duly honored.</p>
 
 <p>Mr Bradberry in the Month of January 
-last received $29.92&#162; Balance Wages &#38; $31.91&#162; Extra
-<fw type="catch">Wages</fw>
+last received $29.92&#162; Balance Wages &amp; $31.91&#162; Extra
+<catchwords>Wages</catchwords>
 
-<pb facs="teaa.en.letter.0054.003"/>
+<pb n="teaa.en.letter.0054.003"/>
 
 Wages on account of a Colored Seaman named 
 George Frank who was shipped in England on 
-board the American Ship "Cumberland" &#38; was discharged 
+board the American Ship "Cumberland" &amp; was discharged 
 here on account of sickness. By the Relief 
 Book I notice he had paid on a/c $3.93&#162;. As I 
 was not authorised to pay the balance of this 
 amount to Geo. Frank who was a West Indian,
-the English Counsul took him in charge &#38; sent 
+the English Counsul took him in charge &amp; sent 
 him on board an English Vessel. I gave the 
-English Consul notes of the a/c &#38; presume Your 
+English Consul notes of the a/c &amp; presume Your 
 Honor has been notified of the same by the English 
 Government.</p>
 
 <p>In taking charge of Mr Bradberry effects 
-not one cent was found in money &#38; I presume 
+not one cent was found in money &amp; I presume 
 the money he received from Geo. Frank was 
 remitted to Mr Bradberry family by a vessel 
 that left this in January bound for Boston 
@@ -240,14 +235,14 @@ Mass. Mr B. calculating of course to make it
 up from the sale of his draft for the Quarter
 ending March 31, 1864.</p>
 
-<p>Circular No 44 is received &#38; in reply
+<p>Circular No 44 is received &amp; in reply
 will inform the Department that Commercial 
 Agents as such, are not required to pay Taxes
-in this port.  Circulars Nos 45 &#38; 46 are also received.
+in this port.  Circulars Nos 45 &amp; 46 are also received.
 No vessel hailing from the Insurgent 
-<fw type="catch">States</fw>
+<catchwords>States</catchwords>
 
-<pb facs="teaa.en.letter.0054.004"/>
+<pb n="teaa.en.letter.0054.004"/>
 
 States has made their appearance in this 
 port, neither is there anything shipped 
@@ -257,27 +252,27 @@ from here to those States.</p>
 Merchant Vessel arrived at this Port 
 during the Quarter ending June 30, the 
 cause of which is the high prices of 
-Cotton Goods Rum, Powder &#38;c in the States, 
+Cotton Goods Rum, Powder &amp;c in the States, 
 these being the principal articles formerly 
 imported here. Two or three years since 
 we used to have 8 or 10 vessels engaged 
 in this Trade, but it has finally become 
 reduced to this deplorable extent. The 
-Merchants here &#38; on the Coast, who used 
+Merchants here &amp; on the Coast, who used 
 to be very prompt in payment are now 
 very backward, caused by Wars in the 
-interior, overtrading &#38; undertaking more 
+interior, overtrading &amp; undertaking more 
 than they can carry out. a few Merchants 
 of old standing continue to keep their 
 credit good, but they do nothing near the 
 amount of Business now that they used 
-do. Loanda &#38; all <sic>allong</sic> this Coast has 
+do. Loanda &amp; all <sic>allong</sic> this Coast has 
 suffered severely from the Small Pox 
 which first made its appearance in 
 February last about 70 miles North of this 
-<fw type="catch">at a</fw>
+<catchwords>at a</catchwords>
 
-<pb facs="teaa.en.letter.0054.005"/>
+<pb n="teaa.en.letter.0054.005"/>
 
 at a place called Kisembo. It is estimated 
 that 4000 natives have died from its effects 
@@ -288,7 +283,7 @@ decreasing.</p>
 <p>Mr Brookhouse of Salem Mass, the 
 largest American Trader of this Coast has concluded 
 to close his <sic>Buisness</sic> here. Messers Robison
-<unclear>Ridsont</unclear> &#38; Roberts of Boston are left, but
+<unclear>Ridsont</unclear> &amp; Roberts of Boston are left, but
 from present appearances they will not send 
 another vessel till the prospect is more promising.</p>
 
@@ -306,12 +301,12 @@ on their arrival.</p>
 States in the course of two months. I understand 
 Mr Silva intends leaving for England 
 about the same time, with the intention of 
-<fw type="catch">again</fw>
+<catchwords>again</catchwords>
 
-<pb facs="teaa.en.letter.0054.006"/>
+<pb n="teaa.en.letter.0054.006"/>
 
 again returning here. On my departure 
-I shall place the Archives &#38;c in charge of 
+I shall place the Archives &amp;c in charge of 
 Mr Silva if he is here, but should he leave 
 before me, or if we leave at same time, I 
 shall then deliver the property of the United 
@@ -322,13 +317,13 @@ Commercial Agent.</p>
 <p>John W Goodridge of Salem Mass, late
 Master of the Brig "Morning Light" died at 
 sea on board that Vessel on the 5th inst of 
-Small Pox &#38; was buried at Loanda on the 
+Small Pox &amp; was buried at Loanda on the 
 7th inst.</p>
 
-<closer><salute>Very Respectfully<lb/>
-Your Obt Servt</salute>
-<signed>John G Willis
-Acting US C Agent</signed></closer>
+<p>Very Respectfully<lb/>
+Your Obt Servt<lb/>
+John G Willis<lb/>
+Acting US C Agent</p>
 
 </div1>
 </body>

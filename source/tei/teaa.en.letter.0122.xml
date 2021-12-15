@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt> 
-<title>Letter from Andrew Galbraith Colville to Frederick W. Seward, April 23, 1879</title>
+<title>Despatch from Andrew Galbraith Colville to Frederick W. Seward, April 23, 1879</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Letter from Andrew Galbraith Colville to Assistant Secretary of State</title>
+<title level="a">Despatch from Andrew Galbraith Colville to Assistant Secretary of State</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">3</biblScope>
 <date from="1879-04-23">April 23,1879</date>
 </bibl>
@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -75,15 +75,15 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>St. Paul de Loanda (Angola)</term>
+<term/>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
-</keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -96,13 +96,13 @@
 <correspAction type="sentBy">
 <persName>Colville, Andrew Galbraith</persName>
 <roleName>Acting U.S. Vice Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1879-04-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when= "1879-06-14"/>
 </correspAction>
 </correspDesc>
@@ -122,9 +122,8 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0122.001"/>
+<pb n="teaa.en.letter.0122.001"/>
 
-<note>Ackgd June 18</note>
 <note>Department of State Received Jun 14 1879</note>
 
 <note>No. 40</note>
@@ -144,13 +143,13 @@ Robert Scott Newton.</p>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0122.002"/>
+<pb n="teaa.en.letter.0122.002"/>
 
 <note><unclear>No. 40</unclear></note>
 
-<opener><dateline>United States Consulate<lb/>
+<p>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-23rd April 1879</dateline></opener>
+23rd April 1879</p>
 
 <p>Sir,</p>
 
@@ -162,17 +161,15 @@ this day taken over charge of
 this consulate together with the
 archives records &amp; other effects.</p>
 
-<closer>
-<salute>I have the honor to be<lb/>
+<p>I have the honor to be<lb/>
 Sir<lb/>
-Your most obedient servant</salute>
-<signed>And. G. Colville<lb/>
-Acting Vice Consul</signed>
+Your most obedient servant<lb/>
+And. G. Colville<lb/>
+Acting Vice Consul</p>
 
-<address><addrLine>To the Assistant</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
-</closer>
+<p>To the Assistant<lb/>
+Secretary of State<lb/>
+Washington D.C.</p>
 
 </div1>
 </body>

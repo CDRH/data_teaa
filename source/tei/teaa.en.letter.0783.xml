@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Robert S. Newton to John Davis, January 15 1885</title>
+<title>Despatch from Robert S. Newton to John Davis, January 15, 1885</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -68,7 +68,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>    
     
 <keywords scheme="viaf" n="people">
@@ -80,10 +80,10 @@
 <term>Lisbon (Portugal)</term>
 <term>Loanda (Angola)</term>
 <term>Novo Redondo (Angola)</term>
-<term>St. Thiago</term>
+<term>Santiago (Cape Verde)</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>Portugal</term>
 </keywords>
     
@@ -101,13 +101,13 @@
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
 <roleName>U.S. Vice Counsel</roleName>
-<placeName>Loanda, Angola</placeName>
+<placeName>Loanda (Angola)</placeName>
 <date when="1885-01-15"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/51336046">Davis, John, 1851-1902</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1885-03-02"/>
 </correspAction>
 </correspDesc>
@@ -115,6 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2020-09" who="kln">reviewed, edited, and encoded.</change>
 <change when="2019" who="sab">transcribed.</change>
 </revisionDesc>
@@ -126,7 +127,7 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb facs="Scan50023"/>
+<pb n="Scan50023"/>
 
 <note>Department of State Received Mar 2 1885</note>
 

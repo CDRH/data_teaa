@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The Washington Bee, "False Representations About Africa" (1885)</title>
+<title>The Washington Bee, "False Representations About Africa" (November 28, 1885)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -64,12 +64,12 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Journal</term>
+<term>Newspapers</term>
 </keywords> 
  
 <keywords scheme="viaf" n="people">
 <term>Bivden</term>
-<term>Brown, Hugh M.</term>
+<term ref="http://viaf.org/viaf/51080627">Browne, Hugh M. (Hugh Mason)</term>
 <term>Johnson</term>
 <term ref="http://viaf.org/viaf/82967082">Livingstone, David, 1813-1873</term>
 <term ref="http://viaf.org/viaf/17098270">Stewart, T. McCants (Thomas McCants), 1854?-1923</term>
@@ -79,7 +79,7 @@
 <term>Liberia</term>
 </keywords>
 
-<keywords scheme="original" n="empire">
+<keywords scheme="original" n="powers">
 <term/>
 </keywords>
  
@@ -92,14 +92,11 @@
 <term>Presbyterian</term>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-11-21" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 </teiHeader>
@@ -110,13 +107,13 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p1" facs="teaa.en.periodical.0087.001"/>
+<pb n="p1"/>
 
 <div2 type="title">
 
-<p>False Representations About Africa.</p>
+<head type="main">False Representations About Africa.</head>
 
-<p>Prof. Stewart Denounced.</p>
+<head type="sub">Prof. Stewart Denounced.</head>
 
 </div2>
 

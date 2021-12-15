@@ -1,0 +1,1091 @@
+var poltext = {
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              8.607584119080343,
+              -1.710469167717747
+            ],
+            [
+              12.734461801067255,
+              -1.710469167717747
+            ],
+            [
+              12.734461801067255,
+              -0.64714753073735665
+            ],
+            [
+              8.607584119080343,
+              -0.64714753073735665
+            ],
+            [
+              8.607584119080343,
+              -1.710469167717747
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Mpongwe",
+        "FontName" : "Arial",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1884,
+        "Shape_Length" : 10.380398637934604,
+        "Shape_Area" : 4.3881983324281624
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              13.973268687227517,
+              -23.197002050365256
+            ],
+            [
+              16.882531557637208,
+              -23.197002050365256
+            ],
+            [
+              16.882531557637208,
+              -22.133680413384866
+            ],
+            [
+              13.973268687227517,
+              -22.133680413384866
+            ],
+            [
+              13.973268687227517,
+              -23.197002050365256
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Herero",
+        "FontName" : "Arial",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1884,
+        "Shape_Length" : 7.9451690147801628,
+        "Shape_Area" : 3.093482157770302
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              12.520713694526705,
+              -6.3999253984901543
+            ],
+            [
+              15.27289495947349,
+              -6.3999253984901543
+            ],
+            [
+              15.27289495947349,
+              -5.3366037615097639
+            ],
+            [
+              12.520713694526705,
+              -5.3366037615097639
+            ],
+            [
+              12.520713694526705,
+              -6.3999253984901543
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Kongo",
+        "FontName" : "Arial",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1884,
+        "Shape_Length" : 7.6310058038543502,
+        "Shape_Area" : 2.9264538879099766
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              21.015283533982085,
+              -5.1654465481832972
+            ],
+            [
+              23.238127672827034,
+              -5.1654465481832972
+            ],
+            [
+              23.238127672827034,
+              -4.1021249112028499
+            ],
+            [
+              21.015283533982085,
+              -4.1021249112028499
+            ],
+            [
+              21.015283533982085,
+              -5.1654465481832972
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Kuba",
+        "FontName" : "Arial",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1884,
+        "Shape_Length" : 6.572331551650791,
+        "Shape_Area" : 2.3635982684690031
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              25.080035205855438,
+              -5.8168960584019942
+            ],
+            [
+              27.197383710262272,
+              -5.8168960584019942
+            ],
+            [
+              27.197383710262272,
+              -4.753574421421547
+            ],
+            [
+              25.080035205855438,
+              -4.753574421421547
+            ],
+            [
+              25.080035205855438,
+              -5.8168960584019942
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Luba",
+        "FontName" : "Arial",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1889,
+        "Shape_Length" : 6.3613402827745631,
+        "Shape_Area" : 2.2514224777639766
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              30.071169458000554,
+              -1.3216108597968628
+            ],
+            [
+              33.132564202471372,
+              0.7675140852722393
+            ],
+            [
+              32.538178685184619,
+              1.6385240758934287
+            ],
+            [
+              29.476783940713744,
+              -0.45060086917567332
+            ],
+            [
+              30.071169458000554,
+              -1.3216108597968628
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Buganda",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 34.310000000000002,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1893,
+        "Shape_Length" : 9.5215619311429673,
+        "Shape_Area" : 3.908251018820927
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              27.066168304109624,
+              -20.423873863611789
+            ],
+            [
+              31.089409305569234,
+              -20.423873863611789
+            ],
+            [
+              31.089409305569234,
+              -18.31489065180358
+            ],
+            [
+              27.066168304109624,
+              -18.31489065180358
+            ],
+            [
+              27.066168304109624,
+              -20.423873863611789
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Matabele \r\nKingdom",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1894,
+        "Shape_Length" : 12.264448426535637,
+        "Shape_Area" : 8.4849477291367617
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              22.020521241246456,
+              -7.0632003158746102
+            ],
+            [
+              24.59935505401063,
+              -7.0632003158746102
+            ],
+            [
+              24.59935505401063,
+              -6.008708709970449
+            ],
+            [
+              22.020521241246456,
+              -6.008708709970449
+            ],
+            [
+              22.020521241246456,
+              -7.0632003158746102
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Lunda",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1889,
+        "Shape_Length" : 7.2666508373366696,
+        "Shape_Area" : 2.7193586085816444
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -5.1755283248907062,
+              15.0122491657159
+            ],
+            [
+              -1.7555178674872991,
+              15.0122491657159
+            ],
+            [
+              -1.7555178674872991,
+              16.066740771620061
+            ],
+            [
+              -5.1755283248907062,
+              16.066740771620061
+            ],
+            [
+              -5.1755283248907062,
+              15.0122491657159
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Massina",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1903,
+        "Shape_Length" : 8.9490041266151366,
+        "Shape_Area" : 3.6063723194363435
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              2.9312953219731526,
+              29.485915598929864
+            ],
+            [
+              5.8610066854017191,
+              29.485915598929864
+            ],
+            [
+              5.8610066854017191,
+              30.540407204833969
+            ],
+            [
+              2.9312953219731526,
+              30.540407204833969
+            ],
+            [
+              2.9312953219731526,
+              29.485915598929864
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Tuareg",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1901,
+        "Shape_Length" : 7.9684059386653416,
+        "Shape_Area" : 3.0893560404572922
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              7.2059970189471301,
+              17.630251137380526
+            ],
+            [
+              8.3947980449069632,
+              17.630251137380526
+            ],
+            [
+              8.3947980449069632,
+              18.68474274328463
+            ],
+            [
+              7.2059970189471301,
+              18.68474274328463
+            ],
+            [
+              7.2059970189471301,
+              17.630251137380526
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Air",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1903,
+        "Shape_Length" : 4.4865852637278749,
+        "Shape_Area" : 1.2535807029648312
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              18.80586942236971,
+              14.947408853307024
+            ],
+            [
+              21.335905694975224,
+              14.947408853307024
+            ],
+            [
+              21.335905694975224,
+              16.001900459211186
+            ],
+            [
+              18.80586942236971,
+              16.001900459211186
+            ],
+            [
+              18.80586942236971,
+              14.947408853307024
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Wadai",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1899,
+        "Shape_Length" : 7.1690557570193505,
+        "Shape_Area" : 2.6679020120955665
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              12.837586354495841,
+              12.702189105888806
+            ],
+            [
+              15.792858334197888,
+              12.702189105888806
+            ],
+            [
+              15.792858334197888,
+              14.811172317697071
+            ],
+            [
+              12.837586354495841,
+              14.811172317697071
+            ],
+            [
+              12.837586354495841,
+              12.702189105888806
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Bornu \r\nEmpire",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1899,
+        "Shape_Length" : 10.128510383020625,
+        "Shape_Area" : 6.2326189915189945
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              4.9164959613099199,
+              10.649647789587561
+            ],
+            [
+              8.8584077291718586,
+              10.649647789587561
+            ],
+            [
+              8.8584077291718586,
+              12.758631001395827
+            ],
+            [
+              4.9164959613099199,
+              12.758631001395827
+            ],
+            [
+              4.9164959613099199,
+              10.649647789587561
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Sokoto \r\nCaliphate",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1899,
+        "Shape_Length" : 12.101789959340408,
+        "Shape_Area" : 8.3134257408502688
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              24.9841169608315,
+              -10.383516154772735
+            ],
+            [
+              30.13080336299879,
+              -7.382057356419125
+            ],
+            [
+              29.599577932931538,
+              -6.4711500672991065
+            ],
+            [
+              24.452891530764191,
+              -9.4726088656527168
+            ],
+            [
+              24.9841169608315,
+              -10.383516154772735
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Yeke Kingdom",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 30.25,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1890,
+        "Shape_Length" : 14.024877780067513,
+        "Shape_Area" : 6.282605399533713
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -3.5118885049811865,
+              5.9336139863876838
+            ],
+            [
+              -0.1825020507295676,
+              5.9336139863876838
+            ],
+            [
+              -0.1825020507295676,
+              6.9881055922918449
+            ],
+            [
+              -3.5118885049811865,
+              6.9881055922918449
+            ],
+            [
+              -3.5118885049811865,
+              5.9336139863876838
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Ashante",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1895,
+        "Shape_Length" : 8.7677561203115602,
+        "Shape_Area" : 3.5108100688193504
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -0.27949544999819409,
+              6.9873812200480643
+            ],
+            [
+              3.5866639459983958,
+              6.9873812200480643
+            ],
+            [
+              3.5866639459983958,
+              8.0418728259521686
+            ],
+            [
+              -0.27949544999819409,
+              8.0418728259521686
+            ],
+            [
+              -0.27949544999819409,
+              6.9873812200480643
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : -1,
+        "Status" : 0,
+        "TextString" : "Dahomey",
+        "FontName" : "Britannic Bold",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 3,
+        "HorizontalAlignment" : 0,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1893,
+        "Shape_Length" : 9.8413020038013883,
+        "Shape_Area" : 4.0768326301656863
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Polygon",
+        "coordinates" : [
+          [
+            [
+              -12.562975846167319,
+              10.581482091088617
+            ],
+            [
+              -7.9072257765564586,
+              10.581482091088617
+            ],
+            [
+              -7.9072257765564586,
+              11.644803728069064
+            ],
+            [
+              -12.562975846167319,
+              11.644803728069064
+            ],
+            [
+              -12.562975846167319,
+              10.581482091088617
+            ]
+          ]
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "FeatureID" : -1,
+        "ZOrder" : null,
+        "AnnotationClassID" : -1,
+        "SymbolID" : 0,
+        "Status" : 0,
+        "TextString" : "Futa Jallon",
+        "FontName" : "Arial",
+        "FontSize" : 12,
+        "Bold" : 0,
+        "Italic" : 0,
+        "Underline" : 0,
+        "VerticalAlignment" : 2,
+        "HorizontalAlignment" : 1,
+        "XOffset" : 0,
+        "YOffset" : 0,
+        "Angle" : 0,
+        "FontLeading" : 0,
+        "WordSpacing" : 100,
+        "CharacterWidth" : 100,
+        "CharacterSpacing" : 0,
+        "FlipAngle" : 0,
+        "Override" : 0,
+        "Start" : 1862,
+        "End" : 1881,
+        "Shape_Length" : 11.438143413182615,
+        "Shape_Area" : 4.9505597853904515
+      }
+    }
+  ]
+}

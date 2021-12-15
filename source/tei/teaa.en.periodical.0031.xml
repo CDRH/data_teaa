@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0031.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0031">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>The A.M.E. Zion Quarterly Review, Rev. F. M. Jacobs, "The Work of Missions in the A.M.E. Zion Church"</title>
+<title>A.M.E. Zion Quarterly Review, Rev. F. M. Jacobs, "The Work of Missions in the A.M.E. Zion Church" (1895)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,12 +43,13 @@
 <sourceDesc>
 <bibl>
 <title level="a" type="main">The Work of Missions in the A.M.E. Zion Church</title>
-<author n="Jacobs, F.M.">Rev. F. M. Jacobs</author>
-<title level="j">The A.M.E. Zion Quarterly Review</title>
-<biblScope unit="volume"><!-- VOLUME NUMBER --></biblScope>
+<author>Jacobs, F. M.</author>
+<title level="j">A.M.E. Zion Quarterly Review</title>
+<biblScope unit="volume">3[?]</biblScope>
 <biblScope unit="issue">3-4</biblScope>
-<date when="yyyy-mm"><!-- MONTH AND YEAR OF PUBLICATION. EXAMPLE: February 1886 --></date>
+<date when="1895">1895[?]</date>
 <biblScope unit="page">286-294</biblScope>
+<note>This citation is an estimate.</note>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -75,7 +76,7 @@
 <term ref="http://viaf.org/viaf/90631825">Calvin, Jean, 1509-1564</term>
 <term>Cartwright, Andrew</term>
 <term ref="http://viaf.org/viaf/14773105">Jacobs, F. M.</term>
-<term>Luther, Martin, 1483-1546</term>
+<term ref="http://viaf.org/viaf/14773105">Luther, Martin, 1483-1546</term>
 <term ref="http://viaf.org/viaf/38555521">Varick, James, approximately 1750-1827</term>
 <term ref="http://viaf.org/viaf/19686646">Wesley, John, 1703-1791</term>
 <term ref="http://viaf.org/viaf/71399367">Zwingli, Ulrich, 1484-1531</term>
@@ -83,11 +84,11 @@
     
 <keywords scheme="original" n="places">
 <term>Ethiopia</term>
-<term>Knoxville (Tenn.)</term>
+<term>Knoxville (Tennessee)</term>
 <term>Liberia</term>
 </keywords>
 
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>Great Britain</term>
 <term>United States</term>
 </keywords>
@@ -97,21 +98,18 @@
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term>African Methodist Episcopal Zion</term>
+<term>African Methodist Episcopal</term>
 <term>Episcopal</term>
 <term>Pietism</term>
 <term>Presbyterian</term>
 <term>Wesleyan</term>
 </keywords>
 
-<keywords scheme="original" n="language">
-<term/>
-</keywords>
-
 </textClass>
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-10-23" who="#kln">reviewed and edited</change>
 <change when="2019-04-04" who="pr">transcribed and encoded</change>
 </revisionDesc>
@@ -123,14 +121,14 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb xml:id="p286"/>
+<pb n="p286"/>
 
 <div2 type="titles">
 
-<p>The Work of Missions in the A.M.E. Zion
-Church.</p>
+<head type="main">The Work of Missions in the A.M.E. Zion
+Church.</head>
 
-<p>By Rev. F. M. Jacobs,</p>
+<head type="sub">By Rev. F. M. Jacobs</head>
 
 </div2>
 
@@ -171,7 +169,7 @@ our religious interests.</p>
 many of his dearest social enjoyments. Fond memory delights 
 to dwell upon the pleasing and interesting associations of our
 
-<pb xml:id="p287"/>
+<pb n="p287"/>
 
 early years, especially associations of effort in the cause of the
 Redeemer. "And it is here too, that pensive memory retraces
@@ -187,7 +185,7 @@ more, but gone to rest.</p>
 richest treasures of wisdom and experience. It is memory that
 enables us, to appropriate to ourselves the knowledge and experience
 of past ages; to hold communion with apostles and prophets 
-and partiarchs, and virtually to extend our life from three-
+and patriarchs, and virtually to extend our life from three-
 score to a thousand years. It is in the rich fields of retrospection
 too, that the Christian finds two incidents, the principles and
 many of the evidences of his holy religion; the glorious displays
@@ -212,7 +210,7 @@ scattered abroad by a few able and faithful servants of Christ,
 was richly watered by the Spirit, and produced abundant fruit to
 the praise of his grace and the permanent establishment of the
 
-<pb xml:id="p288"/>
+<pb n="p288"/>
 
 Zion Church. All of these successes, through a century of
 prosecution of the cause of the kingdom by these mission
@@ -254,7 +252,7 @@ of the goodness of God to Zion, we forget not his mercies to
 others, and cherish a deep sense of our unprofitableness, it will
 tend to the glory of that Redeemer, who would have all of his
 
-<pb xml:id="p289"/>
+<pb n="p289"/>
 
 disciples regard each other as brethren, while they acknowledge
 as their one and only Master, neither Calvin, nor Wesley, nor
@@ -264,8 +262,8 @@ Luther, nor Zwingle, but Jesus Christ.</p>
 in the A.M.E. Zion Church, is one illustrious in the
 annals of the world. It separates between the reign of different
 political theories, the divine right of kings to govern the people
-and the people's right to govern themselves, between the prin-
-ciples of liberty and slavery. Christianity is a religion of peace,
+and the people's right to govern themselves, between the principles 
+of liberty and slavery. Christianity is a religion of peace,
 and the tempests of war never fail to blast and scatter the leaves
 that are for the healing of the nations.</p>
 
@@ -298,13 +296,13 @@ Why then should it not be preached in all the world. Now if it
 is important that this august disclosure of God's character in the
 Gospel be made to any, it is not equally as important that ultimately
 
-<pb xml:id="p290"/>
+<pb n="p290"/>
 
 it should be made to all the human race? If this witness
 which the gospel bears to the eternal love of God in the gift of
 his Son, to his holiness, justice and truth, to his compassion for
 the guilty and miserable, to the provisions he has made for their
-rescue, from all the ills of their apostacy, and their elevation to
+rescue, from all the ills of their <sic>apostacy</sic>, and their elevation to
 all the joys and exalted destinies of the redeemed in heaven, if it
 be important that such a testimony be borne for God, to any
 nation under heaven, is it not equally important that it should be
@@ -340,7 +338,7 @@ of an allwise God the church has been able to continue work
 among the millions of souls in that benighted land not only
 resulting in the planting of congregations, but schools as well.</p>
 
-<pb xml:id="p291"/>
+<pb n="p291"/>
 
 <p>That Africa has claims upon the sympathies, the charities
 and evangelical efforts of Christendom, is manifest.</p>
@@ -368,7 +366,7 @@ aggregate of injuries on Africa? Professedly Christian Nations.
 Yes the Lion of Great Britain, and the Eagle of America, formally
 crouching and perching over the deck of the slave ships as
 they bore away Africa's sons and daughters to hopeless bondage. 
-Does not Christdendom owe a mighty debt to that despoiled,
+Does not Christendom owe a mighty debt to that despoiled,
 bereaved land? "Like Rachel weeping for her children, and
 refusing to be comforted, because they are not;" does not
 Africa's voice of lamentation cry to heaven against the civilized
@@ -382,7 +380,7 @@ but it is the obligation of christianity to foster the cause of missions
 by this diffusion. There is a very prevalent idea, that it is
 a matter left to our option how far we shall exert an influence
 
-<pb xml:id="p292"/>
+<pb n="p292"/>
 
 in the spread of missions, to what degree we shall allow the
 spirit and principles of Christianity to control that influence. It
@@ -421,7 +419,7 @@ only replied, "Oh! but that's all right, we are not
 erecting a house here, we are just blasting, getting out lively
 stones for the temple." Friends, this is what the Christianity of
 
-<pb xml:id="p293"/>
+<pb n="p293"/>
 
 today needs in the spread of missions into all the world, dynamic
 energy.</p>
@@ -450,7 +448,7 @@ politics care for none of these things. All of these forces the
 mission cause has to combat.</p>
 
 <p>What is christianity doing with its immense resources and
-gigantic energies to stay this plague and fostor this influence
+gigantic energies to stay this plague and <sic>fostor</sic> this influence
 laboring to establish the Church in all parts of the world?
 <hi rend="italics">Much</hi> is the word that answers this query.</p>
 
@@ -464,7 +462,7 @@ of the grace of God to the world and among all nations, it may
 be that multitudes will yet remain disobedient to the heavenly
 message. The theology of missions is christo-centric; that is to
 
-<pb xml:id="p294"/>
+<pb n="p294"/>
 
 say, we take our standard at the cross and move out to the uttermost
 parts of the earth, instead of grasping the uttermost parts

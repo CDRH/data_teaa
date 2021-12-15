@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert S. Newton to Frederick W. Seward, September 18, 1878</title>
+<title>Despatch from Robert S. Newton to Frederick W. Seward, September 18, 1878</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert S. Newton to Frederick W. Seward</title>
+<title level="a">Despatch from Robert S. Newton to Frederick W. Seward</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">3</biblScope>
 <date from="1878-09-18">September 18, 1878</date>
 </bibl>
@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -76,17 +76,16 @@
     
 <keywords scheme="original" n="places">
 <term>Liverpool (England)</term>
-<term>St. Paul de Loanda (Angola)</term>
 </keywords>
-    
+
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -97,13 +96,13 @@
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
 <roleName>Acting U.S. Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1878-09-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 </correspAction>
 </correspDesc>
 
@@ -122,13 +121,13 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0116.001"/>
+<pb n="teaa.en.letter.0116.001"/>
 
 <note>No. 27.</note>
 
-<opener><dateline>United States Consulate
+<p>United States Consulate
 at St Paul de Loanda<lb/>
-18th September 1878.</dateline></opener>
+18th September 1878.</p>
 
 <p>Sir,</p>
 
@@ -149,15 +148,14 @@ in use bears the impression
 U.S. Commercial Agency. St
 Paul de Loanda.</p>
 
-<closer><salute>I have the honor to be,<lb/>
+<p>I have the honor to be,<lb/>
 Sir,<lb/>
-Your obedt. Servt.</salute>
-<signed>Robt S. Newton<lb/>
-Acting Consul.</signed>
+Your obedt. Servt.<lb/>
+Robt S. Newton<lb/>
+Acting Consul.</p>
 
-<address><addrLine>To The Assistant Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
-</closer>
+<p>To The Assistant Secretary of State<lb/>
+Washington D.C.</p>
 
 </div1>
 </body>

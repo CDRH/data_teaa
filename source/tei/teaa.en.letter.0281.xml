@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0281">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Henry May to William H. Seward, September 30, 1863</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Mbilain, Unyoh" xml:id="unm">Unyoh Mbilain</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0281</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Henry May to William H. Seward</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Gaboon, 1856-1888 T-466</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">T-466, Roll 1</biblScope>
+<date when="1863-09-30">September 30, 1863</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term>Commerce and Trade</term>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Cape Lopez</term>
+<term>Corisco Bay</term>
+<term>Gaboon River</term>
+<term>Mondah River</term>
+<term>Mooney River</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>England</term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>May, Henry</persName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Gaboon</placeName>
+<date when="1863-09-30"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-02-24" who="#kln">reviewed, encoded</change>
+<change when="2019-10" who="#unm">transcribed</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+<div1 xml:lang="en" type="document">
+    
+<pb n="20170615_111239"/>
+
+<p>United States Comml Agency<lb/>
+at Gaboon River Sept 30th 1863</p>
+
+<p>Hon William H. Seward<lb/>
+Secretary of State<lb/>
+Washington D.C.</p>
+
+<p>Dear Sir</p>
+
+<p>I would beg to offer you the following 
+information. The trade in this river is free 
+to all vessels of every country. No tonnage
+duties or other port dues. No vessel however is 
+allowed to proceed more than fifteen miles up the 
+river without a special permit from the authorities.
+This permit has not been granted to any vessels
+visiting the river since my arrival. The 
+Captain of every vessel must deposit his ships
+papers. With the commandant of the "Guard Ship"
+immediately upon his arrival and report himself 
+to the Commandant on shore presenting a manifest 
+of the ships cargo and passenger list. No passenger
+is <sic>permited</sic> to land without permission. The 
+Captain must give twenty four hours notice in 
+order to obtain his discharge and receive no papers.</p>
+
+<p>The trade upon this part of the African
+coast is increasing. The amount of 
+rubber shipped from the Gaboon, Mooney and 
+Moondah river for the present year greatly 
+<catchwords>exceeds</catchwords>
+
+<pb n="20170615_111245"/>
+
+that of any former year. The rubber mostly goes 
+to England costing here about six cents per pound.</p>
+
+<p>The amount of Ivory exported from 
+this place and vicinity is about the same as it
+was twenty years ago. The price is much higher 
+Ivory costs here from fifty to one hundred and 
+fifty cts per pound according to the quality 
+most of this production goes through England
+to the Continent.</p> 
+
+<p>The amount of Bar Wood is equal
+to the demand though it is becoming scarce 
+upon the banks of the River. The principal supply 
+being procured some distance up the river and 
+into the interior. Most of this eventually reaches 
+France through a great proportion is shipped 
+in English vessels. Bar-Wood costs here about 
+four hundred and fifty cts per ton.</p>
+
+<p>It is exceeding difficult to obtain any reliable
+information in regard to the <sic>recources</sic> of the interior
+jealousies which exist between different tribes. From
+the best information which I can gather I judge
+that the Rubber trade has reached its maximum
+from the fact that the natives in order to secure 
+the milk from which it is made destroy the vine.
+The French are extending their possessions upon 
+this Coast having recently purchased the 
+River
+
+<pb n="20170615_111251"/>
+
+and country of Bonny paying a large sum 
+to the native "King" (Peppell) They have 
+taken possession of the Congo at least the 
+north bank of it and also of Cape Lopez,
+the latter is a few miles to the South of this 
+river. They have too the Rivers Mooney and 
+Mondah. Which are situated about fifty 
+miles to the birth of this place emptying their 
+waters into Corisco bay.</p>
+
+<p>I have no arrivals or 
+departures of American vessels to report 
+during the last six months</p>
+
+<p>With the highest consideration I 
+have the honor to be your most 
+humble and obedient servant<lb/> 
+Henry May U.S. Comml. Agt
+at Gaboon W. Africa </p>
+
+<pb n="20170615_111308"/>
+
+<p>Gaboon River<lb/>
+Sept 30th 1863<lb/>
+Henry May<lb/>
+No 7<lb/>
+3<lb/>
+Received</p>
+
+<p>Trade in this river, parlor regulations, French possessions on this coast.</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

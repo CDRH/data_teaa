@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert S. Newton to Frederick W. Seward, May 27, 1878</title>
+<title>Despatch from Robert S. Newton to Frederick W. Seward, May 27, 1878</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert S. Newton to Frederick W. Seward</title>
+<title level="a">Despatch from Robert S. Newton to Frederick W. Seward</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">3</biblScope>
 <date from="1878-05-27">May 27, 1878</date>
 </bibl>
@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -77,19 +77,18 @@
     
 <keywords scheme="original" n="places">
 <term>Liverpool (England)</term>
-<term>Mossâmedes (Angola)</term>
-<term>New Bedford (Mass.)</term>
-<term>St. Paul de Loanda (Angola)</term>
+<term>Mossamedes (Angola)</term>
+<term>New Bedford (Massachusetts)</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -100,7 +99,7 @@
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
 <roleName>Acting U.S. Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1878-05-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
@@ -112,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-11" who="#kln">metadata edits</change>
 <change when="2019-07-01" who="kln">Reviewed and edited encoding</change>
 <change when="2018" who="lkw">Creation of individual xml files, review, and addition encoding</change>
 <change when="2018" who="ls">Transcription and initial encoding</change>
@@ -124,11 +124,11 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0114.001"/>
+<pb n="teaa.en.letter.0114.001"/>
 
-<opener><dateline>United States Consulate<lb/> 
+<p>United States Consulate<lb/> 
 St Paul de Loanda<lb/>
-27th May 1878.</dateline></opener>
+27th May 1878.</p>
 
 <p>Sir,</p>
 
@@ -150,7 +150,7 @@ Africa on a Whaling trip. that
 he was obliged to leave her at
 Mossamedes owing to questions
 he had on board with the crew,
-Thro the kindness of the Captain
+<sic>Thro</sic> the kindness of the Captain
 of the Port at Mossamedes he 
 obtained a passage on board a
 Schooner bound for this city" &amp; 
@@ -161,7 +161,7 @@ and without any means of
 returning to America or Europe
 <catchwords>After</catchwords>
 
-<pb facs="teaa.en.letter.0114.002"/>
+<pb n="teaa.en.letter.0114.002"/>
 
 After being here a few days
 he has taken sick with fever &amp;
@@ -190,16 +190,16 @@ Quarterly <unclear/> I will send the
 necessary vouchers pertaining to 
 this.</p>
 
-<closer><salute>I have the honor to be<lb/>
-Your most obedt Servt</salute>
-<signed>Robt S Newton<lb/>
-Acting Consul.</signed>
+<p>I have the honor to be<lb/>
+Your most obedt Servt<lb/>
+Robt S Newton<lb/>
+Acting Consul.</p>
 
-<address><addrLine>To The Hon:</addrLine>
-<addrLine>The Assistant</addrLine>
-<addrLine>Secretary of State</addrLine>
-<addrLine>Washington D.C.</addrLine></address>
-</closer>
+<p>To The Hon:<lb/>
+The Assistant
+Secretary of State<lb/>
+Washington D.C.</p>
+
 
 </div1>
 </body>

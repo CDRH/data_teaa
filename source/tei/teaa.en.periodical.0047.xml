@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0047.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.periodical.0047">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>New York Times, "Deprives Belgium of Congo" (1907)</title>
+<title>New York Times, "Deprives Belgium of Congo" (August 9, 1907)</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -70,26 +70,24 @@
 </keywords>
 
 <keywords scheme="viaf" n="people">
-<term>Leopold II, King of the Belgians, 1835-1909</term>
-<term>Morgan, J. Pierpont (John Pierpont), 1837-1913</term>
-<term>Rockefeller, John D., Jr. (John Davison), 1874-1960</term>
-<term>Ryan, Thomas Fortune, 1851-1928</term>
+<term ref="http://viaf.org/viaf/264072032">Léopold II, King of the Belgians, 1835-1909</term>
+<term ref="http://viaf.org/viaf/57410770">Morgan, J. Pierpont (John Pierpont), 1837-1913</term>
+<term ref="http://viaf.org/viaf/74660028">Rockefeller, John D., Jr. (John Davison), 1874-1960</term>
+<term ref="http://viaf.org/viaf/38615601">Ryan, Thomas Fortune, 1851-1928</term>
 </keywords>
  
 <keywords scheme="original" n="places">
-<term>Africa</term>
-<term>Belgium</term>
 <term>Brussels (Belgium)</term>
-<term/>
+<term>Congo Free State</term>
 <term>Paris (France)</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term>Belgium</term>
 <term>United States</term>
 </keywords>
  
 <keywords scheme="original" n="ethnic_group">
-<term/>
-</keywords>
-
-<keywords scheme="original" n="language">
 <term/>
 </keywords>
 
@@ -116,9 +114,9 @@
 
 <div2 type="titles">
 
-<p>Deprives Belgium of Congo.</p>
+<head type="main">Deprives Belgium of Congo.</head>
 
-<p>King Leopold Turns the Best Portion of it Over to a Company.</p>
+<head type="sub">King Leopold Turns the Best Portion of it Over to a Company.</head>
 
 </div2>
 

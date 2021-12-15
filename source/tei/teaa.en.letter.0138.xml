@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Dispatch from Robert Scott Newton to J. C. Bancroft Davis, February 17, 1882</title>
+<title>Despatch from Robert Scott Newton to J. C. Bancroft Davis, February 17, 1882</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -43,9 +43,9 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Dispatch from Robert Scott Newton to J. C. Bancroft Davis</title>
+<title level="a">Despatch from Robert Scott Newton to J. C. Bancroft Davis</title>
 <title level="m" type="microformat">Despatches from United States consuls in St. Paul de Loanda, 1854-1893</title>
-<publisher>United States Department of State</publisher>
+<publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">3</biblScope>
 <date from="1882-02-17">February 17, 1882</date>
 </bibl>
@@ -67,7 +67,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Correspondence</term>
+<term>Despatches</term>
 </keywords>       
     
 <keywords scheme="viaf" n="people">
@@ -75,22 +75,17 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>St. Paul de Loanda (Angola)</term>
 <term>Suriname</term>
 </keywords>
     
-<keywords scheme="original" n="empires">
+<keywords scheme="original" n="powers">
 <term>Great Britain</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>English</term>
-</keywords>
-    
+        
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
@@ -101,13 +96,13 @@
 <correspAction type="sentBy">
 <persName>Newton, Robert Scott</persName>
 <roleName>U.S. Vice Consul at Loanda</roleName>
-<placeName>St. Paul de Loanda, Angola</placeName>
+<placeName>St. Paul de Loanda (Angola)</placeName>
 <date when="1882-02-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42222229">Davis, J. C. Bancroft (John Chandler Bancroft), 1822-1907</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
-<placeName>Washington, D.C.</placeName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1882-04-08"/>
 </correspAction>
 </correspDesc>
@@ -127,7 +122,7 @@
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0138.001"/>
+<pb n="teaa.en.letter.0138.001"/>
 
 <note>Department of State Received Apr 8 1882</note>
 
@@ -155,13 +150,13 @@ to draw for salary</p>
 
 <div1 type="document" xml:lang="en">
 
-<pb facs="teaa.en.letter.0138.002"/>
+<pb n="teaa.en.letter.0138.002"/>
 
 <note>No 91</note>
 
-<opener><dateline>United States Consulate<lb/>
+<p>United States Consulate<lb/>
 St Paul de Loanda<lb/>
-17th February 1882</dateline></opener>
+17th February 1882</p>
 
 <p>Sir,</p>
 
@@ -189,22 +184,20 @@ Government.</p>
 Department to give me permission 
 <catchwords>to</catchwords>
 
-<fw type="address"><address>
-<addrLine>To the</addrLine>
-<addrLine>Assistant Secretary of State</addrLine>
-<addrLine>Washington DC</addrLine>
-</address></fw>
+<fw type="address">To the<lb/>
+Assistant Secretary of State<lb/>
+Washington DC</fw>
 
-<pb facs="teaa.en.letter.0138.003"/>
+<pb n="teaa.en.letter.0138.003"/>
 
 to authorize Consul Coleen to 
 draw my Salary during my absence.</p>
 
-<closer><salute>I have the honor to be,<lb/>
+<p>I have the honor to be,<lb/>
 Sir,<lb/>
-Your most obedient Servant</salute>
-<signed>Robt S Newton<lb/>
-U.S. Vice-Consul</signed></closer>
+Your most obedient Servant<lb/>
+Robt S Newton<lb/>
+U.S. Vice-Consul</p>
 
 </div1>
 </body>
