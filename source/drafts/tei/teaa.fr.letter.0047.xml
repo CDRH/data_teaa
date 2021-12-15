@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch to an Admiral, September 10, 1877</title>
+<title>Correspondence from Jean Joachim Meurand to Albert Gicquel des Touches, September 10, 1877</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter to an Admiral</title>
+<title level="m">Correspondence from Jean Joachim Meurand to Albert Gicquel des Touches</title>
 <date when="1877-09-10">September 10, 1877</date>
 </bibl>
 <msDesc>
@@ -76,45 +77,38 @@
     
 <keywords scheme="viaf" n="people">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
-<term>Paris</term>
+<term>Gaboon</term>
+</keywords>
 
+<keywords scheme="original" n="powers">
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
-    
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName/>
-<roleName/>
+<persName>Meurand, Jean Joachim</persName>
+<roleName>Director of Consulates and Commercial Affairs</roleName>
 <placeName>Paris (France)</placeName>
 <date when="1877-09-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName>Admiral</roleName>
+<persName ref="http://viaf.org/viaf/203208419">Gicquel Des Touches, Albert Auguste 1818-1901</persName>
+<roleName>Minister of the Navy and the Colonies</roleName>
 <placeName/>
+<date when="1877-09-11"/>
 </correspAction>
 </correspDesc>
 
@@ -122,9 +116,10 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2019" who="sab">Edited encoding.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -136,162 +131,108 @@
 
 <pb n="20160614_112338.jpg"/>
 
-<ab>
+<fw type="letterhead">
 Ministère
 des
-<supplied>Affaires </supplied> Etrangères
-</ab>
+Affaires Etrangères
+</fw>
 
-<ab>
-<supplied>DIRECTION DES CONSULATS</supplied>
+<fw type="letterhead">
+DIRECTION DES CONSULATS
 et
-<supplied>Affaires Commerciales</supplied>
-</ab>
+Affaires Commerciales
+</fw>
 
-<ab>
-Paris, le 10 Septembre 1877.
-</ab>
+<p>Paris, le 10 Septembre 1877.</p>
 
-<p>
-Monsieur l'Amiral et Cher Collègue,
+<p>Monsieur l'Amiral et Cher Collègue,
 par la lettre que vous m'avez
-fair l'honneur de m'écrire, le
+fait l'honneur de m'écrire, le
 3 du mois dernier, vous m'avez
 exprimé le désir de savoir si le
 poste d'Agent Commercial des
 Etats Unis au Gabon, aurait été
-rétabli.
-</p>
+rétabli.</p>
 
-<p>
-Je m'empresse de vous
+<p>Je m'empresse de vous
 informer que je n'ai, jusqu'à ce
 jour, reçu de la Ligation des Etats
 Unis à Paris, aucun avis relatif
-</p>
 
-<ab>
-<supplied>Pour le Ministre de la Marine et des Colonies</supplied>
-<supplied>(Direction</supplied> des Colonies. 1er Bureau.)
-</ab>
-
-<note>
-Col
-1542
-un Picard.
-un
-</note>
-
-<note>
-mm en chef
-le
-m le
-Sautique Sud
-G Janv.
-</note>
+<fw type="address">
+<unclear>Pour</unclear> le Ministre de la Marine et des Colonies<lb/>
+(Direction des Colonies. 1er Bureau.)
+</fw>
 
 <pb n="20160614_112353.jpg"/>
 
-<p>
 au rétablissement de cette Agence
 dont je vous ai notifié la suppression
-le 9 Décembre dernier.
-</p>
+le 9 Décembre dernier.</p>
 
-<p>
-Agréez, Monsieur l'Amiral et Cher
+<p>Agréez, Monsieur l'Amiral et Cher
 Collègue, les assurances de ma haute
-considération.
-</p>
+considération.</p>
 
-<p>
-Pour le Ministre et par autorisation:
+<p>Pour le Ministre et par autorisation:<lb/>
 Le Directeur des Consulats
-et Affaires Commerciales,
-Meurand <!-- Signature -->
-</p>
+et Affaires Commerciales,<lb/>
+Meurand</p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_112338.jpg"/>
-                
-                <ab>
-                    Minister
-                    of
-                    <supplied>Foreign </supplied> Affairs
-                </ab>
-                
-                <ab>
-                    <supplied>DIRECTION OF CONSULATS</supplied>
-                    and
-                    <supplied>Commercial Affairs</supplied>
-                </ab>
-                
-                <ab>
-                    Paris, September 10th 1877.
-                </ab>
-                
-                <p>
-                    Mister Admiral and dear colleague,
-                    by the letter that you did the
-                    honor of writing to me, on the
-                    3rd of last month, you expressed
-                    to me the desire to know if the
-                    post of Commercial Agent of the
-                    United States in Gabon, would be
-                    reestablished.
-                </p>
-                
-                <p>
-                    I hasten to inform
-                    you that I have not, to this
-                    day, received from the Ligation of the United
-                    States in Paris, any relative advice
-                </p>
-                
-                <ab>
-                    <supplied>For the Minsiter of the Navy and the Colonies</supplied>
-                    <supplied>(Direction</supplied> of the Colonies. 1st Office.)
-                </ab>
-                
-                <note>
-                    Col
-                    1542
-                    un Picard.
-                    un
-                </note>
-                
-                <note>
-                    mm en chef
-                    le
-                    m le
-                    Sautique Sud
-                    G Janv.
-                </note>
-                
-                <pb n="20160614_112353.jpg"/>
-                
-                <p>
-                    about the reestablishment of this Agency
-                    of which I notified you the removal
-                    on December 9th of last.
-                </p>
-                
-                <p>
-                    Accept, Mister Admiral and dear
-                    colleague, the assurances of my highest
-                    consideration.
-                </p>
-                
-                <p>
-                    For the Minister and by authorization:
-                    The Director of Consulats
-                    and Commercial Affairs,
-                    Meurand <!-- Signature -->
-                </p>
-                
-            </div1>
+<pb n="20160614_112338.jpg"/>
+
+<fw type="letterhead">
+Minister
+of
+Foreign Affairs
+</fw>
+
+<fw type="letterhead">
+DIRECTION OF CONSULATES
+and
+Commercial Affairs
+</fw>
+
+<p>Paris, September 10, 1877.</p>
+
+<p>Mr. Admiral and dear colleague,
+by the letter that you did the
+honor of writing to me, on the
+3rd of last month, you expressed
+to me the desire to know if the
+post of Commercial Agent of the
+United States in Gabon, would be
+reestablished.</p>
+
+<p>I hasten to inform
+you that I have not, to this
+day, received from the Ligation of the United
+States in Paris, any relative advice
+
+<fw type="address">
+For the Minister of the Navy and the Colonies<lb/>
+(Direction of the Colonies. 1st Office.)
+</fw>
+
+<pb n="20160614_112353.jpg"/>
+
+about the reestablishment of this Agency
+of which I notified you of the removal
+on December 9th of last.</p>
+
+<p>Accept, Mister Admiral and dear
+colleague, the assurances of my highest
+consideration.</p>
+
+<p>For the Minister and by authorization:<lb/>
+The Director of Consulates and Commercial Affairs,<lb/>
+Meurand</p>
+
+</div1>
 </body>
 </text>
 

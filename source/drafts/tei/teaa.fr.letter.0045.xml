@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Minister to Minister of Foreign Affairs, June 11, 1878</title>
+<title>Correspondence from Minister to William Waddington, June 11, 1878</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Minister to Minister of Foreign Affairs</title>
+<title level="m">Correspondence from Minister to William Waddington</title>
 <date when="1878-06-11">June 11, 1878</date>
 </bibl>
 <msDesc>
@@ -75,21 +76,20 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Bushnell</term>
+<term ref="http://viaf.org/viaf/2304541">Bushnell, Albert, 1818-1879</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
-<term>Paris</term>
-<term>Washington</term>
+<term>Gaboon</term>
+<term>Washington (D.C.)</term>
+</keywords>
+
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
-</keywords>
-    
-<keywords scheme="original" n="language">
-<term>French</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -106,19 +106,19 @@
 <date when="1878-06-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
+<persName ref="http://viaf.org/viaf/64130319">Waddington, William Henry, 1826-1894</persName>
 <roleName>Minister of Foreign Affairs</roleName>
-<placeName>Gabon</placeName>
+<placeName/>
 </correspAction>
 </correspDesc>
-
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2019" who="sab">Edited transcription/encoding.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -131,187 +131,121 @@
 <pb n="20160614_112216.jpg"/>
 
 <ab>
-<unclear/> <unclear/>
-<supplied>commercial</supplied> des
+<unclear extent="one word"/> l'Agence
+commerciale des
 Etats Unis au Gabon.
 </ab>
 
-<ab>
-Paris 11 Juin 1878
-</ab>
+<p>Paris 11 Juin 1878.</p>
 
-<ab>
-Le ministre
+<p>Le ministre
 au ministre des Affaires
-Etrangères.
-</ab>
+Etrangères.</p>
 
-<p>
-M le Ministre et Cher
+<p>M le Ministre et Cher
 Collègue, a la date du
-9 Août dernier je vous
+3 Août dernier je vous
 entretenait de la suppression
 de l'Agence commerciale
-des Etats Unis au Gabon.
-</p>
+des Etats Unis au Gabon.</p>
 
-<p>
-Par lettre du 10 <unclear/>
+<p>Par lettre du 10 <unclear extent="one abbreviated word"/>
 suivant vous ne faisiez
 Connaître que la Légation
 des Etats Unis à Paris ne
-vous avait pas <del>notifié</del> <unclear>lu ente</unclear> <unclear>lu</unclear>
-<unclear>rétablissement</unclear> de cette Agence.
-</p>
+vous avait pas <unclear>encore</unclear> notifié <unclear>le</unclear>
+<unclear>rétablissement</unclear> de cette Agence.</p>
 
-<p>
-<del> Je viens vous prier </del>
-<del> <unclear> de </unclear> nouveau <unclear>de me fais</unclear> </del>
-<del> M. Bushnell</del>
-<del> l'<unclear/> <unclear>titu faire à la eu </unclear> </del>
-<del> <unclear/> <del>qui</del> a <unclear> invité </unclear> à </del>
-<del> la date du <unclear/> Mars 1877 </del>
-<del> au <unclear/> du Gabon <del>sa</del> </del>
-<del> <del>le</del> <unclear>l'etablissement</unclear> dans </del>
-<del>ses <unclear/> </del>
-</p>
+<p><del>Je viens vous prier 
+de nouveau de me fais</del></p>
+ 
+<p><del>M. Bushnell
+<unclear extent="one word"/> titulaire du ce
+<unclear extent="one word"/> qui a <unclear extent="one word"/> à 
+la date du Mars 1877 
+au Coml du Gabon 
+son rétablissement dans 
+ses <unclear extent="one word"/></del></p>
 
-<p>
-Je vous serai
-le <unclear>connassant de</unclear> <del> <unclear/> son informer </del> <unclear/> <unclear/>
-<del><unclear>si</unclear></del> <unclear/> <unclear/> <unclear/> nouvelle
-</p>
-
-<note>
-<unclear>No 8</unclear>
-</note>
-
-<note>
-<unclear/>
-<unclear/> <unclear/>
-</note>
+<p>Je vous serai
+reconnaissant de <del><unclear extent="two words"/></del> <unclear extent="two words"/>  
+<unclear extent="one word"/> si <unclear extent="one word"/> nouvelle 
 
 <pb n="20160614_112234.jpg"/>
 
-<p>
-communication <add>à ce sujét</add> <del>ne</del>
-vous cet parvenu <unclear>du</unclear>
-<unclear>fourd</unclear> de Washington
-à <del>ce sujét</del>
-</p>
+communication à ce sujet ne
+vous est parvenu du
+Gouvernement de Washington
+<del>à ce sujet</del></p>
 
-<p>
-Le <unclear>Besoin</unclear> d'un
+<p><del>Le Besoin d'un
 representant des Etats Unis
-<add><unclear>payer evenement</unclear></add> <del><unclear>se fait</unclear></del> sentir
-au Gabon et je <unclear/>
-avec plaisir la <unclear>quoiq'agence</unclear> <unclear/>
-<unclear>fier</unclear> <unclear/> <unclear/> <unclear>ce</unclear> <!-- Picture cuts off around 'ce' -->
-<del> <unclear/> de </del>
-<del> M. Bushnell dans des </del>
-<del> <unclear/> <unclear>fonctions qu'il</unclear> </del>
-<del> <unclear>a toujours précédés fortification</unclear> <unclear/> </del>
-<del> <unclear/> <unclear>et de</unclear> <unclear/> </del>
-<unclear/>
+se fait <unclear extent="unclear"/> sentir
+au Gabon et je verrais
+avec plaisir la <unclear>quoiqu'agence</unclear> <unclear extent="three words"/>
+réintégration de 
+M. Bushnell dans des 
+<unclear extent="one word"/> fonctions <unclear>qui</unclear>
+a toujours <unclear extent="two words"/> avec
+une <unclear extent="about six words"/></del></p>
 
-Agréez
-<unclear/> <!-- Signature -->
-</p>
+<p>Agréez<lb/>
+<unclear/> <!-- Signature --></p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_112216.jpg"/>
-                
-                <ab>
-                    <unclear/> <unclear/>
-                    <supplied>commercial</supplied> of the
-                    United States in Gabon.
-                </ab>
-                
-                <ab>
-                    Paris June 11th 1878
-                </ab>
-                
-                <ab>
-                    The minister
-                    to the minister of Foreign
-                    Affairs.
-                </ab>
-                
-                <p>
-                    Mr Minister and dear
-                    colleague, on the date of
-                    last August 9th I discussed
-                    with you the suppression
-                    of the Commercial Agent
-                    of the United States in Gabon.
-                </p>
-                
-                <p>
-                    By letter of <unclear/> 10th
-                    following you did not
-                    inform that the Legation
-                    of the United States in Paris did
-                    not <del>notify</del> <unclear>lu ente</unclear> <unclear>lu</unclear>
-                    <unclear>rétablissement</unclear> de cette Agence.
-                </p>
-                
-                <p>
-                    <del> Je viens vous prier </del>
-                    <del> <unclear> de </unclear> nouveau <unclear>de me fais</unclear> </del>
-                    <del> M. Bushnell</del>
-                    <del> l'<unclear/> <unclear>titu faire à la eu </unclear> </del>
-                    <del> <unclear/> <del>qui</del> a <unclear> invité </unclear> à </del>
-                    <del> la date du <unclear/> Mars 1877 </del>
-                    <del> au <unclear/> du Gabon <del>sa</del> </del>
-                    <del> <del>le</del> <unclear>l'etablissement</unclear> dans </del>
-                    <del>ses <unclear/> </del>
-                </p>
-                
-                <p>
-                    Je vous serai
-                    le <unclear>connassant de</unclear> <del> <unclear/> son informer </del> <unclear/> <unclear/>
-                    <del><unclear>si</unclear></del> <unclear/> <unclear/> <unclear/> nouvelle
-                </p>
-                
-                <note>
-                    <unclear>No 8</unclear>
-                </note>
-                
-                <note>
-                    <unclear/>
-                    <unclear/> <unclear/>
-                </note>
-                
-                <pb n="20160614_112234.jpg"/>
-                
-                <p>
-                    communication <add>à ce sujét</add> <del>ne</del>
-                    vous cet parvenu <unclear>du</unclear>
-                    <unclear>fourd</unclear> de Washington
-                    à <del>ce sujét</del>
-                </p>
-                
-                <p>
-                    Le <unclear>Besoin</unclear> d'un
-                    representant des Etats Unis
-                    <add><unclear>payer evenement</unclear></add> <del><unclear>se fait</unclear></del> sentir
-                    au Gabon et je <unclear/>
-                    avec plaisir la <unclear>quoiq'agence</unclear> <unclear/>
-                    <unclear>fier</unclear> <unclear/> <unclear/> <unclear>ce</unclear> <!-- Picture cuts off around 'ce' -->
-                    <del> <unclear/> de </del>
-                    <del> M. Bushnell dans des </del>
-                    <del> <unclear/> <unclear>fonctions qu'il</unclear> </del>
-                    <del> <unclear>a toujours précédés fortification</unclear> <unclear/> </del>
-                    <del> <unclear/> <unclear>et de</unclear> <unclear/> </del>
-                    <unclear/>
-                    
-                    Agréez
-                    <unclear/> <!-- Signature -->
-                </p>
-                
-            </div1>
+<pb n="20160614_112216.jpg"/>
+
+<ab>
+the commercial agency
+of the 
+United States in Gabon.
+</ab>
+
+<p>Paris June 11, 1878.</p>
+
+<p>The Minister
+to the Minister of Foreign
+Affairs.</p>
+
+<p>Mr Minister and dear
+colleague, on the date of
+August 3, I discussed
+with you the suppression
+of the Commercial Agency
+of the United States in Gabon.</p>
+
+<p>By letter of 10 <unclear extent="one abbreviated word"/>
+following you did not
+inform that the Legation
+of the United States in Paris had
+not yet notified you on the reestablishment of this Agency.</p>
+
+<p><del>I pray to you
+again to make me</del></p>
+
+<p><del> Mr. Bushnell
+<unclear extent="one word"/> holder of this
+<unclear extent="one word" /> which has <unclear extent="one word"/> at
+the date of March 1877
+in Coml du Gabon
+his recovery in <unclear extent="one word"/></del></p>
+
+<p>I will be grateful if you <del><unclear extent="two words"/></del> <unclear extent="two words"/>
+<unclear extent="one word"/> if <unclear extent="one word" /> new
+
+<pb n="20160614_112234.jpg"/>
+
+new communication on this subject has reached you from the Washington government</p>
+
+<p><del>The need for a representative of the United States is <unclear extent="unclear"/> felt in Gabon and I would see with pleasure the <unclear>although the agency</unclear> <unclear extent="three words"/> reintegration of Mr. Bushnell in <unclear extent="one word"/> functions which always has <unclear extent="two words"/> with an <unclear extent="about six words"/></del></p>
+
+<p>Agréez
+<unclear/> <!-- Signature --></p>
+
+</div1>
 </body>
 </text>
 

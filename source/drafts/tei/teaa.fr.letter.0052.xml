@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch From Admiral Jauréguiberry, Minister of the Navy and the Colonies, to the Admiral, February 10, 1880</title>
+<title>Correspondence From Charles de Freycinet to Bernard Jauréguiberry, February 10, 1880</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,7 +44,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter From Admiral Jauréguiberry, Minister of the Navy and the Colonies, to the Admiral</title>
+<title level="m">Correspondence From Charles de Freycinet to Bernard Jauréguiberry</title>
 <date when="1880-02-10">February 10, 1880</date>
 </bibl>
 <msDesc>
@@ -75,48 +76,37 @@
 </keywords>  
     
 <keywords scheme="viaf" n="people">
-<term>Admiral</term>
-<term>Admiral Jauréguiberry</term>
-<term>Mr. Graham C. Cambell</term>
-
+<term>Campbell, Graham C.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
-<term>Paris</term>
-<term>United States</term>
-
+<term>Gaboon</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>French</term>
+
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Admirla Jauréguiberry</persName>
-<roleName>Minister of the Navy and the Colonies</roleName>
+<persName ref="http://viaf.org/viaf/71491799">Freycinet, Charles de 1828-1923</persName>
+<roleName>Minister of Foreign Affairs</roleName>
 <placeName>Paris (France)</placeName>
 <date when="1880-02-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName>Admiral</roleName>
+<persName ref="http://viaf.org/viaf/288268401">Jauréguiberry, Jean-Bernard 1815-1887</persName>
+<roleName>Minister of the Navy and the Colonies</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
@@ -124,9 +114,10 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2018" who="sab">Encoded.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -138,123 +129,87 @@
 
 <pb n="20160614_112814.jpg"/>
 
-<ab>
+<fw type="letterhead">
 Ministère
 des
 Affaires Etrangères
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 PROTOCOLE
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 RÉPUBLIQUE FRANÇAISE.
-</ab>
+</fw>
 
-<ab>
-Paris, le 10 Février 1880
-</ab>
+<p>Paris, le 10 Février 188<unclear>0</unclear></p>
 
-<p>
-Monsieur l'Amiral et Cher Collégue,
-J'ai l'honneur de vous faire connaitre que M. Graham C. Cambell viens d'être nommé Agent
+<p>Monsieur l'Amiral et Cher Collègue,
+J'ai l'honneur de vous faire connaître que M. 
+Graham C. Campbell viens d'être nommé Agent
 Commercial des Etats Unis d'Amérique au Gabon
 (Afrique). Je m'empresse de vous adresser l'Exequatur
 accordé à M. Campbell et je vous serai obligé
-de vouloir bien faire parvenire cette pièce au titres faire
+de vouloir bien faire parvenir cette pièce au titres faire
 par l'entremise de l'autorité coloniale compétent.
-Vous voudrez bien accuser en mêmes temps <del><supplied>l'exécution</supplied></del>
+Vous voudrez bien accuser en mêmes temps l'exécution
 des mesures nécessaires pour que ces agent doit
-admis au libre exercice de ses fonctions.
-</p>
+admis au libre exercice de ses fonctions.</p>
 
-<p>
-Agréez, Monsieur l'Amiral et cher Collègue
-l'assurance de ma hautes considérations.
+<p>Agréez, Monsieur l'Amiral et cher Collègue
+l'assurance de ma hautes considération.</p>
 
-<unclear/> <!-- Signature -->
-</p>
+<p><unclear>Charles de Freycinet</unclear></p>
 
-<ab>
-Monsieur l'Amiral <unclear>Jauréguiberry</unclear>
-Ministre de la Marine et des Colonies
-</ab>
-
-<note>
-M Foy
-</note>
-
-<note>
-783
-</note>
-
-<note>
-M
-</note>
+<fw type="address">
+Monsieur l'Amiral Jauréguiberry
+Ministre de la Marine et des Colonies</fw>
 
 </div1>
 
 <div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_112814.jpg"/>
-                
-                <ab>
-                    Minister
-                    of
-                    Foreign Affairs
-                </ab>
-                
-                <ab>
-                    PROTOCOL
-                </ab>
-                
-                <ab>
-                    FRENCH REPUBLIC.
-                </ab>
-                
-                <ab>
-                    Paris, February 10th 1880
-                </ab>
-                
-                <p>
-                    Mister Admiral and dear colleague,
-                    I have the honor of informing you that Mr. Graham C. Cambell has just been named Commercial
-                    Agent of the United States of America in Gabon
-                    (Africa). I hasten to address to you the Exequatur
-                    accorded to Mr. Campbell and I will be obliged to you 
-                    to forward this document to the titles made
-                    by the mediation of the competent colonial authority.
-                    You will want to accuse at the same time <del><supplied>the execution</supplied></del>
-                    of the necessary measures so that this agent be
-                    admitted to free exercise of his funtions.
-                </p>
-                
-                <p>
-                    Accept, Mister Admiral and dear colleague
-                    the assurances of my highest consideration.
-                    
-                    <unclear/> <!-- Signature -->
-                </p>
-                
-                <ab>
-                    Mister Admiral <unclear>Jauréguiberry</unclear>
-                    Minister of the Navy and the Colonies
-                </ab>
-                
-                <note>
-                    M Foy
-                </note>
-                
-                <note>
-                    783
-                </note>
-                
-                <note>
-                    M
-                </note>
-                
-            </div1>
+<pb n="20160614_112814.jpg"/>
+
+<fw type="letterhead">
+Minister
+of
+Foreign Affairs
+</fw>
+
+<fw type="letterhead">
+PROTOCOL
+</fw>
+
+<fw type="letterhead">
+FRENCH REPUBLIC.
+</fw>
+
+<p>Paris, February 10, 1880</p>
+
+<p>Mr. Admiral and Dear Colleague,
+I have the honor of informing you that Mr. Graham C. Campbell has just been named Commercial
+Agent of the United States of America in Gabon
+(Africa). I hasten to address to you the Exequatur
+accorded to Mr. Campbell and I will be obliged to you 
+to forward this document to the titles to be made
+through the competent colonial authority.
+You will want to accuse at the same time the execution
+of the necessary measures so that this agent be
+admitted to free exercise of his functions.</p>
+
+<p>Accept, Mr. Admiral and Dear Colleague
+the assurances of my highest consideration.</p>
+
+<p><unclear>Charles de Freycinet</unclear></p>
+
+<fw type="address">
+Mister Admiral Jauréguiberry<lb/>
+Minister of the Navy and the Colonies
+</fw>
+
+</div1>
 </body>
 </text>
 

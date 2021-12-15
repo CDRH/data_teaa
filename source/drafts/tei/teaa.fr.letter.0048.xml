@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch From the Miniter of the Navy and Colonies to the Admiral, June 19,1878</title>
+<title>Correspondence from Jules Dufaure to Louis Marie Alexis Pothuau, June 19, 1878</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,7 +44,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">From the Miniter of the Navy and Colonies to the Admiral</title>
+<title level="m">Correspondence from Jules Dufaure to Louis Marie Alexis Pothuau</title>
 <date when="1878-06-19">June 19, 1878</date>
 </bibl>
 <msDesc>
@@ -75,60 +76,48 @@
 </keywords>   
     
 <keywords scheme="viaf" n="people">
-<term>Admial</term>
-<term>Mr. Albert Bushnell</term>
-<term>General Noyes</term>
-<term>Minister of the Navy and the Colonies</term>
-<term>Minister of the Navy </term>
-<term>Minister of the Unite States</term>
-
+<term ref="http://viaf.org/viaf/2304541">Bushnell, Albert, 1818-1879</term>
+<term ref="http://viaf.org/viaf/28716749">Noyes, Edward F. (Edward Follansbee), 1832-1890</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
-<term>Paris, France</term>
-<term>United States</term>
+<term>Gaboon</term>
+</keywords>
 
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
-    
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName/> 
-<roleName>Minister of the Navy and the Colonies</roleName>
+<persName ref="http://viaf.org/viaf/54280021">Dufaure, Jules, 1798-1881</persName> 
+<roleName>Minister of Justice</roleName>
 <placeName>Paris (France)</placeName>
 <date when="1878-06-19"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName>Admiral</roleName>
+<persName ref="http://viaf.org/viaf/178359147">Pothuau, Louis Pierre Alexis 1815-1882</persName>
+<roleName>Minister of the Navy and the Colonies</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2018" who="sab">Encoded.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -140,69 +129,48 @@
 
 <pb n="20160614_112407.jpg"/>
 
-<ab>
+<fw type="letterhead">
 Ministère
 des
 <supplied>Affaires</supplied> Etrangères
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 DIRECTION DES CONSULATS
 et
 Affaires Commerciales
-</ab>
+</fw>
 
-<ab>
-Paris, 19 Juin 1878.
-</ab>
+<p>Paris, 19 Juin 1878.</p>
 
-<p>
-Monsieur l'Amiral et Cher Collègue,
+<p>Monsieur l'Amiral et Cher Collègue,
 Dans une communication un date
 du 10 Septembre 1877, mon Département
 faisait savoir au Ministère de la
 Marine qu'il n'avait reçu, à cette
-époque, aucun avis relatif au établissement <!-- 'établissement' is hyphenated and split along lines between 'éta-' and 'blissement' -->
+époque, aucun avis relatif au établissement
 de l'Agence Commerciale
-des Etats Unis au Gabon, supprimé en 1876.
-</p>
+des Etats Unis au Gabon, supprimé en 1876.</p>
 
-<p>
-M. le Général Noyes vient de
+<p>M. le Général Noyes vient de
 m'informer du rétablissement de ce
-poste, à titre gratuit, et de la réintégration <!-- 'réintégration' is hyphenated and split among lines between 'réinté-' and '-gration' -->
+poste, à titre gratuit, et de la réintégration
 de M. Albert Bushnell dans
 les fonctions qu'il exerçait avant la
 suppression de cette Agence. J'ai
 l'honneur, Monsieur l'Amiral et
-Ministre de la Marine et des Colonies.
-</p>
+Ministre de la Marine et des Colonies.</p>
 
-<ab>
+<fw type="address">
 <supplied>Pour</supplied> le Ministre de la Marine et des Colonies.
-</ab>
-
-<note>
-N119s
-</note>
-
-<note>
-Col
-1819
-V
-</note>
-
-<note>
-H
-</note>
+</fw>
 
 <pb n="20160614_112417.jpg"/>
 
-<p>
-Cher Collègue, de vous  adresser, ci-joint,
+<p>Cher Collègue, de vous adresser, ci-joint,
 en copie, la lettre de M. le Ministre des
-Etats-Unis, et je vous prie de vouloir
-bien porter à la connaissance de M le
+Etats Unis, et je vous prie de vouloir
+bien porter à la connaissance de M. le
 contre Amiral Commandant en Chef
 de la Division navale de l'Atlantique
 Sud les renseignements qu'elle contient,
@@ -210,116 +178,86 @@ de manière à ce que M. Albert
 Bushnell soit, de nouveau, reconnu
 officiellement comme titulaire de
 l'Agence Commerciale des Etats Unis
-au Gabon./.
-</p>
+au Gabon.</p>
 
-<p>
-Agréez, Monsieur l'Amiral et Cher
+<p>Agréez, Monsieur l'Amiral et Cher
 Collègue, les assurances de ma haute
-considération.
-</p>
+considération.</p>
 
-<p>
-Le Garde des Sceaux Ministre de la Justice
+<p>Le Garde des Sceaux Ministre de la Justice
 chargé par intérim du portefeuille
-des Affaires Etrangères,
+des Affaires Etrangères,</p>
 
-<unclear/> <!-- Signature -->
-</p>
+<p>J Dufaure</p>
 
 </div1>
 
 <div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_112407.jpg"/>
-                
-                <ab>
-                    Minister
-                    of
-                    <supplied>Foreign</supplied> Affairs
-                </ab>
-                
-                <ab>
-                    DIRECTION OF CONSULATS
-                    and
-                    Commercial Affairs
-                </ab>
-                
-                <ab>
-                    Paris, June 19th 1878.
-                </ab>
-                
-                <p>
-                    Mister Admiral and dear colleague,
-                    In a communication from the datemy department
-                    informed the Minister of the
-                    Navy that it did not receive, at this
-                    time, any advice relative to the establishment <!-- 'établissement' is hyphenated and split along lines between 'éta-' and 'blissement' -->
-                    of the Commerical Agency
-                    of the United States in Gabon, removed in 1876.
-                </p>
-                
-                <p>
-                    Mr. General Noyes has just
-                    informed me of the reestablishment of this
-                    post, at free title, and of the reintegration <!-- 'réintégration' is hyphenated and split among lines between 'réinté-' and '-gration' -->
-                    of Mr. Albert Bushnell in
-                    the functions that he exercised before the
-                    removal of this Agency. I have
-                    the honnor, Mister Admiral and
-                    Minister of the Navy and the Colonies.
-                </p>
-                
-                <ab>
-                    <supplied>For</supplied> the Minister of the Navy and the Colonies.
-                </ab>
-                
-                <note>
-                    N119s
-                </note>
-                
-                <note>
-                    Col
-                    1819
-                    V
-                </note>
-                
-                <note>
-                    H
-                </note>
-                
-                <pb n="20160614_112417.jpg"/>
-                
-                <p>
-                    dear colleague, of addressing to you, enclosed,
-                    in duplicate, the letter of Mr. Minister of the
-                    United States, and I urge you to
-                    bring to the knowledge of Mr
-                    counter Admiral Commander in Chief
-                    of the naval Division of the South Atlantic
-                    the information that it contains,
-                    in the manner of that which M. Albert
-                    Bushnell is, oncce again, known
-                    officially tenured as
-                    Commercial Agent of the United States
-                    in Gabon./.
-                </p>
-                
-                <p>
-                    Accept, Mister Admiral and dear
-                    colleague, the assurances of my highest
-                    consideration.
-                </p>
-                
-                <p>
-                    The Guard of Seals Minister of the Justice
-                    charged as interim of the portfolio
-                    of Foreign Affairs,
-                    
-                    <unclear/> <!-- Signature -->
-                </p>
-                
-            </div1>
+<pb n="20160614_112407.jpg"/>
+
+<fw type="letterhead">
+Minister
+of
+Foreign Affairs
+</fw>
+
+<fw type="letterhead">
+DIRECTION OF CONSULATES
+and
+Commercial Affairs
+</fw>
+
+<p>Paris, June 19, 1878.</p>
+
+<p>Mr. Admiral and dear colleague,
+In a communication from the date
+September 10, 1877, my department
+informed the Minister of the
+Navy that it did not receive, at this
+time, any advice relative to the establishment
+of the Commercial Agency
+of the United States in Gabon, removed in 1876.</p>
+
+<p>Mr. General Noyes has just
+informed me of the reestablishment of this
+post, free of charge, and of the reinstatement 
+of Mr. Albert Bushnell in
+the functions that he exercised before the
+removal of this Agency. I have
+the honor, Mr. Admiral and
+Minister of the Navy and the Colonies,
+
+<fw type="address">
+For the Minister of the Navy and the Colonies.
+</fw>
+
+<pb n="20160614_112417.jpg"/>
+
+dear colleague, of addressing to you, enclosed,
+in duplicate, the letter of Mr. Minister of the
+United States, and I urge you to
+bring to the knowledge of Mr.
+Rear Admiral Commander-in-Chief
+of the Naval Division of the South Atlantic
+the information that it contains,
+in the manner of that which M. Albert
+Bushnell is, once again, known
+officially tenured as
+Commercial Agent of the United States
+in Gabon.</p>
+
+<p>Accept, Mr. Admiral and dear
+colleague, the assurances of my highest
+consideration.</p>
+
+<p>The Keeper of the Seals Minister of Justice 
+charged as interim of the portfolio
+of Foreign Affairs,</p>
+
+<p>J Dufaure</p>
+
+</div1>
 </body>
 </text>
 

@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Minister to Minister of Foreign Affairs, August 9, 1877</title>
+<title>Correspondence from Minister to Louis Decazes, August 9, 1877</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,7 +44,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Minister to Minister of Foreign Affairs</title>
+<title level="m">Correspondence from Minister to Louis Decazes</title>
 <date when="1877-08-09">August 9, 1877</date>
 </bibl>
 <msDesc>
@@ -76,32 +77,24 @@
 </keywords>   
     
 <keywords scheme="viaf" n="people">
-<term>Bushnell</term>
-
+<term ref="http://viaf.org/viaf/2304541">Bushnell, Albert, 1818-1879</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
-<term>Washington</term>
+<term>Gaboon</term>
+</keywords>
 
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
-    
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
@@ -113,19 +106,19 @@
 <date when="1877-08-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
+<persName ref="http://viaf.org/viaf/73995973">Decazes, Louis-Charles 1819-1886</persName>
 <roleName>Minister of Foreign Affairs</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
 
-
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2019" who="sab">Edited encoding.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -138,8 +131,8 @@
 <pb n="20160614_112431.jpg"/>
 
 <ab>
-<supplied>Colonies</supplied>
-<supplied>1er Bureau</supplied>
+Colonies<lb/>
+1er Bureau
 </ab>
 
 <ab>
@@ -150,169 +143,70 @@ des Etats Unis
 au Gabon
 </ab>
 
-<ab>
-Paris 9 Août 1877
-</ab>
+<p>Paris 9 Août 1877</p>
 
-<ab>
-Le Ministre
+<p>Le Ministre
 à M le Ministre
-des Affaires Etrangères.
-</ab>
+des Affaires Etrangères.</p>
 
-<p>
-M le Duc et Cher Collègue,
-A la date du 9
+<p>M le Duc et Cher Collègue,</p>
+
+<p>A la date du 9
 Décembre 1876 vous m'avez
 fait connaître que le
 Gouvernement de Washington
-<del>avait</del> <add>venait de</add> supprimés par
+<del>avait</del> venait de supprimés par
 mesure d'économie
 les emplois d'Agent et
 de si ce Agent Commercial
-des Etat Unis au Gabon.
-</p>
+des Etat Unis au Gabon.</p>
 
-<p>
-M. Le Contre
-Amiral <unclear/> en Chef
-la Div <unclear/> le <unclear/> l'Atlantique
-Sud, <del>au</del> que j'avais
+<p>M. Le Contre
+Amiral Commandant en Chef
+la Division <unclear extent="one abbreviated word"/> de l'Atlantique
+Sud, <del>au</del> que<del>l</del> javait
 <del>informé</del> <unclear>prevenu</unclear> de cette mesure
 vient de m'écrire que
-M. Bushnell <del><unclear/></del>
-<del><unclear>protestant</unclear></del> l'a<del>vait</del> informé
-<unclear>de la côté</unclear> à la date du <unclear/> Mars
-dernier que <del>cette</del> Agence
-Commerciale <del>de</del> des
+M. Bushnell <del><unclear>missionnaire</unclear>
+<unclear>protestant</unclear></del> l'a<del>vait</del> informé
+<unclear extent="two words"/> à la date du <unclear>1e</unclear> Mars
+dernier que <del>cette</del> l'Agence
+Commerciale <del>de</del> du
 Etats Unis au Gabon
-était rétablié et <unclear>quel</unclear>
-<del>avait <unclear/></del> <unclear/> <unclear/>
-fonctions <unclear/>
-<unclear/> <unclear/> <unclear/> <unclear/>
-</p>
-
-<note>
-<unclear>N55</unclear>
-</note>
-
-<note>
-<unclear>N</unclear> <unclear/>
-</note>
+était rétablie et que
+<del>avait <unclear extent="one word"/></del> <unclear extent="one word"/>
+fonctions officielles
+<unclear extent="about five words"/></p>
 
 <pb n="20160614_112438.jpg"/>
 
-<p>
-Je m'empresse de porter
+<p>Je m'empresse de porter
 ce faits à votre connaissance
 en vous priant de me
 faire savoir si une
-décision contraire a
+décision contraire à 
 celle dont vous m'avez
 fait part à la date
-du 9 Xbre dernier <del>n'</del> est, <unclear/>
+du 9 Xbre dernier <del>n'</del> est, <unclear extent="one word"/>
 <del>pas</del> intervenue <del>et</del> <add>ou</add> <unclear>si</unclear>
-<unclear>pour Dep Avril</unclear> <unclear/>
+<unclear>pour</unclear> Département <unclear extent="two words"/>
 comme définitive la
-suppression <unclear>desémplis</unclear>
-d'agent commercial
-de l'Union au Gabon.
+suppression <unclear>désemplis</unclear>
+d'Agent Commercial
+de l'Union au Gabon.</p>
 
-Agréez <unclear/>
-<unclear>Le Dr</unclear> <!-- Signature -->
-</p>
+<p>Agréez &amp;tc<lb/>
+<unclear>Le Dr</unclear></p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_112431.jpg"/>
+<pb n="20160614_112431.jpg"/>
                 
-                <ab>
-                    <supplied>Colonies</supplied>
-                    <supplied>1st Office</supplied>
-                </ab>
+<pb n="20160614_112438.jpg"/>
                 
-                <ab>
-                    On the subject of the
-                    removal of
-                    the commercial agency
-                    of the United States
-                    in Gabon
-                </ab>
-                
-                <ab>
-                    Paris August 9th 1877
-                </ab>
-                
-                <ab>
-                    The Minister
-                    to Mr Minister
-                    of Foreign Affairs.
-                </ab>
-                
-                <p>
-                    Mr Duke and dear colleague,
-                    On the date of
-                    December 9th 1876 you
-                    informed me that the
-                    Government of Washington
-                    <del>had</del> <add>had just</add> removed by
-                    measure of economy
-                    les emplois d'Agent et
-                    de si this Commercial Agent
-                    of the United States in Gabon.
-                </p>
-                
-                <p>
-                    Mr. Counter
-                    Admiral <unclear/> in Chief
-                    the Division <unclear/> le <unclear/> the South Atlantic
-                    <del>au</del> que j'avais
-                    <del>informé</del> <unclear>prevenu</unclear> de cette mesure
-                    vient de m'écrire que
-                    M. Bushnell <del><unclear/></del>
-                    <del><unclear>protestant</unclear></del> l'a<del>vait</del> informé
-                    <unclear>de la côté</unclear> à la date du <unclear/> Mars
-                    dernier que <del>cette</del> Agence
-                    Commerciale <del>de</del> des
-                    Etats Unis au Gabon
-                    était rétablié et <unclear>quel</unclear>
-                    <del>avait <unclear/></del> <unclear/> <unclear/>
-                    fonctions <unclear/>
-                    <unclear/> <unclear/> <unclear/> <unclear/>
-                </p>
-                
-                <note>
-                    <unclear>N55</unclear>
-                </note>
-                
-                <note>
-                    <unclear>N</unclear> <unclear/>
-                </note>
-                
-                <pb n="20160614_112438.jpg"/>
-                
-                <p>
-                    I hasten to bring
-                    these facts to your knowledge
-                    in praying that you
-                    inform me if a
-                    contrary decision to
-                    that which you announced
-                    to me on the date of
-                    last December 9th <del>is</del> not, <unclear/>
-                    <del>pas</del> intervenue <del>et</del> <add>ou</add> <unclear>si</unclear>
-                    <unclear>pour Dep Avril</unclear> <unclear/>
-                    comme définitive la
-                    suppression <unclear>desémplis</unclear>
-                    d'agent commercial
-                    de l'Union au Gabon.
-                    
-                    Agréez <unclear/>
-                    <unclear>Le Dr</unclear> <!-- Signature -->
-                </p>
-                
-            </div1>
+</div1>
 </body>
 </text>
 

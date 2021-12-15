@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Minister to Minister of Foreign Affairs, December 11, 1879</title>
+<title>Correspondence from Minister to William Waddington, December 11, 1879</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,7 +44,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Minister to Minister of Foreign Affairs</title>
+<title level="m">Correspondence from Minister to William Waddington</title>
 <date when="1879-12-11">December 11, 1879</date>
 </bibl>
 <msDesc>
@@ -77,30 +78,23 @@
     
 <keywords scheme="viaf" n="people">
 <term ref="http://viaf.org/viaf/2304541">Bushnell, Albert, 1818-1879</term>
-
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
+<term>Gaboon</term>
+</keywords>
 
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
-    
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
@@ -112,19 +106,19 @@
 <date when="1879-12-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
+<persName ref="http://viaf.org/viaf/64130319">Waddington, William Henry, 1826-1894</persName>
 <roleName>Minister of Foreign Affairs</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
 
-
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2019" who="sab">Edited encoding.</change>
+<change when="2018" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -136,112 +130,42 @@
 
 <pb n="20160614_112511.jpg"/>
 
-<ab>
-Consuls
-</ab>
+<ab>Consuls</ab>
 
-<ab>
-Celb. Bushnell
-</ab>
+<ab><unclear>Celb.</unclear> Bushnell.</ab>
 
-<ab>
-Paris, le 11 Xbre 1879
-</ab>
+<p>Paris, le 11 Xbre 1879</p>
 
-<ab>
-Le Ministre
-à M. le Ministre des Aff. Etrangères
-</ab>
+<p>Le Ministre
+à M. le Ministre des Aff. Etrangères</p>
 
-<p>
-Monsieur le Ministre et
+<p>Monsieur le Ministre et
 cher Collègue, j'ai l'honneur de
 vous accuser reception de l'exequatur
 que vous m'avez adressé par lettre
-du 22 nov. der et que <del>votre Dépt.</del> <add>M le <unclear/></add>
-<del><unclear/></del> <add><unclear>l'exequatur</unclear></add> accord<del><unclear>ér</unclear> à</del> M. Albert
+du 22 Nov. <unclear>der</unclear> et que <del>votre Dépt. <unclear extent="one word"/></del> M le <unclear extent="about three words"/>
+accord<del><unclear>ér</unclear> à</del> M. Albert
 Bushnell, reintegré dans ses
-<unclear/> fonctions d'Agent
+<unclear extent="one word"/> fonctions d'Agent
 commercial des Etats Unis au
 Gabon, depuis le retablissement de
-cette agence.
-</p>
+cette agence.</p>
 
-<p>
-Je transmets ce document
+<p>Je transmets ce document
 à M. le Commandant de cette
-colonie qui <del>remettre à ces</del> <add><unclear/> <unclear/> la</add> pièces
-au <unclear/> <unclear/> <unclear/> <unclear/> de
-<unclear/> <unclear/> <unclear>de la</unclear>
+colonie qui <unclear extent="two words"/> <del>remettre cet</del> pièces
+au <unclear extent="about ten words"/></p>
 
-<unclear/> <!-- Signature -->
-</p>
-
-<note>
-E170
-</note>
-
-<note>
-<unclear/>
-<unclear/>
-</note>
+<p><unclear extent="one signature"/></p>
 
 </div1>
- <div1 xml:lang="en" type="translation">
+
+<div1 xml:lang="en" type="translation">
                 
-                <pb n="20160614_112511.jpg"/>
-                
-                <ab>
-                    Consuls
-                </ab>
-                
-                <ab>
-                    Celb. Bushnell
-                </ab>
-                
-                <ab>
-                    Paris, December 11th 1879
-                </ab>
-                
-                <ab>
-                    The Minister
-                    to Mr. Minister of Foreign Affairs
-                </ab>
-                
-                <p>
-                    Mister Minister and
-                    dear colleague, I have the honor of
-                    accusing you with reception of the exequatur
-                    that you addressed to me by letter
-                    of last Nov 22nd and that <del>your Dep.</del> <add>Mr <unclear/></add>
-                    <del><unclear/></del> <add><unclear>the exequatur</unclear></add> accorded<del><unclear>ér</unclear> to</del> Mr. Albert
-                    Bushnell, reintegrated in his
-                    <unclear/> functions of Commercial
-                    Agent of the United States in
-                    Gabon, since the reestablishment of
-                    this agency.
-                </p>
-                
-                <p>
-                    I am transmitting this document
-                    to Mr. Commander of this
-                    colony who <del>hands over these</del> <add><unclear/> <unclear/> the</add> pieces
-                    to the <unclear/> <unclear/> <unclear/> <unclear/> de
-                    <unclear/> <unclear/> <unclear>de la</unclear>
-                    
-                    <unclear/> <!-- Signature -->
-                </p>
-                
-                <note>
-                    E170
-                </note>
-                
-                <note>
-                    <unclear/>
-                    <unclear/>
-                </note>
-                
-            </div1>
+<pb n="20160614_112511.jpg"/>
+
+
+</div1>
 </body>
 </text>
 
