@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from "AWN" to Mr. Trouillot, Minister of the Colonies, July 2, 1898</title>
+<title>Correspondence from Plenipotentiary Minister to Georges Trouillot, July 2, 1898</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,13 +44,13 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from "AWN" to Mr. Trouillot, Minister of the Colonies</title>
+<title level="m">Correspondence from Plenipotentiary Minister to Georges Trouillot</title>
 <date when="1898-07-02">July 2, 1898</date>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Archives Nationales d'Outre-Mer</repository>
-<collection>Afrique VI</collection>
+<collection>FR CAOM Afrique VI</collection>
 <idno>156</idno>
 </msIdentifier>
 </msDesc>
@@ -63,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,51 +76,39 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>AWN</term>
-<term>General Porter</term>
-<term>Mr. Confler</term>
-<term>Reverend Mitchell</term>
-<term>Mr. Trouillot</term>
-
+<term>Mitchell</term>
+<term>Porter</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Congo</term>
-<term>Paris</term>
-<term>Sierra-Leone</term>
+<term>Congo Free State</term>
+<term>Sierra Leone</term>
 <term>Soudan</term>
-<term>West Africa</term>
-
 </keywords>
-    
-<keywords scheme="original" n="ethnic_group">
+      
+<keywords scheme="original" n="powers">
 <term/>
 </keywords>
-    
-<keywords scheme="original" n="language">
-<term>French</term>
+  
+<keywords scheme="original" n="ethnic_group">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>AWN</persName>
-<roleName/>
+<persName/>
+<roleName>Plenipotentiary Minister</roleName>
 <placeName>Paris (France)</placeName>
 <date when="1898-07-02"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Mr. Trouillot</persName>
+<persName ref="http://viaf.org/viaf/17366107">Trouillot, Georges, 1851-1916</persName>
 <roleName>Minister of the Colonies</roleName>
 <placeName/>
 </correspAction>
@@ -128,9 +117,10 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2018" who="sab">Encoded.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -142,90 +132,62 @@
 
 <pb n="20160614_102601.jpg"/>
 
-<ab>
+<fw type="letterhead">
 Ministère
 des
 Affaires étrangères
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 Direction des Affaires Politiques
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 Sous Direction
 du Nord
-</ab>
+</fw>
 
 <ab>
 Missions américaines
-dans l'Afrique Occidentale./.
+dans l'Afrique Occidentale.
 </ab>
 
-<ab>
-Paris le 2 Juillet 1898
-</ab>
+<p>Paris le 2 Juillet 1898</p>
 
-<p>
-Monsieur le ministre et cher Collègue,
+<p>Monsieur le ministre et cher Collègue,</p>
 
-L'ambassadeur des
+<p>L'ambassadeur des
 Etats-Unis à Paris s'est adressé à
 mon Département à l'effet d'obtenir
-en faveur du Révérent Mitchell,
+en faveur du Révérend Mitchell,
 missionnaire américain, qui a
 fondé des établissements religieus
 près des frontières du Congo et de
-</p>
 
-<ab>
-Monsieur Trouillot,
+<fw type="address">
+Monsieur Trouillot,<lb/>
 Ministre des Colonies.
-</ab>
-
-<note>
-Sous pli <!-- "In an envelope" -->
-confidentiel
-</note>
-
-<note>
-prè
-</note>
-
-<note>
-pr. réponse
-affirmative.
-M. Cofler
-</note>
-
-<note>
-f.
-</note>
+</fw>
 
 <pb n="20160614_102615.jpg"/>
 
-<p>
 Sierra-Leone, l'autorisation de pénétrer dans le
 Soudan par l'Etat Indépendant du Congo et
-d'y établie des missions.
-</p>
+d'y établie des missions.</p>
 
-<p>
-J'ai l'honneur de vous transmettre,
+<p>J'ai l'honneur de vous transmettre,
 ci-joint, copie de la lettre du Général Porter
 et je vous serais obligé de vouloir bien me mettre
-en mesure d'y répondre./.
-</p>
+en mesure d'y répondre.</p>
 
-<p>
-Agréez, Monsieur le Ministre
+<p>Agréez, Monsieur le Ministre
 et cher Collègue, les assurances de ma haute
-considération,
-Pour LE MINISTRE et par AUTORISATION: <!-- Stamped -->
-LE MINISTRE PLÉNIPOTENTIAIRE, Directeur <!-- Stamped -->
+considération,</p>
 
-awn <!-- Signature with initials -->
-</p>
+<ab type="stamp">Pour LE MINISTRE et par AUTORISATION:<lb/>
+LE MINISTRE PLÉNIPOTENTIAIRE, Directeur</ab>
+
+<p><unclear extent="signature"/></p>
 
 </div1>
 
@@ -233,90 +195,63 @@ awn <!-- Signature with initials -->
 
 <pb n="20160614_102601.jpg"/>
 
-<ab>
+<fw type="letterhead">
 Minister
 of
 Foreign Affairs
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 Direction of Political Affairs
-</ab>
+</fw>
 
-<ab>
+<fw type="letterhead">
 Under Direction
 of the North
-</ab>
+</fw>
 
 <ab>
 American Missions
-in West Africa./.
+in West Africa.
 </ab>
 
-<ab>
-Paris July 2nd 1898
-</ab>
+<p>Paris July 2, 1898</p>
 
-<p>
-Mister minister and dear colleage,
+<p>Mr. Minister and Dear Colleage,</p>
 
-The ambassador of the
-United States in Paris addressed himself to
-my Department in the effect of obtaining
-in favor of Reverent Mitchell,
-american missionary, who
+<p>The ambassador of the
+United States in Paris addressed 
+my Department to obtain
+in favor of Reverend Mitchell,
+American missionary, who has
 founded religious establishments
 near the borders of the Congo and
-</p>
 
-<ab>
-Mister Trouillot,
+<fw type="address">
+Mr. Trouillot,<lb/>
 Minister of the Colonies.
-</ab>
+</fw>
 
-<note>
-In an envelope <!-- "In an envelope" -->
-confidential
-</note>
-
-<note>
-prè
-</note>
-
-<note>
-pr. response
-affirmative.
-M. Cofler
-</note>
-
-<note>
-f.
-</note>
 
 <pb n="20160614_102615.jpg"/>
 
-<p>
-Sierra-Leone, the authorization to penetrate the
-Sudan by the Independent State of the Congo and
-to establish missions there.
-</p>
+Sierra-Leone, permission to enter the
+Sudan by the Congo Free State and
+to establish missions there.</p>
 
-<p>
-I have the honor to transmit to you,
+<p>I have the honor to transmit to you,
 enclosed, a copy of the letter from General Porter
 and I will be obliged to you to put me
-in measure of responding./.
-</p>
+in measure of responding.</p>
 
-<p>
-Accept, Mister Minister
-and dear colleage, the assurances of my highest
-consideration,
-For THE MINISTER and by AUTHORIZATION: <!-- Stamped -->
-THE PLENIPOTENTIARY MINISTER, Director <!-- Stamped -->
+<p>Accept, Mr. Minister
+and dear Colleague, the assurances of my highest
+consideration,</p>
 
-awn <!-- Signature with initials -->
-</p>
+<ab type="stamp">For THE MINISTER and by AUTHORIZATION:<lb/>
+THE PLENIPOTENTIARY MINISTER, Director</ab>
+
+<p><unclear extent="signature"/></p>
 
 </div1>
 </body>
@@ -324,3 +259,4 @@ awn <!-- Signature with initials -->
 
 </TEI>
 
+ 

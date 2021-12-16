@@ -10,6 +10,7 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
@@ -77,32 +78,25 @@
 <keywords scheme="viaf" n="people">
 <term>Mitchell, C. A.</term>
 <term>Simpson, A.B.</term>
-
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>Congo</term>
 <term>Sierra Leone</term>
 <term>Sudan</term>
+</keywords>
 
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
-</keywords>
-    
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 <correspDesc>
@@ -122,8 +116,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
+<change when="2021-12" who="kln">Reviewed, edited, encoded</change>
 <change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -135,108 +130,85 @@
 
 <pb n="20160614_102626.jpg"/>
 
-<ab>
-L'ambassadeur des Etats-Unis à Paris au
-ministre des Affaires Etrangères.
-</ab>
+<p>L'ambassadeur des Etats-Unis à Paris au
+ministre des Affaires Etrangères.</p>
 
-<ab>
-Paris, le 25 Juin 1898
-</ab>
+<p>Paris, le 25 Juin 1898</p>
 
-<p>
-A la prière du Rd A.B. Simpson, <!-- 'Rd' is short for révérend -->
-Président de la "Christian and Missionnary
+<p>A la prière du Rd A. B. Simpson,
+Président de la "Christian and <sic>Missionnary</sic>
 Alliance" mon Gouvernement recommande à cette
-<unclear/> le Rd C. A. Mitchell qui
-appartient aux missions Africaines de cette alliance et qui
-sollicite du Govt de la République l'autorisation
+Ambassade le Rd C. A. Mitchell qui appartient 
+aux missions Africaines de cette alliance et qui
+sollicite du Gouvt de la République l'autorisation
 d'éténdre leur œuvre civilisatrice aux territoires
-français de l'Afrique Centrale et Occidentale.
-</p>
+français de l'Afrique Centrale et Occidentale.</p>
 
-<p>
-Actuellement le mission de l'Alliance
-<unclear/> une partie de l'Etat-Libre du Congo
+<p>Actuellement le mission de l'Alliance
+<unclear>embrassent</unclear> une partie de l'Etat-Libre du Congo
 du Soudan sur la côte occidentale et la Colonie
 Anglaise du Sierra-Leone. Des stations ont déjà
 été établies près des frontieres du Congo et de
 Sierra-Leone et celle du Rd Mitchell est né
-<unclear/> qui est un port francais. Le
-</p>
+<unclear extent="one word"/> qui est un port francais. Le
 
 <pb n="20160614_102641.jpg"/>
 
-<p>
 s'agirait d'obtenir principalement le droit de
 penetrer dans le Soudan français par l'Etat
-libre du Congo et d'y etablie des missions.
-</p>
+libre du Congo et d'y établie des missions.</p>
 
-<p>
-Je serais très reconnaissant aV.E. d'Elle
+<p>Je serais très reconnaissant <unclear extent="about one word"/> d'Elle
 voulait accueillir favorablement cette demande.
-Je n'ai pas besoin de dire que les missionaires
+Je n'ai pas besoin de dire que les missionnaires
 Américains à l'étranger ne s'occupent pas du
 tort de politique et qu'ils se soumettaient
 scrupuleusement à toutes les conditions qui
-pourraient leur être      <unclear>imprées</unclear> relativement
-à leur mission et à leurs écoles./.
-</p>
+pourraient leur être <unclear>imprées</unclear> relativement
+à leur mission et à leurs écoles.</p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
 
 <pb n="20160614_102626.jpg"/>
 
-<ab>
-The ambassador of the United States in Paris to the
-Minister of Foreign Affairs.
-</ab>
+<p>The ambassador of the United States in Paris to the
+Minister of Foreign Affairs.</p>
 
-<ab>
-Paris, June 25th 1898
-</ab>
+<p>Paris, June 25, 1898</p>
 
-<p>
-At the prayer of Rd A.B. Simpson, <!-- 'Rd' is short for révérend -->
-President of the "Christian and Missionnary
+<p>At the prayer of Rd A. B. Simpson, 
+President of the "Christian and Missionary
 Alliance" my government recommends to this
-<unclear/> Rd C. A. Mitchell who
+Embassy Rd C. A. Mitchell who
 belongs to the African missions of this alliance and who
 solicits from the Government of the Republic the authorization
-to extend their civil work in the french
-territories of Central and West Africa.
-</p>
+to extend their civilizing work in the French
+territories of Central and West Africa.</p>
 
-<p>
-Currently the mission of the Alliance
-<unclear/> a part of the Free State of the Congo
-of Sudan on the west coast and the English
+<p>Currently the mission of the Alliance
+embrace part of the Congo Free State
+of Sudan on the West Coast and the English
 Colony of Sierra-Leone. The stations were already
-established near border of the Congo and
+established near the border of the Congo and
 Sierra-Leone and that of Rd Mitchell was born
-<unclear/> that is a french port. The
-</p>
+<unclear extent="one word"/> that is a French port. The
 
 <pb n="20160614_102641.jpg"/>
 
-<p>
-question of obtaining principally the right of
-penetrating the french Sudan by the free State
-of the Congo and to establish missions there.
-</p>
+main objective would be obtaining the right to
+enter the French Sudan through the Congo Free State
+and to establish missions there.</p>
 
-<p>
-I would be very appreciative aV.E. of her
-wanting to favorably welcome this demand.
+<p>I would be very appreciative <unclear extent="about one word"/> of her
+wanting to favorably welcome this request.
 I have no need to say that the American
 missionaries overseas do not look after the
 political injustice and that they submit
 scrupulously to all of the conditions that
-could be     <unclear>imprées</unclear> relatively
-to their mission and in their schools./.
-</p>
+could be <unclear>impressed</unclear> relatively
+to their mission and in their schools.</p>
 
 </div1>
 </body>
