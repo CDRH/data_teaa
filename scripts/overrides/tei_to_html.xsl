@@ -188,7 +188,7 @@
     </span>
   </xsl:template> 
   
-  <xsl:template match="pb[1]">
+  <xsl:template match="pb">
     <!-- grab the figure id from @facs, and if there is a .jpg, chop it off
           note: I previously also looked at xml:id for figure ID, but that's 
           incorrect -->
@@ -206,6 +206,7 @@
       </xsl:choose>
     </xsl:variable>
     
+    <xsl:if test="preceding::pb"><span class="hr">&#160;</span></xsl:if>
     <xsl:if test="$figure_id != ''">
       <span>
         <xsl:attribute name="class">
