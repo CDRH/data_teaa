@@ -140,8 +140,10 @@ class TeiToEs
       		"book"
       	elsif (get_text("bibl/title[@level='a']/@type", xml: ele).include? "main")
       		"other"
-      	else
+      	elsif get_text(@xpaths["subcategory"]) == "Despatches"
         	"despatch"
+        else
+          "no format defined"
         end
       elsif (get_text("bibl/title/@level", xml: ele).include? "a") && (get_text("bibl/title/@level", xml: ele).include? "j")
         "article"
@@ -193,42 +195,15 @@ class TeiToEs
   
   def build_source
     source = ""
-    format_k = build_format
-    pub_date = get_text(@xpaths["pub_date"])
-    pub_date2 = get_text(@xpaths["pub_date2"])
-    creator = get_text(@xpaths["creator"])
-    title_a = get_text(@xpaths["title_a"])
+    #format_k = build_format
     title_j = get_text(@xpaths["title_j"])
     title_m = get_text(@xpaths["title_m"])
-    pages = get_text(@xpaths["pages"])
-    publisher = get_text(@xpaths["publisher"])
-    pub_place = get_text(@xpaths["pub_place"])
-    if get_text(@xpaths["pub_date2"]) != ""
-      pub_span = " (" + pub_date + "-" + pub_date2 +") "
-      (source = creator + ", ") unless creator.empty?
-      source = source + "\"" + title_a + ",\" "  + title_j + pub_span
-    elsif format_k == "despatch"
-      source = title_m + ", " + publisher
-    elsif format_k == "article"
-      (source = creator + ", ") unless creator.empty?
-      source = source + "\"" + title_a + ",\" " + title_j
-      (source = source + " (" + pub_date + ")") unless pub_date.empty?
-      (source = source + ": " + pages) unless pages.empty?
-    elsif format_k == "other"
-      (source = creator + ", ") unless creator.empty?
-      source = source + "\"" + title_a + ",\" "  
-      (source = source + title_m) unless title_m.empty?
-      (source = source + title_j) unless title_j.empty?
-      (source = source + " (" + pub_date + ")") unless pub_date.empty?
-      (source = source + ": " + pages) unless pages.empty?
+    if title_j != ""
+      source = title_j
+    elsif title_m != ""
+      source = title_m
     else
-      (source = creator + ", ") unless creator.empty?
-      (source = source + "\"" + title_a + ",\" ") unless title_a.empty?
-      source = source + title_m
-      (source = source + ", " + pub_place) unless pub_place.empty?
-      (source = source + ", " + publisher) unless publisher.empty?
-      (source = source + " (" + pub_date + ")") unless pub_date.empty?
-      (source = source + ": " + pages) unless pages.empty?
+      source = "No source defined"
     end
     source
   end
