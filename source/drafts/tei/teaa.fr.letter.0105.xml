@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Minister of United States to Minister of Foreign Affairs, April 9, 1867</title>
+<title>Correspondence from John A. Dix to Lionel de Moustier, April 9, 1867</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
@@ -42,7 +43,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Minister of United States to Minister of Foreign Affairs</title>
+<title level="m">Correspondence from John A. Dix to Lionel de Moustier</title>
 <date when="1867-04-09">April 9, 1867</date>
 </bibl>
 <msDesc>
@@ -63,7 +64,8 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
+<term>Slavery and Slave Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,43 +77,38 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Perrot</term>
-
+<term ref="http://viaf.org/viaf/157145857830823020031">Nassau, Robert Hamill, 1835-1921</term>
+<term>Perrot, Augustus</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Corisco</term>
-<term>Gabon</term>
-
+<term>Corisco (Spanish Guinea)</term>
+<term>Gaboon</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName/>
-<roleName>Minister of United States</roleName>
+<persName ref="http://viaf.org/viaf/69002011">Dix, John A. (John Adams), 1798-1879</persName>
+<roleName>Minister of the United States</roleName>
 <placeName>Paris</placeName>
-<date> when="1867-04-09</date>
+<date when="1867-04-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
+<persName ref="http://viaf.org/viaf/246926353">Moustier, Léonel de 1817-1869</persName>
 <roleName>Minister of Foreign Affairs</roleName>
 <placeName/>
 </correspAction>
@@ -120,8 +117,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
+<change when="2021-01" who="kln">reviewed, encoded.</change>
 <change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -133,72 +131,55 @@
 
 <pb n="20160614_100429.jpg"/>
 
-<ab>
-Le Ministre des Etats
+<p>Le Ministre des Etats
 Unis au Ministre
-des affaires Etrangères
-</ab>
+des Affaires Etrangères</p>
 
-<ab>
-Paris 9 Avril 1867 
-</ab>
+<p>Paris 9 Avril 1867</p>
 
-<p>
-Monsieur,
-Des lettres de M.
-<unclear/>, missionaire
+<p>Monsieur,</p>
+
+<p>Des lettres de M.
+<unclear>Nassau</unclear>, missionaire
 Américain à Corisco 
-reçues par le gouvern-
+reçues par le gouvernt
 des Etats-Unis et
 d'autres de M. Perrot
 agent commercial
 des Etats-Unis au Gabon
-sur la Côte <supplied>occidentale</supplied>
-d'Afrique <supplied>exposent</supplied>
+sur la Côte occidentale
+d'Afrique exposent
 que le commerce des
-esclaves se fait <supplied>encore</supplied>
-</p>
-
-<note>
-Copie au <unclear/> <unclear/> des <unclear/> <unclear/> de la côte d'or <unclear/> du Gabon.
-le 20 Avril 1867. No. <unclear/>.
-</note>
+esclaves se fait encore
 
 <pb n="20160614_100450.jpg"/>
 
-<p>
 dommage considérable
-par suite des déprédations <!-- 'déprédations' is hyphenated between 'dépré-' and 'dations' -->
+par suite des déprédations
 des indigènes,
 les autorités françaises
 auxquelles il s'était
 adressé pour obtenir
 justice n'avaient pas
-tenu compe de ses
-représentations.
-</p>
+tenu compte de ses
+représentations.</p>
 
-<p>
-Ce n'est, ajoute-t-il,
-que quelques'unes
-des nombreuses occasions <!-- 'occasions' is hyphenated between 'occa-' and 'sions' -->
+<p>Ce n'est, ajoute-t-il,
+que quelques'unes–
+des nombreuses occasions
 dans lesquelles
 les citoyens Américains
-ont été pillés et malttraités <!-- 'malttraités' is hyphenated between 'malt-' and 'traités -->
-et pour corroborer <!-- 'corroborer' is hyphenated between 'corrobo-' and 'rer' -->
+ont été pillés et maltraités
+et pour corroborer
 son assertion, il
 rappelle l'incident de
-</p>
 
 <pb n="20160614_100458.jpg"/>
 
-<p>
 la barque Américaine
-<unclear/>.
-</p>
+<unclear>Robert</unclear>.</p>
 
-<p>
-Le missionnaire
+<p>Le missionnaire
 Américain a été
 lui-même pillé et il
 cite un vol récent
@@ -211,85 +192,65 @@ préoccupées, quoique
 l'on se soit adressé
 à elles pour obtenir
 le redressement de
-semblables outrages.
-</p>
+semblables outrages.</p>
 
-<p>
-Je suis chargé de
-porter ces faits à la
-</p>
+<p>Je suis chargé de
+porter ces faits à la</p>
 
 </div1>
+
 <div1  xml:lang="en" type="translation">
 
 <pb n="20160614_100429.jpg"/>
 
-<ab>
-The Minister of the United
+<p>The Minister of the United
 States to the Minister
-of Foreign Affairs
-</ab>
+of Foreign Affairs</p>
 
-<ab>
-Paris April 9th 1867 
-</ab>
+<p>Paris, April 9, 1867</p>
 
-<p>
-Mister,
-The letters from Mr.
-<unclear/>, american
+<p>Mister,</p>
+
+<p>The letters from Mr.
+<unclear>Nassau</unclear>, American
 missionary in Corisco 
 received by the government
 of the United States and
 others of Mr. Perrot
 commercial agent
 of the United States in Gabon
-on the <supplied>West</supplied> Coast
-of Africa <supplied>expose</supplied>
-that the commerce of the
-slaves is happening <supplied>again</supplied>
-</p>
-
-<note>
-Copy to the <unclear/> <unclear/> of the <unclear/> <unclear/> of the gold coast <unclear/> of Gabon.
-April 20th 1867. No. <unclear/>.
-</note>
+on the West Coast
+of Africa show
+that the slave trade is happening again
 
 <pb n="20160614_100450.jpg"/>
 
-<p>
 considerable damage
-in suit of the depredations <!-- 'déprédations' is hyphenated between 'dépré-' and 'dations' -->
+in suit of the depredations 
 of the indigenous,
-the french authorities
+the French authorities
 to which it was
-adressed to obtain
+addressed to obtain
 justice did not
 take into account its
-representations.
-</p>
+representations.</p>
 
-<p>
-This is, he adds,
+<p>This is, he adds,
 only some
-some of the numerous occasions <!-- 'occasions' is hyphenated between 'occa-' and 'sions' -->
+some of the numerous occasions 
 in which
 the American citizens
-were pillaged and mistreated <!-- 'malttraités' is hyphenated between 'malt-' and 'traités -->
-and to corroborate <!-- 'corroborer' is hyphenated between 'corrobo-' and 'rer' -->
+were pillaged and mistreated
+and to corroborate
 his assertion, he
 recalls the incident of
-</p>
 
 <pb n="20160614_100458.jpg"/>
 
-<p>
 the American boat
-<unclear/>.
-</p>
+<unclear>Robert</unclear>.</p>
 
-<p>
-The American
+<p>The American
 missionary was
 himself pillaged and he
 cites a recent theft
@@ -302,13 +263,10 @@ preoccupied, though
 one is addressed
 to them to obtain
 the recovery of
-similar outrages.
-</p>
+similar outrages.</p>
 
-<p>
-I am charged with
-bringing these facts to the
-</p>
+<p>I am charged with
+bringing these facts to the</p>
 
 </div1>
 </body>

@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from W. Hoffman, October 9, 1867</title>
+<title>Correspondence from W. Hoffman, October 9, 1867</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,7 +44,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from ___ to ___</title>
+<title level="m">Correspondence from W. Hoffman</title>
 <date when="1867-10-09">October 9, 1867</date>
 </bibl>
 <msDesc>
@@ -76,41 +77,33 @@
 </keywords>     
     
 <keywords scheme="viaf" n="people">
-<term>Fleuriot de Langle, Admiral</term>
-<term>Hoffmann, W.</term>
-<term>Perrot</term>
-<term>Seward</term>
-
+<term ref="http://viaf.org/viaf/76357627">Fleuriot de Langle, Alphonse Jean René, 1809-1881</term>
+<term>Perrot, Augustus</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
-
+<term>Gaboon</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>W. Hoffman</persName>
-<roleName/>
-<placeName>Paris</placeName>
+<persName>Hoffmann, W.</persName>
+<roleName>Chargé d'affaires par intérim</roleName>
+<placeName>Paris (France)</placeName>
 <date when="1867-10-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
@@ -123,9 +116,10 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2021-01" who="kln">reviewed, encoded.</change>
+<change when="2019" who="sab">Edited encoding, added English translation.</change>
+<change when="2019" who="pr">Encoded.</change>
 <change when="2017" who="nn">Transcribed.</change>
-<change when="2019" who="pr">Translated and encoded header information.</change>
-<change when="2019" who="sab">Edited encoding, added English translation from teaa.fr.letter.0100 file.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -133,90 +127,67 @@
 
 <body>
 
+<div1 xml:lang="en" type="document">
+
+<pb n="20160614_100034.jpg"/>
+
+<p>Legation of the United States</p>
+
+<p>Paris 9 October 1867</p>
+
+<p>Sir, I have the honour to inform Your
+Excellency that I have received from my
+Government an answer to my communication
+enclosing a translation of a
+note from Amiral Fleuriot de Langle
+in relation to certain complaints made
+by M. Perrot the Commercial agent of the United States at Gaboon.</p>
+
+<p>M Seward has requested me to say
+to Your Excellency that whatever may
+be the state of things at Gaboon, he
+has come to the conclusion that M.
+Perrot's complaints against the proceedings
+of the French agents there are altogether 
+unsupported and desires me to Express 
+to you his regret for having
+been led in any degree to entertain
+the misapprehension which you have
+so promptly and frankly removed</p>
+
+<p>W. Hoffmann<lb/>
+Chargé d'affaires par intérim</p>
+
+</div1>
+
 <div1 xml:lang="fr" type="document">
 
 <pb n="20160614_100111.jpg"/>
 
-<ab>
-Traduction
-</ab>
+<note>Traduction</note>
 
-<ab>
-Legation des Etats-Unis
-</ab>
+<p>Legation des Etats-Unis<lb/>
+Paris 9 Octobre 1867.</p>
 
-<ab>
-Paris 9 Octobre 1867.
-</ab>
-
-<p>
-Monsieur, j'ai l'honneur d'informer V.E. <!-- 'V.E.' is an acronym for 'Votre Excellence -->
+<p>Monsieur, j'ai l'honneur d'informer V.E.
 que j'ai reçu de mon Gouverner une réponse
-à <del>ma</del> communication <del><unclear/> <unclear/> <unclear/> <unclear/></del> <add>contenant</add>
-<add>la traduction</add> d'une note de l'Amiral Fleuriot de Langle relation à
-<unclear/> <unclear/> <unclear>actuélées</unclear> par M. Perrot, l'agent
-commercial des Etats Unis au Gabon.
-</p>
+à communication contenant
+la traduction d'une note de l'Amiral Fleuriot de Langle relation à
+<unclear extent="three words"/> par M. Perrot, l'agent
+commercial des Etats Unis au Gabon.</p>
 
-<p>
-M. Seward me charge d'informer V.E.
-que quelque <del><unclear/></del> <add><unclear/> être</add> l'état des choses du Gabon, il en
+<p>M. Seward me charge d'informer V.E.
+que quelque  <unclear extent="one word"/> être l'état des choses du Gabon, il <unclear>et</unclear>
 arrivé à cette conclusion que les plaintes de M. Perrot
 contre les procédés des Agents français résidant dans ce pays
-sont complètement insupportables. M. Seward
-<unclear/> que je vous exprime son regret d'avoir
-être amené <del><unclear/> quelque <unclear/></del> à manifester les
-craintes que vous avez si <unclear/> et si
-franchement <del>déjà <unclear/></del> <unclear/>.
-</p>
+sont complètement <unclear extent="one word"/>. M. Seward
+<unclear extent="one word"/> que je vous exprime son regret d'avoir
+être amené à manifester les
+craintes que vous avez si <unclear extent="one word"/> et si
+franchement <unclear extent="one word"/>.</p>
 
-<ab>
-W. Hoffmann
-chargé d'affaires par intériur
-</ab>
-
-</div1>
-
-<div1 xml:lang="en" type="translation">
-
-<pb n="20160614_100034.jpg"/>
-
-<ab>
-Legation of the United States
-</ab>
-
-<ab>
-Paris 9 October 1867
-</ab>
-
-<p>
-Sir, I have the honour to inform your
-Excellency that I have received from my
-Governeur an answer to my communication <!-- 'communication' is hyphenated between 'commu-' and 'nication' -->
-Enclosing a translation of a
-note from Amiral Fleuriot de Langle
-in relation to certain complaints made
-by M. Perrot the Commercial agent of the United States at Gaboon.
-</p>
-
-<p>
-M Seward has requisted me to say
-to your Excellency that whatever may
-be the state of things at Gaboon, he
-has come to the conclusion that M.
-Perrot's complaints against the proceedings
-of the French agents there are altogether <!-- 'altogether' is hyphenated between 'altoge-' and 'ther' -->
-unsupported and desires me to Express <!-- 'Express' is hyphenated between 'Ex-' and 'press' -->
-to you his regret for having
-been led in any degree to entertain
-the misapprehension which you have
-to promptly and frankly removed
-W. Hoffmann <!-- Signature -->
-</p>
-
-<ab>
-Chargé d'affaires par intériur
-</ab>
+<p>W. Hoffmann<lb/>
+Chargé d'affaires par intérim</p>
 
 </div1>
 </body>

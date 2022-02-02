@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Mr. Thiébaut, charged with affairs of Gorée at Washington, to M. Deleané, Minister of Foreign Affairs, October 13, 1899</title>
+<title>Correspondence from Eugene Thiébaut to Théophile Delcassé, October 13, 1899</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
@@ -42,14 +43,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Mr. Thiébaut, charged with affairs of Gorée at Washington, to M. Deleané, Minister of Foreign Affairs</title>
+<title level="m">Correspondence from Eugene Thiébaut to Théophile Delcassé</title>
 <date when="1899-10-13">October 13, 1899</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR CAOM</repository>
-<collection>AOF III</collection>
-<idno>1</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR CAOM A-O-F</collection>
+<idno>III 1</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -63,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,44 +76,37 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Mitchell</term>
-
+<term>Mitchell, C. A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>New York</term>
-<term>Sudan</term>
-<term>Washington</term>
-
+<term>French Soudan</term>
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
+<term>Christianity</term>
 </keywords>
-
-
-
-
-
 
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>M. Thiébaut</persName>
-<roleName>Charged with affairs of Gorée at Washington </roleName>
-<placeName>Washington</placeName>
+<persName>Thiébaut, Eugene</persName>
+<roleName>Chargé d'affaires</roleName>
+<placeName>Washington (D.C.)</placeName>
 <date when="1899-10-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>M. Deleané</persName>
+<persName ref="http://viaf.org/viaf/274149294337080522009">Delcassé, Théophile, 1852-1923</persName>
 <roleName>Minister of Foreign Affairs</roleName>
 <placeName/>
 </correspAction>
@@ -121,8 +115,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
+<change when="2021-01" who="kln">reviewed, encoded.</change>
 <change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -134,22 +129,17 @@
 
 <pb n="20160614_141027.jpg"/>
 
-<ab>
-M. Thiébaut, chargé d'affaires de Goree
-à Washington,
-à M. Deleané. ministre des affaires étrangères.
-</ab>
+<p>M. Thiébaut, chargé d'affaires de France
+à Washington,<lb/>
+à M. Delcassé, ministre des affaires étrangères.</p>
 
-<ab>
-Washington, le 13 octobre 1899.
-</ab>
+<p>Washington, le 13 octobre 1899.</p>
 
-<p>
-Par sa dépêche no 117 du 26 juillet
-dernier, V.E a bien voulu me faire
+<p>Par sa dépêche no 117 du 26 juillet
+dernier, V.E. a bien voulu me faire
 connaître les raisons qui, dans l'opinion
 de M. le Ministre des Colonies, s'opposaient
-à ce que le Rév. Mitchell, appartenant
+à ce que le Rev. Mitchell, appartenant
 à la "Christian and Missionary Alliance"
 fût autorisé à pénétrer dans le Soudan
 français pour y créer des missions
@@ -158,70 +148,58 @@ de Washington de cette décision que
 j'ai expliquée en disant qu'en raison
 de la situation actuelle du Soudan
 central, le gouvernement de la
-</p>
+
 
 <pb n="20160614_141036.jpg"/>
 
-<p>
+
 République avait du renoncer, d'une
 maniére générale, à accorder à des
 missions étrangères l'autorisation
-d'y fonder des établissements.
-</p>
+d'y fonder des établissements.</p>
 
-<p>
-Le Secrétaire d'Etat s'est borné
+<p>Le Secrétaire d'Etat s'est borné
 à me répondre qu'il avait communiqué
-<supplied>cette</supplied> information à la "Christian and
-Missionary Alliance" à New-York./.
-</p>
+cette information à la "Christian and
+Missionary Alliance" à New-York.</p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
 
 <pb n="20160614_141027.jpg"/>
 
-<ab>
-Mr. Thiébaut, charged with affairs of Goree
-in Washington,
-to Mr. Deleané. minister of foreign affairs.
-</ab>
+<p>Mr. Thiébaut, Chargé d'affaires of France
+in Washington,<lb/>
+to Mr. Delcassé, Minister of Foreign Affairs.</p>
 
-<ab>
-Washington, October 13th 1899.
-</ab>
+<p>Washington, October 13, 1899.</p>
 
-<p>
-By his dispatch no 117 from last July
-26th, V.E wanted to inform
+<p>By his dispatch no 117 from last July
+26th, V.E. wanted to inform
 me of the reasons that, in the opinion
 of Mr. Minister of the Colonies, opposed
-to that which Rév. Mitchell, belonging
+to that which Rev. Mitchell, belonging
 to the "Christian and Missionary Alliance"
-authorized to penetrate the french
-Sudan to create there missions
-and schools. I announced to the Cabinet
+authorized to penetrate the French
+Soudan to create missions
+and schools there. I announced to the Cabinet
 of Washington of this decisions that
 I explained in saying that on account
 of the current situation of Central
-Sudan, the government of the
-</p>
+Soudan, the government of the
 
 <pb n="20160614_141036.jpg"/>
 
-<p>
 Republic had had to renounce, of a
 general manner, to accord to the
 foreign missions the authorization
-to found establishments there.
-</p>
+to found establishments there.</p>
 
-<p>
-The Secretary of State restricted himself
+<p>The Secretary of State restricted himself
 to respond to me that he had communicated
-<supplied>this</supplied> information to the "Christian and
-Missionary Alliance" in New-York./.
-</p>
+this information to the "Christian and
+Missionary Alliance" in New York.</p>
 
 </div1>
 </body>

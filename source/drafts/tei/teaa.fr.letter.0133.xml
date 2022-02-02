@@ -10,9 +10,10 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -48,9 +49,9 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR CAOM</repository>
-<collection>Generalites 91</collection>
-<idno>869</idno>
+<repository>Centre des Archives d'Outre-Mer</repository>
+<collection>Généralités</collection>
+<idno>Carton 91, Dossier 869</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -81,26 +82,20 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Washington</term>
-
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 <correspDesc>
@@ -120,9 +115,10 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2021-01" who="kln">reviewed, encoded.</change>
 <change when="2019" who="sab">Edited encoding.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -134,96 +130,64 @@
 
 <pb n="20160615_103024.jpg"/>
 
-<ab>
-A.S. de la situation des nègres aux Etats Unis.
-</ab>
+<note>A.S. de la situation des nègres aux Etats Unis.</note>
 
-<ab>
-Paris le 10 DEC. 1899 <!-- '10 DEC. 1899' is stamped in blue (?) ink -->
+<note>Confidentielle</note>
+
+<p>Paris le <unclear>10</unclear> DEC. 1899<lb/> 
 Monsieur le Gouverneur de la
-Martinique
-Guadeloupe
-</ab>
+Martinique<lb/>
+Guadeloupe</p>
 
-<p>
-J'ai l'honneur de vous
-adresser ci-joint <add>copie</add> un rapport adressé par
+<p>J'ai l'honneur de vous
+adresser ci-joint un rapport adressé par
 l'ambassedeur de France à Washington à
 M. le Ministre des Aff. Etr. au sujet de la
-situation des nègres aux Etats-Unis.
-</p>
+situation des nègres aux Etats-Unis.</p>
 
-<p>
-Bien que ce rapport ait en conclusion
-confidentiel, <del>je ofrire <unclear/> de</del> <add><unclear/></add> <unclear/> au
-<unclear/>à faire état des renseignements
-qu'il contient, par voie <unclear/>
-si des <unclear/> d'attention vers les
+<p>Bien que ce rapport ait en <unclear extent="one word"/>
+confidentiel, <unclear extent="one word"/> au
+<unclear extent="one word"/> à faire état des renseignements
+qu'il contient, par voie officieuse 
+si des <unclear extent="one word"/> d'attention vers les
 Etats-Unis venaient à se manifester
-dans la population de <unclear>couleur</unclear> de la colonie
-que vous <unclear>administrez</unclear>.
-<unclear>R.c.l.p.l.</unclear> <!-- Signature of Initials -->
-</p>
+dans la population de <unclear>couleur</unclear> <unclear>habitant</unclear> la colonie
+que vous <unclear>administrez</unclear>.</p>
 
-<ab>
-Confidentielle
-</ab>
-
-<note>
-<unclear/> dont <unclear>après</unclear>
-</note>
-
-<note>
-l
-</note>
+<p><unclear>R.c.l.p.l.</unclear></p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
 
 <pb n="20160615_103024.jpg"/>
 
-<ab>
-A.S. of the situation of the negroes in the United States.
-</ab>
+<note>A.S. of the situation of the negroes in the United States.</note>
 
-<ab>
-Paris DEC. 10th 1899 <!-- '10 DEC. 1899' is stamped in blue (?) ink -->
-Mister Governor of
-Martinique
-Guadeloupe
-</ab>
+<note>Confidential</note>
 
-<p>
-I have the honor to address
-to you enclosed <add>copy</add> of a report addressed by
+<p>Paris, December <unclear>10</unclear>, 1899<lb/> 
+Mr. Governor of
+Martinique<lb/>
+Guadeloupe</p>
+
+<p>I have the honor to address
+to you enclosed a report addressed by
 the ambassador of France in Washington to
 Mr. Minister of Foreign Affairs on the subject of the
-situation of the negroes in the United States.
-</p>
+situation of the negroes in the United States.</p>
 
-<p>
-Although this report is in conclusion
-confidential, <del>I offer <unclear/> of</del> <add><unclear/></add> <unclear/> to the
-<unclear/> to mention the information
-that it contains, by view <unclear/>
-if the <unclear/> of attention towards the
+<p>Although this report has <unclear extent="one word"/>
+confidential, <unclear extent="one word"/> to the
+<unclear extent="one word"/> to mention the information
+that it contains, unofficially
+if the <unclear extent="one word"/> of attention towards the
 United States would come to manifest itself
-in the population of <unclear>coulor</unclear> of the colony
-that you <unclear>administer</unclear>.
-<unclear>R.c.l.p.l.</unclear> <!-- Signature of Initials -->
-</p>
+in the population of <unclear>color</unclear> 
+inhabiting the colony
+that you <unclear>administer</unclear>.</p>
 
-<ab>
-Confidentielle
-</ab>
-
-<note>
-<unclear/> dont <unclear>après</unclear>
-</note>
-
-<note>
-l
-</note>
+<p><unclear>R.c.l.p.l.</unclear></p>
 
 </div1>
 </body>

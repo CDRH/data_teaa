@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch to Admiral Rigoult de Genouilly, Minister of the Navy and Colonies, April 13, 1867</title>
+<title>Correspondence from Lionel de Moustier to Charles Rigault de Genouilly, April 13, 1867</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,14 +44,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter to Admiral Rigoult de Genouilly, Minister of the Navy and Colonies</title>
+<title level="m">Correspondence from Lionel de Moustier to Charles Rigault de Genouilly</title>
 <date when="1867-04-13">April 13, 1867</date>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Archives Nationales d'Outre-Mer</repository>
 <collection>Afrique VI</collection>
-<idno>14d</idno>
+<idno>14</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -75,52 +76,37 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Admiral Rigoult de Genouilly</term>
-<term>General Dix</term>
-<term>Nassou</term>
-<term>Perrot</term>
-
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Coriseo</term>
-<term>Gabon</term>
-<term>Paris</term>
-<term>Portugal</term>
-<term>United States</term>
-<term>Washington</term>
-
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName/>
-<roleName/>
+<persName ref="http://viaf.org/viaf/246926353">Moustier, Léonel de 1817-1869</persName>
+<roleName>Minister of Foreign Affairs</roleName>
 <placeName>Paris (France)</placeName>
 <date when="1867-04-13"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Admiral Rigoult de Genouilly</persName>
-<roleName>Minister of the Navy and Colonies</roleName>
+<persName ref="http://viaf.org/viaf/107024773">Rigault de Genouilly, Charles, 1807-1873</persName>
+<roleName>Minister of the Navy and the Colonies</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
@@ -128,9 +114,10 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2021-01" who="kln">reviewed, encoded.</change>
 <change when="2018" who="sab">Encoded.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -142,111 +129,91 @@
 
 <pb n="20160614_100309.jpg"/>
 
-<ab>
+<ab type="letterhead">
 Ministère
 des
 Affaires Etrangères
 </ab>
 
-<ab>
+<ab type="letterhead">
 DIRECTION POLITIQUE
 </ab>
 
-<ab>
-Paris, le 13 Avril      1867
-</ab>
+<p>Paris, le 13 Avril 1867</p>
 
-<p>
-Monsieur l'Amiral et cher Collègue,
-à la suite de rapports adressés au Gouvernement <!-- 'Gouvernement' is hyphenated between 'Gou-' and '-vernement' -->
+<p>Monsieur l'Amiral et cher Collègue,
+à la suite de rapports adressés au Gouvernement 
 de Washington par M. Nassou,
-missionnaire américain à Coriseo et par
+missionnaire américain à Corisco et par
 M. Perrot, agent commercial au Gabon,
-M le Ministre des Etats Unis à Paris
+M. le Ministre des Etats Unis à Paris
 a été chargé de porter à ma connaissance
 différents faits qui se seraient produits
 dans ces parages. J'ai l'honneur de vous
 envoyer ci-joint, une traduction de la
-dépèche que M. le Général Dix m'a
+dépêche que M. le Général Dix m'a
 adressée à ce sujet. Il y est question
 en premier lieu, comme Votre Excellence
 le verra, d'opération de traite qui
-s'effectueraient sur des territoires dépendant <!-- 'dépendant' is hyphenated between 'dépen' and '-dant' -->
-</p>
+s'effectueraient sur des territoires dépendant
 
-<ab>
-Son Excellence
-Monsieur l'Amiral Rigault de Genouilly
-Ministre de la Marine et des Colonies
-</ab>
-
-<note>
-Rép. le 2- avril 1867.
-</note>
-
-<note>
-N. 221
-</note>
-
-<note>
-Col
-98
-V
-</note>
+<fw type="address">Son Excellence<lb/>
+Monsieur l'Amiral Rigault de Genouilly<lb/>
+Ministre de la Marine et des Colonies</fw>
 
 <pb n="20160614_100319.jpg"/>
 
-<p>
 de notre établissement du Gabon.
-Le représentant du Cabinet de Washington <!-- 'Washington' is hyphenated between 'Was-' and '-hington' -->
+Le représentant du Cabinet de Washington 
 signale, en outre, des actes
 de pillage dont des citoyens américains
 auraient eu à souffrir, ainsi qu'une
-tentative récente de meurtre, et il insiste <!-- 'insiste' is hyphenated between 'in-' and 'siste' -->
+tentative récente de meurtre, et il insiste 
 sur ce fait, que les plaintes que
 ces crimes ont motivées n'auraient pas
 été accueillies, comme elles le méritaient,
-par nos autorités locales.
-</p>
+par nos autorités locales.</p>
 
-<p>
-Il y a lieu de supposer que les
-opérations de traite qui nous sont dénoncées <!-- 'dénoncées' is hyphenated between 'dé-' and '-noncées' -->
+<p>Il y a lieu de supposer que les
+opérations de traite qui nous sont dénoncées
 sont précisément celles dont
 Votre Excellence m'a Elle même entretenu
 par sa lettre du 19 du mois dernier et
 au sujet des quelles j'ai eu à adresser
-des observations au Gouvernement Portugais. <!-- 'Portugais' is hyphenated between 'Port-' and '-gais' -->
+des observations au Gouvernement Portugais. 
 Il me serait donc facile à cet
-</p>
 
 <pb n="20160614_100327.jpg"/>
 
-<p>
 égard de dégager la responsabilité de nos
 autorités du Gabon, puisque c'est en
 dépit de leurs efforts, que le trafic des
 esclaves subsiste encore dans ces parages
 et que, loin d'y étre indifférentes, elles
-ne cessent, au contraire, de se préoccuper <!-- 'préoccuper' is hyphenated between 'préoccu-' and '-per' -->
-des mesures nécessaures pour y
-mettre un terme.
-</p>
+ne cessent, au contraire, de se préoccuper 
+des mesures nécessaires pour y
+mettre un terme.</p>
 
-<p>
-Quant aux autres griefs articulés
+<p>Quant aux autres griefs articulés
 par M. le Ministre des Etats Unis, ils
-se recommandent par leur gravité même, <!-- 'même' is hyphenated between 'mê-' and '-me' -->
+se recommandent par leur gravité même,
 à notre plus sérieux examen, et
-je serai obligé à Votre Excellence de vouloir <!-- 'vouloir' is hyphenated between 'vou-' and '-loir' -->
+je serai obligé à Votre Excellence de vouloir 
 bien me faire part du résultat
 de l'enquête qu'Elle jugera, sans doute,
-à propos de prescire à ce régard, afin
+à propos de prescire à cet égard, afin
 de me mettre en mesure de répondre
 à la communication de M. le Général
-Dix./.
-Agréez,
-</p>
+Dix.</p>
+
+<p>Agréez,
+
+<pb n="20160614_100411.jpg"/>
+
+Monsieur l'Amiral et cher Collègue,
+les assurances de ma haute considération.</p>
+
+<p>Moustier</p>
 
 </div1>
 
@@ -254,111 +221,91 @@ Agréez,
 
 <pb n="20160614_100309.jpg"/>
 
-<ab>
+<ab type="letterhead">
 Minister
 of
 Foreign Affairs
 </ab>
 
-<ab>
+<ab type="letterhead">
 POLITCAL DIRECTION
 </ab>
 
-<ab>
-Paris, April 13th      1867
-</ab>
+<p>Paris, April 13, 1867</p>
 
-<p>
-Mister Admiral and dear colleague,
-following the reports addressed to the Government <!-- 'Gouvernement' is hyphenated between 'Gou-' and '-vernement' -->
+<p>Mr. Admiral and dear colleague,
+following the reports addressed to the Government 
 of Washington by Mr. Nassou,
-american missionary in Coriseo and by
+American missionary in Corisco and by
 Mr. Perrot, commercial agent in Gabon,
-Mr Minister of the United States in Paris
+Mr. Minister of the United States in Paris
 was charged with bringing to my knowledge
 different facts that would be produced
 in this area. I have the honor of
 sending to you enclosed, a translation of the
-dispatch that Mr. General Ten 
+dispatch that Mr. General Dix 
 addressed to me on this subject. There is question
 in the first place, as Your Excellence
 will see, of slave trade that
-will be carried out on the dependent territories <!-- 'dépendant' is hyphenated between 'dépen' and '-dant' -->
-</p>
+will be carried out on the dependent territories 
 
-<ab>
-His Excellence
-Mister Admiral Rigault de Genouilly
-Minister of the Navy and the Colonies
-</ab>
-
-<note>
-Rép. April 2nd 1867.
-</note>
-
-<note>
-N. 221
-</note>
-
-<note>
-Col
-98
-V
-</note>
+<fw type="address">His Excellence<lb/>
+Mr. Admiral Rigault de Genouilly<lb/>
+Minister of the Navy and the Colonies</fw>
 
 <pb n="20160614_100319.jpg"/>
 
-<p>
 of our establishment of Gabon.
-The representative of Cabinet of Washington <!-- 'Washington' is hyphenated between 'Was-' and '-hington' -->
+The representative of Cabinet of Washington 
 signals, furthermore, the acts
-of pillage that the american citizens
+of pillage that the American citizens
 would have had to suffer, just as a
-recent attempt of murder, and it insists <!-- 'insiste' is hyphenated between 'in-' and 'siste' -->
+recent attempt of murder, and it insists 
 on this fact, that the complaints that
 these crimes motivated would not have
 been welcomed, as they merited,
-by our local authorities.
-</p>
+by our local authorities.</p>
 
-<p>
-There is place to suppose that the
-slave trade that are denounced to us <!-- 'dénoncées' is hyphenated between 'dé-' and '-noncées' -->
+<p>There is place to suppose that the
+slave trade that are denounced to us 
 are precisely those that
 Your Excellence discussed with me
 by its letter from the 19th of last month and
 on the subject of which I had to address
-the observations to the Portugese Government. <!-- 'Portugais' is hyphenated between 'Port-' and '-gais' -->
-It would thus be easy for me in ths
-</p>
+the observations to the Portuguese Government.
+It would thus be easy for me in this
 
 <pb n="20160614_100327.jpg"/>
 
-<p>
 regard to remove the responsibility of our
 authorities of Gabon, since it is 
 despite their efforts, that the trading of
 slaves still subsists in this area
 and that, far from being indifferent, they
-are not ceasing, contrarily, to concern themselves <!-- 'préoccuper' is hyphenated between 'préoccu-' and '-per' -->
+are not ceasing, contrarily, to concern themselves 
 with the necessary measures to put
-an end to it.
-</p>
+an end to it.</p>
 
-<p>
-As for the other griefs articulated
+<p>As for the other griefs articulated
 by Mr. Minister of the United States, they
-are remarkable for their gravity itself, <!-- 'même' is hyphenated between 'mê-' and '-me' -->
-to our most serious axamination, and
-I will be obliged to Your Excellence to <!-- 'vouloir' is hyphenated between 'vou-' and '-loir' -->
+are remarkable for their gravity itself, 
+to our most serious examination, and
+I will be obliged to Your Excellence to 
 make me part of the result
 of the investigation that she will assess, without doubt,
 concerning to prescribe in this regard, in order
 to put me in measure of responding
-to the communication of Mr. Genreal
-Ten./.
-Accept,
-</p>
+to the communication of Mr. General
+Dix.</p>
+
+<p>Accept,
+
+<pb n="20160614_100411.jpg"/>
+
+Admiral and dear Colleague,
+the assurances of my highest consideration.</p>
+
+<p>Moustier</p>
 
 </div1>
 </body>

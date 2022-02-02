@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Debacey to the Minister of Colonies, May 23, 1899</title>
+<title>Correspondence from Théophile Delcassé to Florent Guillain, May 23, 1899</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 <name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
@@ -43,14 +44,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Debacey to the Minister of Colonies</title>
-<date when="1899-05-23">August 14, 1889</date>
+<title level="m">Correspondence from Théophile Delcassé to Florent Guillain</title>
+<date when="1899-05-23">May 23, 1899</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR CAOM</repository>
-<collection>AOF III</collection>
-<idno>1</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR CAOM A-O-F</collection>
+<idno>III 1</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -63,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Exploration</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,53 +76,40 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Debacey</term>
-<term>General Porter</term>
-<term>Governor General of the Coast of West Africa</term>
-<term>Minister of Colonies</term>
-<term>United States Ambassador</term>
-
+<term ref="http://viaf.org/viaf/77116317">Porter, Horace, 1837-1921</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Coast of Africa</term>
-<term>Columbia University</term>
-<term>Senegal</term>
-<term>St. Louis</term>
-<term>United States</term>
-
+<term>Saint-Louis (Senegal)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Debacey</persName>
-<roleName/>
+<persName ref="http://viaf.org/viaf/274149294337080522009">Delcassé, Théophile, 1852-1923</persName>
+<roleName>Minister of Foreign Affairs</roleName>
 <placeName>Paris (France)</placeName>
 <date when="1899-05-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName>Minister of Colonies</roleName>
+<persName ref="http://viaf.org/viaf/205135948">Guillain, Florent 1844-1915</persName>
+<roleName>Minister of the Colonies</roleName>
 <placeName/>
+<date when="1899-05-29"/>
 </correspAction>
 </correspDesc>
 
@@ -142,119 +130,81 @@
 
 <pb n="20160614_141129.jpg"/>
 
-<ab>
+<ab type="letterhead">
 Ministère
 des Affaires étrangères
 </ab>
 
-<ab>
+<ab type="letterhead">
 Direction des Consulats
 et des
 Affaires Commerciales
 </ab>
 
-<ab>
+<ab type="letterhead">
 Sous Direction
 des Affaires Consulaires
 </ab>
 
-<ab>
-Demand d'une
+<ab>Demande d'une
 lettre de recommandation
-<supplied>pour</supplied> les mentions d'une
+pour les mentions d'une
 mission scientifique
-américaine./.
-</ab>
+américaine.</ab>
 
-<ab>
+<ab type="letterhead">
 RÉPUBLIQUE FRANÇAISE
 </ab>
 
-<ab>
-Paris, le 23 Mai    1899
-</ab>
+<p>Paris, le 23 Mai 1899</p>
 
-<ab>
-MINISTÈRE DES COLONIES <!-- Stamp -->
+<p>Monsieur le Ministre et cher Collègue,</p>
 
-BUREAU
-DE
-L'AFRIQUE
+<p>La Columbia University, la
+<unclear extent="one word"/> établissement d'enseignement <unclear extent="one word"/>
+<unclear extent="one word"/> important des Etats-Unis;
+<unclear extent="one word"/> une <unclear extent="one word"/> scientifique
+ayant par objet de <unclear extent="two words"/> à <unclear extent="one word"/>
+études zoologiques il <unclear extent="one word"/> des côtes
+occidentales d'Afrique.</p>
 
-Direction des Affaires d'Afrique
-</ab>
-
-<p>
-Monsieur le Ministre et cher Collègue,
-
-La Columbia University, la
-<unclear/> établissement d'enseignement <unclear/>
-<unclear/> important des Etats-Unis;
-<unclear/> une <unclear/> scientifique
-ayant par objet de <unclear/> <unclear/> à <unclear/>
-études zoologiques il <unclear/> des côtes
-occidentales d'Afrique.
-</p>
-
-<ab>
-Monsieur le Ministre des Colonies.
-</ab>
-
-<note>
-1
-</note>
-
-<note>
-<unclear/>
-</note>
-
-<note>
-pre
-</note>
+<fw type="address">Monsieur le Ministre des Colonies.</fw>
 
 <pb n="20160614_141148.jpg"/>
 
-<p>
-En me communiquant cette
+<p>En me communiquant cette
 information, M. l'Ambassadeur des
-Etats-Unis a <unclear/> me fait <unclear/>
+Etats-Unis a <unclear extent="one word"/> me fait <unclear extent="one word"/>
 que cette mission américaine doit
-<unclear/> à St. Louis du Sénegal et
-il M'<unclear/> le désir d'obtenir
+<unclear extent="one word"/> à St. Louis du Sénegal et
+il <unclear extent="one word"/> le désir d'obtenir
 une lettre recommandant à M. le
-Gouverneur Général de la Côté occidentale <!-- 'occidentale' is hyphenated between 'occi-' and 'dentale' -->
+Gouverneur Général de la Côté occidentale
 d'Afrique à St Louis les
 membres de cette expédition, qui doivent
-partir vers la <unclear/> de mois de mai courant.
-</p>
+partir vers la <unclear extent="one word"/> de mois de mai courant.</p>
 
-<p>
-Je vous serai obligé de
+<p>Je vous serai obligé de
 vouloir bien me mettre en mesure de
 satisfaire à la demande de M. le Général
 Porter, en m'adressant, le plus
-<unclear/> possible, la lettre de
+promptement possible, la lettre de
 recommandation dont il s'agit.
-Le mission americaine  quittant <unclear>très</unclear>
+Le mission americaine quittant <unclear>très</unclear>
 prochainement les Etats-Unis,
-j'attacherais du <unclear/> a pouvoir
+j'attacherais du <unclear extent="one word"/> a pouvoir
 répondre, dans le plus court délai,
 a M. l'ambassadeur des Etats-Unis
-</p>
 
 <pb n="20160614_141211.jpg"/>
 
-<p>
-à Paris./.
-</p>
+à Paris.</p>
 
-<p>
-Agréez, Monsieur le Ministre
-et cher Collègue, les <unclear/> d'une
-haute considération.
+<p>Agréez, Monsieur le Ministre
+et cher Collègue, les <unclear extent="one word"/> d'une
+haute considération.</p>
 
-<unclear>Debacey</unclear> <!-- Signature -->
-</p>
+<p>Delcassé</p>
 
 </div1>
 
@@ -262,119 +212,81 @@ haute considération.
 
 <pb n="20160614_141129.jpg"/>
 
-<ab>
+<ab type="letterhead">
 Minister
 of Foreign Affairs
 </ab>
 
-<ab>
-Direction of the Consulats
+<ab type="letterhead">
+Direction of the Consulates
 and
 Commercial Affairs
 </ab>
 
-<ab>
+<ab type="letterhead">
 Under Direction
 of Consular Affairs
 </ab>
 
-<ab>
-Demand of a
+<ab>Demand of a
 letter of recommendation
-<supplied>for</supplied> the mentions of an
-american scientific
-mission./.
-</ab>
+for the mentions of an
+American scientific
+mission.</ab>
 
-<ab>
+<ab type="letterhead">
 FRENCH REPUBLIC
 </ab>
 
-<ab>
-Paris, May 23rd    1899
-</ab>
+<p>Paris, May 23, 1899</p>
 
-<ab>
-MINISTER OF THE COLONIES <!-- Stamp -->
+<p>Mister Minister and dear colleague,</p>
 
-OFFICE
-OF
-AFRICA
+<p>Columbia University, the
+<unclear extent="one word"/> teaching establishment <unclear extent="one word"/>
+<unclear extent="one word"/> important of the United States;
+<unclear extent="one word"/> a <unclear extent="one word"/> scientific
+having by object of <unclear extent="two words"/> to <unclear extent="one word"/>
+zoological studies it <unclear extent="one word"/> of the coasts of
+West Africa.</p>
 
-Direction of the Affairs of Africa
-</ab>
-
-<p>
-Mister Minister and dear colleage,
-
-Columbia University, the
-<unclear/> teaching establishment <unclear/>
-<unclear/> important of the United States;
-<unclear/> a <unclear/> scientific
-having by object of <unclear/> <unclear/> to <unclear/>
-zoological studies it <unclear/> of the coasts of
-West Africa.
-</p>
-
-<ab>
-Mister Minister of the Colonies.
-</ab>
-
-<note>
-1
-</note>
-
-<note>
-<unclear/>
-</note>
-
-<note>
-pre
-</note>
+<fw type="address">Mister Minister of the Colonies.</fw>
 
 <pb n="20160614_141148.jpg"/>
 
-<p>
-In communicating to me this
+<p>In communicating to me this
 information, Mr. Ambassador of the
-United States <unclear/> make me <unclear/>
-that this american mission must
-<unclear/> to St. Louis from Senegal and
-he <unclear/> me the desire to obtain
+United States <unclear extent="one word"/> make me <unclear extent="one word"/>
+that this American mission must
+<unclear extent="one word"/> to St. Louis from Senegal and
+he <unclear extent="one word"/> me the desire to obtain
 a letter recommending to Mr.
-General Governor of the West Coast <!-- 'occidentale' is hyphenated between 'occi-' and 'dentale' -->
+General Governor of the West Coast 
 of Africa in St Louis the
 members of this expedition, who must
-leave towards the <unclear/> of the current month of May.
-</p>
+leave towards the <unclear extent="one word"/> of the current month of May.</p>
 
-<p>
-I will be obliged to you to
+<p>I will be obliged to you to
 put me in measure of
 satisfying the demand of Mr. General
-Porter, in addressing to me, the most
-<unclear/> possible, the letter of
+Porter, in addressing to me, as soon
+as possible, the letter of
 recommendation of which it is question.
-The american mission leaving <unclear>very</unclear>
+The American mission leaving <unclear>very</unclear>
 shortly the United States,
-I would attach <unclear/> to be able
+I would attach <unclear extent="one word"/> to be able
 to respond, in the shortest delay,
-to Mr. ambassador of the United States
-</p>
+to the ambassador of the United States
 
 <pb n="20160614_141211.jpg"/>
 
-<p>
-in Paris./.
-</p>
+in Paris.</p>
 
-<p>
-Accept, Mister Minister
-and dear colleague, the <unclear/> of a
-high consideration.
+<p>Accept, Mr. Minister
+and dear colleague, the <unclear extent="one word"/> of a
+high consideration.</p>
 
-<unclear>Debacey</unclear> <!-- Signature -->
-</p>
+<p>Delcassé</p>
 
 </div1>
 </body>

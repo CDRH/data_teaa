@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Nanube to Mr. Decrais, Minister of the Colonies, October 26, 1899</title>
+<title>Correspondence from ??? to Albert Decrais, October 26, 1899</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
-<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
-<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 <name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
 </titleStmt>
 
@@ -43,14 +44,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Nanube to Mr. Decrais, Minister of the Colonies</title>
+<title level="m">Correspondence from ??? to Albert Decrais</title>
 <date when="1899-10-26">October 26, 1899</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR CAOM</repository>
-<collection>AOF III</collection>
-<idno>1</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR CAOM A-O-F</collection>
+<idno>III 1</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -63,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,49 +76,39 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Ambassador</term>
-<term>Mr. J Hay</term>
-<term>Naunbe</term>
-<term>Reverend Mitchell</term>
-<term>Secretary of State for Foreign Affaires</term>
-
+<term ref="http://viaf.org/viaf/76456718">Hay, John, 1838-1905</term>
+<term>Mitchell, C. A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>French Soudan</term>
-<term>Paris</term>
-<term>Washington</term>
-
+<term>Washington (D.C.)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
+<term>Christianity</term>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Naunbe</persName>
+<persName/>
 <roleName/>
 <placeName>Paris (France)</placeName>
 <date when="1899-10-26"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Mr. Decrais</persName>
+<persName ref="http://viaf.org/viaf/143655">Decrais, Albert 1838-1915</persName>
 <roleName>Minister of the Colonies</roleName>
 <placeName/>
 </correspAction>
@@ -126,9 +117,10 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2021-01" who="kln">reviewed, encoded.</change>
 <change when="2018" who="sab">Encoded.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -140,108 +132,62 @@
 
 <pb n="20160614_140958.jpg"/>
 
-<ab>
+<ab type="letterhead">
 Ministère
 des
 Affaires étrangères
 </ab>
 
-<ab>
+<ab type="letterhead">
 Direction
 des
 Affaires Politiques
 </ab>
 
-<ab>
+<ab type="letterhead">
 Sous Direction
 du Nord
 </ab>
 
-<ab>
-Mission américaine au Soudan./.
-</ab>
+<ab>Mission américaine au Soudan.</ab>
 
-<ab>
-RÉPUBLIQUE FRANÇAISE
-</ab>
+<ab type="letterhead">RÉPUBLIQUE FRANÇAISE</ab>
 
-<ab>
-Paris, le 26 Octobre        1899
-</ab>
+<p>Paris, le 26 Octobre 1899</p>
 
-<ab>
-COLONIES
-1ère Dom 1er Bau
-2   00  1899
-96  17 - AE
-</ab>
+<p>Monsieur le Ministre et
+cher Collègue,</p>
 
-<p>
-Monsieur le Ministre et
-cher Collègue,
-J'avais mérité en son temps
+<p>J'avais invité en son temps
 notre Ambassadeur à Washington à
 faire connaître au Secrétaire d'Etat
 pour les Affaires Etrangères les
 raisons pour lesquelles votre Département
 n'avait pas cru pouvoir accorder
 l'autorisation sollicitée par le
-</p>
 
-<ab>
-Monsieur Decrais,
+<fw type="address">
+Monsieur Decrais,<lb/>
 Ministre des Colonies.
-</ab>
-
-<note>
-1'D
-29P3
-</note>
-
-<note>
-peu
-</note>
-
-<note>
-7 7 8
-</note>
-
-<note>
-M. Viennu
-</note>
-
-<note>
-l
-</note>
+</fw>
 
 <pb n="20160614_141020.jpg"/>
 
-<p>
-Révérend Mitchell, de la "Christian and
+Révérend Mitchell de la "Christian and
 Missionary Alliance" de pénétrer dans
 le Soudan français pour y créer des
-Missions et des écoles.
-</p>
+Missions et des écoles.</p>
 
-<p>
-Notre chargé d'affaires par une
+<p>Notre chargé d'affaires par une
 dépêche ci-jointe en copie, m'a rendu
 compte de la démarche qu'il a faite
-à ce sujet auprès de M. J. Hay./.
-</p>
+à ce sujet auprès de M. J. Hay.</p>
 
-<p>
-Agréez, Monsieur le Ministre
+<p>Agréez, Monsieur le Ministre
 et cher Collègue, les assurances de
-ma haute considération.
+ma haute considération.</p>
 
-Naunbe <!-- Signature -->
-</p>
-
-<ab>
-Pour le Ministre et par autorisation
-LE CONSEILLER D'ETAT. DIRECTEUR
-</ab>
+<p><unclear extent="one signature"/></p>
 
 </div1>
 
@@ -266,91 +212,46 @@ Under Direction
 of the North
 </ab>
 
-<ab>
-American Mission in Sudan./.
-</ab>
+<ab>American Mission in Sudan.</ab>
 
-<ab>
-FRENCH REPUBLIC
-</ab>
+<ab type="letterhead">FRENCH REPUBLIC</ab>
 
-<ab>
-Paris, October 26th        1899
-</ab>
+<p>Paris, October 26, 1899</p>
 
-<ab>
-COLONIES
-1st Dom 1st Bau
-2   00  1899
-96  17 - AE
-</ab>
+<p>Mr. Minister and
+dear colleague,</p>
 
-<p>
-Mister Minister and
-dear colleague,
-I had merited in his time
+<p>I had invited in his time
 our Ambassador in Washington to
 inform the Secretary of State
 for Foreign Affairs the
 reasons for which your Department
 had not believed to be able to accord
 the authorization solicited by the
-</p>
 
-<ab>
-Mister Decrais,
+<fw type="address">
+Mr. Decrais,<lb/>
 Minister of the Colonies.
-</ab>
-
-<note>
-1'D
-29P3
-</note>
-
-<note>
-peu
-</note>
-
-<note>
-7 7 8
-</note>
-
-<note>
-Mr. Viennu
-</note>
-
-<note>
-l
-</note>
+</fw>
 
 <pb n="20160614_141020.jpg"/>
 
-<p>
-Révérend Mitchell, of the "Christian and
-Missionary Alliance" to penetrate
-french Sudan to create there
-Missions and schools.
-</p>
 
-<p>
-Our charge of affairs by a
+Reverend Mitchell, of the "Christian and
+Missionary Alliance" to penetrate
+French Soudan to create 
+Missions and schools there.</p>
+
+<p>Our charge of affairs by a
 dispatch enclosed in copy, gave me a
 report on the process that he made
-on this subject with Mr. J. Hay./.
-</p>
+on this subject with Mr. J. Hay.</p>
 
-<p>
-Accept, Mister Minister
+<p>Accept, Mr. Minister
 and dear colleague, the assurances of
-my highest consideration.
+my highest consideration.</p>
 
-Maundu <!-- Signature -->
-</p>
-
-<ab>
-For the Minister and by authorization
-THE COUNSELLOR OF STATE. DIRECTOR
-</ab>
+<p><unclear extent="one signature"/></p>
 
 </div1>
 </body>

@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch to a Minister, May 31, 1899</title>
+<title>Correspondence from Florent Guillain to Théophile Delcassé, May 31, 1899</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -43,14 +44,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter to a Minister</title>
+<title level="m">Correspondence from Florent Guillain to Théophile Delcassé</title>
 <date when="1899-05-31">May 31, 1899</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR CAOM</repository>
-<collection>AOF III</collection>
-<idno>1</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR CAOM A-O-F</collection>
+<idno>III 1</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -64,7 +65,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Exploration</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -77,42 +78,36 @@
     
 <keywords scheme="viaf" n="people">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Colombia University of the United States</term>
-
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName/>
-<roleName/>
+<persName ref="http://viaf.org/viaf/205135948">Guillain, Florent 1844-1915</persName>
+<roleName>Minister of the Colonies</roleName>
 <placeName/>
 <date when="1899-05-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName>Minister</roleName>
+<persName ref="http://viaf.org/viaf/274149294337080522009">Delcassé, Théophile, 1852-1923</persName>
+<roleName>Minister of Foreign Affairs</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
@@ -120,9 +115,10 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2021-01" who="kln">reviewed, encoded.</change>
 <change when="2019" who="sab">Edited encoding.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -134,120 +130,58 @@
 
 <pb n="20160614_141113.jpg"/>
 
-<ab>
-Envoi d'une
-<supplied>lettre</supplied> de recommandation
-parvenu de la mission
-de la Columbia University
-</ab>
+<ab>Envoi d'une
+lettre de recommandation
+<unclear>parvenu</unclear> de la mission
+de la Columbia University</ab>
 
-<ab>
-31/172 Mai 1899
-</ab>
+<p>Ministre des affaires Etrangères</p>
 
-<ab>
-Ministre des affaires Etrangères
-</ab>
-
-<p>
-Monsieur le Ministre et cher collègue,
-En reponse ci <unclear/> communication de
-23 Mai, j'ai <unclear/> de vous adresser
+<p>Monsieur le Ministre et cher collègue,
+En reponse ci votre communication de
+23 Mai, j'ai <unclear extent="one word"/> de vous adresser
 ci-inclus une lettre de recommandation
-ci M le Gouvernance General de l'Afrique
+ci Mr le Gouverneur General de l'Afrique
 Occidentale, en faveur de la mission
-scientifique <unclear>production</unclear> par la
+scientifique <unclear extent="one word"/> par la
 Columbia University des Etats Unis.
 </p>
 
-<ab>
-Agreez Monsieur le Ministre et cher
+<p>Agreez Monsieur le Ministre et cher
 Collègue les assurances de ma haute
-consideration.
-</ab>
+consideration.</p>
 
-<ab>
-Le M.
-Eullan
-</ab>
-
-<ab>
-.Ek. h 168.
-26./.99
-Cl.
-</ab>
-
-<note>
-2
-</note>
-
-<note>
-M
-</note>
-
-<note>
-8
-</note>
+<p>Le M.<lb/>
+Guillain</p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
 
 <pb n="20160614_141113.jpg"/>
 
-<ab>
-Sent from a
-<supplied>letter</supplied> of recommendation
+<ab>Sending a
+letter of recommendation
 transmitted from the mission
-of Columbia University
-</ab>
+of Columbia University</ab>
 
-<ab>
-May 31st/172 1899
-</ab>
+<p>Minister of Foreign Affairs</p>
 
-<ab>
-Minister of Foreign Affairs
-</ab>
-
-<p>
-Mister Minister and dear colleague,
-In response here <unclear/> communication from
-May 23rd, I <unclear/> to address to you
+<p>Mr. Minister and dear colleague,
+In response to your communication from
+May 23rd, I <unclear extent="one word"/> to address to you
 enclosed a letter of recommendation
 here Mr. General Governor of West
 Africa, in favor of the scientific
-mission <unclear>production</unclear> by
-Columbia University of the United States.
-</p>
+mission <unclear extent="one word"/> by
+Columbia University of the United States.</p>
 
-<ab>
-Accept Mister Minister and dear
+<p>Accept Mr. Minister and dear
 colleague the assurances of my highest
-consideration.
-</ab>
+consideration.</p>
 
-<ab>
-Le M.
-Eullan
-</ab>
-
-<ab>
-.Ek. h 168.
-26./.99
-Cl.
-</ab>
-
-<note>
-2
-</note>
-
-<note>
-M
-</note>
-
-<note>
-8
-</note>
+<p>Le M.<lb/>
+Guillain</p>
 
 </div1>
 </body>

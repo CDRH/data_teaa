@@ -10,9 +10,10 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -49,8 +50,8 @@
 <msDesc>
 <msIdentifier>
 <repository>Archives Nationales d'Outre-Mer</repository>
-<collection>Afrique VI</collection>
-<idno>14</idno>
+<collection>FR CAOM Afrique</collection>
+<idno>VI 14</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -76,32 +77,24 @@
 </keywords>      
     
 <keywords scheme="viaf" n="people">
-<term>Seward</term> 
-
+<term/> 
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Gabon</term>
-<term>Washington</term>
-
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 <correspDesc>
@@ -121,9 +114,10 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2021-01" who="kln">reviewed, encoded.</change>
 <change when="2019" who="sab">Edited encoding.</change>
+<change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -135,25 +129,18 @@
 
 <pb n="20160614_095939.jpg"/>
 
-<ab>
-1er Bureau
-</ab>
+<ab>1er Bureau</ab>
 
-<ab>
-Paris, le 23 8bre 1869
-</ab>
+<p>Paris, le 23 8bre 1869</p>
 
-<ab>
-Le Ministre <unclear/>
-ci <unclear/> M. le Marquis de Monsiuer
+<p>Le Ministre &amp;a
+ci <unclear extent="one word"/> M. le Marquis de Monsiuer
 Ministre des affaires Etrangères
-a <unclear/>
-</ab>
+à <unclear>Paris</unclear>.</p>
 
-<p>
-Monsieur le Marquis et cher Collègue
+<p>Monsieur le Marquis &amp; cher Collègue</p>
 
-J'ai recu la lettre du 12 de ce mois par
+<p>J'ai recu la lettre du 12 de ce mois par
 laquelle <unclear/> E. <del><unclear/> <unclear/></del> <add><unclear/></add> <del><unclear/></del> <add>à</add> <unclear/> ce <unclear/>
 la réponse faire par le Gorée <unclear/> <unclear/>
 du <unclear/> de <del><unclear/></del> <add>Washington</add> avec replication <unclear/>
@@ -163,28 +150,15 @@ d'afrique à l'accord <unclear/> <unclear/> <unclear/>
 <del>Gabon</del> <unclear/> <unclear/> <unclear/> <add><unclear/></add> <del><unclear/></del> <add><unclear/></add> <unclear/> <unclear/> <unclear/> <unclear/>.
 </p>
 
-<p>
-J'ai vu avec <unclear/> que M seward
+<p>J'ai vu avec <unclear/> que M seward
 <unclear/> lequel <unclear/> <unclear/> <unclear/> le <unclear/> de <unclear/>
 des <del><unclear/></del> <unclear/> <del>de</del> <unclear/> <unclear/> <unclear/> l'echo <unclear/> la
 <unclear/> <unclear/> <unclear/> <unclear/> à <unclear/> <unclear/>
 M le <unclear/> <unclear/> <unclear/> <unclear/>.
-<unclear>A H C</unclear>
-</p>
-
-<note>
-é
-</note>
-
-<note>
-<unclear>fais</unclear>
-</note>
-
-<note>
-(ministre)
-</note>
+<unclear>A H C</unclear></p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
 
 <pb n="20160614_095939.jpg"/>
