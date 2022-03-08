@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Governor of French Sudan to Minister of the Colonies, October 21, 1894</title>
+<title>Correspondence from Albert Grodet to Théophile Delcassé, October 21, 1894</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
@@ -42,14 +43,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Governor of French Sudan to Minister of the Colonies</title>
+<title level="m">Correspondence from Albert Grodet to Théophile Delcassé</title>
 <date when="1894-10-21">October 21, 1894</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR CAOM</repository>
-<collection>Soudan X 1-7</collection>
-<idno>1</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR CAOM Soudan</collection>
+<idno>10, 1</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -63,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -76,43 +77,36 @@
     
 <keywords scheme="viaf" n="people">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Faramah</term>
-<term>Niger</term>
+<term>Faranah (French Guinea)</term>
+<term>Niger River</term>
 <term>Sierra Leone</term>
-
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName/>
+<persName ref="http://viaf.org/viaf/304372772">Grodet, Albert, 1853-1933</persName>
 <roleName>Governor of French Sudan</roleName>
-<placeName>Kayes</placeName>
+<placeName>Kayes (French Sudan)</placeName>
 <date when="1894-10-21"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
+<persName ref="http://viaf.org/viaf/274149294337080522009">Delcassé, Théophile, 1852-1923</persName>
 <roleName>Minister of the Colonies</roleName>
 <placeName/>
 </correspAction>
@@ -121,8 +115,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
+<change when="2022-02" who="kln">Reviewed, encoded.</change>
 <change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -134,176 +129,141 @@
 
 <pb n="20160615_122035.jpg"/>
 
-<ab>
-gouvernement
+<ab>Gouvernement
 du
-Soudan Francais
-</ab>
+Soudan Francais</ab>
 
-<ab>
-Kayes, le 21 Octobre 1894.
-</ab>
+<ab>No 905.</ab>
 
-<ab>
-Le gouverneur du
+<ab>Missionnaires Américains
+arrivés dans le Sud.</ab>
+
+<p>Kayes, le <unclear>21</unclear> Octobre 1894.</p>
+
+<p>Le Gouverneur du
 Soudan Français à Monsieur le
-Ministre des Colonies
-</ab>
+Ministre des Colonies</p>
 
-<ab>
-Direction des Affaires politique et commerciales.
-Bureau de l'Afrique.
-</ab>
+<p>Direction des Affaires politique et commerciales.<lb/>
+Bureau de l'Afrique.</p>
 
-<p>
-Monsieur le Ministre,
+<p>Monsieur le Ministre,</p>
 
-Comme suite à ma
+<p>Comme suite à ma
 lettre du 9 Octobre courant, numéro 842,
-j'ai l'honneur de vous adresser ci-dessous <!-- 'ci-dessous' is hyphenated between 'ci-' and 'dessous' -->
+j'ai l'honneur de vous adresser ci-dessous 
 copie d'un télégramme du
 Commandant de la Région sud
-concernant les missionaires américains
-arrivés à Faramah.
-</p>
+concernant les missionnaires américains
+arrivés à Farannah.</p>
 
-<p>
-Reçois des missionaires
+<p>Reçois des missionnaires
 américains pétition en Anglais à votre
-adresse portant sur les points suivants.
+adresse portant sur les points suivants:
 Primo autorisation pénétrer sur
 territoire Soudanais pour y faire œuvre
-de missionnaires; 2 autorisation d'élever
+de missionnaires; 2° autorisation d'élever
 des stations sur tels points qu'il vous
 plaira autoriser et delivrance titre
-fermez de propriété foncière; 3 <supplied>autorisation</supplied>
+fermez de propriété foncière; 3° autorisation
 d'utiliser comme voie de transport
 le Niger et ses affluents et de faire
-</p>
-
-<ab>
-<supplied>Missionnaires</supplied> Américains
-arrivés dans le Sud.
-</ab>
 
 <pb n="20160615_122051.jpg"/>
 
-<p>
 usage de la vapeur si bon leur
-semble; 4 communication d'une copie
+semble; 4° communication d'une copie
 des dispositions administrative
 concernant le fonctionnement de
 mission. Suivent signatures de
-deux des missionaires le troisième
+deux des missionnaires le troisième
 étant retourné à Sierra-Leone
 sous prétexte d'aller chercher
-des baggages. Les instructions contennues
+des bagages. Les instructions continues
 dans votre télégramme no 462
 du six Octobre ont été adressées
-au Commandant de Faramah le
-dix Octobre.
-</p>
+au Commandant de Farannah le
+dix Octobre.</p>
 
-<p>
-La pétition des missionnaires
-est datée du six Octobre également.
-</p>
+<p>La pétition des missionnaires
+est datée du six Octobre également.</p>
 
-<p>
-Je suis, avec un profond respect,
-Monsieur le Ministre
-votre très-obéissant serviteur.
+<p>Je suis, avec un profond respect,<lb/>
+Monsieur le Ministre<lb/>
+votre très-obéissant serviteur.</p>
 
-<unclear/> <!-- Signature -->
-</p>
+<p>Albert Grodet</p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
 
 <pb n="20160615_122035.jpg"/>
 
-<ab>
-government
+<ab>Government
 of
-French Sudan
-</ab>
+French Sudan</ab>
 
-<ab>
-Kayes, October 21st 1894.
-</ab>
+<ab>No 905.</ab>
 
-<ab>
-The governor of
-French Sudan to Mister
-Minister of the Colonies
-</ab>
+<ab>American Missionaries
+arrived in the South.</ab>
 
-<ab>
-Direction of Politcal and Commercial Affairs.
-Office of Africa.
-</ab>
+<p>Kayes, October 21, 1894.</p>
 
-<p>
-Mister Minister,
+<p>The Governor of
+French Sudan to the
+Minister of the Colonies</p>
 
-To follow my
+<p>Direction of Political and Commercial Affairs.<lb/>
+Office of Africa.</p>
+
+<p>Mr. Minister,</p>
+
+<p>To follow my
 letter from the 9th of the current October, number 842,
-I have the honor to address to you below <!-- 'ci-dessous' is hyphenated between 'ci-' and 'dessous' -->
+I have the honor to address to you below 
 a copy of a telegram from the
 Commander of the south Region
-concerning the american missionaries
-arrived in Faramah.
-</p>
+concerning the American missionaries
+arrived in Farannah.</p>
 
-<p>
-Receipt of the american
-missionaries' petition in english to address
-to you bringing on the following points.
+<p>Receipt of the American
+missionaries' petition in English addressed
+the following points.
 First authorization to penetrate on the
 Sudanese territory to do work
-of missionaries; 2 autorization to raise
-stations on such points that please
-you to authorize and deliverance title
-closed from basic property; 3 <supplied>autorization</supplied>
-to utilize as way of transport
-the Niger and its affluents and to make
-</p>
-
-<ab>
-American <supplied>Missionnaries</supplied>
-arrived in the South.
-</ab>
+of missionaries; 2nd authorization to raise
+stations on such points as you wish
+to authorize and issue closed title
+of landed property; 3rd authorization
+to use the Niger and its tributaries
+as a transport route and to make
 
 <pb n="20160615_122051.jpg"/>
 
-<p>
-use of the vapor so good to them
-it seems; 4 communication of a copy
-of the administrative dispositions
-concerning the functioning of the
-mission. Following signatures of
-two of the missionaries the third
-being returned to Sierra-Leone
-under pretext to go search for
+use of steam as they see fit; 
+4th communication of a copy
+of the administrative provisions
+concerning the operation of the
+mission. The signatures of
+two of the missionaries follow, the third
+having returned to Sierra Leone
+under the pretext of searching for
 baggage. The instructions contained
-in your telegram no 462
+in your telegram No. 462
 from the sixth of October were addressed
-to the Commander of Faramah on the
-tenth of October.
-</p>
+to the Commander of Farannah on the
+tenth of October.</p>
 
-<p>
-The petition of the missionaries
-is equally dated from the sixth of October.
-</p>
+<p>The petition of the missionaries
+is also dated from the sixth of October.</p>
 
-<p>
-I am, with a profound respect,
-Mister Minister
-your very obedient servant.
+<p>I am, with a profound respect,<lb/>
+Mr. Minister<lb/>
+your very obedient servant.</p>
 
-<unclear/> <!-- Signature -->
-</p>
+<p>Albert Grodet</p>
 
 </div1>
 </body>

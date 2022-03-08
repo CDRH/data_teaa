@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Mr. Guieysse, Minister of the Colonies to Minister, April 14, 1896</title>
+<title>Correspondence to Paul Guieysse, April 14, 1896</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
@@ -42,14 +43,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Mr. Guieysse, Minister of the Colonies to Minister</title>
+<title level="m">Correspondence to Paul Guieysse</title>
 <date when="1896-04-14">April 14, 1896</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR CAOM</repository>
-<collection>Soudan X 1-7</collection>
-<idno>1</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR CAOM Soudan</collection>
+<idno>10, 1</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -63,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -76,43 +77,37 @@
     
 <keywords scheme="viaf" n="people">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Garino, Sudan</term>
-<term>New York</term>
-
+<term>French Sudan</term>
+<term>New York (New York)</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Guieysse</persName>
-<roleName>Minister of the Colonies</roleName>
-<placeName>Paris</placeName>
+<persName/>
+<roleName/>
+<placeName>Paris (France)</placeName>
 <date when="1896-04-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName>Minister</roleName>
+<persName ref="http://viaf.org/viaf/245034747">Guieysse, Paul, 1841-1914</persName>
+<roleName>Minister of the Colonies</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
@@ -120,8 +115,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
+<change when="2022-03" who="kln">Reviewed, encoded.</change>
 <change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -133,174 +129,123 @@
 
 <pb n="20160615_122516.jpg"/>
 
-<ab>
+<ab type="letterhead">
+RÉPUBLIQUE FRANÇAISE
+</ab>
+
+<ab type="letterhead">
 Ministère
 des
 Affaires étrangères
 </ab>
 
-<ab>
+<ab type="letterhead">
 Direction
 des
 Affaires Politiques
 </ab>
 
-<ab>
+<ab type="letterhead">
 Service
-des Protectorats
+des Protectorats</ab>
 
-Missions protestantes
-au Soudan.
-</ab>
+<ab>Missions protestantes
+au Soudan.</ab>
 
-<ab>
-RÉPUBLIQUE FRANÇAISE
-</ab>
+<p>Paris, le 14 Avril 1896</p>
 
-<ab>
-Paris, le 14 Avril 1896
-</ab>
+<p>Monsieur le Ministre et cher Collègue,</p>
 
-<p>
-Monsieur le Ministre et cher Collègue,
-
-Notre Consul Général à
-New York a signalé, récemmement, à
+<p>Notre Consul Général à
+New-York a signalé, récemment, à
 mon Département la démarche faite
 auprès de lui par le Président de
 l'"International Missionary Alliance"
 qui se proposerait d'établir une mission
-protestante à Garino dans le Soudan
-Français.
-</p>
+protestante à <unclear>Parino</unclear> dans le Soudan
+Français.</p>
 
-<p>
-Comme suite à mes précédents
-</p>
+<p>Comme suite à mes précédents
 
-<ab>
-Monsieur Guieysse
+<fw type="address">
+Monsieur Guieysse<lb/>
 Ministre des Colonies.
-</ab>
-
-<note>
-pour le Soudan
-7
-</note>
-
-<note>
-Pour la parte de
-la Affaire au Missive <!-- This part is stamped -->
-</note>
+</fw>
 
 <pb n="20160615_122531.jpg"/>
 
-<p>
 communication, j'ai l'honneur de vous
-envoyer, ci-joint copie de la lettre de M. <unclear>Couvaert</unclear>
+envoyer, ci-joint copie de la lettre de M. <unclear extent="one name"/>
 et je vous serais obligé de me mettre en mesure
-d'y répondre./.
-</p>
+d'y répondre.</p>
 
-<p>
-Agréez, Monsieur le Ministre et cher
-Collègue, les assurances de ma haute considération.
-</p>
+<p>Agréez, Monsieur le Ministre et cher
+Collègue, les assurances de ma haute considération.</p>
 
-<ab>
-POUR LE PRÉSIDENT DU CONSUL
-<unclear/> <unclear/> <unclear/> <unclear/> <unclear/>
-<unclear>les</unclear> <del><unclear/> <unclear/></del> <unclear/> <unclear/>
-
-<unclear/> <unclear/> <!-- Signature -->
-</ab>
+<p><unclear extent="one signature"/></p>
 
 </div1>
+
 <div1 xml:lang="en" type="translation">
 
 <pb n="20160615_122516.jpg"/>
 
-<ab>
+<ab type="letterhead">
+FRENCH REPUBLIC
+</ab>
+
+<ab type="letterhead">
 Minister
 of
 Foreign Affairs
 </ab>
 
-<ab>
+<ab type="letterhead">
 Direction
 of
 Political Affairs
 </ab>
 
-<ab>
+<ab type="letterhead">
 Service
-of the Protectorates
+of the Protectorates</ab>
 
+<ab>
 Protestant Missions
 in Sudan.
 </ab>
 
-<ab>
-FRENCH REPUBLIC
-</ab>
+<p>Paris, April 14, 1896</p>
 
-<ab>
-Paris, April 14th 1896
-</ab>
+<p>Mr. Minister and dear colleague,</p>
 
-<p>
-Mister Minister and dear colleague,
-
-Our General Consul in
-New York signaled, recently, to
-my Department the step made
-with it by the President of
+<p>Our Consul General in
+New York, recently informed
+my Department of the step made
+to him by the President of
 the "International Missionary Alliance"
-that is proposing to establish a protestant
-missionGarino in French
-Sudan.
-</p>
+who proposed to establish a protestant
+mission at <unclear>Parino</unclear> in French
+Sudan.</p>
 
-<p>
-Following my preceding
-</p>
+<p>Following my preceding
 
-<ab>
-Mister Guieysse
+<fw type="address">
+Mr. Guieysse<lb/>
 Minister of the Colonies.
-</ab>
-
-<note>
-for Sudan
-7
-</note>
-
-<note>
-For the part of
-the Affaire au Missive <!-- This part is stamped -->
-</note>
+</fw>
 
 <pb n="20160615_122531.jpg"/>
 
-<p>
 communication, I have the honor to send
-to you, enclosed a copy of the letter from Mr. <unclear>Couvaert</unclear>
-and I will be obliged to you to put me in measure
-of responding./.
-</p>
+to you, enclosed, a copy of the letter from Mr. <unclear extent="one name"/>
+and I will be obliged to you to put me in a position
+of answering them.</p>
 
-<p>
-Accept, Mister Minister and dear
-Colleague, the assurances of my highest consideration.
-</p>
+<p>Accept, Mr. Minister and dear
+Colleague, the assurances of my highest consideration.</p>
 
-<ab>
-FOR THE PRESIDENT OF THE CONSUL
-<unclear/> <unclear/> <unclear/> <unclear/> <unclear/>
-<unclear>les</unclear> <del><unclear/> <unclear/></del> <unclear/> <unclear/>
-
-<unclear/> <unclear/> <!-- Signature -->
-</ab>
+<p><unclear extent="one signature"/></p>
 
 </div1>
 </body>

@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Mr. Chantemps, Minister of the Colonies to Minister, February 9, 1895</title>
+<title>Correspondence from Gabriel Hanotaux to Émile Chautemps, February 9, 1895</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
@@ -42,14 +43,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Mr. Chantemps, Minister of the Colonies to Minister</title>
+<title level="m">Correspondence from Gabriel Hanotaux to Émile Chautemps</title>
 <date when="1895-02-09">February 9, 1895</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR CAOM</repository>
-<collection>Soudan X 1-7</collection>
-<idno>1</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR CAOM Soudan</collection>
+<idno>10, 1</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -63,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,46 +76,39 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Delcassé</term>
-<term>Grodet</term>
-
+<term ref="http://viaf.org/viaf/274149294337080522009">Delcassé, Théophile, 1852-1923</term>
+<term ref="http://viaf.org/viaf/304372772">Grodet, Albert, 1853-1933</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Faranah</term>
-<term>Niger</term>
-<term>Sudan</term>
-
+<term>Faranah (French Guinea)</term>
+<term>French Sudan</term>
+<term>Niger River</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Chantemps</persName>
-<roleName>Minister of the Colonies</roleName>
-<placeName>Paris</placeName>
+<persName ref="http://viaf.org/viaf/19678646">Hanotaux, Gabriel, 1853-1944</persName>
+<roleName>Minister of Foreign Affairs</roleName>
+<placeName>Paris (France)</placeName>
 <date when="1895-02-09"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName>Minister</roleName>
+<persName ref="http://viaf.org/viaf/29630862">Chautemps, Émile, 1850-1918</persName>
+<roleName>Minister of the Colonies</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
@@ -122,8 +116,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
+<change when="2022-03" who="kln">Reviewed, encoded.</change>
 <change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -135,19 +130,21 @@
 
 <pb n="20160615_122239.jpg"/>
 
-<ab>
+<ab type="letterhead">RÉPUBLIQUE FRANÇAISE</ab>
+
+<ab type="letterhead">
 Ministére
 des
 Affaires étangères
 </ab>
 
-<ab>
+<ab type="letterhead">
 Direction
 des
 Affaires Politiques
 </ab>
 
-<ab>
+<ab type="letterhead">
 Service
 des Protectorats
 </ab>
@@ -157,48 +154,33 @@ Missionnaires américains
 au Soudan
 </ab>
 
-<ab>
-RÉPUBLIQUE FRANÇAISE
-</ab>
+<p>Paris le 9 février 1895</p>
 
-<ab>
-Paris le 9 Février      1895
-</ab>
+<p>Monsieur le Ministre et cher Collègue,</p>
 
-<p>
-Monsieur le Ministre et cher Collègue,
-
-Votre prédécesseur m'a fait parvenir
+<p>Votre prédécesseur m'a fait parvenir
 le 8 janvier dernier, le texte d'une
 pétition que des missionnaires
-américains, arrivés récenment à
+américains, arrivés récemment à
 Faranah, ont adressée à M. le Gouverneur
 du Soudan français, à l'effet d'obtenir
 l'autorisation de pénétrer sur le
 territoire placé sous sa prédiction,
-</p>
 
-<ab>
-Monsieur Chantemps
+<fw type="address">
+Monsieur Chautemps<lb/>
 Ministre des Colonies
-</ab>
-
-<note>
-Le sud au Soudan
-</note>
+</fw>
 
 <pb n="20160615_122250.jpg"/>
 
-<p>
 d'y construire des stations, avec la
 faculté d'acquérir la propriété du
 terrain sur lequel elles seraient établies,
 et d'effectuer des transports sur le
-Niger et ses affluents.
-</p>
+Niger et ses affluents.</p>
 
-<p>
-Par une précédente communication,
+<p>Par une précédente communication,
 M. Delcassé m'avait fait savoir que
 les étrangers dont il s'agit, ayant exprimé
 à M. Grodet le désir de fonder des postes
@@ -206,51 +188,48 @@ dans notre Colonie, ce haut fonctionnaire
 avait répondu qu'ils pourraient
 circuler librement au Soudan, mais
 qu'ils ne seraient pas autorisés à y
-créer un établissement religieux.
-</p>
+créer un établissement religieux.</p>
 
-<p>
-Je ne puis, en ce qui me concerne,
+<p>Je ne puis, en ce qui me concerne,
 que m'assurer à la manière de
 voir de M. le Gouverneur du Soudan
 Français, et j'estime qu'il y aurait
 avantage à écarter, jusqu'à nouvel
-</p>
 
 <pb n="20160615_122300.jpg"/>
 
-<p>
-ordre, les ouvertures en une de
+ordre, les ouvertures en vue de
 l'installation de missions étrangères
-dans nos possessions soudaniennes./.
-</p>
+dans nos possessions soudaniennes.</p>
 
-<p>
-Agréez, Monsieur le Ministre
+<p>Agréez, Monsieur le Ministre
 et cher Collègue, les assurances de ma
-haute considération.
+haute considération.</p>
 
-S. <unclear/> <!-- Signature -->
-</p>
+<p>G. Hanotaux</p>
 
 </div1>
+
+
 <div1 xml:lang="en" type="translation">
 
 <pb n="20160615_122239.jpg"/>
 
-<ab>
+<ab type="letterhead">FRENCH REPUBLIC</ab>
+
+<ab type="letterhead">
 Minister
 of
 Foreign Affairs
 </ab>
 
-<ab>
+<ab type="letterhead">
 Direction
 of
 Political Affairs
 </ab>
 
-<ab>
+<ab type="letterhead">
 Service
 of the Protectorates
 </ab>
@@ -260,81 +239,59 @@ American Missionaries
 in Sudan
 </ab>
 
-<ab>
-FRENCH REPUBLIC
-</ab>
+<p>Paris February 9, 1895</p>
 
-<ab>
-Paris February 9th      1895
-</ab>
+<p>Mr. Minister and dear colleague,</p>
 
-<p>
-Mister Minister and dear colleague,
-
-Your predecessor sent to me on
+<p>Your predecessor sent to me on
 the 8th of last January, the text of a
-petition that the american
+petition that the American
 missionaries, arrived recently in
 Faranah, addressed to Mr. Governor
 of French Sudan, with the goal of obtaining
-the autorization to penetrate the
+the authorization to penetrate the
 territory placed under its prediction,
-</p>
 
-<ab>
-Mister Chantemps
+<fw type="address">
+Mr. Chautemps<lb/>
 Minister of the Colonies
-</ab>
-
-<note>
-The south of Sudan
-</note>
+</fw>
 
 <pb n="20160615_122250.jpg"/>
 
-<p>
 to construct stations there, with the
 faculty of acquiring the property of the
 terrain on which they would have been established,
 and to effect transports on the
-Niger and its affluents.
-</p>
+Niger and its tributaries.</p>
 
-<p>
-By a preceding communication,
+<p>By a preceding communication,
 Mr. Delcassé had informed me that
-the foreigners of which it is question , having expressed
+the foreigners in question, having expressed
 to Mr. Grodet the desire to found posts
 in our Colony, this high government worker
 had responded that they could
 freely circulate in Sudan, but
 that they would not be authorized to create
-a religious establishment there.
-</p>
+a religious establishment there.</p>
 
-<p>
-I can, in that which concerns me,
+<p>I can, in that which concerns me,
 only assure the way of seeing
 things of Mr. Governor of French
 Sudan, and I estimate that there would be
 advantage to divert, until new
-</p>
 
 <pb n="20160615_122300.jpg"/>
 
-<p>
 order, the openings in one of
 the installations of foreign missions
-in our sudanese possessions./.
-</p>
+in our Sudanese possessions.</p>
 
-<p>
-Accept, Mister Minister
+<p>Accept, Mr. Minister
 and dear colleague, the assurances of my
-highest consideration.
+highest consideration.</p>
 
-S. <unclear/> <!-- Signature -->
-</p>
+<p>G. Hanotaux</p>
 
 </div1>
 </body>
