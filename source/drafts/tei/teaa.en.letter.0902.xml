@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0901">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0902">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Abraham Hanson to William H. Seward, December 26, 1862</title>
+<title>Despatch from Abraham Hanson to William H. Seward, December 31, 1862</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0901</idno>
+<idno type="project">teaa.en.letter.0902</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -45,7 +45,7 @@
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 2</biblScope>
-<date when="1862-12-26">December 26, 1862</date>
+<date when="1862-12-31">December 31, 1862</date>
 </bibl>
 </sourceDesc>
 
@@ -97,13 +97,13 @@
 <persName>Hanson, Abraham</persName>
 <roleName>U.S. Commercial Agent</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1862-12-26"/>
+<date when="1862-12-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
 <roleName>U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1863-02-27"/>
+<date when="1863-04-16"/>
 </correspAction>
 </correspDesc>
 
@@ -120,62 +120,43 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll2-0072.jpg"/>
+<pb n="Roll2-0074.jpg"/>
 
-<p>No. 5.</p>
+<p>No. 6.</p>
 
-<p>U.S. Commercial Agency,<lb/>
-Monrovia, Dec. 26th, 1862.</p>
+<p>U.S. Commercial Agency<lb/>
+Monrovia, Dec 31st 1862.</p>
 
-<p>Hon. Wm. H. Seward,<lb/>
-Sec. of State U.S. of A.,</p>
+<p>To the Honorable William H. Seward,<lb/>
+Sec. of State, of U.S. of America,</p>
 
 <p>Sir,</p>
 
-<p>I beg leave most respectfully
-to inform the Department of State, that the Reports
-due from this office, of Dec 31st., 1862, together with
-other documents, will be forwarded by the ship "M. C.
-Stevens," of Baltimore, which sails hence shortly.</p>
+<p>I have the honor to
+forward herewith, to the Department of State, a Return
+of the Arrivals and Departures of American vessels
+at this
+Agency, during the quarter ending Dec 31st 1862</p>
 
-<p>I beg also to ask, from the Department, some
-instructions in reference to the mode of transmitting
-Despatches &amp;c from this office. The usage has been to
-send them exclusively by merchant vessels, which,
-though a cheap, is an uncertain &amp; irregular way.
-I have, to some extent, ventured to deviate from former
-practice, but will, henceforth, follow the usage until
-advised.</p>
+<p>I have the honor to be with sincere Respect<lb/>
+Your very Obedient Servant<lb/>
+Abraham Hanson<lb/>
+U.S. Coml Agent</p>
 
-<p>My impression is that our interests will
-be promoted by correspondence thro' an expeditious,
-and regular route.</p>
+<pb n="Roll2-0075.jpg"/>
 
-<p>I have the honor to be, with great Respect,<lb/>
-Your Obedient Servant,<lb/>
-Abraham Hanson,<lb/>
-U.S. Coml. Agent.</p>
+<note>U.S. Commercial Agency at
+Monrovia, December 31, 1862<lb/>
+Abm Hanson Com. Agt.</note>
 
-<pb n="Roll2-0073.jpg"/>
+<note>No. 6<lb/>
+One Enclosure<lb/>
+Received</note>
 
-<note>U.S. Commercial Agency<lb/>
-Monrovia Liberia<lb/>
-December 26th, A.D. 1862</note>
-
-<note>Abraham Hanson<lb/>
-Commercial Agent</note>
-
-<note>No. 5</note>
-
-<note>Not any enclosures</note>
-
-<note>Received</note>
-
-<note>Asking instructions in regard
-to mode of transmitting Reports
-&amp;c. whether by merchant
-vessels, or regular mail (packets)
-steamers?</note>
+<note>Report of Arrivals and
+Departures of American vessels
+for quarter ending the
+31 of December AD 1862</note>
 
 </div1>
 
