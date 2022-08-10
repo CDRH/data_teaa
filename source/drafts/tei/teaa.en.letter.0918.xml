@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0918">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from J. Milton Turner to John L. Cadwalader, July 5, 1875</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0918</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from J. Milton Turner to John L. Cadwalader</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">M-169, Roll 3</biblScope>
+<date when="1875-07-05">July 5, 1875</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Matthews, B.</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/3272285">Turner, James Milton</persName>
+<roleName>Minister Resident and Consul General</roleName>
+<placeName>Monrovia (Liberia)</placeName>
+<date when="1875-07-05"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/66848474">Cadwalader, John L. (John Lambert), 1836-1914</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1875-08-23"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2022-07" who="#kln">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="Roll3-1021.jpg"/>
+
+<p>No. 5</p>
+
+<p>Legation of the United States<lb/>
+Republic of Liberia</p>
+
+<p>J Milton Turner<lb/>
+to the<lb/>
+Department of State<lb/>
+Washington U.S.A.</p>
+
+<p>Subject:</p>
+
+<p><sic>Refering</sic> to error in Report for quarter ended June 30th 1875</p> 
+
+<pb n="Roll3-1022.jpg"/>
+
+<p>No. 5</p>
+
+<p>Monrovia Liberia July 5th 1875</p>
+
+<p>Sir/</p>
+
+<p>I hasten to apprize you of the inadvertence through which, in my account for salary for the quarter ended June 30th 1875, I omitted to credit the Government for the amount of my draft for one hundred seventy five gold dollars - $125.00/100 - in favor of B. Matthews, and dated May 5th 1875. I will make the proper credit for said draft in my account for the present quarter. In expressing my regret for the above described circumstance, I can only add, that I will, hereafter, endeavor to avoid any similar occurrence.</p>
+
+<p>I have the honor to be,<lb/>
+Sir/<lb/>
+Your obedient servant<lb/>
+J Milton Turner</p>
+
+<fw type="address">Honorable<lb/>
+John L. Cadawalder<lb/>
+Assistant Secretary of State</fw>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
