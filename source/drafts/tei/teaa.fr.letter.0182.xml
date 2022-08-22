@@ -10,9 +10,10 @@
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
-<name n="Brown, Sophie" xml:id="sab">Sophie Brown</name>
 </respStmt>
 </titleStmt>
 
@@ -48,9 +49,9 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR CAOM</repository>
-<collection>Soudan 10</collection>
-<idno>1-7</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR CAOM Soudan</collection>
+<idno>10, 1</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -75,32 +76,24 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Minister</term>
-
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Paris</term>
-<term>Sierra Leone</term>
-
+<term/>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
-
-
-
-
-
 
 </textClass>
 
@@ -109,11 +102,11 @@
 <persName/>
 <roleName/>
 <placeName>Paris (France)</placeName>
-<date when="1895-10-22"/>
+<date when="1895-02-22"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName/>
-<roleName>Minister</roleName>
+<roleName/>
 <placeName/>
 </correspAction>
 </correspDesc>
@@ -121,9 +114,10 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
-<change when="2018" who="pr">Translated.</change>
+<change when="2022-03" who="kln">Reviewed, encoded.</change>
 <change when="2019" who="sab">Encoded.</change>
+<change when="2018" who="pr">Translated.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -135,53 +129,30 @@
 
 <pb n="20160615_122330.jpg"/>
 
-<ab>
-DE POLITIQUE ET COMMERCIALE
+<ab>DES POLITIQUE ET COMMERCIALE<lb/>
+BUREAU DE L'AFRIQUE</ab>
 
-BUREAU DE L'AFRIQUE <!-- This section is stamped -->
-</ab>
+<ab>Missionnaires américains au Soudan</ab>
 
-<ab>
-Paris le 22/199 Obr 1895
-</ab>
+<ab>1 brochure</ab>
 
-<ab>
-Affaires Etrangères
-</ab>
+<p>Paris le 22/199 fbre 1895</p>
 
-<p>
-Monsieur le Ministre et cher Collègue,
+<p>Affaires Etrangères</p>
 
-Vous avez bien voulu le 8 Octobre courant
+<p>Monsieur le Ministre et cher Collègue,</p>
+
+<p>Vous avez bien voulu le 8 Octobre courant
 me communiquer une exemplaire de la
-brochure contenant les statuts de <supplied>"l'International</supplied>
-Missionary Alliance" que vous avez fait
-parvenir notre vice-Consul à Sierra-Leone.
-</p>
+brochure contenant les statuts de "l'International
+Missionary Alliance" que vous avait fait
+parvenir notre vice-Consul à Sierra-Leone.</p>
 
-<p>
-Et vous <unclear/> cette <unclear/>
-communication j'ai l'honneur de vous <unclear/>
-ci-joint le document dont il s'agit.
+<p>En vous remerciantde cette intéressante
+communication j'ai l'honneur de vous <unclear extent="one word"/>
+ci-joint le document dont il s'agit.</p>
 
-<unclear/>. <!-- Signature -->
-</p>
-
-<ab>
-Missionaires américains au Soudan
-</ab>
-
-<ab>
-1 brochure
-</ab>
-
-<ab>
-Ed
-</ab>
-
-<note>
-fr
-</note>
+<p><unclear extent="one signature"/>.</p>
 
 </div1>
 
@@ -190,53 +161,30 @@ fr
 
 <pb n="20160615_122330.jpg"/>
 
-<ab>
-OF POLITICS AND COMMERCE
+<ab>POLITICAL AND COMMERCIAL
+OFFICE OF AFRICA</ab>
 
-OFFICE OF AFRICA <!-- This section is stamped -->
-</ab>
+<ab>American Missionaries in Sudan</ab>
 
-<ab>
-Paris Oct. 22nd/199 1895
-</ab>
+<ab>1 brochure</ab>
 
-<ab>
-Foreign Affairs
-</ab>
+<p>Paris obre 22/199 1895</p>
 
-<p>
-Mister Minister and dear colleague,
+<p>Foreign Affairs</p>
 
-You had wanted the 8th of October
-to communicate to me a copy of the
-brochure containing the status of <supplied>"the International</supplied>
-Missionary Alliance" that you had
-sent to our vice-Consul in Sierra-Leone.
-</p>
+<p>Mr. Minister and dear colleague,</p>
 
-<p>
-And you <unclear/> this <unclear/>
-communication I have the honor to <unclear/> you
-enclosed the document of which it is question.
+<p>On October 8, you were kind enough
+to send me a copy of the
+brochure containing the statutes of the "International
+Missionary Alliance" sent to you
+by our vice-Consul in Sierra-Leone.</p>
 
-<unclear/>. <!-- Signature -->
-</p>
+<p>And thanking you for this interesting 
+communication, I have the honor to <unclear extent="one word"/>
+attach the document in question.</p>
 
-<ab>
-American Missionaries in Sudan
-</ab>
-
-<ab>
-1 brochure
-</ab>
-
-<ab>
-Ed
-</ab>
-
-<note>
-fr
-</note>
+<p><unclear extent="one signature"/>.</p>
 
 </div1>
 </body>

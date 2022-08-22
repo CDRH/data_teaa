@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0892">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Abraham Hanson to William H. Seward, June 9, 1862</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0892</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Abraham Hanson to William H. Seward</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">M-169, Roll 2</biblScope>
+<date when="1862-06-09">June 9, 1862</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Irwin, Oscar</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>England</term>
+<term>Haiti</term>
+<term>Monrovia (Liberia)</term>
+<term>New York</term>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Hanson, Abraham</persName>
+<roleName>U.S. Commercial Agent</roleName>
+<placeName>Kenosha (Wisconsin)</placeName>
+<date when="1862-06-09"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/42616145">Seward, William H. (William Henry), 1801-1872</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1862-06-11"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2022-04" who="#kln">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="Roll2-0049.jpg"/>
+
+<p>Kenosha, Wis., June 9th, 1862.</p>
+
+<p>Hon. W. H. Seward,<lb/>
+Sec. of State,</p>
+
+<p>Sir;</p>
+
+<p>I have the honor to acknowledge
+the receipt of my Passport to
+Monrovia, Liberia.</p>
+
+<p>And also to inform you that it is my
+purpose to commence my journey to my
+post of duty, tomorrow, (the 10th inst.)
+by way of New York.</p>
+
+<p>If I fail to find a vessel bound
+directly for Monrovia, it will be my aim 
+to sail for England, by the steamer
+from New York, on the 18th inst.: and
+by steamer from England, on the 20th
+prox; unless I have the honor of receiving
+advices from you, which would conflict
+with this arrangement.</p>
+
+<pb n="Roll2-0050.jpg"/>
+
+<p>Communications or Despatches for me will
+find me, until my departure, by being
+addressed to me, in care of<lb/>
+Oscar Irwin, Esq.,<lb/>
+U.S. Despatch Agent,<lb/>
+34½, Pine St.,<lb/>
+New York.</p>
+
+<p>Permit me to express my unbounded
+joy at the consummation of an act of justice
+long delayed, in the recognition of Liberia
+and Hayti, as independent Powers.</p>
+
+<p>I go to Africa under a strong
+conviction that, through the blessing of
+Almighty God, I shall be permitted and
+enabled to advance, and secure the honor
+and interests of our government, and of
+humanity at large.</p>
+
+<p>I have the honor to remain,<lb/>
+Dear Sir,<lb/>
+Your very Obedient Servant.<lb/>
+Abm Hanson.</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

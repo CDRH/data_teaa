@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0916">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from J. Milton Turner to John L. Cadwalader, May 10, 1875</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0916</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from J. Milton Turner to John L. Cadwalader</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">M-169, Roll 3</biblScope>
+<date when="1875-05-10">May 10, 1875</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Moore, Gabriel David</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Liberia</term>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName ref="http://viaf.org/viaf/3272285">Turner, James Milton</persName>
+<roleName>Minister Resident and Consul General</roleName>
+<placeName>Monrovia (Liberia)</placeName>
+<date when="1875-05-10"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/66848474">Cadwalader, John L. (John Lambert), 1836-1914</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1875-07-06"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2022-06" who="#kln">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="Roll3-1008.jpg"/>
+
+<p>No. 3</p>
+
+<p>Consulate General of the United States Monrovia Liberia<lb/>
+J Milton Turner<lb/>
+to Department of State<lb/>
+Washington</p>
+
+<p>Subject</p>
+
+<p>Nomination to the Department of Mr. Gabriel Moore Jr. to be appointed Vice Consul of the United States at Monrovia Republic of Liberia.</p>
+
+<pb n="Roll3-1009.jpg"/>
+
+<p>No. 3</p>
+
+<p>Monrovia May 10th 1875</p>
+
+<p>Sir,</p>
+
+<p>I have the honor now to comply with the instruction conveyed to me by the Department's despatch marked "<sic>Seperate</sic>," and dated the 25th of February 1875; desiring me under the Regulations, to nominate a suitable person to be appointed Vice-Consul of the United States at this point, to which instruction, I had the honor to allude in my No. 1. to you under date of April 15th 1875. The person
+
+<catchwords>whom</catchwords>
+
+<fw type="address">Honorable<lb/>
+John L. Cadawalder<lb/>
+Assistant Secretary of State</fw>
+
+<pb n="Roll3-1010.jpg"/>
+
+whom I have determined very respectfully to nominate for the purpose mentioned: is named Gabriel Moore Jr.–a man of respectable connections and responsible standing here. Mr Moore is a citizen of Liberia, was born at this place, and is about 22 years of age.</p>
+
+<p>I have the honor to be<lb/>
+Sir,<lb/>
+with expressions of high esteem<lb/>
+Your obedient servant<lb/>
+J Milton Turner</p>
+
+<p>P.S.</p>
+
+<p>Since writing the above, Mr Moore informed that he is named Gabriel David Moore; I have to request that the difference be observed</p>
+
+<p>Respectfully<lb/>
+J Milton Turner</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

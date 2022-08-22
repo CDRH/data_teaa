@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0893">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from B. V. R. James to Frederick W. Seward, August 7, 1862</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0893</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from B. V. R. James to Frederick W. Seward</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">M-169, Roll 2</biblScope>
+<date when="1862-08-07">August 7, 1862</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Hanson, Abraham</term>
+<term>Seys, John</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Monrovia (Liberia)</term>
+<term>Springfield (Ohio)</term>
+<term>Wisconsin</term>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>James, B. V. R.</persName>
+<roleName>U.S. Vice Commercial Agent</roleName>
+<placeName>Monrovia (Liberia)</placeName>
+<date when="1862-08-07"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1862-11-17"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2022-04" who="#kln">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="Roll2-0051.jpg"/>
+
+<p>U.S. Consulate at Monrovia,<lb/>
+Augst 7th 1862.</p>
+
+<p>Hon F. W. Seward, Asst. Sec. State U.S.</p>
+
+<p>Sir,</p>
+
+<p>I have the honor
+to acknowledge receipt of your
+despatch from the Department
+dated May 8th 1862, informing
+me of the appointment of Mr
+Abr. Hanson of Wisconsin to the 
+U.S. Commercial Agency at Monrovia
+Republic Liberia and
+directing me to deliver to him
+on his arrival at the Consulate
+in Monrovia the records, archives
+&amp; all property in my possession
+belonging to the U.S. Consulate.
+It will afford me the greatest
+pleasure to comply with your
+order when that Gent. arrives.</p>
+
+<p>A certified  copy of the
+arrivals &amp; departures of American
+vessels at this port for
+the quarter ending June 30th
+I forward this day to the Department
+through John Seys
+
+<catchwords>over</catchwords>
+
+<pb n="Roll2-0052.jpg"/>
+
+Esqr of Springfield Ohio late
+Vice Com. Agent at Monrovia
+by order from that Gent.
+also a correct repost of
+Fees received at this Consulate
+for the said quarter.</p>
+
+<p>And I beg to inquire 
+of the Department <sic>wether</sic>
+any thing more than
+Fees will be allowed me
+for service rendered at
+this Consulate since the
+appointment of Mr Hanson
+to the time of his arrival
+at the Consulate in Monrovia.</p>
+
+<p>Your most obt. Servant,<lb/>
+B. V. R. James<lb/>
+U.S. V. Com. Agent.</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>

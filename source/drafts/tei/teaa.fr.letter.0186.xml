@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from André Lebon, Minister of the Colonies to President of the Council, Minister of Foreign Affairs, May 2 1896</title>
+<title>Correspondence from André Lebon to Léon Bourgeois, May 2 1896</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
@@ -42,14 +43,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from André Lebon, Minister of the Colonies to President of the Council, Minister of Foreign Affairs</title>
+<title level="m">Correspondence from André Lebon to Léon Bourgeois</title>
 <date when="1896-05-02">May 2, 1896</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR CAOM</repository>
-<collection>Soudan X 1-7</collection>
-<idno>1</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR CAOM Soudan</collection>
+<idno>10, 1</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -63,7 +64,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -79,40 +80,34 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Congo</term>
-<term>New York</term>
-<term>Sudan</term>
-
+<term>French Congo</term>
+<term>French Sudan</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
+<term>Protestant</term>
 </keywords>
-
-
-
-
-
 
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Lebon, André</persName>
+<persName ref="http://viaf.org/viaf/46857712">Lebon, André, 1859-1938</persName>
 <roleName>Minister of the Colonies</roleName>
-<placeName>Paris</placeName>
+<placeName>Paris (France)</placeName>
 <date when="1896-05-02"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
-<roleName>President of the Council, Minister of Foreign Affairs</roleName>
+<persName ref="http://viaf.org/viaf/91513665">Bourgeois, Léon, 1851-1925</persName>
+<roleName>President of the Council and Foreign Affairs</roleName>
 <placeName/>
 </correspAction>
 </correspDesc>
@@ -120,8 +115,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
+<change when="2022-03" who="kln">Reviewed, encoded.</change>
 <change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -133,17 +129,22 @@
 
 <pb n="20160615_122549.jpg"/>
 
-<ab>
+<ab type="letterhead">
+RÉPUBLIQUE FRANÇAISE<lb/>
+LIBERTÉ - EGALITÉ - FRATERNITÉ
+</ab>
+
+<ab type="letterhead">
 MINISTÈRE
 DES
 COLONIES
 </ab>
 
-<ab>
+<ab type="letterhead">
 1ère DIRECTION
 </ab>
 
-<ab>
+<ab type="letterhead">
 2ème BUREAU
 </ab>
 
@@ -152,94 +153,81 @@ Missions protestantes
 au Soudan
 </ab>
 
-<ab>
-RÉPUBLIQUE FRANÇAISE
-LIBERTÉ - EGALITÉ - FRATERNITÉ
-</ab>
+<p>Paris, le 2/122 <del>Avril</del> Mai 1896</p>
 
-<ab>
-Paris, le 2/122 <del>Avril</del> <add>Mai</add> 1896
-</ab>
+<p>Monsieur le Président
+du Conseil,</p>
 
-<p>
-Monsieur le Président
-du Conseil,
-
-A la date du 14 avril
+<p>A la date du 14 avril
 courant, vous m'avez transmis
-une lettre dans laquelle <unclear/>
+une lettre dans laquelle notre
 Consul Général à New York
 vous rend compte d'une démarche
 faite auprès de lui par le
-Président de l'"International
-Missionary Alliance," qui se
-proposerait d'établire une mission
+Président de "l'International
+Missionary Alliance", qui se
+proposerait d'établir une mission
 protestante dans le Soudan
-Français.
-</p>
+Français.</p>
 
-<p>
-Vous m'avez demandé, en
-<unclear>outre</unclear>
-</p>
+<p>Vous m'avez demandé, en
+<catchwords>outre</catchwords>
 
-<ab>
-8 Monsieur le Président du Conseil
+<fw type="address">
+Monsieur le Président du Conseil<lb/>
 Ministre des Affaires Etrangères.
-</ab>
-
-<note>
-Rome ministre
-</note>
+</fw>
 
 <pb n="20160615_122557.jpg"/>
 
-<p>
-autre de vous mettre en mesure
-de répondre à cette communication.
-</p>
+outre de vous mettre en mesure
+de répondre à cette communication.</p>
 
-<p>
-Je ne puis que me référer à ce
+<p>Je ne puis que me référer à ce
 sujet aux termes de ma lettre du
 6 décembre dernier, No 229, relative
 à une demande de même nature
 formulée par la société "World's
 Gospel Union." J'avais l'honneur
 à cette occasion de faire connaître
-à votre prédécesseur qu'il <del>ferra fait</del>
-<del>impossible,</del>
+à votre prédécesseur qu'il <del>para fait
+impossible,</del>
 <del>il</del> serait pour le moins 
-imprudent <add>surtout après l'expérience fâcheuse que nous avions faite au Congo,</add> de laisser des missions
+imprudent surtout après l'expérience fâcheuse que nous avions faite au Congo, de laisser des missions
 religieuses étrangères fonder des
 établissements au Soudan où la
 domination française est encore loin
-d'être affermie.
-</p>
+d'être affermie.</p>
 
-<p>
-Agréez, Monsieur le Président du Conseil,
-les assurances de ma haute considérations.
-Le Ministre des Colonies,
-André Lebon
-</p>
+<p>Agréez, Monsieur le Président du Conseil,
+les assurances de ma haute considération.</p>
+
+<p>Le Ministre des Colonies,<lb/>
+André Lebon</p>
 
 </div1>
+
+
 <div1 xml:lang="en" type="translation">
 
 <pb n="20160615_122549.jpg"/>
 
-<ab>
+<ab type="letterhead">
+FRENCH REPUBLIC<lb/>
+LIBERTY - EQUALITY - FRATERNITY
+</ab>
+
+<ab type="letterhead">
 MINISTER
 OF THE
 COLONIES
 </ab>
 
-<ab>
+<ab type="letterhead">
 1st DIRECTION
 </ab>
 
-<ab>
+<ab type="letterhead">
 2nd OFFICE
 </ab>
 
@@ -248,77 +236,56 @@ Protestant Missions
 in Sudan
 </ab>
 
-<ab>
-FRENCH REPUBLIC
-LIBERTY - EQUALITY - FRATERNITY
-</ab>
+<p>Paris, <del>April</del> May 2/122 1896</p>
 
-<ab>
-Paris, the 2nd of <del>April</del> <add>May</add>/122 1896
-</ab>
+<p>Mr. President
+of the Council,</p>
 
-<p>
-Mister President
-of the Council,
-
-On the date of April 14th
+<p>On the date of April 14th
 this month, you transmitted to me
-a letter in which <unclear/>
-General Consul in New York
+a letter in which our
+Consul General in New York
 gives you a report on a step
 made with him by the
 President of the "International
 Missionary Alliance," that is
 proposing to establish a protestant
 mission in French
-Sudan.
-</p>
+Sudan.</p>
 
-<p>
-You had asked me, in
-<unclear>addition</unclear>
-</p>
+<p>You had asked me, in
+<catchwords>addition</catchwords>
 
-<ab>
-8 Mister President of the Council
+<fw type="address">
+Mr. President of the Council<lb/>
 Minister of Foreign Affairs.
-</ab>
-
-<note>
-Rome minister
-</note>
+</fw>
 
 <pb n="20160615_122557.jpg"/>
 
-<p>
-addition to put you in measure
-of repsonding to this communication.
-</p>
+addition to put you in a position
+to respond to this communication.</p>
 
-<p>
-I can only refer to this
-subjet in the terms of my letter of the
-6th of last december, No 229, relative
+<p>I can only refer on this
+subject to the terms of my letter of the
+6th of last December, No 229, relative
 to a demand of the same nature
 formulated by the society "World's
 Gospel Union." I had the honor
-in this occasion to inform
-your predecessor that he <del>ferra fait</del>
-<del>impossible,</del>
-<del>il</del> would be for the less
-imprudent <add>especially after the displeasing experience that we had had in the Congo,</add> to leave the foreign
+on this occasion to inform
+your predecessor that it <del>would be impossible,</del>
+<del>it</del> would be imprudent to say the least,
+especially after the unfortunate experience that we had had in the Congo, to allow the foreign
 religious missions to found
-establishments in Sudan where the
-french domination is still far
-from being reinforced.
-</p>
+establishments in the Sudan where the
+French domination is still far
+from being consolidated.</p>
 
-<p>
-Accept, Mister President of the Council,
-the assurances of my highest consideration.
-The Minister of the Colonies,
-André Lebon
-</p>
+<p>Accept, Mr. President of the Council,
+the assurances of my highest consideration.</p>
+
+<p>The Minister of the Colonies,<lb/>
+André Lebon</p>
 
 </div1>
 </body>

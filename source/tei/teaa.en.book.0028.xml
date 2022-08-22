@@ -31,7 +31,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.book.0027</idno>
+<idno type="project">teaa.en.book.0028</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -87,7 +87,7 @@
 <term>McDowell, Ward</term>
 <term>Pa Bokari</term>
 <term>Pa Lenseni</term>
-<term>Smith</term><!-- Mr. -->
+<term>Smith, J. Hal</term>
 <term>Tobra</term>
 <term>Ya Baki Limba</term>
 <term>Ya Wettie</term>
@@ -126,11 +126,16 @@
 <term>Wesleyan Methodist</term>
 </keywords>
 
+<classCode scheme="original">
+<ref type="analysis" target="teaa.analysis.0022">Analysis</ref>
+</classCode>
+
 </textClass>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2022-02" who="#kln">encoded</change>
 </revisionDesc>
 </teiHeader>
 

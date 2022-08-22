@@ -6,10 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Minister to Minister of Foreign Affairs, January 8, 1895</title>
+<title>Correspondence from Théophile Delcassé to Gabriel Hanotaux, January 8, 1895</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription, translation, and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Niendorf, Nicholas" xml:id="nn">Nicholas Niendorf</name>
 <name n="Reynolds, Peyton" xml:id="pr">Peyton Reynolds</name>
 </respStmt>
@@ -42,14 +43,14 @@
 
 <sourceDesc>
 <bibl>
-<title level="m">Letter from Minister to Minster of Foreign Affairs</title>
+<title level="m">Correspondence from Théophile Delcassé to Gabriel Hanotaux</title>
 <date when="1895-01-08">January 8, 1895</date>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>FR CAOM</repository>
-<collection>Soudan X 1-7</collection>
-<idno>1</idno>
+<repository>Archives Nationales d'Outre-Mer</repository>
+<collection>FR CAOM Soudan</collection>
+<idno>10, 1</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -76,41 +77,36 @@
     
 <keywords scheme="viaf" n="people">
 <term/>
-
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Faranah</term>
-
+<term>Faranah (French Guinea)</term>
+<term>French Sudan</term>
 </keywords>
     
 <keywords scheme="original" n="ethnic_group">
 <term/>
 </keywords>
     
-<keywords scheme="original" n="language">
-<term>French</term>
+<keywords scheme="original" n="powers">
+<term>France</term>
+<term>United States</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
 <term/>
 </keywords>
 
-
-
-
-
-
 </textClass>
 <correspDesc>
 <correspAction type="sentBy">
-<persName/>
-<roleName>Minister</roleName>
-<placeName>Paris</placeName>
+<persName ref="http://viaf.org/viaf/274149294337080522009">Delcassé, Théophile, 1852-1923</persName>
+<roleName>Minister of the Colonies</roleName>
+<placeName>Paris (France)</placeName>
 <date when="1895-01-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName/>
+<persName ref="http://viaf.org/viaf/19678646">Hanotaux, Gabriel, 1853-1944</persName>
 <roleName>Minister of Foreign Affairs</roleName>
 <placeName/>
 </correspAction>
@@ -119,8 +115,9 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2017" who="nn">Transcribed.</change>
+<change when="2022-02" who="kln">Reviewed, encoded.</change>
 <change when="2019" who="pr">Translated and encoded header information.</change>
+<change when="2017" who="nn">Transcribed.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -132,98 +129,64 @@
 
 <pb n="20160615_122212.jpg"/>
 
-<ab>
-DE POLITIQUE ET COMMERCIALE
+<ab>DES POLITIQUE ET COMMERCIALE<lb/>
+BUREAU DE L'AFRIQUE</ab>
 
-BUREAU DE L'AFRIQUE <!-- This section is stamped -->
-</ab>
+<ab>Missionnaires americains
+arrivés au Soudan</ab>
 
-<ab>
-Paris le 8 Jnv. 1895/2,
-</ab>
+<ab>1 Copie <unclear extent="one word"/></ab>
 
-<ab>
-Le Ministre à M. le Ministre des
-Affaires Etrangères.
-</ab>
+<p>Paris le 8 Janv. 1895/2.</p>
 
-<p>
-M. le Ministre et cher Collègue, M. le
+<p>Le Ministre à M. le Ministre des
+Affaires Etrangères.</p>
+
+<p>M. le Ministre et cher Collègue, M. le
 Gouverneur du Soudan vient de me
 faire parvenir la pétition que lui
-ont adressée les missonnaires américains
-arrivés. Faranah.
-</p>
+ont adressée les missionnaires américains
+arrivés. Faranah.</p>
 
-<p>
-J'ai l'honneur, à toute fin
+<p>En <unclear extent="one word"/> <unclear>retiant</unclear> a ma <unclear>communication</unclear> des <unclear>18</unclear> le <unclear>décembre</unclear> 
+J'ai l'honneur, à toute fins
 utiles, de vous transmettre une
-copie de ce document.
+copie de ce document.</p>
 
-S: <unclear/>.
-</p>
-
-<ab>
-Missionaires americains
-arrivés au Soudan
-</ab>
-
-<ab>
-1 Copie <unclear/>
-</ab>
-
-<note>
-fy
-</note>
+<p>S: Delcassé</p>
 
 </div1>
+
+
 <div1 xml:lang="en" type="translation">
 
 <pb n="20160615_122212.jpg"/>
 
-<ab>
-OF POLITICS AND COMMERCE
+<ab>POLITICAL AND COMMERCIAL
+OFFICE OF AFRICA</ab>
 
-OFFICE OF AFRICA <!-- This section is stamped -->
-</ab>
+<ab>American Missionaries
+arrived in Sudan</ab>
 
-<ab>
-Paris Jan. 8th 1895/2,
-</ab>
+<ab>1 Copy <unclear extent="one word"/></ab>
 
-<ab>
-The Minister to Mr. Minister of
-Foreign Affairs.
-</ab>
+<p>Paris Jan. 8, 1895/2.</p>
 
-<p>
-Mr. Minster and dear colleague, Mr.
+<p>The Minister to Mr. Minister of
+Foreign Affairs.</p>
+
+<p>Mr. Minster and dear colleague, the
 Governor of Sudan has just sent
-to me the petition that to him
-was addressed by the american missionaries
-arrived. Paranah.
-</p>
+to me the petition that was
+addressed to him by the American missionaries
+arrived at Faranah.</p>
 
-<p>
+<p>In <unclear extent="one word"/> <unclear>withholding</unclear> to my <unclear>communication</unclear> of <unclear>18</unclear> on <unclear>December</unclear>
 I have the honor, for all practical
 purposes, to transmit to you a
-copy of this document.
+copy of this document.</p>
 
-S: <unclear/>.
-</p>
-
-<ab>
-American Missionaries
-arrived in Sudan
-</ab>
-
-<ab>
-1 Copy <unclear/>
-</ab>
-
-<note>
-fy
-</note>
+<p>S: Delcassé</p>
 
 </div1>
 </body>

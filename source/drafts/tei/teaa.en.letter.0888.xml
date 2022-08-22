@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0888">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Abraham Hanson to James R. Doolittle, May 2, 1862</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0888</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Abraham Hanson to James R. Doolittle</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">M-169, Roll 2</biblScope>
+<date when="1862-05-02">May 2, 1862</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Monrovia (Liberia)</term>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Hanson, Abraham</persName>
+<roleName/>
+<placeName>Kenosha (Wisconsin)</placeName>
+<date when="1862-05-02"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/38929425">Doolittle, James R. (James Rood), 1815-1897</persName>
+<roleName>U.S. Senator</roleName>
+<placeName/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2022-04" who="#kln">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="Roll2-0040.jpg"/>
+
+<p>Kenosha, Wis. May 2nd 1862</p>
+
+<p>Hon. J. R. Doolittle<lb/>
+U.S. Senate</p>
+
+<p>Dear Sir,</p>
+
+<p>I have the honor to acknowledge
+the receipt of your communication, enclosing
+also one from the Hon Sec. of State, the
+substance of which is an offer, to me, of the
+Commercial Agency at Monrovia.</p>
+
+<p>Without hesitancy, and with
+sincere gratitude, I avail myself of this
+offer, and beg leave, through you, to convey
+to the Department of State, my prompt
+and cheerful acceptance thereof.</p>
+
+<p>I do not see why this opening
+of providence should not lead me into a 
+field which will, at once, incite a more 
+<sic>rigourous</sic>, constant, and laudable activity
+of the noble attributes of the soul, and
+a more healthy exercise of the generous
+impulses of the heart.</p>
+
+<pb n="Roll2-0041.jpg"/>
+
+<p>When duly commissioned I shall 
+hope to repair to my post of duty with a
+deep and steady purpose to aid in
+developing the resources of the young,
+struggling, but growing Republic;
+and if approved for diligence, fidelity,
+and competency, I may be permitted
+to indulge the hope that if an opportunity
+occurs for promotion I shall
+not be overlooked or forgotten.</p>
+
+<p>I cannot deny myself the
+privilege of presenting to you my unfeigned
+thanks for the interest which 
+you have taken in my case, especially
+amidst your multifarious cares and
+labors– and to the Hon Sec of 
+State for the very considerate manner
+in which he has referred to me.</p>
+
+<p>I have the honor to Remain<lb/>
+Your Obedient Servant<lb/>
+Abm Hanson</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
