@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1001">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from S. S. Sevier to Thomas F. Bayard, September 16, 1886</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.1001</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from S. S. Sevier to Thomas F. Bayard, September 16, 1886</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">M-169, Roll 5</biblScope>
+<date when="1886-09-16">September 16, 1886</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Hopkins, M. A.</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Sevier, Samuel S.</persName>
+<roleName>Acting Consul General</roleName>
+<placeName>Monrovia (Liberia)</placeName>
+<date when="1886-09-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Bayard, Thomas F.</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1886-10-19"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2022-08-23" who="#slb">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="Roll5-1003.jpg"/>
+
+<p>No. 28.</p>
+
+<p><add><unclear></unclear> DEPARTMENT OF STATE 
+OCT 19, 1886
+RECEIVED</add></p>
+
+<p>U.S. Consulate General
+Monrovia, Sept. 16, 1886.</p>
+
+<p>Mr. Sevier to the Secretary
+of State, Washington</p>
+
+<p>Subject</p>
+
+<p>Acknowledgement of Despatch
+No. 6, dated July 15, 1886, and 
+of flags, seal, and blank drafts.</p>
+
+<p>Abstract</p>
+
+<p>Despatch No. 6, dated July 15, 1886 to <add>late</add> Consul
+Genl. <unclear>Moses</unclear> A. Hopkins acknowledged,
+above two flags, a seal and 
+press and blank drafts. Request
+for estimate of cost of furniture noted,
+and paragraph of Consular Regulations
+refered to.</p>
+
+<pb n="Roll5-1004.jpg"/>
+
+<p>No. 28</p>
+
+<p>U.S. Consulate General
+Monrovia, September 16, 1886</p>
+
+<p>Hon. T. F. Bayard,
+Secretary of State, 
+Washington</p>
+
+<p>Sir,
+I have the 
+honor of acknowledging
+your despatch of July 15th 
+last (No. 6) addressed to the 
+late Counsul General Hopkins, 
+advising the sending to the
+Consulate General of two flags,
+a seal and press, and some
+blank drafts: all of which have been duly received.</p>
+
+<p>I note your
+request</p>
+
+<pb n="Roll5-1005.jpg"/>
+
+<p>request for estimate of 
+cost of furnitutres; and the
+paragraph refered to in
+the Consular Regulations.</p>
+
+<p>I have the honor to be,
+Sir,
+Your obediant Servant</p>
+
+<p>Samuel S. Sevier
+Acting Consul Gen.</p>
+
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
