@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1004">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from S. S. Sevier to Thomas F. Bayard, October 16, 1886</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.1003</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from S. S. Sevier to Thomas F. Bayard, October 16, 1886</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">M-169, Roll 5</biblScope>
+<date when="1886-10-16">October 16, 1886</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term>Elmina Gold Coast Colony</term>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Sevier, Samuel S.</persName>
+<roleName>Acting Consul General</roleName>
+<placeName>Monrovia (Liberia)</placeName>
+<date when="1886-10-16"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Bayard, Thomas F.</persName>
+<roleName>U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1886-11-30"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2022-08-24" who="#slb">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="Roll5-1011.jpg"/>
+
+<p><add>DEPARTMENT OF STATE 
+NOV 30 1886
+RECEIVED</add></p>
+
+<p>Consular</p>
+
+<p>No. 33</p>
+
+<p>U.S. Legation
+Monrovia Oc. 16 '86</p>
+
+<p>Mr S. S. Sevier,
+To the Secy. of State</p>
+
+<p>Subject</p>
+
+<p><unclear></unclear> return of the
+Agent of Elmina Gold
+Coast Colony.</p>
+
+<p>Sir:-
+I have the honor respectfully
+to forward herewith the returns
+for the quarter ending Sept.
+30, '86 from the Consular 
+agent of Elemina Gold
+Coast Colony which you
+will sir as follows:
+digest of the Invoice books (1)
+arrivals and departures
+of</p>
+
+<pb n="Rolls5-1012.jpg"/>
+
+<p>of American vessels (2)
+summary of Consular 
+business (3)</p>
+
+<p>I hope the Department 
+excuse delay for the 
+mail steamer comes at 
+this port very irregular</p>
+
+<p>I am sir
+your obedient servant</p>
+
+<p>Samuel S. Sevier
+Vice Consul Gen.</p>
+
+<p>Enclosures</p>
+
+<p>1. Digest of Invoice book</p>
+
+<p>2. Arrivals and departures of 
+American vessels</p>
+
+<p>3. Summary of Consular 
+business.</p>
+
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
