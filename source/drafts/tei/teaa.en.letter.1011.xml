@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1011">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Samuel S. Sevier to Thomas F. Bayard, September 3, 1886</title>
+<title>Despatch from Samuel S. Sevier to James D. Porter, December 14, 1886</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.1000</idno>
+<idno type="project">teaa.en.letter.1011</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard, September 3, 1886</title>
+<title level="a">Despatch from Samuel S. Sevier to James D. Porter, December 14, 1886</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
-<date when="1886-09-03">September 3, 1886</date>
+<date when="1886-12-14">December 14, 1886</date>
 </bibl>
 </sourceDesc>
 
@@ -71,12 +71,11 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Calloway, Lucy C.</term>
-<term>Hunter, William</term>
+<term></term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term></term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -95,23 +94,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Sevier, S. S.</persName>
+<persName>Sevier, Samuel S.</persName>
 <roleName>Acting Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1886-09-03"/>
+<date when="1886-12-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Bayard, Thomas F.</persName>
-<roleName>U.S. Secretary of State</roleName>
+<persName>Porter, James D.</persName>
+<roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1886-10-04"/>
+<date when="1887-01-17"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2022-08-23" who="#slb">Transcription and encoding.</change>
+<change when="2022-08-25" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -121,53 +120,75 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll5-1001.jpg"/>
+<pb n="Roll5-1032.jpg"/>
 
-<p>No. 27.</p>
+<p><add>DEPARTMENT OF STATE
+JAN 17 1887
+RECEIVED.</add></p>
 
-<p><add>DEPARTMENT OF STATE 
-OCT 4 1886
-RECEIVED</add></p>
+<p>No. 40</p>
 
-<p>Legation of the United States
-Monrovia, Sept. 3rd '86</p>
+<p>Consulate of the United States
+Monrovia Dec. 14, '86</p>
 
-<p>Mr. S. S. Sevier,
-to the Sec. of State, 
-Subject:</p>
+<p>Mr. S. S. Sevier,</p>
 
-<p>The reception of Dispatch
-No. 8, with the enclosed letter of Lucy C. Calloway, and also
-the intelligence of the death of Mr. Wm Hunter, the Second
-Assistant Secretary of State.</p>
+<p>To the assistant Secy. of State,</p>
 
-<pb n="Roll5-1002.jpg"/>
+<p>Subject</p>
 
-<p>Legation of the United States, 
-Monrovia, Sept 3rd '86
-Hon. T. F. Bayard
-Secretary of State
-Washington D. C.</p>
+<p>Despatch No. 14. Message of
+the President.</p>
 
-<p>Sir: I have the honor to inform 
-you that Dispatch No. 8, with the 
-enclosed letter of Lucy C. 
-Calloway, and also the intelligence
-of the death of the Wm 
-Hunter, the Second Assistant
-Secretary of State, have been
-received.</p>
+<p>Abstract of Contents</p>
 
-<p>The usual symbols of mourning
-will be displayed at this Legation.</p>
+<p>Reception of despatch No. 14
+dated Nov. 3rd '86, Message
+of the President of the
+Republic of Liberia to the
+Legislature.</p>
 
-<p>I have the honor, sir, to be
-your obedient servant,</p>
+<pb n="Roll5-1033.jpg"/>
 
-<p>S. S. Sevier
-Act. Consul General</p>
+<p>No. 40</p>
 
+<p>Consulate of the United States
+Monrovia Dec. 14, 86</p>
 
+<p>Hon. J. D. Porter,
+Assistant Secy. of State
+Washington
+D.C.</p>
+
+<p>Sir:
+I have the honor most
+respectfully to inform you 
+that your despatch No.
+14 dated Nov. 3rd 1886 received,
+I have the honor also to
+inform the Department 
+that the President of the 
+Republic of Liberia delievered
+his message today to the
+Legislature of Liberia
+in</p>
+
+<pb n="Roll5-1034.jpg"/>
+
+<p>in joint session.</p>
+
+<p>I have the honor to be
+Sir
+Your obedient Servant</p>
+
+<p>Samuel S. Sevier
+Acting Consul Gen.</p>
+
+<p>Hon. J. D. Porter
+Assistant Secy
+of State
+Washington
+D.C.</p>
 
 </div1>
 

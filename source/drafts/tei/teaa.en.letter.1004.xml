@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1004">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Samuel S. Sevier to Thomas F. Bayard, September 3, 1886</title>
+<title>Despatch from Samuel S. Sevier to Thomas F. Bayard, October 16, 1886</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.1000</idno>
+<idno type="project">teaa.en.letter.1004</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard, September 3, 1886</title>
+<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard, October 16, 1886</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
-<date when="1886-09-03">September 3, 1886</date>
+<date when="1886-10-16">October 16, 1886</date>
 </bibl>
 </sourceDesc>
 
@@ -71,12 +71,11 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Calloway, Lucy C.</term>
-<term>Hunter, William</term>
+<term></term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Elmina Gold Coast Colony</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -95,23 +94,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Sevier, S. S.</persName>
+<persName>Sevier, Samuel S.</persName>
 <roleName>Acting Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1886-09-03"/>
+<date when="1886-10-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Bayard, Thomas F.</persName>
 <roleName>U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1886-10-04"/>
+<date when="1886-11-30"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2022-08-23" who="#slb">Transcription and encoding.</change>
+<change when="2022-08-24" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -121,52 +120,66 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll5-1001.jpg"/>
-
-<p>No. 27.</p>
+<pb n="Roll5-1011.jpg"/>
 
 <p><add>DEPARTMENT OF STATE 
-OCT 4 1886
+NOV 30 1886
 RECEIVED</add></p>
 
-<p>Legation of the United States
-Monrovia, Sept. 3rd '86</p>
+<p>Consular</p>
 
-<p>Mr. S. S. Sevier,
-to the Sec. of State, 
-Subject:</p>
+<p>No. 33</p>
 
-<p>The reception of Dispatch
-No. 8, with the enclosed letter of Lucy C. Calloway, and also
-the intelligence of the death of Mr. Wm Hunter, the Second
-Assistant Secretary of State.</p>
+<p>U.S. Legation
+Monrovia Oc. 16 '86</p>
 
-<pb n="Roll5-1002.jpg"/>
+<p>Mr S. S. Sevier,
+To the Secy. of State</p>
 
-<p>Legation of the United States, 
-Monrovia, Sept 3rd '86
-Hon. T. F. Bayard
-Secretary of State
-Washington D. C.</p>
+<p>Subject</p>
 
-<p>Sir: I have the honor to inform 
-you that Dispatch No. 8, with the 
-enclosed letter of Lucy C. 
-Calloway, and also the intelligence
-of the death of the Wm 
-Hunter, the Second Assistant
-Secretary of State, have been
-received.</p>
+<p><unclear></unclear> return of the
+Agent of Elmina Gold
+Coast Colony.</p>
 
-<p>The usual symbols of mourning
-will be displayed at this Legation.</p>
+<p>Sir:-
+I have the honor respectfully
+to forward herewith the returns
+for the quarter ending Sept.
+30, '86 from the Consular 
+agent of Elemina Gold
+Coast Colony which you
+will sir as follows:
+digest of the Invoice books (1)
+arrivals and departures
+of</p>
 
-<p>I have the honor, sir, to be
-your obedient servant,</p>
+<pb n="Rolls5-1012.jpg"/>
 
-<p>S. S. Sevier
-Act. Consul General</p>
+<p>of American vessels (2)
+summary of Consular 
+business (3)</p>
 
+<p>I hope the Department 
+excuse delay for the 
+mail steamer comes at 
+this port very irregular</p>
+
+<p>I am sir
+your obedient servant</p>
+
+<p>Samuel S. Sevier
+Vice Consul Gen.</p>
+
+<p>Enclosures</p>
+
+<p>1. Digest of Invoice book</p>
+
+<p>2. Arrivals and departures of 
+American vessels</p>
+
+<p>3. Summary of Consular 
+business.</p>
 
 
 </div1>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1005">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Samuel S. Sevier to Thomas F. Bayard, September 3, 1886</title>
+<title>Despatch from Samuel S. Sevier to James D. Porter, October 16, 1886</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.1000</idno>
+<idno type="project">teaa.en.letter.1005</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard, September 3, 1886</title>
+<title level="a">Despatch from Samuel S. Sevier to James D. Porter, October 16, 1886</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
-<date when="1886-09-03">September 3, 1886</date>
+<date when="1886-10-16">October 16, 1886</date>
 </bibl>
 </sourceDesc>
 
@@ -71,12 +71,11 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Calloway, Lucy C.</term>
-<term>Hunter, William</term>
+<term>Hopkins, Moses A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Elmina Gold Coast Colony</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -95,23 +94,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Sevier, S. S.</persName>
+<persName>Sevier, Samuel S.</persName>
 <roleName>Acting Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1886-09-03"/>
+<date when="1886-10-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Bayard, Thomas F.</persName>
-<roleName>U.S. Secretary of State</roleName>
+<persName>Porter, James D.</persName>
+<roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1886-10-04"/>
+<date when="1886-11-30"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2022-08-23" who="#slb">Transcription and encoding.</change>
+<change when="2022-08-24" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -121,51 +120,79 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll5-1001.jpg"/>
-
-<p>No. 27.</p>
+<pb n="Roll5-1013.jpg"/>
 
 <p><add>DEPARTMENT OF STATE 
-OCT 4 1886
+NOV 30 1886
 RECEIVED</add></p>
 
-<p>Legation of the United States
-Monrovia, Sept. 3rd '86</p>
+<p>No. 34</p>
 
-<p>Mr. S. S. Sevier,
-to the Sec. of State, 
-Subject:</p>
+<p>U.S. Legation
+Monrovia Oct. 16th/86</p>
 
-<p>The reception of Dispatch
-No. 8, with the enclosed letter of Lucy C. Calloway, and also
-the intelligence of the death of Mr. Wm Hunter, the Second
-Assistant Secretary of State.</p>
+<p>Mr. S. S. Sevier
+to the Assistant Secy. State</p>
 
-<pb n="Roll5-1002.jpg"/>
+<p>Subject</p>
 
-<p>Legation of the United States, 
-Monrovia, Sept 3rd '86
-Hon. T. F. Bayard
-Secretary of State
-Washington D. C.</p>
+<p>Reception of Diplomatic 
+series <unclear>sosq</unclear> and 10. Transit
+allowance to the widow of 
+the late Minster, granted
+by order of Department
+of State. Attention called to
+complaint against consular
+Agent at Elmina.</p>
 
-<p>Sir: I have the honor to inform 
-you that Dispatch No. 8, with the 
-enclosed letter of Lucy C. 
-Calloway, and also the intelligence
-of the death of the Wm 
-Hunter, the Second Assistant
-Secretary of State, have been
-received.</p>
+<p>Synopsis</p>
 
-<p>The usual symbols of mourning
-will be displayed at this Legation.</p>
+<p>Diplomatic series, Transit
+allowance, Complaint
+against consular Agent
+at Elmina (Gold Coast).</p>
 
-<p>I have the honor, sir, to be
-your obedient servant,</p>
+<pb n="Roll5-1014.jpg"/>
 
-<p>S. S. Sevier
-Act. Consul General</p>
+<p>U.S. Legation
+Monrovia Oct. 16/86</p>
+
+<p>Hon. James D. Porter
+Secy of State
+Washington D.C.</p>
+
+<p>Sir:
+I have the honor to inform you that Diplomatic Consular
+series <unclear>sosq</unclear> and 10  welr.
+received and transit
+allowance in favor of the
+widow of the late Minister
+Resident and Consul 
+<unclear></unclear> Moses A. Hopkins
+granted.</p>
+
+<p>In regard to the complaint against the
+Agent</p>
+
+<pb n="Roll5-1015.jpg"/>
+
+<p>Agent at Elmina Gold
+Coast of which your
+enclosure No. 224 of the
+Vice Consul at Sierra
+Leone fully states, will
+receive my immediate
+attention.</p>
+
+<p>I am Sir
+your obedient Servant</p>
+
+<p>Samuel S. Sevier
+Vice Consul</p>
+
+<p>Hon. Jas. D. Porter
+Assistant Secy. State
+Washington D.C.</p>
 
 
 
