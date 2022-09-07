@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1052">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1058">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Charles H. J. Taylor to James D. Porter, August 13, 1887</title>
+<title>Despatch from Beverly Y. Payne to A. A. Adee, November 27, 1887</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.1052</idno>
+<idno type="project">teaa.en.letter.1058</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Charles H. J. Taylor to James D. Porter, August 13, 1887</title>
+<title level="a">Despatch from Beverly Y. Payne to A. A. Adee, November 27, 1887</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
-<date when="1887-08-13">August 13, 1887</date>
+<date when="1887-11-27">November 27, 1887</date>
 </bibl>
 </sourceDesc>
 
@@ -71,13 +71,11 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Eminsary, George E.</term>
+<term>Washburne, Elihu B.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Elmina, Gold Coast</term>
-<term>Cape Palmas</term>
-<term>Grand Basas</term>
+<term></term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -96,23 +94,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Taylor, Charles H. J.</persName>
-<roleName>U.S. Minister Consular General </roleName>
+<persName>Payne, Beverly Y.</persName>
+<roleName>U.S. Acting Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1887-08-13"/>
+<date when="1887-11-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Porter, James D.</persName>
-<roleName>U.S. Assistant Secretary of State</roleName>
+<persName>Adee, A. A.</persName>
+<roleName>U.S. Second Assistant Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1887-10-01"/>
+<date when="1888-01-03"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2022-09-06" who="#slb">Transcription and encoding.</change>
+<change when="2022-09-07" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -122,69 +120,55 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll5-1192.jpg"/>
+<pb n="Roll5-1225.jpg"/>
 
 <p><add>DEPARTMENT OF STATE
-OCT 1 1887
-RECEIVED</add></p>
+JAN 3 1888
+RECEIVED.</add>
+<add>Mr. Payne sh.
+write on seals at ch paper
+in spite of his grief</add></p>
 
-<p>No. 8.</p>
+<p>U.S. Legation
+Monrovia, Liberia
+November 27th 1887</p>
 
-<p>U.S. Consulate Series
-Monrovia Li
-August 13th, '87</p>
+<p>Sir,
+It becomes my painful duty
+to acknowledge the receipt of your
+communication of the 24th at time
+announcing the death of Honerable
+Elihu B. Washburne, who was
+at one time Secretary of State
+of the United States, with inetruchin
+to adopt the usual symbol of
+public mourning for a period of
+ten days as a testimony of respect
+to the memory of the deceased;
+which was immediately obeyed.
+I conveyed to the Government of
+Liberia through the State Department
+the <unclear>o a d instelliganer</unclear>; and
+I am advised by the Secretary
+of State, to convey to gear, the
+sympathy of the Government of</p>
 
-<p>Chas. H. J. Taylor to Hon. Jas. D.  Porter</p>
+<pb n="Roll5-1226.jpg"/>
 
-<p>Subject:</p>
+<p>of Liberia in the taking off of
+such an eminent Statesman;
+and with the Government of
+the United States in the loss
+it has sustained in the death
+of so prominent and honored
+citizen.</p>
 
-<p>Report of Geo. E. Eminsary for
-2nd quarter ending June 30th 1887,
-U.S. Consular ag't at Elmina, Gold Coast Cd</p>
+<p>I have th honor to be
+Sir,
+Your obedient Servant
+Beverly Y. Payne
+U.S. Acting Vice Consul</p>
 
-<p>Enclosures</p>
-
-<p>1. Summary of business.
-2. Digest of the invoice book.
-3. Arrival and departures of A'a vessels.
-4. Detailed report of official service.</p>
-
-<pb n="Roll5-1193.jpg"/>
-
-<p>No. 8. U.S. Consulate Gen't Series
-Monrovia Liberia
-August 13th 1887</p>
-
-<p>Hon Jas D. Porter
-Ass't Secretary of State
-Washington D.C.</p>
-
-<p>Sir:
-I have the 
-honor to herewith transmit
-the Report of George E. Eminsary
-U.S. Consulate agent
-at Elmina, Cape Coast Castle,
-W. C. Africa, for the 2nd
-quarter ending June 30th
-1887. I hope the report may
-be formed to be correct. I have
-the honor in this connection
-to say, that I do not think it
-wise to nominate Consular
-agents for Cape Palmas and
-Grand Basas until such
-time as I am permited by
-the Department to visit said
-places, in view of present
-native difficulties rc., I am
-Sir,</p>
-
-<pb n="Roll5-1194.jpg"/>
-
-<p>sir, your obedient Servant</p>
-
-<p>Chas. H. J. Taylor</p>
 
 </div1>
 
