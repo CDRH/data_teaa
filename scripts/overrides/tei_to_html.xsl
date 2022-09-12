@@ -250,4 +250,29 @@
     </xsl:if>
   </xsl:template>
 
+  <xsl:template match="unclear">
+    <span>
+      <xsl:attribute name="class">
+        <xsl:text>unclear </xsl:text>
+        <xsl:value-of select="@reason"/>
+        <xsl:text> </xsl:text>
+        <xsl:attribute name="class">
+          <xsl:call-template name="add_attributes"/>
+        </xsl:attribute>
+      </xsl:attribute>
+      <xsl:apply-templates/>
+      <xsl:text>[</xsl:text>
+        <xsl:choose>
+          <xsl:when test="@extent">
+            <xsl:text>unclear, </xsl:text>
+            <xsl:value-of select="@extent"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:text>?</xsl:text>
+          </xsl:otherwise>
+        </xsl:choose>
+      <xsl:text>]</xsl:text>
+    </span>
+  </xsl:template>
+
 </xsl:stylesheet>
