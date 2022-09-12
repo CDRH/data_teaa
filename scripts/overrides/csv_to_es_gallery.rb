@@ -21,6 +21,18 @@ class CsvToEsGallery < CsvToEs
   # Original fields:
   # https://github.com/CDRH/datura/blob/master/lib/datura/to_es/csv_to_es/fields.rb
 
+  def page_data
+    if @row["page"]
+      @row["page"]
+    end
+  end
+
+  def assemble_collection_specific
+    @json["ethnicgroup_k"] = ethnicgroup_data
+    @json["pages_k"] = page_data
+    @json["format_k"] = "image"
+  end
+
   # ethnic groups go in ethnicgroup_k field
   def ethnicgroup_data
     if @row["ethnic.group"]
@@ -28,9 +40,7 @@ class CsvToEsGallery < CsvToEs
     end
   end
   
-  def assemble_collection_specific
-    @json["ethnicgroup_k"] = ethnicgroup_data
-  end
+    # added in assemble_collection_specific
   # end ethnic groups
 
   # powers go in keywords field
@@ -70,7 +80,7 @@ class CsvToEsGallery < CsvToEs
   end
 
   def date_display
-      @row["date"]
+      @row["date_display"]
   end
 
   # person, creator.name
@@ -101,6 +111,12 @@ class CsvToEsGallery < CsvToEs
   def person
     person_name_data.map do |p|
       { "name" => p }
+    end
+  end
+
+  def source
+    if @row["source"]
+      @row["source"]
     end
   end
 
