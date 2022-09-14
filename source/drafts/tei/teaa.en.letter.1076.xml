@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1076">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from Samuel S. Sevier to George L. Rives, May 23, 1888</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.1076</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from Samuel S. Sevier to George L. Rives, May 23, 1888</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">M-169, Roll 5</biblScope>
+<date when="1888-05-23">May 23, 1888</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term>Hopkins, Moses A.</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term></term>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term></term>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term></term>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Samuel S. Sevier</persName>
+<roleName>Ex-Vice Consul General</roleName>
+<placeName>Hampton (Virginia)</placeName>
+<date when="1888-05-23"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName>Rives, George L.</persName>
+<roleName>U.S. Assistant Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1888-05-24"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2022-09-14" who="#slb">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="Roll5-1299.jpg"/>
+
+<p>Monrovia</p>
+
+<p><add>DEPARTMENT OF STATE
+MAY 24 1888
+RECEIVED</add></p>
+
+<p>Hampton Va
+May 23 / 88</p>
+
+<p>Hon. G. L. Rives
+Assistant Secretary of State
+Washington D.C.</p>
+
+<p>Sir:
+Yours of the 16th inst. came
+duly to hand and I was more
+than glad that items of
+disallowances made against
+me had your careful consideration.
+Am I to understand
+that "Items of Disallownaces 4 9,
+and 11, for messenger service
+and for such portion of items 15
+<gap/>s is made up of compensation
+<gap/> messenger" only be drawn
+<gap/>y me, which above amount
+<gap/>is $75 50/100. Shall I draw for
+<gap/>the same? Please inform
+<gap/>me. I feel contented with</p>
+
+<pb n="Roll5-1300.jpg"/>
+
+<p>your judgement in my
+<gap/>se, but please your honor
+<gap/>inform Mrs Hopkins officially
+<gap/>that what she expects the
+<gap/>epartment of State to pay me
+<gap/>involve upon her to do so for
+<gap/>burial of her husband
+<gap/>Moses A. Hopkins.</p>
+
+<p>I have the honor to be, SIr,
+Yours Truly</p>
+
+<p>Samuel S. Sevier
+Address 57 South St.
+New York</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
