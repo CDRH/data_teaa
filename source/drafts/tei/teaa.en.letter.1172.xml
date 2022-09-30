@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1165">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1172">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Beverly Y. Payne to William F. Wharton, July 1, 1891</title>
+<title>Despatch from Beverly Y. Payne to William F. Wharton, October 20, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.1165</idno>
+<idno type="project">teaa.en.letter.1172</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to William F. Wharton, July 1, 1891</title>
+<title level="a">Despatch from Beverly Y. Payne to William F. Wharton, October 20, 1891</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
-<date when="1891-07-01">July 1, 1891</date>
+<date when="1891-10-20">October 20, 1891</date>
 </bibl>
 </sourceDesc>
 
@@ -71,11 +71,14 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Clark, Alexander</term>
+<term>Nichols</term>
+<term>Cobb</term>
+<term>Nelson, Frank</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Muscatine, Iowa</term>
+<term>Elmina, Gold Coast Colony</term>
+<term>Boston, Massachusetts</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -97,20 +100,20 @@
 <persName>Payne, Beverly Y.</persName>
 <roleName>U.S. Vice Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1891-07-01"/>
+<date when="1891-10-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Wharton, William F.</persName>
 <roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1891-08-20"/>
+<date when="1891-11-27"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2022-09-29" who="#slb">Transcription and encoding.</change>
+<change when="2022-09-30" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -120,71 +123,72 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll6-1089.jpg"/>
+<pb n="Roll6-1108.jpg"/>
 
 <p><add>DEPARTMENT OF STATE
-AUG 20 1891
+NOV 27 1891
 RECEIVED</add></p>
 
+<p>No. 25</p>
+
 <p>Consulate General of the United States
-Monrovia, July 1st 1891</p>
+Monrovia, October 20, 1891</p>
 
 <p>Mr Beverly Y. Payne,
 To the Department of State.</p>
 
 <p>Subject:</p>
 
-<p>Explanation of quarterly account
-rendered, and the effect of the
-late Consul General A. Clark</p>
+<p>Advice of transmission of the
+deposition of Frank Nelson
+to Messer Nichols and Cobb
+Boston.</p>
 
-<pb n="Roll6-1090.jpg"/>
+<pb n="Roll6-1109.jpg"/>
+
+<p>No. 25</p>
 
 <p>Consulate General of the United States
-Monrovia, July 1, 1891</p>
+Monrovia, October 20, 1891.</p>
 
 <p>Hon., William F. Wharton,
-Assistant Secretary of State,
-Washington, D. C.</p>
+Acting Secretary of State
+Washington D. C.</p>
 
 <p>Sir:
-I have the honor respectfully
-to state, that I have rendered full
-Account for the quarter ended
-June 30th 1891. Sixty days of which
-the late Consul General Clark
-was in charge: there are no
-outstandings in paid quarter but
-his salary.</p>
+Referring to my No 22 of
+the 18th ultimo, I have the honor
+of informing the Department,
+that I have transmitted to
+Messers, Nichols and Cobb
+40 Water Street, Boston,
+a copy of the deposition of
+Frank Nelson, of Boston,
+in the case Poland et a.
+vs Subtonstall et al, as taken
+by the Consular Agent at
+Elmina, Gold Coast Colony</p>
 
-<p>I have not assumed to
-charge any of his personal nor
-burial expenses to the Government,
-but will ship his affects to his
-relative in Muscatine, Iowa and
-under full account to them, by
-an American Bank, expected at
-this port daily, and I have so
-informed them.</p>
+<pb n="Roll6-1110.jpg"/>
 
-<p>I shall keep a
-copy</p>
+<p>Colony, September 5, 1890, in
+accordance with a Commission,
+issued Jun 11, 1890,
+by the United States Circuit
+Court of the District of Mass.</p>
 
-<pb n="Roll6-1091.jpg"/>
-
-<p>copy of said account on file in
-the Consulate, and if required,
-can furnish the Department
-with same.</p>
+<p>A copy of same, I had
+the honor of transmitting to
+the Department with my
+Consular Despatch No 15, of
+June 26, 1891.</p>
 
 <p>I have the honor to be,
 Sir,
 Your obedient Servant,</p>
 
-<p>Beverly Y. Payne
-U.S. Vice Consul</p>
-
-
+<p>Beverly Y. Payne,
+Vice Consul Gen.</p>
 
 </div1>
 
