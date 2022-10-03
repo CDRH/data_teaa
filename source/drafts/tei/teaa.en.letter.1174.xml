@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1173">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1174">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Beverly Y. Payne to William F. Wharton, November 2, 1891</title>
+<title>Despatch from Beverly Y. Payne to William F. Wharton, December 23, 1891</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.1173</idno>
+<idno type="project">teaa.en.letter.1174</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to William F. Wharton, November 2, 1891</title>
+<title level="a">Despatch from Beverly Y. Payne to William F. Wharton, December 23, 1891</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
-<date when="1891-11-02">November 2, 1891</date>
+<date when="1891-12-23">December 23, 1891</date>
 </bibl>
 </sourceDesc>
 
@@ -71,11 +71,14 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term>Clark, Alexander</term>
+<term>Yates</term>
+<term>Portfield</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term>New York, New York</term>
+<term>Muscatine, Iowa</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -97,20 +100,20 @@
 <persName>Payne, Beverly Y.</persName>
 <roleName>U.S. Vice Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1891-11-02"/>
+<date when="1891-12-23"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Wharton, William F.</persName>
 <roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1892-01-29"/>
+<date when="1892-02-02"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2022-09-30" who="#slb">Transcription and encoding.</change>
+<change when="2022-10-03" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -120,54 +123,56 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll6-1111.jpg"/>
+<pb n="Roll6-1114.jpg"/>
 
 <p><add>DEPARTMENT OF STATE
-JAN 29 1892
+FEB 2 1892
 RECEIVED</add></p>
 
-<p>No 26.</p>
-
 <p>Consulate General of the United States
-Monrovia, Liberia, November 2, 1891</p>
+Monrovia, December 23, 1891</p>
 
 <p>Mr Beverly Y. Payne,
 To the Department of State.</p>
 
 <p>Subject:</p>
 
-<p>Receipt of Circular.</p>
+<p>Transportation of the remains of Hon.,
+Alexander Clark, late Minister
+Resident and Consul General of the
+United States, at Monroivia, Liberia.
+Account and vouchers of expenses
+involved.</p>
 
-<pb n="Roll6-1112.jpg"/>
-
-<p>No. 26</p>
+<pb n="Roll6-1115.jpg"/>
 
 <p>Consulate General of the United States
-Monrovia, November 2, 1891.</p>
+Monrovia, December 23, 1891.</p>
 
 <p>Hon., William F. Wharton,
-Acting Secretary of State
+Assistant Secretary of State
 Washington D. C.</p>
 
 <p>Sir:
-I have the honor respectfully
-to acknwoeldge receipt of
-your Circular [SD, 8, '91 -1000] dated
-August 20, 1891, transmitting for
-my instruction and guidance a
-copy of an Executive Order, dated
-August 11, 1891, amending paragraph 664, of the Consular
-Regulations, relating to currency,
-<unclear>evpies</unclear> of the paragraph and
-certificate (from No 144) adapted to the
-new requirement, all being in</p>
+According to the instruction
+contained in your No 11, of July 21, last,
+I have to inform the Department
+that, the remains of Hon., Alexander
+Clark, late United States, Minister &amp;c
+were shipped to Mr George W.
+Appleton, Muscatine, Iowa, to the care
+of Messers, Yates &amp; Porterfield, Now York,
+per Bank "Liberia" on the 10th instant,
+and I have as advised the relative
+of the late Minister.</p>
 
-<pb n="Roll6-1113.jpg"/>
+<p>I herewith enclose account</p>
 
-<p>in suitable shape for paster to
-go in their proper places in the
-respectvie copies of the Consular
-Regulation: which have my attention, and will be observed.</p>
+<pb n="Roll6-1116.jpg"/>
+
+<p>account and voucher for the
+expenses involved, which, I trust
+will prove satisfactory.</p>
 
 <p>I have the honor to be,
 Sir,
@@ -175,6 +180,10 @@ Your obedient Servant,</p>
 
 <p>Beverly Y. Payne,
 U.S. Vice Consul</p>
+
+<p>1. Enclosure. Account and voucher (7)</p>
+
+<p>T. M.</p>
 
 </div1>
 
