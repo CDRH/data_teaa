@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1198">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1200">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from William D. McCoy to Josiah Quincy, March 22, 1893</title>
+<title>Despatch from William D. McCoy to Josiah Quincy, March 31, 1893</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.1198</idno>
+<idno type="project">teaa.en.letter.1200</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from William D. McCoy to Josiah Quincy, March 22, 1893</title>
+<title level="a">Despatch from William D. McCoy to Josiah Quincy, March 31, 1893</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
-<date when="1893-03-22">March 22, 1893</date>
+<date when="1893-03-31">March 31, 1893</date>
 </bibl>
 </sourceDesc>
 
@@ -97,20 +97,20 @@
 <persName>McCoy, William D.</persName>
 <roleName>U.S. Minister Resident and Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1893-03-22"/>
+<date when="1893-03-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName>Quincy, Josiah</persName>
 <roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1893-05-04"/>
+<date when="1893-05-08"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2022-10-05" who="#slb">Transcription and encoding.</change>
+<change when="2022-10-06" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -120,49 +120,59 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll6-2030.jpg"/>
+<pb n="Roll6-2034.jpg"/>
 
-<p><add>INDEX BUREAU
-RECEIVED
-MAY 4 93.</add></p>
-
-<p>No. 20. Consulate-General U.S.A.,
-Monrovia, Liberia, March 22, 1893.</p>
+<p>No. 22. Consulate-General U.S.A.,
+Monrovia, Liberia, March 31, 1893.</p>
 
 <p>Mr. William D. McCoy,
 to the Department of State.</p>
 
-<p>Subject-</p>
+<p><add>INDEX BUREAU
+RECEIVED
+MAY 8 93.</add></p>
 
-<p>Request for two copies of Rules
-and Regulations governing the U.S.
-Navy.</p>
+<p>SUBJECT:</p>
 
-<p>Abstract of Contents.</p>
+<p>Submission of Quarterly Reports.</p>
 
-<pb n="Roll6-2031.jpg"/>
+<p>ABSTRACT OF CONTENTS.</p>
 
-<p>No. 20. Consulate-General, U.S.A.,
-Monrovia, Liberia, March 22, 1893.</p>
+<pb n="Roll6-2035.jpg"/>
+
+<p>No. 22. Consulate-General, U.S.A.,
+Monrovia, Liberia, March 31, 1893.</p>
 
 <p>Honorable
 Assistant Secretary of State,
 WASHINGTON, D. C.</p>
 
 <p>Sir:
-The Liberian Government has
-requested a copy of the Rules and
-Regulations governing the U.S. Navy.</p>
-
-<p>Will you please have two copies
-mailed- one for the Liberian government
-and one to be placed on file
-in this office.</p>
+I have the honor of submitting
+the inclosed Reports for the Quarter
+ending this date. </p>
 
 <p>Your obedient Servant,</p>
 
 <p>William D. McCoy
 U.S. Consul-General.</p>
+
+<p>Inclosures --</p>
+
+<p>1. Summary of business
+2. Digest of the Invoice Book
+3. Arrival and Departures of vessels
+4. Record of notarial Service
+5. ,, <gap/>,, Treasury Fees received
+6. Salary Account
+7. Contingent Expense Account
+<gap/>8. Register</p>
+
+<pb n="Roll6-2036.jpg"/>
+
+<p>8. Register of Letters sent
+9. Abstract of Expenses
+10. Vouchers for Expenditures</p>
 
 </div1>
 
