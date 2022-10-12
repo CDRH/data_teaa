@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0946">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0950">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from J. Milton Turner to Frederick W. Seward, August 30, 1877</title>
+<title>Despatch from J. Milton Turner to Frederick W. Seward, October 1, 1877</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0946</idno>
+<idno type="project">teaa.en.letter.0950</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -45,7 +45,7 @@
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 3</biblScope>
-<date when="1877-08-30">August 30, 1877</date>
+<date when="1877-10-01">October 1, 1877</date>
 </bibl>
 </sourceDesc>
 
@@ -97,20 +97,20 @@
 <persName ref="http://viaf.org/viaf/3272285">Turner, James Milton</persName>
 <roleName>Minister Resident and Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1877-08-30"/>
+<date when="1877-10-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1877-10-23"/>
+<date when="1877-11-21"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2022-09" who="#kln">Transcription and encoding.</change>
+<change when="2022-10" who="#kln">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -120,57 +120,68 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll3-1156.jpg"/>
+<pb n="Roll3-1173.jpg"/>
 
-<p>No. 29.</p>
+<p>No. 33.</p>
 
-<p>Consulate General of the United States,<lb/>
+<p>United States Consulate General<lb/>
 Monrovia, Liberia<lb/>
-30. August 1877</p>
+1st Octo. 1877.</p>
 
-<p>J. Milton Turner</p>
-
-<p>To the Department of State,<lb/>
+<p>J. Milton Turner<lb/>
+To the<lb/>
+Department of State,<lb/>
 Washington</p>
 
 <p>Subject:</p>
 
-<p>Acknowledging the receipt of Consular instruction as contained in Despatch No. 12.</p>
+<p>Report for quarter anded 30th Sept. 1877.</p>
 
 <p>Abstract of contents:</p>
 
-<p>Acknowledging the instruction No. 12. Expression of regret and assurances of increased <sic>dilligence</sic> in respect to the preparation of Consular despatches.</p>
+<p>Transmitting Report for quarter ended 30 Sept. 1877. and explanation of the reason for not sending statement of commerce for the fiscal year of Liberia</p>
 
-<pb n="Roll3-1157.jpg"/>
+<p><catchwords>Enclosures:</catchwords>
 
-<p>No. 29.</p>
+<pb n="Roll3-1174.jpg"/>
 
-<p>Consulate General of the United States,<lb/>
+Enclosures:</p>
+
+<p>No. 1. Register of Official Letters sent<lb/>
+ " 2. Do Do Do received<lb/>
+ " 3. Statement of Account<lb/>
+ " 4. Abstract of Contingent Expenses<lb/>
+ " 5. Arrivals and Departures of American Vessels</p>
+
+<pb n="Roll3-1175.jpg"/>
+
+<p>No. 33.</p>
+
+<p>United States Consulate General,<lb/>
 Monrovia, Liberia<lb/>
-30. August 1877.</p>
+1st Octo. 1877.</p>
 
-<p>Sir;</p>
+<p>Sir,</p>
 
-<p>I have had the honor to receive your No. 12. acknowledging my despatches Nos. 22. 23. and 24. and directing my attention to Article X of "Consular Regulations."</p>
+<p>I have the honor to transmit herewith my Report for the quarter ended 30th Sept. 1877.</p>
 
-<p>I regret that I may have been the unintentional cause of any delay or "embarrassment" to the routine of the Department and will hereafter observe the requirement
+<p>I regret that I am compelled by the difficulties attendant upon the collection of facts and figures necessary to ascertain the commerce at <catchwords>state</catchwords>
 
-<fw type="address">Hon F. W. Seward<lb/>
-Assistant Secretary of State<lb/>
+<fw type="address">Honorable<lb/>
+F. W. Seward,<lb/>
+Asst. Secretary of State,<lb/>
 Washington</fw>
 
-<pb n="Roll3-1158.jpg"/>
+<pb n="Roll3-1176.jpg"/>
 
-of the Article of the Regulations to which your instruction makes reference.</p>
+state and relations of Liberia for the fiscal year (which closes, in this country, on the 30th of September) to delay my report thereof for some days. However, I hope to have the honor to forward a statement upon that subject at an early day.</p>
 
-<p>I am,<lb/>
+<p>The 30th of September having <sic>occured</sic> on a Sunday, my Report bears date as above.</p>
+
+<p>I have to be,<lb/>
 Sir,<lb/>
-With expression of esteem,<lb/>
 Your obedient servant<lb/>
 J. Milton Turner</p>
-
-<p>Enclosures<lb/>
-Nihil.</p>
 
 </div1>
 
