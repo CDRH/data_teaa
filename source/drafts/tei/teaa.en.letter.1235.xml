@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1234">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1235">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from William H. Heard to Edwin F. Uhl, February 10, 1896</title>
+<title>Despatch from William H. Heard, March 16, 1896</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.1234</idno>
+<idno type="project">teaa.en.letter.1235</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from William H. Heard to Edwin F. Uhl, February 10, 1896</title>
+<title level="a">Despatch from William H. Heard, March 16, 1896</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
-<date when="1896-02-10">February 10, 1896</date>
+<date when="1896-03-16">March 16, 1896</date>
 </bibl>
 </sourceDesc>
 
@@ -71,12 +71,12 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Olney, Richard</term>
-<term>Adee, Alvey A.</term>
+<term>Payne, Beverly Y.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>New York, United States</term>
+<term>Washington, D. C.</term>
+<term>Monrovia, Liberia</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -98,20 +98,20 @@
 <persName>Heard, William H.</persName>
 <roleName>U.S. Minister Resident and Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1896-02-10"/>
+<date when="1896-03-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Uhl, Edwin F.</persName>
-<roleName>U.S. Assistant Secretary of State</roleName>
+<persName></persName>
+<roleName>Auditor for State and other Departments</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1896-03-14"/>
+<date when="1896-04-22"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2022-10-10" who="#slb">Transcription and encoding.</change>
+<change when="2022-10-11" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -121,21 +121,14 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll6-2126.jpg"/>
+<pb n="Roll6-2129.jpg"/>
 
-<p>No. 10</p>
-
-<p>Consular Series</p>
-
-<p>Legation of the United States,
-Monrovia, Liberia, Feby 10, 1896.</p>
-
-<p><add>Please look this up--
-he seems to have all he wants.</add></p>
+<p><del>Legation</del> of the United States,
+Monrovia, Liberia, March 16, 1896.</p>
 
 <p><add>INDEX BUREAU
 REC'D.
-MAR 14 1896
+APR 22 1896
 DEPT OF STATE</add></p>
 
 <p>William H. Heard,
@@ -143,55 +136,89 @@ to the Department of State.</p>
 
 <p>Subject:</p>
 
-<p>Supplies and furniture for Legation.</p>
+<p>Enclosing the agreement
+of Vice Consul B. Y. Payne.</p>
 
-<pb n="Roll6-2127.jpg"/>
-
-<p>No 10</p>
-
-<p>Consular series</p>
+<pb n="Roll6-2130.jpg"/>
 
 <p>Legation of the United States
-Monrovia, Liberia, Febry 10, 1896.</p>
+Monrovia, Liberia, March 16, 1896.</p>
 
-<p>Hon.Edwin F, Uhl,
-Assistant Secretary of State,
+<p>Hon. Auditor for State and other Departments,
 Washington D. C.</p>
 
 <p>Sir:
-I have the honor in replying
-to your consular series
-no. 9 of December 20, 1895
-to say, that I gave Hon.
-Alvey A. Adee Acting Secretary
-State on Aug. 20 1895 the
-estimate asked for by you,
-with exception of better files
-and pigeon holes, in my
-Diplomatic series no 17.
-Hon Richard Olney Secretary
-of State Authorized me in</p>
+I have the honor to
+enclose the agreement
+between Vice Consul
+Beverly Y. Payne and
+myself.</p>
 
-<pb n="Roll6-2128.jpg"/>
-
-<p>his Diplomatic Series 2012
-Sept 23 1895. to spend not
-more than $125.00 for rebuilding
-Archives- repairing and painting
-furniture- purchasing desk and
-chair for office. The work
-has done, the furniture
-ordered from New York
-at a cost of $111.50 not
-including letter files and
-pigeon holes. I have drawn
-draft no 27 in favor of
-the d'k Grant Monrovia Liberia
-for the amount.</p>
+<p>You will see by this
+agreement his is permitted
+to draw the salary
+allowed him in my
+absence.</p>
 
 <p>I am obediently
 William H. Heard
 Minister-Res. &amp; Gen.</p>
+
+<p>1 Enclosure</p>
+
+<p>Agreement of Vice Consul
+Col B. Y. Payne</p>
+
+<pb n="Roll6-2131.jpg"/>
+
+<p>The following Agreement is this day entered
+into between William H. Heard United
+States Minister Resident and Consul General
+at Monrovia Republic of Liberia, of the First
+Part, and Beverly Y. Payne, United States
+Vice Consul General at Monrovia, Liberia
+of the Second Part.</p>
+
+<p>The party of the First Part - being in bad
+health, and having obtained a Sixty (60) days
+Leave of absence, subject to the usual Statutory
+conditions to visit the United States, does
+on the day and date hereinafter mentioned,
+turn over the keys of the United States Legation
+and Consulate General at Monrovia, Liberia,
+with flags, arms, archive and furniture
+belonging thereto to the Party of the Second part,
+who, for and in consideration of the sum
+of Fifty Dollars ($50.00) per month to be
+drawn quarterly from the Secretary of State
+at Washington, D. C. United States of America
+by the Party of the Second part, does promise
+and agree to take charge of the said United
+States Legation and Consulate General at
+Monrovia Liberia, and keep safe and secure
+all flags, arms, archives and furniture
+thereunto belonging, during the period embraced
+in the above mentioned leave of absence and
+transmit of the Party of the First part in</p>
+
+<pb n="Roll6-2132.jpg"/>
+
+<p>accordance with the Consular Regulations
+governing Leaves of absence.</p>
+
+<p>In witness whereof, the said
+Parties of the First and Second
+parts doe hereunto subscribe
+their names and affix the seal
+of the Consulate General at
+Monrovia, Liberia this 16
+day of March, A.D. 1896.</p>
+
+<p>William H. Heard
+Minister Res and Con General</p>
+
+<p>Beverly Y. Payne
+Vice Consul General</p>
 
 </div1>
 
