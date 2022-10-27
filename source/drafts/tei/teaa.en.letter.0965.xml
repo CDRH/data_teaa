@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0960">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0965">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from John H. Smyth to Frederick W. Seward, November 20, 1878</title>
+<title>Despatch from John H. Smyth to Frederick W. Seward, January 16, 1879</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0960</idno>
+<idno type="project">teaa.en.letter.0965</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -45,7 +45,7 @@
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 3</biblScope>
-<date when="1878-11-20">November 20, 1878</date>
+<date when="1879-01-16">January 16, 1879</date>
 </bibl>
 </sourceDesc>
 
@@ -59,7 +59,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,7 +71,10 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/20436089">Evarts, William Maxwell, 1818-1901</term>
+<term>Morgan</term>
+<term>Morrison</term>
+<term>Stearns, B. F.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
@@ -97,13 +100,13 @@
 <persName>Smyth, John H.</persName>
 <roleName>Minister Resident and Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1878-11-20"/>
+<date when="1879-01-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1878-12-23"/>
+<date when="1879-02-17"/>
 </correspAction>
 </correspDesc>
 
@@ -120,40 +123,49 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll3-2053.jpg"/>
+<pb n="Roll3-2078.jpg"/>
 
-<p>C.<lb/>
-No. 1.</p>
+<p>C. No. 6.</p>
 
 <p><del>Legation</del> Consulate General of the United States,<lb/>
-Monrovia, Nov. 20, 1878.</p>
+Monrovia, La., Jan'y 16, 1879.</p>
 
-<p>Mr. J. H. Smyth to the Secretary of State</p>
+<p>Mr. J. H. Smyth to the Secretary of State.</p>
 
 <p>Subject:</p>
 
-<p>Acknowledgement of receipt of dispatch No. 11.</p>
+<p>Coffee pkg's sent.</p>
 
-<pb n="Roll3-2054.jpg"/>
+<p>Synopsis:</p>
 
-<p>C.<lb/>
-No. 1.</p>
+<p>Explanation as to the two pkg's of coffee sent by me through B. F. Stearns, Esq., London to Dep't at Washington, D.C.</p>
+
+<pb n="Roll3-2079.jpg"/>
+
+<p>C. No. 6.</p>
 
 <p>Legation of the United States,<lb/>
-Monrovia, Nov. 20, 1878.</p>
+Monrovia, La., Jan'y 16, 1879.</p>
 
 <p>Sir:</p>
 
-<p>Your No. 11 of October 9, 1878 in which you refer to the separation of the Consular and Diplomatic correspondence, was received.</p>
+<p>I have the honor, in accordance with the request made in your No. 16, dated Nov. 27, 1878, to inform you that I sent two pkg's of coffee addressed to the Dep't through our London Ag't Mr. B. F. Stearns.</p>
 
-<p>I have to say in reply that your direction will be heeded.</p>
+<p>This coffee was specimen or a sample of the best growth and preparation for transportation of Liberian coffee; and as such I supposed there were to be no charges upon it.</p>
 
-<p>I am, Sir, Your obd't serv't<lb/>
-Jno. H. Smyth.</p>
+<p><catchwords>One</catchwords>
 
 <fw type="address">Hon. F. W. Seward,<lb/>
-Ass't Sec'y of State,<lb/>
+Act'g Secretary of State,<lb/>
 Washington, D.C.</fw>
+
+<pb n="Roll3-2080.jpg"/>
+
+One pk'g. was intended for the Hon. The Secretary of State, and I enclosed a prive note in an official envelope to him, and the other was for Col. Morgan, Mr. Morrison, a similar note being enclosed for them.</p>
+
+<p>I am, Sir,<lb/>
+Your very obd't serv't,<lb/>
+Jno. H. Smyth</p>
 
 </div1>
 
