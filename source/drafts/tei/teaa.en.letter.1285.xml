@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1280">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1285">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Owen L. W. Smith to David J. Hill, December 9, 1899</title>
+<title>Despatch from James Robert Spurgeon to David J. Hill, May 14, 1900</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.1280</idno>
+<idno type="project">teaa.en.letter.1285</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Owen L. W. Smith to David J. Hill, December 9, 1899</title>
+<title level="a">Despatch from James Robert Spurgeon to David J. Hill, May 14, 1900</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
-<date when="1899-12-09">December 9, 1899</date>
+<date when="1900-05-14">May 14, 1900</date>
 </bibl>
 </sourceDesc>
 
@@ -71,7 +71,9 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Jackson, R. H,</term>
+<term>Taylor, Julius C.</term>
+<term>Ketter, Isaac</term>
+<term>Wilson, S. L.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
@@ -94,23 +96,23 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Smith, Owen L. W.</persName>
-<roleName>U.S. Minister Resident and Consul General</roleName>
+<persName>Spurgeon, James Robert</persName>
+<roleName>U.S. Charge</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1899-12-09"/>
+<date when="1900-05-14"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Cridler, Thomas W.</persName>
-<roleName>U.S. Third Assistant Secretary of State</roleName>
+<persName>Hill, David J.</persName>
+<roleName>U.S. Assistant Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1900-02-05"/>
+<date when="1900-06-19"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2022-11-01" who="#slb">Transcription and encoding.</change>
+<change when="2022-11-02" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -120,110 +122,98 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll6-3078.jpg"/>
+<pb n="Roll6-3089.jpg"/>
 
-<p>No. 41, Consular Series.
+<p>No. 46, Consular Series.
 Legation of the United States,
-Monrovia Liberia, 
-Dec. 9, 1899.</p>
-
-<p><add>INDEX BUREAU
-REC'D
-FEB 5 '00
-DEPT OF STATE</add></p>
+Monrovia Liberia, May 14, 1900.</p>
 
 <p><add>3rd ASST. SECRETARY
-FEB 7 1900</add></p>
+JUN 19 1900</add></p>
 
-<p>Owen L. W. Smith
-To
-Hon. Thos., W. Cridler,
-Third Assistant Secretary of State,
+<p>Mr. James Robert Spurgeon,
+to 
+Hon. David J. Hill, Asst. Secty of State
 Washington.</p>
 
 <p>Subject.
-Reply to your No. 23,
-of Sept. 2, 1899; relative
-to vacating the present
-premises occupied for
-United States Legation
-Monrovia, Liberia.</p>
+U.S. Pensioner's mail robbed.</p>
 
-<pb n="Roll6-3079.jpg"/>
+<p>Synopsis.
+Isaac Ketter, pension certificate
+#54773 and Julius C. Taylor,
+pension certificate #909720
+not having received their returns
+institutes an investigation
+which discloses the fact that
+their checks had be extracted
+from the envelope etc.</p>
 
-<p>3</p>
+<p><add>Consular Bureau.
+JUN 20 1900</add></p>
 
-<p>No. 41. Consular Series.
+<pb n="Roll6-3090.jpg"/>
+
+<p>No. 46, Consular Series.
 Legation of the United States,
-Monrovia Liberia;
-Dec., 9, 1899.</p>
+Monrovia, Liberia May 14, 1900.</p>
 
-<p>Hon. Thos. W. Cridler,
-Third Assistant Secretary of State;
-Washington.</p>
+<p>Honorable David J. Hill,
+Asst. Secretary of State,
+Washington, D.C.</p>
 
 <p>Sir:
-I have the honor to
-acknowledge the receipt
-Oct., 13, of your No. 23, of
-Sept., 2, 1899; advising
-that I vacate the present
-premises, used as United
-States Legation Monrovia;
-provided the administrator
-Hon., R. H. Jackson, will
-not sink a well on the
-said premises.</p>
+I have the honor to inform
+you that the mail from Mr. S. L.
+Wilson United States Pension Agent
+at Washington, containing checks
+from the Treasury Department
+and vouchers for Pensioners
+in Liberia has been repeatedly
+tampered with from time to time.
+Sometimes Pensioners would
+receive the envelope contianing
+the voucher but the check
+would be missing. During
+the Past two months there has
+been repeated inquiries as to
+the reason of Pensioners not
+having received any returns
+at all from the Pension Agent.</p>
 
-<p>In reply, I beg to say,
-I have just, yesterday,
-succeeded in having
-an interview with Senator
-Jackson, relative to
-the</p>
+<pb n="Roll6-3091.jpg"/>
 
-<pb n="Roll6-3080.jpg"/>
+<p>It appears now that we have
+a clue to the matter. An
+under clerk in the local post
+office is suspected and he has
+left for parts as yet unknown.
+We do not know to what <unclear></unclear>
+this robbery of the mail has
+gone on but of the pensioners
+Isaac Ketter, certificate 54,773
+and Julius C. Taylor 909,720
+certificate appear to be the
+known loosers. They
+employed attorneys and
+instituted an investigation.
+The result is they are on the
+track of parties who have
+been seen with the checks.</p>
 
-<p>4</p>
+<p>I would suggest that in
+the future all mail from
+the department at Washington
+containing drafts or checks
+or Treasury notes be registered
+and sealed officially. There is
+great regard here for a letter
+impressed with the U.S. seal.</p>
 
-<p>the advice of the Department.
-He says it is not
-practiceable to sink a well,
-on the said premisees, owing
-to the rocky foundation,
-and the want of proper
-machinery for drilling &amp;c.
-He says he prefers that
-the United States, shall
-have the use of the said
-premises, but if it will
-not retain the use, thereof,
-without the sinking of a
-well, it will have to vacate.</p>
-
-<p>Owing to the scarcity
-of respectable and well
-situated property that can be
-rented, I think it best not
-to hurry out. It is possibly
-probable that I can <unclear></unclear>
-equally as good quarters,
-with a well on the premsises,
-for about the same,
-rent, though not as desireably
-sitated, in about a twelve
-months</p>
-
-<pb n="Roll6-3081.jpg"/>
-
-<p>5</p>
-
-<p>months time.</p>
-
-<p>I have the honor to be
-your obedient servant;
-Owen L. W. Smith,
-M. R. and C. General.</p>
+<p>I have the honor to be, sir,
+your obedient servant,
+James Rob't Spurgeon
+Charge.</p>
     
 </div1>
 
