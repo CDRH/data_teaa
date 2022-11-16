@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0962">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0968">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from John H. Smyth to Frederick W. Seward, November 20, 1878</title>
+<title>Despatch from John H. Smyth to Charles Payson, March 8, 1879</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.0962</idno>
+<idno type="project">teaa.en.letter.0968</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from John H. Smyth to Frederick W. Seward</title>
+<title level="a">Despatch from John H. Smyth to Charles Payson</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 3</biblScope>
-<date when="1878-11-20">November 20, 1878</date>
+<date when="1879-03-08">March 8, 1879</date>
 </bibl>
 </sourceDesc>
 
@@ -71,15 +71,17 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Aenmey, M. A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Cape Palmas (Liberia)</term>
+<term>Monrovia (Liberia)</term>
+<term>Netherlands</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
-<term>United States</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -97,20 +99,20 @@
 <persName>Smyth, John H.</persName>
 <roleName>U.S. Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1878-11-20"/>
+<date when="1879-03-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/77754769">Seward, Frederick William, 1830-1915</persName>
-<roleName>Assistant U.S. Secretary of State</roleName>
+<persName>Payson, Charles</persName>
+<roleName>Third Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1878-12-23"/>
+<date when="1879-04-14"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
-<change when="2022-10" who="#kln">Transcription and encoding.</change>
+<change when="2022-11" who="#kln">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
 
@@ -120,61 +122,48 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll3-2057.jpg"/>
+<pb n="Roll3-2091.jpg"/>
 
-<p>C.<lb/>
-No. 3.</p>
+<p>No. 9</p>
 
-<p><del>Legation</del> Consulate General of the United States,<lb/>
-Monrovia, No. 20, 1878.</p>
+<p>Consulate General of the United States,<lb/>
+Monrovia, La., Mar. 8, 1879.</p>
 
-<p>Mr. J. H. Smyth to the Secretary of State.</p>
+<p>Mr. J. H. Smyth to the Third Ass't Sec'y of State.</p>
 
 <p>Subject:</p>
 
-<p>The barque "Cupid."</p>
+<p>Receipt of despatches.</p>
 
 <p>Synopsis:</p>
 
-<p>Protection &amp; support furnished the destitute seamen of the barque, under impression that the ownership of the vessel determined its nationality.</p>
+<p>An acknowledgement of the receipt of two dispatches, one as to the appointment of a Consular Agent at Cape Coast Castle, and the other manner of heading Consular correspondence.</p>
 
-<pb n="Roll3-2058.jpg"/>
+<pb n="Roll3-2092.jpg"/>
 
-<p>C.<lb/>
-No. 3.</p>
+<p>No. 9.</p>
 
-<p>Legation of the United States,<lb/>
-Monrovia, Nov. 20, 1878.</p>
+<p>Consulate General of the United States,<lb/>
+Monrovia, La., March 8, 1879.</p>
 
 <p>Sir:</p>
 
-<p>I have the honor to acknowledge the receipt of your No 9, dated Oct. 8, 1878 with reference to the barque "Cupid."</p>
+<p>I have the honor to advise the Department of the receipt of your Nos 2 &amp; 3, dated, each, January 2nd, 1879; on the 7th of March, the mail having been sent to Palmas, the steamer not stopping at Monrovia.</p>
 
-<p>Ere you shall have received this, you will be in possession of the Judicial proceedings had in the Admiralty Court with respect to the barque in question.</p>
+<p>At to your No. 2, I have to inform the Department that Mr. <sic>Hamel</sic> has gone to the Netherlands in consequence of severe illness.</p>
 
-<p>You inform me that the vessel "cannot be looked <catchwords>upon</catchwords>
+<p>As to No. 3, the instruction will be heeded.</p>
 
-<fw type="address">Hon. F. W. Seward,<lb/>
-Ass't Sec'y of State,<lb/>
+<p><catchwords>I</catchwords>
+
+<fw type="address">Hon. Chas. Payson,<lb/>
+Third Ass't Secretary of State<lb/>
 Washington, D.C.</fw>
 
-<pb n="Roll3-2059.jpg"/>
+<pb n="Roll3-2093.jpg"/>
 
-upon as a United States vessel."</p>
-
-<p>Now if after seeing the decree of the Court, the Department still hods the opinion above quoted, I shall find myself in a dilemma; for the reason that after the burning of the vessel, with the exception of master, mate &amp; steward, all the sailors were in a destitute condition, and as American seamen claimed and received protection &amp; support from the Legation.</p>
-
-<p>The men signed the articles under the impression that the vessel was an American vessel; it being the <catchwords>property</catchwords>
-
-<pb n="Roll3-2060.jpg"/>
-
-property of American citizens.</p>
-
-<p>I was governed in my action, in giving support to the destitute seamen of the "Cupid," by the latter portion of Art. 13, Sec. 128, Consular Regulation beginning with the words: "and that every person &amp;c., &amp;c.</p>
-
-<p>For the information of the Legation I would be advised whether the flag or property in the vessel determines its nationality.</p>
-
-<p>With distinguished consideration, I am, Sir,<lb/>
+I am, Sir,<lb/>
+With high consideration of esteem,<lb/>
 Your obd't serv't,<lb/>
 Jno. H. Smyth</p>
 
