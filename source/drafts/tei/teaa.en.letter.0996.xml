@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.0996">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from John H. Smyth to William Hunter, November 14, 1879</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.0996</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from John H. Smyth to William Hunter</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">M-169, Roll 3</biblScope>
+<date when="1879-11-14">November 14, 1879</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Smyth, John H.</persName>
+<roleName>U.S. Consul General</roleName>
+<placeName>Monrovia (Liberia)</placeName>
+<date when="1879-11-14"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/3981158369766001460009">Hunter, William, 1805-1886</persName>
+<roleName>Acting U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1879-12-27"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2023-01" who="#kln">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="Roll3-2223.jpg"/>
+
+<note>Department of State Received Dec 27 1879</note>
+
+<p>No. 37.</p>
+
+<p>Consulate Gen'l of the United States,<lb/>
+Monrovia, Liberia, Nov. 14, 1879.</p>
+
+<p>Mr. J. H. Smyth to the Act'g Sec'y, State.</p>
+
+<p>Subject:</p>
+
+<p>Dispatches:</p>
+
+<p>Synopsis:</p>
+
+<p>As to reception by Dep't of several dispatches from this Consulate General.</p>
+
+<pb n="Roll3-2224.jpg"/>
+
+<p>No. 37.</p>
+
+<p>Consulate Gen'l of the United States,<lb/>
+Monrovia, Liberia, Nov. 14, 1879.</p>
+
+<p>Sir:</p>
+
+<p>Your No. 9, date–Sept. 1st, 1879 acknowledging the reception of my Nos. 19, 20, 21, 22, 23 &amp; 24, consular series; and, also your No. 36, date Sept. 12, 1879 as to receipt of my Nos. 27 to 41 inclusive, same series, received.</p>
+
+<p>I am, Sir,<lb/>
+Your very obd't serv't,<lb/>
+Jno. H. Smyth,<lb/>
+U.S. Consul Gen'l</p>
+
+<fw type="address">Hon. Wm Hunter,<lb/>
+Acting Sec'y of State,<lb/>
+Washington, D.C.</fw>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
