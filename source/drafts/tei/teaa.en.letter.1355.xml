@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1355">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from John H. Smyth to William Hunter, January 27, 1881</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.1355</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from John H. Smyth to William Hunter</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">M-169, Roll 3</biblScope>
+<date when="1881-01-27">January 27, 1881</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Smyth, John H.</persName>
+<roleName>U.S. Consul General</roleName>
+<placeName>Monrovia (Liberia)</placeName>
+<date when="1881-01-27"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/3981158369766001460009">Hunter, William, 1805-1886</persName>
+<roleName>Second Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+<date when="1881-03-05"/>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2023-02" who="#kln">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="Roll3-2341.jpg"/>
+
+<note>Department of State Received Mar 5 1881</note>
+
+<p>No. 63.</p>
+
+<p>Consulate General of the United States,<lb/>
+Monrovia, La, Jan'y 27, 1881.</p>
+
+<p>Mr. J. H. Smyth to the Second Ass't Sec'y of State.</p>
+
+<p>Subject:</p>
+
+<p>Reply to Dept's No. 17.</p>
+
+<p>Synopsis:</p>
+
+<p>Apparent error in date and explanation.</p>
+
+<pb n="Roll3-2342.jpg"/>
+
+<p>No. 63.</p>
+
+<p>Consulate General of the United States,<lb/>
+Monrovia, La, Jan'y 27, 1881.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor respectfully to acknowledge the receipt of your No. 17, date Dec. 11, 1880, consular series relative to the suspension of my contingent expense account for quarter ending June 30, 1880.</p>
+
+<p>The mistake apparent in the account was in the date of the report. The date of the report should have been Sept. 30, 1879. The despatch was consular series, No. 52, date May 7, 1880, which was written just before <catchwords>I</catchwords>
+
+<fw type="address">Hon. W. Hunter,<lb/>
+Second Assistant Secretary,<lb/>
+Washington, D.C.</fw>
+
+<pb n="Roll3-2343.jpg"/>
+
+I left my past to visit the United States. The Liberian fiscal year ends Sept. 30, in each year and not June. Although much time and expense were used to secure statistics from the several counties and at the capital, I failed to secure such data, which fact I mentioned.</p>
+
+<p>The facts furnished in my annual commercial report, I find it impossible to furnish separate vouchers for the whole, owing to the manner in which the information is obtained. I commence at the close of one fiscal year to gather facts for the report of the next. I go from place to place, and solicit &amp; get data, and make a not of my expenditure <catchwords>for</catchwords>
+
+<pb n="Roll3-2344.jpg"/>
+
+for the time covered &amp; information gained, and forward my voucher for the money that has been used, and when the amount exceeds the regulation allowance, for obvious reasons I do not make the charge.</p>
+
+<p>I am, Sir,<lb/>
+Your obedient servant,<lb/>
+Jno. H. Smyth, U.S. Consul General.</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
