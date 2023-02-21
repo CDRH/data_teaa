@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1374">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1365">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from John H. Smyth to Robert R. Hitt, September 28, 1881</title>
+<title>Despatch from John H. Smyth to William Hunter, May 31, 1881</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -32,7 +32,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">teaa.en.letter.1374</idno>
+<idno type="project">teaa.en.letter.1365</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -41,11 +41,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from John H. Smyth to Robert R. Hitt</title>
+<title level="a">Despatch from John H. Smyth to William Hunter</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 3</biblScope>
-<date when="1881-09-28">September 28, 1881</date>
+<date when="1881-05-31">May 31, 1881</date>
 </bibl>
 </sourceDesc>
 
@@ -71,11 +71,12 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term>Williams, Henry Augustus</term>
+<term>Worrell, John W.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Grand Bassa (Liberia)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -97,13 +98,13 @@
 <persName>Smyth, John H.</persName>
 <roleName>U.S. Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1881-09-28"/>
+<date when="1881-05-31"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName ref="http://viaf.org/viaf/41403558">Hitt, Robert R. (Robert Roberts), 1834-1906</persName>
-<roleName>Acting U.S. Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/3981158369766001460009">Hunter, William, 1805-1886</persName>
+<roleName>Second Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1881-11-04"/>
+<date when="1881-07-09"/>
 </correspAction>
 </correspDesc>
 
@@ -120,45 +121,51 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll3-2398.jpg"/>
+<pb n="Roll3-2376.jpg"/>
 
-<note>Department of State Received Nov 4 1881</note>
+<note>Department of State Received Jul 9 1881</note>
 
-<p>No. 82.</p>
+<p>No. 74.</p>
 
 <p>Consulate General of the United States,<lb/>
-Monrovia, La, Sept. 28, 1881.</p>
+Monrovia, Liberia, May 31, 1881.</p>
 
-<p>Mr. J. H. Smyth<lb/>
-to the Acting Secretary.</p>
+<p>Mr. J. H. Smyth to the<lb/>
+Second Assistant Secretary of State.</p>
 
 <p>Subject:</p>
 
-<p>My despatches #76.</p>
+<p>Office of Consular Agent at Grand Bassa.</p>
 
-<pb n="Roll3-2399.jpg"/>
+<p>Synopsis:</p>
 
-<p>No. 82.</p>
+<p>Acceptance of Hon. J. W. Worrell</p>
+
+<pb n="Roll3-2377.jpg"/>
+
+<p>No. 74.</p>
 
 <p>Consulate General of the United States,<lb/>
-Monrovia, La, Sept. 28, 1881.</p>
+Monrovia, La, May 31, 1881.</p>
 
 <p>Sir:</p>
 
-<p>Your No. 26, dated Aug. 13, 1881, has been received. By inadvertence two despatches were numbered 76. The latter should be changed to 76½. By so changing it the error will not extend–as you will see.</p>
+<p>I have the honor to respectfully advise you of the receipt of a letter from Hon. John W. Worrell, dated April 16, 1881, in which he accepts the office of U.S. Consular Agent at Grand Bassa, which I tendered him.</p>
+
+<p>In my No 73, May 13, 1881, I made allusion to Mr. Worrell. from Mr. W's reputation as a lawyer, and from my personal knowledge of him, I feel confident that he is a gentleman, who will as an officer, be entirely satisfactory <catchwords>to</catchwords>
+
+<fw type="address">Hon. W. Hunter,<lb/>
+Second Assistant Secretary,<lb/>
+Washington, D.C.</fw>
+
+<pb n="Roll3-2378.jpg"/>
+
+to the Department.</p>
 
 <p>I am, Sir,<lb/>
 Your obd't serv't,<lb/>
-Jno. H. Smyth, U.S.<lb/>
-Consul Gen'l</p>
-
-<fw type="address">Hon. R. R. Hitt,<lb/>
-Acting Secretary,<lb/>
-Washington, D.C.</fw>
-
-<p>P.S.</p>
-
-<p>Circular, dated July 23, 1881, received</p>
+Jno. H. Smyth,<lb/>
+U.S. Consul General.</p>
 
 </div1>
 
