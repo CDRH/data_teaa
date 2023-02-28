@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="teaa.en.letter.1386">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Despatch from M. A. Aenmey to William Hunter, April 26, 1882</title>
+<principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>"To Enter Africa from America"</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">teaa.en.letter.1386</idno>
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to To Enter Africa from America, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="a">Despatch from M. A. Aenmey to William Hunter</title>
+<title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
+<publisher>National Archives and Records Administration</publisher>
+<biblScope unit="roll">M-169, Roll 3</biblScope>
+<date when="1882-04-26">April 26, 1882</date>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<langUsage>
+
+<language ident="en">English</language>
+</langUsage>
+
+<textClass>
+<keywords scheme="original" n="theme">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="type">
+<term>Texts</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Despatches</term>
+</keywords>    
+    
+<keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/818337">Garnet, Henry Highland, 1815-1882</term>
+</keywords>
+    
+<keywords scheme="original" n="places">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="powers">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="ethnic_group">
+<term/>
+</keywords>
+    
+<keywords scheme="original" n="religion">
+<term/>
+</keywords>
+
+</textClass>
+
+<correspDesc>
+<correspAction type="sentBy">
+<persName>Aenmey, Marianus Adrianus</persName>
+<roleName>Acting U.S. Consul General</roleName>
+<placeName>Monrovia (Liberia)</placeName>
+<date when="1882-04-26"/>
+</correspAction>
+<correspAction type="deliveredTo">
+<persName ref="http://viaf.org/viaf/3981158369766001460009">Hunter, William, 1805-1886</persName>
+<roleName>Second Assistant U.S. Secretary of State</roleName>
+<placeName>Washington (D.C.)</placeName>
+</correspAction>
+</correspDesc>
+
+</profileDesc>
+
+<revisionDesc>
+<change when="2023-02" who="#kln">Transcription and encoding.</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 xml:lang="en" type="document">
+
+<pb n="Roll3-3035.jpg"/>
+
+<note>No 7</note>
+
+<p>Consulate General of the United States<lb/>
+Monrovia April 26th 1882</p>
+
+<p>Mr M. A Aenmey to the Second Assist Secry of State</p>
+
+<p>Subject</p>
+
+<p>Quarterly Returns and accounts.</p>
+
+<pb n="Roll3-3036.jpg"/>
+
+<note>No 7</note>
+
+<p>Consulate General of the United States<lb/>
+Monrovia April 26th 1882</p>
+
+<p>Sir</p>
+
+<p>I have the honor respectfully to submit my quarterly returns and accounts for the third quarter, ending March 31st 1882.</p>
+
+<p>The office rent is quoted in the account as mem for <sic>rasons</sic> explained in my dispatch to the Department marked No 6, having <sic>recived</sic> no reply since from the parties concerned</p>
+
+<p>The bill as pr voucher No 3 was left unpaid by the late minister H. H. Garnet and presented to me for payment.</p>
+
+<p>The <sic>expences</sic> as pr voucher No 4 I was compelled to make, the two doors of the office room being at the time of death of the late Minister Garnet in such a condition, that no key <sic>nither</sic> lock or any fastenings prevented the entrance in to the office.</p>
+
+<p>Please to find enclosed for the dept the following</p>
+
+<p>1 Digest of Invoice book<lb/>
+2 Arrivals and departure of American vessels<lb/>
+3 Rent and miscellaneous <sic>expences</sic> with vouchers</p>
+
+<fw type="address">Hon Second Assist Secy of State<lb/>
+Washington D.C.</fw>
+
+<pb n="Roll3-3037.jpg"/>
+
+<p>Trusting this accounts will meet the approval of the Department.</p>
+
+<p>I am Sir<lb/>
+with sentiments of distinguished consideration<lb/>
+Your obedt servt<lb/>
+M A Aenmey<lb/>
+Act. Consul General.</p>
+
+<p>Enclosures</p>
+
+<p>1 Digest of Invoice book<lb/>
+2 Arrivals and departures of American vessels<lb/>
+3 Rent and Miscellaneous <sic>expences</sic> with vouchers.</p>
+
+</div1>
+
+</body>
+</text>
+
+</TEI>
