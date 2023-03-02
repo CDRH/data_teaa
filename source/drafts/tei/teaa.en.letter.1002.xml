@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Samuel S. Sevier to A. A. Adee, September 29, 1886</title>
+<title>Despatch from Samuel S. Sevier to Alvey A. Adee, September 29, 1886</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to A. A. Adee, September 29, 1886</title>
+<title level="a">Despatch from Samuel S. Sevier to Alvey A. Adee</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -96,13 +97,13 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Sevier, Samuel S.</persName>
-<roleName>Acting Consul General</roleName>
+<roleName>Acting U.S. Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1886-09-29"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Adee, A. A..</persName>
-<roleName>Third Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/77728466">Adee, Alvey A. (Alvey Augustus), 1842-1924</persName>
+<roleName>Third Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1886-11-01"/>
 </correspAction>
@@ -111,6 +112,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-24" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -123,25 +125,24 @@
 
 <pb n="Roll5-1006.jpg"/>
 
-<p><add><unclear></unclear> Nov. 2/86</add></p>
+<note>Department of State Received Nov 1 1886</note>
 
-<p>Consular</p>
+<note>No. 30</note>
 
-<p>No. 30</p>
+<p>Legation of the United States<lb/>
+Monrovia Sept 29/86.</p>
 
-<p>Legation of the United States
-Monrovia Sept 29/86,</p>
-
-<p>Mr S. S. Sevier,
+<p>Mr. S. S. Sevier–<lb/>
 To the Third Assistant Secy of 
-State,</p>
+State–</p>
 
 <p>Subject</p>
 
 <p>Information concerning the father of Lucy C. Calloway.</p>
 
-<p>Sir:
-I have the honor to inform
+<p>Sir:</p>
+
+<p>I have the honor to inform
 you that inquires have been
 made concerning the 
 whereabouts of Stephen
@@ -150,18 +151,17 @@ settlers of this place, and
 the name of no such a
 man is known.</p>
 
-<p>I am Sir</p>
+<p>I am Sir<lb/>
 
 <pb n="Roll5-1007.jpg"/>
 
-<p>your obedient servant</p>
-
-<p>Samuel S. Sevier
+Your obedient servant<lb/>
+Samuel S. Sevier<lb/>
 Act. Consul Gen.</p>
 
-<p>Hon. A. A. Adee,
-Third Assistant Secy,
-Washington D.C.</p>
+<fw type="address">Hon. A. A. Adee,<lb/>
+Third Assistant Secy,<lb/>
+Washington D.C.</fw>
 
 </div1>
 

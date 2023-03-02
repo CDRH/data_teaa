@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard, October 16, 1886</title>
+<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -95,12 +96,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Sevier, Samuel S.</persName>
-<roleName>Acting Consul General</roleName>
+<roleName>U.S. Vice Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1886-10-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Bayard, Thomas F.</persName>
+<persName ref="http://viaf.org/viaf/38108124">Bayard, Thomas F. (Thomas Francis), 1828-1898</persName>
 <roleName>U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1886-11-30"/>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-24" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,27 +124,24 @@
 
 <pb n="Roll5-1008.jpg"/>
 
-<p><add>DEPARTMENT OF STATE 
-NOV 30 1886
-RECEIVED</add></p>
+<note>Department of State Received Nov 30 1886</note>
 
-<p>Consular</p>
+<note>No. 32.</note>
 
-<p>No. 32</p>
-
-<p>U.S. Legation
+<p>U.S. Legation<lb/>
 Monrovia Oct. 16th, '86</p>
 
-<p>Mr. S. S. Sevier
-to the Secy of State</p>
+<p>Mr. S. S. Sevier<lb/>
+to the Secy. of State</p>
 
-<p>Subject</p>
+<p>Subject.</p>
 
-<p>Return for Sept. quarter
+<p>Returns for Sept. quarter
 1886.</p>
 
-<p>Sir:
-After an unavoidable
+<p>Sir:</p>
+
+<p>After an unavoidable
 delay I have the honor
 respectfully to transmit
 herewith the returns for
@@ -152,49 +151,43 @@ which include that of the
 late Minister Moses A. Hopkins.</p>
 
 <p>Please find the 
-same</p>
+<catchwords>same</catchwords>
 
 <pb n="Roll5-1009.jpg"/>
 
-<p>same to be as follows: 
+same to be as follows: 
 digest of the Invoice book (1)
-Arrivals and departures of 
+arrivals and departures of 
 American vessels (2)
-summary of Consulars 
+summary of Consular 
 business (3) record of
 official fees (4) abstract 
 of contingent expenses
 with vouchers (5)</p>
 
 <p>I did not
-receive the <unclear></unclear> for this
+receive the fees for this
 quarter Minister Hopkins
 did. Hoping this report
 will meet the approval
-of the Department State.</p>
+of the Department State</p>
 
-<p>I am sir
-Your obedient
-servant</p>
-
-<p>Samuel S. Sevier Vice Consul</p>
+<p>I am sir<lb/>
+Your obedient<lb/>
+servant<lb/>
+Samuel S. Sevier Vice Consul</p>
 
 <pb n="Roll5-1010.jpg"/>
 
 <p>Enclosures</p>
 
-<p>1. Digest of Invoice book</p>
-
-<p>2. Arrivals &amp; departures of American
-vessels</p>
-
-<p>3. Summary of consular business</p>
-
-<p>4. Record of official fees</p>
-
-<p>5. Contngent expenses and 
+<p>1. Digest of Invoice book<lb/>
+2 Arrivals &amp; departures of American
+vessels<lb/>
+3. Summary of consular business<lb/>
+4 Record of official fees<lb/>
+5. Contingent expenses and 
 vouchers.</p>
-
 
 </div1>
 

@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to James D. Porter, October 28, 1886</title>
+<title level="a">Despatch from Samuel S. Sevier to James D. Porter</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -75,7 +76,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -95,13 +96,13 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Sevier, Samuel S.</persName>
-<roleName>Acting Consul General</roleName>
+<roleName>U.S. Vice Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1886-10-28"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Porter, James D.</persName>
-<roleName>U.S. Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/36031491">Porter, James D. (James Davis), 1828-1912</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1886-11-30"/>
 </correspAction>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-24" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,68 +124,67 @@
 
 <pb n="Roll5-1016.jpg"/>
 
-<p><add>DEPARTMENT OF STATE 
-NOV 30 1886
-RECEIVED</add></p>
+<p>Department of State Received Nov 30 1886</p>
 
-<p><unclear></unclear></p>
+<p>No. 35.</p>
 
-<p>No. 35</p>
-
-<p>U.S. Legation
-Monrovia
+<p>U.S. Legation<lb/>
+Monrovia<lb/>
 Oct. 28/86</p>
 
-<p>Mr. S. S. Sevier
+<p>Mr. S. S. Sevier<lb/>
 To the Assistant Secy.
 of State.</p>
 
 <p>Subject.</p>
 
-<p>Reception of Diplomatic consulor 
-series no. 11 and 12.
+<p>Reception of Diplomatic
+series Nos. 11 and 12.
 Application for temporary
 recognition. Grave of the 
 late United States 
-Minister Moses A. Hopkins. </p>
+Minister Moses A. Hopkins.</p>
 
 <p>Synopsis</p>
 
 <p>Temporary application for the
 office of Vice Consul Gen. 
 Stone vault over the grave 
-of the late U.S. M Moses A. Hopkins.</p>
+of the late U.S.M. Moses A. Hopkins.</p>
 
 <pb n="Roll5-1017.jpg"/>
 
-<p>U.S. Legation
-Monrovia
-Oct. 28/86</p>
+<p>U.S. Legation<lb/>
+Monrovia<lb/>
+Oct. 28/86.</p>
 
-<p>Hon. 
-Jos D. Porter
-Assistant Secy.
+<p>Hon.<lb/>
+<sic>Jos.</sic> D. Porter<lb/>
+Assistant Secy.<lb/>
 Washington D.C.</p>
 
-<p>Sir:
-I have the honor to
-acknowledge Diplomatic Consul 
-series No. 11 and 12 under
-date Sept 24th '86.</p>
+<p>Sir:</p>
+
+<p>I have the honor to
+acknowledge Diplomatic  
+series Nos. 11 and 12 under
+date Sept. 24th '86.</p>
 
 <p>Herewith you will find
 enclosed my temporary
-application for the office of vice Consul General
-of the United States at Monrovia. I only want
-the</p>
+application for the office 
+of Vice Consul General
+of the United States at 
+Monrovia. I only want
+<catchwords>the</catchwords>
 
 <pb n="Roll5-1018.jpg"/>
 
-<p>the position until the
+the position until the
 next United States
 Minister is appointed
-and then I will
-send a satisfactory bond.
+and then I will send
+a satisfactory bond.
 The late Minster
 Moses A. Hopkins was 
 buried during the rainy 
@@ -191,18 +192,18 @@ season and I could
 not then have his grave
 properly fixed at that
 time, but since the 
-beginning of the <unclear>dies</unclear>
+beginning of the <unclear>dries</unclear>
 I have had it so done
 in the usual common
 way we fix our graves
 to prevent it from
 sinking under the heavy
 rains. I had a stone &amp;
-vault</p>
+<catchwords>vault</catchwords>
 
 <pb n="Roll5-1019.jpg"/>
 
-<p>vault built over it which
+vault built over it which
 cost twenty-five dollars
 ($25.00) at the expense 
 of the Legation. I could
@@ -219,32 +220,37 @@ undertaking will meet
 your approval and 
 the Department States</p>
 
-<p>I am sir
-your obedient servant</p>
+<p>I am sir<lb/>
+Your Obedient Servant<lb/>
+Samuel S. Sevier<lb/>
+Vice Consul.</p>
 
-<p>Samuel S. Sevier
-Vice Consul</p>
+<p>Enclosure</p>
 
-<p>Enclusure</p>
+<p>1. Temporary application.</p>
 
-<p>1. Temporary application,</p>
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll5-1020.jpg"/>
 
-<p>Endosure to Dispatch no. 25
-<unclear></unclear></p>
+<note>Department of State Received Nov 30 1886</note>
 
-<p>United States Legation 
-Monrovia
+<note>Enclosure to Dispatch No. 35.</note>
+
+<p>United States Legation<lb/> 
+Monrovia<lb/>
 Oct 28th '86</p>
 
-<p>Hon. 
-Jas. D. Porter
+<p>Hon.<lb/> 
+Jas. D. Porter<lb/>
 Assistant Secy. 
 of State:-</p>
 
-<p>Sir-
-In my 
+<p>Sir–</p>
+
+<p>In my 
 behalf please inform
 the Department of State
 that I this day apply
@@ -255,24 +261,23 @@ Monrovia, until the
 next Minister is 
 appointed to fill the
 vacancy caused by
-death</p>
+<catchwords>death</catchwords>
 
 <pb n="Roll5-1021.jpg"/>
 
-<p>death of the late Minister
+death of the late Minister
 Resident and Consul
 General Moses A. 
 Hopkins. I shall
-endeaver to perform
+endeavor to perform
 the duties of said 
 office to the best of
 my ability.</p>
 
-<p>I am Sir
-your obedient 
-servant.</p>
-
-<p>Samuel S. Sevier</p>
+<p>I am Sir<lb/>
+Your Obedient 
+Servant<lb/>
+Samuel S. Sevier</p>
 
 </div1>
 

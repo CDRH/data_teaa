@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to James D. Porter, December 1, 1886</title>
+<title level="a">Despatch from Samuel S. Sevier to James D. Porter</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -71,11 +72,11 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term></term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -95,13 +96,13 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Sevier, Samuel S.</persName>
-<roleName>Acting Consul General</roleName>
+<roleName>Acting U.S. Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1886-12-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Porter, James D.</persName>
-<roleName>U.S. Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/36031491">Porter, James D. (James Davis), 1828-1912</persName>
+<roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1887-01-06"/>
 </correspAction>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-24" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,49 +124,48 @@
 
 <pb n="Roll5-1022.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-JAN. 6 1887
-RECEIVED</add></p>
+<note>Department of State Received Jan 6 1887</note>
 
-<p>No. 36</p>
+<note>No. 36.</note>
 
-<p>Consulate General of the U.S. 
+<p>Consulate General of the U.S.<lb/> 
 Monrovia Dec. 1st, 1886.</p>
 
-<p>Mr. Samuel S. Sevier
-to the Assistant Secy.
+<p>Mr. Samuel S. Sevier<lb/>
+To the Assistant Secy.<lb/>
 Washington D.C.</p>
 
 <p>Subject</p>
 
-<p>Receipt of despatch no. 13.</p>
+<p>Receipt of despatch No. 13.</p>
 
-<p>Sir:
-I have the honor to
+<p>Sir:</p>
+
+<p>I have the honor to
 acknowledge the receipt
 of your despatch No. 13.
-dated Dept 30, 1886.</p>
+dated Sept. 30, 1886.</p>
 
 <p>Your instruction as to
 the funeral expenses 
-refered to will have
+referred to will have
 my attention at the
 future consideration of
 the Department of
-State</p>
+<catchwords>State</catchwords>
 
 <pb n="Roll5-1023.jpg"/>
 
-<p>State.</p>
+State.</p>
 
-<p>I am sir
-your obedient servant,
-Samuel S. Sevier
-Acting Consul General</p>
+<p>I am sir<lb/>
+Your obedient servant,<lb/>
+Samuel S. Sevier<lb/>
+Acting Consul General.</p>
 
-<p>Hon. Jas. D. Porter
-Assistant Secy of State
-Washington D.C.</p>
+<fw type="address">Hon. Jas. D. Porter<lb/>
+Assistant Secy of State<lb/>
+Washington D.C.</fw>
 
 </div1>
 
