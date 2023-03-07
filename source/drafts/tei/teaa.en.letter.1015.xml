@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard, December 31, 1886</title>
+<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -59,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,20 +76,21 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Montserrado County</term>
-<term>Siberia</term>
+<term>Hamburg (Germany)</term>
+<term>Liverpool (England)</term>
+<term>Manchester (England)</term>
+<term>Montserrado County (Liberia)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
-<term/>
+<term>England</term>
+<term>Germany</term>
+<term>Netherlands</term>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term>Americo-Liberian</term>
-<term>German</term>
-<term>American</term>
-<term>Dutch</term>
-<term>English</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -115,6 +117,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-26" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -127,18 +130,15 @@
 
 <pb n="Roll5-1048.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-FEB 18 1887
-RECEIVED.</add></p>
+<p>Department of State Received Feb 18 1887</p>
 
 <p>No. 44</p>
 
-<p>Consulate General of the U.S.
+<p>Consulate General of the U.S.<lb/>
 Monrovia Dec. 31, 1886</p>
 
-<p>Mr. S. S. Sevier-</p>
-
-<p>To the Secty of State.</p>
+<p>Mr. S. S. Sevier–<lb/>
+To the Secty. of State.</p>
 
 <p>Subject</p>
 
@@ -146,25 +146,26 @@ Monrovia Dec. 31, 1886</p>
 Dec. 31, 1886, also yearly 
 returns.</p>
 
-<p>Sir:
-I have the honor to
+<p>Sir:</p>
+
+<p>I have the honor to
 transmit herewith returns
 of this Consulate General
-for the guarter ending
+for the quarter ending
 Dec. 31, 1886. You will
 note that my Abstract of
-Contingent Expreses
+Contingent Expenses
 is very large; that this
-is</p>
+<catchwords>is</catchwords>
 
 <pb n="Roll5-1049.jpg"/>
 
-<p>is owing to the great
-amount of afects of the
+is owing to the great
+amount of <sic>afects</sic> of the
 widow of the late Minister
 Moses A. Hopkins I had
 to ship back to her
-home in N. C.</p>
+home in N.C.</p>
 
 <p>The returns are as follows:
 Departure and arrival 
@@ -178,170 +179,176 @@ with vouchers (5);
 Statement of account (6);
 Statement of account for 
 official Cablegram (7);
-names of persons employed</p>
+Names of persons employed
 
 <pb n="Roll5-1050.jpg"/>
 
-<p>at the Consulate (8); List
-of despatches sent to the
+at the Consulate (8); List
+of Despatches sent to the
 Department of State (9);
 Aggregate return of fees
 at this Consulate for the
 year (10); Agricultural and 
 Commercial report of
-Liberian producers (11).</p>
+Liberian produce (11).</p>
 
 <p>I hope these returns 
 will receive the approval
 of the Department of State.</p>
 
-<p>I am Sir
-your obedient Servant</p>
-
-<p>Samuel S. Sevier
+<p>I am Sir<lb/>
+Your obedient servant<lb/>
+Sam'l S. Sevier<lb/>
 Acting U.S. Consul Gen.</p>
 
 <p>Inclosures</p>
 
-<p>1. Departure and Arrival of American
-vessels: 2 Summary of
-business of the Consulate</p>
+<p>1 Departure and Arrival of American
+vessels; 2. Summary of
+business of this Consulate
 
 <pb n="Roll5-1051.jpg"/>
 
-<p>3. Treasury Fees
-4. Abstract of Contingent Expenses.
-5. Statement of account.
-6. Statement of account for official Cablegram.
-7. Names of persons at the Consulate.
-8. Despatches sent to Department.
-9. Aggregate returns of fees
-10. Aggricultural and Commercial report.
+3. Treasury Fees<lb/>
+4. Abstract of Contingent Expenses.<lb/>
+5. Statement of account.<lb/>
+6. Statement of account for Cablegram<lb/>
+7. Names of persons at the Consulate.<lb/>
+8. Despatches sent to Department.<lb/>
+9. Aggregate returns of fees.<lb/>
+10. Agricultural and Commercial report.<lb/>
 11. Digest of Invoice Book.</p>
+
+</div1>
 
 <pb n="Roll5-1052.jpg"/>
 
-<p>Liberian Commerce
-and Agriculture.</p>
+<div1 xml:lang="en" type="document">
+
+<head type="main">Liberian Commerce
+and Agriculture.</head>
 
 <p>The commerce of the country
 during the year was much
 impaired by the recent depression
-in trade. The palmoil, pam
-kernals, coffee, and ginger, having
-fallen below their market values;
+in trade. The palm oil, palm 
+<sic>kernals</sic>, coffee, and ginger, having
+fallen below their market value,
 have discouraged the Natives to
 such an extent, that they refuse
-to make the palm oil, palm Kernals,
+to make the palm oil, palm <sic>kernals</sic>;
 and plant their ginger crop. 
-The Americo-Siberian Farmers
--the greater bulk- have neglected to
+The Americo-Liberian Farmers–
+the greater bulk–have neglected to
 clean their coffee plantations; and
 gather their coffee crop. The 
 nominal sum of twenty five cents per
 gallon, for palm oil in trade
-goods, which is equivalent to</p>
+goods, which is equivalent to
 
 <pb n="Roll5-1053.jpg"/>
 
-<p>twelve cents per gallon United
-States currency. Palm Kernals
+twelve cents per gallon United
+States currency. Palm <sic>kernals</sic>
 Eighty cents per bushel, which is
-equivalent to FOrty cents per bushel
+equivalent to Forty cents per bushel
 United States currency. Coffee
 and ginger ten cents per pound
 which is also equivalent to five
 cents United States currency. All
 tend to discourage the makers and
-producers. The refusal of the Natives
-and Americo-Siberians, to make,
-and, gather, these important
+producers. The refusal of the Natives,
+and Americo-Liberians, to make,
+and gather, these important
 articles of commerce, of which there
 are no other substitutes for their
 deficiencies, has caused a considerable
 decrease, in the commerce of 
-the country. Tjere was a considerable
+the country. There was a considerable
 quantity of American provisions 
-and dry goods shiped via</p>
+and dry goods shipped via
 
 <pb n="Roll5-1054.jpg"/>
 
-<p>Hamburg to Siberia in German 
+Hamburg to Liberia in German 
 steamers by American agencies in
 Hamburg and in return the
-palm oil, and palm Kernals were 
+palm oil, and palm <sic>kernals</sic> were 
 shipped to Hamburg sold and 
 proceeds shipped to the United
 States; but owing to the depression
 of trade, there has been quite
 a decrease in this Americo-German
-trade with Siberia. There is a great
+trade with Liberia. There is a great
 demand for American goods in
-Liberia, and her interior settlements,
+Liberia, and her interior settlements;
 but owing to the lack of steam 
 communication between the United
 States and Liberia; and the lack
 of a demand in the United States,
 for the raw products of Liberia,
 Liberian merchants are compelled
-to carry on the greatest</p>
+to carry on, the greatest
 
 <pb n="Roll5-1055.jpg"/>
 
-<p>bulk of their trade, with the
+bulk of their trade, with the
 English manufacturers of Manchester,
 and Liverpool. There is likely
 to be a further decrease, in the 
 price of coffee, the coming season.
 The English market where the 
-greatest bulk of Siberian coffee
+greatest bulk of Liberian coffee
 is shipped, is being flooded
 with a great quantity, Brazilian,
-Java, &amp; Venezuelian coffee,
-which, in size, strength, or flavor, 
+Java, &amp; <sic>Venezuelian</sic> coffee,
+which is not superior to Liberian
+coffee, in size, strength, or flavor, 
 but in curing. The Liberian Farmers
-not taking the necessary <add>care</add> in curing
-their coffee for the market <add>which</add>causes 
+not taking the necessary care in curing
+their coffee for the market which causes 
 the coffee to be depreciated in value.
 This is also the case with the ginger,
 which is not allowed the necessary
-time for drying, hence when</p>
+time for drying, hence when
 
 <pb n="Roll5-1056.jpg"/>
 
-<p>packed, shipped, and sold is inferior
+packed, shipped, and sold is inferior
 to the ginger of other countries.</p>
 
-<p>Agriculture.</p>
+<div2 type="section">
+
+<head type="sub">Agriculture.</head>
 
 <p>This important branch of 
 industry, has taken a sudden 
-vise during the year; Owing I
-<unclear>suppase</unclear> to the depression of
-trade. The people-especially
-the heathen Liberians- have
+<unclear>vise</unclear> during the year; owing I
+suppose to the depression of
+trade. The people–especially
+the heathen Liberians–have
 seen fit to employ themselves
 in this branch of industry. 
 Throughout the county of
 Montserrado, which is the 
-largest county in Siberia, can
+largest county in Liberia, can
 be seen hundreds of acres, 
-of rice, and corn and
+of rice, and corn, and
 numerous other tropical
-vegetables, under cultivation.</p>
+vegetables; under cultivation.
 
 <pb n="Roll5-1057.jpg"/>
 
-<p>So numerous were these articles
-of home consumption that they
+So numerous were these articles
+of home consumption; that they
 were offered at the capital
-Monrovia - for trade goods-
-from pots, tobacco, brass kettles,
-powder, <unclear>zuns</unclear> &amp; Gin which
+Monrovia–for trade goods–
+Iron pots, Tobacco, Brass kettles,
+Powder, Guns &amp; Gin which
 were never sold before but for
-United States Green backs or coins,
+United States Greenbacks, or coins,
 English, Dutch, &amp; German Gold,
-and Siberian Coppers, Many
+and Liberian Coppers. Many
 of these tropical vegetables could
 become important articles of
 commerce, especially the cassada
@@ -350,34 +357,36 @@ superior arrowroot. There is
 also a great abundance of
 arrowroot which grows wild
 could be cultivated and made
-an important article of</p>
+an important article of
 
 <pb n="Roll5-1058.jpg"/>
 
-<p>commerce. There are much wealth,
-and treasures, hidden and undeveloped,
-in Siberia; which American 
+commerce. There are much wealth,
+and treasures, hidden, and undeveloped,
+in Liberia; which American 
 Capitalists, Manufacturers,
 Agriculturalists, and Mineralogists,
 could utilise for their benefit;
 and increase American commerce.
 There is no reason why 
-they United States could not
-control the great bulk of Liberian
+the United States could not
+control, the great bulk of Liberian
 trade. If Americans would
 exert themselves in this direction
 there would be much gain to us.
-The people- Americo-Liberians and
-Heathen Liberians, all prefer
+The people–Americo-Liberians and
+Heathen Liberians all prefer
 American goods and would
 far rather exchange with the
 Americans than with those they do.</p>
 
-<p>United States Consulate General
+<p>United States Consulate General<lb/>
 Monrovia Dec. 1886</p>
 
-<p><add>Samuel S. Sevier
-Acting Consul Gen.</add></p>
+<p>Sam'l S. Sevier<lb/>
+Acting Consul Gen.</p>
+
+</div2>
 
 </div1>
 

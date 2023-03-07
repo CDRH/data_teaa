@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard, December 23, 1886</title>
+<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -71,8 +72,8 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Arthur, Chester A.</term>
-<term>Barclay, E. J.</term>
+<term ref="http://viaf.org/viaf/35249995">Arthur, Chester Alan, 1829-1886</term>
+<term>Barclay, Edwin James</term>
 </keywords>
     
 <keywords scheme="original" n="places">
@@ -111,6 +112,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-25" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -123,40 +125,38 @@
 
 <pb n="Roll5-1035.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-FEB 3 1887
-RECEIVED.</add></p>
+<p>Department of State Received Feb 3 1887</p>
 
 <p>No. 41</p>
 
-<p>U.S. Consulate
+<p>U.S. Consulate,<lb/>
 Monrovia Dec. 23/86</p>
 
-<p>Mr S. S. Sevier,</p>
-
-<p>To the Secty of State,</p>
+<p>Mr. S. S. Sevier,<lb/>
+To the Secty of State</p>
 
 <p>Subject</p>
 
-<p>Secretarys circular received.</p>
+<p>Secretary's circular received.</p>
 
-<p>Sir:
-I have the honor to
+<p>Sir:</p>
+
+<p>I have the honor to
 inform you that your
 circular of Nov. 18/86
 conveying the painful
 intelligence of the death
 of Ex. President Gen. 
-Chester A Arthur
+Chester A. Arthur
 was received.</p>
 
 <p>According to special 
 order I shall
-display</p>
+<catchwords>display</catchwords>
 
 <pb n="Roll5-1036.jpg"/>
 
-<p>display the usual
+display the usual
 symbols of mourning
 for the period of thirty
 days.</p>
@@ -169,57 +169,60 @@ Liberia expressing
 their sympathy which
 is felt in the loss of so 
 distinguished patriotic 
-man as Ex. President
+man as Ex-President
 Gen. Chester A. Arthur.</p>
 
-<p>I am Sir
-your obedient servant</p>
-
-<p>Samuel S. Sevier
+<p>I am Sir<lb/>
+Your obedient servant<lb/>
+Saml S. Sevier<lb/>
 Acting Consul Gen.</p>
 
-<p>Inclosures</p>
+<p>Inclosure</p>
 
 <pb n="Roll5-1037.jpg"/>
 
-<p>1. copy of Despatch from the
-Secty of State of Liberia.</p>
+<p>1. Copy of Despatch from the
+Secty. of State of Liberia.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll5-1038.jpg"/>
 
-<p>Department of State,
+<p>Department of State,<lb/>
 Monrovia Dec. 24, 1886</p>
 
-<p>S. S. Sevier Esq
-Acting U.S. Consul Gen.
+<p>S. S. Sevier Esq<lb/>
+Acting U.S. Consul Gen.<lb/>
 Monrovia</p>
 
-<p>Sir,
-Your letter of th 22nd
+<p>Sir,</p>
+
+<p>Your letter of the 22nd
 inst. has been received
 in which you communicated
 the sad intelligence of the
-death of the late Ex. President
-of the United States0
-General C. A. Arthur.</p>
+death of the late Ex-President
+of the United States–
+General C A Arthur.</p>
 
 <p>Please accept 
 assurances of my sympathy,
 and of the sympathy of my 
 Government with that of
 the United States in
-the loss it has sustained</p>
+the loss it has sustained
 
 <pb n="Roll5-1039.jpg"/>
 
-<p>in the death of so illustrious
+in the death of so illustrious
 and honored a citizen.</p>
 
-<p>I have the honor to be 
-Sir
-Your obedient Servant</p>
-
-<p>E. J. Barclay
+<p>I have the honor to be<lb/> 
+Sir<lb/>
+Your obedient Servant<lb/>
+E. J. Barclay
 Secty of State.</p>
 
 </div1>
