@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard, April 4, 1887</title>
+<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -59,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Resistance</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,14 +72,16 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
+<term ref="http://viaf.org/viaf/3369151247942344270009">Ferguson, Samuel David 1842-1916</term>
+<term>Johnson, Hilary R. W.</term>
 <term>King, C. T. O.</term>
-<term>Ferguson</term>
-<term>Johnson, H. R. W.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Harper, Cape Palmas</term>
-<term>Cavalla</term>
+<term>Cape Palmas (Liberia)</term>
+<term>Cavalla (Liberia)</term>
+<term>Harper (Liberia)</term>
+<term>Monrovia (Liberia)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -86,18 +89,18 @@
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term>Americo-Liberian</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term>Catholic</term>
+<term/>
 </keywords>
 
 </textClass>
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Samuel S. Sevier</persName>
+<persName>Sevier, Samuel S.</persName>
 <roleName>Acting U.S. Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1887-04-04"/>
@@ -113,6 +116,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-31" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -125,43 +129,100 @@
 
 <pb n="Roll5-1144.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-MAY 7 1887
-RECEIVED</add></p>
+<note>Department of State Received May 7 1887</note>
 
 <p>No. 64.</p>
 
-<p>U.S. Consulate General
+<p>U.S. Consulate General<lb/>
 Monrovia April 4th/87.</p>
 
-<p>Mr S. S. Sevier,</p>
-
-<p>To Secretary of State.</p>
+<p>Mr S. S. Sevier<lb/>
+To Secretary of State</p>
 
 <p>Subject</p>
 
-<p>Trouble at Cavolla</p>
+<p>Trouble at Cavalla</p>
 
 <p>Synopsis</p>
 
 <p>Disloyalty and rebellion.</p>
 
+<pb n="Roll5-1146.jpg"/>
+
+<p>No. 64.</p>
+
+<p>U.S. Consulate General<lb/>
+Monrovia April 4th/87.</p>
+
+<p>Hon. T. F. Bayard<lb/>
+Secretary of State<lb/>
+Washington D.C.</p>
+
+<p>Sir:</p> 
+
+<p>I have the honor to
+refer you to my despatch
+No. 48 of which I sometime
+wrote in regard to the 
+trouble at Cavalla. Since
+then the trouble has not
+<sic>quailed</sic>. Spirit of
+disloyalty and rebellion
+is at work. The civilized
+christian native and
+many of the Americo-Liberian
+have been
+<catchwords>forced</catchwords>
+
+<pb n="Roll5-1147.jpg"/>
+
+forced from their homes
+to subject on the kindness
+of their friends or starve.
+His excellency President
+H. R. W. Johnson of this
+Republic has not as yet
+taken any steps to <sic>arest</sic>
+the spirit of rebellion.
+Further information
+will be given to the
+Department of State
+whenever steps are
+taken to <sic>arest</sic> the
+present trouble.</p>
+
+<p>I have the honor to be,<lb/>
+Sir,<lb/> 
+Your obedient Servant<lb/>
+Sam'l S. Sevier<lb/>
+U.S. Vice Consul Genl.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
+
 <pb n="Roll5-1145.jpg"/>
 
-<p>"Therefore as ye abound in every thing, in faith, in utterance, and knwoeldge, and in
+<div2 type="section">
+
+<p>"Therefore as ye abound in every thing, in faith, in utterance, and knowledge, and in
 all diligence, and in your love see that you abound in this grace also."</p>
 
-<p>"For ye know the grace of our Lord Jesus Christ, that, though he was rich yet fo our
+<p>"For ye know the grace of our Lord Jesus Christ, that, though he was rich yet for our
 sakes he became poor that through his poverty ye might be rich."</p>
 
 <p>"If there be first a willing mind, it is accepted according to that a man hath, and not
-according to that he hath not." II Cor. VIII.</p>
+according to that he hath not" II Cor. VIII.</p>
 
 <p>"He that soweth sparingly shall reap also sparingly, and he which soweth bountifully
 shall reap also bountifully. Every man according as he purposeth in his heart, so let him
-give; not grudgingly, or of necessity for God LOVETH A CHEERFUN GIVER." II Cor. IX.</p>
+give; not grudgingly, or of necessity for God loveth a cheerfun giver." II Cor. IX.</p>
 
-<p>TO THE MONROVIA PUBLIC:</p>
+</div2>
+
+<div2 type="section">
+
+<head type="sub">To the Monrovia Public:</head>
 
 <p>There is trouble at Cavalla; spirit of disloyalty and
 rebellion is at work. Because the civilized and christian
@@ -174,73 +235,26 @@ can help themselves.</p>
 
 <p>The people at Cape Palmas, have done, and are doing all
 in their power for the comfort of the refugees. This appeal
-comes to you now. What will you do? Out of your
+comes to you now. What will <hi rend="italics">you</hi> do? Out of your
 abundance will you give much, and out of your poverty give
 a little? Every little will be a help. Let not the benevolent
 hard working poor fail to give because they have
-but a little: but of that little give something.</p>
+but a little: but of that little give <hi rend="italics">something</hi>.</p>
 
 <p>Every thing is needed, food, raiment, household articles
-&amp;c : the sufferers number between forty and fifty men,
+&amp;c: the sufferers number between forty and fifty men,
 women and children. Show your liberality towards your
 brethren and sisters of this native church, the church of
 the Epiphany at Cavalla. Right Rev. Bishop Ferguson
 will gladly bear to them your christian gifts.</p>
 
-<p>City of Monrovia,
-March 21st 1887.
-C. T. O. King,
-Mayor</p>
+<p>C. T. O. King,<lb/>
+Mayor.</p>
 
-<pb n="Roll5-1146.jpg"/>
+<p>City of Monrovia,<lb/>
+March 21st 1887.</p>
 
-<p>No. 64.</p>
-
-<p>U.S. Consulate General
-Monrovia APril 4th/87.</p>
-
-<p>Hon. T. F. Bayard
-Secretary of State
-Washington D.C.</p>
-
-<p>Sir: 
-I have the honor to
-refer you to my despatch
-No. 48 of which I sometime
-work in regard to the 
-trouble at Caralla. Since
-then the trouble has not
-quailed. Spirit of
-disloyalty and rebellion
-is at work. The civilized
-christian native and
-many of the Americo-Liberian
-have been
-forced</p>
-
-<pb n="Roll5-1147.jpg"/>
-
-<p>forced from their homes
-to subject on the kindness
-of their friends or starve.
-His excellency President
-H. R. W. Johnson of this
-Republic has not as yet
-taken any steps to arest
-the spirit of rebellion.
-Further information
-will be given to the
-Department of State
-whenever steps are
-taken to arest the
-present trouble.</p>
-
-<p>I have the honor to be,
-sir, 
-your obedient Servant</p>
-
-<p>Samuel S. Sevier
-U.S. Vice Consul Gen.</p>
+</div2>
 
 </div1>
 

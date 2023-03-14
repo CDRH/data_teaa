@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard, February 10, 1887</title>
+<title level="a">Despatch from Samuel S. Sevier to Thomas F. Bayard</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -59,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,18 +72,18 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Knapp, Enica</term>
-<term>Wilkins, Afford</term>
 <term>Harris, Robert L.</term>
 <term>Hines, J. O.</term>
+<term>Knapp, Eunice</term>
+<term>Wilkins</term><!-- Mrs. Alford Wilkins -->
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>New York City</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="powers">
-<term/>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -90,7 +91,7 @@
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
+<term>Free Methodist</term>
 </keywords>
 
 </textClass>
@@ -113,6 +114,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-30" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -125,22 +127,19 @@
 
 <pb n="Roll5-1107.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-MAR 14 1887
-RECEIVED.</add></p>
+<note>Department of State Received Mar 14 1887</note>
 
-<p>No. 55</p>
+<p>No. 55.</p>
 
-<p>U.S. Consulate General
-Monrovia Feby 10/87</p>
+<p>U.S. Consulate General,<lb/>
+Monrovia Feby 10./87</p>
 
-<p>Mr. S. S. Sevier-</p>
-
-<p>To the Secretary of State.</p>
+<p>Mr. S. S. Sevier<lb/>
+To the Secretary of State.</p>
 
 <p>Subject</p>
 
-<p>Death of Miss Enica
+<p>Death of Miss <sic>Enice</sic>
 Knapp an American
 citizen.</p>
 
@@ -148,41 +147,41 @@ citizen.</p>
 
 <p>Death of Miss Knapp a 
 missionary of the Free
-Methodist Church--
-Inventory of her personal
-property - her stated
+Methodist Church–inventory of her personal
+property–her stated
 residence.</p>
 
 <pb n="Roll5-1108.jpg"/>
 
 <p>No. 55.</p>
 
-<p>U.S. Consulate General
-Monrovia Feby 10/87</p>
+<p>U.S. Consulate General<lb/>
+Monrovia Feb'y 10/87</p>
 
-<p>Hon. T. F. Bayard,
-Secretary of State
+<p>Hon. T. F. Bayard<lb/>
+Secretary of State<lb/>
 Washington D.C.</p>
 
-<p>Sir:
-It becomes my painful
+<p>Sir:</p>
+
+<p>It becomes my painful
 duty to inform you
 that a missionary of the
 Free Methodist Church
 by the name of Miss
-Enica Knapp who
+<sic>Enice</sic> Knapp who
 had been only two
 months within the
 bounds of this Consulate
 working earnestly to
 spread the gospel
-of</p>
+<catchwords>of</catchwords>
 
 <pb n="Roll5-1109.jpg"/>
 
-<p>of Jesus Christ in this
+of Jesus Christ in this
 land died on the
-2nd of Feby from the
+2nd of Feb'y from the
 contagion fever of this
 country. Inventory of her
 personal property has
@@ -194,99 +193,101 @@ relatives. The place of
 her birth is unknown
 to me. I am told by
 a distant friend that
-Mrs. Afford Wilkins #26 
+Mrs. Alford Wilkins #26 
 W. 38th Street New York
 City is her nearest
 known relative.
 The expenses of her
-funeral</p>
+<catchwords>funeral</catchwords>
 
 <pb n="Roll5-1110.jpg"/>
 
-<p>funeral were settled
+funeral were settled
 without auctioning
 any of her effects
-accofding to the Consular
+according to the Consular
 Regulations. In inclose
 an inventory of her effects.</p>
 
-<p>I have the honor to be
-Sir
-Your obedient Servant</p>
-
-<p>Samuel S. Sevier
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your obedient servant<lb/>
+Sam'l S. Sevier<lb/>
 Acting U.S. Consul Gen.</p>
 
-<p>Hon. T. F. Bayard
-Secretary of State
+<fw type="address">Hon. T. F. Bayard<lb/>
+Secretary of State<lb/>
 Washington
-D.C.</p>
+D.C.</fw>
 
 <p>Inclosure</p>
 
-<p>1. Inventory of the effects of Miss Knapp</p>
+<p>1. Inventory of the effects of Miss Knapp.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll5-1111.jpg"/>
 
 <p>Inventory</p>
 
-<p>1 Piece of goods Patch work for two
-quilts not joined
-Three quilt tops joined
-1 piece of cashmere
-1 pillow tick
-10 pieces of cloth
-2 pieces of flannel underwear
-5 night dresses
-10 pieces of underwear
-3 white skirts
-8 aprons
-4 Waists
-1 Tidy
-1 Pair of Stockings
-1 Missionary Egg with contents
-1 White Marsailles Basque
-2 Knit Undergarments
-1 Velveteen cloak
-2 Pillow Shams</p>
+<p>1 Piece of Goods Patch work for two
+quilts not joined<lb/>
+Three quilt tops joined<lb/>
+1 Piece of Cashmere<lb/>
+1 Pillow Tick<lb/>
+10 Pieces of Cloth<lb/>
+2 Pieces of Flannel Underwear<lb/>
+5 Night Dresses<lb/>
+10 Pieces of Underwear<lb/>
+3 White Skirts<lb/>
+8 Aprons<lb/>
+4 Waists<lb/>
+1 Tidy<lb/>
+6 Pair of Stockings<lb/>
+1 Missionary Egg with contents<lb/>
+1 White Marsailles Basque<lb/>
+2 Knit Undergarments<lb/>
+1 Velveteen cloak<lb/>
+2 Pillow Shams<lb/>
 
 <pb n="Roll5-1112.jpg"/>
 
-<p>6 Napkins
-8 Handkerchiefs
-5 Towels
-12 Dresses
-1 Pair of Rubbers
-3 Pair of Shoes
-2 Pair of Slippers
-1 Shawl
-1 Table Cloth
-1 Water Proof Circular
-2 Skirts
-1 Quilted Quilt
-1 Flannel Blanket
-1 Pin cushion
-26 Books and Albums
-1 Silver Knife, Fork, &amp; Napkin ring
-1 China cup &amp; Saucers
-2 Pictures Large size
-1 Hat, 2 Pictures, 1 watch</p>
+6 Napkins<lb/>
+8 Handkerchiefs<lb/>
+5 Towels<lb/>
+12 Dresses<lb/>
+1 Pair of Rubbers<lb/>
+3 Pair of Shoes<lb/>
+2 Pair " Slippers<lb/>
+1 Shawl<lb/>
+1 Table Cloth<lb/>
+1 Water Proof Circular<lb/>
+2 Skirts<lb/>
+1 Quilted Quilt<lb/>
+1 Flannel Blanket<lb/>
+1 Pin cushion<lb/>
+26 Books and Albums<lb/>
+1 Silver Knife, Fork, &amp; Napkin ring<lb/>
+1 China cup &amp; Saucers<lb/>
+2 Picture Large size<lb/>
+1 Hat 2 Pictures, 1 Watch<lb/>
 
 <pb n="Roll5-1113.jpg"/>
 
-<p>1 Box with contents
-1 Hand Satchel
-1 Bag Trinkets
-Number of Pictures
-1 Parasol
+1 Box with contents<lb/>
+1 Hand Satchel<lb/>
+1 Bag Trinkets<lb/>
+Number of Pictures<lb/>
+1 Parasol<lb/>
 1 Comb</p>
 
-<p>Samuel S. Sevier
+<p>Saml. S. Sevier<lb/>
 Acting U.S. Consul Gen.</p>
 
-<p>Witnesses</p>
-
-<p>Robert L. Harris
+<p>Witnesses<lb/>
+Robt. L. Harris<lb/>
 J. O. Hines</p>
 
 </div1>

@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to James D. Porter, January 18, 1887</title>
+<title level="a">Despatch from Samuel S. Sevier to James D. Porter</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -71,12 +72,15 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
+<term>Eminsang, G. E.</term>
+<term>Klose, George</term>
 <term>Smith, Jacob</term>
-<term>Eminsary, G. E.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Elmina</term>
+<term>Elmina (Gold Coast)</term>
+<term>Portland (Maine)</term>
+<term>Sierra Leone</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -98,7 +102,7 @@
 <persName>Sevier, Samuel S.</persName>
 <roleName>Acting U.S. Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
-<date when="1887-01-16"/>
+<date when="1887-01-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/36031491">Porter, James D. (James Davis), 1828-1912</persName>
@@ -111,6 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-29" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -123,22 +128,15 @@
 
 <pb n="Roll5-1084.jpg"/>
 
-<p><unclear></unclear>
-So and 
-Mar. 4/87</p>
-
-<p><add>DEPARTMENT OF STATE
-MAR 1 1887
-RECEIVED.</add></p>
+<note>Department of State Received Mar 1 1887</note>
 
 <p>No. 50</p>
 
-<p>Consulate General of the U.S.
-Monrovia Jany 18/87</p>
+<p>Consulate General of the U.S.<lb/>
+Monrovia Jany 18/87.</p>
 
-<p>Mr. S. S. Sevier-</p>
-
-<p>To the Asst Secty of State.</p>
+<p>Mr. S. S. Sevier<lb/>
+To the Ass't Sect'y of State.</p>
 
 <p>Subject</p>
 
@@ -147,122 +145,128 @@ made against the Consular
 Agent at Elmina by the
 Vice Consul of the United
 States at Sierra Leone
-in Despatch No. 9 with
+in Despatch No. 9, with
 inclosed copy No. 224 from
 the Vice Consul at
 Sierra Leone.</p>
 
 <pb n="Roll5-1085.jpg"/>
 
-<p>No 50.</p>
+<p>No. 50.</p>
 
-<p>Consulate General of the U.S.
+<p>Consulate General of the U.S.<lb/>
 Monrovia Jany 18/87.</p>
 
-<p>Hon. Jas D. Porter,
-Assistant Secty of State
+<p>Hon. Jas. D. Porter<lb/>
+Assistant Secty of State<lb/>
 Washington D.C.</p>
 
-<p>Sir:
-I take the honor to send
-this day an explaination
+<p>Sir:</p>
+
+<p>I take the honor to send
+this day an explanation
 of the Consular Agent at
 Elmina (Cape Coast
 Castle) against the
 complaint made by the
 Vice Consul at Sierra
 Leone of which your
-despatch No 9. instructed
+Despatch No. 9. instructed
 me to do. Hoping the
 explanation of the
-Consulor</p>
+<catchwords>Consular</catchwords>
 
 <pb n="Roll5-1086.jpg"/>
 
-<p>Consular Agent will
+Consular Agent will
 meet the approval of the
-Department of State,</p>
+Department of State.</p>
 
-<p>I have the honor to be
-Sir
-Your Obedient Servant</p>
-
-<p>Samuel S. Sevier
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your obedient servant<lb/>
+Sam'l S. Sevier<lb/>
 Acting U.S. Consul Gen.</p>
 
-<p>Inclosures</p>
+<p>Inclosure</p>
 
-<p>The Emisary to Mr Sevier
-No 30. Dec 20/86</p>
+<p>Mr. Eminsang to Mr. Sevier
+No. 30. Dec. 20/86.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll5-1087.jpg"/>
 
-<p>Copy</p>
+<note>Copy</note>
 
-<p>30</p>
+<p>No 30.</p>
 
 <p>United States Consular
-Agency at Elmina
-Dec 20, 1886</p>
+Agency at Elmina<lb/>
+Dec. 20, 1886</p>
 
-<p>Hon Samuel S. Sevier
-United States Vice Consul
+<p>Hon. Saml. S. Sevier<lb/>
+United States Vice Consul<lb/>
 Monrovia Liberia.</p>
 
-<p>Sir:
-I have the honor to acknowledge
+<p>Sir:</p>
+
+<p>I have the honor to acknowledge
 the receipt of your
 despatch dated Monrovia
-Oct. 27/86 with the
+Oct. 27/86, with the
 enclosed copy of a despatch
 No. 224 from the Department
 of State written by the Vice
-Consul Gen of Sierra Leone
+Consul Gen. of Sierra Leone
 making complaints against
-me- The above arrived
-on 19th inst. -- In reply
-I</p>
+me. The above arrived
+on 19th inst. In reply
+<catchwords>I</catchwords>
 
 <pb n="Roll5-1088.jpg"/>
 
-<p>I reg to say,</p>
+I beg to say–</p>
 
-<p>1st that Jacob Smith was
-one of the crero of the big Giles
-Loving of Portland Mr Geo.
-<unclear>Close</unclear> master the vessel
-arrived here in distress
+<p>1st That Jacob Smith was
+one of the crew of the brig Giles
+Loring of Portland Me. Geo.
+Klose master. the vessel
+arrived here in distress,
 being in a leaky condition.</p>
 
-<p>2nd That men from ashore
+<p>2d That men from ashore
 were put on board to keep
 the pumps going and the 
-ships came to look after ship
-and cargo which the
+ships crew to look after ship
+and cargo whilst the
 ship was lightened to discover 
 the leak if possible.</p>
 
 <p>3rd That said Jacob Smith
-was away during the night
+run away during the night
 and stopped on shore for
 several days and nights
-after the report of the master</p>
+after the report of the master
 
 <pb n="Roll5-1089.jpg"/>
 
-<p>to this Consulate I send in
+to this Consulate I send in
 search of said Jacob Smith.</p>
 
 <p>4th That he was found in a 
 disorderly condition in the
-street and the Police brought
-him to this Consulate,
-I ordered him to go on board
+Street and the Police brought
+him to this Consulate.</p>
+
+<p>I ordered him to go on board
 the ship and found a canoe
 to take him on board.</p>
 
 <p>5th That when he got to the
-beach or warf he refused
+beach or <sic>warf</sic> he refused
 to go off and after making
 some trouble the Police
 locked him up.</p>
@@ -272,17 +276,17 @@ brought to this Consulate
 I  tried my best to explain 
 to him that he better go on
 board the ship and attend
-his</p>
+<catchwords>his</catchwords>
 
 <pb n="Roll5-1091.jpg"/>
 
-<p>his work and that as soon
+his work and that as soon
 as the ship was found to be
 unseaworthy they all would
 be paid off and sent home
 but if he did not do so he
 will be taken as a deserter
-this was in pressence of
+this was in presence of
 the master; he still refused
 to go on board the vessel,
 saying he had found some
@@ -295,11 +299,11 @@ nothing to do with him.</p>
 
 <p>7th That it was found
 out that the said Jacob
-Smith had smuggled</p>
+Smith had smuggled
 
 <pb n="Roll5-1092.jpg"/>
 
-<p>his personal property on
+his personal property on
 shore long ago.</p>
 
 <p>8th That after he had told
@@ -311,31 +315,30 @@ trouble myself any more
 about him.</p>
 
 <p>9th That he Jacob Smith
-inlisted himself with
+enlisted himself with
 the British Government out
 here.</p>
 
 <p>10th That after some months
 he employed a Lawyer
 to sue the Captain for
-his wages- the Lawyer
+his wages. the Lawyer
 finding it was a bad case
 and that he Jacob Smith
-did</p>
+did
 
 <pb n="Roll5-1093.jpg"/>
 
-<p>did not tell him the truth
+did not tell him the truth
 gave it up.</p>
 
 <p>Hoping the above explanation
 will be satisfactory.</p>
 
-<p>I have the honor to be
-Sir
-your obedient Servant</p>
-
-<p>G. E. Emnsary
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your obedient servant<lb/>
+G. E. Eminsang<lb/>
 U.S. Consular Agent.</p>
 
 </div1>

@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Charles H. J. Taylor to Thomas F. Bayard, March 16, 1887</title>
+<title level="a">Despatch from Charles H. J. Taylor to Thomas F. Bayard</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -75,7 +76,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Wyandotte, Kansas</term>
+<term>Liberia</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -95,8 +96,8 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Taylor, Charles H. J.</persName>
-<roleName>Minister of Liberia</roleName>
-<placeName>Wyandotte (Kansas)</placeName>
+<roleName>U.S. Minister &amp; Consul General</roleName>
+<placeName>Wyandotte County (Kansas)</placeName>
 <date when="1887-03-16"/>
 </correspAction>
 <correspAction type="deliveredTo">
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-31" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,21 +124,14 @@
 
 <pb n="Roll5-1127.jpg"/>
 
-<p>Monrovia</p>
+<note>Department of State Received Mar 18 1887</note>
 
-<p>United States Post Office</p>
+<p>United States Post Office,<lb/>
+March 16th, 1887.</p>
 
-<p>DEPARTMENT OF STATE.
-MAR 18 1887
-RECEIVED.</p>
-
-<p><add>Bon approved &amp; to <unclear>treaty</unclear> Mar 21/87</add></p>
-
-<p>March 16th, 1887.</p>
-
-<p>Hon. Thos. F. Bayard
-Sect. of State
-Washington D. C.</p>
+<p>Hon. Thos. F. Bayard<lb/>
+Sect. of State<lb/>
+Washington D.C.</p>
 
 <p>Sir: I herewith
 enclose to you my official
@@ -144,9 +139,9 @@ Bond as U.S. Minister to
 the Republic of Liberia, subject
 to your approval.</p>
 
-<p>Very truly, etc.,
-C. H. J. Taylor
-Wyandotte
+<p>Very truly, etc.,<lb/>
+C. H. J. Taylor<lb/>
+Wyandotte<lb/>
 Kansas</p>
 
 </div1>

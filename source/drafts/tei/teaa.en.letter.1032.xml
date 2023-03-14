@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Charles H. J. Taylor to James D. Porter, March 17, 1887</title>
+<title level="a">Despatch from Charles H. J. Taylor to James D. Porter</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -75,7 +76,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Wyandotte, Kansas</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -95,8 +96,8 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Taylor, Charles H. J.</persName>
-<roleName>Minister of Liberia</roleName>
-<placeName>Wyandotte (Kansas)</placeName>
+<roleName>U.S. Minister &amp; Consul General</roleName>
+<placeName>Wyandotte County (Kansas)</placeName>
 <date when="1887-03-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-31" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,20 +124,13 @@
 
 <pb n="Roll5-1128.jpg"/>
 
-<p>Monrovia</p>
+<note>Department of State Received Mar 21 1887</note>
 
-<p>Copy
-his papers such to have 23 hearch</p>
-
-<p>DEPARTMENT OF STATE
-MAR 21 1887
-RECEIVED.</p>
-
-<p>Wyandotte Kansas
+<p>Wyandotte Kansas<lb/>
 March 17th 1887</p>
 
-<p>Hon Jas. D. Porter
-Assistant Secretary of State
+<p>Hon Jas. D. Porter<lb/>
+Assistant Secretary of State<lb/>
 Washington D.C.</p>
 
 <p>Sir: On the 16th
@@ -147,15 +142,14 @@ Bond are reputed to jointly represent
 more than one million dollars. My official
 oath as you are doubtless aware
 is on file in the Department of
-State. The Senator of 
-our district -- adds his certificate to the
-Bond. Your most Obedient Servant</p>
+State. <del>My Bondsmen have bee</del> The Senator of 
+our district adds his certificate to the
+Bond. Your most Obedient Servant<lb/>
+Charles H. J. Taylor</p>
 
-<p>Charles H. J. Taylor</p>
-
-<p>To Hon Jas D. Porter
-Asst Sect. of State
-Washington D.C. </p>
+<fw type="address">To Hon Jas D. Porter<lb/>
+Asst Sect. of State<lb/>
+Washington D.C.</fw>
 
 </div1>
 
