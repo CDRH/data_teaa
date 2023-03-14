@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -59,7 +60,9 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Emigration</term>
+<term>International Conferences and Treaties</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,38 +74,35 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Victoria, Alexandrina</term>
-<term>Koentzer, William</term>
-<term>Victor, Leopold Lodewijk Filips Maria</term>
-<term>Litton, Robert</term>
 <term>Johnson, Hilary R. W.</term>
+<term>Koentzer, William</term>
+<term ref="http://viaf.org/viaf/264072032">Leopold II, King of the Belgians, 1835-1909</term>
+<term>Litton, Robert</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Brussels, Belgium</term>
-<term>Sierra Leon</term>
-<term>Lisbon, Portugal</term>
-<term>Bern, Switzerland</term>
-<term>Vienna</term>
-<term>Congo</term>
-<term>Australia</term>
-<term>Montserrado, Liberia</term>
-<term>Robertsport, Liberia</term>
-<term>Grand Bassa, Liberia</term>
-<term>Boporu, Liberia</term>
-<term>Maryland, Liberia</term>
+<term>Berne (Switzerland)</term>
+<term>Boporu (Liberia)</term>
+<term>Brussels (Belgium)</term>
+<term>Congo Free State</term>
+<term>Grand Bassa (Liberia)</term>
+<term>Liberia</term>
+<term>Lisbon (Portugal)</term>
+<term>Maryland County (Liberia)</term>
+<term>Montserrado County (Liberia)</term> 
+<term>Robertsport (Liberia)</term>
+<term>Sierra Leone</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
 <term>Belgium</term>
-<term>Great Britain and Ireland</term>
-<term>Independent State of the Congo</term>
+<term>Great Britain</term>
 <term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term>Golahs</term>
-<term>Ding Golahs</term>
+<term>Gola</term>
+<term>Ding Gola</term>
 <term>Boatswain</term>
 </keywords>
     
@@ -130,6 +130,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-08-29" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -142,18 +143,15 @@
 
 <pb n="Roll5-1064.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-FEB 18 1887
-RECEIVED.</add></p>
+<note>Department of State Received Feb 18 1887</note>
 
-<p>No. 47</p>
+<p>No. 47.</p>
 
-<p>Consulate General of the U.S.
+<p>Consulate General of the U.S.<lb/>
 Monrovia Jan 5/87</p>
 
-<p>Mr. S. S. Sevier-</p>
-
-<p>To the Secty of State.</p>
+<p>Mr. S. S. Sevier<lb/>
+To the Sect'y of State.</p>
 
 <p>Subject</p>
 
@@ -168,47 +166,52 @@ the twentieth Legislature.</p>
 
 <pb n="Roll5-1065.jpg"/>
 
-<p>No 47.</p>
+<p>No. 47.</p>
 
-<p>Consulate of the U.S.
+<p>Consulate of the U.S.<lb/>
 Monrovia Jan 5th/87</p>
 
-<p>Hon. T. J. Bayard,
-Secty of State
+<p>Hon. T. F. Bayard<lb/>
+Sect'y of State<lb/>
 Washington
 D.C.</p>
 
-<p>Sir:
-I have the honor to
+<p>Sir:</p>
+
+<p>I have the honor to
 inclose herewith two (2)
 copies of the message of
 the President of the 
 Republic of Liberia.</p>
 
-<p>I am Sir
-Your obedient Servant</p>
-
-<p>Samuel S. Sevier
+<p>I am Sir<lb/>
+Your obedient Servant<lb/>
+Saml S. Sevier<lb/>
 Acting U.S. Consul Gen.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll5-1066.jpg"/>
 
-<p>MESSAGE
-OF THE
-PRESIDENT OF LIBERIA
-COMMUNICATED TO THE
-SECOND SESSION OF THE
-TWENTIETH LEGISLATURE.</p>
+<div2 type="section">
 
-<p>MONROVIA:
-T. W. HOWARD, PRINTER
-1886</p>
+<head type="main">Message of the President of Liberia Communicated to the Second Session of the Twentieth Legislature.</head>
+
+<p>Monrovia:
+T. W. Howard, Printer
+1886.</p>
+
+</div2>
 
 <pb n="Roll5-1067.jpg"/>
 
-<p>MESSAGE.</p>
+<div2 type="section">
 
-<p>TO THE HONORABLE THE SENATE AND HOUSE OF REPRESENTATIVES;--</p>
+<head type="sub">Message.</head>
+
+<p>To the Honorable the Senate and the House of Representatives;–</p>
 
 <p>In assembling again for the transaction of the business of
 the year, it is our first duty to acknowledge, with unfeigned
@@ -219,7 +222,7 @@ amidst difficult surroundings.</p>
 unprecedented depression that has embarrassed trade and 
 commerce, and industry generally, throughout the civilized world,
 the country has been free from the suffering and the insurrectionary
-outbursts that have afflicted other lands. This is owing
+outbursts that have afflicted other lands. This is owing,
 in great measure, to the bounteousness of soil and climate,
 the abundance of spontaneous productions, and the law-abiding
 disposition of the people.</p>
@@ -247,11 +250,11 @@ first day of April.</p>
 <p>The North West Boundary Treaty between the Republic
 and the Kingdom of Great Britain and Ireland, ratified at
 your last session, has also been ratified by Her Majesty the
-Queen; but the exchange of ratifications has been delayed in</p>
+Queen; but the exchange of ratifications has been delayed in
 
 <pb n="Roll5-1068.jpg"/>
 
-<p>consequence of the temporary absence of Her Majesty's
+consequence of the temporary absence of Her Majesty's
 representative at Sierra Leone.</p>
 
 <p>The Convention which was signed by the representatives
@@ -260,12 +263,12 @@ at Lisbon, on the 25th of March, 1885, and which was ratified
 at your last session, has also been ratified by the respective
 governments, and the ratifications have been exchanged at Lisbon.</p>
 
-<p>The Third International Copuright Conference, for the 
-purpose of securing to authors, composers, and artists copyright
+<p>The Third International Copyright Conference, for the 
+purpose of securing to authors, composers and artists copyright
 privileges in this country for reciprocal rights abroad,
 assembled at Berne from the 6th to the 9th of September of the
 present year. The Republic was represented by its consul
-general at Vienna, Mr. William Koentzer, imperial consulor
+general at Vienna, Mr. William Koentzer, imperial counselor
 and member of the chamber of commerce. The Convention,
 which has been signed by the representative of the Republic
 with a reservation on one subject, will be submitted for
@@ -297,21 +300,21 @@ lateness of the reception of the notice, the invitation was
 declined.</p>
 
 <p>The interest of the Government of the United States in the
-propserity and perpetuity of the Republic continues Unabated.</p>
+prosperity and perpetuity of the Republic continues unabated.</p>
 
 <p>The Secretary of the Treasury will lay before you his
 Report for the fiscal year. Contrary to what was hoped a year
 ago, some of the products of the country have fallen in price
 lower than has ever before been experienced; and the depression
-which has prevailed in other countires, has been flet in Liberia.
-In consequence, the revenue, instead of increasing, has</p>
+which has prevailed in other countries, has been felt in Liberia.
+In consequence, the revenue, instead of increasing, has
 
 <pb n="Roll5-1069.jpg"/>
 
-<p>fallen short. The evil has been intensified by the high price
+fallen short. The evil has been intensified by the high price
 at which foreign commodities have been held in the market
 after being imported at very low prices, while home products have
-fallen to the lowest level--an abnormal state of things, altogether
+fallen to the lowest level–an abnormal state of things, altogether
 at variance with the laws of trade, and can only be
 accounted for by the fact of our unwarrantable dependence on
 foreign commodities. Increased competition, the increasing and the
@@ -322,14 +325,14 @@ political and domestic, and shall have acquired the moral courage
 to face the facts of life in their true character.</p>
 
 <p>The inability of the natives generally to understand this
-depression of trade -- a state of things beyond the control of
-legislative enactment or executive action-- has caused some
+depression of trade–a state of things beyond the control of
+legislative enactment or executive action–has caused some
 restlessness in some sections, but not to the extent that might
 have been expected.</p>
 
 <p>In consequence of the general depression, considerable business
 has been withdrawn from the new ports of entry, to await
-a more favorable turn of affiars.</p>
+a more favorable turn of affairs.</p>
 
 <p>Although there appears a prospect of revival of trade, still
 some time will be required for the country to recover from 
@@ -338,7 +341,7 @@ all financial measures should be regulated with a view to this fact.</p>
 
 <p>I would again recommend that the export duty on marketable
 coffee be repealed. Considering the tendency of the native to
-engage in predatory wars, to the detriment of life, trade, and
+engage in predatory wars, to the detriment of life, trade and
 commerce, the loss on agricultural produce might be more than
 compensated by an additional duty on articles contraband of war,
 and on articles that may easily be produced in the country, as
@@ -361,13 +364,13 @@ evil.</p>
 <p>The "Act to repeal certain portions of the Act authorizing
 specific duties on certain articles imported into the Republic of
 Liberia, and the collection of the same, and regulating the payment
-of duties on imports," approved Febuary 8th, 1878, re-</p>
+of duties on imports," approved <sic>Febuary</sic> 8th, 1878, re-</p>
 
-<gap reason="missing"/>
+<gap extent="two pages" reason="missing from source"/>
 
 <pb n="Roll5-1070.jpg"/>
 
-<p>I would recommend that on first apprication only a certificate
+<p>I would recommend, that on first application only a certificate
 should be granted, and that the applicant should not be
 secured in the possession of said land by a deed, until certain
 improvements had been made; that the law should fix the
@@ -385,7 +388,7 @@ having been enacted near the close of the session, and probably
 somewhat hurriedly, is not sufficiently full and explanatory.
 It is true, it forms the County government on the model
 of the other counties. But the case of Montserrado is an
-anomaly-- quite different from that of the other counties.
+anomaly–quite different from that of the other counties.
 In the other counties there is a single superintendent; in
 Montserrado there are four.</p>
 
@@ -400,8 +403,8 @@ laws that are worth much come by growth. In the case of
 the leeward counties, the superintendents were not really the
 creation of a law ordained before their appointment; but
 the law was the result of a practice that had grown into a
-law--a practice of appointing "general superintendents,"
-as they were originally called--who were the vice-gerents
+law–a practice of appointing "general superintendents,"
+as they were originally called–who were the vice-gerents
 of the Executive in the leeward counties.</p>
 
 <p>Probably sufficient time has elapsed to enable the Legislature
@@ -419,12 +422,13 @@ Government.</p>
 
 <p>I have been informed that the road to the Camwood section,
 in the county of Grand Bassa, which had been closed, to which
-I called your attention last session, has been opened for trade
-Whenever difficulties of the kind occur, the complicated and</p>
+I called your attention last session, has been opened for trade</p>
+
+<p>Whenever difficulties of the kind occur, the complicated and
 
 <pb n="Roll5-1071.jpg"/>
 
-<p>conflicting trade interests sometimes so obscure the real cause
+conflicting trade interests sometimes so obscure the real cause
 of difficulty, as to prevent the Government from ascertaining
 clearly its duty in the matter. Sometimes, too, movements
 that appear to be serious and warlike, are merely an extensive
@@ -438,9 +442,9 @@ another class.</p>
 Golahs on the one side and the Boatswain tribes on the other, 
 to which I referred at your last session, has been brought to
 a close. The aggression came from Boporu, or the Boatswain
-section; and was led by certain cheiftains who, under the previous
+section; and was led by certain chieftains who, under the previous
 administration, had received large subsidies to keep the
-road open for trade. These cheiftains had willfully misinterpreted
+road open for trade. These chieftains had willfully misinterpreted
 their engagements by plundering industrious and peaceable
 tribes.</p>
 
@@ -452,7 +456,7 @@ beyond the line dividing defensive and offensive operations. The
 result of the war was, that the Golahs were compelled to capture
 and hold Boporu.</p>
 
-<p>Had the financies of the State justified, the best means of
+<p>Had the <sic>financies</sic> of the State justified, the best means of
 permanently quieting that section of country that had been
 long in the possession of tribes who were always inciting to war
 for predatory gain, would have been to place a small garrison
@@ -466,22 +470,22 @@ in the Quarterly Court, a practice which increases the expenses
 of the Judiciary, and seriously retards the business of the
 Court. The evil is growing to an alarming extent. Independently
 of this, as I have before stated, it is not possible to
-ascertain the correctness of reports under the persent system.</p>
+ascertain the correctness of reports under the <sic>persent</sic> system.</p>
 
 <p>The Bill passed at your last session, entitled "An Act to
 alter and amend the several acts establishing the Judiciary
 and regulating the powers common to the several Courts of
 Quarter Sessions and Common Please of the Counties," was
-intended to remedy one of the evils complained of --- the
+intended to remedy one of the evils complained of–the
 retarding of the business of the Court; and while this was
 good so far as it was intended to go, the bill appeared to be
-nullified by the fourth and fifth sections -- the principles involved
+nullified by the fourth and fifth sections–the principles involved
 in which were considered questionable. The Legislature
-adjourning a short time after the presentation of the bill,</p>
+adjourning a short time after the presentation of the bill,
 
 <pb n="Roll5-1072.jpg"/>
 
-<p>the Executive was not allowed the consitutional time for its
+the Executive was not allowed the constitutional time for its
 consideration.</p>
 
 <p>The third section of the above recited Act provides for vouchers
@@ -500,7 +504,7 @@ having been enacted near the close of the session, and probably
 somewhat hurriedly, is not sufficiently full and explanatory.
 It is true, it forms the County government on the model
 of the other counties. But the case of Montserrado is an
-anomaly-- quite different from that of the other counties. In
+anomaly–quite different from that of the other counties. In
 the other counties, there is a single superintendent; in
 Montserrado, there are four.</p>
 
@@ -509,14 +513,14 @@ County bill, provided the support of the other superintendencies,
 it was rightly inferred that they were to be continued.
 But it can readily be seen how, in such circumstances, a conflict
 might arise. Even had there been left to the framers
-of the billl time for deliberation, it would have been impossible
+of the bill time for deliberation, it would have been impossible
 to foresee all the contingencies that might arise. All laws
-that are worth much, come by growth. IN the case of the leeward
+that are worth much, come by growth. In the case of the leeward
 counties, the superintendents were not the creation of
 a law ordained before their appointment; but the law was
-the result of a practice that had grown into a law--the
+the result of a practice that had grown into a law–the
 practice of appointing "general superintendents," as they were
-originally called--who were the vice-gerents of the
+originally called–who were the vice-gerents of the
 Executive in the leeward counties.</p>
 
 <p>Probably sufficient time has elapsed to enable the Legislature
@@ -529,21 +533,21 @@ the Republic; there are near the boundary warlike tribes that
 require discreet management; and the territories of a foreign
 European government adjoining the boundary, there will
 sometimes arise delicate international questions that cannot be
-handled by the county government, but must be referrred for
+handled by the county government, but must be referred for
 solution to the Chief Executive government.</p>
 
 <p>During the months of March and April, accompanied by
-my suite, I visited the leeward counties to, iinquire into the
+my suite, I visited the leeward counties to, inquire into the
 condition of the counties and to adjust some difficulties
-existing there. My reception was a perfect ovation. Every county,</p>
+existing there. My reception was a perfect ovation. Every county,
 
 <pb n="Roll5-1073.jpg"/>
 
-<p>each town, vied with the other in doing honor to the
+each town, vied with the other in doing honor to the
 Nation in the reception accorded the Chief Magistrate. All
-organizations, ages, sexes and conditions joined in the rejoining.
+organizations, ages, sexes and conditions joined in the rejoicing.
 And when it is remembered that these exuberant feelings of joy
-were mainifested at a time when a gloom was cast over most
+were manifested at a time when a gloom was cast over most
 parts of the world from the general depression in trade and
 commerce, while in rich and powerful nations, there were
 riots and insurrections, we ought to feel encouraged by this
@@ -557,13 +561,13 @@ depression of trade and the machinations of a few foreign
 adventurers have, in great measure, created a situation
 altogether unwarrantable. I say unwarrantable, because I have
 received from the principal chiefs in that county, who are as much
-affected by the depression of trade-- assurances of loyalty and
+affected by the depression of trade–assurances of loyalty and
 sympathy. Besides, the Government has the sympathy and
 support of the civilized native population.</p>
 
 <p>There is the greatest need of increasing the civilized
-population of the lower counties begining with the extreme south
-eastern county-- either by accessions from the tribes or by
+population of the lower counties <sic>begining</sic> with the extreme south
+eastern county–either by accessions from the tribes or by
 immigration from abroad. For the last three years, I have
 been endeavoring to procure the assistance of the American
 Colonization Society in strengthening that County so exposed
@@ -575,9 +579,9 @@ the 15th of August of the present year. After taking into
 account the small amount received by government out of
 a loan that was so fraudulently managed, and making due
 allowance for the large sum out of which the Republic was
-defrauded,--the State still remains responsible. With Regard
+defrauded,–the State still remains responsible. With regard
 to this debt, I have to repeat some observations made on a 
-previous occasion. "Neither the Eexecutive nor the Legislature
+previous occasion. "Neither the <sic>Eexecutive</sic> nor the Legislature
 can work a miracle; but I have reason to believe that
 I shall have your hearty co-operation in any feasible measures
 that may be adopted for the extinction of this debt. And
@@ -593,11 +597,11 @@ comes within the sphere of its ability. But this ability is not
 to be measured by an extravagant appropriation of money in
 unnecessary and wrong directions: it is to be ascertained
 by a prudent and economical management of the finances.
-In other words, not until we shall have cut off all unnecessary</p>
+In other words, not until we shall have cut off all unnecessary
 
 <pb n="Roll5-1074.jpg"/>
 
-<p>expenses, and brought even the necessary expenditures
+expenses, and brought even the necessary expenditures
 within the limit of our income, shall we be able to do what
 is expected of us.</p>
 
@@ -615,7 +619,7 @@ more than one hundred cents discounted on half. Smaller
 salaries paid in good money are preferable to larger salaries
 paid in bad money, or no money at all. In a healthy and
 flourishing condition of the revenue, keeping in view the dignity
-and importance of the government, slalries and expenditures
+and importance of the government, salaries and expenditures
 that are now considered large would be regarded as only reasonable.
 But salaries and expenses should always be measured
 by one's ability to pay them. The present crisis calls not
@@ -627,14 +631,18 @@ under a delusion which every effort should be made to dispel.</p>
 
 <p>The importance of the subject of the Loan prevents its full
 discussion in the present communication. But I shall, at an
-early day, lay the matter before you ina special message.
-Repeating my observation beyond the present session, I have
+early day, lay the matter before you in a special message.
+Repeating my observation that the settlement of this question 
+cannot be postponed beyond the present session, I have
 to assure you of my hearty co-operation in this as well as in
 all other questions of interest to the State.</p>
 
-<p>Hilary R. W. Johnson.
-Monrovia,
+<p>Hilary R. W. Johnson.</p>
+
+<p>Monrovia,<lb/>
 December 14, 1886.</p>
+
+</div2>
 
 </div1>
 
