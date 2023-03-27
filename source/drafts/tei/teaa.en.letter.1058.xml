@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Beverly Y. Payne to A. A. Adee, November 27, 1887</title>
+<title>Despatch from Beverly Y. Payne to Alvey A. Adee, November 27, 1887</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to A. A. Adee, November 27, 1887</title>
+<title level="a">Despatch from Beverly Y. Payne to Alvey A. Adee</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -100,8 +101,8 @@
 <date when="1887-11-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Adee, A. A.</persName>
-<roleName>U.S. Second Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/77728466">Adee, Alvey A. (Alvey Augustus), 1842-1924</persName>
+<roleName>Second Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1888-01-03"/>
 </correspAction>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-09-07" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,25 +124,21 @@
 
 <pb n="Roll5-1225.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-JAN 3 1888
-RECEIVED.</add>
-<add>Mr. Payne sh.
-write on seals at ch paper
-in spite of his grief</add></p>
+<note>Department of State Received Jan 3 1888</note>
 
-<p>U.S. Legation
-Monrovia, Liberia
-November 27th 1887</p>
+<p>U.S. Legation,<lb/>
+Monrovia, Liberia,<lb/>
+November 27th 1887.</p>
 
-<p>Sir,
-It becomes my painful duty
+<p>Sir,</p>
+
+<p>It becomes my painful duty
 to acknowledge the receipt of your
-communication of the 24th at time
-announcing the death of Honerable
+communication of the 24th ultimo 
+announcing the death of Honorable
 Elihu B. Washburne, who was
 at one time Secretary of State
-of the United States, with inetruchin
+of the United States, with instruction
 to adopt the usual symbol of
 public mourning for a period of
 ten days as a testimony of respect
@@ -148,14 +146,14 @@ to the memory of the deceased;
 which was immediately obeyed.
 I conveyed to the Government of
 Liberia through the State Department
-the <unclear>o a d instelliganer</unclear>; and
-I am advised by the Secretary
-of State, to convey to gear, the
-sympathy of the Government of</p>
+the <unclear>bad</unclear> intelligence; and
+I am advised, by the Secretary
+of State, to convey to you, the
+sympathy of the Government of
 
 <pb n="Roll5-1226.jpg"/>
 
-<p>of Liberia in the taking off of
+of Liberia in the taking off of
 such an eminent Statesman;
 and with the Government of
 the United States in the loss
@@ -163,12 +161,11 @@ it has sustained in the death
 of so prominent and honored
 citizen.</p>
 
-<p>I have th honor to be
-Sir,
-Your obedient Servant
-Beverly Y. Payne
+<p>I have the honor to be<lb/>
+Sir,<lb/>
+Your obedient Servant,<lb/>
+Beverly Y. Payne<lb/>
 U.S. Acting Vice Consul</p>
-
 
 </div1>
 

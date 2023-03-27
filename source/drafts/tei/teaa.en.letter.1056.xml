@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to James D. Porter, October 6, 1887</title>
+<title level="a">Despatch from Samuel S. Sevier to James D. Porter</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -71,11 +72,11 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Taylor, Charles H. J.</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Liberia</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -95,7 +96,6 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Sevier, Samuel S.</persName>
-<roleName>U.S. Acting Consul General</roleName>
 <placeName>Franklinton (North Carolina)</placeName>
 <date when="1887-10-06"/>
 </correspAction>
@@ -103,13 +103,13 @@
 <persName ref="http://viaf.org/viaf/36031491">Porter, James D. (James Davis), 1828-1912</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
-<date when="1887-10-12"/>
 </correspAction>
 </correspDesc>
 
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-09-07" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,49 +122,58 @@
 
 <pb n="Roll5-1211.jpg"/>
 
-<p>Monrovia.
-Levingtone College
-Dodge Hall
-<add><unclear></unclear></add></p>
+<fw type="letterhead">Livingstone College.<lb/>
+Dodge Hall.<lb/>
+Rev. J. C. Price, A. M., President<lb/>
+Prof. E. Moore, A. M., Secretary.<lb/>
+Rev. C. R. Harris, Treasurer.</fw>
 
-<p>Salisbury, N. C., Oct 6th 1887</p>
+<p>Salisbury, N.C., Oct 6th 1887</p>
 
-<p>Hon. J. D. Porter
-Assistant Secretary of State
-Washington D. C.</p>
+<p>Hon. J. D. Porter<lb/>
+Assistant Secretary of State<lb/>
+Washington D.C.</p>
 
-<p>Sir
-I have just heard that
+<p>Sir</p>
+
+<p>I have just heard that
 the U.S. Minister to Liberia
 was coming back. Is it so?
-If so could could I go back
+If so could I go back
 as U.S. Vice Consul Genl?
-Your government is still
+Your Government is still
 indebted to me as U.S. Vice
 Consul Gen'l, may I not
 hold the position as did
 before until I am reward
 for service
 rendered? I am anxious
-to go back in the service</p>
+to go back in the service
 
 <pb n="Roll5-1212.jpg"/>
 
-<p>of your Government. I can
-stand the climate.
-Please inform the Secretary
+<fw type="letterhead">Livingstone College.<lb/>
+Dodge Hall.<lb/>
+Rev. J. C. Price, A. M., President<lb/>
+Prof. E. Moore, A. M., Secretary.<lb/>
+Rev. C. R. Harris, Treasurer.</fw>
+
+of your Government. I can
+stand the climate.</p>
+
+<p>Please inform the Secretary
 of State of my request. Do
 all you can for me.</p>
 
-<p>I am, Sir,
-Your obedient Servant
-Samuel S. Sevier
-(address) Franklinton
+<p>I am, Sir,<lb/>
+Your Obedient Servant<lb/>
+Samuel S. Sevier<lb/>
+(address) = Franklinton<lb/>
 N.C.</p>
 
-<p>Hon. J. D. Porter
-Assistant Secretary of State
-Washington D.C.</p>
+<fw type="address">Hon. J. D. Porter<lb/>
+Assistant Secretary of State<lb/>
+Washington D.C.</fw>
 
 </div1>
 

@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Samuel S. Sevier to A. A. Adee, October 26, 1887</title>
+<title>Despatch from Samuel S. Sevier to Alvey A. Adee, October 26, 1887</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to A. A. Adee, October 26, 1887</title>
+<title level="a">Despatch from Samuel S. Sevier to Alvey A. Adee</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -71,16 +72,14 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Harmon, E. J.</term>
-<term>Taylor, C. H. J.</term>
-<term>Bayard, Thomas F.</term>
-<term>Moore, G.</term>
+<term>Harmon</term><!-- Mrs. E. J. Harmon -->
+<term>Taylor, Charles H. J.</term>
 <term>Hopkins, Moses A.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Liberia</term>
-<term>Cape Palmas</term>
+<term>Monrovia (Liberia)</term>
+<term>Cape Palmas (Liberia)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -100,13 +99,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Sevier, Samuel S.</persName>
-<roleName>U.S. Acting Consul General</roleName>
 <placeName>Franklinton (North Carolina)</placeName>
 <date when="1887-10-26"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Adee, A. A.</persName>
-<roleName>U.S. Second Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/77728466">Adee, Alvey A. (Alvey Augustus), 1842-1924</persName>
+<roleName>Second Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1887-10-28"/>
 </correspAction>
@@ -115,6 +113,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-03" who="#kln">Review and edits.</change>
 <change when="2022-09-07" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -127,33 +126,31 @@
 
 <pb n="Roll5-1213.jpg"/>
 
-<p>Monrovia
-Franklinton
-Franklin Co. N.C.
-Oct 26/87</p>
+<note>Department of State Received Oct 28 1887</note>
 
-<p>Hon. A. A. Adee
-Second Asst
-Secretary of State
-Washington D. C.</p>
+<p>Franklinton<lb/>
+Franklin Co. N.C.<lb/>
+Oct 26/87.</p>
 
-<p><add>DEPARTMENT OF STATE
-OCT 28 1887
-RECEIVED</add></p>
+<p>Hon. A. A. Adee<lb/>
+Second Asst<lb/>
+Secretary of State<lb/>
+Washington D.C.</p>
 
-<p>Sir:
-your favor of the
+<p>Sir:</p>
+
+<p>Your favor of the
 22nd inst came duly to
 hand and was glad
 to hear from you.
 Please permit me to
 intrude upon your
 time by asking you
-for question in</p>
+for questions in
 
 <pb n="Roll5-1214.jpg"/>
 
-<p>regard to my
+regard to my
 account with the State
 Department as U.S.
 Vice Consul Genl when
@@ -164,16 +161,16 @@ of State and I was
 told that many of the
 items which include
 my report were
-disallowed. See ch
-items as for messanger
+disallowed. Such
+items as for messenger
 at the Legation and
 many others. Please
 allow me to state
-that I cannot get</p>
+that I cannot get
 
 <pb n="Roll5-1215.jpg"/>
 
-<p>vouchers for such
+vouchers for such
 items because I am
 now living in this
 country and no hopes
@@ -184,18 +181,18 @@ of State all about the
 matter of which I
 hear speaks.</p>
 
-<p>My fourth quarter <add>1886</add>
+<p>My fourth quarter 1886
 in which I paid
 messenger $15. was
 disallowed. My first
 quarter 1887 in which
 I paid my messenger
 was also disallowed.
-Sir permit me to say</p>
+Sir permit me to say
 
 <pb n="Roll5-1216.jpg"/>
 
-<p>I paid the messenger
+I paid the messenger
 every quarter during
 my service as U.S.
 Vice Consul $15.00; but
@@ -204,8 +201,8 @@ voucher; because the
 boy was a native boy
 who could not write;
 and further I did
-not <unclear></unclear> fully that
-I had to send vouchers
+not <unclear extent="one word"/> fully that
+I had to send voucher
 for every little sum.
 I hope the Department
 will consider these
@@ -213,53 +210,54 @@ items for messenger
 charged against me
 which I have paid.
 Further more I hope
-the Department of State</p>
+the Department of State
 
 <pb n="Roll5-1217.jpg"/>
 
-<p>consider that I took
+consider that I took
 the Legation in charge
-render many disadvantage
+render <del>many</del> many disadvantage
 not being acquainted
 with the work and its rules.</p>
 
 <p>I am willing that the
 Department of State
-disallow the funderal expenses
-of Moses A. Hopkins; but
-for the rest which I think is due me
+disallow the funeral expenses
+of Moses. A. Hopkins; but
+for the rest which I 
+think is due me
 should be paid. I
 paid $44.89 to Mrs. E
-J. Harmon of Cape
+J Harmon of Cape
 Palmas as I was
 told to do. Please
-look at one of your</p>
+look at one of your
 
 <pb n="Roll5-1218.jpg"/>
 
-<p>Consular Series and
+Consular Series and
 you will find where
 I was told so to do by
 the Asst Secretary of State,
 and that has been
 charged against me.
-I have all many
+There are many 
 items charged against
 me which I have
 paid in order to keep
 up the credit of the U.S.
 Legation.</p>
 
-<p>The reason G. Moore
+<p>The reason G. Moove
 has many of my
 drafts is because when
 I had small returns to
 pay and had not
-the money to do it.</p>
+the money to do it
 
 <pb n="Roll5-1219.jpg"/>
 
-<p>with their firm always
+with their firm always
 would advance me
 the money until I
 would afford to draw
@@ -267,7 +265,7 @@ a large draft. I could
 not draw a draft for
 every little item; so
 I got them to pay off
-what I owed
+what I owed <del>and</del>
 and at the end of
 each quarter I paid
 them in draft that
@@ -276,41 +274,41 @@ such a large draft
 or amount disallowed.
 I have written to Secretary
 of State about
-these things or facts as named</p>
+these things or facts as named
 
 <pb n="Roll5-1220.jpg"/>
 
-<p>but I have not heard
+but I have not heard
 from him. I want
 matters all fix up;
 therefore I again write.
 Please try and explain
 matters to the Department
 of State for me. I do
-not wish to cheat
-the government out one
+not wish to cheat the
+Government out one
 cent more than what
 is due me. I inclose
-a letter from C. H. Taylor
+a letter from C. H. J. Taylor
 U.S. Minister at
 Monrovia which I
 cannot understand
 toward the last where
 he speaks of my
 character through life
-would be darkened.</p>
+would be darkened.
 
 <pb n="Roll5-1221.jpg"/>
 
-<p>Am I indebted to the
+Am I indebted to the
 U.S. Government or is
 the Government indebted
 to me? Why should
 he speak in that way?
-I don't understand him.
+I <sic>dont</sic> understand him.
 I did my best in
 serving the U.S.
-government and if I am
+Government and if I am
 short I am willing to
 forego what little the
 government is indebted
@@ -319,47 +317,51 @@ Department of State will
 do what is best. Out
 side of the funeral
 expenses of the late
-Minister Moses A.</p>
+Minister Moses A
 
 <pb n="Roll5-1222.jpg"/>
 
-<p>Hopkins I hope the
+Hopkins I hope the
 Department will disallow
 nothing. Indeed
 I had trouble in Africa
-in dowing what I did
+in doing what I did
 do for the government,
 after Hopkins death.
-Please sir, just
+Please Sir, just
 think of my situation
-at that time where not
+at that time when not
 being acquainted
 with such a position.
 Hoping to hear from
-you soon.</p>
+you soon</p>
 
-<p>I remain
-dear sir
-your obedient servant</p>
+<p>I remain<lb/>
+Dear Sir<lb/>
+Your obedient servant<lb/>
+Samuel S. Sevier</p>
 
-<p>Samuel S. Sevier</p>
-
-<p>Franklinton
+<p>Franklinton<lb/>
 N.C.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll5-1223.jpg"/>
 
-<p>Monrovia Liberia
-September 14, 1887</p>
+<p>Monrovia Liberia<lb/>
+September 14th 1887</p>
 
-<p>Rev. S. S. Sevier</p>
+<p>Rev. S. S. Sevier;</p>
 
-<p>SirL
-I have to inform you in obedience to
-instruction No. 4, Consular series, recieved from Washington
+<p>Sir:</p>
+
+<p>I have to inform you in obedience to
+instruction No 4, Consular series, received from Washington
 dated June 7th 1887, in answer to your No 68 of
-April 19th., that the Department refuses to interfere
-in any agreement between you and Mr. Hopkins,
+April 19th, that the Department refuses to interfere
+in any agreement between you and Mr Hopkins,
 during his life time for services rendered by you
 to him. Using the language of the Department I have
 to say "Mr Hopkins was paid in full for the term of
@@ -367,58 +369,58 @@ his service and Mr Sevier must look to the estate
 of Mr Hopkins for payment of his claim if he means
 to press it."</p>
 
-<p>Letters received here, on the 13th instruct, informer
-you, that your draft of April 26th 1887, for $17.55
+<p>Letters received here, on the 13th instant, informs
+you, that your draft of April 26th 1887, for <unclear>$1700.00</unclear>
 drawn against salary account is disallowed
-on account of the insufficiency of the appropriations
-to pay nonresidents. This information is received
+on account of the insufficiency of the appropriation
+to pay non residents. This information is received
 from the office of the comptroller of the currency
-washington D. C. and carries date June 23rd 1887.
+Washington D.C. and carries date June 23rd 1887.
 I am also instructed to inform you by the
-Department of states No 5 consular series of date
-July 11th rec'd in Monrovia on the 13th <unclear></unclear> that on the
+Department of states No. 5 consular series, of date
+July 11th rec'd in Monrovia on the 13th inst that on the
 3rd quarter of 1886 your account is approved for $94.57
 instead of for $127.07 as claimed by you the following
 items being disallowed. Cleaning Legation $10.00
-attending Minister Hopkins $1.50 Hiring book 8 creed to take
-Minister Hopkins to steamer $6.00 suspended for want of voucher
-$15.00 for messanger services. Special account for
-<unclear></unclear></p>
+Attending Minister Hopkins $1.50 Hiring boat &amp; crew to take
+Mrs Hopkins to steamer $6.00 suspended for want of voucher
+$15.00 for messenger services. Special account for <unclear>Treasury</unclear>
 
 <pb n="Roll5-1224.jpg"/>
 
-<p><gap reason="missing"/> &amp; c of late minister Hopkins
-<gap reason="missing"/> 5.85 approved for $70.85 stems
-<gap reason="missing"/>llowed Professional service and
-<gap reason="missing"/>$25.00 <unclear>Preucliring</unclear> funeral
-<gap reason="missing"/>Roberts $50.00</p>
+<gap reason="missing"/>&amp;c of late Minister Hopkins
+<unclear reason="incomplete image"/> 5.85 approved for $70.85 stems
+<unclear reason="incomplete image"/> <unclear>allowed</unclear> Professional Service and
+<unclear reason="incomplete image"/> $25.00 <unclear extent="one word"/> funeral
+<unclear reason="incomplete image"/> H. Roberts $50.00</p>
 
-<p><gap reason="missing"/>ourth Quarter 1886
-<gap reason="missing"/>246.95 Approved for $136.29
-<gap reason="missing"/>disallowed:- Payment to servants
-<gap reason="missing"/>services in packing re. 8.00
-<gap reason="missing"/>shipping and reshipping efforts
-<gap reason="missing"/>$57.66 Messenger wages for $15.00
-<gap reason="missing"/>want of voucher.</p>
+<p><unclear reason="incomplete image"/> Fourth Quarter 1886</p>
 
-<p><gap reason="missing"/>First Quarter of 1887
-<gap reason="missing"/>for rent approved for $87.50
-<gap reason="missing"/> for services rendered to vessel
-<gap reason="missing"/>Consular agent at Cape Palmas
-<gap reason="missing"/>$44.89 is referred for examination
-<gap reason="missing"/>to the fifth auditor. Voucher
-<gap reason="missing"/>of bill rendered for services re.,
-<gap reason="missing"/>son $30.00 is not understood
-<gap reason="missing"/>be passed on until explained
-<gap reason="missing"/>did not tell me of having received
-<gap reason="missing"/>Bruce of Accra in reference to
-<gap reason="missing"/>hotographer. There are a number
-<gap reason="missing"/>of which you were guilty, while
-<gap reason="missing"/>the U.S. Government, that need
-<gap reason="missing"/>you would not have your character
-<gap reason="missing"/>blackened. I am sir rc.</p>
+<p><unclear reason="incomplete image"/> 246.95 Approved for $136.29
+<unclear reason="incomplete image"/> disallowed: Payment to servants
+<unclear reason="incomplete image"/> Services in packing &amp;c., 8.00
+<unclear reason="incomplete image"/> shipping and reshipping effects
+<unclear reason="incomplete image"/> $57.66 Messenger wages for $15.00
+<unclear reason="incomplete image"/> want of voucher.</p>
 
-<p>Chas H. J. Taylor</p>
+<p><unclear reason="incomplete image"/> First Quarter of 1887</p>
+
+<p><unclear reason="incomplete image"/> for rent approved for $87.50
+<unclear reason="incomplete image"/> for services rendered to vessel
+<unclear reason="incomplete image"/> Consular Agent at Cape Palmas
+<unclear reason="incomplete image"/> $44.89 is referred for examination
+<unclear reason="incomplete image"/> to the fifth auditor. Voucher
+<unclear reason="incomplete image"/> of bill rendered for services &amp;c.,
+<unclear reason="incomplete image"/> &amp; Son $30.00 is not understood
+<unclear reason="incomplete image"/> be passed on until explained
+<unclear reason="incomplete image"/> did not tell me of having received
+<unclear reason="incomplete image"/> <unclear>Bruce</unclear> of Accra in reference to
+<unclear reason="incomplete image"/> photographer. There are a number
+<unclear reason="incomplete image"/> of which you were guilty, while
+<unclear reason="incomplete image"/> the U.S. Government, that need
+<unclear reason="incomplete image"/> you would not have your character
+<unclear reason="incomplete image"/> blackened. I am sir &amp;c.,<lb/>
+Chas. H. J. Taylor.</p>
 
 </div1>
 
