@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to Thomas F. Bayard, January 17, 1888</title>
+<title level="a">Despatch from Beverly Y. Payne to Thomas F. Bayard</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -71,9 +72,12 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
+<term>Barclay, Ernest James</term>
+<term>Eccleston, J. H.</term>
 <term>Moore, H. J.</term>
+<term ref="http://viaf.org/viaf/156179516">Penick, Charles Clifton, 1843-1914</term>
 <term>Sherman, R. A.</term>
-<term>Penick</term>
+<term>Taylor, Charles H. J.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
@@ -97,7 +101,7 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Payne, Beverly Y.</persName>
-<roleName>U.S. Acting Consul General</roleName>
+<roleName>Acting U.S. Vice Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1888-01-17"/>
 </correspAction>
@@ -112,6 +116,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-09" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -124,18 +129,17 @@
 
 <pb n="Roll5-1247.jpg"/>
 
-<p>DEPARTMENT OF STATE
-FEB 21 1888
-RECEIVED</p>
+<note>Department of State Received Feb 21 1888</note>
 
-<p>No. 3.</p>
+<p>No 3.</p>
 
-<p>U. S. Legation
-Monrovia, Liberia,
+<p>U.S. Legation.<lb/>
+Monrovia, Liberia,<lb/>
 January 17th 1888.</p>
 
-<p>Sir:
-I have the honor to acknowledge
+<p>Sir.</p>
+
+<p>I have the honor to acknowledge
 the receipt of your communication
 No 9 Diplomatic Series
 of December 9th 1887, with seven
@@ -143,73 +147,75 @@ enclosures.</p>
 
 <p>I take pleasure in reporting that
 I have in accordance with your
-instruction delivered in perons
-Mr Ecclaston and Bishop Penick's
-letters to Mr Barlay Secretary
+instruction delivered in person
+Mr Eccleston and Bishop Penick's
+letters to Mr Barclay Secretary
 of State of Liberia, and expressed
-<unclear>loyalty</unclear>my personal satisfaction
-that this incident was at an end,
+orally my personal satisfaction
+that the incident was at an end,
 which was reciprocated by Sec'y
 Barclay. The copy enclosures
 I have on file in this Legation.</p>
 
-<p>Refering to my No 2 of the
-23rd sell., I have the honor to state
-that Mr. Taylor saw fit to have
+<p>Referring to my No 2. of the
+23rd ult., I have the honor to state,
+that Mr Taylor saw fit to have
 me in charge of this Legation
-in the capacity of Acting Vice</p>
+in the capacity of Acting Vice
+<catchwords>Vice</catchwords>
 
 <pb n="Roll5-1248.jpg"/>
 
-<p>Vice Consul General, to be appointed
+Vice Consul General, to be appointed
 Vice Consul General immediately
 after his arrival to Liberia:
 since his departure, I have
 heard (unofficially) of his resignation
-of the position of Minsiter
+of the position of Minister
 Resident and Consul General to
-Liberia:. hence I have pleasure
+Liberia. hence I take pleasure
 in transmitting to you my Bond,
 which I trust will meet your
 approval.</p>
 
 <p>Referring to Mr. Taylor's No 10
-of 20th September last, in which
-he stated, "A Bond <unclear>awaiteth</unclear>
+of 30th September last, in which
+he stated, "A Bond availeth
 nothing in this Country (Liberia)
 so far as the United States
-is censored," I have for
-my Bondmen the chieves of the
+is censored", I have for
+my Bondmen the <sic>chieves</sic> of the
 most wealthy mercantile business
 houses in the County, General
 R. A. Sherman, and the H. J.
-Moore, (the later of the firm of Moore
-G. Moore Gen.) both of whom
-are <unclear>venoun</unclear> to have capital
-in the United States and of good</p>
+Moore, (the latter of the firm of Messrs
+G. Moore &amp; Son.) both of whom
+are known to have capital
+in the United States and of good
+<catchwords>good</catchwords>
 
 <pb n="Roll5-1249.jpg"/>
 
-<p>good reputation.</p>
+good reputation.</p>
 
 <p>I am at present unaware
 of my real position, and what
-source to person in the management
+course to <sic>persue</sic> in the management
 of this Legation.</p>
 
-<p>Awaiting your instructions
-I am,
-Sir,
-Your Obedient Servant</p>
+<p>Awaiting your instructions<lb/>
+I am,<lb/>
+Sir,<lb/>
+Your Obedient Servant,<lb/>
+Beverly Y. Payne.</p>
 
-<p>Beverly Y. Payne</p>
+<fw type="address">Hon.<lb/>
+T. F. Bayard,<lb/>
+Secretary of State.</fw>
 
-<p>Hon.
-T. F. Bayard
-Secretary of State</p>
+<p>Enclosure.</p>
 
-<p>Enclosure,
-1 Bond</p>
+<p>1 Bond</p>
 
 </div1>
 

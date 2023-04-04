@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to George L. Rives, March 17, 1888</title>
+<title level="a">Despatch from Beverly Y. Payne to George L. Rives</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -75,8 +76,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Panama</term>
-<term>Panama Canal</term>
+<term>Isthmus of Panama</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -84,7 +84,7 @@
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term>Kroomen</term>
+<term>Kroo</term>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -96,12 +96,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Payne, Beverly Y.</persName>
-<roleName>U.S. Acting Consul General</roleName>
+<roleName>Acting U.S. Vice Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1888-03-17"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Rives, George L.</persName>
+<persName ref="http://viaf.org/viaf/29909070">Rives, George Lockhart, 1849-1917</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1888-04-28"/>
@@ -111,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-09" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -123,72 +124,78 @@
 
 <pb n="Roll5-1250.jpg"/>
 
-<p>DEPARTMENT OF STATE
-APR 28 1888
-RECEIVED</p>
+<note>Department of State Received Apr 28 1888</note>
 
-<p>No. 4.</p>
+<p>No. 4</p>
 
-<p>Consulate General of the United States
+<p>Consulate General of the United States<lb/>
 Monrovia, March 17th 1888</p>
 
-<p>Mr B. Y. Payne to the Assistant
+<p>Mr B. Y. Payne, to the Assistant
 Secretary of State.</p>
 
 <p>Subject.</p>
 
-<p>Receipt of Despatch No. 10</p>
+<p>Receipt of Despatch No 10.</p>
 
-<p>Sir.
-I have the honor to acknolwedge the receipt of
+<p>Sir.</p>
+
+<p>I have the honor 
+to acknowledge the receipt of
 your No 10 Diplomatic series of
 December 14th 1887 with enclosures
-relative to the Liberian laborer
+relative to the Liberian laborers
 at Panama: also, your printed
-circular relative to the Resolutions
+Circular relative to the Resolutions
 of the International Meridian
-Conference tv, and bug to
+Conference &amp;c, and beg to
 say, that I immediately
 transmitted to the Government
-Government</p>
+<catchwords>Government</catchwords>
 
 <pb n="Roll5-1251.jpg"/>
 
-<p>Government of Liberia, copies
-of same, and take plasure
+Government of Liberia, copies
+of same, and take pleasure
 in enclosing to you, Secretary
 Barclay's replies.</p>
 
-<p>I have the honor to be,
-Sir,
-your obedient Servant</p>
+<p>I have the honor to be,<lb/>
+Sir<lb/>
+Your obedient Servant<lb/>
+Beverly Y. Payne,<lb/>
+Act'g Vice Consul Genl.</p>
 
-<p>Beverly Y. Payne
-Act'g Vice General Conl.</p>
+<p>Hon.<lb/>
+G. L. Rives,<lb/>
+Ass't Sec'y of State<lb/>
+&amp;c &amp;c &amp;c</p>
 
-<p>Hon.
-G. L. Rive
-Asst Secy of State</p>
+<p>Enclosures.</p>
 
-<p>Enclosure,
-Secretary Barclay Replica
-refered to Nos 1 &amp; 2.</p>
+<p>Secretary Barclay's Replies
+referred to Nos 1 &amp; 2.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll5-1252.jpg"/>
 
-<p>Copy No. 1</p>
+<note>Department of State Received Apr 28 1888</note>
 
-<p>Department of State
-Monrovia, March 16th 1888
+<note>Copy</note>
+
+<p>No 1.</p>
+
+<p>Department of State<lb/>
+Monrovia, March 16th 1888<lb/>
 Liberia, W. C. A.</p>
 
-<p><add>DEPARTMENT OF STATE
-APR 28 1888
-RECEIVED</add></p>
+<p>Sir:</p>
 
-<p>Sir:
-I have the honor to acknowledge
-the receipt of your comunication
+<p>I have the honor to acknowledge
+the receipt of your communication
 of the 24th ult., transmitting
 to me by order of the 
 Secretary of State of the United States
@@ -196,27 +203,27 @@ a copy of a despatch from the
 Consul General of the United States
 at Panama, in regard to reported
 disturbances or disorders on the
-lines of the Panama Canal, in which
+line of the Panama Canal, in which
 Liberian citizens are said to have
 been concerned.</p>
 
 <p>In reply Sir, permit me to
 inform you that the copy of the
-important despatch above cities
-have been with its enclosure
-enclosure</p>
+important despatch above cited,
+has been with its enclosures
+<catchwords>enclosure</catchwords>
 
 <pb n="Roll5-1253.jpg"/>
 
-<p>enclosures carefully perused by
-my Governmnet, and after a
-due consideration have been
+enclosures carefully perused by
+my Government, and after a
+due consideration has been
 given to the matter, it is the
-opinion of the Liberian government
-that the inpression of
+opinion of the Liberian Government
+that the impression of
 Consul General Adamson, as
 to the countries to which the
-so called Liberian rally
+so called Liberians really
 belong, are correct, for the
 following reasons.</p>
 
@@ -227,42 +234,42 @@ in a foreign country, or even to work
 along the Coast to take their war
 customs with them. The fact being
 that they take away next to
-nothing but live to return in
-in</p>
+nothing but like to return in
+<catchwords>in</catchwords>
 
 <pb n="Roll5-1254.jpg"/>
 
-<p>in opposite condition. Furthermore
-the Liberian Natives shipping
+in opposite condition. Furthermore
+the Liberian natives shipping
 for work at Panama, had their
 outfit of clothing furnished by
 the Company's Agent, at the time
 of entering into the service of the
-company.</p>
+Company.</p>
 
 <p>2nd The natives of Liberia are
 notorious for their peaceful and
-orderly demeanor, which away
-from their homes and in a~
+orderly demeanor, whilst away
+from their homes and in a
 foreign country, they are as a
-general such very careful to--
+general rule very careful to
 avoid any conflict with the
 laws of the country in which
 they are residing, which would
 tend to curtail their liberty of
-departure at the period, fixed
+departure at the period fixed
 for their return to their homes.
-I have</p>
+<catchwords>I have</catchwords>
 
 <pb n="Roll5-1255.jpg"/>
 
-<p>I have therefore to request, that you
+I have therefore to request, that you
 will be kind enough to convey to
 the Government of the United States,
 the thanks of that of Liberia for the
 unabated interest it continues
-to exhibit for the affairs of Liberian
-citizens at present residing in the
+to exhibit for the welfare of Liberian
+citizens at present residing on the
 Isthmus of Panama, and, also
 convey to your Government the
 conclusion in which this Department
@@ -271,51 +278,59 @@ Adamson, that the parties who
 were said to have been engaged
 in the commission of disorder
 at Panama, are not natives of
-Liberia, but hiding to the more
-intractable tribes <unclear></unclear>to the
-North and South of Liberia</p>
+Liberia, but belong to the more
+intractable tribes situated to the
+North and South of Liberian
+<catchwords>Liberian</catchwords>
 
-<p>B. Y. Payne, Esq.,
-U.S. Act'g Vice Consul General,
-Monrovia</p>
+<fw type="address">B. Y. Payne, Esq.,<lb/>
+U.S. Act'g Vice Consul General,<lb/>
+Monrovia</fw>
 
 <pb n="Roll5-1256.jpg"/>
 
-<p>Liberian territory, and, living
+Liberian territory, and living
 under either French or
-English, funsdiction.</p>
+English jurisdiction.</p>
 
-<p>I have the honor to be
-Sir
-Your obediant Servant</p>
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your obedient Servant<lb/>
+(sd) E. J. Barclay</p>
 
-<p>E. J. Barclay</p>
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll5-1257.jpg"/>
 
-<p>Department of State
-Monrovia, March 16th 1888
+<p>Department of State,<lb/>
+Monrovia, March 16th 1888<lb/>
 Liberia, W. C. A.</p>
 
-<p>Sir:
-I have the honor to acknowledge
+<p>Sir</p>
+
+<p>I have the honor to acknowledge
 the receipt of that portion
-of your Despatch of the 24th alt.,
+of your Despatch of the 24th ult.,
 with enclosures in the subject
 of the Resolutions of the International
 Meridian Conference
 which was held in Washington
-D. C. during the month of
-October 1884, and to inform you
+D.C. during the month of
+October 1884, and to inform you,
 that the Report alluded to in
 your said Despatch is having
 the consideration of the Liberian Government.</p>
 
-<p>I have the honor to be
-Sir
-Your obedient Servant</p>
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your obedient Servant<lb/>
+(sd.) E. J. Barclay</p>
 
-<p>E. J. Barclay</p>
+<fw type="address">Beverly Y. Payne, Esq.,<lb/>
+U.S. Act'g Vice Consul General,<lb/>
+Monrovia.</fw>
 
 </div1>
 
