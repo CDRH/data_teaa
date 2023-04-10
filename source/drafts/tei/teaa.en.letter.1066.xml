@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to Goerge L. Rives, March 31, 1888</title>
+<title level="a">Despatch from Beverly Y. Payne to George L. Rives</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -71,10 +72,10 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Robeik, Thomas</term>
-<term>Lan, Wanjeh</term>
+<term>Roberts, Thomas</term>
+<term>Sharp, Jesse</term>
+<term>Sherman, R. A.</term>
 <term>Taylor, Charles H. J.</term>
-<term>Sharp</term>
 </keywords>
     
 <keywords scheme="original" n="places">
@@ -98,7 +99,7 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Payne, Beverly Y.</persName>
-<roleName>U.S. Acting Consular General</roleName>
+<roleName>Acting U.S. Vice Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1888-03-31"/>
 </correspAction>
@@ -113,6 +114,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-12" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -125,51 +127,47 @@
 
 <pb n="Roll5-1266.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-MAY 5 1888
-RECEIVED.</add></p>
+<note>Department of State Received May 5 1888</note>
 
 <p>No 7.</p>
 
-<p>Consulate General of the United States
-Monrovia, Liberia, March 21st 1888</p>
+<p>Consulate General of the United States.<lb/>
+Monrovia, Liberia, March 31, 1888.</p>
 
-<p>Instruction to <unclear></unclear> means
-Bericaba of Accts General</p>
-
-<p>Mr B. Y. Payne to the Assistant
+<p>Mr. B. Y. Payne to the Assistant
 Secretary of State</p>
 
-<p>Subject</p>
+<p>Subject.</p>
 
 <p>Returns for Quarter ended
-March 31st 1888</p>
+March 31st 1888.</p>
 
-<p>Sir.
-I have the honor to
+<p>Sir.</p>
+
+<p>I have the honor to
 respectfully transmit the
 following as my returns or
-repeat <unclear></unclear> my in cumbency
-October 1887 to State, which
-consist of DIgest of Invoices
-book of Arrivals and departures
-of American vessels (2) ~
+<unclear>report</unclear> since my incumbency
+October 1887 to date, which
+consist of Digest of Invoice
+book (1) of Arrivals and departure
+of American vessels (2)
 Summary of Consular business
-(3) Records of official
-official</p>
+(3) Record of official
+<catchwords>official</catchwords>
 
 <pb n="Roll5-1267.jpg"/>
 
-<p>Official fees (4), Miscelleneous
+official fees (4), <sic>Miscelleneous</sic>
 expenses with vouchers (5)
-and General, account (6)</p>
+and General account (6)</p>
 
 <p>Permit me to express my
 deep regret that I have not
 forwarded these returns in
 regular order (quarterly): My
 reason for not doing so, was
-that Mr. Taylor requested me
+that Mr. Taylor requested me,
 not to, until his return,
 which would have been before
 the ending of December quarter,
@@ -177,66 +175,66 @@ last, according to his arrangement,
 and not until I had
 entered upon the quarter ending
 this date did I hear of his
-resignation did forwarded
+resignation, and forwarded
 my Bond.</p>
 
 <p>I have put no house
-house</p>
+<catchwords>house</catchwords>
 
 <pb n="Roll5-1268.jpg"/>
 
-<p>rent in the account, but there
-is one quarter <unclear></unclear> Mr Sharp,
+rent in the account, but there
+is one quarter due Mr Sharp,
 to date: having no authority to
-settle same. I have requested
+settle same, I have requested
 him to await until I can
 get advice in reference to the
 matter.</p>
 
 <p>I have further to state in
 explanation of my account
-record, that the bill of Mr. R. A.
+rendered, that the bill of Mr R. A.
 Sherman, is for landing the case
-Stationary to consigned to the
-Legation when Mr. Taylor was
-in charge, which was claimed
+Stationary &amp;c consigned to the
+Legation when Mr Taylor was
+in charge, which was carried
 to the Leeward, and landed a
 few days after Mr Taylor's
 departure. The Bill of Messers
-G. Moore &amp; Son is for <unclear></unclear>
-whichever necessary to be
-be</p>
+G. Moore &amp; Son, is for sundries
+which ever necessary to be
+<catchwords>be</catchwords>
 
 <pb n="Roll5-1269.jpg"/>
 
-<p>be had for the cleanliness of, and
-light for safety of the Legation.
-The two boys Thomas Robeik,
-and Wanjeh Lan's were left at
-the Legation by Mr. Taylor.</p>
+be had for the cleanliness of, and
+light for safety of the Legation.</p>
+
+<p>The two boys Thomas Roberts,
+and <unclear extent="one name"/> were left at
+the Legation by Mr Taylor.</p>
 
 <p>I trust my report will be
 in order and satisfactory, as
 Mr. Taylor left the Legation to
 return in two and a half months,
-and matter very scattered and
-aukward.</p>
+and matters very scattered and
+awkward.</p>
 
-<p>I have the honor to be
-Sir
-Your very obedient Servant</p>
+<p>I have the honor to be<lb/>
+Sir<lb/>
+Your very obedient Servant<lb/>
+Beverly Y Payne.</p>
 
-<p>Beverly Y Payne.</p>
+<fw type="address">Hon.,<lb/>
+George L. Rives,<lb/>
+Ass't Sec'y State</fw>
 
-<p>Hon
-George L. Rives
-Ass't Sec'y State</p>
-
-<p>Enclosures. Digest of Invoices
-book. Arrivals &amp; Departure of vessels.
+<p>Enclosures. Digest of Invoice
+Book. Arrivals &amp; Departure of vessels.
 Summary of Consular business
-Record of official fees. Miscelleneous
-expense with vouchers &amp; General Ac</p>
+Record of official fees. <sic>Miscelleneous</sic>
+expense with vouchers &amp; General <unclear>Acct</unclear></p>
 
 </div1>
 

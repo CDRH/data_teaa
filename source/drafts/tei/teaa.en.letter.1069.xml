@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to Goerge L. Rives, April 19, 1888</title>
+<title level="a">Despatch from Samuel S. Sevier to George L. Rives</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -75,7 +76,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Monrovia, Liberia</term>
+<term>Monrovia (Liberia)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -95,7 +96,7 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Sevier, Samuel S.</persName>
-<roleName>Ex-Vice Consul General</roleName>
+<roleName>Ex-U.S. Vice Consul General</roleName>
 <placeName>Franklinton (North Carolina)</placeName>
 <date when="1888-04-19"/>
 </correspAction>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-13" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,21 +124,19 @@
 
 <pb n="Roll5-1276.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-APR 20 1888
-RECEIVED.</add></p>
+<note>Department of State Received Apr 20 1888</note>
 
-<p>Monrovia
-Franklinton
-Franklin Co. N. C.
-April 19th 1888</p>
+<p>Franklinton<lb/>
+Franklin Co. N.C.<lb/>
+April 19th 1888.</p>
 
-<p>Hon. G. L. Rives
-Assistant Secretary of State
+<p>Hon. G. L. Rives<lb/>
+Assistant Secretary of State<lb/>
 Washington D.C.</p>
 
-<p>Sir:
-Not many weeks ago I wrote
+<p>Sir:</p>
+
+<p>Not many weeks ago I wrote
 you in regard to the disallowance
 the United States Government
 made of $411.88 which was due
@@ -147,14 +147,13 @@ that justice be given me, for the
 disallowance is not just.</p>
 
 <p>Hoping my case will receive
-your attention with full justice-
-I am, Sir,</p>
+your attention with full justice.
+I am, Sir,
 
 <pb n="Roll5-1277.jpg"/>
 
-<p>Respectfully Yours</p>
-
-<p>Samuel S. Sevier</p>
+Respectfully Yours<lb/>
+Samuel S. Sevier</p>
 
 </div1>
 

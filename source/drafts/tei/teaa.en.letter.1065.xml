@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to Alvey A. Adee, March 27, 1888</title>
+<title level="a">Despatch from Beverly Y. Payne to Alvey A. Adee</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -96,13 +97,13 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Payne, Beverly Y.</persName>
-<roleName>U.S. Acting Consular General</roleName>
+<roleName>Acting U.S. Vice Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1888-03-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Adee, Alvey A.</persName>
-<roleName>U.S. Acting Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/77728466">Adee, Alvey A. (Alvey Augustus), 1842-1924</persName>
+<roleName>Acting U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1888-04-28"/>
 </correspAction>
@@ -111,6 +112,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-12" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -123,76 +125,83 @@
 
 <pb n="Roll5-1262.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-APR 28 1888
-RECEIVED.</add></p>
+<note>Department of State Received Apr 28 1888</note>
 
 <p>No 6.</p>
 
-<p>Consulate General of the United States
-Monrovia, March 24th 1888</p>
+<p>Consulate General of the United States.<lb/>
+Monrovia, March 27th 1888</p>
 
 <p>Mr B. Y. Payne to the Acting
 Secretary of State</p>
 
-<p>Subject</p>
+<p>Subject.</p>
 
-<p>Receipt of Despatch No 11 Dip' Ser</p>
+<p>Receipt of Despatch No 11. Dip' Ser</p>
 
-<p>Sir:
-I have the honor to
+<p>Sir.</p>
+
+<p>I have the honor to
 acknowledge the receipt of your
-No 11 Diplomatic Series of January
+No 11. Diplomatic Series, of January
 27th 188 with enclosures
 relative to the mortality among
 and the condition of Liberian
-laborers in the Panama Canal.
-This despatch was delayed
-at the Leonard, but immediately
+laborers in the Panama Canal.</p>
+
+<p>This despatch was delayed
+at the Leeward, but immediately
 after its receipt, I transmitted
 copies of your enclosures
-enclosures</p>
+<catchwords>enclosures</catchwords>
 
 <pb n="Roll5-1263.jpg"/>
 
-<p>enclosures to the Government
+enclosures to the Government
 of Liberia, and I take
-pleasure in enclosuing to you
+pleasure in enclosing to you,
 copy of Secretary Barclay's
 reply, which I am just
 in receipt of.</p>
 
-<p>I have the honor to be,
-Sir,
-Your obedient Servant</p>
+<p>I have the honor to be,<lb/>
+Sir,<lb/>
+Your obedient Servant,<lb/>
+Beverly Y. Payne.</p>
 
-<p>Beverly Y. Payne</p>
+<fw type="address">Hon.,<lb/>
+Alvey A. Adee,<lb/>
+Act'g Sec'y<lb/>
+&amp;c &amp;c &amp;c</fw>
 
-<p>Hon.,
-Alvey A. Adee
-Act'g Sec'y</p>
-
-<p>Enclosure</p>
+<p>Enclosure.</p>
 
 <p>Sec'y Barclay's to B. Y. Payne
-refered to, No 3</p>
+referred to, No 3.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll5-1264.jpg"/>
 
-<p>No 3</p>
+<note>Copy</note>
 
-<p>Department of State.
-Monrovia, March 27th 1888
-Liberia W. C. A.</p>
+<p>No 3.</p>
 
-<p>Sir,
-I have the honor to acknolwedge
+<p>Department of State.<lb/>
+Monrovia, March 27th 1888.<lb/>
+Liberia, W. C. A.</p>
+
+<p>Sir.</p>
+
+<p>I have the honor to acknowledge
 the receipt of your
-communication of the 20th inst. with
+communication of the 20th inst., with
 enclosures relative to the
 mortality among the African laborers
 employed on the Panama Canal.
-<unclear>Menks</unclear>, and the desire at the
+Works, and the desire of the
 Liberian portion of said laborers
 to return to their homes as
 soon as possible as is
@@ -202,27 +211,26 @@ General resident at Panama.</p>
 
 <p>In reply, I am to inform
 you, that this Department
-Department</p>
+<catchwords>Department</catchwords>
 
 <pb n="Roll5-1265.jpg"/>
 
-<p>Department is in receipt
+Department is in receipt
 of information that measures
 are being taken for the
-speedy return of whatever
-Liberian Laborers from the
+speedy return of whole
+Liberian laborers from the
 Isthmus of Panama to their
 homes in this Republic.</p>
 
-<p>I have the honor to be,
-Sir,
-Your obedient Servant</p>
+<p>I have the honor to be,<lb/>
+Sir,<lb/>
+Your obedient Servant<lb/>
+Sd, E. J. Barclay.</p>
 
-<p>Sd E. J. Barclay</p>
-
-<p>Beverly Y. Payne Esq.,
-U.S. act'g Vice Consul Genl
-Monrovia</p>
+<fw type="address">Beverly Y. Payne Esq.,<lb/>
+U.S. Act'g Vice Consul Genl.<lb/>
+Monrovia.</fw>
 
 </div1>
 
