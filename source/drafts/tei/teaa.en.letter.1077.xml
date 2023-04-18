@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to George L. Rives, June 26, 1888</title>
+<title level="a">Despatch from Samuel S. Sevier to George L. Rives</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -75,7 +76,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Liberia</term>
+<term>Monrovia (Liberia)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -95,7 +96,7 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Sevier, Samuel S.</persName>
-<roleName>Ex-Vice Consul General</roleName>
+<roleName>Ex-U.S. Vice Consul General</roleName>
 <placeName>Franklinton (North Carolina)</placeName>
 <date when="1888-06-26"/>
 </correspAction>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-14" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -120,42 +122,39 @@
 
 <div1 xml:lang="en" type="document">
 
-<pb n="Roll5-1299.jpg"/>
+<pb n="Roll5-1301.jpg"/>
 
-<p>Monrovia</p>
+<note>Department of State Received Jun 27 1888</note>
 
-<p>Franklinton N. C.
-June 26 / 88</p>
+<p>Franklinton N.C.<lb/>
+June 26/88</p>
 
-<p><add>DEPARTMENT OF STATE
-JUN 27 1888
-RECEIVED.</add></p>
+<p>Hon. G. L. Rives<lb/>
+Assistant Secretary of State,<lb/>
+Washington D.C.</p>
 
-<p>Hon G. L. Rives
-Assistant Secretary of State
-Washington D. C.</p>
+<p>Sir:</p>
 
-<p>Sir:
-Your letter of May 26th 1888, came
-to hand when I was from;
+<p>Your letter of May 26th 1888, came
+to hand when I was from home;
 therefore I could not reply. I now
 take this opportunity to say that it is
-impossible for me to send in, to
+impossible for me to send in to
 the State Department proper
 voucher for messenger service
 rendered the U.S. Legation at Monrovia
-Liberia for the amount of $75 50/100
+Liberia for the amount of $75.50/100
 because I cannot get said proper
 voucher from the messenger, for
-I don't know where he is. And</p>
+I dont know where he is. And
 
 <pb n="Roll5-1302.jpg"/>
 
-<p>again, Sir, if I could get a
+again, Sir, if I could get a
 voucher it would not be a proper
 one; because the messenger
-cannot write his name. He was
-a native man of the land
+cannot write his <hi rend="underline">Name</hi>. He was
+a native man of the <del><unclear>usual</unclear></del> land,
 one who could hardly speak the
 English language.</p>
 
@@ -164,15 +163,14 @@ and let me have my money ($75 50/100)
 for I am in need of it. I am willing
 to take oath on the fate of my life
 that I paid the messenger of the U.S.
-Legation at Monrovia Liberiea that
+Legation at Monrovia Liberia that
 money. Please give me justice.
 I know you will do what is right
 and just. Hoping to hear from you soon.</p>
 
-<p>I remain, Sir,
-Yours with Highest esteem</p>
-
-<p>Samuel S. Sevier</p>
+<p>I remain, Sir,<lb/>
+Yours with highest esteem<lb/>
+Sam'l S. Sevier</p>
 
 </div1>
 

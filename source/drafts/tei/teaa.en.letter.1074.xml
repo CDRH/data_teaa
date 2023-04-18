@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Ezekiel E. Smith to Thomas F. Bayard, May 2, 1888</title>
+<title level="a">Despatch from Ezekiel E. Smith to Thomas F. Bayard</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -95,7 +96,7 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Smith, Ezekiel E.</persName>
-<roleName>Principal of the State Colored Normal School</roleName>
+<roleName/>
 <placeName>Fayetteville (North Carolina)</placeName>
 <date when="1888-05-02"/>
 </correspAction>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-14" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,36 +124,33 @@
 
 <pb n="Roll5-1295.jpg"/>
 
-<p>Monrovia</p>
+<note>Department of State Received May 4 1888</note>
 
-<p>State Colored Normal School,
-(Instituted 187)
-E. E. Smith, A. M., Principal.</p>
-
-<p><add>DEPARTMENT OF STATE
-MAY 4 1888
-RECEIVED.</add></p>
+<ab type="letterhead">State Colored Normal School,<lb/>
+(Instituted 1877.)<lb/>
+E. E. Smith, A. M., Principal.</ab>
 
 <p>Fayetteville, N. C., May 2nd 1888.</p>
 
-<p>To the Hon. T. F. Bayard
-Secretary of State,
-Washington D. C.</p>
+<p>To the Hon. T. F. Bayard,<lb/>
+Secretary of State,<lb/>
+Washington D.C.</p>
 
-<p>Sir:
-I have the honor to acknolwedge
+<p>Sir:</p>
+
+<p>I have the honor to acknowledge
 the receipt of your communication
 of the 1st inst, accompanying the
 Bond and "Oath of Allegiance and
 Office."</p>
 
-<p>I shall proceed, at once, to qual-
-<gap reason="missing"/>ly and return the papers.</p>
+<p>I shall proceed, at once, to <unclear>qualify</unclear>
+and return the papers.</p>
 
 <p>I shall report to you in person
-<gap reason="missing"/>thin six or eight days.</p>
+<unclear>within</unclear> six or eight days.</p>
 
-<p>I am most obediently,
+<p>I am most obediently,<lb/>
 Ezekiel E. Smith.</p>
 
 </div1>

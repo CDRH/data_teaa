@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Samuel S. Sevier to George L. Rives, May 23, 1888</title>
+<title level="a">Despatch from Samuel S. Sevier to George L. Rives</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -72,10 +73,11 @@
     
 <keywords scheme="viaf" n="people">
 <term>Hopkins, Moses A.</term>
+<term>Hopkins, Carrie</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>New York (New York)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -95,7 +97,7 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Sevier, Samuel S.</persName>
-<roleName>Ex-Vice Consul General</roleName>
+<roleName>Ex-U.S. Vice Consul General</roleName>
 <placeName>Hampton (Virginia)</placeName>
 <date when="1888-05-23"/>
 </correspAction>
@@ -110,6 +112,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-14" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,52 +125,49 @@
 
 <pb n="Roll5-1299.jpg"/>
 
-<p>Monrovia</p>
+<note>Department of State Received May <del>25</del> 24 1888</note>
 
-<p><add>DEPARTMENT OF STATE
-MAY 24 1888
-RECEIVED</add></p>
+<p>Hampton Va<lb/>
+May 23 /88</p>
 
-<p>Hampton Va
-May 23 / 88</p>
-
-<p>Hon. G. L. Rives
-Assistant Secretary of State
+<p>Hon. G. L. Rives<lb/>
+Assistant Secretary of State<lb/>
 Washington D.C.</p>
 
-<p>Sir:
-Yours of the 16th inst. came
+<p>Sir:</p>
+
+<p>Yours of the <unclear>10th</unclear> inst. came
 duly to hand and I was more
 than glad that items of
 disallowances made against
 me had your careful consideration.
 Am I to understand
-that "Items of Disallownaces 4 9,
+that "Items of disallowances 4, 9,
 and 11, for messenger service
 and for such portion of items 15
-<gap/>s is made up of compensation
-<gap/> messenger" only be drawn
-<gap/>y me, which above amount
-<gap/>is $75 50/100. Shall I draw for
-<gap/>the same? Please inform
-<gap/>me. I feel contented with</p>
+<unclear extent="one word"/> is made up of compensation
+<unclear>for</unclear> messenger" may be drawn
+<unclear>by</unclear> me, which above amount
+is $75.50/100. Shall I draw for
+the same? Please inform
+me. I feel contented with
 
 <pb n="Roll5-1300.jpg"/>
 
-<p>your judgement in my
-<gap/>se, but please your honor
-<gap/>inform Mrs Hopkins officially
-<gap/>that what she expects the
-<gap/>epartment of State to pay me
-<gap/>involve upon her to do so for
-<gap/>burial of her husband
-<gap/>Moses A. Hopkins.</p>
+your judgement in my
+use, but please your honor
+inform Mrs. Hopkins officially
+that what she expects the
+Department of State to pay me
+<unclear extent="one word"/> involve upon her to do so for
+the burial of her husband,
+Moses A. Hopkins.</p>
 
-<p>I have the honor to be, SIr,
-Yours Truly</p>
+<p>I have the honor to be, Sir,<lb/>
+Yours Truly<lb/>
+Sam'l S. Sevier</p>
 
-<p>Samuel S. Sevier
-Address 57 South St.
+<p>Address 57 South St.<lb/>
 New York</p>
 
 </div1>
