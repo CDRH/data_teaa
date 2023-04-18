@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Ezekiel E. Smith to William F. Wharton, August 5, 1889</title>
+<title level="a">Despatch from Ezekiel E. Smith to William F. Wharton</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -75,7 +76,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Elmina</term>
+<term>Elmina (Gold Coast)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -100,7 +101,7 @@
 <date when="1889-08-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Wharton, William F.</persName>
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1889-09-17"/>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-19" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,56 +124,58 @@
 
 <pb n="Roll5-2054.jpg"/>
 
-<p>No. 27</p>
+<note>Department of State Received Sep 17 1889</note>
 
-<p><add>DEPARTMENT OF STATE
-SEP 17 1889
-RECEIVED.</add></p>
+<p>No 27</p>
 
-<p>Consulate General of the United States,
-Monrovia, Liberia, August 5th, 1889</p>
+<p>Consulate General of the United States,<lb/>
+Monrovia, Liberia, August 5th 1889.</p>
 
-<p>Mr. Ezekiel E. Smith
-To the Deartment of State.</p>
+<p>Mr. Ezekiel E. Smith<lb/>
+To the Department of State.</p>
 
 <p>Subject:</p>
 
-<p>Accounts and returns of the Consular Agt,
+<p>Accounts and returns of the Consular Agt.
 at Elmina, for the quarter ended June 30th 1889</p>
 
 <pb n="Roll5-2055.jpg"/>
 
 <p>No. 27.</p>
 
-<p>Consulate General of the  United States,
-Monrovia, Liberia, August 5th, 1889</p>
+<p>Consulate General of the  United States,<lb/>
+Monrovia, Liberia, August 5th 1889</p>
 
-<p>Honorable William F. Wharton
-Assistant Secretary of State,
-Wasington, D. C.</p>
+<p>Honorable William F. Wharton,<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
 
-<p>Sir:
-I have the honor respectfully to
+<p>Sir:</p>
+
+<p>I have the honor respectfully to
 transmit herewith the accounts
 and returns of the Consular Agent at
 Elmina, for the quarter ended June
-30th 1889, as follows: (1) Arrivals and
-departures of AMerican vessels;
+30th 1889, as follows: Arrivals and
+departures of American vessels;
 Detailed report of official services;
 Summary of business.</p>
 
-<p>I have the honor to be, sir,
-your obedient servant</p>
-
-<p>Ezekiel E. Smith
+<p>I have the honor to be, sir,<lb/>
+Your obedient servant<lb/>
+Ezekiel E. Smith<lb/>
 U.S. Consul General.</p>
 
-<p>Enclosuers 3</p>
+<p><catchwords>Enclosures</catchwords>
 
-<p>1. Arrivals and departures of
-American vessels
-2. Detailed report of official servies
-3. Summary of business</p>
+<pb n="Roll5-2056.jpg"/>
+
+Enclosures 3</p>
+
+<p>1 Arrivals and departures of
+American vessels.<lb/>
+2 Detailed report of official services<lb/>
+3 Summary of business.</p>
 
 </div1>
 

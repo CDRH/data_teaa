@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Ezekiel E. Smith to Alvey A. Adee, May 18, 1889</title>
+<title level="a">Despatch from Ezekiel E. Smith to Alvey A. Adee</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -75,7 +76,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Elmina</term>
+<term>Elmina (Gold Coast)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -100,8 +101,8 @@
 <date when="1889-05-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Adde, Alvey A.</persName>
-<roleName>U.S. Second Assistant Secretary of State</roleName>
+<persName ref="http://viaf.org/viaf/77728466">Adee, Alvey A. (Alvey Augustus), 1842-1924</persName>
+<roleName>Second Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1889-06-24"/>
 </correspAction>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-16" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,48 +124,40 @@
 
 <pb n="Roll5-2044.jpg"/>
 
-<p>No. 22</p>
+<note>Department of State Received Jun 24 1889</note>
 
-<p><add><unclear></unclear>Cons. Genl. should trace
-the parcil from his end
-of the line - it is probable that
-he will have read the
-pkg before
-our instruction reaches him</add></p>
+<ab type="letterhead">No. 22</ab>
 
-<p><add>DEPARTMENT OF STATE
-JUN 24 1889
-RECEIVED.</add></p>
+<ab type="letterhead">Consulate General, U. S. A.<lb/>
+Monrovia, Liberia, May 18th 1889</ab>
 
-<p>Consulate General, U. S. A.
-Monrovia, Liberia, May 18, 1889</p>
+<ab type="letterhead">Mr. Ezekiel E. Smith<lb/>
+To the Department of State.</ab>
 
-<p>Mr. Ezekiel E. Smith
-To the Deartment of State.</p>
-
-<p>SUBJECT:</p>
+<ab type="letterhead">SUBJECT:</ab>
 
 <p>Receipt of No 7 Consular series</p>
 
-<p>ABSTRACT OF CONTENTS.</p>
+<ab type="letterhead">ABSTRACT OF CONTENTS.</ab>
 
-<p>Despatch No 7 received,
-REceipt for parcel from B. F. Stevens
+<p>Despatch No 7 received,<lb/>
+Receipt for parcel from B. F. Stevens,<lb/>
 Parcel not received.</p>
 
 <pb n="Roll5-2045.jpg"/>
 
-<p>No. 22.</p>
+<ab type="letterhead">No. 22.</ab>
 
-<p>Consulate General, U. S. A.
-Monrovia, Liberia, May 18th, 1889</p>
+<ab type="letterhead">Consulate General, U. S. A.<lb/>
+Monrovia, Liberia, May 18th 1889</ab>
 
-<p>Honorable Alvey A. Adee
-Second Assistant Secretary of State,
-Wasington, D. C.</p>
+<ab type="letterhead">Honorable Alvey A. Adee,<lb/>
+Second Assistant Secretary of State,<lb/>
+Washington, D. C.</ab>
 
-<p>Sir:
-I have the honor respectfully to
+<ab type="letterhead">Sir:</ab>
+
+<p>I have the honor respectfully to
 acknowledge the receipt of your No 7,
 under date April 2nd, informing me
 that a supply of the articles requested
@@ -172,22 +166,19 @@ in my Despatch No 16 of Feb'y 28th last
 had been ordered to be sent to this
 office.</p>
 
-<p>I received by the same  mail
+<p>I received by the same mail
 which brought your despatch, a
 receipt from Mr. B. F. Stevens for
 one parcel, shipped per the
-seamen <unclear></unclear>, for this Consulate
+steamer Niger, for this Consulate
 General, but the parcel was not
 landed by said steamer, which
 was in port on the 13th inst.</p>
 
-<p>I am, sir,
-your obedient servant,</p>
-
-<p>Ezekiel E. Smith,
-U.S. Consul Gen'l</p>
-
-
+<p>I am, sir,<lb/>
+Your obedient servant,<lb/>
+Ezekiel E. Smith,<lb/>
+U.S. Consul Gen'l.</p>
 
 </div1>
 

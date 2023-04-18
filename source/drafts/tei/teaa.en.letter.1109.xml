@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to William F. Wharton, August 12, 1889</title>
+<title level="a">Despatch from Beverly Y. Payne to William F. Wharton</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -71,14 +72,13 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Yatar</term>
-<term>Perterfield</term>
 <term>Taylor, Charles H. J.</term>
-<term>Smith, Ezekial E.</term>
+<term>Smith, Ezekiel E.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>19 William Street, New York City, New York</term>
+<term>Monrovia (Liberia)</term>
+<term>New York (New York)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -103,7 +103,7 @@
 <date when="1889-08-12"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Wharton, William F.</persName>
+<persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1889-09-17"/>
@@ -113,6 +113,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-19" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -125,36 +126,35 @@
 
 <pb n="Roll5-2061.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-SEP 17 1889
-RECEIVED.</add></p>
+<note>Department of State Received Sep 17 1889</note>
 
-<p>United  States Consulate,
-Monrovia, La, August 12th, 1889</p>
+<p>United States Consulate,<lb/>
+Monrovia, La, August 12th 1889</p>
 
-<p>Hon., WIlliam F. Wharton
-Assistant Secretary of State
-Washington  D.C.</p>
+<p>Hon. William F. Wharton<lb/>
+Assistant Secretary of State<lb/>
+Washington, D.C.</p>
 
-<p>Dear Sir,
-I have the honor to call
+<p>Dear Sir,</p>
+
+<p>I have the honor to call
 your attention to the non-payment
 of my Draft of October 2nd 1888
-for $990.38 being the balance
+for $990.38, being the balance
 due me for Consular series
 rendered from April 1st 1888 to
 June 30th 1888 as per advice of
-your <unclear></unclear> No 10 of July 19
+your Predecessor’s No 10 of July 19
 1888, and account rendered and
 adjusted.</p>
 
-<p>Under date of  December
+<p>Under date of December
 11 1888, the Department informed
-informed</p>
+<catchwords>informed</catchwords>
 
 <pb n="Roll5-2062.jpg"/>
 
-<p>informed me that the appropriation
+informed me, that the appropriation
 against which the Draft was
 drawn was exhausted, and that
 "the Secretary of the Treasury
@@ -170,44 +170,43 @@ as well as to the fact, that my
 Draft was drawn against the
 salary of the Consul General,
 as per advice of the Department
-referred to (July 19 1888) in which
+referred to (July 19th 1888) in which
 was stated, "The Department
 has concluded to recognize
-recognize</p>
+<catchwords>recognize</catchwords>
 
 <pb n="Roll5-2063.jpg"/>
 
-<p>recognize you as Vice Consul
+recognize you as Vice Consul
 of the United States at Monrovia,
-from January 12 last, and to
+from January 12th last, and to
 allow you, the full salary of
 the Consulate General, at the
-rate of $4000.00 per annum,
+rate of $4,000.00 per annum,
 from that date until the arrival
-of Mr Smith, the new Minister"
-Mr Taylor's   function as Consul
-General, ceased   January 11 1888,
+of Mr Smith, the new Minister
+Mr Taylor's functions as Consul
+General ceased January 11th 1888,
 and Mr Smith's commenced
 July 10th 1888, the intervening time,
 I served, and am entitled to the
-salary as per advices refered to.</p>
+salary as per advice referred to.</p>
 
 <p>If the Draft will
 be paid, please inform the
-holders of sum. Messers
-Yatar &amp; Perterfield of 19
+holders of same, Messers
+Yates &amp; Porterfield of 19
 William Street, New York
-New York</p>
+<catchwords>New York</catchwords>
 
 <pb n="Roll5-2064.jpg"/>
 
-<p>New York City.</p>
+New York City.</p>
 
-<p>I have the honor to be,
-Sir,
-your obedient servant</p>
-
-<p>Beverly Y. Payne
+<p>I have the honor to be,<lb/>
+Sir,<lb/>
+Your obedient servant,<lb/>
+Beverly Y. Payne<lb/>
 U.S. Vice Consul</p>
 
 </div1>
