@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Ezekiel E. Smith to James G. Blaine, January 1, 1890</title>
+<title level="a">Despatch from Ezekiel E. Smith to James G. Blaine</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 5</biblScope>
@@ -59,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -100,7 +101,7 @@
 <date when="1890-01-01"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Blaine, James G.</persName>
+<persName ref="http://viaf.org/viaf/15566890">Blaine, James Gillespie, 1830-1893</persName>
 <roleName>U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1890-02-08"/>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-22" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,16 +124,14 @@
 
 <pb n="Roll5-2122.jpg"/>
 
-<p>No. 48</p>
+<note>Department of State Received Feb 8 1890</note>
 
-<p>DEPARTMENT OF STATE
-FEB 8 1890
-RECEIVED.</p>
+<p>No 48.</p>
 
-<p>Consulate General of the United States,
-Monrovia, Liberia, January 1st, 1890</p>
+<p>Consulate General of the United States,<lb/>
+Monrovia, Liberia, January 1st, 1890.</p>
 
-<p>Mr. Ezekiel E. Smith
+<p>Mr. Ezekiel E. Smith,<lb/>
 To the Department of State.</p>
 
 <p>Subject:</p>
@@ -140,36 +140,34 @@ To the Department of State.</p>
 
 <pb n="Roll5-2123.jpg"/>
 
-<p>No. 48</p>
+<p>No. 48.</p>
 
-<p>Consulate General of the United States,
-Monrovia, Liberia, January 1st 1890.</p>
+<p>Consulate General of the United States,<lb/>
+Monrovia, Liberia, January 1st, 1890.</p>
 
-<p>Honorable James G. Blaine,
-Secretary of State,
-Washington, D. C.</p>
+<p>Honorable James G. Blaine,<lb/>
+Secretary of State,<lb/>
+Washington, D.C.</p>
 
-<p>Sir:
-I have the honor respectfully to
+<p>Sir:</p>
+
+<p>I have the honor respectfully to
 acknowledge the receipt of Department
-Circular of November 11th 1889, with
+Circular of November 11th, 1889, with
 reference to the laws and regulations on
-the main fasture, and sale of wine,
-beer and similar fermented liquore.</p>
+the manufacture and sale of wine,
+beer and similar fermented liquors.</p>
 
 <p>I have complied with the instructions
 contained in said Circular,
-and, beg to state that neither wine
+and beg to state that neither wine
 nor beer of any description is manufactured
 or fermented in Liberia.</p>
 
-<p>I am,
-sir,
-your obedient servant,</p>
-
-<p>Ezekiel E. Smith.
-U.S. Consul General</p>
-
+<p>I am,<lb/>
+sir,<lb/>
+your obedient servant,<lb/>
+Ezekiel E. Smith.</p>
 
 </div1>
 
