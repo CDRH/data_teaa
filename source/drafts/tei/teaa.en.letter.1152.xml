@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Alexander G. Clark to William F. Wharton, December 13, 1890</title>
+<title>Despatch from Alexander Clark to William F. Wharton, December 13, 1890</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Alexander G. Clark to William F. Wharton, December 13, 1890</title>
+<title level="a">Despatch from Alexander Clark to William F. Wharton</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -59,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,16 +76,15 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term/>
+<term>Liberia</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
-<term/>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
-<term>Gola</term>
-<term>Me Gola</term>
+<term/>
 </keywords>
     
 <keywords scheme="original" n="religion">
@@ -95,7 +95,7 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Clark, Alexander G.</persName>
+<persName>Clark, Alexander</persName>
 <roleName>U.S. Minister Resident and Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1890-12-13"/>
@@ -111,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-27" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -123,53 +124,50 @@
 
 <pb n="Roll6-1043.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-FEB 3 1891
-RECEIVED.</add></p>
+<note>Department of State Received Feb 3 1891</note>
 
-<p>No 6 dispatch Consular Series,
-Legation of the United States
-Monrovia Liberia December 13/90
-Alexander Clark to Department
+<p>No 6 dispatch Consular Series.<lb/>
+Legation of the United States,<lb/>
+Monrovia Liberia December 13/90<lb/>
+Alexander Clark to department
 of State</p>
 
 <p>Subject</p>
 
 <p>Tariff</p>
 
-<p>Synopsis.</p>
+<p>Synopsis</p>
 
 <p>I have given the
-gola basis as there is two
-rates me gola the other
-currency</p>
-
-<p><add>(Printer copy files for pub)</add></p>
+gold basis as there is two
+rates, one gold the other
+currency. &amp;c</p>
 
 <pb n="Roll6-1044.jpg"/>
 
-<p>No 6 Dispatch Consular Series,
-Legation of the United States
-Monrovia Liberia December 13, 1890
+<p>No 6 Dispatch Consular Series,<lb/>
+Legation of the United States,<lb/>
+Monrovia Liberia December 13, 1890<lb/>
 Mr Alexander Clark to the Honorable
-William F. Wharton,
-Assistant Secretary of State
-Wasington D.C.</p>
+William F. Wharton,<lb/>
+Assistant Secretary of State,
+Washington DC</p>
 
-<p>Sir;
-I have the honor respectfully
-to acknowledgee the receipt
+<p>Sir;</p>
+
+<p>I have the honor respectfully
+to acknowledge the receipt
 of your printed tariff circular
-of dates October 15th 1890,
+of date October 15th 1890
 Instructing me to prepare and
 forward to the department
 a report upon the duties on
-importes and exports as established
-by the Laws of the Rpublic
-of Liberia &amp;c in accordance with
-Said instruction, I am pleased
+<sic>importes</sic> and exports as established
+by the Laws of the Republic
+of Liberia &amp;c In accordance with
+said instruction, I am pleased
 to report that I have carefully
-comiled a schedule list of the
+compiled a schedule list of the
 custom duties collected under
 the present tariff Laws of
 Liberia, giving a list of export
@@ -178,168 +176,608 @@ duties and the <unclear>Free</unclear> list &amp;c</p>
 <pb n="Roll6-1045.jpg"/>
 
 <p>Inclose find Inclosures
-No one.
-Marhia_pages- No. 1, 2, 3, 4, 5, &amp; 6</p>
+No one.</p>
 
-<p>alexander Clark
+<p>Marked Pages No. 1 2 3 4 5 &amp; 6</p>
+
+<p>Alexander Clark<lb/>
 Minister Resident and Consul
-General of the U.S. </p>
+General of the U.S.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll6-1046.jpg"/>
 
-<p>Liberia
-Report of Consul General Clark</p>
+<p>Liberia</p>
+
+<p>Report of Consul General Clark</p>
+
+<p><del>Liberia.</del></p>
 
 <p>Customs duties Collected
 under the present tariff Laws of Liberia.</p>
 
-<p>Tariff Classification Rates, duties, unit, duties</p>
-
-<p>Provisions.</p>
-
-<p>Dried Fish per pound $.01
-Picked fish per barrel .100
-Bacon ,, pound .01
-Ham ,, do .02
-Beef ,, barrel 125
-Beef Tongues per do 200
-Pigs Feet and pig head do 100
-Rice on hundred pound .30
-Brown Sugar per pound .06
-Refined sugar per pound .03
-Fancy biscuits do .04
-Lard per do .02
-Tea ,, do .10
-Pickled Sausage per do .03
-Butter per do .06
-Candy &amp; confectionary p do .05
-Salt one hundred do .05</p>
+<table>
+<row>
+<cell>Gold</cell>
+<cell>Tariff Classification</cell>
+<cell/>
+<cell>Rates, duties, unit, duties</cell>
+</row>
+<row>
+<cell/>
+<cell>Provisions.</cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Dried Fish per</cell>
+<cell>Pound</cell>
+<cell>$.01</cell>
+</row>
+<row>
+<cell/>
+<cell>Picked Fish per</cell>
+<cell>Barrel</cell>
+<cell>.100</cell>
+</row>
+<row>
+<cell/>
+<cell>Bacon " </cell>
+<cell>Pound</cell>
+<cell>.01</cell>
+</row>
+<row>
+<cell/>
+<cell>Ham " </cell>
+<cell>do</cell>
+<cell>.02</cell>
+</row>
+<row>
+<cell/>
+<cell>Beef " </cell>
+<cell>Barrel</cell>
+<cell>125</cell>
+</row>
+<row>
+<cell/>
+<cell>Beef Tongues per </cell>
+<cell>do</cell>
+<cell>200</cell>
+</row>
+<row>
+<cell/>
+<cell>Pig Feet and Pig Head</cell>
+<cell>do</cell>
+<cell>100</cell>
+</row>
+<row>
+<cell>Gold</cell>
+<cell>Rice one hundred</cell>
+<cell>Pound</cell>
+<cell>.30</cell>
+</row>
+<row>
+<cell/>
+<cell>Brown Sugar per</cell>
+<cell>Pound</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell/>
+<cell>Refined sugar per</cell>
+<cell>Pound</cell>
+<cell>.03</cell>
+</row>
+<row>
+<cell/>
+<cell>Fancy biscuits</cell>
+<cell>do</cell>
+<cell>.04</cell>
+</row>
+<row>
+<cell/>
+<cell>Lard per</cell>
+<cell>do</cell>
+<cell>.02</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Tea " </cell>
+<cell>do</cell>
+<cell>.10</cell>
+</row>
+<row>
+<cell/>
+<cell>Pickled Sausage per</cell>
+<cell>do</cell>
+<cell>.03</cell>
+</row>
+<row>
+<cell/>
+<cell>Butter per</cell>
+<cell>do</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell/>
+<cell>Candy &amp; confectionery per</cell>
+<cell>do</cell>
+<cell>.05</cell>
+</row>
+<row>
+<cell>Gold</cell>
+<cell>Salt one hundred</cell>
+<cell>do</cell>
+<cell>.05</cell>
+</row>
 
 <pb n="Roll6-1047.jpg"/>
 
-<p>Alcoholic, Fermented
-Liqors, &amp;c.
-Brandy, Old Tom GIn,
-Famaica Rum, Scotch
-or Irish Whisky and
-other fine qualities of
-alcoholic per gallon $100
-common rum or gin .75
-Wines champagnes
-cordeals or Sweet Waters per gallon, 100
-Beer, ALe, Stout Porter
-Cherry wine per gallon .50
-Hard Ware &amp;c
-Cutlasses or Bill hooks per dozen .25
-<unclear></unclear> from and
-capping per Pound .0 1/2
-Steal in bars ,, do .02
-Nails, washers, and Screws do .00 1/2
-Gron, pots, ovens, &amp; spider do .01
-percusion guns each each .60
-Filing guns ,, ,, .40
-Brass <unclear></unclear> per pound .06
-Powder ,, do .5
-Cutlery:
-knives &amp; Forks Adv 12%</p>
+<row>
+<cell>Gold</cell>
+<cell>Alcoholic, Fermented Liquors, &amp;c.</cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell> " </cell>
+<cell>Brandy, Old Tom Gin, Jamaica Rum, Scotch or Irish Whisky and other finer qualities of
+alcoholic per Gallon</cell>
+<cell/>
+<cell>$1.00</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Common Rum or Gin</cell>
+<cell/>
+<cell>.75</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Wines champagnes cordials or Sweet Waters per</cell>
+<cell>Gallon</cell>
+<cell>1.00</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Beer, Ale, Stout Porter Cherry Wine per</cell>
+<cell>Gallon</cell>
+<cell>.50</cell>
+</row>
+<row>
+<cell/>
+<cell>Hard Ware &amp;c</cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Cutlasses or Bill hooks per</cell>
+<cell>Dozen</cell>
+<cell>.25</cell>
+</row>
+<row>
+<cell/>
+<cell>Galvanized Iron and Capping per</cell>
+<cell>Pound</cell>
+<cell>.0½</cell>
+</row>
+<row>
+<cell/>
+<cell>Steal bars " </cell>
+<cell>do</cell>
+<cell>.02</cell>
+</row>
+<row>
+<cell/>
+<cell>Nails, Washers, and Screws</cell>
+<cell>do</cell>
+<cell>.00½</cell>
+</row>
+<row>
+<cell/>
+<cell>Iron, pots, ovens, &amp; <unclear extent="one word"/></cell>
+<cell>do</cell>
+<cell>.01</cell>
+</row>
+<row>
+<cell>Gold</cell>
+<cell>Percussion Guns each</cell>
+<cell>Each</cell>
+<cell>.60</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Filing Guns " </cell>
+<cell> " </cell>
+<cell>.40</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Brass <sic>Tittles</sic> per</cell>
+<cell>Pound</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Powder " </cell>
+<cell>do</cell>
+<cell>.5</cell>
+</row>
+<row>
+<cell/>
+<cell>Cutlery:</cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Knives &amp; Forks <unclear extent="one word"/></cell>
+<cell/>
+<cell><unclear>.12½</unclear></cell>
+</row>
 
 <pb n="Roll6-1048.jpg"/>
 
-<p><del>Fancy Cotton &amp; Western goods</del>
-Textiles
-Pants, Croydons, white shirting,
-Satin stripes, grey and
-Blue Laft per yard .01
-Printed Cotton drafts each .1 1/2
-Sheeting per yard ya'.02
-Oxford &amp; other colored sturting
-Blue drill WHite drill
-denims and cotton Trea
-per yard yard .02
-Fancy wasted Twela,
-cashmers per yard .12
-Broad cloth per yeard . 24
-,, <gap/> ,, suits each each 250
-,, <gap/> ,, coats ,, do 100
-,, <gap/> ,, Trousers ,, do 100
-,, <gap/> ,, vest ,, do .50
-Fancy Tweed Cashmer suits do 150
-,, <gap/> ,, <gap/> ,, Coat do 100
-,, <gap/> ,, Trousers Each do .75
-Ladies Silk <unclear>Cistuns</unclear> each 300
-do cahsmer, coburg merin
-and other worsted costumes do 250
-Printed Calics and other
-cotton custumes do 125</p>
+<row>
+<cell/>
+<cell><del>Cotton goods</del> <del>Cottons &amp; Woolens</del> <del>Fancy Cottn &amp; Woolen Goods</del> Textiles</cell>
+<cell/>
+<cell>$</cell>
+</row>
+<row>
+<cell/>
+<cell>Prints, Croydons, White Shirting, Satin Stripes, Grey and Blue <unclear extent="one word"/> per</cell>
+<cell>Yard</cell>
+<cell>.01</cell>
+</row>
+<row>
+<cell/>
+<cell>Printed Cotton Hdkfs.</cell>
+<cell>Each</cell>
+<cell>.1½</cell>
+</row>
+<row>
+<cell/>
+<cell>Sheeting per Yard</cell>
+<cell>Yd</cell>
+<cell>.02</cell>
+</row>
+<row>
+<cell/>
+<cell>Oxford &amp; other <sic>colord</sic> Shirting Blue drill White drill Denims and Cotton Tweed per Yard</cell>
+<cell>Yard</cell>
+<cell>.02</cell>
+</row>
+<row>
+<cell>Gold</cell>
+<cell>Fancy Worsted Tweed, <sic>Cashmers</sic> per</cell>
+<cell>Yard</cell>
+<cell>.12</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Broad Cloth per</cell>
+<cell>Yard</cell>
+<cell>.24</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell> " " Suits Each</cell>
+<cell>Each</cell>
+<cell>250</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell> " " Coats " </cell>
+<cell>do</cell>
+<cell>100</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell> " " Trouser " </cell>
+<cell>do</cell>
+<cell>100</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell> " " Vest " </cell>
+<cell>do</cell>
+<cell>50</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Fancy Tweed <sic>Cashmer</sic> Suits</cell>
+<cell>do</cell>
+<cell>150</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell> " " " Coat</cell>
+<cell>do</cell>
+<cell>100</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell> " " Trouser Each</cell>
+<cell>do</cell>
+<cell>75</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Ladies Silk <sic>Costums</sic></cell>
+<cell><del>custum</del> each</cell>
+<cell>300</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>do <sic>cashmer</sic>, coburg merino and other worsted costumes</cell>
+<cell>do</cell>
+<cell>250</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Printed Calico and other Cotton <sic>Custumes</sic></cell>
+<cell>do</cell>
+<cell>125</cell>
+</row>
 
 <pb n="Roll6-1049.jpg"/>
 
-<p>Silk pieces <add>goods</add> per yard .25
-Cashmere, merine, and
-other wousted per Yard .06
-Satin ,, do .06
-Flannel or Serge ,, do .05
-,, <gap/> ,, ,, <gap/> ,, Suits each 100
-,, <gap/> ,, <gap/> ,, Coats do .50
-,, <gap/> ,, Trousers do .37
-,, <gap/> ,, vests do .25
-Woolen shirts do .12
-Cotton ,, do .12
-Trimmed Hats do .50
-Miscellaneous:
-Paint per pound .01
-Kerosine per case of 6 Gallon .40
-Conisoir Soap per Pound .02
-Fancy Toilet Soap per do .06
-Starch per do .06
-Crockery Ware:
-Trade Plates (<unclear></unclear>) Doen .012
-Basins, not over 12 in., per a .012
-do over 12 in do do .025
-Number per Foot .00 1/2</p>
+<row>
+<cell><del>Gold</del></cell>
+<cell><del>Silks</del></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell> " </cell>
+<cell>Silk Piece goods per</cell>
+<cell>Yard</cell>
+<cell>.25</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Cashmere, Merino, and other worsteds per</cell>
+<cell>Yard</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Satin " </cell>
+<cell>do</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Flannel or Serge " </cell>
+<cell>do</cell>
+<cell>.05</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell> " " " Suits</cell>
+<cell>Each</cell>
+<cell>100</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell> " " " Coats</cell>
+<cell>do</cell>
+<cell>.50</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell> " " " Trousers</cell>
+<cell>do</cell>
+<cell>.37</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell> " " " Vests</cell>
+<cell>do</cell>
+<cell>.25</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Woolen Shirts</cell>
+<cell>do</cell>
+<cell>.12</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Cotton " </cell>
+<cell>do</cell>
+<cell>.12</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Trimmed Hats</cell>
+<cell>do</cell>
+<cell>.50</cell>
+</row>
+<row>
+<cell/>
+<cell>Miscellaneous:</cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Paint per</cell>
+<cell>Pound</cell>
+<cell>.01</cell>
+</row>
+<row>
+<cell/>
+<cell>Kerosine per case of 10</cell>
+<cell>Gallons</cell>
+<cell>.40</cell>
+</row>
+<row>
+<cell/>
+<cell>Common Soap per</cell>
+<cell>Pound</cell>
+<cell>.02</cell>
+</row>
+<row>
+<cell/>
+<cell>Fancy Toilet Soap per</cell>
+<cell>do</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell/>
+<cell>Starch per</cell>
+<cell>do</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell/>
+<cell>Crockery Ware:</cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Trade Plates (<unclear extent="one word"/> Sets)</cell>
+<cell>Dozen</cell>
+<cell>.012</cell>
+</row>
+<row>
+<cell/>
+<cell>Basins, not over 12 in per</cell>
+<cell>do</cell>
+<cell>.012</cell>
+</row>
+<row>
+<cell/>
+<cell>do over 12 in do</cell>
+<cell>do</cell>
+<cell>.025</cell>
+</row>
+<row>
+<cell/>
+<cell>Lumber per <del>Foot</del></cell>
+<cell>Foot</cell>
+<cell>.00½</cell>
+</row>
 
 <pb n="Roll6-1050.jpg"/>
 
-<p>Free List
-Sienes, Lye, Agriculture,
-Tornplements and
-mackinery of all kinds
-thread, Tools, Sawing
-Machines, Palm-
-Kennel, Coffee Bags
-Shoohs, Hoop-June,
+<row>
+<cell/>
+<cell>Free List</cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><unclear>Sienes</unclear>, Lye, Agriculture
+Implements and
+Machinery of all kinds
+Thread, Tools, Sewing
+Machines, Palm-Kernel, 
+Coffee Bags,
+<unclear>Shoohs</unclear>, Hoop-Iron
 Rivets, Tenter Hooks;
-Musical Instruments,
-Books for use of missions
-and schools.</p>
-
-<p>Exports Duties &amp; Tariff
-Palm oil .01
-Palm Kernels .02
-Camwood per Ton 350
-Ivory per 16 .05
-rubber &amp; Gutta pencha per Pound .06
-The above export duties are
-payable in currency except Rubber;
-all articles not mentioned pay
-no duty</p>
+Musical Instruments
+Books, for use of Missions
+and Schools</cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Exports Duties <del>Tariff</del></cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>Palm-Oil.</cell>
+<cell/>
+<cell>.01</cell>
+</row>
+<row>
+<cell/>
+<cell>Palm-Kernels</cell>
+<cell/>
+<cell>.02</cell>
+</row>
+<row>
+<cell/>
+<cell>Camwood per</cell>
+<cell>Ton</cell>
+<cell>350</cell>
+</row>
+<row>
+<cell/>
+<cell>Ivory</cell>
+<cell>per lb</cell>
+<cell>.05</cell>
+</row>
+<row>
+<cell/>
+<cell>Rubber &amp; Gutta Percha,</cell>
+<cell>per Pound</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell/>
+<cell>The above export duties are payable in currency <sic>excep</sic> Rubber; all articles not mentioned pay No duty</cell>
+<cell/>
+<cell/>
+</row>
 
 <pb n="Roll6-1051.jpg"/>
 
-<p>Tobaco.
-Leaf Tobaco per pound .05
-Manufactured Tobaco per do .25
-Cigars each each 51
-cigaretts each each 0 1/2
-Gents and ladies
-under clothing, lace
-embroidery &amp; Exging
-&amp;c Advalorum Duty of 50% per 50%</p>
+<row>
+<cell>Gold</cell>
+<cell><sic>Tobaco</sic>.</cell>
+<cell/>
+<cell/>
+</row>
+<row>
+<cell> " </cell>
+<cell>Leaf <sic>Tobaco</sic> per</cell>
+<cell>Pound</cell>
+<cell>.05</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Manufactured <sic>Tobaco</sic> per</cell>
+<cell>do</cell>
+<cell>.25</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell>Cigars Each</cell>
+<cell>Each</cell>
+<cell>51</cell>
+</row>
+<row>
+<cell> " </cell>
+<cell><sic>Cigaretts</sic> Each</cell>
+<cell>Each</cell>
+<cell>0½</cell>
+</row>
+<row>
+<cell/>
+<cell>Gents and Ladies Under Clothing, Lace Embroidery &amp;, Edging &amp;c. Ad <sic>valorum</sic> Duty of 50%</cell>
+<cell>per cent</cell>
+<cell>50%</cell>
+</row>
+</table>
 
-<p>Inclosure fria printed
-Circular to compare for corections</p>
+<p>Inclose find printed
+Circular to compare for corrections</p>
 
-<p>Alexander Clark
+<p>Alexander Clark<lb/>
 Minister Resident &amp;
 Consul General
 U.S.</p>

@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Ezekiel E. Smith to William F. Wharton, March 10, 1890</title>
+<title level="a">Despatch from Ezekiel E. Smith to William F. Wharton</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -59,7 +60,9 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Commerce and Trade</term>
+<term>Emigration</term>
+<term>Missionaries</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,12 +74,12 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term/>
+<term ref="http://viaf.org/viaf/10651368">Taylor, William, 1821-1902</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Grand Bassa</term>
-<term>Cape Palmas</term>
+<term>Grand Bassa (Liberia)</term>
+<term>Cape Palmas (Liberia)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -88,7 +91,7 @@
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
+<term>Christianity</term>
 </keywords>
 
 </textClass>
@@ -111,6 +114,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-23" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -123,17 +127,15 @@
 
 <pb n="Roll6-1001.jpg"/>
 
-<p>No. 56</p>
+<note>Department of State Received Apr 26 1890</note>
 
-<p>DEPARTMENT OF STATE
-APR 26 1890
-RECEIVED.</p>
+<p>No 56</p>
 
-<p>Consulate General of the United States,
-Monrovia, Liberia, March 10th, 1890</p>
+<p>Consulate General of the United States,<lb/>
+Monrovia, Liberia, March 10th 1890.</p>
 
-<p>Mr. Ezekiel E. Smith
-To the Department of State.</p>
+<p>Mr. Ezekiel E. Smith<lb/>
+To the Department of State</p>
 
 <p>Subject:</p>
 
@@ -144,23 +146,24 @@ Grand Bassa and Cape Palmas.</p>
 
 <p>No. 56.</p>
 
-<p>Consulate General of the United States,
+<p>Consulate General of the United States,<lb/>
 Monrovia, Liberia, March 10th 1890.</p>
 
-<p>Honorable William F. Wharton,
-Assistant Secretary of State,
-Washington, D. C.</p>
+<p>Honorable William F. Wharton,<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
 
-<p>Sir:
-I have the honor respectfully to inform
-you that in accordance with the
+<p>Sir:</p>
+
+<p>I have the honor respectfully to inform
+you that, in accordance with the
 instructions contained in your dispatch
-No 11 of January 8th 1890, I
-proceeded to Cape Palmas per s.s. "Ella
-<unclear>Waermann</unclear>," leaving here for that point
-on the evening of the 20th ult and
+No 11. of January 8th 1890, I
+proceeded to Cape Palmas per S.S. "Ella
+Woermann", leaving here for that point
+on the evening of the 20th ult. and
 arriving there on the afternoon of
-the 22nd. </p>
+the 22nd.</p>
 
 <p>Upon looking around and making
 inquiry, I ascertained there was
@@ -168,18 +171,18 @@ no American commercial interest
 operated at Cape Palmas. Only
 one American vessel had touched at
 that point during the past three
-or four year, and it called in
+or four years, and it called in
 December 1886 to land emigrants.
-There</p>
+<catchwords>There</catchwords>
 
 <pb n="Roll6-1003.jpg"/>
 
-<p>There are, however, a number of
-missionaries at Cape Palmas from
+There are, however, a number of
+missionaries, at Cape Palmas, from
 the United States, who, under the
 direction of Bishop William Taylor,
 are laboring with commendable
-yeal to christianize and ameliorate
+zeal to christianize and ameliorate
 the native African in that
 section of Liberia.</p>
 
@@ -188,27 +191,29 @@ United States' Agency at Cape Palmas
 and shipped them to this office. Of which
 I enclose an inventory.</p>
 
-<p>On the evening of the 24th per s.s.
-"Gertrude <unclear>Waermann</unclear>," I proceeded to
-Grand Bassa, arriving there on the morning of the 27th.</p>
+<p>On the evening of the 24th per S.S.
+"Gertrude Woermann", I proceeded to
+Grand Bassa, arriving there on the 
+morning of the 27th.</p>
 
 <p>Upon observation and inquiry I ascertained
 that there was no American 
 shipping or commercial interest
 conducted at Grand Bassa, consequently,
 I had shipped to this office the archives
-and furniture of the former Consulate at that place.</p>
+and furniture of the former 
+Consulate at that place.</p>
 
 <p>Please find enclosed inventory of
-said</p>
+<catchwords>said</catchwords>
 
 <pb n="Roll6-1004.jpg"/>
 
-<p>said office.</p>
+said office.</p>
 
-<p>Returning, I arrived at my port
+<p>Returning, I arrived at my post
 of duty here on the evening of the
-28th <unclear>ultims</unclear>. I was absent eight
+28th ultimo. I was absent eight
 days, leaving the Consulate General
 in the care of Vice Consul General.</p>
 
@@ -218,13 +223,17 @@ necessary expenses incurred on
 the trip. I have this day drawn
 draft for said amount.</p>
 
-<p>Hoping the same may meet the approval of the Department.</p>
+<p>Hoping the same may meet the 
+approval of the Department.</p>
 
-<p>I am, sir,
-your obedient servant,</p>
+<p>I am, sir,<lb/>
+your obedient servant,<lb/>
+Ezekiel E. Smith,<lb/>
+U.S. Consul General.</p>
 
-<p>Ezekiel E. Smith.
-U.S. Consul General</p>
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll6-1005.jpg"/>
 
@@ -232,87 +241,238 @@ U.S. Consul General</p>
 United States Consulate; late at
 Cape Palmas Liberia.</p>
 
-<p>United States Treasury Fee Book one
-,,<gap/>,, Miscellaneous Record ,,<gap/>,,
-,,<gap/>,,Marine Note of Portest ,,<gap/>,,
-,,<gap/>,,Extended ,,<gap/>,,
-,,<gap/>,, Invoice ,,<gap/>,,
-,,<gap/>,, Arrival and Departure ,,<gap/>,,
-,,<gap/>,, Seamen Relieved ,,<gap/>,,
-,,<gap/>,, Consular Regulations (1881) ,, <gap/>,,</p>
+<table>
+<row>
+<cell>United States Treasury Fee Book</cell>
+<cell>one</cell>
+</row>
+<row>
+<cell> " " Miscellaneous Record " </cell>
+<cell> " </cell>
+</row>
+<row>
+<cell> " " Marine Note of Protest " </cell>
+<cell> " </cell>
+</row>
+<row>
+<cell> " " Extended "  " </cell>
+<cell>  " </cell>
+</row>
+<row>
+<cell> " " Invoice " </cell>
+<cell> " </cell>
+</row>
+<row>
+<cell> " " Arrival and Departure " </cell>
+<cell> " </cell>
+</row>
+<row>
+<cell> " " Seamen Relieved " </cell>
+<cell> " </cell>
+</row>
+<row>
+<cell> " " Consular Regulations (1881)</cell>
+<cell> " </cell>
+</row>
+<row>
+<cell>List of tariff Consular Fees of 1884</cell>
+<cell/>
+</row>
+<row>
+<cell>Form No 67 Laws of 1884</cell>
+<cell/>
+</row>
+<row>
+<cell>Small boxes of No 3 wafers</cell>
+<cell>4</cell>
+</row>
+<row>
+<cell> " box " Notarial</cell>
+<cell>1</cell>
+</row>
+<row>
+<cell>A number of large official envelops</cell>
+<cell/>
+</row>
+<row>
+<cell> " " " sheets of writing paper.</cell>
+<cell/>
+</row>
+<row>
+<cell> " box of quill pens. A roll of Tape.</cell>
+<cell/>
+</row>
+<row>
+<cell>Seals, large and small.</cell>
+<cell>2</cell>
+</row>
+<row>
+<cell>A number of blank forms.</cell>
+<cell/>
+</row>
+<row>
+<cell>A bundle of letters or dispatches received.</cell>
+<cell/>
+</row>
+</table>
 
-<p>List of Tarrif Consular Fees of 1884
-Form No 67 Lanes of 1884
-Small boxes of No 3 wafers <gap/>4
-,,<gap/>box Notarial<gap/> 1</p>
+<p>Ezekiel E. Smith<lb/>
+U.S. Consul General.</p>
 
-<p>A number of large official envelops
-<gap/>sheets of writing paper.
-,, box of quill bens. A roll of Tap.
-Seals, large and small, <gap/> 2
-A number of blank forms.
-A bunde of letters or dispatches received.</p>
-
-<p>Ezekiel E. Smith
-U.S. Consul General
-Monrovia Liberia
+<p>Monrovia Liberia<lb/>
 March 10th 1890</p>
 
 <pb n="Roll6-1006.jpg"/>
 
-<p>Inclosure No. 1
-See dispatch No. 56.</p>
+<p>Inclosure No. 1.<lb/>
+In dispatch No. 56.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll6-1007.jpg"/>
 
 <p>Inventory of books, archives and furniture
 United States Consul Agency late at
-Grand Bassa, Liberia</p>
+Grand Bassa, Liberia.</p>
 
-<p>United States Statues at Large unbound rols------7.
-<gap/>bound ------ 1.
-<gap/>Consular regulations (old) ------ 2.
-Diplomatic Correspondence ------ 7.
-Commercial Relations ------ 6.
-Customs Regulations ------ 1.
-Labor in Europe ------ 1:
-Register of the Department of State ------- 1. 
-Record of quarterly statement of fees ------1.
-<gap/>Arrival and Departures of American vessels ------ 1
-Miscellaneous Correspondence ------ 1
-Despatch Book ------ 1
-Record of relief afforded destitute seamen ------1
-Marine Note of Portest ------ 1.
-<gap/> Extended Protest ------- 1.
-Ships Daily Journal ------ 1. 
-Seamen's Reister ------ 1.
-Invoice Book ------ 1.
-Passports ------ 1.
-Treasury Fees ------ 1.
-Letters Received ------ 1.
-Letters Sent ------ 1. 
-American Seamen Relieved ------ 1.</p>
+<table>
+<row>
+<cell>United States Statues at Large unbound vols</cell>
+<cell>7.</cell>
+</row>
+<row>
+<cell> " " " " bound " </cell>
+<cell>1.</cell>
+</row>
+<row>
+<cell> " " Consular regulations (old) " </cell>
+<cell>2.</cell>
+</row>
+<row>
+<cell>Diplomatic Correspondence " </cell>
+<cell>7.</cell>
+</row>
+<row>
+<cell>Commercial Relations " </cell>
+<cell>6.</cell>
+</row>
+<row>
+<cell>Customs Regulations " </cell>
+<cell>1.</cell>
+</row>
+<row>
+<cell>Labor in Europe " </cell>
+<cell>1.</cell>
+</row>
+<row>
+<cell>Register of The Department of State " </cell>
+<cell>1.</cell> 
+</row>
+<row>
+<cell>Record of quarterly statement of fees " </cell>
+<cell>1.</cell>
+</row>
+<row>
+<cell> " Arrival and Departures of American vessels " </cell>
+<cell>1.</cell>
+</row>
+<row>
+<cell>Miscellaneous Correspondence " </cell> 
+<cell>1.</cell>
+</row>
+<row>
+<cell>Despatch Book " </cell> 
+<cell>1.</cell>
+</row>
+<row>
+<cell>Record of relief afforded destitute seamen " </cell> 
+<cell>1.</cell>
+</row>
+<row>
+<cell>Marine Note of Protest " </cell> 
+<cell>1.</cell>
+</row>
+<row>
+<cell> " Extended Protest, " </cell> 
+<cell>1.</cell>
+</row>
+<row>
+<cell>Ships Daily Journal. " </cell>
+<cell>1.</cell>
+</row>
+<row> 
+<cell>Seamen's Register " </cell> 
+<cell>1.</cell>
+</row>
+<row>
+<cell>Invoice Book " </cell>
+<cell>1.</cell>
+</row>
+<row>
+<cell>Passports " " </cell> 
+<cell>1.</cell>
+</row>
+<row>
+<cell>Treasury Fees " </cell> 
+<cell>1.</cell>
+</row>
+<row>
+<cell>Letters Received " </cell>
+<cell>1.</cell>
+</row>
+<row>
+<cell>Letters Sent " </cell>
+<cell>1.</cell> 
+</row>
+<row>
+<cell>American Seamen Relieved " </cell>
+<cell>1.</cell>
+</row>
 
-<p>(over)</p>
+<fw>(over)</fw>
 
 <pb n="Roll6-1008.jpg"/>
 
-<p>Press seal ------
-Package of dispatches ------
-<gap/> blank forms
-Consular Arms
-Flags <gap/> large and small
-Desk
-Chairs revolving</p>
+<row>
+<cell>Press seal</cell>
+<cell><unclear extent="one number"/></cell>
+</row>
+<row> 
+<cell>Packages of dispatches</cell>
+<cell><unclear extent="one number"/></cell>
+</row>
+<row> 
+<cell> " " blank forms</cell>
+<cell><unclear extent="one number"/></cell>
+</row>
+<row>
+<cell>Consular Arms</cell>
+<cell/>
+</row>
+<row>
+<cell>Flags large and small</cell>
+<cell/>
+</row>
+<row>
+<cell>Desk</cell>
+<cell/>
+</row>
+<row>
+<cell>Chair revolving</cell>
+<cell/>
+</row>
+</table>
 
-<p>Ezekiel E. Smith
-U.S. Consul General
-Monrovia Liberia
+<p>Ezekiel E. Smith<lb/>
+U.S. Consul General</p>
+
+<p>Monrovia, Liberia.<lb/>
 March 10th 1890.</p>
 
-<p>Inclosure No. 2
-In dispatch No. 56</p>
-
+<p>Inclosure No. 2.<lb/>
+In dispatch No. 56.</p>
 
 </div1>
 

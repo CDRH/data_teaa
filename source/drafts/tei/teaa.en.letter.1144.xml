@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Despatch from Alexander Clark to William F. Wharton, August 28, 1890</title>
+<title>Despatch from Alexander Clark to William F. Wharton, August 25, 1890</title>
 <principal n="Jones, Jeannette Eileen, 1970-">Jeannette Eileen Jones</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,11 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Alexander Clark to William F. Wharton, August 28, 1890</title>
+<title level="a">Despatch from Alexander Clark to William F. Wharton</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
-<date when="1890-08-28">August 28, 1890</date>
+<date when="1890-08-25">August 25, 1890</date>
 </bibl>
 </sourceDesc>
 
@@ -71,16 +72,21 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>McNutt, S.</term>
-<term>Douglass, Frederick</term>
-<term>Hayes, Walter</term>
+<term>Derrick, William B.</term>
+<term ref="http://viaf.org/viaf/10088">Douglass, Frederick, 1818-1895</term>
+<term ref="http://viaf.org/viaf/102441725">Harrison, Benjamin, 1833-1901</term>
+<term>Hayes</term>
+<term>McNutt, Samuel</term>
+<term ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Monrovia, Liberia</term>
-<term>Wilton, Iowa</term>
-<term>Des Moines, Iowa</term>
-<term>Galesburg, Illinois</term>
+<term>Galesburg (Illinois)</term>
+<term>Maracaibo (Venezuela)</term>
+<term>Monrovia (Liberia)</term>
+<term>Muscatine County (Iowa)</term>
+<term>Muscatine (Iowa)</term>
+<term>Washington (Pennsylvania)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -92,7 +98,7 @@
 </keywords>
     
 <keywords scheme="original" n="religion">
-<term/>
+<term>African Methodist Episcopal</term>
 </keywords>
 
 </textClass>
@@ -115,6 +121,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-04" who="#kln">Review and edits.</change>
 <change when="2022-09-23" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -127,80 +134,62 @@
 
 <pb n="Roll6-1022.jpg"/>
 
-<p>Monrovia "Liberia"
-<unclear></unclear> Iowa August 25, 1890</p>
+<note>Department of State Received Aug 28 1890</note>
+
+<p>Muscatine Iowa Aug 25, 1890</p>
 
 <p>To the Secretary of State - or Acting
-Sec Wm F. Wharton</p>
+Sec. Wm F Wharton</p>
 
-<p>Washington D.C.</p>
+<p>Washington DC</p>
 
-<p>Sir: I have the honor to acknowledge the
+<p>Sir; I have the honor to acknowledge the
 receipt of the dispatch of the department of
-August 20, 1890 <unclear>appersing</unclear> me of my apointment
+August 20, 1890 apprising me of my appointment
 as Minister Resident and Consul
-General at the United States at Monrovia
+General of the United States at Monrovia
 Liberia.</p>
 
 <p>In answer thereto I beg to
 express my acceptance of said
 appointment; agreeable to your request for
-such imformation I have to State that
-I was born in Washington County, Washington
-State of of Pennsylvania and am
+such information I have to State that
+I was born in Washington County Washington
+State of Pennsylvania and am
 now a resident of Muscatine City and
 County State of Iowa from which latter
 State I have been appointed I have
 never resided in Liberia or any of its
-dependencies; I have this day <unclear>Remember</unclear>
-and sowrn to the oath of office and beg to
+dependencies; I have this day subscribed
+and sworn to the Oath of office and beg to
 enclose the same with this dispatch I
 have also executed my official bond with
-the people sureties and have this day
+the proper sureties and have this day
 forwarded the same to Hon Walter I
 Hayes member of congress for this
-district for his approved with the request
+district for his approval with the request
 that he will deliver that same to
 the department; awaiting the further
-pleasusre of the department I have the
-honor to remain your obedient servant</p>
+pleasure of the department I have the
+honor to remain your obednt servnt</p>
 
 <p>Alexander Clark</p>
 
+</div1>
+
+<div1 xml:lang="en" type="document">
+
 <pb n="Roll6-1023.jpg"/>
 
-<p>DAILY JOURNAL.</p>
+<head type="main">Daily Journal</head>
 
-<p>MONDAY, AUGUST 25, 1890.</p>
+<head type="sub">Monday, August 25, 1890.</head>
 
-<p>MISSED PAPERS.
-Subscribers will please notify us of every
-failure of the carriers to deliver their papers
-promptly. We esteem it a favor for subscribers
-to notify us of everyomission, as we are
-determined to spare no effort to secure the
-careful delivery of each day's paper to every subscriber.</p>
-
-<p>Coming Events.
-W. C. T. U. annual meeting, Tuesday, Aug
-26th.
-Muscatine county fair, Sept. 17, 18, 19.
-District Court convenes at Muscatine, Sept
-9th.
-General election, Nov. 4.
-Old Settlers' Reunion at Wilton, Sept. 3.</p>
-
-<p>Go to Cohn's for clothing.
-Smoke Long Havanna Filler.
-A pleasant smoker -- the Pointer.
-Read Dr. Lanoix' card on page 2
-Buy Wapsie meat. <gap reason="missing"/></p>
-
-<p>The Saturday of Des Moines
+<p>The <hi rend="italics">Saturday Review</hi> of Des Moines
 prints a portrait and biography of A.
 Clark and calls him "the Fred. Douglass
-of the West." At the African M.
-E. COnference in Galesburg, Ill., last
+of the West." At the African M. E. 
+Conference in Galesburg, Ill., last
 week, Mr. Clark, who was a delegate,
 was formally introduced for remarks
 by Dr. Derrick, of New York, the
@@ -209,32 +198,31 @@ speech which the published report says
 showed that "he has the faculty of saying
 a great deal in a very interesting
 way." The conference adopted the
-following resultion:
-Resolved. That this meeting heartily
+following resolution:</p>
+
+<p><hi rend="italics">Resolved.</hi> That this meeting heartily
 endorse the appointment of Hon. Alexander
 Clark, our distinguished fellow-citizen, as
-Minister Resident and Consul-General to the
+Minister-Resident and Consul-General to the
 Republic of Liberia, which is another evidence
 of President Harrison's intention to recognize
 the citizenship of the American people, regardless
 of race, color or previous condition.</p>
 
-<p>Festival.
-The ladies of St. Mary's congregation
-will give a festival at Union Hall
-on Wednesday and Thursday evenings,
-<gap reason="missing"/></p>
+<div2 type="section">
 
-<p>Muscatine's Diplomats.
-A. Clark and S. McNutt have received
-formal notice and returned the
+<head type="sub">Muscatine's Diplomats.</head>
+
+<p>A. Clark and S. McNutt have received
+formal notice of their appointment and 
+have executed and returned the
 necessary bonds. The bond in the case
-of Mr Clark is $6,000 and of Mr McNutt
+of Mr. Clark is $6,000 and of Mr. McNutt
 $5,000. The former has 70 days
 in which to prepare himself and make
-the joourney to Monrovia and the latter
+the journey to Monrovia and the latter
 fifty-five days to reach Maracaibo.
-This to date from approval of the bon.
+This to date from approval of the bond.
 The regulations provide that the sufficiency
 of the bond must be endorsed
 by the U.S. Attorney for the district,
@@ -251,6 +239,7 @@ given by any one in Muscatine county,
 as its four signers represent
 considerably more than a million dollars.</p>
 
+</div2>
 
 </div1>
 
