@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to William F. Wharton, August 22, 1891</title>
+<title level="a">Despatch from Beverly Y. Payne to William F. Wharton</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -74,12 +75,10 @@
 <term>Appleton, George W.</term>
 <term>Appleton, Rebecca J.</term>
 <term>Clark, Alexander</term>
-<term>Yates</term>
-<term>Porterfield</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>New York City, New York</term>
+<term>Muscatine (Iowa)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -105,7 +104,7 @@
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
-<roleName>Assistant U.S. Secretary of State</roleName>
+<roleName>Acting U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1891-09-28"/>
 </correspAction>
@@ -114,6 +113,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-09-30" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -126,14 +126,14 @@
 
 <pb n="Roll6-1098.jpg"/>
 
-<p>Consulate General of the United States
-Monrovia, Liberia, August 22, 1891</p>
+<note>Department of State Received Sep 28 1891</note>
 
-<p><add>DEPARTMENT OF STATE
-SEP 28 1891
-RECEIVED</add></p>
+<p>20</p>
 
-<p>Mr Beverly Y. Payne,
+<p>Consulate General of the United States,<lb/>
+Monrovia, August 22, 1891.</p>
+
+<p>Mr Beverly Y. Payne,<lb/>
 To the Department of State.</p>
 
 <p>Subject:</p>
@@ -142,17 +142,20 @@ To the Department of State.</p>
 
 <pb n="Roll6-1099.jpg"/>
 
-<p>Consulate General of the United States
-Monrovia, August 22, 1891</p>
+<p>20</p>
 
-<p>Hon., William F. Wharton,
-Assistant Secretary of State,
-Washington, D. C.</p>
+<p>Consulate General of the United States,<lb/>
+Monrovia, Liberia, August 22, 1891.</p>
 
-<p>Sir:
-I have the honor respectfully
+<p>Hon., William F. Wharton,<lb/>
+Acting Secretary of State,<lb/>
+Washington, D.C.</p>
+
+<p>Sir:</p>
+
+<p>I have the honor respectfully
 to acknowledge receipt of your
-Nos 10 &amp; 11, of 18th and 21st <unclear></unclear>: the
+Nos 10, &amp; 11, of 18th &amp; 21st ultimo: the
 latter enclosing copy of a letter
 from Rebecca J. Appleton, and other
 of the family of Mr Clark, late
@@ -160,77 +163,81 @@ Minister of the United States at
 Monrovia.</p>
 
 <p>Your instruction to take the
-necessary steps to cause the trasnportation
+necessary steps to cause the transportation
 of the remains of the deceased
 Minister, to Muscatine, Iowa, U.S.A,
-will be caried out as sounds
-it is safe to do so. Then being no
-facility of embalmment in Liberia, the
+will be carried out as soon as
+it is safe to do so. There being no
+facility of <sic>embalmment</sic> in Liberia, the
 remains were interred without,
 and cannot be exhumed for
-transportation immediately, but</p>
+transportation immediately, but
 
 <pb n="Roll6-1100.jpg"/>
 
-<p>but may be in these in four months
+but may be in three or four months
 hence.</p>
 
-<p>i thank you for your advice in
+<p>I thank you for your advice in
 reference to the shipment of Mr
 Clark's personal affects, and expense
 incurred thereby. I had acted in
-accordance with same prior to Ac receipt
+accordance with same prior to its receipt
 as per enclosed copy of my letter to
-Mr. George W. Appleton, of the 20th ultims.
-By the last mail I received a
+Mr. George W. Appleton, of the 20th ultimo.</p>
+
+<p>By the last mail I received a
 certificate of his appointment and
 commission, Administrator of the
-Eastate of Minister Clark deceased.</p>
+Estate of Minister Clark deceased.</p>
 
-<p>I have the honor to be,
-Sir,
-Your obedient Servant,</p>
+<p>I have the honor to be,<lb/>
+Sir:<lb/>
+Your obedient Servant,<lb/>
+Beverly Y. Payne<lb/>
+U.S. Vice Consul General.</p>
 
-<p>Beverly Y. Payne
-U.S. Vice Consul</p>
+<p>Enclosure<lb/>
+1. Copy of Mr Payne's to Mr Appleton,
+July 20th 1891.</p>
 
-<p>Enclosure.</p>
+</div1>
 
-<p>1. Copy of Mr Payne's to Mr Appleton,
-July 20th 1891</p>
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll6-1101.jpg"/>
 
-<p>Consulate General of the United States
-Monrovia, Liberia, July 20 1891.</p>
+<p>Consulate General of the United States.<lb/>
+Monrovia, Liberia, July 20, 1891.</p>
 
-<p>Mr George W. Appleton.
+<p>Mr George W. Appleton.<lb/>
 Muscatine, Iowa.</p>
 
-<p>Dear Sir:
-I have written you
+<p>Dear Sir:</p>
+
+<p>I have written you
 several letters since the death of
-your Father, and I am, without
+your Father, and I am without
 any in reply. This serves to
 advise that I shipped all his
 personal affects to you on the 16th inst.,
-ber Bark "Liberia" in care of Messers
+per Bark "Liberia" in care of Messrs
 Yates &amp; Porterfield, 19, William Street,
-New York City, to whom, you
+New York City, to whom you
 will make application for same.</p>
 
-<p>I enclose a copy of inventory
-and two kegs to <unclear></unclear>, which I trust
+<p>I enclose a copy of Inventory
+and two keys to trunks, which I trust
 you will find in order. I also
-enclose six family letters there of which 
+enclose six family letters, three of which 
 I did not recognize to be
 from his relatives, hence I opened
 them. I shall forward the Account
 at earliest opportunity.</p>
 
-<p>I remain your obd' serv't
-Beverly Y. Payne
-U.S. VIce Consul Genl</p>
+<p>I remain, Your ob't serv't<lb/>
+Beverly Y. Payne<lb/>
+U.S. Vice Consul Genl.</p>
 
 </div1>
 

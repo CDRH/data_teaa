@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne, August 25, 1891</title>
+<title level="a">Despatch from Beverly Y. Payne</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -100,9 +101,9 @@
 <date when="1891-08-25"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
-<placeName>Washington (D.C.)</placeName>
+<persName/>
+<roleName/>
+<placeName/>
 <date when="1891-09-28"/>
 </correspAction>
 </correspDesc>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-09-30" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,20 +124,20 @@
 
 <pb n="Roll6-1102.jpg"/>
 
-<p>21. Consulate General of the United States
-Monrovia, Liberia, August 25, 1891</p>
+<note>Department of State Received Sep 28 1891</note>
 
-<p><add>DEPARTMENT OF STATE
-SEP 28 1891
-RECEIVED</add></p>
+<p>21</p>
 
-<p>Mr Beverly Y. Payne,
+<p>Consulate General of the United States,<lb/>
+Monrovia, Liberia, August 25, 1891.</p>
+
+<p>Mr Beverly Y. Payne,<lb/>
 To the Department of State.</p>
 
 <p>Subject:</p>
 
 <p>Transmitting Report relating to the
-wreck &amp;r of Bark "Sea Gull" at
+wreck &amp;c of Bark "Sea Gull" at
 Addah, Gold Coast.</p>
 
 </div1>

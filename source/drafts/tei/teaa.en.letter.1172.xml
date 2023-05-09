@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to William F. Wharton, October 20, 1891</title>
+<title level="a">Despatch from Beverly Y. Payne to William F. Wharton</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -71,14 +72,11 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Nichols</term>
-<term>Cobb</term>
 <term>Nelson, Frank</term>
 </keywords>
     
 <keywords scheme="original" n="places">
 <term>Elmina (Gold Coast)</term>
-<term>Boston, Massachusetts</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -104,7 +102,7 @@
 </correspAction>
 <correspAction type="deliveredTo">
 <persName ref="http://viaf.org/viaf/70343272">Wharton, William Fisher, 1847-1919</persName>
-<roleName>Assistant U.S. Secretary of State</roleName>
+<roleName>Acting U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1891-11-27"/>
 </correspAction>
@@ -113,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-09-30" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -125,55 +124,54 @@
 
 <pb n="Roll6-1108.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-NOV 27 1891
-RECEIVED</add></p>
+<note>Department of State Received Nov 27 1891</note>
 
-<p>No. 25</p>
+<p>No 25.</p>
 
-<p>Consulate General of the United States
-Monrovia, October 20, 1891</p>
+<p>Consulate General of the United States,<lb/>
+Monrovia, October 20, 1891.</p>
 
-<p>Mr Beverly Y. Payne,
+<p>Mr Beverly Y. Payne,<lb/>
 To the Department of State.</p>
 
 <p>Subject:</p>
 
 <p>Advice of transmission of the
 deposition of Frank Nelson
-to Messer Nichols and Cobb
+to Messrs Nichols and Cobb,
 Boston.</p>
 
 <pb n="Roll6-1109.jpg"/>
 
-<p>No. 25</p>
+<p>No 25</p>
 
-<p>Consulate General of the United States
-Monrovia, October 20, 1891.</p>
+<p>Consulate General of the United States<lb/>
+Monrovia, Liberia, October 20, 1891.</p>
 
-<p>Hon., William F. Wharton,
-Acting Secretary of State
-Washington D. C.</p>
+<p>Hon., William F. Wharton,<lb/>
+Acting Secretary of State<lb/>
+Washington, D.C.</p>
 
-<p>Sir:
-Referring to my No 22 of
+<p>Sir:</p>
+
+<p>Referring to my No 22 of
 the 18th ultimo, I have the honor
 of informing the Department,
 that I have transmitted to
-Messers, Nichols and Cobb
-40 Water Street, Boston,
+Messrs, Nichols and Cobb,
+40, Water Street, Boston,
 a copy of the deposition of
-Frank Nelson, of Boston,
-in the case Poland et a.
-vs Subtonstall et al, as taken
+Frank Nelson, of Boston
+in the case Poland et al.
+vs Sultonstall et al, as taken
 by the Consular Agent at
-Elmina, Gold Coast Colony</p>
+Elmina, Gold Coast Colony
 
 <pb n="Roll6-1110.jpg"/>
 
-<p>Colony, September 5, 1890, in
-accordance with a Commission,
-issued Jun 11, 1890,
+Colony, September 5, 1890, in
+accordance with a Commission
+issued June 11, 1890,
 by the United States Circuit
 Court of the District of Mass.</p>
 
@@ -183,12 +181,11 @@ the Department with my
 Consular Despatch No 15, of
 June 26, 1891.</p>
 
-<p>I have the honor to be,
-Sir,
-Your obedient Servant,</p>
-
-<p>Beverly Y. Payne,
-Vice Consul Gen.</p>
+<p>I have the honor to be,<lb/>
+Sir:<lb/>
+Your obedient Servant,<lb/>
+Beverly Y. Payne,<lb/>
+Vice Consul.</p>
 
 </div1>
 

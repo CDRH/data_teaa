@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from William D. McCoy to James G. Blaine, January 20, 1892</title>
+<title level="a">Despatch from William D. McCoy to James G. Blaine</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -75,7 +76,8 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Monrovia, Liberia</term>
+<term>Cambridge City (Indiana)</term>
+<term>Liberia</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -110,6 +112,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-10-03" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,30 +125,23 @@
 
 <pb n="Roll6-1119.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-JAN 25 1892
-RECEIVED</add></p>
+<note>Department of State Received Jan 25 1892</note>
 
-<p>"Monrovia,"</p>
+<p>419 North Mississippi Street.</p>
 
-<p>Oath to <unclear></unclear>
-Bond to treasury
-<unclear></unclear>
-and Jan 27</p>
-
-<p>419 North Mississippi Street.
-Indianapolis, Indiana,
+<p>Indianapolis, Indiana,<lb/>
 January 20, 1892.</p>
 
-<p><gap reason= "missing"/>norable James G. Blaine,
-Secretary of State,
-Washington D. C.</p>
+<p>Honorable James G. Blaine,<lb/>
+Secretary of State,<lb/>
+Washington, D.C.</p>
 
-<p>Sir:
-In response to yours of the 18th, instant
+<p>Sir:</p>
+
+<p>In response to yours of the 18th, instant
 I will say that I have the honor
-of accepting the position of Minister-
-Resident and Consul-General to Liberia.</p>
+of accepting the position of Minister-Resident 
+and Consul-General to Liberia.</p>
 
 <p>Enclosed please find Oath and
 Bond as required.</p>
@@ -155,22 +151,24 @@ I shall await further instructions
 before leaving here, but hope to be able
 to leave on Saturday, January 30th.,
 which will allow one to report to you
-in person on the following Monday morning
-(over.)</p>
+in person on the following Monday morning.</p>
+
+<fw>(Over.)</fw>
 
 <pb n="Roll6-1120.jpg"/>
 
-<p>-2-</p>
+<fw>2</fw>
 
 <p>In further response to your letter
-I will say:-
-1. I was born in Cambridge City
-Indiana, November 17th 1853
-2. I am appointed from Indiana
+I will say:-</p>
+
+<p>1. I was born in Cambridge City,
+Indiana, November 17th., 1853<lb/>
+2. I am appointed from Indiana<lb/>
 3. I have never resided in Liberia</p>
 
-<p>Very respectfully,
-Your obedient servant,
+<p>Very respectfully,<lb/>
+Your obedient servant,<lb/>
 William D. McCoy</p>
 
 </div1>
