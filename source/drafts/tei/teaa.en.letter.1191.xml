@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from William D. McCoy to William F. Wharton, August 15, 1892</title>
+<title level="a">Despatch from William D. McCoy to William F. Wharton</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -59,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Emigration</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -71,19 +72,19 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Smith, Ezekiel E.</term>
+<term>King, Scipio</term>
 <term>Payne, Beverly Y.</term>
-<term>King</term>
+<term>Smith, Ezekiel E.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Johnsonville, Liberia</term>
-<term>Little Rock, Arkansas</term>
-<term>England</term>
+<term>Johnsonville (Liberia)</term>
+<term>Little Rock (Arkansas)</term>
+<term>Mesurado River</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
-<term/>
+<term>United States</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -114,6 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-10-04" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -126,75 +128,80 @@
 
 <pb n="Roll6-2010.jpg"/>
 
-<p>No. 13. Consulate-General, U. S. A.
-Monrovia, Liberia, August 15, 1892</p>
+<note>Department of State Received Sep 19 1892</note>
 
-<p><add>DEPARTMENT OF STATE
-SEP 19 1892
-RECEIVED</add></p>
+<ab type="letterhead">No. 13.</ab>
 
-<p>Mr. William D. McCoy,
-to the Department of State.</p>
+<ab type="letterhead">Consulate-General, U. S. A.,<lb/>
+Monrovia, Liberia, August 15, 1892</ab>
 
-<p>SUBJECT</p>
+<ab type="letterhead">Mr William D. McCoy,<lb/>
+To the Department of State.</ab>
 
-<p>Submission of a Report on Ex-Minister E. E. Smith's Mission to the country.</p>
+<ab type="letterhead">SUBJECT:</ab>
 
-<p>ABSTRACT OF CONTENTS.</p>
+<p>Submission of a Report on Ex-Minister E. E. Smith's Mission to this Country.</p>
 
-<p>1. Report - "Ex-Minister Smith's
-mission."</p>
+<ab type="letterhead">ABSTRACT OF CONTENTS.</ab>
+
+<p>Inclosure–<lb/>
+1. Report - "Ex-Minister Smith's
+mission".</p>
 
 <pb n="Roll6-2011.jpg"/>
 
-<p>No. 13. Consulate-General, U. S. A.,
-Monrovia, Liberia, August 15, 1892.</p>
+<ab type="letterhead">No. 13.</ab>
 
-<p>Honorable William F. Wharton,
-Assistant Secretary of State,
-WASHINGTON, D. C.</p>
+<ab type="letterhead">Consulate-General, U. S. A.,<lb/>
+Monrovia, Liberia, August 15, 1892.</ab>
 
-<p>Sir:
-I have the honor of submitting
+<ab type="letterhead">Honorable William F. Wharton,<lb/>
+Assistant Secretary of State,<lb/>
+WASHINGTON, D. C.</ab>
+
+<ab type="letterhead">Sir:</ab>
+
+<p>I have the honor of submitting
 the inclosed report on Ex-Minister
 E. E. Smith's Mission to this country.</p>
 
 <p>Your obedient servant,</p>
 
-<p>William D. McCoy,
-Minister Resident
-and Consul General</p>
+<p>William D. McCoy,<lb/>
+Minister-Resident and 
+Consul-General.</p>
 
-<p>Inclosure</p>
+<p>Inclosure<lb/>
+1. Report–"Ex-Minister E. E. Smith's Mission."</p>
 
-<p>1. Report -- "Ex-Minister E. E. Smith's Mission."</p>
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll6-2012.jpg"/>
 
-<p>Inclosure 1/3</p>
-
-<p>Ex-Minister E. E> Smith's Mission.</p>
+<p>Ex-Minister E. E. Smith's Mission.</p>
 
 <p>The Bark "Liberia" arrived at
 this port on the 6th day of April, 1892,
-bringing fifty Emmigrants (14 families) who
+bringing fifty Emigrants (14 families) who
 came from the vicinity of Little Rock,
-Arkansas (U. S. A.) Beverly Y. Payne
+Arkansas (U.S.A.) Beverly Y. Payne
 of this city was deputized by the American
 Colonization Society to receive and
 care for them until the arrival of
-Ex-minister E. E. Smith who had been
+Ex-Minister E. E. Smith who had been
 appointed the Company's Agent, in place
-of Mr. <unclear></unclear> King, removed.</p>
+of Mr. Scipio King, removed.</p>
 
-<p>Mr. Smith arrive (via England) on
+<p>Mr. Smith arrived (via England) on
 the evening of April 13th.</p>
 
-<p>The Emigrants peferred to settle on
+<p>The Emigrants <sic>peferred</sic> to settle on
 the Mesurado River, near Johnsonville,
 about 15 miles from Monrovia. Land
 was given them in accordance with the
-Liberian allotment - 10 acres to unmarried
+Liberian allotment–10 Acres to unmarried
 persons over 18 years of age, 25 Acres
 to heads of families or 20 Acres and one
 town lot as they preferred.</p>
@@ -202,22 +209,22 @@ town lot as they preferred.</p>
 <p>The Society furnishes supplies for
 six months and by that time it is expected
 that each family will have raised
-enough</p>
+<catchwords>enough</catchwords>
 
 <pb n="Roll6-2013.jpg"/>
 
-<p>enough Cassada, rice, and garden vegetables
+enough <sic>Cassada</sic>, rice, and garden vegetables
 to supply them with food.</p>
 
 <p>Three families (14 persons) finding that
 they would be obliged to wait three or
-four years for this coffee tree to bear
-before they could expect to handle <unclear></unclear>,
-having to undergo an acclimation
-process, and having no one to plan or
+four years for their coffee trees to bear
+before they could expect to handle <unclear>much</unclear>,
+money, having to undergo an acclimation
+process, and having no one to plan <unclear>or</unclear>
 rather outline work for them as they do
-in America, re-embarked for America <gap reason="missing"/>
-next voyage that the Liberia made <gap reason="missing"/>
+in America, re-embarked for America <unclear>the</unclear>
+next voyage that the Liberia made J<unclear extent="one word"/>
 18th., 1892.</p>
 
 <p>The other families are getting along
@@ -228,37 +235,42 @@ over five thousand coffee scions. Another
 has opened a business house and is doing
 well.</p>
 
-<p>Mr. SMith left on the Steamer
+<p>Mr. Smith left on the Steamer
 Sarache, on August 12th., leaving Mr.
 Beverly Y. Payne as his Deputy.</p>
 
-<p>Aomong the recommendations that
-Mr. Smith will make to the Society
-the following:-
-1. That instead of 14 or 15 families (40
+<p>Among the recommendations that
+Mr. Smith will make to the Society <unclear>are</unclear>
+the following:</p>
+
+<p>1. That instead of 14 or 15 families (40 <unclear>to</unclear>
 50 persons), from 80 to 100 families
-(400</p>
+<catchwords>(400</catchwords>
 
 <pb n="Roll6-2014.jpg"/>
 
-<p>(400 to 500 persons) be sent out even if
-they be not sent as often.
-2. That the companies be made up
+(400 to 500 persons) be sent out even if
+they be not sent as often.</p>
+
+<p>2. That the companies be made up
 of mechanics and artisans as well as
 farmers, instead of nearly all farmers as
-in the past.
-3. That they be sent in a steamer
+in the past.</p>
+
+<p>3. That they be sent in a steamer
 instead of the cramped quarters of a 
-300 ton Bark.
-4. That the Liberian Government use
+300 ton Bark.</p>
+
+<p>4. That the Liberian Government use
 the appropriation made (see Acts of the
-General Assembly, Inclosure of Dispatch No. 11,
+General Assembly, Inclosure of Despatch No. 11,
 Page 15) in preparing a receptacle or
-reaptacles for the Emigrants and in having
+receptacles for the Emigrants and in having
 a sufficiently large garden planted with
 vegetables that shall be ready for use
-by the time said Emigrants arrive.
-5. That inasmuch as nearly all planting
+by the time said Emigrants arrive.</p>
+
+<p>5. That inasmuch as nearly all planting
 and cultivating is done with the hoe
 that Emigrants be encouraged to bring
 improved machines and adopt modern
@@ -266,20 +278,21 @@ methods which will yield them much
 larger returns, besides the repairing and
 even making of which will furnish
 employment to the mechanics and
-artisans refered to in Sec. 2, above.
-6. That Emigrants be supplined nine
-months-</p>
+artisans referred to in Sec. 2, above.</p>
+
+<p>6. That Emigrants be supplied nine
+<catchwords>months</catchwords>
 
 <pb n="Roll6-2015.jpg"/>
 
-<p>months instead of six as at present. <gap reason="missing"/>
-will give them more time to acclimate <gap reason="missing"/>
-get their houses and surroundings in <gap reason="missing"/>
+months instead of six as at present. <unclear>This</unclear>
+will give them more time to acclimate <unclear>and</unclear>
+get their houses and surroundings in 
 a more comfortable condition.</p>
 
 <p>All of which is respectfully submitted.</p>
 
-<p>William D. McCoy
+<p>William D. McCoy<lb/>
 Minister-Resident and
 Consul-General</p>
 

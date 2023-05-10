@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from William D. McCoy, April 10, 1893</title>
+<title level="a">Despatch from William D. McCoy</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -100,8 +101,8 @@
 <date when="1893-04-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
+<persName/>
+<roleName/>
 <placeName>Washington (D.C.)</placeName>
 <date when="1893-05-27"/>
 </correspAction>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-10-06" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,25 +124,22 @@
 
 <pb n="Roll6-2037.jpg"/>
 
-<p>No. 23. Consulate-General U.S.A.,
-Monrovia, Liberia, April 10, 1893.</p>
+<note>Index Bureau Received May 27 93</note>
 
-<p>Mr. William D. McCoy,
-to the Department of State.</p>
+<ab type="letterhead">No. 23.</ab>
 
-<p><add>INDEX BUREAU
-RECEIVED
-MAY 27 93.</add></p>
+<ab type="letterhead">Consulate-General U.S.A.,<lb/>
+Monrovia, Liberia, April 10, 1893</ab>
 
-<p>SUBJECT:</p>
+<ab type="letterhead">Mr William D. McCoy,<lb/>
+To the Department of State.</ab>
+
+<ab type="letterhead">SUBJECT:</ab>
 
 <p>Report on Hours of Labor of
 Government Employees.</p>
 
-<p>ABSTRACT OF CONTENTS.</p>
-
-<p><add>To Conl Ser. Cou
-June 13</add></p>
+<ab type="letterhead">ABSTRACT OF CONTENTS.</ab>
 
 </div1>
 

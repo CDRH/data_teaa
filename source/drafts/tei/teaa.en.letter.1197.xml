@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from William D. McCoy, February 10, 1893</title>
+<title level="a">Despatch from William D. McCoy</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -100,8 +101,8 @@
 <date when="1893-02-10"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName></roleName>
+<persName/>
+<roleName/>
 <placeName>Washington (D.C.)</placeName>
 <date when="1893-03-27"/>
 </correspAction>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-10-05" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,25 +124,21 @@
 
 <pb n="Roll6-2029.jpg"/>
 
-<p><add>DEPARTMENT OF STATE
-MAR 27 1893
-RECEIVED.</add></p>
+<note>Department of State Received Mar 27 1893</note>
 
-<p>No. 19. Consulate Series </p>
+<p>No. 19. Consulate Series</p>
 
-<p>Consulate-General U.S.A.,
+<p>Consulate-General U.S.A.,<lb/>
 Monrovia, Liberia, February 10, 1893.</p>
 
-<p>William D. McCoy,
-to the Department of State.</p>
+<p>William D. McCoy–<lb/>
+To the Department of State.</p>
 
-<p>Subject-</p>
+<p>Subject–</p>
 
 <p>Report upon the Manufacture and
-sale of Intoxicating Liquors in the
+Sale of Intoxicating Liquors in the
 Republic of Liberia.</p>
-
-<p>(Filed for publication)</p>
 
 </div1>
 
