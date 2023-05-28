@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from William H. Heard to Edwin F. Uhl, March 5, 1895</title>
+<title level="a">Despatch from William H. Heard to Edwin F. Uhl</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -94,13 +95,13 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Heard, William H.</persName>
+<persName ref="http://viaf.org/viaf/78327324">Heard, William H. (William Henry), 1850-1937</persName>
 <roleName>U.S. Minister Resident and Consul General</roleName>
 <placeName>Harrisburg (Pennsylvania)</placeName>
 <date when="1895-03-05"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Uhl, Edwin F.</persName>
+<persName ref="http://viaf.org/viaf/295370994">Uhl, Edwin F. 1841-1901</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1895-03-11"/>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-10-07" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,49 +124,40 @@
 
 <pb n="Roll6-2091.jpg"/>
 
-<p>"Monrovia"
-500 1/2 South Street
-Harrisburg Pa
+<note>Index Bureau Dept of State Rec'd Mar 11 1895</note>
+
+<p>500½ South Street<lb/>
+Harrisburg Pa<lb/>
 March 5th 1895</p>
 
-<p><unclear>Boud Co Treasury</unclear>
-<unclear></unclear>
-<unclear></unclear>
-<unclear>March 20</unclear></p>
+<p>Hon Edwin F. Uhl,<lb/>
+Assistant Secretary,<lb/>
+Honored Sir:–</p>
 
-<p><add>INDEX BUREAU
-RECID.
-MAR 11 1895
-DEPT OF STATE</add></p>
-
-<p>Hon Edwin F. Uhl,
-Assistant Secretary,</p>
-
-<p>Honored Sir:-
-Your favor of the 28th
-<unclear>deltivties</unclear> has been received,
+<p>Your favor of the 28th
+ultimo has been received,
 informing me that the
 President by and with the
 Consent of the senate
 had appointed me Minister
 Resident and Consul General
-at the United States of Liberia.
+at the United States to Liberia.
 I gratefully acknowledge
-the Honor conferred
+the honor conferred,
 and assure the President
 that in accepting the
 position I do so with
-<unclear></unclear> of the obligation
-partake in accepting the honor</p>
+<unclear>a</unclear> sense of the obligation
+<unclear extent="one word"/> in accepting the honor
 
 <pb n="Roll6-2092.jpg"/>
 
-<p><gap reason="missing"/>will quality and
-<gap reason="missing"/>prepared to leave
-<gap reason="missing"/>the time prescribed
-<gap reason="missing"/>your instructions.</p>
+I will qualify and
+be prepared to leave
+in the time prescribed
+by your instructions.</p>
 
-<p>I am gratefully
+<p>I am gratefully<lb/>
 William H. Heard</p>
 
 </div1>

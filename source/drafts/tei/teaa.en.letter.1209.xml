@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to Edwin F. Uhl, February 20, 1894</title>
+<title level="a">Despatch from Beverly Y. Payne to Edwin F. Uhl</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -95,12 +96,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Payne, Beverly Y.</persName>
-<roleName>U.S. Vice Consul General</roleName>
+<roleName>U.S. Vice Consul</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1894-02-20"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Uhl, Edwin F.</persName>
+<persName ref="http://viaf.org/viaf/295370994">Uhl, Edwin F. 1841-1901</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1894-03-26"/>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-10-06" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,56 +124,54 @@
 
 <pb n="Roll6-2056.jpg"/>
 
-<p>No. 31</p>
+<note>Index Bureau Dept of State Received Mar 26 94</note>
 
-<p><add>INDEX BUREAU
-RECEIVED
-MAR 26 93</add></p>
+<ab type="letterhead">No. 31.</ab>
 
-<p>Consulate-General of the United States,
-Monrovia, Liberia, February 20, 1894.</p>
+<ab type="letterhead">Consulate-General of the United States,<lb/>
+Monrovia, Liberia, February 20, 1894.</ab>
 
-<p>Mr. Beverly Y. Payne,
-to the Department of State.</p>
+<ab type="letterhead">Mr. Beverly Y. Payne,<lb/>
+To the Department of State.</ab>
 
-<p>Subject:</p>
+<ab type="letterhead">Subject:</ab>
 
 <p>Request for supplies.</p>
 
-<p>Abstract of Contents.</p>
+<ab type="letterhead">Abstract of Contents.</ab>
 
 <pb n="Roll6-2057.jpg"/>
 
-<p>No. 31.</p>
+<ab type="letterhead">No. 31.</ab>
 
-<p>Consulate-General of the United States,
-Monrovia, Liberia, February 20, 1894.</p>
+<ab type="letterhead">Consulate-General of the United States,<lb/>
+Monrovia, Liberia, February 20, 1894.</ab>
 
-<p>Honorable Edwin F. Uhl,
-Assistant Secretary of State,
-Washington, D. C.</p>
+<ab type="letterhead">Honorable Edwin F. Uhl,<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D. C.</ab>
 
-<p>Sir:
-I have the honor most respectfully
+<ab type="letterhead">Sir:</ab>
+
+<p>I have the honor most respectfully
 to request of you the following
 supplies for use at this Legation and
 Consulate General.</p>
 
-<p>1 American Ensign 12 ft length.
+<p>1 American Ensign 12 ft length.<lb/>
 1 Small Consular Seal for wax on
-Consular envelopes.
-Stationary for official use, copying enclosures,
-and miscelleaneasou correspondence.
-Forms for Reports, Numbers 117, 159, 90, 101 or 102, &amp; 113.
-General Quarterly account. Rent miscelleneaous
-account. Abstract of Contingent Expenses, and vouchers for rent.</p>
+Consular envelopes.<lb/>
+Stationary for official use, <sic>coping</sic> enclosures,
+and <sic>miscelleaneous</sic> correspondence.<lb/>
+Forms for Reports, Numbers 117, 159, 90, 101 or 102, &amp; 113.<lb/>
+General Quarterly account. Rent <sic>miscelleneanus</sic>
+account. Abstract of Contingent Expenses, and Vouchers for Rent.</p>
 
-<p>I have the honor to be, 
-sir:
-your obedient servant,</p>
-
-<p>Beverly Y. Payne
-U. S. Vice Consul</p>
+<p>I have the honor to be,<lb/> 
+Sir:<lb/>
+Your obedient servant,<lb/>
+Beverly Y. Payne,<lb/>
+U. S. Vice Consul.</p>
 
 </div1>
 

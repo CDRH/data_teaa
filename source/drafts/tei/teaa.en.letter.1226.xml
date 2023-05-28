@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from William H. Heard to Edwin F. Uhl, May 6, 1895</title>
+<title level="a">Despatch from William H. Heard to Edwin F. Uhl</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -94,13 +95,13 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Heard, William H.</persName>
+<persName ref="http://viaf.org/viaf/78327324">Heard, William H. (William Henry), 1850-1937</persName>
 <roleName>U.S. Minister Resident and Consul General</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1895-05-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Uhl, Edwin F.</persName>
+<persName ref="http://viaf.org/viaf/295370994">Uhl, Edwin F. 1841-1901</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1895-07-03"/>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-10-07" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,57 +124,56 @@
 
 <pb n="Roll6-2096.jpg"/>
 
-<p>3</p>
+<note>Index Bureau Dept of State Rec'd Jul 3 1895</note>
 
 <p>Consular Series</p>
 
-<p>Consulate General of United States,
-Monrovia, Liberia, May 6, 1895.</p>
+<p>No. 3</p>
 
-<p><add>INDEX BUREAU
-REC'D.
-JUL 3 1895
-DEPT OF STATE</add></p>
+<p>Consulate General of United States<lb/>
+Monrovia Liberia May 6, 1895</p>
 
-<p>William H. Heard,
-to the Department of State.</p>
+<p>William H. Heard<lb/>
+To the Department of State</p>
 
-<p>Subject:</p>
+<p>Subject</p>
 
-<p>Request for supplies.</p>
+<p>Request for supplies</p>
 
 <pb n="Roll6-2097.jpg"/>
 
-<p>3</p>
+<p>No 3</p>
 
-<p>Consular series</p>
+<p>Consular Series</p>
 
-<p>Consulate General of United States,
-Monrovia, Liberia, May 6, 1895.</p>
+<p>Consulate General of United States<lb/>
+Monrovia Liberia May 6, 1895</p>
 
-<p>To the Hon. Edwin F. Uhle,
-Assistant Secretary of State,
-Washington D. C.</p>
+<p>To the Hon. Edwin <sic>H.</sic> <sic>Uhle</sic><lb/>
+Assistant Secretary of State<lb/>
+Washington D.C.</p>
 
-<p>Sir:
-I have the honor to most
+<p>Sir:</p>
+
+<p>I have the honor to most
 respectfully ask for the following
-supplies for this office
-2 letter files
-Sealing wax
-Diplomatic and consular Envelopes, medium
-Blank Drafts, Duplicates preferred
-Office table, Des with pigeon holes,
-Office Chair, Blanks for Fransis
-Account, Blanks receipts for <unclear>reuh</unclear>,
-Joint Certificates for outgoing</p>
+supplies for this office</p>
+
+<p>2 Letter files<lb/>
+Sealing Wax<lb/>
+Diplomatic and Consular Envelopes, Medium<lb/>
+Blank Drafts, Duplicates preferred<lb/>
+Office table, Desk with Pigeon Holes,<lb/>
+Office Chair, Blanks for transit
+Account, Blanks Receipts for <unclear extent="one word"/>,
+Joint Certificates for Outgoing
 
 <pb n="Roll6-2098.jpg"/>
 
-<p>and incoming offices?</p>
+and Incoming Offices?</p>
 
-<p>I am obediently
-William H. Heard
+<p>I am obediently<lb/>
+William H. Heard<lb/>
 Minister Resident and Con. General</p>
 
 </div1>

@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to Edwin F. Uhl, April 11, 1895</title>
+<title level="a">Despatch from Beverly Y. Payne to Edwin F. Uhl</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -59,7 +60,7 @@
 
 <textClass>
 <keywords scheme="original" n="theme">
-<term/>
+<term>Emigration</term>
 </keywords>
     
 <keywords scheme="original" n="type">
@@ -75,8 +76,8 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Sierra Leon</term>
-<term>Savannah, Georgia, United States</term>
+<term>Sierra Leone</term>
+<term>Savannah (Georgia)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -96,12 +97,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Payne, Beverly Y.</persName>
-<roleName>U.S. Vice Consul General</roleName>
+<roleName>U.S. Vice Consul</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1895-04-11"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Uhl, Edwin F.</persName>
+<persName ref="http://viaf.org/viaf/295370994">Uhl, Edwin F. 1841-1901</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1895-05-22"/>
@@ -111,6 +112,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-10-07" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -123,68 +125,65 @@
 
 <pb n="Roll6-2093.jpg"/>
 
-<p>45.</p>
+<note>Index Bureau Dept of State Rec'd May 22 1895</note>
 
-<p>Consulate-General of the United States,
+<p>No 45.</p>
+
+<p>Consulate General of the United States,<lb/>
 Monrovia, Liberia, April 11, 1895.</p>
 
-<p><add>INDEX BUREAU
-REC'D.
-MAY 22 1895
-DEPT OF STATE</add></p>
-
-<p>Mr. Beverly Y. Payne,
-to the Department of State.</p>
+<p>Mr. Beverly Y. Payne,<lb/>
+To the Department of State.</p>
 
 <p>Subject:</p>
 
-<p>Arrival of Immigrants at Monrovia.</p>
+<p>Arrival of Immigrants at Monrovia</p>
 
 <pb n="Roll6-2094.jpg"/>
 
 <p>No 45</p>
 
-<p>Consulate General of the United States,
+<p>Consulate General of the United States,<lb/>
 Monrovia, Liberia, April 11, 1895.</p>
 
-<p>Honorable Edwin F. Uhl,
-Assistant Secretary of State,
-Washington D. C.</p>
+<p>Honorable Edwin F. Uhl,<lb/>
+Assistant Secretary of State,<lb/>
+Washington D.C.</p>
 
-<p>Sir:
-I have the honor most respectfully
+<p>Sir:</p>
+
+<p>I have the honor most respectfully
 to inform the Department that
-the Danish Steam Ship "<unclear>Storsa</unclear>"
-377 tons net. arrived at this port
+the <sic>Daneish</sic> Steam Ship "Horsa"
+377 tons net, arrived at this port
 on the 7th instant after a voyage of
-eighteen days from Savanah,
-Georgia, U. S. A. with one hundred
+eighteen days from <sic>Savanah</sic>,
+Georgia, U.S.A. with one hundred
 and ninety seven (197) colored
-immigrants from different parts of
+Immigrants from different parts of
 the United States.</p>
 
-<p>The "<unclear>Storsa</unclear>" was chartered by the
+<p>The "Horsa" was chartered by the
 International Migration Society of
-Birmingham</p>
+Birmingham
 
 <pb n="Roll6-2095.jpg"/>
 
-<p>Birmingham, Alabama, U. S. A.</p>
+Birmingham, Alabama, U.S.A.</p>
 
-<p>These immigrants have been landed
+<p>These Immigrants have been landed
 at this port, and the Government
-of Liberia wil have to provide for
-them, as they have not been, by
+of Liberia will have to provide for
+them, as they have not been by
 the society.</p>
 
-<p>The "<unclear>Storsa</unclear>" leared yesterday for
-Sierra Leon.</p>
+<p>The "Horsa" cleared yesterday for
+Sierra Leone.</p>
 
-<p>I have the honor to be
-Sir:
-Your obedient Servant,</p>
-
-<p>Beverly Y. Payne
+<p>I have the honor to be<lb/>
+Sir:<lb/>
+Your obedient Servant,<lb/>
+Beverly Y. Payne,<lb/>
 Vice Consul.</p>
 
 </div1>

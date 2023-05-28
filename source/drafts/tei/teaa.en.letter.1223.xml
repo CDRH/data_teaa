@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to Edwin F. Uhl, December 8, 1894</title>
+<title level="a">Despatch from Beverly Y. Payne to Edwin F. Uhl</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -95,12 +96,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Payne, Beverly Y.</persName>
-<roleName>U.S. Vice Consul General</roleName>
+<roleName>U.S. Vice Consul</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1894-12-08"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Uhl, Edwin F.</persName>
+<persName ref="http://viaf.org/viaf/295370994">Uhl, Edwin F. 1841-1901</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1895-02-25"/>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-10-07" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,50 +124,47 @@
 
 <pb n="Roll6-2089.jpg"/>
 
-<p>No. 44.</p>
+<note>Index Bureau Dept of State Rec'd Feb 25 1895</note>
 
-<p>Consulate-General of the United States,
-Monrovia, Liberia, December 8, 1894.</p>
+<ab type="letterhead">No. 44</ab>
 
-<p><add>INDEX BUREAU
-RECEIVED
-FEB 25 1895
-DEPT OF STATE</add></p>
+<ab type="letterhead">Consulate-General of the United States,<lb/>
+Monrovia, Liberia, December 8, 1894.</ab>
 
-<p>Mr. Beverly Y. Payne,
-to the Department of State.</p>
+<ab type="letterhead">Mr. Beverly Y. Payne,<lb/>
+To the Department of State.</ab>
 
-<p>Subject:</p>
+<ab type="letterhead">Subject:</ab>
 
 <p>Accounts and returns of the Consular
 Agent at Elmina for the
 quarter ending September 30, 1894.</p>
 
-<p>Abstract of Contents.</p>
+<ab type="letterhead">Abstract of Contents.</ab>
 
 <pb n="Roll6-2090.jpg"/>
 
-<p>No. 44.</p>
+<ab type="letterhead">No. 44.</ab>
 
-<p>Consulate-General of the United States,
-Monrovia, Liberia, December 5, 1894.</p>
+<ab type="letterhead">Consulate-General of the United States,<lb/>
+Monrovia, Liberia, December 8, 1894.</ab>
 
-<p>Honorable Edwin F. Uhl,
-Assistant Secretary of State,
-Washington, D. C.</p>
+<ab type="letterhead">Honorable Edwin F. Uhl.<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D. C.</ab>
 
-<p>Sir:
-I have the honor to transmit
+<ab type="letterhead">Sir:</ab>
+
+<p>I have the honor to transmit
 herewith, one copy Arrivals and
 departures of American vessels at
 Elmina, during the quarter ending
 September 30, 1894.</p>
 
-<p>I have the honor to be
-Sir:
-your obedient servant,</p>
-
-<p>Beverly Y. Payne,
+<p>I have the honor to be<lb/>
+Sir:<lb/>
+Your obedient servant,<lb/>
+Beverly Y. Payne,<lb/>
 Vice Consul of the United States.</p>
 
 </div1>

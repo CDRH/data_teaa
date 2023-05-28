@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to Edwin F. Uhl, June 30, 1894</title>
+<title level="a">Despatch from Beverly Y. Payne to Edwin F. Uhl</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -95,12 +96,12 @@
 <correspDesc>
 <correspAction type="sentBy">
 <persName>Payne, Beverly Y.</persName>
-<roleName>U.S. Vice Consul General</roleName>
+<roleName>U.S. Vice Consul</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1894-06-30"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Uhl, Edwin F.</persName>
+<persName ref="http://viaf.org/viaf/295370994">Uhl, Edwin F. 1841-1901</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1894-08-07"/>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-10-07" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,18 +124,15 @@
 
 <pb n="Roll6-2074.jpg"/>
 
-<p>No 38</p>
+<note>Index Bureau Dept of State Received Aug 7 94</note>
 
-<p>Consulate-General of the United States,
+<p>No 38.</p>
+
+<p>Consulate General of the United States,<lb/>
 Monrovia, Liberia, June 30, 1894.</p>
 
-<p><add>INDEX BUREAU
-RECEIVED
-AUG 7 94
-DEPT OF STATE</add></p>
-
-<p>Mr. Beverly Y. Payne,
-to the Department of State.</p>
+<p>Mr Beverly Y. Payne,<lb/>
+To the Department of State.</p>
 
 <p>Subject:</p>
 
@@ -143,28 +142,28 @@ to the Department of State.</p>
 
 <p>No 38</p>
 
-<p>Consulate-General of the United States,
+<p>Consulate General of the United States,<lb/>
 Monrovia, Liberia, June 24, 1894.</p>
 
-<p>Honorable Edwin F. Uhl,
-Assistant Secretary of State,
-Washington, D. C.</p>
+<p>Honorable Edwin F. Uhl,<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
 
-<p>Sir:
-I have the honor to
+<p>Sir:</p>
+
+<p>I have the honor to
 acknowledge receipt of your
-No. 8, of the 15th alt, calling
+No 8. of the 15th ult, calling
 my attention to the Circular
 of the Department of September
 19, 1893, dispensing with
 certain returns, which will be
 observed in the future.</p>
 
-<p>I have the honor to be
-Sir:
-your obedient servant,</p>
-
-<p>Beverly Y. Payne,
+<p>I have the honor to be<lb/>
+Sir:<lb/>
+Your obedient servant,<lb/>
+Beverly Y. Payne,<lb/>
 U.S. Vice Consul.</p>
 
 </div1>
