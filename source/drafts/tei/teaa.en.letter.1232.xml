@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from William H. Heard to Edwin F. Uhl, October 28, 1895</title>
+<title level="a">Despatch from William H. Heard to Edwin F. Uhl</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -75,7 +76,7 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Dallas, Texas</term>
+<term>Dallas (Texas)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-05" who="#kln">Review and edits.</change>
 <change when="2022-10-10" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,147 +124,384 @@
 
 <pb n="Roll6-2116.jpg"/>
 
+<note>Index Bureau Dept of State Rec'd Nov 25 1895</note>
+
 <p>Consulate Series</p>
 
-<p>Consulate-General of the United States,
-Monrovia, Liberia, Oct. 28, 1895.</p>
+<p>Consulate General of the United States<lb/>
+Monrovia Liberia Oct. 28, 1895</p>
 
-<p><add>INDEX BUREAU
-REC'D.
-NOV 25 1895
-DEPT OF STATE</add></p>
+<p>William H. Heard<lb/>
+To the Department of State.</p>
 
-<p>William H. Heard,
-to the Department of State.</p>
-
-<p>Subject:</p>
+<p>Subject</p>
 
 <p>Inventory of Mr. John Harris'
 property.</p>
 
 <pb n="Roll6-2114.jpg"/>
 
-<p>Consulate series</p>
+<p>Consulate Series</p>
 
-<p>Consulate-General of the United States
-Monrovia, Liberia, Oct. 28/95.</p>
+<p>Consulate General of the United States<lb/>
+Monrovia Liberia Oct. 28/95</p>
 
-<p>Hon.Edwin F, Uhl,
-Assistant Secretary of State,
-Washington D. C.</p>
+<p>Hon. Edwin F. Uhl<lb/>
+Assistant Secretary of State<lb/>
+Washington D.C.</p>
 
-<p>Sir:
-I have the honor
+<p>Sir:</p>
+
+<p>I have the honor
 to enclose inventory of
-the estate of the late John
+the Estate of the late John
 Harris of Dallas Texas.
-I proceed to settle the estate
+I proceed to settle the Estate
 as promptly as possible.</p>
 
-<p>I am obediently
-William H. Heard
+<p>I am obediently<lb/>
+William H. Heard<lb/>
 Min. Res. and Con. Gen.</p>
 
 <p>Enclosures 2</p>
 
-<p>1. Inventory of stock in store
-2. ,, <gap/> ,, personal effects</p>
+<p>1. Inventory of stock in store<lb/>
+2. " " personal effects</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll6-2118.jpg"/>
 
 <p>No 1</p>
 
-<p>Inventory of the stocks of goods at
+<p>Inventory of the stock of goods at
 the store of the late John Harris
 of Dallas Texas U. S. A.</p>
 
-<p>17 1/2 Dozen Shirt $6.00 per doz $105.00
-2 1/2 ,, <gap/>,, <gap/>,, 6.00,, ,, ,, 15.00
-2 3/4 ,, S29 , ,, 6.00 ,, ,, ,, 15.00
-5 ,, S 33. ,, 6.00 ,, ,, ,, 30.00
-3 ,, universal,, 7.00 ,, ,, ,, 21.00
-24 Suits of clothes,, $2.00 ,, suite ,, 48.00
-4 Serg suits of clothes $2.00 ,, ,, ,, 8.00
-1 Coat <gap/> $1.95 <gap/> ,, 1.95
-1 dozen white 75 cents ,, 9.00
-5 coats <unclear>thipm Flannel</unclear> 60 cents,, 3.00
-16 white Hand'K's,, 50 per dozen ,, 6.51
-6 1/2 dozen bordered Hand'K's 40 per doz,, 2.60
-4,, P. B. hose .<unclear>50</unclear>per doz ,, 2.00
-3 1/2 ,, <unclear>Heather hoble</unclear>.60 ,, ,, ,, 2.20
-3,, Navy,, .60 ,, ,, 1.80
-<gap/> $266.20</p>
+<table>
+<row>
+<cell>17½ Dozen Shirts $6.00 per doz.</cell>
+<cell>$105.00</cell>
+</row>
+<row>
+<cell>2½ " " " 6.00 " " " </cell>
+<cell>15.00</cell>
+</row>
+<row>
+<cell>2¾ " S 29 " " 6.00 " " " </cell>
+<cell>15.00</cell>
+</row>
+<row>
+<cell>5 " S 33 " " 6.00 " " " </cell>
+<cell>30.00</cell>
+</row>
+<row>
+<cell>3 " Universal " 7.00 " " " </cell>
+<cell>21.00</cell>
+</row>
+<row>
+<cell>24 Suits of Clothes " $2.00 " Suit " </cell>
+<cell>48.00</cell>
+</row>
+<row>
+<cell>4 Serg Suits of Clothes $2.00 " " " </cell>
+<cell>8.00</cell>
+</row>
+<row>
+<cell>1 Coat  $1.95 "  " </cell>
+<cell>1.95</cell>
+</row>
+<row>
+<cell>1 dozen white 75 each " </cell>
+<cell>9.00</cell>
+</row>
+<row>
+<cell>5 coats <unclear extent="one word"/> Flannel 60 each " </cell>
+<cell>300</cell>
+</row>
+<row>
+<cell>16 White Hand'K's " .50 per dozen " </cell>
+<cell>.65</cell>
+</row>
+<row>
+<cell>6½ dozen bordered Hand'K's .40 per doz " </cell>
+<cell>2.60</cell>
+</row>
+<row>
+<cell>4 " P. B. hose .50 per doz " </cell>
+<cell>2.00</cell>
+</row>
+<row>
+<cell>3½ " Heather hose .60 " " " </cell>
+<cell>2.20</cell>
+</row>
+<row>
+<cell>3 " Navy " .60 " " </cell>
+<cell><hi rend="underline">1.80</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>$266.20</cell>
+</row>
 
 <pb n="Roll6-2119.jpg"/>
 
-<p>1 dozen cardinal hose $1.00 per doz $1.00
-1/3 ,, P. B. <gap/>,, 1 cent apiece ,, .40
-3 3/4 dozen Half ,, 4.00 per doz  $1.50
-2 3/4 ,, (Monrovia) half,, 75,, ,, ,, $2.03
-1 ,, striped ,, 1.20,, ,, ,, 1.20
-5 Pairs Fancy ,, 10cts apair,, .50
-2 Pair Stomen San Hose 10 cts apair,, 20
-2 piece cotton lace $1.00 a <gap/> $2.00
-5 pieces of veilny ,, 1.00,, <gap/>,, 5.00
-4 dozen papers of pins 12,, <gap/>,, .48
-2 ,, Belts $3.00 <gap/> $6.00
-8 Belt 25 cents a <gap/> ,, 2.00
-2 Boxes of thimbles 75 cents a ,, 1.50
-5 <unclear>Gross</unclear> spool cotton $2.00 per <unclear>Gross</unclear>,, 10.00
-1 Cotton muffler <gap/> ,, .10
-11 Hanging brushes 25 cts a ,, 2.75
-8 Mirrored hair brushes 10 cts a 80
-2 straw hats $1.00 sash 2.00
-<gap/>$39.91</p>
+<row>
+<cell>1 Dozen Cardinal hose $1.00 per doz</cell>
+<cell>$1.00</cell>
+</row>
+<row>
+<cell>⅓ " P. B. " 10 cts apiece</cell>
+<cell>".40</cell>
+</row>
+<row>
+<cell>3¾ dozen Half " 40 " per doz</cell>
+<cell>$1.50</cell>
+</row>
+<row>
+<cell>2¾ " (<unclear extent="one word"/>) half " 75 " " " </cell>
+<cell>$2.03</cell>
+</row>
+<row>
+<cell>1 " Striped "  " 1.20 " " </cell>
+<cell>"1.20</cell>
+</row>
+<row>
+<cell>5 Pairs Fancy " 15 cts a pair</cell>
+<cell>".50</cell>
+</row>
+<row>
+<cell>2 Pair Women Tan hose 15 cts a pair </cell>
+<cell>" 20</cell>
+</row>
+<row>
+<cell>2 pieces cotton lace $1.00 a</cell>
+<cell>$2.00</cell>
+</row>
+<row>
+<cell>5 pieces of veiling " 1.00</cell>
+<cell>"5.00</cell>
+</row>
+<row>
+<cell>4 dozen papers of pins 12 "</cell>
+<cell>".48</cell>
+</row>
+<row>
+<cell>2 " Belts $3.00</cell>
+<cell>$6.00</cell>
+</row>
+<row>
+<cell>8 Belt 25 cts a</cell>
+<cell>"2.00</cell>
+</row> 
+<row>
+<cell>2 Boxes of thimbles 75 cts a</cell>
+<cell>"1.50</cell>
+</row>
+<row>
+<cell>5 Gross spool cotton $2.00 per Gross</cell>
+<cell>"10.00</cell>
+</row>  
+<row>
+<cell>1 Cotton muffler</cell>
+<cell>".10</cell>
+</row>
+<row>
+<cell>11 Hanging brushes 25 cts a</cell>
+<cell>"2.75</cell>
+</row>
+<row>
+<cell>8 Mirrored hair brushes 10 cts a</cell>
+<cell>80</cell>
+</row>
+<row>
+<cell>2 straw hats $1.00 each</cell>
+<cell><hi rend="underline">2.00</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>$39.91</cell>
+</row> 
 
 <pb n="Roll6-2120.jpg"/>
 
-<p>1 dozen hair brushes 15 a $1.80
-1 dozen tooth brushes 10 ,, <gap/> 1.20
-3 2/3 ,, <gap/>,, <gap/> ,, 5,, <gap/> 2.20
-3 ,, Dressing Combs 5,, <gap/>,, 1.80
-8 ,, Casded ,, 10 ,, <gap/> ,, 9.60
-5 ,, tine tooth ,, 50 per doz,, 2.50
-4 pair scissors 25 cts a <gap/> ,, 2.00
-1 1/2 doz pair scissors 13 cts a <gap/>1.80
-1/2 ,, Protect Scissors 25 ,,a <gap/> $1.50
-10 Pocket ,, <gap/> 15,, <gap/>,, 1.50
-5 ,, <gap/> ,, <gap/>10,, .50
-1/2 doz Pocket <unclear>Ruines</unclear> 30 cts a,, 1.80
-16 Bottles of perfume 10 cts per bot,, 10.50
-10 1/2 ,, purses .75,, ,, ,, 7.88
-2,, Hanging clothes tnushes $3.00 per bag,, 6.00
-3,, Neck Ties $3.00 per doz ,, 9.00
-1 1/2 ,, <gap/>,,<gap/>,, 1.80,, ,, ,, 2.70
-<gap/> $65.03</p>
+<row>
+<cell>1 dozen hair brushes 15 a</cell>
+<cell>$1.80</cell>
+</row>
+<row>
+<cell>1 dozen tooth brushes 10 "</cell>
+<cell>"1.20</cell>
+</row>
+<row>
+<cell>3⅔ " " " 5"</cell>
+<cell>"2.20</cell>
+</row>
+<row>
+<cell>3 " Dressing Combs 5" </cell>
+<cell>"1.80</cell>
+</row>
+<row>
+<cell>8 " Carded " 10 "</cell>
+<cell>"9.60</cell>
+</row> 
+<row>
+<cell>5 " Fine tooth " 50 per doz</cell>
+<cell>"2.50</cell>
+</row>
+<row>
+<cell>4 pair scissors 25 cts a</cell>
+<cell>"2.00</cell>
+</row>
+<row>
+<cell>1½ doz pair scissors 10 cts a</cell>
+<cell>"1.80</cell>
+</row>
+<row>
+<cell>½ " Protect Scissors 25" a</cell>
+<cell>$1.50</cell>
+</row>
+<row>
+<cell>10 Pocket "  15"</cell>
+<cell>"1.50</cell>
+</row>
+<row>
+<cell>5 " " 10</cell>
+<cell>".50</cell>
+</row> 
+<row>
+<cell>½ doz Pocket Knives 30 cts a</cell>
+<cell>"1.80</cell>
+</row> 
+<row>
+<cell>16 Bottles of perfume 10 cts per bot</cell>
+<cell>"1.60</cell>
+</row>
+<row>
+<cell>3½ doz broashes 3.00 per doz</cell>
+<cell>"10.50</cell>
+</row> 
+<row>
+<cell>10½ " Purses .75 " "</cell>
+<cell>"7.88</cell>
+</row>
+<row>
+<cell>2 " Hanging clothes &amp; <unclear extent="one word"/> $3.00 per doz</cell>
+<cell>"6.00</cell>
+</row> 
+<row>
+<cell>3 " Neckties $3.00 per doz.</cell>
+<cell>"9.00</cell>
+</row>
+<row>
+<cell>1½ " " " 1.80 " "</cell>
+<cell><hi rend="italics">"2.70</hi></cell>
+</row> 
+<row>
+<cell/>
+<cell>$65.03</cell>
+</row> 
 
 <pb n="Roll6-2121.jpg"/>
 
-<p>6 1/2 doz flannel shirts $3.00 per doz $19.50
-2 <del></del>,, Striped ,, <gap/>,, $6.00,, ,, 12.00
-3 2/3 ,, Cuffs $1.20 per doz ,, 4.00
-54 3/4 ,, collars ,, 1.20 ,, <gap/>,, <gap/>,,65.70
-2 ,, hair pins .60,, <gap/>,, <gap/>,, 1.20
-Job Lot Collar Butcher <gap/> 1.00
-5 doz ladies shirts fronts &amp; cuffs $3.00 per doz,, 15.00
-1/2 ,, Alpaca Coats $1.25 a ,, 7.50
-1 ,, Elastics ,, .25 ,, <gap/>,, 3.00
-1 Brace and bits and <unclear></unclear>files <gap/>,, 1.50
-1 Drawing Knife <gap/>,, .50
-1 circle sash <gap/> 1.00
-2 Chisels 12cts a ,, .24
-2 Axes $1.25 each ,, 2.50
-1 Rake <gap/> ,, 1.00
-1 Spade <gap/> ,, .40
-1 Hand saw <gap/> .50
-<gap/> $136.54
-<gap/>$ 65.03
-<gap/>$39.91
-<gap/>$266.20
-<gap/>$512.65</p>
+<row>
+<cell>6½ doz. flannel shirts $3.00 per doz</cell>
+<cell>$19.50</cell>
+</row>
+<row>
+<cell>2 " Striped " " $6.00 " "</cell>
+<cell>12.00</cell>
+</row>
+<row>
+<cell>3⅔ " Cuffs $1.20 per doz.</cell>
+<cell>"4.00</cell>
+</row> 
+<row>
+<cell>54¾ " Collars "1.20 " "</cell>
+<cell>"65.70</cell>
+</row> 
+<row>
+<cell>2 " hair pins .60 " "</cell>
+<cell>"1.20</cell>
+</row> 
+<row>
+<cell>Job lot Collar buttons</cell>
+<cell>"1.00</cell>
+</row> 
+<row>
+<cell>5 doz ladies shirts fronts &amp; cuffs $3.00 per doz</cell>
+<cell>"15.00</cell>
+</row> 
+<row>
+<cell>½ " Apaca Coats $1.25 a</cell>
+<cell>"7.50</cell>
+</row> 
+<row>
+<cell>1 " Elastics " .25 "</cell>
+<cell>"3.00</cell>
+</row> 
+<row>
+<cell>1 Brace and bits and 3 files</cell>
+<cell>"1.50</cell>
+</row> 
+<row>
+<cell>1 Drawing Knife</cell>
+<cell>".50</cell>
+</row>
+<row>
+<cell>1 circle saw</cell>
+<cell>"1.00</cell>
+</row>
+<row>
+<cell>2 Chisels 12 cts a</cell>
+<cell>".24</cell>
+</row>
+<row>
+<cell>2 Axes $1.25 each</cell>
+<cell>"2.50</cell>
+</row>  
+<row>
+<cell>1 Rake</cell>
+<cell>"1.00</cell>
+</row>  
+<row>
+<cell>1 Spade</cell>
+<cell>".40</cell>
+</row> 
+<row>
+<cell>1 Hand saw</cell>
+<cell><hi rend="underline">.50</hi></cell>
+</row>  
+<row>
+<cell/>
+<cell>$136.54</cell>
+</row>
+<row>
+<cell/>
+<cell>$65.03</cell>
+</row>
+<row>
+<cell/>
+<cell>$39.91</cell>
+</row>
+<row>
+<cell/>
+<cell><hi rend="underline">$266.20</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>$512.65</cell>
+</row>
+</table>
 
-<p>William H. Heard
+<p>William H. Heard<lb/>
 Min. Res. and Con. Gen.</p>
+
+</div1>
+
+<div1 xml:lang="en" type="document">
 
 <pb n="Roll6-2122.jpg"/>
 
@@ -270,44 +509,136 @@ Min. Res. and Con. Gen.</p>
 
 <p>Inventory of the personal affects
 of Mr John Harris late of
-Dallas Texas U. S. A.</p>
+Dallas Texas U.S.A.</p>
 
-<p>Cash found in Trunk $470.97
-One trunk <gap/>$3.00
-one valise <gap/>,,1.25
-one basket <gap/>,,.50
-one rubber coat <gap/>,,.50
-one pair rubber boots ,, 1.00
-one <unclear>open</unclear> coat <gap/>,, 3.00
-one pair shoes <gap/>,, .75
-one pair slippers <gap/>,, .50
-Two shirts 50 cts a <gap/> ,, 1.00
-Three pair suspenders act a ,, .15
-Six collars 5 cts a <gap/>,, .30
-one pair gloves <gap/>,, .15
-three school books 10 cts a ,, .30
-Two neck ties 5cts a ,, .10
-one pair cuffs <gap/>,, 10</p>
+<table>
+<row>
+<cell>Cash found in Trunk</cell>
+<cell>$470.97</cell>
+</row>
+<row>
+<cell>One trunk</cell>
+<cell>$3.00</cell>
+</row>
+<row>
+<cell>One valise</cell>
+<cell>"1.25</cell>
+</row>
+<row>
+<cell>One basket</cell>
+<cell>".50</cell>
+</row> 
+<row>
+<cell>One rubber coat</cell>
+<cell>".50</cell>
+</row> 
+<row>
+<cell>One pair rubber boots</cell>
+<cell>"1.00</cell>
+</row> 
+<row>
+<cell>One over coat</cell>
+<cell>"3.00</cell>
+</row> 
+<row>
+<cell>One pair shoes</cell>
+<cell>".75</cell>
+</row> 
+<row>
+<cell>One pair slippers</cell>
+<cell>".50</cell>
+</row> 
+<row>
+<cell>Two shirts 50 cts a</cell>
+<cell>"1.00</cell>
+</row> 
+<row>
+<cell>Three pair suspenders <unclear extent="one word"/> a</cell>
+<cell>".15</cell>
+</row>  
+<row>
+<cell>Six collars 5 cts a</cell>
+<cell>".30</cell>
+</row>
+<row>
+<cell>One pair gloves</cell>
+<cell>".15</cell>
+</row> 
+<row>
+<cell>Three school books 10 cts a</cell>
+<cell>".30</cell>
+</row> 
+<row>
+<cell>Two neck ties 5 cts a</cell>
+<cell>".10</cell>
+</row> 
+<row>
+<cell>One pair cuffs</cell>
+<cell>"10</cell>
+</row>
+ 
+<pb n="Roll6-2123.jpg"/>
 
-<pb n="Roll6-1232.jpg"/>
+<row>
+<cell>Three vests 25 cts a</cell>
+<cell>.75</cell>
+</row>
+<row>
+<cell>Two " 50 " "</cell>
+<cell>$1.00</cell>
+</row>  
+<row>
+<cell>One coat</cell>
+<cell>".75</cell>
+</row> 
+<row>
+<cell>Eight undershirts 25 cts a</cell>
+<cell>"2.00</cell>
+</row> 
+<row>
+<cell>Three pair draws 25 "</cell>
+<cell>".75</cell>
+</row> 
+<row>
+<cell>Two striped shirts 25 "</cell>
+<cell>".50</cell>
+</row> 
+<row>
+<cell>One pair pants</cell>
+<cell>"1.00</cell>
+</row> 
+<row>
+<cell>One hat</cell>
+<cell>".50</cell>
+</row> 
+<row>
+<cell>Seven pair eye glasses 10 cts a</cell>
+<cell>".70</cell>
+</row>  
+<row>
+<cell>One scrub brush</cell>
+<cell>"10</cell>
+</row> 
+<row>
+<cell>Eleven pocket knives 20 cts a</cell>
+<cell><hi rend="underline">"2.20</hi></cell>
+</row> 
+<row>
+<cell>Total personal effects</cell>
+<cell>$496.82</cell>
+</row> 
+<row>
+<cell>Stock in store</cell>
+<cell><hi rend="underline">512.65</hi></cell>
+</row> 
+<row>
+<cell>Whole amount</cell>
+<cell>$1009.47</cell>
+</row>
+</table>
 
-<p>Three trash 25 cts a <gap/> .75
-Two <gap/>,,<gap/>50,, ,, $1.00
-one coat <gap/>,, .75
-Eight udershirts 25 cts a,, 2.00
-Three pair draws 25,, ,, .75
-Two striped shirts 25,, ,, .50
-One pair pants <gap/>,, 1.00
-One hat <gap/> ,, .50
-seven pair eye glasses 10 cts a,, .70
-one scrub brush <gap/>,, 10
-Eleven pocket knives 20cts a ,, 2.20
-Total personal effects $496.82
-Stock in store 512.65
-Whole ammount $1009.47</p>
-
-<p>William H. Heard
-Min. Res and Con. Gen.</p>
+<p>William H. Heard<lb/>
+Min. Res. and Con. Gen.</p>
 
 </div1>
 
