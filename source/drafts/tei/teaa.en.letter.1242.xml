@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from William H. Heard, April 18, 1898</title>
+<title level="a">Despatch from William H. Heard</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -71,26 +72,27 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Chase, J. A.</term>
-<term>Rich, George E.</term>
-<term>Doyle, Edward L.</term>
 <term>Bravo, St. Augustine</term>
-<term>Scott, Peter</term>
-<term>Brett, August</term>
-<term>Estrelinha, Joseph Sauts</term>
-<term>Manuel, Peter</term>
-<term>Pereina, Theophils</term>
-<term>de Reis, Mannel</term>
+<term>Britt, August</term>
+<term>Chase, J. H.</term>
 <term>Consalue, Manuel</term>
+<term>Doyle, Edward L.</term>
+<term>Estrelinha, Joseph Santo</term>
+<term>Gonsalina, Morral</term>
 <term>Lopes, Joaquin</term>
 <term>Lopes, Jordan</term>
-<term>Gonsalina, Morral</term>
+<term>Manuel, Peter</term>
+<term>Pereira, Theophilo</term>
+<term>de Reis, Manuel</term>
+<term>Rich, George E.</term>
+<term>Scott, Peter</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Freetown, Sierra Leone</term>
-<term>Provincetown, Massachusetts</term>
-<term>Cape Verde Island</term>
+<term>Cape Verde</term>
+<term>Freetown (Sierra Leone)</term>
+<term>Monrovia (Liberia)</term>
+<term>Provincetown (Massachusetts)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -115,8 +117,8 @@
 <date when="1898-04-18"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName></persName>
-<roleName>Auditor for State and Other Departments</roleName>
+<persName/>
+<roleName>Auditor for State and other Departments</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1898-05-21"/>
 </correspAction>
@@ -125,6 +127,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-06" who="#kln">Review and edits.</change>
 <change when="2022-10-13" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -137,83 +140,77 @@
 
 <pb n="Roll6-2158.jpg"/>
 
-<p><add>RECEIVED
-MAY 21 1898
-BURACCOUNTS DEP. OF STATE.</add></p>
+<p>Index Bureau Dept of State Rec'd May 21 '98</p>
 
-<p>Legation of the United States,
+<p>Legation of the United States,<lb/>
 Monrovia, Liberia, 18 April 1898.</p>
 
-<p><add>INDEX BUREAU
-REC'D.
-MAY 21 '98
-DEPT OF STATE</add></p>
+<p>William H. Heard<lb/>
+To the Department of State.</p>
 
-<p>William H. Heard,
-to the Department of State.</p>
-
-<p>Subject:</p>
+<p>Subject</p>
 
 <p>Relief and Shipment of American Seamen</p>
 
 <pb n="Roll6-2159.jpg"/>
 
-<p>Legation of the United States
-Monrovia, Liberia, April 18, 1898.</p>
+<p>Legation of the United States,<lb/>
+Monrovia, Liberia. April 18, 1898</p>
 
-<p>To the Hon. Auditor for State and
-Other Departments,
+<p>To the Hon. Auditor For State and
+Other Departments,<lb/>
 Washington.</p>
 
-<p>Sir:
-I have the hoor to inform you
+<p>Sir:</p>
+
+<p>I have the honor to inform you
 that I have relieved the following
-seamen of the schooner "Alice: of
-Provincetown, Mass, which was
+seamen of the schooner "Alice" of
+Provincetown, Mass. which was
 destroyed by fire, in this port, on the 4th
-instant;- Geo. E. Rich, Edward L. Doyle,
-St. Augstine Bravo, Peter Scott and
-August Brett, all citizens of Massachusetts,
-U. S. A. and Joseph Sauts Estrelinha,
-Peter Manuel, Theophils Pereina,
-Mannel de Reis, Manuel Consalue,
+instant; Geo. E. Rich, Edward L. Doyle,
+St. Augustine Bravo, Peter Scott and
+August Britt, all citizens of Massachusetts,
+U.S.A. and Joseph Santo Estrelinha,
+Peter Manuel, Theophilo Pereira,
+Manuel de Reis, Manuel Consalue,
 Joaquin Lopes, Jordan Lopes, and Morral
 Gonsalina: all these of Bravo, Cape
-Verde Island. They were relieved according
-to Consular Regulations 1896-
-Paragraph 271, and shipped to Freetown
-Sierra Leone under paragraph 287</p>
+<sic>Verd</sic> Island. They were <sic>rlieved</sic> according
+to Consular Regulations 1896.
+Paragraph 271. and shipped to Freetown
+Sierra Leone under Paragraph 287
 
 <pb n="Roll6-2160.jpg"/>
 
-<p>same book. I had to negotiate a
+same book. I had to negotiate a
 draft drawn on the Secretary of the
 Treasury for ($258.54) two hundred
 and fifty eight dollars and fifty
 four cents. There are no hospitals
 in Monrovia, therefore I were oblige
 to have private physicians. Most of
-the seamen had <add>African fever</add> and Captain
-J. A. Chase died from the effects of
+the seamen had African fever and Captain
+J. H. Chase died from the effects of
 the same. The seamen were sent
 to Sierra Leone that they might
-decure passage on an American Vessel
-from there: and the mode of
-living is better, and the peice cheaper
-there I have here, besides there
-are bospitals there for treatment
+secure passage on an American Vessel
+from there; and the mode of
+living is better, and the price cheaper
+there than here, besides there
+are hospitals there for treatment
 of the sick.</p>
 
 <p>I have the honor to be very
-obediently, William H. Heard
+obediently, William H. Heard<lb/>
 Minister Res. and Consul General</p>
 
 <p>Enclosures</p>
 
-<p>Nos 1 to 13 Boarding and Lodging
-No. 14 Loss by Exchange
-,, 15 Convey and to Steamer
-,, 16 Passage Monrovia S Leone
+<p>Nos. 1 to 13 Boarding and Lodging<lb/>
+No. 14 Loss by Exchange<lb/>
+ " 15 Conveyance to Steamer<lb/>
+ " 16 Passage Monrovia S Leone<lb/>
 No. 17 Medical attendance</p>
 
 </div1>

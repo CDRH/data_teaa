@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Owen L. W. Smith to John B. Moore, October 6, 1898</title>
+<title level="a">Despatch from Owen L. W. Smith to John B. Moore</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -71,9 +72,9 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Moore, H. J.</term>
-<term>Travis, H. W.</term>
+<term>Moore, Hilary J.</term>
 <term>Payne, Beverly Y.</term>
+<term>Travis, Hilary W.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
@@ -102,7 +103,7 @@
 <date when="1898-10-06"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Moore, John B.</persName>
+<persName ref="http://viaf.org/viaf/51757384">Moore, John Bassett, 1860-1947</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1898-11-07"/>
@@ -112,6 +113,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-06" who="#kln">Review and edits.</change>
 <change when="2022-10-21" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -124,42 +126,40 @@
 
 <pb n="Roll6-2181.jpg"/>
 
-<p>No. 6, Consular Series,
-Consulate General of the U. States,
-Monrovia Liberia
-Oct. 6, 1898</p>
+<note>Index Bureau Dept of State Rec'd Nov 7 '98</note>
 
-<p>INDEX BUREAU
-REC'D
-NOV 7 '98
-DEPT OF STATE</p>
+<p>No. 6 Consular Series.<lb/>
+Consulate General of the U. States,<lb/>
+Monrovia Liberia;<lb/>
+Oct. 6, 1898.</p>
 
-<p>Owen L. W. Smith,
-to 
-Hon. J. B. Moore,
-Asstistant Secretary of State,
-Wasington.</p>
+<p>Owen L. W. Smith<lb/>
+To<lb/> 
+Hon. J. B. Moore,<lb/>
+Assistant Secretary of State,<lb/>
+Washington.</p>
 
-<p>Sir:
-I have the honor to
+<p>Sir:</p>
+
+<p>I have the honor to
 transmit to you the
 Bond of Beverly Y. Payne
 Esq, Vice Consul of the
 United States, at Monrovia
 Liberia. His bondsmen,
-Hon. Hilary J.
+Hons. Hilary J.
 Moore, Secretary of the
 Interior, Republic of Liberia;
 and Hilary W. Travis,
-Judge of the court of
+Judge of the Court of
 Quarter Sessions; I
-believe to be were of
+believe to be men of
 ability, integrity and
-means</p>
+<catchwords>means</catchwords>
 
 <pb n="Roll6-2182.jpg"/>
 
-<p>means, and amply
+means, and amply
 able to pay the full
 amount of the bond,
 should circumstances
@@ -167,10 +167,10 @@ so demand.</p>
 
 <p>I have the honor
 to be your obedient
-servant;
+servant;<lb/>
 Owen L. W. Smith</p>
 
-<p>Inclosure.
+<p>Inclosure.<lb/>
 Bond of Vice Consul,
 B. Y. Payne.</p>
 

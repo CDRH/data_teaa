@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Beverly Y. Payne to William W. Rockhill, June 27, 1896</title>
+<title level="a">Despatch from Beverly Y. Payne to William W. Rockhill</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -75,11 +76,11 @@
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Cape Coast</term>
+<term>Cape Coast (Gold Coast)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
-<term/>
+<term>Great Britain</term>
 </keywords>
 
 <keywords scheme="original" n="ethnic_group">
@@ -100,7 +101,7 @@
 <date when="1896-06-27"/>
 </correspAction>
 <correspAction type="deliveredTo">
-<persName>Rockhill, William W.</persName>
+<persName ref="http://viaf.org/viaf/46849159">Rockhill, William Woodville, 1854-1914</persName>
 <roleName>Assistant U.S. Secretary of State</roleName>
 <placeName>Washington (D.C.)</placeName>
 <date when="1896-08-22"/>
@@ -110,6 +111,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-06" who="#kln">Review and edits.</change>
 <change when="2022-10-12" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -122,18 +124,15 @@
 
 <pb n="Roll6-2146.jpg"/>
 
+<note>Index Bureau Dept. of State Rec'd Aug 22 1896</note>
+
 <p>No 16.</p>
 
-<p>Consulate General of the United States,
-Monrovia, Liberia, June 27, 1896.</p>
+<p>Consulate General of the United States,<lb/>
+Monrovia, Liberia, June 27, 1896</p>
 
-<p><add>INDEX BUREAU
-REC'D.
-AUG 22 1896
-DEPT OF STATE</add></p>
-
-<p>Mr. Beverly Y. Payne,
-to the Department of State.</p>
+<p>Mr. Beverly Y. Payne,<lb/>
+To the Department of State.</p>
 
 <p>Subject:</p>
 
@@ -143,15 +142,16 @@ to the Department of State.</p>
 
 <p>No 16.</p>
 
-<p>Consulate General of the United States
-Monrovia, Liberia, June 27, 1896.</p>
+<p>Consulate General of the United States,<lb/>
+Monrovia, Liberia, June 27, 1896</p>
 
-<p>Honorable William W. Rockhill,
-Assistant Secretary of State,
-Washington D. C.</p>
+<p>Honorable William W. Rockhill,<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
 
-<p>Sir:
-I have the honor to acknwoledge
+<p>Sir:</p>
+
+<p>I have the honor to acknowledge
 receipt of your No 11, of April 30th
 last, enclosing a copy of a protest
 by O. A. Datow, Master of the Barkentine,
@@ -159,26 +159,25 @@ by O. A. Datow, Master of the Barkentine,
 interference with his vessel by a
 British cruiser &amp;c</p>
 
-<p>In reply I beg to say, that I am
+<p>In reply, I beg to say, that I am
 not in possession of any further
 information on the subject from
 our Consular Agent at Cape
-Coast, I have written him
+Coast. I have written him
 again, and if any is procured,
 it will be transmitted to the
 Department as soon as it
 is received.</p>
 
-<p>I have</p>
+<p><catchwords>I have</catchwords>
 
 <pb n="Roll6-2148.jpg"/>
 
-<p>I have the honor to be
-Sir:
-your obedient servant.</p>
-
-<p>Beverly Y. Payne,
-Vice Consul General</p>
+I have the honor to be<lb/>
+Sir:<lb/>
+Your obedient servant,<lb/>
+Beverly Y. Payne.<lb/>
+Vice Consul General.</p>
 
 </div1>
 
