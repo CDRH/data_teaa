@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,7 +42,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from Owen L. W. Smith to David J. Hill, October 18, 1899</title>
+<title level="a">Despatch from Owen L. W. Smith to David J. Hill</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
 <biblScope unit="roll">M-169, Roll 6</biblScope>
@@ -71,14 +72,16 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>McKinley, William</term>
+<term ref="http://viaf.org/viaf/39392209">McKinley, William, 1843-1901</term>
 <term>Merrell, John P.</term>
 </keywords>
     
 <keywords scheme="original" n="places">
-<term>Baffon Bay, Liberia</term>
-<term>Freetown, Sierra Leone</term>
-<term>Cape Palmas</term>
+<term>Baffin Bay (Liberia)</term>
+<term>Cape Mount (Liberia)</term>
+<term>Cape Palmas (Liberia)</term>
+<term>Freetown (Sierra Leone)</term>
+<term>Pernambuco (Brazil)</term>
 </keywords>
     
 <keywords scheme="original" n="powers">
@@ -113,6 +116,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-10" who="#kln">Review and edits.</change>
 <change when="2022-11-01" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -125,80 +129,77 @@
 
 <pb n="Roll6-3069.jpg"/>
 
-<p><add>INDEX BUREAU
-REC'D
-NOV 22 '99
-DEPT OF STATE</add></p>
+<note>Index Bureau Dept. of State Rec'd. Nov 22 '99</note>
 
-<p>No. 37, Consular Series.
-Legation of the United States,
-Monrovia Liberia, 
+<p>No. 37 bis, Consular Series.<lb/>
+Legation of the United States,<lb/>
+Monrovia Liberia,<lb/>
 Oct. 18, 1899.</p>
 
-<p>Owen L. W. Smith,
-To
-Hon. Thos. W. Cridler,
-Assistant Secretary of State,
+<p>Owen L. W. Smith,<lb/>
+To<lb/>
+Hon. David J. Hill,<lb/>
+Assistant Secretary of State,<lb/>
 Washington.</p>
 
-<p>Subject.
-The United States Cruiser,
+<p>Subject.</p>
+
+<p>The United States' Cruiser,
 Montgomery, in Liberian
 Waters.</p>
 
-<p>Synopsis.
-Reached Monrovia, Oct
+<p>Synopsis.</p>
+
+<p>Reached Monrovia, Oct
 14, 1899, and sailed
 Oct 18, 1899.</p>
 
 <pb n="Roll6-3070.jpg"/>
 
-<p>3</p>
-
-<p>No. 37. Consular Series
-Legation of the United States,
-Monrovia Liberia,
+<p>No. 37, Consular Series.<lb/>
+Legation of the United States,<lb/>
+Monrovia Liberia,<lb/>
 Oct. 18, 1899.</p>
 
-<p>Hon. David J. Hill,
-Assistant Secretary of State,
+<p>Hon. David J. Hill,<lb/>
+Assistant Secretary of State,<lb/>
 Washington.</p>
 
-<p>Sir:
-I have the honor to
+<p>Sir:</p>
+
+<p>I have the honor to
 transmit, herewith, the
 intelligence, that the United
 States' Cruiser Montgomery,
 John P. Merrell, Commander,
 from Pernambuco
 Brazil, reached this Port,
-Saturday afternoon Oct.,
+Saturday afternoon– Oct.,
 14, 1899. We arranged
 for and obtained an
 audience with His
 Excellency, the President of
-Liberia, and his cabinet,
+Liberia, and his Cabinet,
 at the Executive Mansion,
-at 3 oclock, p.m., on
+at 3, oclock, p.m., on
 Monday the 16th instant;
-with</p>
+<catchwords>with</catchwords>
 
 <pb n="Roll6-3071.jpg"/>
 
-<p>4</p>
-
-<p>with an adjourned conference
+with an adjourned conference,
 to Tuesday the 17th at
 2:15 p.m.</p>
 
 <p>The presence of an American
 Man of war, in Liberian
-waters, were highly gratifying; warmly received
-by the Liberian popular;
+waters, were highly gratifying; 
+warmly received
+by the Liberian <sic>populus</sic>;
 most hospitably entertained;
 and in company with
 the Minister Resident and
-Consul General; and the
+Consul-General; and the
 Secretary of the Legation,
 dined with His Excellency,
 the President and his Cabinet,
@@ -212,19 +213,17 @@ of the Republic of Liberia. Following
 which, His Excellency, in
 acknowledging the very cordial
 and friendly relations
-existing</p>
+<catchwords>existing</catchwords>
 
 <pb n="Roll6-3072.jpg"/>
 
-<p>5</p>
-
-<p>existing between the United
+existing between the United
 States and the Republic of
 Liberia, during the administration
 of President McKinley,
 proposed the health of His
 Excellency Wm. McKinley,
-thePresident of the United
+the President of the United
 States; which was responded
 to by the Minister Resident.</p>
 
@@ -234,15 +233,15 @@ Oct. 18, by way of Cape
 Mount, for Freetown,
 Sierra Leone, to coal;
 thence back, to Cape Palmas,
-by way of Baffon Bay
+by way of <sic>Baffon</sic> Bay
 Liberia.</p>
 
-<p>I have the honor to be
-your obedient servant;
-Owen L. W. Smith,
+<p>I have the honor to be<lb/>
+your obedient servant;<lb/>
+Owen L. W. Smith,<lb/>
 M. R. and C. General.</p>
 
-<p>Inclosure,
+<p>Inclosure.<lb/>
 Dispatch No. 38.</p>
     
 </div1>
