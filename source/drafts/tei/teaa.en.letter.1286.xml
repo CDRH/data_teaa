@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -162,8 +163,8 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Spurgeon, James Robert</persName>
-<roleName>U.S. Charge</roleName>
+<persName ref="http://viaf.org/viaf/53491744">Spurgeon, James Robert</persName>
+<roleName>U.S. Chargé d'Affaires</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1900-08-01"/>
 </correspAction>
@@ -178,6 +179,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-11" who="#kln">Review and edits.</change>
 <change when="2022-11-02" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -190,26 +192,18 @@
 
 <pb n="Roll6-3092.jpg"/>
 
-<p><add>DIPLOMATIC,
-SEP 7, 1900
-BUREAU</add></p>
+<note>Index Bureau Dept. of State Rec'd. 6 Sep 1900</note>
 
-<p>Legation of the United States,
-Monrovia Liberia, Aug. 1, 1900</p>
+<p>Legation of the United States,<lb/>
+Monrovia Liberia, Aug. 1, 1900.</p>
 
-<p><add>INDEX BUREAU
-REC'D.
-6 SEP 1900
-DEPT. OF STATE</add></p>
+<p>Honorable David J. Hill,<lb/>
+Assistant Secretary of State,<lb/>
+Washington, D.C.</p>
 
-<p><add><unclear></unclear></add></p>
+<p>Sir:</p>
 
-<p>Honorable David J. Hill,
-Assistant Secretary of State,
-Washington, D. C.</p>
-
-<p>Sir:
-I have the honor to
+<p>I have the honor to
 herewith transmit to the
 department two copies of the
 tariff laws and amendments
@@ -224,96 +218,200 @@ that one may remain with
 the department.</p>
 
 <p>I have the honor to
-remain, Sir,
-your obed't servant,
-James Robert Spungeon,
-Charge</p>
+remain, Sir,<lb/>
+Your obed't servant,<lb/>
+James Robert Spungeon,<lb/>
+Chargé</p>
 
 <p>Inclosures: As above recited.</p>
 
+</div1>
+
+<div1 xml:lang="en" type="document">
+
 <pb n="Roll6-3093.jpg"/>
 
-<p>TARIFF.</p>
+<head type="main">Tariff.</head>
 
-<p><gap reason="missing"/>ENACTED BY THE SENATE AND HOUSE
-<gap reason="missing"/>REPRESENTATIVES OF THE REPUBLIC
-<gap reason="missing"/>F LIBERIA IN LEGISLATURE ASSEM-
-BLED. APPROVED JANY 28TH
-1890 AND AMENDED JANY.
-21ST, 1893.</p>
+<head type="sub">Enacted by the Senate and House
+of Representatives of the Republic 
+of Liberia in Legislature Assembled.
+Approved Jany. 28th
+1890 and Amended Jany. 
+21st, 1893.</head>
 
-<p>ALL IMPORT DUTIES PAYABLE IN GOLD.</p>
+<p>All Import Duties Payable in Gold.</p>
 
 <p>Specific.</p>
 
-<p><gap reason="missing"/>fish per One hundred pounds <gap/> $1.00
-<gap reason="missing"/>ed '' Barl. <gap/> ''1.00
-<gap reason="missing"/> '' '' <gap/> ''1.25
-<gap reason="missing"/>Tongue per '' <gap/> ''2.00
-<gap reason="missing"/>eet and Head per Barl. <gap/>''1.00
-<gap reason="missing"/>per lb. <gap/> .01
-<gap reason="missing"/> '' '' <gap/> .02
-<gap reason="missing"/>ed Sausages per lb <gap/> .03
-<gap reason="missing"/>r (Brown) '' '' <gap/> .06
-<gap reason="missing"/>r (Refined) '' '' <gap/> .02
-<gap reason="missing"/>y Biscuits '' '' <gap/> .04
-<gap reason="missing"/>er '' '' <gap/> .06
-<gap reason="missing"/> <gap/> '' '' <gap/> .02
-<gap reason="missing"/>y Confectionery per lb <gap/>.05
-<gap reason="missing"/><gap/> per 100 lbs <gap/> .05
-<gap reason="missing"/><gap/> '' '' <gap/> .10
-<gap reason="missing"/><gap/>''112 '' <gap/> .25
-<gap reason="missing"/>mon Soap '' '' <gap/> .02
-<gap reason="missing"/>y Toilet Soap '' '' <gap/> .06
-<gap reason="missing"/>eh '' '' <gap/> .06
-<gap reason="missing"/><gap/>'' '' <gap/>.02
-<gap reason="missing"/>Kettles '' '' <gap/>.06
-<gap reason="missing"/>asses '' doz. <gap/> .25
-<gap reason="missing"/>powder '' lb <gap/>.05
-<gap reason="missing"/>sine '' gallon <gap/> .04
-<gap reason="missing"/>acco leaf '' lb <gap/>.05
-<gap reason="missing"/>ussion Guns'' each <gap/> .60
-<gap reason="missing"/>Lock '' '' <gap/> .40
-<gap reason="missing"/>and Spiders '' lb. <gap/>.01
-<gap reason="missing"/>ufactured Tobacco '' <gap/> .25
-<gap reason="missing"/>rs '' each <gap/> .01
-<gap reason="missing"/>rettes '' '' <gap/>.01/2
-<gap reason="missing"/>ber per foot <gap/> .01/2
-<gap reason="missing"/>plates not in sets per doz. <gap/>.12
-<gap reason="missing"/>ns not exceeding 12 in. per doz. <gap/>.12
-<gap reason="missing"/> '' 12 '' '' '' <gap/> .25
-<gap reason="missing"/>dy, Old Tom Gin, Jamaica Rum, Scotch or Irish Whiskey
-<gap reason="missing"/>other finer qualities of Alcoholic Liquors per gall. $1.00
-<gap reason="missing"/>mon Rum or Gin per Gallon <gap/> .75
-<gap reason="missing"/>e, Champagne, Cordial and all other Liquors or seet
-<gap reason="missing"/>per Gall. <gap/> $1.00
-<gap reason="missing"/>Ale, Stout Porter, Cherry WIne per gall. <gap/>.50</p>
+<table>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> fish per One hundred pounds</cell>
+<cell>$1.00</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> " Barl.</cell>
+<cell>" 1.00</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> " " </cell>
+<cell>" 1.25</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> Tongue per "</cell>
+<cell>" 2.00</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> feet and Head per Barl.</cell>
+<cell>" 1.00</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> per lb.</cell>
+<cell>.01</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> " "</cell>
+<cell>.02</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> Sausages per lb</cell>
+<cell>.03</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> (Brown) " "</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> (Refined) " "</cell>
+<cell>.02</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> Biscuits " "</cell>
+<cell>.04</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> " "</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> " "</cell>
+<cell>.02</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> Confectionery per lb</cell>
+<cell>.05</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> per 100 lbs</cell>
+<cell>.05</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> " "</cell>
+<cell>.10</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> " 112 "</cell>
+<cell>.25</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> Soap " "</cell>
+<cell>.02</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> Toilet Soap " "</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> " "</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> " "</cell>
+<cell>.02</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> Kettles " "</cell>
+<cell>.06</cell>
+</row>
+<row>
+<cell><gap extent="unknown" reason="incomplete image"/> " doz.</cell>
+<cell>.25</cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+<row>
+<cell></cell>
+<cell></cell>
+</row>
+</table>
 
 <p>Ad valorem.</p>
 
-<p><gap reason="missing"/>all other goods not enumerated in the foregoing there
-<gap reason="missing"/>leved and collected a duty of twelve and a half per cent
-<gap reason="missing"/>em. Transient trader not excepted.</p>
+<p>all other goods not enumerated in the foregoing there
+leved and collected a duty of twelve and a half per cent
+em. Transient trader not excepted.</p>
 
 <p>Free Goods.</p>
 
-<p><gap reason="missing"/>e, Lye, Thread, Agricultural Implements and machinery
-<gap reason="missing"/>inds (Billhooks and Cutlasses Excepted) Tools Sewing
-<gap reason="missing"/>nes, palm kernels and Coffee Bags, Shcoks, Hoop Iron,
-<gap reason="missing"/>, Tenter Hooks, Musical Instruments, Books for use of
-<gap reason="missing"/>n and Schools.</p>
+<p>e, Lye, Thread, Agricultural Implements and machinery
+inds (Billhooks and Cutlasses Excepted) Tools Sewing
+nes, palm kernels and Coffee Bags, Shcoks, Hoop Iron,
+, Tenter Hooks, Musical Instruments, Books for use of
+n and Schools.</p>
 
 <p>Export Tariff</p>
 
-<p><gap reason="missing"/>Export duties payable in Gold or Curency except that on
-<gap reason="missing"/>r and Gutta Percha which is payable in Gold.
-<gap reason="missing"/>n oil <gap/> per gall. <gap/> $.01
-<gap reason="missing"/>kernels <gap/>'' bus. <gap/>.02
-<gap reason="missing"/>wood <gap/>''Ton <gap/>3.50
-<gap reason="missing"/>ber and Gutta percha per lb. <gap/> .06
-<gap reason="missing"/>y <gap/>'' '' <gap/> .05
-<gap reason="missing"/>articles of produce not herein mentioned shall pay no Ex-
-<gap reason="missing"/>nty.</p>
+<p>Export duties payable in Gold or Curency except that on
+r and Gutta Percha which is payable in Gold.
+n oil <gap/> per gall. <gap/> $.01
+kernels <gap/>'' bus. <gap/>.02
+wood <gap/>''Ton <gap/>3.50
+ber and Gutta percha per lb. <gap/> .06
+y <gap/>'' '' <gap/> .05
+articles of produce not herein mentioned shall pay no Ex-
+nty.</p>
 
 <p>ISSUED BY AUTHORITY.</p>
 

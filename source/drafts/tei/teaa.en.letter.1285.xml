@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Byrd, Samantha" xml:id="slb">Samantha Byrd</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 </titleStmt>
 
@@ -41,10 +42,11 @@
 
 <sourceDesc>
 <bibl>
-<title level="a">Despatch from James Robert Spurgeon to David J. Hill, May 14, 1900</title>
+<title level="a">Despatch from James Robert Spurgeon to David J. Hill</title>
 <title level="m" type="microformat">Despatches from United States Consuls in Monrovia, 1852-1906</title>
 <publisher>National Archives and Records Administration</publisher>
-<biblScope unit="microfilm">M169, Roll 6</biblScope>
+<biblScope unit="microfilm">M169</biblScope>
+<biblScope unit="roll">6</biblScope>
 <date when="1900-05-14">May 14, 1900</date>
 </bibl>
 </sourceDesc>
@@ -71,8 +73,8 @@
 </keywords>    
     
 <keywords scheme="viaf" n="people">
-<term>Taylor, Julius C.</term>
 <term>Ketter, Isaac</term>
+<term>Taylor, Julius C.</term>
 <term>Wilson, S. L.</term>
 </keywords>
     
@@ -96,8 +98,8 @@
 
 <correspDesc>
 <correspAction type="sentBy">
-<persName>Spurgeon, James Robert</persName>
-<roleName>U.S. Charge</roleName>
+<persName ref="http://viaf.org/viaf/53491744">Spurgeon, James Robert</persName>
+<roleName>U.S. Chargé d'Affaires</roleName>
 <placeName>Monrovia (Liberia)</placeName>
 <date when="1900-05-14"/>
 </correspAction>
@@ -112,6 +114,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2023-11" who="#kln">Review and edits.</change>
 <change when="2022-11-02" who="#slb">Transcription and encoding.</change>
 </revisionDesc>
 </teiHeader>
@@ -124,23 +127,22 @@
 
 <pb n="Roll6-3089.jpg"/>
 
-<p>No. 46, Consular Series.
-Legation of the United States,
-Monrovia Liberia, May 14, 1900.</p>
+<p>No. 46, Consular Series,<lb/>
+Legation of the United States,<lb/>
+Monrovia, Liberia, May 14, 1900.</p>
 
-<p><add>3rd ASST. SECRETARY
-JUN 19 1900</add></p>
-
-<p>Mr. James Robert Spurgeon,
-to 
-Hon. David J. Hill, Asst. Secty of State
+<p>Mr. James Robert Spurgeon,<lb/>
+To<lb/> 
+Hon. David J. Hill, Asst. Secty of State,<lb/>
 Washington.</p>
 
-<p>Subject.
-U.S. Pensioner's mail robbed.</p>
+<p>Subject.</p>
 
-<p>Synopsis.
-Isaac Ketter, pension certificate
+<p>U.S. Pensioner's mail robbed.</p>
+
+<p>Synopsis.</p>
+
+<p>Isaac Ketter, pension certificate
 #54773 and Julius C. Taylor,
 pension certificate #909720
 not having received their returns
@@ -149,21 +151,19 @@ which discloses the fact that
 their checks had be extracted
 from the envelope etc.</p>
 
-<p><add>Consular Bureau.
-JUN 20 1900</add></p>
-
 <pb n="Roll6-3090.jpg"/>
 
-<p>No. 46, Consular Series.
-Legation of the United States,
-Monrovia, Liberia May 14, 1900.</p>
+<p>No. 46, Consular Series,<lb/>
+Legation of the United States,<lb/>
+Monrovia, Liberia, May 14, 1900.</p>
 
-<p>Honorable David J. Hill,
-Asst. Secretary of State,
+<p>Honorable David J. Hill,<lb/>
+Asst. Secretary of State,<lb/>
 Washington, D.C.</p>
 
-<p>Sir:
-I have the honor to inform
+<p>Sir:</p>
+
+<p>I have the honor to inform
 you that the mail from Mr. S. L.
 Wilson United States Pension Agent
 at Washington, containing checks
@@ -172,29 +172,29 @@ and vouchers for Pensioners
 in Liberia has been repeatedly
 tampered with from time to time.
 Sometimes Pensioners would
-receive the envelope contianing
+receive the envelope containing
 the voucher but the check
 would be missing. During
 the Past two months there has
 been repeated inquiries as to
 the reason of Pensioners not
 having received any returns
-at all from the Pension Agent.</p>
+at all from the Pension Agent.
 
 <pb n="Roll6-3091.jpg"/>
 
-<p>It appears now that we have
-a clue to the matter. An
+It appears now that we have
+a <sic>clew</sic> to the matter. An
 under clerk in the local post
 office is suspected and he has
 left for parts as yet unknown.
-We do not know to what <unclear></unclear>
+We do not know to what extent
 this robbery of the mail has
-gone on but of the pensioners
+gone on but of the pensioners,
 Isaac Ketter, certificate 54,773
 and Julius C. Taylor 909,720
 certificate appear to be the
-known loosers. They
+known <sic>loosers</sic>. They
 employed attorneys and
 instituted an investigation.
 The result is they are on the
@@ -210,10 +210,10 @@ and sealed officially. There is
 great regard here for a letter
 impressed with the U.S. seal.</p>
 
-<p>I have the honor to be, sir,
-your obedient servant,
-James Rob't Spurgeon
-Charge.</p>
+<p>I have the honor to be, sir,<lb/>
+Your obedient servant,<lb/>
+James Rob't Spurgeon<lb/>
+Chargé.</p>
     
 </div1>
 
