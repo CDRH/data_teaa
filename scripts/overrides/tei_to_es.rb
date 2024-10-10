@@ -56,7 +56,7 @@ class TeiToEs
   # do something after pulling the fields
   def preprocessing
     people_file_location = File.join(@options["collection_dir"], "source/csv/personography.csv")
-    @people = CSV.read(people_file_location, {
+    @people = CSV.read(people_file_location, **{
       encoding: "utf-8",
       headers: true,
       return_headers: true
@@ -107,7 +107,7 @@ class TeiToEs
     list = []
     #people_in_doc = get_list(@xpaths["person"])
 
-    people_in_doc = get_list(@xpaths["person"]) + get_list(@xpaths["sender"]) + get_list(@xpaths["recipient"]) + get_list(@xpaths["creator"])
+    people_in_doc = get_list(@xpaths["person"]).to_a + get_list(@xpaths["sender"]).to_a + get_list(@xpaths["recipient"]).to_a + get_list(@xpaths["creator"]).to_a
 
 
 
@@ -135,17 +135,17 @@ class TeiToEs
 
   def build_format
     formats = get_elements(@xpaths["bibliography"]).map do |ele|
-      if (get_text("bibl/title/@level", xml: ele).include? "a") && (get_text("bibl/title/@level", xml: ele).include? "m")
-      	if (get_text("bibl/title[@level='m']/@type", xml: ele).include? "main")
+      if (get_text("bibl/title/@level", xml: ele).to_s.include? "a") && (get_text("bibl/title/@level", xml: ele).to_s.include? "m")
+      	if (get_text("bibl/title[@level='m']/@type", xml: ele).to_s.include? "main")
       		"book"
-      	elsif (get_text("bibl/title[@level='a']/@type", xml: ele).include? "main")
+      	elsif (get_text("bibl/title[@level='a']/@type", xml: ele).to_s.include? "main")
       		"other"
       	elsif get_text(@xpaths["subcategory"]) == "Despatches"
         	"despatch"
         else
           "no format defined"
         end
-      elsif (get_text("bibl/title/@level", xml: ele).include? "a") && (get_text("bibl/title/@level", xml: ele).include? "j")
+      elsif (get_text("bibl/title/@level", xml: ele).to_s.include? "a") && (get_text("bibl/title/@level", xml: ele).to_s.include? "j")
         "article"
       else
         "no format defined"
@@ -209,7 +209,6 @@ class TeiToEs
   end
 
   def call_analysis_file(filename)
-
     analysis_xml_file = @options["collection_dir"] + "/source/analysis/" + filename + ".xml"
 
     if (File.exist?(analysis_xml_file))
@@ -223,7 +222,7 @@ class TeiToEs
   end
 
   def text
-    analysis = get_text(@xpaths["analysis_file"])
+    analysis = get_text(@xpaths["analysis_file"]).to_s
     # puts analysis
     analysis_text = call_analysis_file(analysis)
 
