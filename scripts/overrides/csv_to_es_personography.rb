@@ -43,7 +43,7 @@ class CsvToEsPersonography < CsvToEs
     "People"
   end
 
-  def subcategory
+  def category2
     "Person"
   end
 
