@@ -8,13 +8,16 @@ default:
 
 threads: 20
 development:
-  es_path: https://cdrhdev1.unl.edu/elastic
-  es_index: cdrhapidev-v1
-  site_url: https://cdrhdev1.unl.edu/teaa
+  es_path: https://servername.unl.edu/elastic
+  es_index: cdrhapidev-v2
+  site_url: https://servername.unl.edu/teaa
+  media_base: https://servername.unl.edu
+  data_base: https://servername.unl.edu/media
+  
 production:
   site_url: https://africafromamerica.unl.edu
   es_path: https://cdrhapi.unl.edu/elastic
-  es_index: cdrhapi-v1
+  es_index: cdrhapi-v2
 
 # this is for generating plain text files per Katrina's request
 # run with `post -x html -e text`
