@@ -7,11 +7,11 @@ class CsvToEsGallery < CsvToEs
     return array.map { |i| i.to_s }.join(sep)
   end
 
-  def build_image_id
-    built_image_id = []
-    built_image_id << @row["identifier"]
-    built_image_id << ".jpg"
-    return array_to_string(built_image_id,"")
+  def build_cover_image
+    built_cover_image = []
+    built_cover_image << @row["identifier"]
+    built_cover_image << ".jpg"
+    return array_to_string(built_cover_image,"")
   end
 
 
@@ -30,7 +30,7 @@ class CsvToEsGallery < CsvToEs
   def assemble_collection_specific
     @json["ethnicgroup_k"] = ethnicgroup_data
     @json["pages_k"] = page_data
-    @json["format_k"] = "image"
+    #@json["format_k"] = "image"
   end
 
   # ethnic groups go in ethnicgroup_k field
@@ -67,20 +67,24 @@ class CsvToEsGallery < CsvToEs
   end
   # end themes
   
-  def image_id
-    build_image_id
+  def cover_image
+    build_cover_image
   end
 
   def category
       "Gallery"
   end
 
-  def subcategory
+  def category2
       @row["subtype"].capitalize()
   end
 
   def date_display
       @row["date_display"]
+  end
+
+  def format
+    "image"
   end
 
   # person, creator.name
@@ -114,9 +118,9 @@ class CsvToEsGallery < CsvToEs
     end
   end
 
-  def source
+  def has_source
     if @row["source"]
-      @row["source"]
+      { "title" => @row["source"] }
     end
   end
 

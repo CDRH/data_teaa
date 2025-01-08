@@ -56,7 +56,7 @@ class TeiToEs
   # do something after pulling the fields
   def preprocessing
     people_file_location = File.join(@options["collection_dir"], "source/csv/personography.csv")
-    @people = CSV.read(people_file_location, {
+    @people = CSV.read(people_file_location, **{
       encoding: "utf-8",
       headers: true,
       return_headers: true
@@ -78,16 +78,16 @@ class TeiToEs
     @json["religion_k"] = get_list(@xpaths["religion"])
     @json["person_selected_k"] = build_selected_person
     @json["person_sender_k"] = build_sender
-    
-    @json["format_k"] = build_format
-    @json["title_a_k"] = get_text(@xpaths["title_a"])
-    @json["title_m_k"] = get_text(@xpaths["title_m"])
-    @json["title_j_k"] = get_text(@xpaths["title_j"])
+    # some of the below moved to citation field
+    # @json["title_a_k"] = get_text(@xpaths["title_a"])
+    # @json["title_m_k"] = get_text(@xpaths["title_m"])
+    # @json["title_j_k"] = get_text(@xpaths["title_j"])
     @json["author_cite_k"] = get_text(@xpaths["creator"])
-    @json["volume_k"] = get_text(@xpaths["volume"])
-    @json["pages_k"] = get_text(@xpaths["pages"])
-    @json["issue_k"] = get_text(@xpaths["issue"])
-    @json["pub_place_k"] = get_text(@xpaths["pub_place"])
+    #@json["volume_k"] = get_text(@xpaths["volume"])
+    #@json["pages_k"] = get_text(@xpaths["pages"])
+    #@json["issue_k"] = get_text(@xpaths["issue"])
+    #@json["pub_place_k"] = get_text(@xpaths["pub_place"])
+    # date field could be moved to citation field but 
     @json["pub_date_k"] = get_text(@xpaths["pub_date"])
     @json["pub_date2_k"] = get_text(@xpaths["pub_date2"])
   end
@@ -107,7 +107,7 @@ class TeiToEs
     list = []
     #people_in_doc = get_list(@xpaths["person"])
 
-    people_in_doc = get_list(@xpaths["person"]) + get_list(@xpaths["sender"]) + get_list(@xpaths["recipient"]) + get_list(@xpaths["creator"])
+    people_in_doc = get_list(@xpaths["person"]).to_a + get_list(@xpaths["sender"]).to_a + get_list(@xpaths["recipient"]).to_a + get_list(@xpaths["creator"]).to_a
 
 
 
@@ -135,17 +135,17 @@ class TeiToEs
 
   def build_format
     formats = get_elements(@xpaths["bibliography"]).map do |ele|
-      if (get_text("bibl/title/@level", xml: ele).include? "a") && (get_text("bibl/title/@level", xml: ele).include? "m")
-      	if (get_text("bibl/title[@level='m']/@type", xml: ele).include? "main")
+      if (get_text("bibl/title/@level", xml: ele).to_s.include? "a") && (get_text("bibl/title/@level", xml: ele).to_s.include? "m")
+      	if (get_text("bibl/title[@level='m']/@type", xml: ele).to_s.include? "main")
       		"book"
-      	elsif (get_text("bibl/title[@level='a']/@type", xml: ele).include? "main")
+      	elsif (get_text("bibl/title[@level='a']/@type", xml: ele).to_s.include? "main")
       		"other"
       	elsif get_text(@xpaths["subcategory"]) == "Despatches"
         	"despatch"
         else
           "no format defined"
         end
-      elsif (get_text("bibl/title/@level", xml: ele).include? "a") && (get_text("bibl/title/@level", xml: ele).include? "j")
+      elsif (get_text("bibl/title/@level", xml: ele).to_s.include? "a") && (get_text("bibl/title/@level", xml: ele).to_s.include? "j")
         "article"
       else
         "no format defined"
@@ -158,14 +158,31 @@ class TeiToEs
   #    Field Builders    #
   ########################
 
-  def source
-    build_source
+  def has_source
+    {
+      "title" => build_source
+    }
+  end
+
+  def citation
+    {
+      "title_a" => get_text(@xpaths["title_a"]),
+      "title_m" => get_text(@xpaths["title_m"]),
+      "title_j" => get_text(@xpaths["title_j"]),
+      "volume" => get_text(@xpaths["volume"]),
+      "page_start" => get_text(@xpaths["pages"]),
+      "issue" => get_text(@xpaths["issue"]),
+      "place" => get_text(@xpaths["pub_place"]),
+      "publisher" => get_text(@xpaths["publisher"])
+      # omitting date for now because it's not possible to parse all values
+      # "date" => Datura::Helpers.date_standardize(get_text(@xpaths["pub_date"]), false)
+    }
   end
 
   def person
     combined_people_array = get_elements(@xpaths["person"]) + get_elements(@xpaths["sender"]) + get_elements(@xpaths["recipient"]) + get_elements(@xpaths["creator"])
     eles = combined_people_array.map do |p|
-      if (get_text(".", xml: p) != "" && get_text(".", xml: p) != nil)
+      if (get_text(".", xml: p) != nil && get_text(".", xml: p) != nil)
         {
           "id" => get_text("@ref", xml: p),
           "name" => get_text(".", xml: p),
@@ -182,7 +199,7 @@ class TeiToEs
   def recipient
     eles = get_elements(@xpaths["recipient"]).map do |p|
       persname = get_text(".", xml: p)
-      if persname != ""
+      if persname != nil
         {
           "id" => get_text("@id", xml: p),
           "name" => persname,
@@ -198,9 +215,9 @@ class TeiToEs
     #format_k = build_format
     title_j = get_text(@xpaths["title_j"])
     title_m = get_text(@xpaths["title_m"])
-    if title_j != ""
+    if title_j != nil
       source = title_j
-    elsif title_m != ""
+    elsif title_m != nil
       source = title_m
     else
       source = "No source defined"
@@ -209,7 +226,6 @@ class TeiToEs
   end
 
   def call_analysis_file(filename)
-
     analysis_xml_file = @options["collection_dir"] + "/source/analysis/" + filename + ".xml"
 
     if (File.exist?(analysis_xml_file))
@@ -222,8 +238,12 @@ class TeiToEs
 
   end
 
+  def format
+    build_format
+  end
+
   def text
-    analysis = get_text(@xpaths["analysis_file"])
+    analysis = get_text(@xpaths["analysis_file"]).to_s
     # puts analysis
     analysis_text = call_analysis_file(analysis)
 
@@ -247,6 +267,18 @@ class TeiToEs
     # text_all << CommonXml.convert_tags_in_string(body)
     text_all += text_additional
     Datura::Helpers.normalize_space(text_all.join(" "))
+  end
+
+  def spatial
+    places = []
+    if get_list(@xpaths["places"])
+      get_list(@xpaths["places"]).each do |place|
+        places << {
+          "short_name" => place
+        }
+      end
+    end
+    places
   end
 
 end
