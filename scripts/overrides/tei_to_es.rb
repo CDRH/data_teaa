@@ -180,9 +180,9 @@ class TeiToEs
   end
 
   def person
-    combined_people_array = get_elements(@xpaths["person"]) + get_elements(@xpaths["sender"]) + get_elements(@xpaths["recipient"]) + get_elements(@xpaths["creator"])
+    combined_people_array = get_elements(@xpaths["person"]) + get_elements(@xpaths["sender"]) + get_elements(@xpaths["creator"])
     eles = combined_people_array.map do |p|
-      if (get_text(".", xml: p) != nil && get_text(".", xml: p) != nil)
+      if (get_text(".", xml: p) != nil)
         {
           "id" => get_text("@ref", xml: p),
           "name" => get_text(".", xml: p),
@@ -192,11 +192,11 @@ class TeiToEs
         next
       end
     end
-
+    eles.concat(build_recipient)
     eles.uniq.compact
   end
 
-  def recipient
+  def build_recipient
     eles = get_elements(@xpaths["recipient"]).map do |p|
       persname = get_text(".", xml: p)
       if persname != nil
