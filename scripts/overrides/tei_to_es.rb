@@ -165,8 +165,6 @@ class TeiToEs
   end
 
   def citation
-    puts get_text(@xpaths["pub_date"])
-    puts Datura::Helpers.date_standardize(get_text(@xpaths["pub_date"]), false)
     {
       "title_a" => get_text(@xpaths["title_a"]),
       "title_m" => get_text(@xpaths["title_m"]),
