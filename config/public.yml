@@ -1,4 +1,5 @@
 default:
+  api_version: "2.0"
   collection: teaa
   collection_desc: To Enter Africa From America
   tei_html_xsl: scripts/overrides/tei_to_html.xsl
@@ -13,7 +14,7 @@ development:
   site_url: https://servername.unl.edu/teaa
   media_base: https://servername.unl.edu
   data_base: https://servername.unl.edu/media
-  
+
 production:
   site_url: https://africafromamerica.unl.edu
   es_path: https://cdrhapi.unl.edu/elastic
