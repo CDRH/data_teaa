@@ -192,11 +192,11 @@ class TeiToEs
         next
       end
     end
-
+    eles.concat(build_recipient)
     eles.uniq.compact
   end
 
-  def recipient
+  def build_recipient
     eles = get_elements(@xpaths["recipient"]).map do |p|
       persname = get_text(".", xml: p)
       if persname != nil
