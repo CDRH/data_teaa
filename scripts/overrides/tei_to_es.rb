@@ -180,7 +180,7 @@ class TeiToEs
   end
 
   def person
-    combined_people_array = get_elements(@xpaths["person"]) + get_elements(@xpaths["sender"]) + get_elements(@xpaths["recipient"]) + get_elements(@xpaths["creator"])
+    combined_people_array = get_elements(@xpaths["person"]) + get_elements(@xpaths["sender"]) + get_elements(@xpaths["creator"])
     eles = combined_people_array.map do |p|
       if (get_text(".", xml: p) != nil)
         {
